@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Amazon on Chris Short</title>
+    <link>https://chrisshort.net/tags/amazon/</link>
+    <description>Recent content in Amazon on Chris Short</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <managingEditor>chris@chrisshort.net (Chris Short)</managingEditor>
+    <webMaster>chris@chrisshort.net (Chris Short)</webMaster>
+    <lastBuildDate>Tue, 14 Jun 2016 17:18:30 +0000</lastBuildDate>
+    
+	<atom:link href="https://chrisshort.net/tags/amazon/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Low Cost Content Delivery Network (CDN)</title>
+      <link>https://chrisshort.net/post/low-cost-content-delivery-network-cdn/</link>
+      <pubDate>Tue, 14 Jun 2016 17:18:30 +0000</pubDate>
+      <author>chris@chrisshort.net (Chris Short)</author>
+      <guid>https://chrisshort.net/post/low-cost-content-delivery-network-cdn/</guid>
+      <description>A content delivery network (CDN) provides a service that enables public facing, web based responsive access to said resources in an effort to maintain a good user experience across the planet. A CDN provides a localized cache (copy) of your web site and its content closer to end users. CDNs leverage local data centers closer to end users and a little DNS magic to make this work. CDNs help their customers have a significantly smaller infrastructure footprint while maintaining fast load time for services provided.</description>
+    </item>
+    
+  </channel>
+</rss>

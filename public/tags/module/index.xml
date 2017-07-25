@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Module on Chris Short</title>
+    <link>https://chrisshort.net/tags/module/</link>
+    <description>Recent content in Module on Chris Short</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <managingEditor>chris@chrisshort.net (Chris Short)</managingEditor>
+    <webMaster>chris@chrisshort.net (Chris Short)</webMaster>
+    <lastBuildDate>Tue, 06 Sep 2016 16:30:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://chrisshort.net/tags/module/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>lineinfile be damned</title>
+      <link>https://chrisshort.net/post/lineinfile-be-damned/</link>
+      <pubDate>Tue, 06 Sep 2016 16:30:00 +0000</pubDate>
+      <author>chris@chrisshort.net (Chris Short)</author>
+      <guid>https://chrisshort.net/post/lineinfile-be-damned/</guid>
+      <description>The Ansible lineinfile module is designed to search a file for a line, and ensure that it is present or absent. lineinfile is very effective at that particular task. However, when the line has to be in a certain place or before or after a certain line, lineinfile becomes a hassle to manage.
+   (adsbygoogle = window.adsbygoogle || []).push({});  Most people on IRC (#ansible) tend to agree, lineinfile is not a very good module in practice.</description>
+    </item>
+    
+  </channel>
+</rss>

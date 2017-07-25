@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ansible Vault on Chris Short</title>
+    <link>https://chrisshort.net/tags/ansible-vault/</link>
+    <description>Recent content in Ansible Vault on Chris Short</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <managingEditor>chris@chrisshort.net (Chris Short)</managingEditor>
+    <webMaster>chris@chrisshort.net (Chris Short)</webMaster>
+    <lastBuildDate>Sat, 17 Oct 2015 07:53:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://chrisshort.net/tags/ansible-vault/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Using Ansible Vault Effectively</title>
+      <link>https://chrisshort.net/post/using-ansible-vault-effectively/</link>
+      <pubDate>Sat, 17 Oct 2015 07:53:00 +0000</pubDate>
+      <author>chris@chrisshort.net (Chris Short)</author>
+      <guid>https://chrisshort.net/post/using-ansible-vault-effectively/</guid>
+      <description>Ansible is a great orchestration tool. The low barrier to entry and simplicity of Ansible are why so many people that start using it love it. But there is one feature in Ansible that probably should be used more often. That feature is Ansible Vault.
+   (adsbygoogle = window.adsbygoogle || []).push({});   “Vault” is a feature of ansible that allows keeping sensitive data such as passwords or keys in encrypted files, rather than as plaintext in your playbooks or roles.</description>
+    </item>
+    
+    <item>
+      <title>Grep Multiple Ansible Vault Files</title>
+      <link>https://chrisshort.net/post/grep-multiple-ansible-vault-files/</link>
+      <pubDate>Tue, 22 Sep 2015 23:56:00 +0000</pubDate>
+      <author>chris@chrisshort.net (Chris Short)</author>
+      <guid>https://chrisshort.net/post/grep-multiple-ansible-vault-files/</guid>
+      <description>Here&amp;rsquo;s a handy one-liner to grep multiple Ansible Vault files (like group_vars). All you need is an Ansible Vault password file (outside of your configuration repo, please) and a little bash.
+   (adsbygoogle = window.adsbygoogle || []).push({});  ls -1 | while read N ; do echo -n $N: ; ansible-vault --vault-password-file ~/.ansible_vault view $N | grep  ; done </description>
+    </item>
+    
+  </channel>
+</rss>

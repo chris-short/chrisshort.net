@@ -1,0 +1,812 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Chris Short</title>
+    <link>https://chrisshort.net/post/</link>
+    <description>Recent content in Posts on Chris Short</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <managingEditor>chris@chrisshort.net (Chris Short)</managingEditor>
+    <webMaster>chris@chrisshort.net (Chris Short)</webMaster>
+    <lastBuildDate>Sat, 22 Jul 2017 22:23:32 +0000</lastBuildDate>
+    
+	<atom:link href="https://chrisshort.net/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Testing Certificate Chains in Go</title>
+      <link>https://chrisshort.net/post/testing-certificate-chains-in-go/</link>
+      <pubDate>Sat, 22 Jul 2017 22:23:32 +0000</pubDate>
+      <author>chris@chrisshort.net (Chris Short)</author>
+      <guid>https://chrisshort.net/post/testing-certificate-chains-in-go/</guid>
+      <description>This talk was derived from an opensource.com article I wrote in April 2017, Golang to the rescue: Saving DevOps from TLS turmoil. Presented at GopherCon 2017 as a Lightning Talk. Source for the talk is available on GitHub.
+Introduction Chris Short
+ Manager of DevOps at Bankrate opensource.com and DZone Contributor Contributed to The Open Organization Guide to IT Culture Change DevOpsDays Speaker and Organizer DevOps&amp;rsquo;ish chrisshort.net @ChrisShort  Notes:</description>
+    </item>
+    
+    <item>
+      <title>The Open Organization Guide to IT Culture Change</title>
+      <link>https://chrisshort.net/post/the-open-organization-guide-to-it-culture-change/</link>
+      <pubDate>Tue, 06 Jun 2017 12:00:00 +0000</pubDate>
+      <author>chris@chrisshort.net (Chris Short)</author>
+      <guid>https://chrisshort.net/post/the-open-organization-guide-to-it-culture-change/</guid>
+      <description>The open organization community at Opensource.com (of which I&amp;rsquo;m a member) is pleased to announce the immediate release of its newest book, The Open Organization Guide to IT Culture Change.
+As IT teams around the world rise to these new challenges, they&amp;rsquo;re realizing that radical change isn&amp;rsquo;t a matter of tools alone. It&amp;rsquo;s also a matter of culture—the values that underpin behaviors, influence problem-solving capability, and facilitate truly revolutionary potential. Those values are open values.</description>
+    </item>
+    
+    <item>
+      <title>Breaking Encryption Won&#39;t Make Us Safer</title>
+      <link>https://chrisshort.net/post/breaking-encryption-wont-make-us-safer/</link>
+      <pubDate>Mon, 05 Jun 2017 22:26:47 +0000</pubDate>
+      <author>chris@chrisshort.net (Chris Short)</author>
+      <guid>https://chrisshort.net/post/breaking-encryption-wont-make-us-safer/</guid>
+      <description>The British government wants to build backdoors into standard encryption libraries. This means the technology that protects your financial transactions could have a backdoor. These same backdoors were just exploited in the WannaCry outbreak that just took down the NHS. Who created that backdoor? The NSA, whose incompetence allowed this &amp;ldquo;tool&amp;rdquo; to fall into the hands of a Russian government-affiliated hacking group.
+You don&amp;rsquo;t do anything illegal? Great! You do have a bank account, right?</description>
+    </item>
+    
+    <item>
+      <title>Leaving North Carolina</title>
+      <link>https://chrisshort.net/post/leaving-north-carolina/</link>
+      <pubDate>Thu, 01 Jun 2017 19:07:21 +0000</pubDate>
+      <author>chris@chrisshort.net (Chris Short)</author>
+      <guid>https://chrisshort.net/post/leaving-north-carolina/</guid>
+      <description>I have accepted the position as Manager, Infrastructure &amp;amp; Operations at Bankrate in Detroit. Julie, Max, Sunny, and I will begin moving to Michigan in mid-June! I will be leading DevOps efforts as the Bankrate team transitions software stacks and moves from on-premise data centers to the cloud. I am beyond excited about the position and the work I will be doing.
+Making the decision to leave North Carolina did not come easily.</description>
+    </item>
+    
+    <item>
+      <title>A Night of DevOps at Open Source South Carolina</title>
+      <link>https://chrisshort.net/post/night-of-devops-open-source-sc/</link>
+      <pubDate>Tue, 30 May 2017 22:46:35 +0000</pubDate>
+      <author>chris@chrisshort.net (Chris Short)</author>
+      <guid>https://chrisshort.net/post/night-of-devops-open-source-sc/</guid>
+      <description>On Tuesday, May 23, 2017, I did a DevOps talk at Open Source South Carolina. The talk was a DevOps 101-styled deep dive into DevOps. Since the number one question I get when talking about DevOps, in general, is &amp;ldquo;where do I start?&amp;rdquo; I added my &amp;ldquo;The Three Things&amp;rdquo; to the already well known &amp;ldquo;Three Ways&amp;rdquo;. This provided both the holistic view while guiding people needed an extra nudge down the DevOps path.</description>
+    </item>
+    
+    <item>
+      <title>&#34;Good SysAdmin to DevOps Engineer in Six Months&#34;</title>
+      <link>https://chrisshort.net/post/sysadmin-to-devops-six-months/</link>
+      <pubDate>Thu, 11 May 2017 12:04:00 +0000</pubDate>
+      <author>chris@chrisshort.net (Chris Short)</author>
+      <guid>https://chrisshort.net/post/sysadmin-to-devops-six-months/</guid>
+      <description>The other day my Vice President asked me a question, &amp;ldquo;What would it take to turn a good SysAdmin into a DevOps engineer?&amp;rdquo; He followed it up with, &amp;ldquo;Don&amp;rsquo;t spend more than ten minutes thinking about it.&amp;rdquo; He was not disappointed when I told him the next day I am spending way more than ten minutes on answering the question. This is a hard question for me to answer. This is a question that you won&amp;rsquo;t know if your answer is right for at least six months.</description>
+    </item>
+    
+    <item>
+      <title>The Dark Side of DevOps</title>
+      <link>https://chrisshort.net/post/the-dark-side-of-devops/</link>
+      <pubDate>Fri, 10 Mar 2017 12:02:00 +0000</pubDate>
+      <author>chris@chrisshort.net (Chris Short)</author>
+      <guid>https://chrisshort.net/post/the-dark-side-of-devops/</guid>
+      <description>Disclaimer: These are real world experiences I have had within organizations that I have been employed by. Identifying information is intentionally anonymous. If you read this and think you are one of the teammates please keep that to yourself for the sake of others.
+A lot of people think that DevOps, Cloud Native, Agile, GROWS, etc. are all rainbows and roses. You start small and work your way up to full blown operations or you decide as an organizational unit to change.</description>
+    </item>
+    
+    <item>
+      <title>Why I&#39;m Giving Up Content Blockers</title>
+      <link>https://chrisshort.net/post/why-im-giving-up-content-blockers/</link>
+      <pubDate>Thu, 09 Feb 2017 12:02:00 +0000</pubDate>
+      <author>chris@chrisshort.net (Chris Short)</author>
+      <guid>https://chrisshort.net/post/why-im-giving-up-content-blockers/</guid>
+      <description>Since the release of Apple&amp;rsquo;s iOS 9, iPhone and iPad owners are able to install content blockers. These content blockers are often referred to as ad blockers. Providing content blocking functionality through third party apps is a reasonable request. Apple has had this functionality in iOS since 16 September 2015. As a user of content blockers on the desktop, I jumped at the opportunity to install one on my mobile devices.</description>
+    </item>
+    
+    <item>
+      <title>Recent Accomplishments</title>
+      <link>https://chrisshort.net/post/recent-accomplishments/</link>
+      <pubDate>Fri, 03 Feb 2017 13:03:00 +0000</pubDate>
+      <author>chris@chrisshort.net (Chris Short)</author>
+      <guid>https://chrisshort.net/post/recent-accomplishments/</guid>
+      <description>I feel like I should say I don&amp;rsquo;t like to toot my own horn. But, if I don&amp;rsquo;t toot it who will? December and January were very busy months for me and February is definitely going to be busy. You should always be working outside your personal and professional comfort zones.
+Last month, a DZone editor reached out to me asking to write a piece for the DZone DevOps: Continuous Delivery and Automation guide.</description>
+    </item>
+    
+    <item>
+      <title>Find EC2 Instances That Are Missing Tags</title>
+      <link>https://chrisshort.net/post/find-ec2-instances-that-are-missing-tags/</link>
+      <pubDate>Thu, 26 Jan 2017 21:37:04 +0000</pubDate>
+      <author>chris@chrisshort.net (Chris Short)</author>
+      <guid>https://chrisshort.net/post/find-ec2-instances-that-are-missing-tags/</guid>
+      <description>The team here was trying to align AWS resources for billing by using Tags. Seems easy enough but we were having issues trying to figure out which EC2 instances were not tagged. We also wanted to find EC2 instances that are missing a ROLE tag. We searched high and low and found that several people needed a solution. We tried to cobble something together with the AWS CLI and then Ansible.</description>
+    </item>
+    
+    <item>
+      <title>GitLab Annoyance: Private to Public Repos</title>
+      <link>https://chrisshort.net/post/gitlab-annoyance-private-to-public-repos/</link>
+      <pubDate>Mon, 23 Jan 2017 22:03:02 +0000</pubDate>
+      <author>chris@chrisshort.net (Chris Short)</author>
+      <guid>https://chrisshort.net/post/gitlab-annoyance-private-to-public-repos/</guid>
+      <description>I was working on a new Ansible role last week and was having problems with Test Kitchen. The issue I was having was that Test Kitchen was unable to pull in dependencies from GitLab for the Ansible role I was developing. Here is the error message I was seeing:
+[WARNING]: - rsyslog was NOT installed successfully: - command git clone https://gitlab.logicnow.com/ansible-roles/rsyslog.git rsyslog failed in directory /tmp/tmpEaRVAA (rc=128)
+I realized that on our internal, private GitLab server a repo needed to be changed from Private to Public.</description>
+    </item>
+    
+    <item>
+      <title>Military Lessons Applied to DevOps: Operation Eagle Claw</title>
+      <link>https://chrisshort.net/post/military-lessons-applied-to-devops-operation-eagle-claw/</link>
+      <pubDate>Wed, 18 Jan 2017 15:05:00 +0000</pubDate>
+      <author>chris@chrisshort.net (Chris Short)</author>
+      <guid>https://chrisshort.net/post/military-lessons-applied-to-devops-operation-eagle-claw/</guid>
+      <description>As part of preparing for my talk at DevOpsDays Detroit, I did a significant amount of research into military failures. It was hard to find a military failure that did not evoke an emotional response or political discussion. But, I was prepared to talk about two: The 1961 Goldsboro B-52 Crash and the failed Iran hostage rescue, Operation Eagle Claw.
+In the case of Operation Eagle Claw, you can draw a comparison to the old IT silo mentality of Dev and Ops being two different teams with very different objectives.</description>
+    </item>
+    
+    <item>
+      <title>What I Learned in 2016</title>
+      <link>https://chrisshort.net/post/what-i-learned-in-2016/</link>
+      <pubDate>Sun, 01 Jan 2017 02:45:18 +0000</pubDate>
+      <author>chris@chrisshort.net (Chris Short)</author>
+      <guid>https://chrisshort.net/post/what-i-learned-in-2016/</guid>
+      <description>A former co-worker and now friend used to have a tagline, &amp;ldquo;Everyday is a school day.&amp;rdquo; I remind myself of this fact nearly every time I learn something new. 2016 brought a lot of new knowledge and skill sets into my ever-expanding arsenal of tools.
+Surprisingly, 2016 brought a mix of both soft skills and technical skills. Let&amp;rsquo;s review some of the things I picked up during this journey around the sun:</description>
+    </item>
+    
+    <item>
+      <title>Perspective</title>
+      <link>https://chrisshort.net/post/perspective/</link>
+      <pubDate>Tue, 20 Dec 2016 14:15:00 +0000</pubDate>
+      <author>chris@chrisshort.net (Chris Short)</author>
+      <guid>https://chrisshort.net/post/perspective/</guid>
+      <description>I like to remind everyone this time of year that, unless they have people&amp;rsquo;s lives in their hands, you have to keep things in perspective.
+
+Chances are you&amp;rsquo;re in a terminal on a laptop on planet earth which is but one watery orb circling a star as it hurtles through the Milky Way which is but one of many galaxies moving across the universe. Try not to take things too seriously.</description>
+    </item>
+    
+    <item>
+      <title>Ansible Role for Papertrail</title>
+      <link>https://chrisshort.net/post/ansible-role-for-papertrail/</link>
+      <pubDate>Fri, 09 Dec 2016 13:35:00 +0000</pubDate>
+      <author>chris@chrisshort.net (Chris Short)</author>
+      <guid>https://chrisshort.net/post/ansible-role-for-papertrail/</guid>
+      <description>I have written my first publicly reusable Ansible role. It is freely available for use via Ansible Galaxy at chris-short.ansible-role-papertrail and helps you get Papertrail up and running.
+What is Papertrail? A hosted log management tool that, in my opinion, can bridge the gap between your terminal and a full blown ELK stack. It is no frills streaming log aggregation and search.
+
+Being my first Ansible role I have submitted to Galaxy I am pretty stoked about it.</description>
+    </item>
+    
+    <item>
+      <title>Triangle DevOps: What The Military Taught Me About DevOps</title>
+      <link>https://chrisshort.net/post/triangle-devops-what-the-military-taught-me-about-devops/</link>
+      <pubDate>Fri, 02 Dec 2016 02:13:01 +0000</pubDate>
+      <author>chris@chrisshort.net (Chris Short)</author>
+      <guid>https://chrisshort.net/post/triangle-devops-what-the-military-taught-me-about-devops/</guid>
+      <description>I had the opportunity to present What The Military Taught Me About DevOps at the Triangle DevOps Meetup last night. It was a fantastic group of people and I fielded a lot of great feedback after speaking.
+One person asked if I would be willing to share my slides. I informed him that they were already shared but I think the notes that accompany the slides are important to share too:</description>
+    </item>
+    
+    <item>
+      <title>Drawing: DNS is Awesome</title>
+      <link>https://chrisshort.net/post/drawing-dns-is-awesome/</link>
+      <pubDate>Tue, 29 Nov 2016 14:04:00 +0000</pubDate>
+      <author>chris@chrisshort.net (Chris Short)</author>
+      <guid>https://chrisshort.net/post/drawing-dns-is-awesome/</guid>
+      <description>There are so many cool things about DNS one drawing is not going to do it justice. Please let this drawing serve as an inspiration to learn more about DNS.
+DNS is awesome because it allows you to have a full blown CDN for next to nothing. All you have to do is create a CNAME that points to Amazon S3 or Google Storage.
+If you are interested in monitoring your DNS records I would highly recommend dnsspy.</description>
+    </item>
+    
+    <item>
+      <title>DIY Buffer using IFTTT</title>
+      <link>https://chrisshort.net/post/diy-buffer-using-ifttt/</link>
+      <pubDate>Mon, 21 Nov 2016 13:03:00 +0000</pubDate>
+      <author>chris@chrisshort.net (Chris Short)</author>
+      <guid>https://chrisshort.net/post/diy-buffer-using-ifttt/</guid>
+      <description>Buffer is a great tool for scheduling and posting content to social media. But, it costs money to do any sort of real sharing. I prefer to share more content from others than I do my own. Paying money to share other people&amp;rsquo;s content is fine but not for me. I came up with an alternative that might be useful to others so here it is:
+You will need a place to save links like Pocket (Instapaper or any other comparable service that interfaces with IFTTT works).</description>
+    </item>
+    
+    <item>
+      <title>HTTP/2 Primer</title>
+      <link>https://chrisshort.net/post/http2-primer/</link>
+      <pubDate>Wed, 16 Nov 2016 13:15:00 +0000</pubDate>
+      <author>chris@chrisshort.net (Chris Short)</author>
+      <guid>https://chrisshort.net/post/http2-primer/</guid>
+      <description>Hypertext Transport Protocol v2 (HTTP/2) is here and is being implemented at an ever quickening pace. HTTP/2 is going to speed up the web and enable new capabilities. There is a lot that stays the same but there are some significant changes coming. In educating myself I decided to illustrate some of the changes in HTTP/2:
+The first thing to keep in mind is the primary reason for HTTP/2 even being a protocol is to improve performance (and not necessarily security).</description>
+    </item>
+    
+    <item>
+      <title>Drawing: OSI Model</title>
+      <link>https://chrisshort.net/post/osi-model/</link>
+      <pubDate>Sun, 13 Nov 2016 18:37:06 +0000</pubDate>
+      <author>chris@chrisshort.net (Chris Short)</author>
+      <guid>https://chrisshort.net/post/osi-model/</guid>
+      <description>The Open Systems Interconnection model (OSI model) defines a concept where every function of a computing system resides at one of its seven levels. When people say, &amp;ldquo;Layer 3 routing&amp;rdquo; or &amp;ldquo;L7 load balancing&amp;rdquo; they are referring to the OSI Model.
+It is an incredibly handy tool for troubleshooting as it reminds you to check the system at each layer. The official documentation on the OSI Model can be found on the ISO site (yes, that&amp;rsquo;s confusing).</description>
+    </item>
+    
+    <item>
+      <title>NTP: I Need You to Go Ahead and Love It</title>
+      <link>https://chrisshort.net/post/ntp-go-ahead-and-love-it/</link>
+      <pubDate>Wed, 02 Nov 2016 11:00:00 +0000</pubDate>
+      <author>chris@chrisshort.net (Chris Short)</author>
+      <guid>https://chrisshort.net/post/ntp-go-ahead-and-love-it/</guid>
+      <description>It&amp;rsquo;s 2016 (almost 2017) why is the time off on your system clocks? It became apparent to me that there are some folks out there that do not realize their clocks are off for a reason. My Twitter buddy Julia Evans recently made a graphic about distributed systems that mentioned clock issues and it made me really sad.
+Photo Credit: Julia Evans
+We had a saying when I was in the Air Force, &amp;ldquo;Timing is everything.</description>
+    </item>
+    
+    <item>
+      <title>DevOps Perspectives from the Front Lines</title>
+      <link>https://chrisshort.net/post/devops-perspectives-from-the-front-lines/</link>
+      <pubDate>Mon, 31 Oct 2016 12:00:00 +0000</pubDate>
+      <author>chris@chrisshort.net (Chris Short)</author>
+      <guid>https://chrisshort.net/post/devops-perspectives-from-the-front-lines/</guid>
+      <description>The month of October was quite unique for me. I went to a number of conferences and talked to tons of people from all walks of life. All of the events were great; DevOpsDays Raleigh, AnsibleFest Brooklyn, DevOpsDays Detroit, and All Things Open are all events I would recommend to anyone considering them.
+One distinctly unique opportunity was to sit down with the folks from The Cloudcast to tell my DevOps story.</description>
+    </item>
+    
+    <item>
+      <title>The Demise of Google Fiber and Internet Under Dirt</title>
+      <link>https://chrisshort.net/post/demise-of-google-fiber-and-internet-under-dirt/</link>
+      <pubDate>Sun, 30 Oct 2016 11:00:00 +0000</pubDate>
+      <author>chris@chrisshort.net (Chris Short)</author>
+      <guid>https://chrisshort.net/post/demise-of-google-fiber-and-internet-under-dirt/</guid>
+      <description>If you have not heard the news, Google Fiber is no longer expanding its installation in the 10 markets they service and the head of Google Access (the Google Fiber overlord company), Craig Barratt, is stepping down.
+Also in the news, was a little-publicized statement from AT&amp;amp;T&amp;rsquo;s chief executive, Randall Stephenson, where he said, &amp;ldquo;I will be sorely disappointed if we are not going head-to-head&amp;rdquo; with cable companies by 2021.</description>
+    </item>
+    
+    <item>
+      <title>What The Military Taught Me About DevOps</title>
+      <link>https://chrisshort.net/post/what-the-military-taught-me-about-devops/</link>
+      <pubDate>Thu, 13 Oct 2016 19:00:00 +0000</pubDate>
+      <author>chris@chrisshort.net (Chris Short)</author>
+      <guid>https://chrisshort.net/post/what-the-military-taught-me-about-devops/</guid>
+      <description>I was invited to speak at DevOpsDays Detroit 2016. I had a fantastic time speaking with the crowd in Detroit. This talk was my first foray into the talk world. I went long and could probably optimize the content of the slides (less words). However, I was very happy with the positive feedback and was blown away by how great the DevOpsDays volunteers and organizers.
+ Photo: Bridget Kromhout</description>
+    </item>
+    
+    <item>
+      <title>Ansible Galaxy is Open</title>
+      <link>https://chrisshort.net/post/ansible-galaxy-is-open/</link>
+      <pubDate>Tue, 11 Oct 2016 17:45:00 +0000</pubDate>
+      <author>chris@chrisshort.net (Chris Short)</author>
+      <guid>https://chrisshort.net/post/ansible-galaxy-is-open/</guid>
+      <description>A quick note from AnsibleFest Brooklyn 2016. Ansible Galaxy is now open source and available at GitHub.com/ansible/galaxy. Congratulations to the Ansible team and Red Hat for open sourcing an important piece of the Ansible stack!</description>
+    </item>
+    
+    <item>
+      <title>Notes on PagerDuty</title>
+      <link>https://chrisshort.net/post/notes-on-pagerduty/</link>
+      <pubDate>Wed, 05 Oct 2016 20:56:00 +0000</pubDate>
+      <author>chris@chrisshort.net (Chris Short)</author>
+      <guid>https://chrisshort.net/post/notes-on-pagerduty/</guid>
+      <description>I have recently been added on to a PagerDuty rotation. I am sure numerous on-call people have a lot of different strategies to managing their rotations. However, there were two pieces of information I immediately wanted from PagerDuty:
+ Can I add my on-call rotation to my Google Calendar or Mac Calendar app? What number is going to call me in the middle of the night to wake me up?  The answer to both those questions is an astounding, &amp;ldquo;YES!</description>
+    </item>
+    
+    <item>
+      <title>User Management with Ansible</title>
+      <link>https://chrisshort.net/post/ansible-user-management/</link>
+      <pubDate>Tue, 27 Sep 2016 16:15:00 +0000</pubDate>
+      <author>chris@chrisshort.net (Chris Short)</author>
+      <guid>https://chrisshort.net/post/ansible-user-management/</guid>
+      <description>The contents of this article originally appeared on DZone
+A few weeks ago, one of my DevOps counterparts was working on building out a new environment for one of our applications. This deployment included a new Puppet server (we are in an orchestration/configuration management state of flux) and my teammate was having some issues provisioning users (I did not ask why nor did I really care). My teammate asked if I could help with some Ansible knowledge.</description>
+    </item>
+    
+    <item>
+      <title>Notorious Remixes</title>
+      <link>https://chrisshort.net/post/notorious-remixes/</link>
+      <pubDate>Wed, 14 Sep 2016 17:00:00 +0000</pubDate>
+      <author>chris@chrisshort.net (Chris Short)</author>
+      <guid>https://chrisshort.net/post/notorious-remixes/</guid>
+      <description>The Notorious B.I.G., Biggie, Biggie Smalls, Big Poppa, The Black Frank White, The King of New York, however you refer to him, Christopher Wallace was one of the best rappers to ever walk planet earth. Since Biggie&amp;rsquo;s death in 1997 his timeless lyrics have served as a foundation for many remixes and mashups. This is the definitive collection of the best studio quality Notorious B.I.G. remixes and mashups ever created.</description>
+    </item>
+    
+    <item>
+      <title>lineinfile be damned</title>
+      <link>https://chrisshort.net/post/lineinfile-be-damned/</link>
+      <pubDate>Tue, 06 Sep 2016 16:30:00 +0000</pubDate>
+      <author>chris@chrisshort.net (Chris Short)</author>
+      <guid>https://chrisshort.net/post/lineinfile-be-damned/</guid>
+      <description>The Ansible lineinfile module is designed to search a file for a line, and ensure that it is present or absent. lineinfile is very effective at that particular task. However, when the line has to be in a certain place or before or after a certain line, lineinfile becomes a hassle to manage.
+   (adsbygoogle = window.adsbygoogle || []).push({});  Most people on IRC (#ansible) tend to agree, lineinfile is not a very good module in practice.</description>
+    </item>
+    
+    <item>
+      <title>North Carolina Veterans Oral History Interview Part 3</title>
+      <link>https://chrisshort.net/post/nc-vets-oral-history-interview-3/</link>
+      <pubDate>Tue, 30 Aug 2016 17:17:00 +0000</pubDate>
+      <author>chris@chrisshort.net (Chris Short)</author>
+      <guid>https://chrisshort.net/post/nc-vets-oral-history-interview-3/</guid>
+      <description>As part of a North Carolina State Archives initiative to obtain oral histories of veterans I volunteered to be interviewed for the North Carolina Veterans Oral History Collection. I was interviewed by Matthew Peek, Military Collection Archivist for the North Carolina Department of Natural and Cultural Resources (later referred to as MP).
+   (adsbygoogle = window.adsbygoogle || []).push({});  The interview was well worth the time it took to coordinate and conduct it.</description>
+    </item>
+    
+    <item>
+      <title>North Carolina Veterans Oral History Interview Part 2</title>
+      <link>https://chrisshort.net/post/nc-vets-oral-history-interview-2/</link>
+      <pubDate>Tue, 23 Aug 2016 12:00:00 +0000</pubDate>
+      <author>chris@chrisshort.net (Chris Short)</author>
+      <guid>https://chrisshort.net/post/nc-vets-oral-history-interview-2/</guid>
+      <description>As part of a North Carolina State Archives initiative to obtain oral histories of veterans I volunteered to be interviewed for the North Carolina Veterans Oral History Collection. I was interviewed by Matthew Peek, Military Collection Archivist for the North Carolina Department of Natural and Cultural Resources (later referred to as MP).
+The interview was well worth the time it took to coordinate and conduct it. I would encourage all North Carolina veterans to contact Matthew and provide their unique story for preservation.</description>
+    </item>
+    
+    <item>
+      <title>North Carolina Veterans Oral History Interview Part 1</title>
+      <link>https://chrisshort.net/post/nc-vets-oral-history-interview-1/</link>
+      <pubDate>Wed, 17 Aug 2016 13:05:00 +0000</pubDate>
+      <author>chris@chrisshort.net (Chris Short)</author>
+      <guid>https://chrisshort.net/post/nc-vets-oral-history-interview-1/</guid>
+      <description>As part of a North Carolina State Archives initiative to obtain oral histories of veterans I volunteered to be interviewed for the North Carolina Veterans Oral History Collection. I was interviewed by Matthew Peek, Military Collection Archivist for the North Carolina Department of Natural and Cultural Resources (later referred to as MP).
+   (adsbygoogle = window.adsbygoogle || []).push({});  The interview was well worth the time it took to coordinate and conduct it.</description>
+    </item>
+    
+    <item>
+      <title>Technical Debt and the Ongoing Battle Against It</title>
+      <link>https://chrisshort.net/post/technical-debt-and-the-ongoing-battle-against-it/</link>
+      <pubDate>Tue, 09 Aug 2016 18:13:30 +0000</pubDate>
+      <author>chris@chrisshort.net (Chris Short)</author>
+      <guid>https://chrisshort.net/post/technical-debt-and-the-ongoing-battle-against-it/</guid>
+      <description>I have been trying to fit a lot of square pegs into round holes lately. Eliminating technical debt with modern day DevOps practices to reduce costs is seldom fun or glamorous but is very often beneficial. Reducing costs should be the mindset of IT and one surefire way to do that is to spend the right amount of time on a task to complete it successfully. Finding that balance is definitely tricky especially when a lot of us are human time division multiplexers now.</description>
+    </item>
+    
+    <item>
+      <title>What Does Yahoo&#39;s Downfall Teach Us?</title>
+      <link>https://chrisshort.net/post/what-does-yahoos-downfall-teach-us/</link>
+      <pubDate>Tue, 26 Jul 2016 16:06:31 +0000</pubDate>
+      <author>chris@chrisshort.net (Chris Short)</author>
+      <guid>https://chrisshort.net/post/what-does-yahoos-downfall-teach-us/</guid>
+      <description>If you have not heard, Verizon announced they are going to acquire Yahoo. This ends a very long, drawn out bidding process in what has been the very long death of Yahoo. Yahoo, the brand, probably will not disappear in this deal (much like how AOL is still a brand after its acquisition by Verizon). AOL and Yahoo have benefitted greatly from their once high times. AOL&amp;rsquo;s story is well known (technological advances eroding their user base).</description>
+    </item>
+    
+    <item>
+      <title>FBI Issues Notice Regarding Pokémon GO</title>
+      <link>https://chrisshort.net/post/fbi-issues-notice-regarding-pokemon-go/</link>
+      <pubDate>Wed, 20 Jul 2016 14:34:00 +0000</pubDate>
+      <author>chris@chrisshort.net (Chris Short)</author>
+      <guid>https://chrisshort.net/post/fbi-issues-notice-regarding-pokemon-go/</guid>
+      <description>(adsbygoogle = window.adsbygoogle || []).push({});  On July 15, 2016 the US Federal Bureau of Investigations (FBI) issued an External Intelligence Note regarding the recent smash hit augmented reality mobile game Pokémon GO. The Note&amp;rsquo;s classification was unclassified/for official use only with the intended audience being the law enforcement and security communities. The completely unclassified summary of the FBI External Intelligence Note states:
+ The FBI’s Washington Field Office (WFO) assesses it is very likely a increased participation in the Pokémon GO augmented-reality smartphone application will result in an increase in law enforcement encounters and suspicious activity reports (SARs) in the National Capital Region (NCR) due to a high concentration of museums, art installations, historical markers, and monuments identified as target locations, or “PokéStops,” and players attempting to access restricted areas.</description>
+    </item>
+    
+    <item>
+      <title>Weather in your iOS and macOS Calendars</title>
+      <link>https://chrisshort.net/post/weather-in-your-ios-and-macos-calendars/</link>
+      <pubDate>Sun, 10 Jul 2016 20:51:00 +0000</pubDate>
+      <author>chris@chrisshort.net (Chris Short)</author>
+      <guid>https://chrisshort.net/post/weather-in-your-ios-and-macos-calendars/</guid>
+      <description>One of the things I like best about Google Calendar is its extensibility. You can add calendars for virtually everything; sports, holidays, shared calendars, and weather. For managing personal appointments and family events I use Google Calendar as the backend but I prefer the native experience of macOS and iOS Calendar.app.
+   (adsbygoogle = window.adsbygoogle || []).push({});  One feature Apple still has not integrated into the Calendar.app is weather forecasts.</description>
+    </item>
+    
+    <item>
+      <title>Take Ownership; &#34;Plant Your Flag&#34;</title>
+      <link>https://chrisshort.net/post/take-ownership-plant-your-flag/</link>
+      <pubDate>Tue, 28 Jun 2016 17:11:49 +0000</pubDate>
+      <author>chris@chrisshort.net (Chris Short)</author>
+      <guid>https://chrisshort.net/post/take-ownership-plant-your-flag/</guid>
+      <description>Taking ownership or &amp;ldquo;planting your flag&amp;rdquo; in an idea, work, or concept is often one of the best things someone can do. To sit in a room full of people and say, &amp;ldquo;This is mine. I will take care of it.&amp;rdquo; Makes everyone in the room know you are the point person committed to making it happen. The same holds true when discussing documentation, processes, and ideas for long-range planning.</description>
+    </item>
+    
+    <item>
+      <title>Permanently Remove Any Record of a File From git</title>
+      <link>https://chrisshort.net/post/permanently-remove-any-record-of-a-file-from-git/</link>
+      <pubDate>Sat, 25 Jun 2016 17:06:05 +0000</pubDate>
+      <author>chris@chrisshort.net (Chris Short)</author>
+      <guid>https://chrisshort.net/post/permanently-remove-any-record-of-a-file-from-git/</guid>
+      <description>A co-worker and I needed to remove all instances of a binary blob from one of our git repos a while back. This was a lot harder than I thought it should have been, in my opinion. However, distributed version control is not really designed to easily allow folks to delete every instance of a file. But, if you ever run into a case where you do need to expunge a file in git here is how we did it.</description>
+    </item>
+    
+    <item>
+      <title>Understanding, Fear, and Hate</title>
+      <link>https://chrisshort.net/post/understanding-fear-and-hate/</link>
+      <pubDate>Tue, 21 Jun 2016 05:44:00 +0000</pubDate>
+      <author>chris@chrisshort.net (Chris Short)</author>
+      <guid>https://chrisshort.net/post/understanding-fear-and-hate/</guid>
+      <description>&amp;ldquo;Fear leads to anger&amp;hellip; Anger leads to hate&amp;hellip; Hate leads to suffering.&amp;rdquo; Jedi Master Yoda
+ On Saturday, my wife Julie, son Max, and I attended church. This was a very special mass as it was the mass at which Max was being baptized. Julie&amp;rsquo;s family was present as were friends of ours. As a lot of my friends know, I&amp;rsquo;m not religious. My stance on religion is that I choose complete freedom over being beholden to humans interpreting what they believe to be the word of God.</description>
+    </item>
+    
+    <item>
+      <title>Low Cost Content Delivery Network (CDN)</title>
+      <link>https://chrisshort.net/post/low-cost-content-delivery-network-cdn/</link>
+      <pubDate>Tue, 14 Jun 2016 17:18:30 +0000</pubDate>
+      <author>chris@chrisshort.net (Chris Short)</author>
+      <guid>https://chrisshort.net/post/low-cost-content-delivery-network-cdn/</guid>
+      <description>A content delivery network (CDN) provides a service that enables public facing, web based responsive access to said resources in an effort to maintain a good user experience across the planet. A CDN provides a localized cache (copy) of your web site and its content closer to end users. CDNs leverage local data centers closer to end users and a little DNS magic to make this work. CDNs help their customers have a significantly smaller infrastructure footprint while maintaining fast load time for services provided.</description>
+    </item>
+    
+    <item>
+      <title>Microsoft Remote Desktop for Mac</title>
+      <link>https://chrisshort.net/post/microsoft-remote-desktop-for-mac/</link>
+      <pubDate>Thu, 09 Jun 2016 22:24:02 +0000</pubDate>
+      <author>chris@chrisshort.net (Chris Short)</author>
+      <guid>https://chrisshort.net/post/microsoft-remote-desktop-for-mac/</guid>
+      <description>On June 1, 2016, Microsoft released an update to it&amp;rsquo;s Remote Desktop client for Mac OS X via the Mac App Store. The update to version 8.0.32 broke some functionality for people. The most commonly reported error I have seen is &amp;ldquo;Connection reset to peer&amp;rdquo; before authentication.
+   (adsbygoogle = window.adsbygoogle || []).push({});  Sadly, unless you have a Time Machine backup to grab the old version from you are likely going to have to find an alternative.</description>
+    </item>
+    
+    <item>
+      <title>My Mac OS X Setup Guide</title>
+      <link>https://chrisshort.net/post/my-mac-os-x-setup-guide/</link>
+      <pubDate>Wed, 08 Jun 2016 19:58:34 +0000</pubDate>
+      <author>chris@chrisshort.net (Chris Short)</author>
+      <guid>https://chrisshort.net/post/my-mac-os-x-setup-guide/</guid>
+      <description>I happen to be someone that finds themselves setting up new systems for myself often. I have to remind myself there are tools that I need installed before the scenario in which I need to use them (on an airplane, during a crisis, etc.). I use a Mac so this list of software and setup is going to be very Mac OS X centric.
+   (adsbygoogle = window.adsbygoogle || []).</description>
+    </item>
+    
+    <item>
+      <title>GNU sed on Mac OS X</title>
+      <link>https://chrisshort.net/post/gnu-sed-on-mac-os-x/</link>
+      <pubDate>Wed, 01 Jun 2016 16:44:00 +0000</pubDate>
+      <author>chris@chrisshort.net (Chris Short)</author>
+      <guid>https://chrisshort.net/post/gnu-sed-on-mac-os-x/</guid>
+      <description>Like a lot of systems folks I use sed, a lot. It is probably an unhealthy amount of sed use but so be it. I operate on a lot of Linux servers but my desktop environment of choice is Mac OS X which means BSD tools (not the Linux-y GNU tools).
+   (adsbygoogle = window.adsbygoogle || []).push({});  The differences are relatively subtle between BSD sed and GNU sed.</description>
+    </item>
+    
+    <item>
+      <title>The Hall of Famer and I</title>
+      <link>https://chrisshort.net/post/the-hall-of-famer-and-i/</link>
+      <pubDate>Fri, 27 May 2016 23:16:56 +0000</pubDate>
+      <author>chris@chrisshort.net (Chris Short)</author>
+      <guid>https://chrisshort.net/post/the-hall-of-famer-and-i/</guid>
+      <description>I try to keep the content tech related around here but some times an event triggers a fond memory in your past and you feel the need to write about it. In January 2010, I was in the Air Force and had the opportunity to get up earlier in the morning than normal to get on a bus and drive over to Welcome, North Carolina. For those of you that are not familiar with NASCAR, Welcome, NC is the home of Richard Childress Racing.</description>
+    </item>
+    
+    <item>
+      <title>Poorly Documented Dependencies</title>
+      <link>https://chrisshort.net/post/poorly-documented-dependencies/</link>
+      <pubDate>Mon, 23 May 2016 21:44:50 +0000</pubDate>
+      <author>chris@chrisshort.net (Chris Short)</author>
+      <guid>https://chrisshort.net/post/poorly-documented-dependencies/</guid>
+      <description>Few things irritate me more than poorly documented dependencies. If your tool or software documentation states you can install your widget with one command and it does not work you are probably annoying people.
+Consider this a running list of tools and their often not well documented dependency chains. Feel free to chime in with your examples in the comments.
+   (adsbygoogle = window.adsbygoogle || []).push({});  Ansible</description>
+    </item>
+    
+    <item>
+      <title>Tangible Intangibles: Questions to Ask While Being Interviewed</title>
+      <link>https://chrisshort.net/post/tangible-intangibles-questions-to-ask-while-being-interviewed/</link>
+      <pubDate>Tue, 10 May 2016 17:05:00 +0000</pubDate>
+      <author>chris@chrisshort.net (Chris Short)</author>
+      <guid>https://chrisshort.net/post/tangible-intangibles-questions-to-ask-while-being-interviewed/</guid>
+      <description>A few weeks ago a co-worker and I were discussing some things we really enjoyed about our work environment. It reminded me of a few key questions I ask (or things that I look for) during an interview that typically indicate whether or not a job is going to be a good fit or not.
+What do you use for e-mail?
+It is a simple question but the answer tells you a lot about a company.</description>
+    </item>
+    
+    <item>
+      <title>Got Badlock? Ansible Can Help</title>
+      <link>https://chrisshort.net/post/got-badlock-ansible-can-help/</link>
+      <pubDate>Tue, 12 Apr 2016 04:57:53 +0000</pubDate>
+      <author>chris@chrisshort.net (Chris Short)</author>
+      <guid>https://chrisshort.net/post/got-badlock-ansible-can-help/</guid>
+      <description>Badlock might not be bad for all. If you are using Ansible you can patch your systems with a single playbook (or ad hoc command).
+For RPM based OS users Badlock (samba) patching is as easy as: ansible -m shell -a &amp;quot;yum update *samba*&amp;quot; all
+   (adsbygoogle = window.adsbygoogle || []).push({});  Or you can be very granular and use an Ansible Playbook to audit and patch samba packages: &amp;mdash; - hosts: all tasks: - name: Check if samba packages are installed shell: &amp;ldquo;yum list installed samba | awk &amp;lsquo;!</description>
+    </item>
+    
+    <item>
+      <title>Yubikey 4 Nano Demands Use of yubiswitch</title>
+      <link>https://chrisshort.net/post/yubikey-4-nano-demands-use-of-yubiswitch/</link>
+      <pubDate>Sat, 27 Feb 2016 18:40:10 +0000</pubDate>
+      <author>chris@chrisshort.net (Chris Short)</author>
+      <guid>https://chrisshort.net/post/yubikey-4-nano-demands-use-of-yubiswitch/</guid>
+      <description>As more and more security policies demand the use of multi-factor authentication the number of times a day you use a multi-factor token will increase. Hopefully that number will not increase to a level that throws the balance of security and convenience towards the annoyingly secure side of the scale. But, if that ever does happen hopefully you can use an Yubikey as your token.
+   (adsbygoogle = window.</description>
+    </item>
+    
+    <item>
+      <title>Using Ansible Vault Effectively</title>
+      <link>https://chrisshort.net/post/using-ansible-vault-effectively/</link>
+      <pubDate>Sat, 17 Oct 2015 07:53:00 +0000</pubDate>
+      <author>chris@chrisshort.net (Chris Short)</author>
+      <guid>https://chrisshort.net/post/using-ansible-vault-effectively/</guid>
+      <description>Ansible is a great orchestration tool. The low barrier to entry and simplicity of Ansible are why so many people that start using it love it. But there is one feature in Ansible that probably should be used more often. That feature is Ansible Vault.
+   (adsbygoogle = window.adsbygoogle || []).push({});   “Vault” is a feature of ansible that allows keeping sensitive data such as passwords or keys in encrypted files, rather than as plaintext in your playbooks or roles.</description>
+    </item>
+    
+    <item>
+      <title>Disabling Mac OS X El Capitan System Integrity Protection</title>
+      <link>https://chrisshort.net/post/disabling-mac-os-x-el-capitan-system-integrity-protection/</link>
+      <pubDate>Tue, 13 Oct 2015 17:22:32 +0000</pubDate>
+      <author>chris@chrisshort.net (Chris Short)</author>
+      <guid>https://chrisshort.net/post/disabling-mac-os-x-el-capitan-system-integrity-protection/</guid>
+      <description>Apple has introduced a new security feature in Mac OS X El Capitan (10.11) called System Integrity Protection (sometimes referred to as rootless).
+   (adsbygoogle = window.adsbygoogle || []).push({});  What is System Integrity Protection? According to Apple&amp;rsquo;s documentation:
+ A new security policy that applies to every running process, including privileged code and code that runs out of the sandbox. The policy extends additional protections to components on disk and at run-time, only allowing system binaries to be modified by the system installer and software updates.</description>
+    </item>
+    
+    <item>
+      <title>LastPass Sells Out to LogMeIn</title>
+      <link>https://chrisshort.net/post/lastpass-sells-out-to-logmein/</link>
+      <pubDate>Fri, 09 Oct 2015 23:03:30 +0000</pubDate>
+      <author>chris@chrisshort.net (Chris Short)</author>
+      <guid>https://chrisshort.net/post/lastpass-sells-out-to-logmein/</guid>
+      <description>If you have not heard, the phenomenal cloud base SaaS password manager, LastPass has agreed to be acquired be the not so customer friendly LogMeIn. The IT world immediately panned the anti-idea as anti-consumer and the security world agreed and raised all sorts of red flags as well.
+   (adsbygoogle = window.adsbygoogle || []).push({});  People dislike LogMeIn for a variety of reasons but the main one is that they pulled the rugs out from under a lot of folks who were using LogMeIn to help administer remote computers (I was one of these people).</description>
+    </item>
+    
+    <item>
+      <title>PHP Memory Directives Relationship</title>
+      <link>https://chrisshort.net/post/php-memory-relationships/</link>
+      <pubDate>Fri, 09 Oct 2015 17:00:52 +0000</pubDate>
+      <author>chris@chrisshort.net (Chris Short)</author>
+      <guid>https://chrisshort.net/post/php-memory-relationships/</guid>
+      <description>I recently had to templatize PHP configurations using Ansible and Jinja2. I had to do some research to ensure that the memory directives that were being defined were actually valid. The three directives I was tinkering with were:
+ memory_limit upload_max_filesize post_max_size  These three directives values&amp;rsquo; are actually tied together. memory_limit is the max amount of memory that a script can consume. upload_max_filesize defines the largest size a file upload can be.</description>
+    </item>
+    
+    <item>
+      <title>Mac OS X El Capitan and Junos Pulse</title>
+      <link>https://chrisshort.net/post/mac-os-x-el-capitan-and-junos-pulse/</link>
+      <pubDate>Tue, 06 Oct 2015 20:54:19 +0000</pubDate>
+      <author>chris@chrisshort.net (Chris Short)</author>
+      <guid>https://chrisshort.net/post/mac-os-x-el-capitan-and-junos-pulse/</guid>
+      <description>I had some Apple Keychain issues after upgrading to Mac OS X El Capitan yesterday. Apple provided a reasonable resolution (blow away the login Apple Keychain and re-create it). As it turns out, my issues weren&amp;rsquo;t limited to just the El Capitan upgrade. The Juniper Networks&amp;rsquo; VPN client, Junos Pulse, has some pretty awful issues.
+   (adsbygoogle = window.adsbygoogle || []).push({});  The behavior went something like this: 1.</description>
+    </item>
+    
+    <item>
+      <title>What&#39;s Wrong with Microsoft&#39;s Windows 10 Marketing</title>
+      <link>https://chrisshort.net/post/whats-wrong-with-microsoft-windows-10-marketing/</link>
+      <pubDate>Tue, 06 Oct 2015 04:13:00 +0000</pubDate>
+      <author>chris@chrisshort.net (Chris Short)</author>
+      <guid>https://chrisshort.net/post/whats-wrong-with-microsoft-windows-10-marketing/</guid>
+      <description>I was reading through Wired magazine and saw a Windows 10 ad. If you&amp;rsquo;ve turned on a TV the past month you&amp;rsquo;ve seen the ad I&amp;rsquo;m referring to, this is just the print edition of the TV ad.
+   (adsbygoogle = window.adsbygoogle || []).push({});   She won&amp;rsquo;t have to remember passwords.
+Or obsess about security.
+To her, every screen is meant to be touched.
+ And so on&amp;hellip; (here&amp;rsquo;s the full ad if you really want to see it).</description>
+    </item>
+    
+    <item>
+      <title>Mac OS X El Capitan: Keychain Issues</title>
+      <link>https://chrisshort.net/post/mac-os-x-el-capitan-keychain-issues/</link>
+      <pubDate>Mon, 05 Oct 2015 20:42:04 +0000</pubDate>
+      <author>chris@chrisshort.net (Chris Short)</author>
+      <guid>https://chrisshort.net/post/mac-os-x-el-capitan-keychain-issues/</guid>
+      <description>I started having some Apple Keychain issues after upgrading to Mac OS X El Capitan. At random, I would be asked to sign back into accounts that I am logged into through Internet Accounts in System Preferences.
+   (adsbygoogle = window.adsbygoogle || []).push({});  I thought it a minor issue but it became unavoidable though once El Capitan told me it couldn&amp;rsquo;t find my login Apple Keychain after logging in:</description>
+    </item>
+    
+    <item>
+      <title>An Annoying MySQL Replication Error Code: 1045</title>
+      <link>https://chrisshort.net/post/an-annoying-mysql-replication-error-code-1045/</link>
+      <pubDate>Mon, 05 Oct 2015 16:53:18 +0000</pubDate>
+      <author>chris@chrisshort.net (Chris Short)</author>
+      <guid>https://chrisshort.net/post/an-annoying-mysql-replication-error-code-1045/</guid>
+      <description>(adsbygoogle = window.adsbygoogle || []).push({});  I was fixing MySQL replication on a slave this past week. Everything seemed to be ready to go after bringing data over from the master manually. I went to connect the slave to the master and nothing happened. Whaaaaaa?
+Last_IO_Errno: 1045 Last_IO_Error: error connecting to master &#39;repl@blah.local:3306&#39; - retry-time: 60 retries: 86400 Let me look up MySQL error code 1045:
+Error: 1045 SQLSTATE: 28000 (ER_ACCESS_DENIED_ERROR) Message: Access denied for user &#39;%s&#39;@&#39;%s&#39; (using password: %s) That&amp;rsquo;s not helpful.</description>
+    </item>
+    
+    <item>
+      <title>Grep Multiple Ansible Vault Files</title>
+      <link>https://chrisshort.net/post/grep-multiple-ansible-vault-files/</link>
+      <pubDate>Tue, 22 Sep 2015 23:56:00 +0000</pubDate>
+      <author>chris@chrisshort.net (Chris Short)</author>
+      <guid>https://chrisshort.net/post/grep-multiple-ansible-vault-files/</guid>
+      <description>Here&amp;rsquo;s a handy one-liner to grep multiple Ansible Vault files (like group_vars). All you need is an Ansible Vault password file (outside of your configuration repo, please) and a little bash.
+   (adsbygoogle = window.adsbygoogle || []).push({});  ls -1 | while read N ; do echo -n $N: ; ansible-vault --vault-password-file ~/.ansible_vault view $N | grep  ; done </description>
+    </item>
+    
+    <item>
+      <title>Tim Tebow seen working out on a USC baseball field</title>
+      <link>https://chrisshort.net/post/tim-tebow-seed-working-out-on-a-usc-baseball-field/</link>
+      <pubDate>Thu, 19 Sep 2013 20:00:00 +0000</pubDate>
+      <author>chris@chrisshort.net (Chris Short)</author>
+      <guid>https://chrisshort.net/post/tim-tebow-seed-working-out-on-a-usc-baseball-field/</guid>
+      <description>(adsbygoogle = window.adsbygoogle || []).push({});  Tim Tebow was observed working out on a USC baseball field recently. Tebow&amp;rsquo;s throwing motion looks a little bit better but his agents are likely pressuring him to become a public speaker according to Only Gators</description>
+    </item>
+    
+    <item>
+      <title>Tiny Tiny RSS: Loathe the Asshole Devs</title>
+      <link>https://chrisshort.net/post/tiny-tiny-rss-loathe-the-asshole-devs/</link>
+      <pubDate>Sat, 01 Jun 2013 20:00:00 +0000</pubDate>
+      <author>chris@chrisshort.net (Chris Short)</author>
+      <guid>https://chrisshort.net/post/tiny-tiny-rss-loathe-the-asshole-devs/</guid>
+      <description>I&amp;rsquo;ve been messing around with Tiny Tiny RSS today. Upon discovering it I posted in their Google+ Community asking how other users implemented it and what they thought of a specific use case I had. I got some good responses and was quite appreciative of them.
+   (adsbygoogle = window.adsbygoogle || []).push({});  I opted, at the advice of those in the community, to setup Tiny Tiny RSS on RedHat&amp;rsquo;s OpenShift and was pleasantly surprised by how the product RedHat created.</description>
+    </item>
+    
+    <item>
+      <title>Install VirtualBox Guest Additions via Command Line</title>
+      <link>https://chrisshort.net/post/install-virtualbox-guest-additions-via-command-line/</link>
+      <pubDate>Fri, 03 May 2013 18:18:00 +0000</pubDate>
+      <author>chris@chrisshort.net (Chris Short)</author>
+      <guid>https://chrisshort.net/post/install-virtualbox-guest-additions-via-command-line/</guid>
+      <description>I routinely spin up CentOS virtual machines in VirtualBox. Sometimes they are temporary and others might be around for months. These seemingly throw away VMs utilize the CentOS minimal install ISO for speed of setup (I really should just build a standard starting point VM and clone it as needed but I digress).
+   (adsbygoogle = window.adsbygoogle || []).push({});  I understand that installing the VirtualBox guest additions is a nicety for some so you probably rarely do it.</description>
+    </item>
+    
+    <item>
+      <title>Why I Dumped Spotify Premium</title>
+      <link>https://chrisshort.net/post/why-i-dumped-spotify-premium/</link>
+      <pubDate>Sat, 07 Jan 2012 19:06:00 +0000</pubDate>
+      <author>chris@chrisshort.net (Chris Short)</author>
+      <guid>https://chrisshort.net/post/why-i-dumped-spotify-premium/</guid>
+      <description>Yesterday I was reading an article by Steve Kovach about Spotify and its six month free (ad supported) listening period coming to an end. There seemed to be quite a bit of buzz about this ploy to lure US users in my Flipboard too. I have to admit, I was a huge proponent of Spotify but more importantly I was a huge supporter of streaming music.
+   (adsbygoogle = window.</description>
+    </item>
+    
+    <item>
+      <title>Review: Wii Sports Resort</title>
+      <link>https://chrisshort.net/post/review-wii-sports-resort/</link>
+      <pubDate>Tue, 27 Jul 2010 20:00:00 +0000</pubDate>
+      <author>chris@chrisshort.net (Chris Short)</author>
+      <guid>https://chrisshort.net/post/review-wii-sports-resort/</guid>
+      <description>I have to say that I was not too enthusiastic about Wii Sports Resort when its release was announced. What intrigued me, obviously, was the addition of the Wii MotionPlus functionality. Wii Sports Resort is essentially Wii Sports 2 with a resort/spa theme.
+   (adsbygoogle = window.adsbygoogle || []).push({});  All sports activities take place on an island which is explorable by plane (which I do enjoy). The added gyroscopes and spatial awareness added by the Wii MotionPlus accessory is pretty awesome.</description>
+    </item>
+    
+    <item>
+      <title>Chris Short&#39;s Sausage Potato Soup</title>
+      <link>https://chrisshort.net/post/chris-shorts-sausage-potato-soup/</link>
+      <pubDate>Sun, 30 Aug 2009 20:00:00 +0000</pubDate>
+      <author>chris@chrisshort.net (Chris Short)</author>
+      <guid>https://chrisshort.net/post/chris-shorts-sausage-potato-soup/</guid>
+      <description>Ingredients
+1 lb. Jimmy Dean Sage Pork Sausage * 1 bag Potatoes O&amp;rsquo;Brien (bag size depends on how much potato you want) 1 Onion, diced 3-5 Cloves of Garlic 1 can of Chicken Broth 2 cups of Water 1 can of Campbell&amp;rsquo;s Cream of Chicken Soup 1 can of Campbell&amp;rsquo;s Cream of Celery Soup 2-3 cups of Milk (depending on how much soup you want) Cheddar Cheese (for garnish)
+   (adsbygoogle = window.</description>
+    </item>
+    
+    <item>
+      <title>Ear Piercing Analysis: Average Age and Additional Data</title>
+      <link>https://chrisshort.net/post/ear-piercing-analysis-average-age-and-additional-data/</link>
+      <pubDate>Tue, 26 May 2009 20:00:00 +0000</pubDate>
+      <author>chris@chrisshort.net (Chris Short)</author>
+      <guid>https://chrisshort.net/post/ear-piercing-analysis-average-age-and-additional-data/</guid>
+      <description>My daughter, Aubree, laid into me hard today about getting her ears pierced. Aubree, her mother and I had a fairly long conversation about it this afternoon. Which ended with me having to consider it; not think about it but, honestly consider it.
+   (adsbygoogle = window.adsbygoogle || []).push({});  All decisions I make require some data. I posed a question on Twitter and Facebook asking, “Ladies: How old were you when you got your ears pierced?</description>
+    </item>
+    
+    <item>
+      <title>Another Center for Purposeful Living Recruit Saved</title>
+      <link>https://chrisshort.net/post/another-center-for-purposeful-living-recruit-saved/</link>
+      <pubDate>Mon, 19 Dec 2005 22:00:00 +0000</pubDate>
+      <author>chris@chrisshort.net (Chris Short)</author>
+      <guid>https://chrisshort.net/post/another-center-for-purposeful-living-recruit-saved/</guid>
+      <description>Yesterday, I had an incredibly healthy exchange with a divorced mother who had toured the Center for Purposeful Living and decided it might be worth her time. She even enlisted to join the Center for Purposeful Living after her tour.
+   (adsbygoogle = window.adsbygoogle || []).push({});  However, for whatever reason Joanna White, my estranged biological mother, from the Center for Purposeful Living advised this person to see the thread over at FACTNet.</description>
+    </item>
+    
+    <item>
+      <title>A Brief History of Center for Purposeful Living by John David Short</title>
+      <link>https://chrisshort.net/post/a-brief-history-of-center-for-purposeful-living-by-john-david-short-2/</link>
+      <pubDate>Wed, 14 Sep 2005 20:00:00 +0000</pubDate>
+      <author>chris@chrisshort.net (Chris Short)</author>
+      <guid>https://chrisshort.net/post/a-brief-history-of-center-for-purposeful-living-by-john-david-short-2/</guid>
+      <description>Last week my brother, John David Short, and I had a conversation about all the statements and articles that have been written about the Center for Purposeful Living (formally known as Human Service Alliance). In that conversation he told me that he’d be willing to write about Human Service Alliance (what it was aptly named while he and I were involved in it). He sent me a very well written article that is just too good not to add to the mountain of information forming in regards to the Center for Purposeful Living.</description>
+    </item>
+    
+    <item>
+      <title>The Teachings of Derwyn Lackey</title>
+      <link>https://chrisshort.net/post/the-teachings-of-derwyn-lackey/</link>
+      <pubDate>Tue, 26 Jul 2005 20:00:00 +0000</pubDate>
+      <author>chris@chrisshort.net (Chris Short)</author>
+      <guid>https://chrisshort.net/post/the-teachings-of-derwyn-lackey/</guid>
+      <description>I’ve told you about the cult known as the Center for Purposeful Living, another person has shared their experiences with the Center for Purposeful Living, and now another individual has come out denouncing the Center for Purposeful Living which is also known as Human Service Alliance.
+   (adsbygoogle = window.adsbygoogle || []).push({});  The following was originally posted on the FACTNet thread dedicated to Human Service Alliance and the Center for Purposeful Living by someone referring to themselves as marcusrevelus and is being republished here because it is so incredibly powerful and remarkably true:</description>
+    </item>
+    
+    <item>
+      <title>The Center for Purposeful Living is a Cult: Don’t Take My Word For It</title>
+      <link>https://chrisshort.net/post/the-center-for-purposeful-living-is-a-cult-dont-take-my-word-for-it-2/</link>
+      <pubDate>Thu, 14 Jul 2005 20:00:00 +0000</pubDate>
+      <author>chris@chrisshort.net (Chris Short)</author>
+      <guid>https://chrisshort.net/post/the-center-for-purposeful-living-is-a-cult-dont-take-my-word-for-it-2/</guid>
+      <description>It’s obvious I’m not the only one that believes Human Service Alliance, University for Human Goodness, Center for Purposeful Living, or whatever they are calling themselves this week is a cult. That fact is apparent to many not engulfed in the organization including those that have had some limited experience with the cult. A few nights ago I had an exchange of e-mails with someone who wishes to remain anonymous (so for the sake of this article we’ll call them Quincy).</description>
+    </item>
+    
+    <item>
+      <title>The Cult that is Human Service Alliance and the Center for Purposeful Living</title>
+      <link>https://chrisshort.net/post/the-cult-that-is-human-service-alliance-and-the-center-for-purposeful-living-2/</link>
+      <pubDate>Fri, 08 Jul 2005 20:00:00 +0000</pubDate>
+      <author>chris@chrisshort.net (Chris Short)</author>
+      <guid>https://chrisshort.net/post/the-cult-that-is-human-service-alliance-and-the-center-for-purposeful-living-2/</guid>
+      <description>Allow me to take a moment to inform you about a dark part of my past that I have kept from quite a few people; while I was a child I was an unwilling member of a cult known then as Human Service Alliance and after quite a few name changes (to include the University for Human Goodness) it is now known as the Center for Purposeful Living. I was young and when you’re in an environment like that you don’t know any better regardless of your age.</description>
+    </item>
+    
+    <item>
+      <title>Windows XP and Big Hard Drives</title>
+      <link>https://chrisshort.net/post/windows-and-big-hard-drives/</link>
+      <pubDate>Wed, 05 Jan 2005 04:16:00 +0000</pubDate>
+      <author>chris@chrisshort.net (Chris Short)</author>
+      <guid>https://chrisshort.net/post/windows-and-big-hard-drives/</guid>
+      <description>After having issues with a Western Digital 200 GB hard drive and Windows XP I thought it would be beneficial to put my notes into some sort of guide for other people that might have a problem with Windows and drives that are bigger than 137 GB (128 GB binary).
+   (adsbygoogle = window.adsbygoogle || []).push({});  Windows XP Service Pack 1 eliminates the 137 GB (128 GB binary) barrier (Windows XP SP1 includes 48-bit LBA support for ATAPI disk drives).</description>
+    </item>
+    
+    <item>
+      <title>Linux Directory Structure</title>
+      <link>https://chrisshort.net/post/linux-directory-structure/</link>
+      <pubDate>Wed, 05 Jan 2005 01:53:00 +0000</pubDate>
+      <author>chris@chrisshort.net (Chris Short)</author>
+      <guid>https://chrisshort.net/post/linux-directory-structure/</guid>
+      <description>For more information about the Linux directory structure see the Filesystem Hierarchy Standard (FHS) which is part of the Linux Standard Base (LSB) which is a workgroup of the Free Standards Group.
+   (adsbygoogle = window.adsbygoogle || []).push({});  / The root directory (not to be concerned with the root account) is similar to a drive letter in Windows (C:\, D:\, etc.) except that in the Linux directory structure there is only one root directory and everything falls under it (including other filesystems and partitions).</description>
+    </item>
+    
+    <item>
+      <title>Firefox Finally Hits the NY Times</title>
+      <link>https://chrisshort.net/post/firefox-finally-hits-the-ny-times/</link>
+      <pubDate>Fri, 17 Dec 2004 06:06:00 +0000</pubDate>
+      <author>chris@chrisshort.net (Chris Short)</author>
+      <guid>https://chrisshort.net/post/firefox-finally-hits-the-ny-times/</guid>
+      <description>Firefox has taken out a two-page ad in the New York Times! According to Firefox this is the, &amp;ldquo;largest open source fundraising campaign in history&amp;rdquo; and, &amp;ldquo;these folks were willing to put their name out there and be the first to publicly support Firefox and our community at a scale never before attempted in open source history.&amp;rdquo;
+   (adsbygoogle = window.adsbygoogle || []).push({});  Somewhere in that massive list of names is mine.</description>
+    </item>
+    
+    <item>
+      <title>Microsoft and the Death of the Internet</title>
+      <link>https://chrisshort.net/post/microsoft-and-the-death-of-the-internet/</link>
+      <pubDate>Thu, 09 Oct 2003 02:30:00 +0000</pubDate>
+      <author>chris@chrisshort.net (Chris Short)</author>
+      <guid>https://chrisshort.net/post/microsoft-and-the-death-of-the-internet/</guid>
+      <description>Microsoft and its products and services are slowly destroying the Internet or at the very least changing the dynamics of the Internet. There are three main reasons for this rift in the Internet. The first reason is Microsoft&amp;rsquo;s standards. The second reason is the popularity of Microsoft software. The final reason is the security (or lack thereof) of Microsoft software. When you combine these three reasons together you get a potential Internet killer.</description>
+    </item>
+    
+    <item>
+      <title>Moving to Linux - Linux Hopes Dashed</title>
+      <link>https://chrisshort.net/post/moving-to-linux-linux-hopes-dashed/</link>
+      <pubDate>Sun, 28 Sep 2003 02:12:00 +0000</pubDate>
+      <author>chris@chrisshort.net (Chris Short)</author>
+      <guid>https://chrisshort.net/post/moving-to-linux-linux-hopes-dashed/</guid>
+      <description>This will be the final article in the &amp;ldquo;Moving to Linux&amp;rdquo; series.
+   (adsbygoogle = window.adsbygoogle || []).push({});  The Moving to Linux plan had been going along as it should. My Western Digital 200 GB hard drive arrived and I was ready and waiting with a freshly burned copy of Red Hat 9. All the research I had previously done indicated that there shouldn&amp;rsquo;t be any major issues because of all the key components in my computer being compatible with Linux.</description>
+    </item>
+    
+    <item>
+      <title>Moving to Linux - Filesystems</title>
+      <link>https://chrisshort.net/post/moving-to-linux-filesystems/</link>
+      <pubDate>Thu, 15 May 2003 01:41:00 +0000</pubDate>
+      <author>chris@chrisshort.net (Chris Short)</author>
+      <guid>https://chrisshort.net/post/moving-to-linux-filesystems/</guid>
+      <description>After deciding how my hard disk will be partitioned in Linux, I need to select a filesystem for those partitions. A filesystem is a system for organizing directories and files, generally in terms of how it is implemented in the disk operating system. In layman&amp;rsquo;s terms it is code that tells your operating system how data is stored, organized, and managed on a hard disk drive. Every operating system has a filesystem of some sort.</description>
+    </item>
+    
+    <item>
+      <title>Moving to Linux - Partitioning</title>
+      <link>https://chrisshort.net/post/moving-to-linux-partitioning/</link>
+      <pubDate>Sun, 11 May 2003 23:45:00 +0000</pubDate>
+      <author>chris@chrisshort.net (Chris Short)</author>
+      <guid>https://chrisshort.net/post/moving-to-linux-partitioning/</guid>
+      <description>After deciding to make the move to Linux, determining that my hardware is compatible with Linux, and after picking a Linux distro it&amp;rsquo;s time to decide how to partition my hard drive.
+   (adsbygoogle = window.adsbygoogle || []).push({});  Unlike Microsoft Windows where one partition is usually the case, Linux users agree that a few partitions should be made for certain paths that Linux uses. I&amp;rsquo;ve done some research on the Linux Directory Structure and that would be very helpful information to read before continuing if you&amp;rsquo;re not too familiar with Linux already.</description>
+    </item>
+    
+    <item>
+      <title>Moving to Linux - Picking a Distribution</title>
+      <link>https://chrisshort.net/post/moving-to-linux-picking-a-distribution/</link>
+      <pubDate>Sat, 10 May 2003 23:30:00 +0000</pubDate>
+      <author>chris@chrisshort.net (Chris Short)</author>
+      <guid>https://chrisshort.net/post/moving-to-linux-picking-a-distribution/</guid>
+      <description>After deciding to move to Linux and determining that my hardware is compatible with Linux, it&amp;rsquo;s time to pick a Linux distribution.
+   (adsbygoogle = window.adsbygoogle || []).push({});  Choosing the right distribution for you is exactly that. You have to choose the right distribution for YOU. There is no one size fits all Linux distro. You have to think about what you&amp;rsquo;re looking for in a Linux distro and essentially rule out the ones that won&amp;rsquo;t fit you.</description>
+    </item>
+    
+    <item>
+      <title>Moving to Linux - Hardware Compatibility</title>
+      <link>https://chrisshort.net/post/moving-to-linux-hardware-compatibility/</link>
+      <pubDate>Tue, 29 Apr 2003 23:08:00 +0000</pubDate>
+      <author>chris@chrisshort.net (Chris Short)</author>
+      <guid>https://chrisshort.net/post/moving-to-linux-hardware-compatibility/</guid>
+      <description>The first step when preparing for the move to Linux is to make sure that your hardware is compatible. It requires a great deal of research when you get very specific (as I did). For example, I have a Logitech QuickCam Express and I wanted to make sure it would work with the latest Linux kernel. Well initially one would say, &amp;ldquo;Well it&amp;rsquo;s USB 1.1 it should work in Linux, no problem.</description>
+    </item>
+    
+    <item>
+      <title>Moving to Linux</title>
+      <link>https://chrisshort.net/post/moving-to-linux/</link>
+      <pubDate>Thu, 24 Apr 2003 23:05:00 +0000</pubDate>
+      <author>chris@chrisshort.net (Chris Short)</author>
+      <guid>https://chrisshort.net/post/moving-to-linux/</guid>
+      <description>Like a lot of people, I for one am tired of playing Microsoft&amp;rsquo;s silly little game. Update this, patch that, buy our new operating system that turns out to be nothing but a glorified service pack. I&amp;rsquo;ve had it with Microsoft and the money pit that corporation has created. The sheer cost of staying up to date with Windows 2000 or Windows XP (Home or Professional) and Microsoft Office is, by itself, reason enough to look at other operating systems.</description>
+    </item>
+    
+    <item>
+      <title>Microsoft and Open Source</title>
+      <link>https://chrisshort.net/post/microsoft-and-open-source/</link>
+      <pubDate>Thu, 06 Mar 2003 05:16:00 +0000</pubDate>
+      <author>chris@chrisshort.net (Chris Short)</author>
+      <guid>https://chrisshort.net/post/microsoft-and-open-source/</guid>
+      <description>For the past year or so Microsoft has repeatedly said no to Open Source and more recently after numerous attempts to say no has opened up some of its source code to various businesses and governments. Imagine a world where Microsoft Windows and Office were totally open. That&amp;rsquo;s not likely; so let&amp;rsquo;s imagine a world where Microsoft made its products a little more open.
+   (adsbygoogle = window.adsbygoogle || []).</description>
+    </item>
+    
+  </channel>
+</rss>

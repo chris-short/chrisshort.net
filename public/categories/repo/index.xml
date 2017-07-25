@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Repo on Chris Short</title>
+    <link>https://chrisshort.net/categories/repo/</link>
+    <description>Recent content in Repo on Chris Short</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <managingEditor>chris@chrisshort.net (Chris Short)</managingEditor>
+    <webMaster>chris@chrisshort.net (Chris Short)</webMaster>
+    <lastBuildDate>Sat, 25 Jun 2016 17:06:05 +0000</lastBuildDate>
+    
+	<atom:link href="https://chrisshort.net/categories/repo/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Permanently Remove Any Record of a File From git</title>
+      <link>https://chrisshort.net/post/permanently-remove-any-record-of-a-file-from-git/</link>
+      <pubDate>Sat, 25 Jun 2016 17:06:05 +0000</pubDate>
+      <author>chris@chrisshort.net (Chris Short)</author>
+      <guid>https://chrisshort.net/post/permanently-remove-any-record-of-a-file-from-git/</guid>
+      <description>A co-worker and I needed to remove all instances of a binary blob from one of our git repos a while back. This was a lot harder than I thought it should have been, in my opinion. However, distributed version control is not really designed to easily allow folks to delete every instance of a file. But, if you ever run into a case where you do need to expunge a file in git here is how we did it.</description>
+    </item>
+    
+  </channel>
+</rss>

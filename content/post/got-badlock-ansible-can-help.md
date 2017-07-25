@@ -1,0 +1,54 @@
++++
+author = "Chris Short"
+categories = ["ansible", "samba", "badlock", "yum", "apt", "dpkg"]
+date = 2016-04-12T04:57:53Z
+description = ""
+draft = false
+image = "https://cdn.chrisshort.net/badlock.png"
+slug = "got-badlock-ansible-can-help"
+tags = ["ansible", "samba", "badlock", "yum", "apt", "dpkg"]
+title = "Got Badlock? Ansible Can Help"
+
++++
+
+[Badlock](http://badlock.org/) might not be bad for all. If you are using Ansible you can patch your systems with a single playbook (or ad hoc command).
+
+For RPM based OS users Badlock (samba) patching is as easy as:
+`ansible -m shell -a "yum update *samba*" all`
+
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- chrisshort.net Responsive -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-8972983586873269"
+     data-ad-slot="1297095894"
+     data-ad-format="auto"></ins>
+<script>
+   (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+Or you can be very granular and use an Ansible Playbook to audit and patch samba packages:
+<pre><code class="language-yaml">---
+- hosts: all
+  tasks:
+    - name: Check if samba packages are installed
+      shell: "yum list installed *samba* | awk '!/^Loaded|^Installed/' | cut -d ' ' -f 1"
+      register: yum_samba
+    - name: Update samba if installed
+      yum: name={{ item }} state=latest
+      when: yum_samba.stdout != ""
+      with_items: '{{yum_samba.stdout_lines}}'</code></pre>
+
+A similar Ansible Playbook for a Debian based system would look something like this:
+<pre><code class="language-yaml">---
+- hosts: all
+  tasks:
+    - name: Check if samba packages are installed
+      shell: "dpkg --get-selections | grep samba | cut -f 1"
+      register: dpkg_samba
+    - name: Update samba if installed
+      apt: name={{ item }} state=latest
+      when: dpkg_samba.stdout != ""
+      with_items: '{{dpkg_samba.stdout_lines}}'</code></pre>
+
+Your bad nightmares about Badlock will be a not so bad memory in no time.

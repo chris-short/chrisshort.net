@@ -1,0 +1,406 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+  <meta charset="utf-8" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0">
+
+  <title>Microsoft and Open Source</title>
+  <meta property="og:title" content="Microsoft and Open Source" />
+  <meta name="twitter:title" content="Microsoft and Open Source" />
+  <meta name="description" content="For the past year or so Microsoft has repeatedly said no to Open Source and more recently after numerous attempts to say no has opened up some of its source code to various businesses and governments. Imagine a world where Microsoft Windows and Office were totally open. That&rsquo;s not likely; so let&rsquo;s imagine a world where Microsoft made its products a little more open.
+   (adsbygoogle = window.adsbygoogle || []).">
+  <meta property="og:description" content="For the past year or so Microsoft has repeatedly said no to Open Source and more recently after numerous attempts to say no has opened up some of its source code to various businesses and governments. Imagine a world where Microsoft Windows and Office were totally open. That&rsquo;s not likely; so let&rsquo;s imagine a world where Microsoft made its products a little more open.
+   (adsbygoogle = window.adsbygoogle || []).">
+  <meta name="twitter:description" content="For the past year or so Microsoft has repeatedly said no to Open Source and more recently after numerous attempts to say no has opened up some of its source code to various businesses and governments. …">
+  <meta name="author" content="Chris Short"/>
+  <link href='https://cdn.chrisshort.net/favicon.ico' rel='icon' type='image/x-icon'/>
+  <meta name="twitter:card" content="summary" />
+  <meta name="twitter:site" content="@ChrisShort" />
+  <meta name="twitter:creator" content="@ChrisShort" />
+  <meta property="og:url" content="https://chrisshort.net/post/microsoft-and-open-source/" />
+  <meta property="og:type" content="website" />
+  <meta property="og:site_name" content="Chris Short" />
+
+  <meta name="generator" content="Hugo 0.25.1" />
+  <link rel="canonical" href="https://chrisshort.net/post/microsoft-and-open-source/" />
+  <link rel="alternate" href="https://chrisshort.net/index.xml" type="application/rss+xml" title="Chris Short">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.7.1/katex.min.css" integrity="sha384-wITovz90syo1dJWVh32uuETPVEtGigN07tkttEqPv+uR2SE/mbQcG7ATL28aI9H0" crossorigin="anonymous">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" />
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
+  <link rel="stylesheet" href="https://chrisshort.net/css/main.css" />
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Lora:400,700,400italic,700italic" />
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,800italic,400,300,600,700,800" />
+  <link rel="stylesheet" href="https://chrisshort.net/css/pygment_highlights.css" />
+  <link rel="stylesheet" href="https://chrisshort.net/css/highlight.min.css" />
+
+
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/photoswipe/4.1.1/photoswipe.min.css" integrity="sha256-sCl5PUOGMLfFYctzDW3MtRib0ctyUvI9Qsmq2wXOeBY=" crossorigin="anonymous" />
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/photoswipe/4.1.1/default-skin/default-skin.min.css" integrity="sha256-BFeI1V+Vh1Rk37wswuOYn5lsTcaU96hGaI7OUVCLjPc=" crossorigin="anonymous" />
+
+
+
+<div class="pswp" tabindex="-1" role="dialog" aria-hidden="true">
+
+<div class="pswp__bg"></div>
+
+<div class="pswp__scroll-wrap">
+    
+    <div class="pswp__container">
+      <div class="pswp__item"></div>
+      <div class="pswp__item"></div>
+      <div class="pswp__item"></div>
+    </div>
+    
+    <div class="pswp__ui pswp__ui--hidden">
+    <div class="pswp__top-bar">
+      
+      <div class="pswp__counter"></div>
+      <button class="pswp__button pswp__button--close" title="Close (Esc)"></button>
+      <button class="pswp__button pswp__button--share" title="Share"></button>
+      <button class="pswp__button pswp__button--fs" title="Toggle fullscreen"></button>
+      <button class="pswp__button pswp__button--zoom" title="Zoom in/out"></button>
+      
+      
+      <div class="pswp__preloader">
+        <div class="pswp__preloader__icn">
+          <div class="pswp__preloader__cut">
+            <div class="pswp__preloader__donut"></div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="pswp__share-modal pswp__share-modal--hidden pswp__single-tap">
+      <div class="pswp__share-tooltip"></div>
+    </div>
+    <button class="pswp__button pswp__button--arrow--left" title="Previous (arrow left)">
+    </button>
+    <button class="pswp__button pswp__button--arrow--right" title="Next (arrow right)">
+    </button>
+    <div class="pswp__caption">
+      <div class="pswp__caption__center"></div>
+    </div>
+    </div>
+    </div>
+</div>
+
+<script>
+window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
+ga('create', 'UA-4498776-3', 'auto');
+ga('send', 'pageview');
+</script>
+<script async src='//www.google-analytics.com/analytics.js'></script>
+
+</head>
+
+  <body>
+    <nav class="navbar navbar-default navbar-fixed-top navbar-custom">
+  <div class="container-fluid">
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#main-navbar">
+        <span class="sr-only">Toggle navigation</span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+      <a class="navbar-brand" href="https://chrisshort.net">Chris Short</a>
+    </div>
+
+    <div class="collapse navbar-collapse" id="main-navbar">
+      <ul class="nav navbar-nav navbar-right">
+        
+          
+            <li class="navlinks-container">
+              <a class="navlinks-parent" href="javascript:void(0)">Menu</a>
+              <div class="navlinks-children">
+                
+                  <a href="/">Home</a>
+                
+                  <a href="/about/">About</a>
+                
+                  <a href="/resume-cv/">Résumé/CV</a>
+                
+                  <a href="https://devopsish.com">DevOps&#39;ish</a>
+                
+                  <a href="/long-thoracic-nerve-palsy/">Long Thoracic Nerve Palsy</a>
+                
+                  <a href="/center-for-purposeful-living/">Center for Purposeful Living</a>
+                
+                  <a href="/tags">Tags</a>
+                
+              </div>
+            </li>
+          
+        
+
+        
+
+        
+      </ul>
+    </div>
+
+    <div class="avatar-container">
+      <div class="avatar-img-border">
+        
+      </div>
+    </div>
+
+  </div>
+</nav>
+
+
+
+
+    
+  
+  
+  
+
+
+
+
+  
+
+  <header class="header-section ">
+    
+    <div class="intro-header no-img">
+      
+      <div class="container">
+        <div class="row">
+          <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+            <div class="post-heading">
+              <h1>Microsoft and Open Source</h1>
+                
+                
+                  <span class="post-meta">
+  Posted on March 6, 2003
+  
+</span>
+
+
+                
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </header>
+
+
+    
+<div class="container" role="main">
+  <div class="row">
+    <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+      <article role="main" class="blog-post">
+        <p>For the past year or so Microsoft has repeatedly said no to Open Source and more recently after numerous attempts to say no has opened up some of its source code to various businesses and governments. Imagine a world where Microsoft Windows and Office were totally open. That&rsquo;s not likely; so let&rsquo;s imagine a world where Microsoft made its products a little more open.</p>
+
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- chrisshort.net Responsive -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-8972983586873269"
+     data-ad-slot="1297095894"
+     data-ad-format="auto"></ins>
+<script>
+   (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+<p>What do you think would happen if Microsoft kept its kernel under wraps and released just its GUI out to the world as Open Source? Once the major code heads cleaned out all the crap, I imagine a Redhat or a Mandrake would quickly come out with its combo of Linux with the Windows GUI. Similar attempts have been made in the past to make a Windows-like GUI but now it seems that the Linux community is looking at Gnome and KDE to &ldquo;bridge the gap&rdquo; between Windows and Linux users. Why would Microsoft do this? Well, control of course. If the majority of users were using a Microsoft-based GUI then most of the people in world would feel more inclined to use these operating systems as opposed to learning a new one. Think about it, the power of Unix with the ease of Windows. Another thing is money. Microsoft could charge a small lump some for the GUI to individuals and corporations or (the more likely of the two) charge a small fee for every copy of the Windows GUIed operating system sold. This would take away from the freeness of Linux but I&rsquo;d bet money IBM would jump all over it. Consumers would as well. But, if you made Linux and Unix as easy as Windows then the market share of Windows would begin to slip a little. Linux and Unix would still need a competitive productivity suite.</p>
+
+<p>Let&rsquo;s look at the Microsoft versus Open Source picture in another light. Why doesn&rsquo;t Microsoft take the Linux kernel and build its GUI on top of it? Why doesn&rsquo;t Microsoft at least try using the Linux kernel in an OS? Only a handful of people actually know but I bet it has something to do with Microsoft&rsquo;s uncanny ability to stick to its guns and win. This mentality will make even the mightiest of corporations fall off the face of the planet. They could take a common assortment of standard Unix based services build them together how they want it and release it to the world for a hefty price and make a killing, if they did it right. Chances are they wouldn&rsquo;t make the pieces of the puzzle fit right though. Then we&rsquo;d just have an ugly Microsoft-Unix mutant running rampant. However, in a perfect world it would be nice.</p>
+
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- chrisshort.net Responsive -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-8972983586873269"
+     data-ad-slot="1297095894"
+     data-ad-format="auto"></ins>
+<script>
+   (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+<p>Moving away from the operating system, let&rsquo;s discuss productivity suites. Microsoft Office is the worldwide standard in terms of productivity suites. Microsoft PowerPoint, Word, and Excel are mainstays of every business user. As a matter of fact, I&rsquo;m writing this article in Microsoft Word. It&rsquo;s the best damn productivity suite available. Companies in the Linux community have even tried to make their suites compatible with Microsoft&rsquo;s. Lindows, for example, has hit every Wal-Mart in America with its super-low cost Linux based PCs carrying a somewhat limited compatibility with Microsoft Office products. So, why shouldn&rsquo;t Microsoft come out of its Department of Justice induced shell and lay the smack down on Lindows by releasing a Linux version of Office? I&rsquo;ll tell you why. One of the main reasons Microsoft doesn&rsquo;t release Office for every OS in existence is because that&rsquo;s one of the things keeping Microsoft on top in the desktop market. Most companies and people could make the switch to Linux as their full time, desktop operating system, if it had a productivity suite that was compatible with Microsoft&rsquo;s or was made by Microsoft. So Office and Windows are interwoven in a sense. Office runs best on Windows so why would Microsoft make its productivity suite for any other operating system? Considering that making Microsoft Office work on an OS that can be picked up for free would keep money out of Microsoft&rsquo;s pockets, it&rsquo;s not going to happen anytime in the near future. This is a prime example of Microsoft&rsquo;s monopolistic ways and a prime method of stagnating the industry.</p>
+
+<p>Another example that there is no chance in hell Microsoft will warm up to Open Source ways is its implementation of standards. Microsoft&rsquo;s TCP/IP stack is just that, Microsoft&rsquo;s. It&rsquo;s nothing like any other operating system&rsquo;s stack. Even in Windows XP, where they supposedly took a BSDish TCP/IP stack and implemented it into the operating system. They did it the Microsoft way and incorporated full raw sockets for all users, basically saying that the security of Windows XP did not matter. Don&rsquo;t believe me see for yourself at <a href="https://www.grc.com/">GRC.com</a>. Another example? Okay. .NET is a seemingly simple culmination of servers and programming languages that already exist, but Microsoft had to do it their way. The world would be a much better place if Microsoft just took existing standards and used them as opposed to remaking them. However, if you told someone in the Microsoft organization that, they would say that they&rsquo;re either innovative or they do use existing standards unchanged, because they don&rsquo;t know any better.</p>
+
+<p>Obviously, Microsoft is very much anti-Open Source. Why? It&rsquo;s simple, Open Source means less money in Microsoft&rsquo;s ever deepening pockets. Microsoft has absolutely nothing to gain by going Open Source unless they do it the Microsoft way. If they do go through with making a push towards Open Source the Microsoft way, they will fail miserably. Open Source is more today than ever, not Microsoft and that&rsquo;s one of the reasons Open Source is doing so well. Some people in the Microsoft organization believe that Open Source is simply a fad and will die away eventually. That&rsquo;s what some people said about the Internet, too. Microsoft and Open Source don&rsquo;t really mix.</p>
+
+<p>If you don&rsquo;t believe me check out the <a href="http://catb.org/~esr/halloween/index.html">Halloween Documents</a> from Eric S. Raymond. The Halloween Documents are a series of leaked memos from within the Microsoft organization regarding Linux and Open Source and a series of responses to those memos. It&rsquo;s good reading if you have the time.</p>
+
+      </article>
+
+      <ul class="pager blog-pager">
+        
+        
+          <li class="next">
+            <a href="https://chrisshort.net/post/moving-to-linux/" data-toggle="tooltip" data-placement="top" title="Moving to Linux">Next Post &rarr;</a>
+          </li>
+        
+      </ul>
+
+      
+        
+          <div class="disqus-comments">
+            <div id="disqus_thread"></div>
+<script>
+    var disqus_config = function () {
+    
+    
+    
+    };
+    (function() {
+        if (["localhost", "127.0.0.1"].indexOf(window.location.hostname) != -1) {
+            document.getElementById('disqus_thread').innerHTML = 'Disqus comments not available by default when the website is previewed locally.';
+            return;
+        }
+        var d = document, s = d.createElement('script'); s.async = true;
+        s.src = '//' + "chrisshort" + '.disqus.com/embed.js';
+        s.setAttribute('data-timestamp', +new Date());
+        (d.head || d.body).appendChild(s);
+    })();
+</script>
+<noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+<a href="http://disqus.com" class="dsq-brlink">comments powered by <span class="logo-disqus">Disqus</span></a>
+          </div>
+        
+      
+
+    </div>
+  </div>
+</div>
+
+    <footer>
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+        <ul class="list-inline text-center footer-links">
+          
+              <li>
+                <a href="mailto:chris@chrisshort.net" title="Email me">
+                  <span class="fa-stack fa-lg">
+                    <i class="fa fa-circle fa-stack-2x"></i>
+                    <i class="fa fa-envelope fa-stack-1x fa-inverse"></i>
+                  </span>
+                </a>
+              </li>
+              <li>
+                <a href="https://www.facebook.com/thechrisshort" title="Facebook">
+                  <span class="fa-stack fa-lg">
+                    <i class="fa fa-circle fa-stack-2x"></i>
+                    <i class="fa fa-facebook fa-stack-1x fa-inverse"></i>
+                  </span>
+                </a>
+              </li>
+              <li>
+                <a href="https://plus.google.com/&#43;ChrisShort" title="Google&#43;">
+                  <span class="fa-stack fa-lg">
+                    <i class="fa fa-circle fa-stack-2x"></i>
+                    <i class="fa fa-google-plus fa-stack-1x fa-inverse"></i>
+                  </span>
+                </a>
+              </li>
+              <li>
+                <a href="https://github.com/chris-short" title="GitHub">
+                  <span class="fa-stack fa-lg">
+                    <i class="fa fa-circle fa-stack-2x"></i>
+                    <i class="fa fa-github fa-stack-1x fa-inverse"></i>
+                  </span>
+                </a>
+              </li>
+              <li>
+                <a href="https://twitter.com/ChrisShort" title="Twitter">
+                  <span class="fa-stack fa-lg">
+                    <i class="fa fa-circle fa-stack-2x"></i>
+                    <i class="fa fa-twitter fa-stack-1x fa-inverse"></i>
+                  </span>
+                </a>
+              </li>
+              <li>
+                <a href="https://reddit.com/u/oaf357" title="Reddit">
+                  <span class="fa-stack fa-lg">
+                    <i class="fa fa-circle fa-stack-2x"></i>
+                    <i class="fa fa-reddit-alien fa-stack-1x fa-inverse"></i>
+                  </span>
+                </a>
+              </li>
+              <li>
+                <a href="https://linkedin.com/in/christopherbshort" title="LinkedIn">
+                  <span class="fa-stack fa-lg">
+                    <i class="fa fa-circle fa-stack-2x"></i>
+                    <i class="fa fa-linkedin fa-stack-1x fa-inverse"></i>
+                  </span>
+                </a>
+              </li>
+              <li>
+                <a href="https://www.snapchat.com/add/oaf357" title="Snapchat">
+                  <span class="fa-stack fa-lg">
+                    <i class="fa fa-circle fa-stack-2x"></i>
+                    <i class="fa fa-snapchat-ghost fa-stack-1x fa-inverse"></i>
+                  </span>
+                </a>
+              </li>
+              <li>
+                <a href="https://www.instagram.com/thechrisshort" title="Instagram">
+                  <span class="fa-stack fa-lg">
+                    <i class="fa fa-circle fa-stack-2x"></i>
+                    <i class="fa fa-instagram fa-stack-1x fa-inverse"></i>
+                  </span>
+                </a>
+              </li>
+              <li>
+                <a href="https://soundcloud.com/chris-short-15" title="SoundCloud">
+                  <span class="fa-stack fa-lg">
+                    <i class="fa fa-circle fa-stack-2x"></i>
+                    <i class="fa fa-soundcloud fa-stack-1x fa-inverse"></i>
+                  </span>
+                </a>
+              </li>
+          
+          <li>
+            <a href="https://chrisshort.net/index.xml" title="RSS">
+              <span class="fa-stack fa-lg">
+                <i class="fa fa-circle fa-stack-2x"></i>
+                <i class="fa fa-rss fa-stack-1x fa-inverse"></i>
+              </span>
+            </a>
+          </li>
+          
+        </ul>
+        <p class="credits copyright text-muted">
+          Chris Short
+          &nbsp;&bull;&nbsp;
+          2017
+
+          
+            &nbsp;&bull;&nbsp;
+            <a href="https://chrisshort.net">Chris Short</a>
+          
+        </p>
+        
+        <p class="credits theme-by text-muted">
+          <a href="http://gohugo.io">Hugo v0.25.1</a> powered &nbsp;&bull;&nbsp; Theme by <a href="http://deanattali.com/beautiful-jekyll/">Beautiful Jekyll</a> adapted to <a href="https://github.com/halogenica/beautifulhugo">Beautiful Hugo</a>
+          &nbsp;&bull;&nbsp;[<a href="true"></a>]
+        </p>
+      </div>
+    </div>
+  </div>
+</footer>
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.7.1/katex.min.js" integrity="sha384-/y1Nn9+QQAipbNQWU65krzJralCnuOasHncUFXGkdwntGeSvQicrYkiUBwsgUqc1" crossorigin="anonymous"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.7.1/contrib/auto-render.min.js" integrity="sha384-dq1/gEHSxPZQ7DdrM82ID4YVol9BYyU7GbWlIwnwyPzotpoc57wDw/guX8EaYGPx" crossorigin="anonymous"></script>
+<script src="https://code.jquery.com/jquery-1.12.4.min.js" integrity="sha256-ZosEbRLbNQzLpnKIkEdrPv7lOy9C27hHQ+Xp8a4MxAQ=" crossorigin="anonymous"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
+<script src="https://chrisshort.net/js/main.js"></script>
+<script src="https://chrisshort.net/js/highlight.min.js"></script>
+<script> hljs.initHighlightingOnLoad(); </script>
+<script> renderMathInElement(document.body); </script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/photoswipe/4.1.1/photoswipe.min.js" integrity="sha256-UplRCs9v4KXVJvVY+p+RSo5Q4ilAUXh7kpjyIP5odyc=" crossorigin="anonymous"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/photoswipe/4.1.1/photoswipe-ui-default.min.js" integrity="sha256-PWHOlUzc96pMc8ThwRIXPn8yH4NOLu42RQ0b9SpnpFk=" crossorigin="anonymous"></script>
+<script src="/js/load-photoswipe.js"></script>
+
+
+
+  </body>
+</html>
+

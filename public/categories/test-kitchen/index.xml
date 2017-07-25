@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Test Kitchen on Chris Short</title>
+    <link>https://chrisshort.net/categories/test-kitchen/</link>
+    <description>Recent content in Test Kitchen on Chris Short</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <managingEditor>chris@chrisshort.net (Chris Short)</managingEditor>
+    <webMaster>chris@chrisshort.net (Chris Short)</webMaster>
+    <lastBuildDate>Mon, 23 Jan 2017 22:03:02 +0000</lastBuildDate>
+    
+	<atom:link href="https://chrisshort.net/categories/test-kitchen/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>GitLab Annoyance: Private to Public Repos</title>
+      <link>https://chrisshort.net/post/gitlab-annoyance-private-to-public-repos/</link>
+      <pubDate>Mon, 23 Jan 2017 22:03:02 +0000</pubDate>
+      <author>chris@chrisshort.net (Chris Short)</author>
+      <guid>https://chrisshort.net/post/gitlab-annoyance-private-to-public-repos/</guid>
+      <description>I was working on a new Ansible role last week and was having problems with Test Kitchen. The issue I was having was that Test Kitchen was unable to pull in dependencies from GitLab for the Ansible role I was developing. Here is the error message I was seeing:
+[WARNING]: - rsyslog was NOT installed successfully: - command git clone https://gitlab.logicnow.com/ansible-roles/rsyslog.git rsyslog failed in directory /tmp/tmpEaRVAA (rc=128)
+I realized that on our internal, private GitLab server a repo needed to be changed from Private to Public.</description>
+    </item>
+    
+  </channel>
+</rss>

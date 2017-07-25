@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hardware on Chris Short</title>
+    <link>https://chrisshort.net/tags/hardware/</link>
+    <description>Recent content in Hardware on Chris Short</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <managingEditor>chris@chrisshort.net (Chris Short)</managingEditor>
+    <webMaster>chris@chrisshort.net (Chris Short)</webMaster>
+    <lastBuildDate>Tue, 29 Apr 2003 23:08:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://chrisshort.net/tags/hardware/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Moving to Linux - Hardware Compatibility</title>
+      <link>https://chrisshort.net/post/moving-to-linux-hardware-compatibility/</link>
+      <pubDate>Tue, 29 Apr 2003 23:08:00 +0000</pubDate>
+      <author>chris@chrisshort.net (Chris Short)</author>
+      <guid>https://chrisshort.net/post/moving-to-linux-hardware-compatibility/</guid>
+      <description>The first step when preparing for the move to Linux is to make sure that your hardware is compatible. It requires a great deal of research when you get very specific (as I did). For example, I have a Logitech QuickCam Express and I wanted to make sure it would work with the latest Linux kernel. Well initially one would say, &amp;ldquo;Well it&amp;rsquo;s USB 1.1 it should work in Linux, no problem.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,41 @@
++++
+author = "Chris Short"
+date = 2003-04-24T23:05:00Z
+description = ""
+draft = false
+slug = "moving-to-linux"
+title = "Moving to Linux"
+
++++
+
+Like a lot of people, I for one am tired of playing Microsoft's silly little game. Update this, patch that, buy our new operating system that turns out to be nothing but a glorified service pack. I've had it with Microsoft and the money pit that corporation has created. The sheer cost of staying up to date with Windows 2000 or Windows XP (Home or Professional) and Microsoft Office is, by itself, reason enough to look at other operating systems. Then let's not touch too much on the "OS Nothing" experience Microsoft has been serving up. First there was Windows ME, a glorified service pack or third edition to Windows 98 that gave most people a lot of headaches. Now I'm reading about how Windows Server 2003 isn't going to be much of an upgrade but more like a service pack to Windows 2000 Server editions. These are great money making ploys but there are better things that I could do with my money. The alternative: Linux. Linux is an open source, fully customizable operating system that could be engineered to power your microwave if you wanted. I'm moving to Linux.
+
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- chrisshort.net Responsive -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-8972983586873269"
+     data-ad-slot="1297095894"
+     data-ad-format="auto"></ins>
+<script>
+   (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+I'm not a "new" Linux user but I might as well be. The last time I used Linux on a day to day basis was the summer of 1999. I've had many frustrating dual boot scenarios since then but have never been truly satisfied with having two operating systems on one computer. I've also had to think about other users in my home. My senior year in high school I used Linux at work and had two Linux gurus sitting across the room from me. But, at home I used Windows because of the slim chance my parents ever wanted to use the computer for anything (and they did). After moving out of my parents' house I wanted to make the move but my new career and new wife weren't quite ready for the Linux experience yet. There were times where my Linux experience was needed but the United States Air Force isn't exactly going to dump Microsoft any time soon. My wife however is ready for the move to Linux. Moving to Linux now is a very viable option considering the leaps and bounds being made in the open source community everyday.
+
+The fact that Linux is open source means that I'll be able to get the operating system, productivity suite, and any other software that I might need for free or close to free. Open source is truly a just cause. Emerging standards in the open source community will help make the transition smoother. Improved hardware support makes the transition possible. The hardware that ventures out of the labs today is supported under Linux a lot faster than it used to be. New hardware compatibility under Linux is possible via compiling the kernel to include the support. In the Microsoft world buying an upgrade to your existing operating system was almost a requirement for full-fledged support. Tux will now be my friend and not the laughable "Start" button. There will still be patching but the patches will be developed quickly and won't be nearly as plentiful as in the Microsoft arena. Also, the fact that I'll be able to have complete control of everything from the kernel on up is another "selling point" for moving to Linux. Want to streamline a kernel for improved performance, no problem. Want to performance enhance your desktop environment, no problem. Want to use a journalled filesystem, no problem (well you have to pick one, that could be difficult). Linux is truly a viable alternative for the desktop user.
+
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- chrisshort.net Responsive -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-8972983586873269"
+     data-ad-slot="1297095894"
+     data-ad-format="auto"></ins>
+<script>
+   (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+Moving to Linux won't be a cake walk but the people at Red Hat and MandrakeSoft will definitely make the experience a lot easier in the future. I'm looking for a "crutchless" changeover from the Microsoft environment to Linux. There are a few Linux applications that allow you to run Microsoft software under Linux, such as, [WINE](https://www.winehq.org/) and [CrossOver](https://www.codeweavers.com/). Those options are there just in case. They won't be used until they're absolutely necessary due to file type incompatibility or lack of an alternative. I don't intend to find a lack of an alternative. The GIMP replaces PhotoShop, arson replaces Nero and Easy CD Creator, Kino and Cinelerra can replace Adobe Premier, OpenOffice and Ximian Evolution will quickly replace Microsoft Office. But there are some programs that I need to still find solutions for due to file type incompatibility, such as Microsoft Visio and FormFlow. There are also Windows-based programs that I really like, for example, Macromedia Studio MX. However, those bridges can be crossed when I get to them. It might at times seem like I've sacrificed ease of use but that usually isn't the case because in Linux you create ease of use. Sure someone's opinion of ease of use isn't already incorporated but the ability to control that ease of use is worth the time it takes. Researching before the move to Linux will be important to obtain the functionality I require.
+
+I'm not going to dive right in, of course. I'm going to do my homework so that I don't find the first web site I go to is a Linux support site. I'm going to make sure that once the install process starts there won't be any hurdles that would cause it to fail. I'll know what programs I want installed under Linux before moving to Linux. There are so many solutions out there that finding one won't be the problem. The problem will be narrowing the solutions down to the one that suits my needs and the needs of all the users in my household. **Look out Linux, here I come**.

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Aws on Chris Short</title>
+    <link>https://chrisshort.net/categories/aws/</link>
+    <description>Recent content in Aws on Chris Short</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <managingEditor>chris@chrisshort.net (Chris Short)</managingEditor>
+    <webMaster>chris@chrisshort.net (Chris Short)</webMaster>
+    <lastBuildDate>Thu, 26 Jan 2017 21:37:04 +0000</lastBuildDate>
+    
+	<atom:link href="https://chrisshort.net/categories/aws/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Find EC2 Instances That Are Missing Tags</title>
+      <link>https://chrisshort.net/post/find-ec2-instances-that-are-missing-tags/</link>
+      <pubDate>Thu, 26 Jan 2017 21:37:04 +0000</pubDate>
+      <author>chris@chrisshort.net (Chris Short)</author>
+      <guid>https://chrisshort.net/post/find-ec2-instances-that-are-missing-tags/</guid>
+      <description>The team here was trying to align AWS resources for billing by using Tags. Seems easy enough but we were having issues trying to figure out which EC2 instances were not tagged. We also wanted to find EC2 instances that are missing a ROLE tag. We searched high and low and found that several people needed a solution. We tried to cobble something together with the AWS CLI and then Ansible.</description>
+    </item>
+    
+    <item>
+      <title>Technical Debt and the Ongoing Battle Against It</title>
+      <link>https://chrisshort.net/post/technical-debt-and-the-ongoing-battle-against-it/</link>
+      <pubDate>Tue, 09 Aug 2016 18:13:30 +0000</pubDate>
+      <author>chris@chrisshort.net (Chris Short)</author>
+      <guid>https://chrisshort.net/post/technical-debt-and-the-ongoing-battle-against-it/</guid>
+      <description>I have been trying to fit a lot of square pegs into round holes lately. Eliminating technical debt with modern day DevOps practices to reduce costs is seldom fun or glamorous but is very often beneficial. Reducing costs should be the mindset of IT and one surefire way to do that is to spend the right amount of time on a task to complete it successfully. Finding that balance is definitely tricky especially when a lot of us are human time division multiplexers now.</description>
+    </item>
+    
+    <item>
+      <title>Low Cost Content Delivery Network (CDN)</title>
+      <link>https://chrisshort.net/post/low-cost-content-delivery-network-cdn/</link>
+      <pubDate>Tue, 14 Jun 2016 17:18:30 +0000</pubDate>
+      <author>chris@chrisshort.net (Chris Short)</author>
+      <guid>https://chrisshort.net/post/low-cost-content-delivery-network-cdn/</guid>
+      <description>A content delivery network (CDN) provides a service that enables public facing, web based responsive access to said resources in an effort to maintain a good user experience across the planet. A CDN provides a localized cache (copy) of your web site and its content closer to end users. CDNs leverage local data centers closer to end users and a little DNS magic to make this work. CDNs help their customers have a significantly smaller infrastructure footprint while maintaining fast load time for services provided.</description>
+    </item>
+    
+  </channel>
+</rss>

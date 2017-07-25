@@ -1,0 +1,47 @@
++++
+author = "Chris Short"
+categories = ["microsoft", "open source"]
+date = 2003-03-06T05:16:00Z
+description = ""
+draft = false
+slug = "microsoft-and-open-source"
+tags = ["microsoft", "open source"]
+title = "Microsoft and Open Source"
+
++++
+
+For the past year or so Microsoft has repeatedly said no to Open Source and more recently after numerous attempts to say no has opened up some of its source code to various businesses and governments. Imagine a world where Microsoft Windows and Office were totally open. That's not likely; so let's imagine a world where Microsoft made its products a little more open.
+
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- chrisshort.net Responsive -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-8972983586873269"
+     data-ad-slot="1297095894"
+     data-ad-format="auto"></ins>
+<script>
+   (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+What do you think would happen if Microsoft kept its kernel under wraps and released just its GUI out to the world as Open Source? Once the major code heads cleaned out all the crap, I imagine a Redhat or a Mandrake would quickly come out with its combo of Linux with the Windows GUI. Similar attempts have been made in the past to make a Windows-like GUI but now it seems that the Linux community is looking at Gnome and KDE to "bridge the gap" between Windows and Linux users. Why would Microsoft do this? Well, control of course. If the majority of users were using a Microsoft-based GUI then most of the people in world would feel more inclined to use these operating systems as opposed to learning a new one. Think about it, the power of Unix with the ease of Windows. Another thing is money. Microsoft could charge a small lump some for the GUI to individuals and corporations or (the more likely of the two) charge a small fee for every copy of the Windows GUIed operating system sold. This would take away from the freeness of Linux but I'd bet money IBM would jump all over it. Consumers would as well. But, if you made Linux and Unix as easy as Windows then the market share of Windows would begin to slip a little. Linux and Unix would still need a competitive productivity suite.
+
+Let's look at the Microsoft versus Open Source picture in another light. Why doesn't Microsoft take the Linux kernel and build its GUI on top of it? Why doesn't Microsoft at least try using the Linux kernel in an OS? Only a handful of people actually know but I bet it has something to do with Microsoft's uncanny ability to stick to its guns and win. This mentality will make even the mightiest of corporations fall off the face of the planet. They could take a common assortment of standard Unix based services build them together how they want it and release it to the world for a hefty price and make a killing, if they did it right. Chances are they wouldn't make the pieces of the puzzle fit right though. Then we'd just have an ugly Microsoft-Unix mutant running rampant. However, in a perfect world it would be nice.
+
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- chrisshort.net Responsive -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-8972983586873269"
+     data-ad-slot="1297095894"
+     data-ad-format="auto"></ins>
+<script>
+   (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+Moving away from the operating system, let's discuss productivity suites. Microsoft Office is the worldwide standard in terms of productivity suites. Microsoft PowerPoint, Word, and Excel are mainstays of every business user. As a matter of fact, I'm writing this article in Microsoft Word. It's the best damn productivity suite available. Companies in the Linux community have even tried to make their suites compatible with Microsoft's. Lindows, for example, has hit every Wal-Mart in America with its super-low cost Linux based PCs carrying a somewhat limited compatibility with Microsoft Office products. So, why shouldn't Microsoft come out of its Department of Justice induced shell and lay the smack down on Lindows by releasing a Linux version of Office? I'll tell you why. One of the main reasons Microsoft doesn't release Office for every OS in existence is because that's one of the things keeping Microsoft on top in the desktop market. Most companies and people could make the switch to Linux as their full time, desktop operating system, if it had a productivity suite that was compatible with Microsoft's or was made by Microsoft. So Office and Windows are interwoven in a sense. Office runs best on Windows so why would Microsoft make its productivity suite for any other operating system? Considering that making Microsoft Office work on an OS that can be picked up for free would keep money out of Microsoft's pockets, it's not going to happen anytime in the near future. This is a prime example of Microsoft's monopolistic ways and a prime method of stagnating the industry.
+
+Another example that there is no chance in hell Microsoft will warm up to Open Source ways is its implementation of standards. Microsoft's TCP/IP stack is just that, Microsoft's. It's nothing like any other operating system's stack. Even in Windows XP, where they supposedly took a BSDish TCP/IP stack and implemented it into the operating system. They did it the Microsoft way and incorporated full raw sockets for all users, basically saying that the security of Windows XP did not matter. Don't believe me see for yourself at [GRC.com](https://www.grc.com/). Another example? Okay. .NET is a seemingly simple culmination of servers and programming languages that already exist, but Microsoft had to do it their way. The world would be a much better place if Microsoft just took existing standards and used them as opposed to remaking them. However, if you told someone in the Microsoft organization that, they would say that they're either innovative or they do use existing standards unchanged, because they don't know any better.
+
+Obviously, Microsoft is very much anti-Open Source. Why? It's simple, Open Source means less money in Microsoft's ever deepening pockets. Microsoft has absolutely nothing to gain by going Open Source unless they do it the Microsoft way. If they do go through with making a push towards Open Source the Microsoft way, they will fail miserably. Open Source is more today than ever, not Microsoft and that's one of the reasons Open Source is doing so well. Some people in the Microsoft organization believe that Open Source is simply a fad and will die away eventually. That's what some people said about the Internet, too. Microsoft and Open Source don't really mix.
+
+If you don't believe me check out the [Halloween Documents](http://catb.org/~esr/halloween/index.html) from Eric S. Raymond. The Halloween Documents are a series of leaked memos from within the Microsoft organization regarding Linux and Open Source and a series of responses to those memos. It's good reading if you have the time.

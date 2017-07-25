@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Video Games on Chris Short</title>
+    <link>https://chrisshort.net/categories/video-games/</link>
+    <description>Recent content in Video Games on Chris Short</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <managingEditor>chris@chrisshort.net (Chris Short)</managingEditor>
+    <webMaster>chris@chrisshort.net (Chris Short)</webMaster>
+    <lastBuildDate>Tue, 27 Jul 2010 20:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://chrisshort.net/categories/video-games/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Review: Wii Sports Resort</title>
+      <link>https://chrisshort.net/post/review-wii-sports-resort/</link>
+      <pubDate>Tue, 27 Jul 2010 20:00:00 +0000</pubDate>
+      <author>chris@chrisshort.net (Chris Short)</author>
+      <guid>https://chrisshort.net/post/review-wii-sports-resort/</guid>
+      <description>I have to say that I was not too enthusiastic about Wii Sports Resort when its release was announced. What intrigued me, obviously, was the addition of the Wii MotionPlus functionality. Wii Sports Resort is essentially Wii Sports 2 with a resort/spa theme.
+   (adsbygoogle = window.adsbygoogle || []).push({});  All sports activities take place on an island which is explorable by plane (which I do enjoy). The added gyroscopes and spatial awareness added by the Wii MotionPlus accessory is pretty awesome.</description>
+    </item>
+    
+  </channel>
+</rss>

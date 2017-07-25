@@ -1,0 +1,107 @@
+baseurl = "/"
+DefaultContentLanguage = "en"
+title = "Chris Short"
+theme = "beautifulhugo"
+metaDataFormat = "yaml"
+pygmentsUseClasses = true
+pygmentCodeFences = true
+disqusShortname = "chrisshort"
+googleAnalytics = "UA-4498776-3"
+
+[Params]
+  subtitle = "DevOps'ing with a Flourish, Sarcasm as a Service™, OSS Advocate, Florida Gator, Partially Disabled AF Vet, Husband, Father. Views are solely mine."
+#  logo = "https://cdn.chrisshort.net/chrisshort.net-logo-2017.png"
+  favicon = "https://cdn.chrisshort.net/favicon.ico"
+  dateFormat = "January 2, 2006"
+  commit = false
+  rss = true
+  comments = true
+#  gcse = "8972983586873269:7437701092" # Get your code from google.com/cse. Make sure to go to "Look and Feel" and change Layout to "Full Width" and Theme to "Classic"
+
+#[[Params.bigimg]]
+#  src = "img/triangle.jpg"
+#  desc = "Triangle"
+#[[Params.bigimg]]
+#  src = "img/sphere.jpg"
+#  desc = "Sphere"
+#[[Params.bigimg]]
+#  src = "img/hexagon.jpg"
+#  desc = "Hexagon"
+
+[Author]
+  name = "Chris Short"
+#  email = ""
+  facebook = "thechrisshort"
+  googleplus = "+ChrisShort" # or xxxxxxxxxxxxxxxxxxxxx
+  github = "chris-short"
+#  gitlab = "username"
+  twitter = "ChrisShort"
+  reddit = "oaf357"
+  linkedin = "christopherbshort"
+  medium = "@chrisshort"
+  tumblr = "chrisshort"
+#  xing = "username"
+#  stackoverflow = "users/XXXXXXX/username"
+  snapchat = "oaf357"
+  instagram = "thechrisshort"
+  500px = "chrisshort"
+  flickr = "chris-short"
+#  youtube = "user/username" # or channel/channelname
+  soundcloud = "chris-short-15"
+  twitch = "thechrisshort"
+  keybase = "chrisshort"
+  producthunt = "@chrisshort"
+#  spotify = "username"
+#  bandcamp = "username"
+#  itchio = "username"
+#  vk = "username"
+#  paypal = "username"
+#  telegram = "username"
+  
+
+[[menu.main]]
+    identifier = "menu"
+    name = "Menu"
+    weight = 1
+
+[[menu.main]]
+    parent = "menu"
+    name = "Home"
+    url = "/"
+    weight = 1
+
+[[menu.main]]
+    parent = "menu"
+    name = "About"
+    url = "/about/"
+    weight = 2
+
+[[menu.main]]
+    parent = "menu"
+    name = "Résumé/CV"
+    url = "/resume-cv/"
+    weight = 3
+
+[[menu.main]]
+    parent = "menu"
+    name = "DevOps'ish"
+    url = "https://devopsish.com"
+    weight = 4
+
+[[menu.main]]
+    parent = "menu"
+    name = "Long Thoracic Nerve Palsy"
+    url = "/long-thoracic-nerve-palsy/"
+    weight = 5
+
+[[menu.main]]
+    parent = "menu"
+    name = "Center for Purposeful Living"
+    url = "/center-for-purposeful-living/"
+    weight = 6
+
+[[menu.main]]
+    parent = "menu"
+    name = "Tags"
+    url = "tags"
+    weight = 100
