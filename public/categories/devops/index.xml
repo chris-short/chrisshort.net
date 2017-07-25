@@ -2,22 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Devops on Chris Short</title>
-    <link>https://chrisshort.net/categories/devops/</link>
+    <link>/categories/devops/</link>
     <description>Recent content in Devops on Chris Short</description>
     <generator>Hugo -- gohugo.io</generator>
-    <managingEditor>chris@chrisshort.net (Chris Short)</managingEditor>
-    <webMaster>chris@chrisshort.net (Chris Short)</webMaster>
     <lastBuildDate>Sat, 22 Jul 2017 22:23:32 +0000</lastBuildDate>
     
-	<atom:link href="https://chrisshort.net/categories/devops/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/categories/devops/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Testing Certificate Chains in Go</title>
-      <link>https://chrisshort.net/post/testing-certificate-chains-in-go/</link>
+      <link>/post/testing-certificate-chains-in-go/</link>
       <pubDate>Sat, 22 Jul 2017 22:23:32 +0000</pubDate>
-      <author>chris@chrisshort.net (Chris Short)</author>
-      <guid>https://chrisshort.net/post/testing-certificate-chains-in-go/</guid>
+      
+      <guid>/post/testing-certificate-chains-in-go/</guid>
       <description>This talk was derived from an opensource.com article I wrote in April 2017, Golang to the rescue: Saving DevOps from TLS turmoil. Presented at GopherCon 2017 as a Lightning Talk. Source for the talk is available on GitHub.
 Introduction Chris Short
  Manager of DevOps at Bankrate opensource.com and DZone Contributor Contributed to The Open Organization Guide to IT Culture Change DevOpsDays Speaker and Organizer DevOps&amp;rsquo;ish chrisshort.net @ChrisShort  Notes:</description>
@@ -25,67 +23,67 @@ Introduction Chris Short
     
     <item>
       <title>The Open Organization Guide to IT Culture Change</title>
-      <link>https://chrisshort.net/post/the-open-organization-guide-to-it-culture-change/</link>
+      <link>/post/the-open-organization-guide-to-it-culture-change/</link>
       <pubDate>Tue, 06 Jun 2017 12:00:00 +0000</pubDate>
-      <author>chris@chrisshort.net (Chris Short)</author>
-      <guid>https://chrisshort.net/post/the-open-organization-guide-to-it-culture-change/</guid>
+      
+      <guid>/post/the-open-organization-guide-to-it-culture-change/</guid>
       <description>The open organization community at Opensource.com (of which I&amp;rsquo;m a member) is pleased to announce the immediate release of its newest book, The Open Organization Guide to IT Culture Change.
 As IT teams around the world rise to these new challenges, they&amp;rsquo;re realizing that radical change isn&amp;rsquo;t a matter of tools alone. It&amp;rsquo;s also a matter of culture—the values that underpin behaviors, influence problem-solving capability, and facilitate truly revolutionary potential. Those values are open values.</description>
     </item>
     
     <item>
       <title>A Night of DevOps at Open Source South Carolina</title>
-      <link>https://chrisshort.net/post/night-of-devops-open-source-sc/</link>
+      <link>/post/night-of-devops-open-source-sc/</link>
       <pubDate>Tue, 30 May 2017 22:46:35 +0000</pubDate>
-      <author>chris@chrisshort.net (Chris Short)</author>
-      <guid>https://chrisshort.net/post/night-of-devops-open-source-sc/</guid>
+      
+      <guid>/post/night-of-devops-open-source-sc/</guid>
       <description>On Tuesday, May 23, 2017, I did a DevOps talk at Open Source South Carolina. The talk was a DevOps 101-styled deep dive into DevOps. Since the number one question I get when talking about DevOps, in general, is &amp;ldquo;where do I start?&amp;rdquo; I added my &amp;ldquo;The Three Things&amp;rdquo; to the already well known &amp;ldquo;Three Ways&amp;rdquo;. This provided both the holistic view while guiding people needed an extra nudge down the DevOps path.</description>
     </item>
     
     <item>
       <title>&#34;Good SysAdmin to DevOps Engineer in Six Months&#34;</title>
-      <link>https://chrisshort.net/post/sysadmin-to-devops-six-months/</link>
+      <link>/post/sysadmin-to-devops-six-months/</link>
       <pubDate>Thu, 11 May 2017 12:04:00 +0000</pubDate>
-      <author>chris@chrisshort.net (Chris Short)</author>
-      <guid>https://chrisshort.net/post/sysadmin-to-devops-six-months/</guid>
+      
+      <guid>/post/sysadmin-to-devops-six-months/</guid>
       <description>The other day my Vice President asked me a question, &amp;ldquo;What would it take to turn a good SysAdmin into a DevOps engineer?&amp;rdquo; He followed it up with, &amp;ldquo;Don&amp;rsquo;t spend more than ten minutes thinking about it.&amp;rdquo; He was not disappointed when I told him the next day I am spending way more than ten minutes on answering the question. This is a hard question for me to answer. This is a question that you won&amp;rsquo;t know if your answer is right for at least six months.</description>
     </item>
     
     <item>
       <title>The Dark Side of DevOps</title>
-      <link>https://chrisshort.net/post/the-dark-side-of-devops/</link>
+      <link>/post/the-dark-side-of-devops/</link>
       <pubDate>Fri, 10 Mar 2017 12:02:00 +0000</pubDate>
-      <author>chris@chrisshort.net (Chris Short)</author>
-      <guid>https://chrisshort.net/post/the-dark-side-of-devops/</guid>
+      
+      <guid>/post/the-dark-side-of-devops/</guid>
       <description>Disclaimer: These are real world experiences I have had within organizations that I have been employed by. Identifying information is intentionally anonymous. If you read this and think you are one of the teammates please keep that to yourself for the sake of others.
 A lot of people think that DevOps, Cloud Native, Agile, GROWS, etc. are all rainbows and roses. You start small and work your way up to full blown operations or you decide as an organizational unit to change.</description>
     </item>
     
     <item>
       <title>Recent Accomplishments</title>
-      <link>https://chrisshort.net/post/recent-accomplishments/</link>
+      <link>/post/recent-accomplishments/</link>
       <pubDate>Fri, 03 Feb 2017 13:03:00 +0000</pubDate>
-      <author>chris@chrisshort.net (Chris Short)</author>
-      <guid>https://chrisshort.net/post/recent-accomplishments/</guid>
+      
+      <guid>/post/recent-accomplishments/</guid>
       <description>I feel like I should say I don&amp;rsquo;t like to toot my own horn. But, if I don&amp;rsquo;t toot it who will? December and January were very busy months for me and February is definitely going to be busy. You should always be working outside your personal and professional comfort zones.
 Last month, a DZone editor reached out to me asking to write a piece for the DZone DevOps: Continuous Delivery and Automation guide.</description>
     </item>
     
     <item>
       <title>Find EC2 Instances That Are Missing Tags</title>
-      <link>https://chrisshort.net/post/find-ec2-instances-that-are-missing-tags/</link>
+      <link>/post/find-ec2-instances-that-are-missing-tags/</link>
       <pubDate>Thu, 26 Jan 2017 21:37:04 +0000</pubDate>
-      <author>chris@chrisshort.net (Chris Short)</author>
-      <guid>https://chrisshort.net/post/find-ec2-instances-that-are-missing-tags/</guid>
+      
+      <guid>/post/find-ec2-instances-that-are-missing-tags/</guid>
       <description>The team here was trying to align AWS resources for billing by using Tags. Seems easy enough but we were having issues trying to figure out which EC2 instances were not tagged. We also wanted to find EC2 instances that are missing a ROLE tag. We searched high and low and found that several people needed a solution. We tried to cobble something together with the AWS CLI and then Ansible.</description>
     </item>
     
     <item>
       <title>GitLab Annoyance: Private to Public Repos</title>
-      <link>https://chrisshort.net/post/gitlab-annoyance-private-to-public-repos/</link>
+      <link>/post/gitlab-annoyance-private-to-public-repos/</link>
       <pubDate>Mon, 23 Jan 2017 22:03:02 +0000</pubDate>
-      <author>chris@chrisshort.net (Chris Short)</author>
-      <guid>https://chrisshort.net/post/gitlab-annoyance-private-to-public-repos/</guid>
+      
+      <guid>/post/gitlab-annoyance-private-to-public-repos/</guid>
       <description>I was working on a new Ansible role last week and was having problems with Test Kitchen. The issue I was having was that Test Kitchen was unable to pull in dependencies from GitLab for the Ansible role I was developing. Here is the error message I was seeing:
 [WARNING]: - rsyslog was NOT installed successfully: - command git clone https://gitlab.logicnow.com/ansible-roles/rsyslog.git rsyslog failed in directory /tmp/tmpEaRVAA (rc=128)
 I realized that on our internal, private GitLab server a repo needed to be changed from Private to Public.</description>
@@ -93,20 +91,20 @@ I realized that on our internal, private GitLab server a repo needed to be chang
     
     <item>
       <title>Military Lessons Applied to DevOps: Operation Eagle Claw</title>
-      <link>https://chrisshort.net/post/military-lessons-applied-to-devops-operation-eagle-claw/</link>
+      <link>/post/military-lessons-applied-to-devops-operation-eagle-claw/</link>
       <pubDate>Wed, 18 Jan 2017 15:05:00 +0000</pubDate>
-      <author>chris@chrisshort.net (Chris Short)</author>
-      <guid>https://chrisshort.net/post/military-lessons-applied-to-devops-operation-eagle-claw/</guid>
+      
+      <guid>/post/military-lessons-applied-to-devops-operation-eagle-claw/</guid>
       <description>As part of preparing for my talk at DevOpsDays Detroit, I did a significant amount of research into military failures. It was hard to find a military failure that did not evoke an emotional response or political discussion. But, I was prepared to talk about two: The 1961 Goldsboro B-52 Crash and the failed Iran hostage rescue, Operation Eagle Claw.
 In the case of Operation Eagle Claw, you can draw a comparison to the old IT silo mentality of Dev and Ops being two different teams with very different objectives.</description>
     </item>
     
     <item>
       <title>Ansible Role for Papertrail</title>
-      <link>https://chrisshort.net/post/ansible-role-for-papertrail/</link>
+      <link>/post/ansible-role-for-papertrail/</link>
       <pubDate>Fri, 09 Dec 2016 13:35:00 +0000</pubDate>
-      <author>chris@chrisshort.net (Chris Short)</author>
-      <guid>https://chrisshort.net/post/ansible-role-for-papertrail/</guid>
+      
+      <guid>/post/ansible-role-for-papertrail/</guid>
       <description>I have written my first publicly reusable Ansible role. It is freely available for use via Ansible Galaxy at chris-short.ansible-role-papertrail and helps you get Papertrail up and running.
 What is Papertrail? A hosted log management tool that, in my opinion, can bridge the gap between your terminal and a full blown ELK stack. It is no frills streaming log aggregation and search.
 
@@ -115,50 +113,50 @@ Being my first Ansible role I have submitted to Galaxy I am pretty stoked about 
     
     <item>
       <title>Triangle DevOps: What The Military Taught Me About DevOps</title>
-      <link>https://chrisshort.net/post/triangle-devops-what-the-military-taught-me-about-devops/</link>
+      <link>/post/triangle-devops-what-the-military-taught-me-about-devops/</link>
       <pubDate>Fri, 02 Dec 2016 02:13:01 +0000</pubDate>
-      <author>chris@chrisshort.net (Chris Short)</author>
-      <guid>https://chrisshort.net/post/triangle-devops-what-the-military-taught-me-about-devops/</guid>
+      
+      <guid>/post/triangle-devops-what-the-military-taught-me-about-devops/</guid>
       <description>I had the opportunity to present What The Military Taught Me About DevOps at the Triangle DevOps Meetup last night. It was a fantastic group of people and I fielded a lot of great feedback after speaking.
 One person asked if I would be willing to share my slides. I informed him that they were already shared but I think the notes that accompany the slides are important to share too:</description>
     </item>
     
     <item>
       <title>DevOps Perspectives from the Front Lines</title>
-      <link>https://chrisshort.net/post/devops-perspectives-from-the-front-lines/</link>
+      <link>/post/devops-perspectives-from-the-front-lines/</link>
       <pubDate>Mon, 31 Oct 2016 12:00:00 +0000</pubDate>
-      <author>chris@chrisshort.net (Chris Short)</author>
-      <guid>https://chrisshort.net/post/devops-perspectives-from-the-front-lines/</guid>
+      
+      <guid>/post/devops-perspectives-from-the-front-lines/</guid>
       <description>The month of October was quite unique for me. I went to a number of conferences and talked to tons of people from all walks of life. All of the events were great; DevOpsDays Raleigh, AnsibleFest Brooklyn, DevOpsDays Detroit, and All Things Open are all events I would recommend to anyone considering them.
 One distinctly unique opportunity was to sit down with the folks from The Cloudcast to tell my DevOps story.</description>
     </item>
     
     <item>
       <title>What The Military Taught Me About DevOps</title>
-      <link>https://chrisshort.net/post/what-the-military-taught-me-about-devops/</link>
+      <link>/post/what-the-military-taught-me-about-devops/</link>
       <pubDate>Thu, 13 Oct 2016 19:00:00 +0000</pubDate>
-      <author>chris@chrisshort.net (Chris Short)</author>
-      <guid>https://chrisshort.net/post/what-the-military-taught-me-about-devops/</guid>
+      
+      <guid>/post/what-the-military-taught-me-about-devops/</guid>
       <description>I was invited to speak at DevOpsDays Detroit 2016. I had a fantastic time speaking with the crowd in Detroit. This talk was my first foray into the talk world. I went long and could probably optimize the content of the slides (less words). However, I was very happy with the positive feedback and was blown away by how great the DevOpsDays volunteers and organizers.
  Photo: Bridget Kromhout</description>
     </item>
     
     <item>
       <title>User Management with Ansible</title>
-      <link>https://chrisshort.net/post/ansible-user-management/</link>
+      <link>/post/ansible-user-management/</link>
       <pubDate>Tue, 27 Sep 2016 16:15:00 +0000</pubDate>
-      <author>chris@chrisshort.net (Chris Short)</author>
-      <guid>https://chrisshort.net/post/ansible-user-management/</guid>
+      
+      <guid>/post/ansible-user-management/</guid>
       <description>The contents of this article originally appeared on DZone
 A few weeks ago, one of my DevOps counterparts was working on building out a new environment for one of our applications. This deployment included a new Puppet server (we are in an orchestration/configuration management state of flux) and my teammate was having some issues provisioning users (I did not ask why nor did I really care). My teammate asked if I could help with some Ansible knowledge.</description>
     </item>
     
     <item>
       <title>Technical Debt and the Ongoing Battle Against It</title>
-      <link>https://chrisshort.net/post/technical-debt-and-the-ongoing-battle-against-it/</link>
+      <link>/post/technical-debt-and-the-ongoing-battle-against-it/</link>
       <pubDate>Tue, 09 Aug 2016 18:13:30 +0000</pubDate>
-      <author>chris@chrisshort.net (Chris Short)</author>
-      <guid>https://chrisshort.net/post/technical-debt-and-the-ongoing-battle-against-it/</guid>
+      
+      <guid>/post/technical-debt-and-the-ongoing-battle-against-it/</guid>
       <description>I have been trying to fit a lot of square pegs into round holes lately. Eliminating technical debt with modern day DevOps practices to reduce costs is seldom fun or glamorous but is very often beneficial. Reducing costs should be the mindset of IT and one surefire way to do that is to spend the right amount of time on a task to complete it successfully. Finding that balance is definitely tricky especially when a lot of us are human time division multiplexers now.</description>
     </item>
     

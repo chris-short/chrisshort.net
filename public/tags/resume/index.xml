@@ -2,22 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Resume on Chris Short</title>
-    <link>https://chrisshort.net/tags/resume/</link>
+    <link>/tags/resume/</link>
     <description>Recent content in Resume on Chris Short</description>
     <generator>Hugo -- gohugo.io</generator>
-    <managingEditor>chris@chrisshort.net (Chris Short)</managingEditor>
-    <webMaster>chris@chrisshort.net (Chris Short)</webMaster>
     <lastBuildDate>Fri, 21 Oct 2016 21:13:00 +0000</lastBuildDate>
     
-	<atom:link href="https://chrisshort.net/tags/resume/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/tags/resume/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Résumé or Curriculum Vitae</title>
-      <link>https://chrisshort.net/resume-cv/</link>
+      <link>/resume-cv/</link>
       <pubDate>Fri, 21 Oct 2016 21:13:00 +0000</pubDate>
-      <author>chris@chrisshort.net (Chris Short)</author>
-      <guid>https://chrisshort.net/resume-cv/</guid>
+      
+      <guid>/resume-cv/</guid>
       <description>Christopher Short Professional Summary Seasoned, passionate, results producing DevOps professional; wide range of experiences and skills managing numerous aspects of Linux systems (RedHat/CentOS), network administration, IT Operations, and Development Operations. Coordinated multiple projects with competing priorities involving WAN/LAN and systems design, implementation, configuration, hardening, administration, and maintenance. Expertise in troubleshooting hardware, software, and network issues in high-pressure situations. Prolific blogger, DZone and opensource.com contributor, Triangle DevOps organizer and speaker, and speaker at DevOpsDays Detroit 2016.</description>
     </item>
     

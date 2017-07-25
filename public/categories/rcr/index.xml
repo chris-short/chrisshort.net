@@ -2,22 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Rcr on Chris Short</title>
-    <link>https://chrisshort.net/categories/rcr/</link>
+    <link>/categories/rcr/</link>
     <description>Recent content in Rcr on Chris Short</description>
     <generator>Hugo -- gohugo.io</generator>
-    <managingEditor>chris@chrisshort.net (Chris Short)</managingEditor>
-    <webMaster>chris@chrisshort.net (Chris Short)</webMaster>
     <lastBuildDate>Fri, 27 May 2016 23:16:56 +0000</lastBuildDate>
     
-	<atom:link href="https://chrisshort.net/categories/rcr/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/categories/rcr/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>The Hall of Famer and I</title>
-      <link>https://chrisshort.net/post/the-hall-of-famer-and-i/</link>
+      <link>/post/the-hall-of-famer-and-i/</link>
       <pubDate>Fri, 27 May 2016 23:16:56 +0000</pubDate>
-      <author>chris@chrisshort.net (Chris Short)</author>
-      <guid>https://chrisshort.net/post/the-hall-of-famer-and-i/</guid>
+      
+      <guid>/post/the-hall-of-famer-and-i/</guid>
       <description>I try to keep the content tech related around here but some times an event triggers a fond memory in your past and you feel the need to write about it. In January 2010, I was in the Air Force and had the opportunity to get up earlier in the morning than normal to get on a bus and drive over to Welcome, North Carolina. For those of you that are not familiar with NASCAR, Welcome, NC is the home of Richard Childress Racing.</description>
     </item>
     

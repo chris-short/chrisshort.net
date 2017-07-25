@@ -2,22 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Systemd on Chris Short</title>
-    <link>https://chrisshort.net/categories/systemd/</link>
+    <link>/categories/systemd/</link>
     <description>Recent content in Systemd on Chris Short</description>
     <generator>Hugo -- gohugo.io</generator>
-    <managingEditor>chris@chrisshort.net (Chris Short)</managingEditor>
-    <webMaster>chris@chrisshort.net (Chris Short)</webMaster>
     <lastBuildDate>Tue, 09 Aug 2016 18:13:30 +0000</lastBuildDate>
     
-	<atom:link href="https://chrisshort.net/categories/systemd/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/categories/systemd/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Technical Debt and the Ongoing Battle Against It</title>
-      <link>https://chrisshort.net/post/technical-debt-and-the-ongoing-battle-against-it/</link>
+      <link>/post/technical-debt-and-the-ongoing-battle-against-it/</link>
       <pubDate>Tue, 09 Aug 2016 18:13:30 +0000</pubDate>
-      <author>chris@chrisshort.net (Chris Short)</author>
-      <guid>https://chrisshort.net/post/technical-debt-and-the-ongoing-battle-against-it/</guid>
+      
+      <guid>/post/technical-debt-and-the-ongoing-battle-against-it/</guid>
       <description>I have been trying to fit a lot of square pegs into round holes lately. Eliminating technical debt with modern day DevOps practices to reduce costs is seldom fun or glamorous but is very often beneficial. Reducing costs should be the mindset of IT and one surefire way to do that is to spend the right amount of time on a task to complete it successfully. Finding that balance is definitely tricky especially when a lot of us are human time division multiplexers now.</description>
     </item>
     

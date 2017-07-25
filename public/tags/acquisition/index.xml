@@ -2,22 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Acquisition on Chris Short</title>
-    <link>https://chrisshort.net/tags/acquisition/</link>
+    <link>/tags/acquisition/</link>
     <description>Recent content in Acquisition on Chris Short</description>
     <generator>Hugo -- gohugo.io</generator>
-    <managingEditor>chris@chrisshort.net (Chris Short)</managingEditor>
-    <webMaster>chris@chrisshort.net (Chris Short)</webMaster>
     <lastBuildDate>Fri, 09 Oct 2015 23:03:30 +0000</lastBuildDate>
     
-	<atom:link href="https://chrisshort.net/tags/acquisition/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/tags/acquisition/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>LastPass Sells Out to LogMeIn</title>
-      <link>https://chrisshort.net/post/lastpass-sells-out-to-logmein/</link>
+      <link>/post/lastpass-sells-out-to-logmein/</link>
       <pubDate>Fri, 09 Oct 2015 23:03:30 +0000</pubDate>
-      <author>chris@chrisshort.net (Chris Short)</author>
-      <guid>https://chrisshort.net/post/lastpass-sells-out-to-logmein/</guid>
+      
+      <guid>/post/lastpass-sells-out-to-logmein/</guid>
       <description>If you have not heard, the phenomenal cloud base SaaS password manager, LastPass has agreed to be acquired be the not so customer friendly LogMeIn. The IT world immediately panned the anti-idea as anti-consumer and the security world agreed and raised all sorts of red flags as well.
    (adsbygoogle = window.adsbygoogle || []).push({});  People dislike LogMeIn for a variety of reasons but the main one is that they pulled the rugs out from under a lot of folks who were using LogMeIn to help administer remote computers (I was one of these people).</description>
     </item>

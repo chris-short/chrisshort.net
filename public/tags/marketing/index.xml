@@ -2,22 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Marketing on Chris Short</title>
-    <link>https://chrisshort.net/tags/marketing/</link>
+    <link>/tags/marketing/</link>
     <description>Recent content in Marketing on Chris Short</description>
     <generator>Hugo -- gohugo.io</generator>
-    <managingEditor>chris@chrisshort.net (Chris Short)</managingEditor>
-    <webMaster>chris@chrisshort.net (Chris Short)</webMaster>
     <lastBuildDate>Tue, 06 Oct 2015 04:13:00 +0000</lastBuildDate>
     
-	<atom:link href="https://chrisshort.net/tags/marketing/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/tags/marketing/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>What&#39;s Wrong with Microsoft&#39;s Windows 10 Marketing</title>
-      <link>https://chrisshort.net/post/whats-wrong-with-microsoft-windows-10-marketing/</link>
+      <link>/post/whats-wrong-with-microsoft-windows-10-marketing/</link>
       <pubDate>Tue, 06 Oct 2015 04:13:00 +0000</pubDate>
-      <author>chris@chrisshort.net (Chris Short)</author>
-      <guid>https://chrisshort.net/post/whats-wrong-with-microsoft-windows-10-marketing/</guid>
+      
+      <guid>/post/whats-wrong-with-microsoft-windows-10-marketing/</guid>
       <description>I was reading through Wired magazine and saw a Windows 10 ad. If you&amp;rsquo;ve turned on a TV the past month you&amp;rsquo;ve seen the ad I&amp;rsquo;m referring to, this is just the print edition of the TV ad.
    (adsbygoogle = window.adsbygoogle || []).push({});   She won&amp;rsquo;t have to remember passwords.
 Or obsess about security.

@@ -2,22 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Remix on Chris Short</title>
-    <link>https://chrisshort.net/categories/remix/</link>
+    <link>/categories/remix/</link>
     <description>Recent content in Remix on Chris Short</description>
     <generator>Hugo -- gohugo.io</generator>
-    <managingEditor>chris@chrisshort.net (Chris Short)</managingEditor>
-    <webMaster>chris@chrisshort.net (Chris Short)</webMaster>
     <lastBuildDate>Wed, 14 Sep 2016 17:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://chrisshort.net/categories/remix/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/categories/remix/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Notorious Remixes</title>
-      <link>https://chrisshort.net/post/notorious-remixes/</link>
+      <link>/post/notorious-remixes/</link>
       <pubDate>Wed, 14 Sep 2016 17:00:00 +0000</pubDate>
-      <author>chris@chrisshort.net (Chris Short)</author>
-      <guid>https://chrisshort.net/post/notorious-remixes/</guid>
+      
+      <guid>/post/notorious-remixes/</guid>
       <description>The Notorious B.I.G., Biggie, Biggie Smalls, Big Poppa, The Black Frank White, The King of New York, however you refer to him, Christopher Wallace was one of the best rappers to ever walk planet earth. Since Biggie&amp;rsquo;s death in 1997 his timeless lyrics have served as a foundation for many remixes and mashups. This is the definitive collection of the best studio quality Notorious B.I.G. remixes and mashups ever created.</description>
     </item>
     

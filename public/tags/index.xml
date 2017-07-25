@@ -2,1327 +2,1325 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Chris Short</title>
-    <link>https://chrisshort.net/tags/</link>
+    <link>/tags/</link>
     <description>Recent content in Tags on Chris Short</description>
     <generator>Hugo -- gohugo.io</generator>
-    <managingEditor>chris@chrisshort.net (Chris Short)</managingEditor>
-    <webMaster>chris@chrisshort.net (Chris Short)</webMaster>
     <lastBuildDate>Fri, 09 Oct 2015 23:03:30 +0000</lastBuildDate>
     
-	<atom:link href="https://chrisshort.net/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Acquisition</title>
-      <link>https://chrisshort.net/tags/acquisition/</link>
+      <link>/tags/acquisition/</link>
       <pubDate>Fri, 09 Oct 2015 23:03:30 +0000</pubDate>
-      <author>chris@chrisshort.net (Chris Short)</author>
-      <guid>https://chrisshort.net/tags/acquisition/</guid>
+      
+      <guid>/tags/acquisition/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Afghanistan</title>
-      <link>https://chrisshort.net/tags/afghanistan/</link>
+      <link>/tags/afghanistan/</link>
       <pubDate>Tue, 23 Aug 2016 12:00:00 +0000</pubDate>
-      <author>chris@chrisshort.net (Chris Short)</author>
-      <guid>https://chrisshort.net/tags/afghanistan/</guid>
+      
+      <guid>/tags/afghanistan/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Air Force</title>
-      <link>https://chrisshort.net/tags/air-force/</link>
+      <link>/tags/air-force/</link>
       <pubDate>Tue, 30 Aug 2016 17:17:00 +0000</pubDate>
-      <author>chris@chrisshort.net (Chris Short)</author>
-      <guid>https://chrisshort.net/tags/air-force/</guid>
+      
+      <guid>/tags/air-force/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Amazon</title>
-      <link>https://chrisshort.net/tags/amazon/</link>
+      <link>/tags/amazon/</link>
       <pubDate>Tue, 14 Jun 2016 17:18:30 +0000</pubDate>
-      <author>chris@chrisshort.net (Chris Short)</author>
-      <guid>https://chrisshort.net/tags/amazon/</guid>
+      
+      <guid>/tags/amazon/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Ansible</title>
-      <link>https://chrisshort.net/tags/ansible/</link>
+      <link>/tags/ansible/</link>
       <pubDate>Mon, 23 Jan 2017 22:03:02 +0000</pubDate>
-      <author>chris@chrisshort.net (Chris Short)</author>
-      <guid>https://chrisshort.net/tags/ansible/</guid>
+      
+      <guid>/tags/ansible/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Ansible Vault</title>
-      <link>https://chrisshort.net/tags/ansible-vault/</link>
+      <link>/tags/ansible-vault/</link>
       <pubDate>Sat, 17 Oct 2015 07:53:00 +0000</pubDate>
-      <author>chris@chrisshort.net (Chris Short)</author>
-      <guid>https://chrisshort.net/tags/ansible-vault/</guid>
+      
+      <guid>/tags/ansible-vault/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Apple</title>
-      <link>https://chrisshort.net/tags/apple/</link>
+      <link>/tags/apple/</link>
       <pubDate>Wed, 01 Jun 2016 16:44:00 +0000</pubDate>
-      <author>chris@chrisshort.net (Chris Short)</author>
-      <guid>https://chrisshort.net/tags/apple/</guid>
+      
+      <guid>/tags/apple/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Apple Keychain</title>
-      <link>https://chrisshort.net/tags/apple-keychain/</link>
+      <link>/tags/apple-keychain/</link>
       <pubDate>Tue, 06 Oct 2015 20:54:19 +0000</pubDate>
-      <author>chris@chrisshort.net (Chris Short)</author>
-      <guid>https://chrisshort.net/tags/apple-keychain/</guid>
+      
+      <guid>/tags/apple-keychain/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Apt</title>
-      <link>https://chrisshort.net/tags/apt/</link>
+      <link>/tags/apt/</link>
       <pubDate>Tue, 12 Apr 2016 04:57:53 +0000</pubDate>
-      <author>chris@chrisshort.net (Chris Short)</author>
-      <guid>https://chrisshort.net/tags/apt/</guid>
+      
+      <guid>/tags/apt/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Aws</title>
-      <link>https://chrisshort.net/tags/aws/</link>
+      <link>/tags/aws/</link>
       <pubDate>Thu, 26 Jan 2017 21:37:04 +0000</pubDate>
-      <author>chris@chrisshort.net (Chris Short)</author>
-      <guid>https://chrisshort.net/tags/aws/</guid>
+      
+      <guid>/tags/aws/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Badlock</title>
-      <link>https://chrisshort.net/tags/badlock/</link>
+      <link>/tags/badlock/</link>
       <pubDate>Tue, 12 Apr 2016 04:57:53 +0000</pubDate>
-      <author>chris@chrisshort.net (Chris Short)</author>
-      <guid>https://chrisshort.net/tags/badlock/</guid>
+      
+      <guid>/tags/badlock/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Bsd</title>
-      <link>https://chrisshort.net/tags/bsd/</link>
+      <link>/tags/bsd/</link>
       <pubDate>Wed, 01 Jun 2016 16:44:00 +0000</pubDate>
-      <author>chris@chrisshort.net (Chris Short)</author>
-      <guid>https://chrisshort.net/tags/bsd/</guid>
+      
+      <guid>/tags/bsd/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Buffer</title>
-      <link>https://chrisshort.net/tags/buffer/</link>
+      <link>/tags/buffer/</link>
       <pubDate>Mon, 21 Nov 2016 13:03:00 +0000</pubDate>
-      <author>chris@chrisshort.net (Chris Short)</author>
-      <guid>https://chrisshort.net/tags/buffer/</guid>
+      
+      <guid>/tags/buffer/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Calendar</title>
-      <link>https://chrisshort.net/tags/calendar/</link>
+      <link>/tags/calendar/</link>
       <pubDate>Sun, 10 Jul 2016 20:51:00 +0000</pubDate>
-      <author>chris@chrisshort.net (Chris Short)</author>
-      <guid>https://chrisshort.net/tags/calendar/</guid>
+      
+      <guid>/tags/calendar/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Cdn</title>
-      <link>https://chrisshort.net/tags/cdn/</link>
+      <link>/tags/cdn/</link>
       <pubDate>Tue, 14 Jun 2016 17:18:30 +0000</pubDate>
-      <author>chris@chrisshort.net (Chris Short)</author>
-      <guid>https://chrisshort.net/tags/cdn/</guid>
+      
+      <guid>/tags/cdn/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Center For Purposeful Living</title>
-      <link>https://chrisshort.net/tags/center-for-purposeful-living/</link>
+      <link>/tags/center-for-purposeful-living/</link>
       <pubDate>Sat, 03 Oct 2015 09:18:31 +0000</pubDate>
-      <author>chris@chrisshort.net (Chris Short)</author>
-      <guid>https://chrisshort.net/tags/center-for-purposeful-living/</guid>
+      
+      <guid>/tags/center-for-purposeful-living/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Centos</title>
-      <link>https://chrisshort.net/tags/centos/</link>
+      <link>/tags/centos/</link>
       <pubDate>Fri, 03 May 2013 18:18:00 +0000</pubDate>
-      <author>chris@chrisshort.net (Chris Short)</author>
-      <guid>https://chrisshort.net/tags/centos/</guid>
+      
+      <guid>/tags/centos/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Central Command</title>
-      <link>https://chrisshort.net/tags/central-command/</link>
+      <link>/tags/central-command/</link>
       <pubDate>Tue, 23 Aug 2016 12:00:00 +0000</pubDate>
-      <author>chris@chrisshort.net (Chris Short)</author>
-      <guid>https://chrisshort.net/tags/central-command/</guid>
+      
+      <guid>/tags/central-command/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Clock</title>
-      <link>https://chrisshort.net/tags/clock/</link>
+      <link>/tags/clock/</link>
       <pubDate>Wed, 02 Nov 2016 11:00:00 +0000</pubDate>
-      <author>chris@chrisshort.net (Chris Short)</author>
-      <guid>https://chrisshort.net/tags/clock/</guid>
+      
+      <guid>/tags/clock/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Cloudflare</title>
-      <link>https://chrisshort.net/tags/cloudflare/</link>
+      <link>/tags/cloudflare/</link>
       <pubDate>Tue, 14 Jun 2016 17:18:30 +0000</pubDate>
-      <author>chris@chrisshort.net (Chris Short)</author>
-      <guid>https://chrisshort.net/tags/cloudflare/</guid>
+      
+      <guid>/tags/cloudflare/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Communications</title>
-      <link>https://chrisshort.net/tags/communications/</link>
+      <link>/tags/communications/</link>
       <pubDate>Tue, 23 Aug 2016 12:00:00 +0000</pubDate>
-      <author>chris@chrisshort.net (Chris Short)</author>
-      <guid>https://chrisshort.net/tags/communications/</guid>
+      
+      <guid>/tags/communications/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Content Blockers</title>
-      <link>https://chrisshort.net/tags/content-blockers/</link>
+      <link>/tags/content-blockers/</link>
       <pubDate>Thu, 09 Feb 2017 12:02:00 +0000</pubDate>
-      <author>chris@chrisshort.net (Chris Short)</author>
-      <guid>https://chrisshort.net/tags/content-blockers/</guid>
+      
+      <guid>/tags/content-blockers/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Content Delivery Network</title>
-      <link>https://chrisshort.net/tags/content-delivery-network/</link>
+      <link>/tags/content-delivery-network/</link>
       <pubDate>Tue, 14 Jun 2016 17:18:30 +0000</pubDate>
-      <author>chris@chrisshort.net (Chris Short)</author>
-      <guid>https://chrisshort.net/tags/content-delivery-network/</guid>
+      
+      <guid>/tags/content-delivery-network/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Culture</title>
-      <link>https://chrisshort.net/tags/culture/</link>
+      <link>/tags/culture/</link>
       <pubDate>Tue, 06 Jun 2017 12:00:00 +0000</pubDate>
-      <author>chris@chrisshort.net (Chris Short)</author>
-      <guid>https://chrisshort.net/tags/culture/</guid>
+      
+      <guid>/tags/culture/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Cv</title>
-      <link>https://chrisshort.net/tags/cv/</link>
+      <link>/tags/cv/</link>
       <pubDate>Fri, 21 Oct 2016 21:13:00 +0000</pubDate>
-      <author>chris@chrisshort.net (Chris Short)</author>
-      <guid>https://chrisshort.net/tags/cv/</guid>
+      
+      <guid>/tags/cv/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Dependencies</title>
-      <link>https://chrisshort.net/tags/dependencies/</link>
+      <link>/tags/dependencies/</link>
       <pubDate>Mon, 23 May 2016 21:44:50 +0000</pubDate>
-      <author>chris@chrisshort.net (Chris Short)</author>
-      <guid>https://chrisshort.net/tags/dependencies/</guid>
+      
+      <guid>/tags/dependencies/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Dependency</title>
-      <link>https://chrisshort.net/tags/dependency/</link>
+      <link>/tags/dependency/</link>
       <pubDate>Mon, 23 May 2016 21:44:50 +0000</pubDate>
-      <author>chris@chrisshort.net (Chris Short)</author>
-      <guid>https://chrisshort.net/tags/dependency/</guid>
+      
+      <guid>/tags/dependency/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Development</title>
-      <link>https://chrisshort.net/tags/development/</link>
+      <link>/tags/development/</link>
       <pubDate>Sat, 01 Jun 2013 20:00:00 +0000</pubDate>
-      <author>chris@chrisshort.net (Chris Short)</author>
-      <guid>https://chrisshort.net/tags/development/</guid>
+      
+      <guid>/tags/development/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Devops</title>
-      <link>https://chrisshort.net/tags/devops/</link>
+      <link>/tags/devops/</link>
       <pubDate>Sat, 22 Jul 2017 22:23:32 +0000</pubDate>
-      <author>chris@chrisshort.net (Chris Short)</author>
-      <guid>https://chrisshort.net/tags/devops/</guid>
+      
+      <guid>/tags/devops/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Devopsdays</title>
-      <link>https://chrisshort.net/tags/devopsdays/</link>
+      <link>/tags/devopsdays/</link>
       <pubDate>Thu, 13 Oct 2016 19:00:00 +0000</pubDate>
-      <author>chris@chrisshort.net (Chris Short)</author>
-      <guid>https://chrisshort.net/tags/devopsdays/</guid>
+      
+      <guid>/tags/devopsdays/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Dns</title>
-      <link>https://chrisshort.net/tags/dns/</link>
+      <link>/tags/dns/</link>
       <pubDate>Tue, 29 Nov 2016 14:04:00 +0000</pubDate>
-      <author>chris@chrisshort.net (Chris Short)</author>
-      <guid>https://chrisshort.net/tags/dns/</guid>
+      
+      <guid>/tags/dns/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Dpkg</title>
-      <link>https://chrisshort.net/tags/dpkg/</link>
+      <link>/tags/dpkg/</link>
       <pubDate>Tue, 12 Apr 2016 04:57:53 +0000</pubDate>
-      <author>chris@chrisshort.net (Chris Short)</author>
-      <guid>https://chrisshort.net/tags/dpkg/</guid>
+      
+      <guid>/tags/dpkg/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Drawing</title>
-      <link>https://chrisshort.net/tags/drawing/</link>
+      <link>/tags/drawing/</link>
       <pubDate>Tue, 20 Dec 2016 14:15:00 +0000</pubDate>
-      <author>chris@chrisshort.net (Chris Short)</author>
-      <guid>https://chrisshort.net/tags/drawing/</guid>
+      
+      <guid>/tags/drawing/</guid>
       <description></description>
     </item>
     
     <item>
       <title>E Mail</title>
-      <link>https://chrisshort.net/tags/e-mail/</link>
+      <link>/tags/e-mail/</link>
       <pubDate>Tue, 10 May 2016 17:05:00 +0000</pubDate>
-      <author>chris@chrisshort.net (Chris Short)</author>
-      <guid>https://chrisshort.net/tags/e-mail/</guid>
+      
+      <guid>/tags/e-mail/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Ear Piercing</title>
-      <link>https://chrisshort.net/tags/ear-piercing/</link>
+      <link>/tags/ear-piercing/</link>
       <pubDate>Tue, 26 May 2009 20:00:00 +0000</pubDate>
-      <author>chris@chrisshort.net (Chris Short)</author>
-      <guid>https://chrisshort.net/tags/ear-piercing/</guid>
+      
+      <guid>/tags/ear-piercing/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Ec2</title>
-      <link>https://chrisshort.net/tags/ec2/</link>
+      <link>/tags/ec2/</link>
       <pubDate>Thu, 26 Jan 2017 21:37:04 +0000</pubDate>
-      <author>chris@chrisshort.net (Chris Short)</author>
-      <guid>https://chrisshort.net/tags/ec2/</guid>
+      
+      <guid>/tags/ec2/</guid>
       <description></description>
     </item>
     
     <item>
       <title>El Capitan</title>
-      <link>https://chrisshort.net/tags/el-capitan/</link>
+      <link>/tags/el-capitan/</link>
       <pubDate>Tue, 13 Oct 2015 17:22:32 +0000</pubDate>
-      <author>chris@chrisshort.net (Chris Short)</author>
-      <guid>https://chrisshort.net/tags/el-capitan/</guid>
+      
+      <guid>/tags/el-capitan/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Environment</title>
-      <link>https://chrisshort.net/tags/environment/</link>
+      <link>/tags/environment/</link>
       <pubDate>Tue, 10 May 2016 17:05:00 +0000</pubDate>
-      <author>chris@chrisshort.net (Chris Short)</author>
-      <guid>https://chrisshort.net/tags/environment/</guid>
+      
+      <guid>/tags/environment/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Ext2</title>
-      <link>https://chrisshort.net/tags/ext2/</link>
+      <link>/tags/ext2/</link>
       <pubDate>Thu, 15 May 2003 01:41:00 +0000</pubDate>
-      <author>chris@chrisshort.net (Chris Short)</author>
-      <guid>https://chrisshort.net/tags/ext2/</guid>
+      
+      <guid>/tags/ext2/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Ext3</title>
-      <link>https://chrisshort.net/tags/ext3/</link>
+      <link>/tags/ext3/</link>
       <pubDate>Thu, 15 May 2003 01:41:00 +0000</pubDate>
-      <author>chris@chrisshort.net (Chris Short)</author>
-      <guid>https://chrisshort.net/tags/ext3/</guid>
+      
+      <guid>/tags/ext3/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Fear</title>
-      <link>https://chrisshort.net/tags/fear/</link>
+      <link>/tags/fear/</link>
       <pubDate>Tue, 21 Jun 2016 05:44:00 +0000</pubDate>
-      <author>chris@chrisshort.net (Chris Short)</author>
-      <guid>https://chrisshort.net/tags/fear/</guid>
+      
+      <guid>/tags/fear/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Fiber</title>
-      <link>https://chrisshort.net/tags/fiber/</link>
+      <link>/tags/fiber/</link>
       <pubDate>Sun, 30 Oct 2016 11:00:00 +0000</pubDate>
-      <author>chris@chrisshort.net (Chris Short)</author>
-      <guid>https://chrisshort.net/tags/fiber/</guid>
+      
+      <guid>/tags/fiber/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Filesystems</title>
-      <link>https://chrisshort.net/tags/filesystems/</link>
+      <link>/tags/filesystems/</link>
       <pubDate>Thu, 15 May 2003 01:41:00 +0000</pubDate>
-      <author>chris@chrisshort.net (Chris Short)</author>
-      <guid>https://chrisshort.net/tags/filesystems/</guid>
+      
+      <guid>/tags/filesystems/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Firefox</title>
-      <link>https://chrisshort.net/tags/firefox/</link>
+      <link>/tags/firefox/</link>
       <pubDate>Fri, 17 Dec 2004 06:06:00 +0000</pubDate>
-      <author>chris@chrisshort.net (Chris Short)</author>
-      <guid>https://chrisshort.net/tags/firefox/</guid>
+      
+      <guid>/tags/firefox/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Florida Gators</title>
-      <link>https://chrisshort.net/tags/florida-gators/</link>
+      <link>/tags/florida-gators/</link>
       <pubDate>Thu, 19 Sep 2013 20:00:00 +0000</pubDate>
-      <author>chris@chrisshort.net (Chris Short)</author>
-      <guid>https://chrisshort.net/tags/florida-gators/</guid>
+      
+      <guid>/tags/florida-gators/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Food</title>
-      <link>https://chrisshort.net/tags/food/</link>
+      <link>/tags/food/</link>
       <pubDate>Sun, 30 Aug 2009 20:00:00 +0000</pubDate>
-      <author>chris@chrisshort.net (Chris Short)</author>
-      <guid>https://chrisshort.net/tags/food/</guid>
+      
+      <guid>/tags/food/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Git</title>
-      <link>https://chrisshort.net/tags/git/</link>
+      <link>/tags/git/</link>
       <pubDate>Mon, 23 Jan 2017 22:03:02 +0000</pubDate>
-      <author>chris@chrisshort.net (Chris Short)</author>
-      <guid>https://chrisshort.net/tags/git/</guid>
+      
+      <guid>/tags/git/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Gitlab</title>
-      <link>https://chrisshort.net/tags/gitlab/</link>
+      <link>/tags/gitlab/</link>
       <pubDate>Mon, 23 Jan 2017 22:03:02 +0000</pubDate>
-      <author>chris@chrisshort.net (Chris Short)</author>
-      <guid>https://chrisshort.net/tags/gitlab/</guid>
+      
+      <guid>/tags/gitlab/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Gnu</title>
-      <link>https://chrisshort.net/tags/gnu/</link>
+      <link>/tags/gnu/</link>
       <pubDate>Wed, 01 Jun 2016 16:44:00 +0000</pubDate>
-      <author>chris@chrisshort.net (Chris Short)</author>
-      <guid>https://chrisshort.net/tags/gnu/</guid>
+      
+      <guid>/tags/gnu/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Go</title>
-      <link>https://chrisshort.net/tags/go/</link>
+      <link>/tags/go/</link>
       <pubDate>Sat, 22 Jul 2017 22:23:32 +0000</pubDate>
-      <author>chris@chrisshort.net (Chris Short)</author>
-      <guid>https://chrisshort.net/tags/go/</guid>
+      
+      <guid>/tags/go/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Golang</title>
-      <link>https://chrisshort.net/tags/golang/</link>
+      <link>/tags/golang/</link>
       <pubDate>Sat, 22 Jul 2017 22:23:32 +0000</pubDate>
-      <author>chris@chrisshort.net (Chris Short)</author>
-      <guid>https://chrisshort.net/tags/golang/</guid>
+      
+      <guid>/tags/golang/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Google</title>
-      <link>https://chrisshort.net/tags/google/</link>
+      <link>/tags/google/</link>
       <pubDate>Sun, 30 Oct 2016 11:00:00 +0000</pubDate>
-      <author>chris@chrisshort.net (Chris Short)</author>
-      <guid>https://chrisshort.net/tags/google/</guid>
+      
+      <guid>/tags/google/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Grep</title>
-      <link>https://chrisshort.net/tags/grep/</link>
+      <link>/tags/grep/</link>
       <pubDate>Tue, 22 Sep 2015 23:56:00 +0000</pubDate>
-      <author>chris@chrisshort.net (Chris Short)</author>
-      <guid>https://chrisshort.net/tags/grep/</guid>
+      
+      <guid>/tags/grep/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Hall Of Fame</title>
-      <link>https://chrisshort.net/tags/hall-of-fame/</link>
+      <link>/tags/hall-of-fame/</link>
       <pubDate>Fri, 27 May 2016 23:16:56 +0000</pubDate>
-      <author>chris@chrisshort.net (Chris Short)</author>
-      <guid>https://chrisshort.net/tags/hall-of-fame/</guid>
+      
+      <guid>/tags/hall-of-fame/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Hardware</title>
-      <link>https://chrisshort.net/tags/hardware/</link>
+      <link>/tags/hardware/</link>
       <pubDate>Tue, 29 Apr 2003 23:08:00 +0000</pubDate>
-      <author>chris@chrisshort.net (Chris Short)</author>
-      <guid>https://chrisshort.net/tags/hardware/</guid>
+      
+      <guid>/tags/hardware/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Hate</title>
-      <link>https://chrisshort.net/tags/hate/</link>
+      <link>/tags/hate/</link>
       <pubDate>Tue, 21 Jun 2016 05:44:00 +0000</pubDate>
-      <author>chris@chrisshort.net (Chris Short)</author>
-      <guid>https://chrisshort.net/tags/hate/</guid>
+      
+      <guid>/tags/hate/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Http/2</title>
-      <link>https://chrisshort.net/tags/http/2/</link>
+      <link>/tags/http/2/</link>
       <pubDate>Wed, 16 Nov 2016 13:15:00 +0000</pubDate>
-      <author>chris@chrisshort.net (Chris Short)</author>
-      <guid>https://chrisshort.net/tags/http/2/</guid>
+      
+      <guid>/tags/http/2/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Ifttt</title>
-      <link>https://chrisshort.net/tags/ifttt/</link>
+      <link>/tags/ifttt/</link>
       <pubDate>Mon, 21 Nov 2016 13:03:00 +0000</pubDate>
-      <author>chris@chrisshort.net (Chris Short)</author>
-      <guid>https://chrisshort.net/tags/ifttt/</guid>
+      
+      <guid>/tags/ifttt/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Internet</title>
-      <link>https://chrisshort.net/tags/internet/</link>
+      <link>/tags/internet/</link>
       <pubDate>Sun, 30 Oct 2016 11:00:00 +0000</pubDate>
-      <author>chris@chrisshort.net (Chris Short)</author>
-      <guid>https://chrisshort.net/tags/internet/</guid>
+      
+      <guid>/tags/internet/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Interview</title>
-      <link>https://chrisshort.net/tags/interview/</link>
+      <link>/tags/interview/</link>
       <pubDate>Wed, 17 Aug 2016 13:05:00 +0000</pubDate>
-      <author>chris@chrisshort.net (Chris Short)</author>
-      <guid>https://chrisshort.net/tags/interview/</guid>
+      
+      <guid>/tags/interview/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Ios</title>
-      <link>https://chrisshort.net/tags/ios/</link>
+      <link>/tags/ios/</link>
       <pubDate>Sun, 10 Jul 2016 20:51:00 +0000</pubDate>
-      <author>chris@chrisshort.net (Chris Short)</author>
-      <guid>https://chrisshort.net/tags/ios/</guid>
+      
+      <guid>/tags/ios/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Iraq</title>
-      <link>https://chrisshort.net/tags/iraq/</link>
+      <link>/tags/iraq/</link>
       <pubDate>Tue, 23 Aug 2016 12:00:00 +0000</pubDate>
-      <author>chris@chrisshort.net (Chris Short)</author>
-      <guid>https://chrisshort.net/tags/iraq/</guid>
+      
+      <guid>/tags/iraq/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Jitter</title>
-      <link>https://chrisshort.net/tags/jitter/</link>
+      <link>/tags/jitter/</link>
       <pubDate>Wed, 02 Nov 2016 11:00:00 +0000</pubDate>
-      <author>chris@chrisshort.net (Chris Short)</author>
-      <guid>https://chrisshort.net/tags/jitter/</guid>
+      
+      <guid>/tags/jitter/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Jq</title>
-      <link>https://chrisshort.net/tags/jq/</link>
+      <link>/tags/jq/</link>
       <pubDate>Thu, 26 Jan 2017 21:37:04 +0000</pubDate>
-      <author>chris@chrisshort.net (Chris Short)</author>
-      <guid>https://chrisshort.net/tags/jq/</guid>
+      
+      <guid>/tags/jq/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Junos Pulse</title>
-      <link>https://chrisshort.net/tags/junos-pulse/</link>
+      <link>/tags/junos-pulse/</link>
       <pubDate>Tue, 06 Oct 2015 20:54:19 +0000</pubDate>
-      <author>chris@chrisshort.net (Chris Short)</author>
-      <guid>https://chrisshort.net/tags/junos-pulse/</guid>
+      
+      <guid>/tags/junos-pulse/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Kids</title>
-      <link>https://chrisshort.net/tags/kids/</link>
+      <link>/tags/kids/</link>
       <pubDate>Tue, 26 May 2009 20:00:00 +0000</pubDate>
-      <author>chris@chrisshort.net (Chris Short)</author>
-      <guid>https://chrisshort.net/tags/kids/</guid>
+      
+      <guid>/tags/kids/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Lastpass</title>
-      <link>https://chrisshort.net/tags/lastpass/</link>
+      <link>/tags/lastpass/</link>
       <pubDate>Fri, 09 Oct 2015 23:03:30 +0000</pubDate>
-      <author>chris@chrisshort.net (Chris Short)</author>
-      <guid>https://chrisshort.net/tags/lastpass/</guid>
+      
+      <guid>/tags/lastpass/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Lgbt</title>
-      <link>https://chrisshort.net/tags/lgbt/</link>
+      <link>/tags/lgbt/</link>
       <pubDate>Tue, 21 Jun 2016 05:44:00 +0000</pubDate>
-      <author>chris@chrisshort.net (Chris Short)</author>
-      <guid>https://chrisshort.net/tags/lgbt/</guid>
+      
+      <guid>/tags/lgbt/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Lgbtq</title>
-      <link>https://chrisshort.net/tags/lgbtq/</link>
+      <link>/tags/lgbtq/</link>
       <pubDate>Tue, 21 Jun 2016 05:44:00 +0000</pubDate>
-      <author>chris@chrisshort.net (Chris Short)</author>
-      <guid>https://chrisshort.net/tags/lgbtq/</guid>
+      
+      <guid>/tags/lgbtq/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Lineinfile</title>
-      <link>https://chrisshort.net/tags/lineinfile/</link>
+      <link>/tags/lineinfile/</link>
       <pubDate>Tue, 06 Sep 2016 16:30:00 +0000</pubDate>
-      <author>chris@chrisshort.net (Chris Short)</author>
-      <guid>https://chrisshort.net/tags/lineinfile/</guid>
+      
+      <guid>/tags/lineinfile/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Linux</title>
-      <link>https://chrisshort.net/tags/linux/</link>
+      <link>/tags/linux/</link>
       <pubDate>Wed, 17 Aug 2016 13:05:00 +0000</pubDate>
-      <author>chris@chrisshort.net (Chris Short)</author>
-      <guid>https://chrisshort.net/tags/linux/</guid>
+      
+      <guid>/tags/linux/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Logmein</title>
-      <link>https://chrisshort.net/tags/logmein/</link>
+      <link>/tags/logmein/</link>
       <pubDate>Fri, 09 Oct 2015 23:03:30 +0000</pubDate>
-      <author>chris@chrisshort.net (Chris Short)</author>
-      <guid>https://chrisshort.net/tags/logmein/</guid>
+      
+      <guid>/tags/logmein/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Long Thoracic Nerve</title>
-      <link>https://chrisshort.net/tags/long-thoracic-nerve/</link>
+      <link>/tags/long-thoracic-nerve/</link>
       <pubDate>Sat, 03 Oct 2015 09:57:51 +0000</pubDate>
-      <author>chris@chrisshort.net (Chris Short)</author>
-      <guid>https://chrisshort.net/tags/long-thoracic-nerve/</guid>
+      
+      <guid>/tags/long-thoracic-nerve/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Mac Os X</title>
-      <link>https://chrisshort.net/tags/mac-os-x/</link>
+      <link>/tags/mac-os-x/</link>
       <pubDate>Thu, 09 Jun 2016 22:24:02 +0000</pubDate>
-      <author>chris@chrisshort.net (Chris Short)</author>
-      <guid>https://chrisshort.net/tags/mac-os-x/</guid>
+      
+      <guid>/tags/mac-os-x/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Macos</title>
-      <link>https://chrisshort.net/tags/macos/</link>
+      <link>/tags/macos/</link>
       <pubDate>Sun, 10 Jul 2016 20:51:00 +0000</pubDate>
-      <author>chris@chrisshort.net (Chris Short)</author>
-      <guid>https://chrisshort.net/tags/macos/</guid>
+      
+      <guid>/tags/macos/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Marissa Meyer</title>
-      <link>https://chrisshort.net/tags/marissa-meyer/</link>
+      <link>/tags/marissa-meyer/</link>
       <pubDate>Tue, 26 Jul 2016 16:06:31 +0000</pubDate>
-      <author>chris@chrisshort.net (Chris Short)</author>
-      <guid>https://chrisshort.net/tags/marissa-meyer/</guid>
+      
+      <guid>/tags/marissa-meyer/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Marketing</title>
-      <link>https://chrisshort.net/tags/marketing/</link>
+      <link>/tags/marketing/</link>
       <pubDate>Tue, 06 Oct 2015 04:13:00 +0000</pubDate>
-      <author>chris@chrisshort.net (Chris Short)</author>
-      <guid>https://chrisshort.net/tags/marketing/</guid>
+      
+      <guid>/tags/marketing/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Mashup</title>
-      <link>https://chrisshort.net/tags/mashup/</link>
+      <link>/tags/mashup/</link>
       <pubDate>Wed, 14 Sep 2016 17:00:00 +0000</pubDate>
-      <author>chris@chrisshort.net (Chris Short)</author>
-      <guid>https://chrisshort.net/tags/mashup/</guid>
+      
+      <guid>/tags/mashup/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Memory</title>
-      <link>https://chrisshort.net/tags/memory/</link>
+      <link>/tags/memory/</link>
       <pubDate>Fri, 09 Oct 2015 17:00:52 +0000</pubDate>
-      <author>chris@chrisshort.net (Chris Short)</author>
-      <guid>https://chrisshort.net/tags/memory/</guid>
+      
+      <guid>/tags/memory/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Microsoft</title>
-      <link>https://chrisshort.net/tags/microsoft/</link>
+      <link>/tags/microsoft/</link>
       <pubDate>Thu, 09 Jun 2016 22:24:02 +0000</pubDate>
-      <author>chris@chrisshort.net (Chris Short)</author>
-      <guid>https://chrisshort.net/tags/microsoft/</guid>
+      
+      <guid>/tags/microsoft/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Military</title>
-      <link>https://chrisshort.net/tags/military/</link>
+      <link>/tags/military/</link>
       <pubDate>Wed, 18 Jan 2017 15:05:00 +0000</pubDate>
-      <author>chris@chrisshort.net (Chris Short)</author>
-      <guid>https://chrisshort.net/tags/military/</guid>
+      
+      <guid>/tags/military/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Mission</title>
-      <link>https://chrisshort.net/tags/mission/</link>
+      <link>/tags/mission/</link>
       <pubDate>Tue, 30 Aug 2016 17:17:00 +0000</pubDate>
-      <author>chris@chrisshort.net (Chris Short)</author>
-      <guid>https://chrisshort.net/tags/mission/</guid>
+      
+      <guid>/tags/mission/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Module</title>
-      <link>https://chrisshort.net/tags/module/</link>
+      <link>/tags/module/</link>
       <pubDate>Tue, 06 Sep 2016 16:30:00 +0000</pubDate>
-      <author>chris@chrisshort.net (Chris Short)</author>
-      <guid>https://chrisshort.net/tags/module/</guid>
+      
+      <guid>/tags/module/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Mysql</title>
-      <link>https://chrisshort.net/tags/mysql/</link>
+      <link>/tags/mysql/</link>
       <pubDate>Mon, 05 Oct 2015 16:53:18 +0000</pubDate>
-      <author>chris@chrisshort.net (Chris Short)</author>
-      <guid>https://chrisshort.net/tags/mysql/</guid>
+      
+      <guid>/tags/mysql/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Nascar</title>
-      <link>https://chrisshort.net/tags/nascar/</link>
+      <link>/tags/nascar/</link>
       <pubDate>Fri, 27 May 2016 23:16:56 +0000</pubDate>
-      <author>chris@chrisshort.net (Chris Short)</author>
-      <guid>https://chrisshort.net/tags/nascar/</guid>
+      
+      <guid>/tags/nascar/</guid>
       <description></description>
     </item>
     
     <item>
       <title>New Relic</title>
-      <link>https://chrisshort.net/tags/new-relic/</link>
+      <link>/tags/new-relic/</link>
       <pubDate>Mon, 23 May 2016 21:44:50 +0000</pubDate>
-      <author>chris@chrisshort.net (Chris Short)</author>
-      <guid>https://chrisshort.net/tags/new-relic/</guid>
+      
+      <guid>/tags/new-relic/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Niantic</title>
-      <link>https://chrisshort.net/tags/niantic/</link>
+      <link>/tags/niantic/</link>
       <pubDate>Wed, 20 Jul 2016 14:34:00 +0000</pubDate>
-      <author>chris@chrisshort.net (Chris Short)</author>
-      <guid>https://chrisshort.net/tags/niantic/</guid>
+      
+      <guid>/tags/niantic/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Nodejs</title>
-      <link>https://chrisshort.net/tags/nodejs/</link>
+      <link>/tags/nodejs/</link>
       <pubDate>Mon, 23 May 2016 21:44:50 +0000</pubDate>
-      <author>chris@chrisshort.net (Chris Short)</author>
-      <guid>https://chrisshort.net/tags/nodejs/</guid>
+      
+      <guid>/tags/nodejs/</guid>
       <description></description>
     </item>
     
     <item>
       <title>North Carolina</title>
-      <link>https://chrisshort.net/tags/north-carolina/</link>
+      <link>/tags/north-carolina/</link>
       <pubDate>Tue, 30 Aug 2016 17:17:00 +0000</pubDate>
-      <author>chris@chrisshort.net (Chris Short)</author>
-      <guid>https://chrisshort.net/tags/north-carolina/</guid>
+      
+      <guid>/tags/north-carolina/</guid>
       <description></description>
     </item>
     
     <item>
       <title>North Carolina Veterans</title>
-      <link>https://chrisshort.net/tags/north-carolina-veterans/</link>
+      <link>/tags/north-carolina-veterans/</link>
       <pubDate>Tue, 30 Aug 2016 17:17:00 +0000</pubDate>
-      <author>chris@chrisshort.net (Chris Short)</author>
-      <guid>https://chrisshort.net/tags/north-carolina-veterans/</guid>
+      
+      <guid>/tags/north-carolina-veterans/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Notorious Big</title>
-      <link>https://chrisshort.net/tags/notorious-big/</link>
+      <link>/tags/notorious-big/</link>
       <pubDate>Wed, 14 Sep 2016 17:00:00 +0000</pubDate>
-      <author>chris@chrisshort.net (Chris Short)</author>
-      <guid>https://chrisshort.net/tags/notorious-big/</guid>
+      
+      <guid>/tags/notorious-big/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Npm</title>
-      <link>https://chrisshort.net/tags/npm/</link>
+      <link>/tags/npm/</link>
       <pubDate>Mon, 23 May 2016 21:44:50 +0000</pubDate>
-      <author>chris@chrisshort.net (Chris Short)</author>
-      <guid>https://chrisshort.net/tags/npm/</guid>
+      
+      <guid>/tags/npm/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Ntp</title>
-      <link>https://chrisshort.net/tags/ntp/</link>
+      <link>/tags/ntp/</link>
       <pubDate>Wed, 02 Nov 2016 11:00:00 +0000</pubDate>
-      <author>chris@chrisshort.net (Chris Short)</author>
-      <guid>https://chrisshort.net/tags/ntp/</guid>
+      
+      <guid>/tags/ntp/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Oncall</title>
-      <link>https://chrisshort.net/tags/oncall/</link>
+      <link>/tags/oncall/</link>
       <pubDate>Wed, 05 Oct 2016 20:56:00 +0000</pubDate>
-      <author>chris@chrisshort.net (Chris Short)</author>
-      <guid>https://chrisshort.net/tags/oncall/</guid>
+      
+      <guid>/tags/oncall/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Open Source</title>
-      <link>https://chrisshort.net/tags/open-source/</link>
+      <link>/tags/open-source/</link>
       <pubDate>Tue, 06 Jun 2017 12:00:00 +0000</pubDate>
-      <author>chris@chrisshort.net (Chris Short)</author>
-      <guid>https://chrisshort.net/tags/open-source/</guid>
+      
+      <guid>/tags/open-source/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Osi Model</title>
-      <link>https://chrisshort.net/tags/osi-model/</link>
+      <link>/tags/osi-model/</link>
       <pubDate>Sun, 13 Nov 2016 18:37:06 +0000</pubDate>
-      <author>chris@chrisshort.net (Chris Short)</author>
-      <guid>https://chrisshort.net/tags/osi-model/</guid>
+      
+      <guid>/tags/osi-model/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Ownership</title>
-      <link>https://chrisshort.net/tags/ownership/</link>
+      <link>/tags/ownership/</link>
       <pubDate>Tue, 28 Jun 2016 17:11:49 +0000</pubDate>
-      <author>chris@chrisshort.net (Chris Short)</author>
-      <guid>https://chrisshort.net/tags/ownership/</guid>
+      
+      <guid>/tags/ownership/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Pagerduty</title>
-      <link>https://chrisshort.net/tags/pagerduty/</link>
+      <link>/tags/pagerduty/</link>
       <pubDate>Wed, 05 Oct 2016 20:56:00 +0000</pubDate>
-      <author>chris@chrisshort.net (Chris Short)</author>
-      <guid>https://chrisshort.net/tags/pagerduty/</guid>
+      
+      <guid>/tags/pagerduty/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Palsy</title>
-      <link>https://chrisshort.net/tags/palsy/</link>
+      <link>/tags/palsy/</link>
       <pubDate>Sat, 03 Oct 2015 09:57:51 +0000</pubDate>
-      <author>chris@chrisshort.net (Chris Short)</author>
-      <guid>https://chrisshort.net/tags/palsy/</guid>
+      
+      <guid>/tags/palsy/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Philosophy</title>
-      <link>https://chrisshort.net/tags/philosophy/</link>
+      <link>/tags/philosophy/</link>
       <pubDate>Sun, 01 Jan 2017 02:45:18 +0000</pubDate>
-      <author>chris@chrisshort.net (Chris Short)</author>
-      <guid>https://chrisshort.net/tags/philosophy/</guid>
+      
+      <guid>/tags/philosophy/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Php</title>
-      <link>https://chrisshort.net/tags/php/</link>
+      <link>/tags/php/</link>
       <pubDate>Fri, 09 Oct 2015 17:00:52 +0000</pubDate>
-      <author>chris@chrisshort.net (Chris Short)</author>
-      <guid>https://chrisshort.net/tags/php/</guid>
+      
+      <guid>/tags/php/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Podcast</title>
-      <link>https://chrisshort.net/tags/podcast/</link>
+      <link>/tags/podcast/</link>
       <pubDate>Mon, 31 Oct 2016 12:00:00 +0000</pubDate>
-      <author>chris@chrisshort.net (Chris Short)</author>
-      <guid>https://chrisshort.net/tags/podcast/</guid>
+      
+      <guid>/tags/podcast/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Rcr</title>
-      <link>https://chrisshort.net/tags/rcr/</link>
+      <link>/tags/rcr/</link>
       <pubDate>Fri, 27 May 2016 23:16:56 +0000</pubDate>
-      <author>chris@chrisshort.net (Chris Short)</author>
-      <guid>https://chrisshort.net/tags/rcr/</guid>
+      
+      <guid>/tags/rcr/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Recipes</title>
-      <link>https://chrisshort.net/tags/recipes/</link>
+      <link>/tags/recipes/</link>
       <pubDate>Sun, 30 Aug 2009 20:00:00 +0000</pubDate>
-      <author>chris@chrisshort.net (Chris Short)</author>
-      <guid>https://chrisshort.net/tags/recipes/</guid>
+      
+      <guid>/tags/recipes/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Remix</title>
-      <link>https://chrisshort.net/tags/remix/</link>
+      <link>/tags/remix/</link>
       <pubDate>Wed, 14 Sep 2016 17:00:00 +0000</pubDate>
-      <author>chris@chrisshort.net (Chris Short)</author>
-      <guid>https://chrisshort.net/tags/remix/</guid>
+      
+      <guid>/tags/remix/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Replication</title>
-      <link>https://chrisshort.net/tags/replication/</link>
+      <link>/tags/replication/</link>
       <pubDate>Mon, 05 Oct 2015 16:53:18 +0000</pubDate>
-      <author>chris@chrisshort.net (Chris Short)</author>
-      <guid>https://chrisshort.net/tags/replication/</guid>
+      
+      <guid>/tags/replication/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Repo</title>
-      <link>https://chrisshort.net/tags/repo/</link>
+      <link>/tags/repo/</link>
       <pubDate>Sat, 25 Jun 2016 17:06:05 +0000</pubDate>
-      <author>chris@chrisshort.net (Chris Short)</author>
-      <guid>https://chrisshort.net/tags/repo/</guid>
+      
+      <guid>/tags/repo/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Resume</title>
-      <link>https://chrisshort.net/tags/resume/</link>
+      <link>/tags/resume/</link>
       <pubDate>Fri, 21 Oct 2016 21:13:00 +0000</pubDate>
-      <author>chris@chrisshort.net (Chris Short)</author>
-      <guid>https://chrisshort.net/tags/resume/</guid>
+      
+      <guid>/tags/resume/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Richard Childress</title>
-      <link>https://chrisshort.net/tags/richard-childress/</link>
+      <link>/tags/richard-childress/</link>
       <pubDate>Fri, 27 May 2016 23:16:56 +0000</pubDate>
-      <author>chris@chrisshort.net (Chris Short)</author>
-      <guid>https://chrisshort.net/tags/richard-childress/</guid>
+      
+      <guid>/tags/richard-childress/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Richard Childress Racing</title>
-      <link>https://chrisshort.net/tags/richard-childress-racing/</link>
+      <link>/tags/richard-childress-racing/</link>
       <pubDate>Fri, 27 May 2016 23:16:56 +0000</pubDate>
-      <author>chris@chrisshort.net (Chris Short)</author>
-      <guid>https://chrisshort.net/tags/richard-childress-racing/</guid>
+      
+      <guid>/tags/richard-childress-racing/</guid>
       <description></description>
     </item>
     
     <item>
       <title>S3</title>
-      <link>https://chrisshort.net/tags/s3/</link>
+      <link>/tags/s3/</link>
       <pubDate>Tue, 14 Jun 2016 17:18:30 +0000</pubDate>
-      <author>chris@chrisshort.net (Chris Short)</author>
-      <guid>https://chrisshort.net/tags/s3/</guid>
+      
+      <guid>/tags/s3/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Samba</title>
-      <link>https://chrisshort.net/tags/samba/</link>
+      <link>/tags/samba/</link>
       <pubDate>Tue, 12 Apr 2016 04:57:53 +0000</pubDate>
-      <author>chris@chrisshort.net (Chris Short)</author>
-      <guid>https://chrisshort.net/tags/samba/</guid>
+      
+      <guid>/tags/samba/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Scm</title>
-      <link>https://chrisshort.net/tags/scm/</link>
+      <link>/tags/scm/</link>
       <pubDate>Sat, 25 Jun 2016 17:06:05 +0000</pubDate>
-      <author>chris@chrisshort.net (Chris Short)</author>
-      <guid>https://chrisshort.net/tags/scm/</guid>
+      
+      <guid>/tags/scm/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Security</title>
-      <link>https://chrisshort.net/tags/security/</link>
+      <link>/tags/security/</link>
       <pubDate>Mon, 05 Jun 2017 22:26:47 +0000</pubDate>
-      <author>chris@chrisshort.net (Chris Short)</author>
-      <guid>https://chrisshort.net/tags/security/</guid>
+      
+      <guid>/tags/security/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Sed</title>
-      <link>https://chrisshort.net/tags/sed/</link>
+      <link>/tags/sed/</link>
       <pubDate>Wed, 01 Jun 2016 16:44:00 +0000</pubDate>
-      <author>chris@chrisshort.net (Chris Short)</author>
-      <guid>https://chrisshort.net/tags/sed/</guid>
+      
+      <guid>/tags/sed/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Social Media</title>
-      <link>https://chrisshort.net/tags/social-media/</link>
+      <link>/tags/social-media/</link>
       <pubDate>Mon, 21 Nov 2016 13:03:00 +0000</pubDate>
-      <author>chris@chrisshort.net (Chris Short)</author>
-      <guid>https://chrisshort.net/tags/social-media/</guid>
+      
+      <guid>/tags/social-media/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Spotify</title>
-      <link>https://chrisshort.net/tags/spotify/</link>
+      <link>/tags/spotify/</link>
       <pubDate>Sat, 07 Jan 2012 19:06:00 +0000</pubDate>
-      <author>chris@chrisshort.net (Chris Short)</author>
-      <guid>https://chrisshort.net/tags/spotify/</guid>
+      
+      <guid>/tags/spotify/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Stratum</title>
-      <link>https://chrisshort.net/tags/stratum/</link>
+      <link>/tags/stratum/</link>
       <pubDate>Wed, 02 Nov 2016 11:00:00 +0000</pubDate>
-      <author>chris@chrisshort.net (Chris Short)</author>
-      <guid>https://chrisshort.net/tags/stratum/</guid>
+      
+      <guid>/tags/stratum/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Streaming Music</title>
-      <link>https://chrisshort.net/tags/streaming-music/</link>
+      <link>/tags/streaming-music/</link>
       <pubDate>Sat, 07 Jan 2012 19:06:00 +0000</pubDate>
-      <author>chris@chrisshort.net (Chris Short)</author>
-      <guid>https://chrisshort.net/tags/streaming-music/</guid>
+      
+      <guid>/tags/streaming-music/</guid>
       <description></description>
     </item>
     
     <item>
       <title>System Integrity Protection</title>
-      <link>https://chrisshort.net/tags/system-integrity-protection/</link>
+      <link>/tags/system-integrity-protection/</link>
       <pubDate>Wed, 01 Jun 2016 16:44:00 +0000</pubDate>
-      <author>chris@chrisshort.net (Chris Short)</author>
-      <guid>https://chrisshort.net/tags/system-integrity-protection/</guid>
+      
+      <guid>/tags/system-integrity-protection/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Systemd</title>
-      <link>https://chrisshort.net/tags/systemd/</link>
+      <link>/tags/systemd/</link>
       <pubDate>Tue, 09 Aug 2016 18:13:30 +0000</pubDate>
-      <author>chris@chrisshort.net (Chris Short)</author>
-      <guid>https://chrisshort.net/tags/systemd/</guid>
+      
+      <guid>/tags/systemd/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Tech Control</title>
-      <link>https://chrisshort.net/tags/tech-control/</link>
+      <link>/tags/tech-control/</link>
       <pubDate>Fri, 05 Aug 2005 17:33:00 +0000</pubDate>
-      <author>chris@chrisshort.net (Chris Short)</author>
-      <guid>https://chrisshort.net/tags/tech-control/</guid>
+      
+      <guid>/tags/tech-control/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Technical Controller</title>
-      <link>https://chrisshort.net/tags/technical-controller/</link>
+      <link>/tags/technical-controller/</link>
       <pubDate>Fri, 05 Aug 2005 17:33:00 +0000</pubDate>
-      <author>chris@chrisshort.net (Chris Short)</author>
-      <guid>https://chrisshort.net/tags/technical-controller/</guid>
+      
+      <guid>/tags/technical-controller/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Technical Debt</title>
-      <link>https://chrisshort.net/tags/technical-debt/</link>
+      <link>/tags/technical-debt/</link>
       <pubDate>Tue, 09 Aug 2016 18:13:30 +0000</pubDate>
-      <author>chris@chrisshort.net (Chris Short)</author>
-      <guid>https://chrisshort.net/tags/technical-debt/</guid>
+      
+      <guid>/tags/technical-debt/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Test Kitchen</title>
-      <link>https://chrisshort.net/tags/test-kitchen/</link>
+      <link>/tags/test-kitchen/</link>
       <pubDate>Mon, 23 Jan 2017 22:03:02 +0000</pubDate>
-      <author>chris@chrisshort.net (Chris Short)</author>
-      <guid>https://chrisshort.net/tags/test-kitchen/</guid>
+      
+      <guid>/tags/test-kitchen/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Tim Tebow</title>
-      <link>https://chrisshort.net/tags/tim-tebow/</link>
+      <link>/tags/tim-tebow/</link>
       <pubDate>Thu, 19 Sep 2013 20:00:00 +0000</pubDate>
-      <author>chris@chrisshort.net (Chris Short)</author>
-      <guid>https://chrisshort.net/tags/tim-tebow/</guid>
+      
+      <guid>/tags/tim-tebow/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Time</title>
-      <link>https://chrisshort.net/tags/time/</link>
+      <link>/tags/time/</link>
       <pubDate>Wed, 02 Nov 2016 11:00:00 +0000</pubDate>
-      <author>chris@chrisshort.net (Chris Short)</author>
-      <guid>https://chrisshort.net/tags/time/</guid>
+      
+      <guid>/tags/time/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Tumblr</title>
-      <link>https://chrisshort.net/tags/tumblr/</link>
+      <link>/tags/tumblr/</link>
       <pubDate>Tue, 26 Jul 2016 16:06:31 +0000</pubDate>
-      <author>chris@chrisshort.net (Chris Short)</author>
-      <guid>https://chrisshort.net/tags/tumblr/</guid>
+      
+      <guid>/tags/tumblr/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Understanding</title>
-      <link>https://chrisshort.net/tags/understanding/</link>
+      <link>/tags/understanding/</link>
       <pubDate>Tue, 21 Jun 2016 05:44:00 +0000</pubDate>
-      <author>chris@chrisshort.net (Chris Short)</author>
-      <guid>https://chrisshort.net/tags/understanding/</guid>
+      
+      <guid>/tags/understanding/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Us Air Force</title>
-      <link>https://chrisshort.net/tags/us-air-force/</link>
+      <link>/tags/us-air-force/</link>
       <pubDate>Tue, 30 Aug 2016 17:17:00 +0000</pubDate>
-      <author>chris@chrisshort.net (Chris Short)</author>
-      <guid>https://chrisshort.net/tags/us-air-force/</guid>
+      
+      <guid>/tags/us-air-force/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Usaf</title>
-      <link>https://chrisshort.net/tags/usaf/</link>
+      <link>/tags/usaf/</link>
       <pubDate>Fri, 05 Aug 2005 17:33:00 +0000</pubDate>
-      <author>chris@chrisshort.net (Chris Short)</author>
-      <guid>https://chrisshort.net/tags/usaf/</guid>
+      
+      <guid>/tags/usaf/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Vcs</title>
-      <link>https://chrisshort.net/tags/vcs/</link>
+      <link>/tags/vcs/</link>
       <pubDate>Sat, 25 Jun 2016 17:06:05 +0000</pubDate>
-      <author>chris@chrisshort.net (Chris Short)</author>
-      <guid>https://chrisshort.net/tags/vcs/</guid>
+      
+      <guid>/tags/vcs/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Verizon</title>
-      <link>https://chrisshort.net/tags/verizon/</link>
+      <link>/tags/verizon/</link>
       <pubDate>Sun, 30 Oct 2016 11:00:00 +0000</pubDate>
-      <author>chris@chrisshort.net (Chris Short)</author>
-      <guid>https://chrisshort.net/tags/verizon/</guid>
+      
+      <guid>/tags/verizon/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Veterans</title>
-      <link>https://chrisshort.net/tags/veterans/</link>
+      <link>/tags/veterans/</link>
       <pubDate>Tue, 23 Aug 2016 12:00:00 +0000</pubDate>
-      <author>chris@chrisshort.net (Chris Short)</author>
-      <guid>https://chrisshort.net/tags/veterans/</guid>
+      
+      <guid>/tags/veterans/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Video Games</title>
-      <link>https://chrisshort.net/tags/video-games/</link>
+      <link>/tags/video-games/</link>
       <pubDate>Tue, 27 Jul 2010 20:00:00 +0000</pubDate>
-      <author>chris@chrisshort.net (Chris Short)</author>
-      <guid>https://chrisshort.net/tags/video-games/</guid>
+      
+      <guid>/tags/video-games/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Virtualbox</title>
-      <link>https://chrisshort.net/tags/virtualbox/</link>
+      <link>/tags/virtualbox/</link>
       <pubDate>Fri, 03 May 2013 18:18:00 +0000</pubDate>
-      <author>chris@chrisshort.net (Chris Short)</author>
-      <guid>https://chrisshort.net/tags/virtualbox/</guid>
+      
+      <guid>/tags/virtualbox/</guid>
       <description></description>
     </item>
     
     <item>
       <title>War</title>
-      <link>https://chrisshort.net/tags/war/</link>
+      <link>/tags/war/</link>
       <pubDate>Tue, 30 Aug 2016 17:17:00 +0000</pubDate>
-      <author>chris@chrisshort.net (Chris Short)</author>
-      <guid>https://chrisshort.net/tags/war/</guid>
+      
+      <guid>/tags/war/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Weather</title>
-      <link>https://chrisshort.net/tags/weather/</link>
+      <link>/tags/weather/</link>
       <pubDate>Sun, 10 Jul 2016 20:51:00 +0000</pubDate>
-      <author>chris@chrisshort.net (Chris Short)</author>
-      <guid>https://chrisshort.net/tags/weather/</guid>
+      
+      <guid>/tags/weather/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Windows 10</title>
-      <link>https://chrisshort.net/tags/windows-10/</link>
+      <link>/tags/windows-10/</link>
       <pubDate>Tue, 10 May 2016 17:05:00 +0000</pubDate>
-      <author>chris@chrisshort.net (Chris Short)</author>
-      <guid>https://chrisshort.net/tags/windows-10/</guid>
+      
+      <guid>/tags/windows-10/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Windows Xp</title>
-      <link>https://chrisshort.net/tags/windows-xp/</link>
+      <link>/tags/windows-xp/</link>
       <pubDate>Wed, 05 Jan 2005 04:16:00 +0000</pubDate>
-      <author>chris@chrisshort.net (Chris Short)</author>
-      <guid>https://chrisshort.net/tags/windows-xp/</guid>
+      
+      <guid>/tags/windows-xp/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Winged Scapula</title>
-      <link>https://chrisshort.net/tags/winged-scapula/</link>
+      <link>/tags/winged-scapula/</link>
       <pubDate>Sat, 03 Oct 2015 09:57:51 +0000</pubDate>
-      <author>chris@chrisshort.net (Chris Short)</author>
-      <guid>https://chrisshort.net/tags/winged-scapula/</guid>
+      
+      <guid>/tags/winged-scapula/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Wireless</title>
-      <link>https://chrisshort.net/tags/wireless/</link>
+      <link>/tags/wireless/</link>
       <pubDate>Sun, 30 Oct 2016 11:00:00 +0000</pubDate>
-      <author>chris@chrisshort.net (Chris Short)</author>
-      <guid>https://chrisshort.net/tags/wireless/</guid>
+      
+      <guid>/tags/wireless/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Xfs</title>
-      <link>https://chrisshort.net/tags/xfs/</link>
+      <link>/tags/xfs/</link>
       <pubDate>Thu, 15 May 2003 01:41:00 +0000</pubDate>
-      <author>chris@chrisshort.net (Chris Short)</author>
-      <guid>https://chrisshort.net/tags/xfs/</guid>
+      
+      <guid>/tags/xfs/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Yahoo</title>
-      <link>https://chrisshort.net/tags/yahoo/</link>
+      <link>/tags/yahoo/</link>
       <pubDate>Tue, 26 Jul 2016 16:06:31 +0000</pubDate>
-      <author>chris@chrisshort.net (Chris Short)</author>
-      <guid>https://chrisshort.net/tags/yahoo/</guid>
+      
+      <guid>/tags/yahoo/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Yubikey</title>
-      <link>https://chrisshort.net/tags/yubikey/</link>
+      <link>/tags/yubikey/</link>
       <pubDate>Sat, 27 Feb 2016 18:40:10 +0000</pubDate>
-      <author>chris@chrisshort.net (Chris Short)</author>
-      <guid>https://chrisshort.net/tags/yubikey/</guid>
+      
+      <guid>/tags/yubikey/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Yum</title>
-      <link>https://chrisshort.net/tags/yum/</link>
+      <link>/tags/yum/</link>
       <pubDate>Mon, 23 May 2016 21:44:50 +0000</pubDate>
-      <author>chris@chrisshort.net (Chris Short)</author>
-      <guid>https://chrisshort.net/tags/yum/</guid>
+      
+      <guid>/tags/yum/</guid>
       <description></description>
     </item>
     

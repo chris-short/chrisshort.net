@@ -13,21 +13,21 @@
   <meta name="twitter:card" content="summary" />
   <meta name="twitter:site" content="@ChrisShort" />
   <meta name="twitter:creator" content="@ChrisShort" />
-  <meta property="og:url" content="https://chrisshort.net/tags/yum/" />
+  <meta property="og:url" content="/tags/yum/" />
   <meta property="og:type" content="website" />
   <meta property="og:site_name" content="Chris Short" />
 
   <meta name="generator" content="Hugo 0.25.1" />
-  <link rel="canonical" href="https://chrisshort.net/tags/yum/" />
-  <link rel="alternate" href="https://chrisshort.net/index.xml" type="application/rss+xml" title="Chris Short">
+  <link rel="canonical" href="/tags/yum/" />
+  <link rel="alternate" href="/index.xml" type="application/rss+xml" title="Chris Short">
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.7.1/katex.min.css" integrity="sha384-wITovz90syo1dJWVh32uuETPVEtGigN07tkttEqPv+uR2SE/mbQcG7ATL28aI9H0" crossorigin="anonymous">
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" />
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
-  <link rel="stylesheet" href="https://chrisshort.net/css/main.css" />
+  <link rel="stylesheet" href="/css/main.css" />
   <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Lora:400,700,400italic,700italic" />
   <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,800italic,400,300,600,700,800" />
-  <link rel="stylesheet" href="https://chrisshort.net/css/pygment_highlights.css" />
-  <link rel="stylesheet" href="https://chrisshort.net/css/highlight.min.css" />
+  <link rel="stylesheet" href="/css/pygment_highlights.css" />
+  <link rel="stylesheet" href="/css/highlight.min.css" />
 
 
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/photoswipe/4.1.1/photoswipe.min.css" integrity="sha256-sCl5PUOGMLfFYctzDW3MtRib0ctyUvI9Qsmq2wXOeBY=" crossorigin="anonymous" />
@@ -98,7 +98,7 @@ ga('send', 'pageview');
         <span class="icon-bar"></span>
         <span class="icon-bar"></span>
       </button>
-      <a class="navbar-brand" href="https://chrisshort.net">Chris Short</a>
+      <a class="navbar-brand" href="/">Chris Short</a>
     </div>
 
     <div class="collapse navbar-collapse" id="main-navbar">
@@ -170,7 +170,7 @@ ga('send', 'pageview');
         <div class="posts-list">
           
             <article class="post-preview">
-              <a href="https://chrisshort.net/post/poorly-documented-dependencies/">
+              <a href="/post/poorly-documented-dependencies/">
                 <h2 class="post-title">Poorly Documented Dependencies</h2>
     
                 
@@ -184,7 +184,7 @@ ga('send', 'pageview');
                   Few things irritate me more than poorly documented dependencies. If your tool or software documentation states you can install your widget with one command and it does not work you are probably annoying people.
 Consider this a running list of tools and their often not well documented dependency chains. Feel free to chime in with your examples in the comments.
    (adsbygoogle = window.adsbygoogle || []).push({});  Ansible
-                  <a href="https://chrisshort.net/post/poorly-documented-dependencies/" class="post-read-more">[Read More]</a>
+                  <a href="/post/poorly-documented-dependencies/" class="post-read-more">[Read More]</a>
                 
               </div>
     
@@ -211,7 +211,7 @@ Consider this a running list of tools and their often not well documented depend
             </article>
           
             <article class="post-preview">
-              <a href="https://chrisshort.net/post/got-badlock-ansible-can-help/">
+              <a href="/post/got-badlock-ansible-can-help/">
                 <h2 class="post-title">Got Badlock? Ansible Can Help</h2>
     
                 
@@ -225,7 +225,7 @@ Consider this a running list of tools and their often not well documented depend
                   Badlock might not be bad for all. If you are using Ansible you can patch your systems with a single playbook (or ad hoc command).
 For RPM based OS users Badlock (samba) patching is as easy as: ansible -m shell -a &quot;yum update *samba*&quot; all
    (adsbygoogle = window.adsbygoogle || []).push({});  Or you can be very granular and use an Ansible Playbook to audit and patch samba packages: &mdash; - hosts: all tasks: - name: Check if samba packages are installed shell: &ldquo;yum list installed samba | awk &lsquo;!
-                  <a href="https://chrisshort.net/post/got-badlock-ansible-can-help/" class="post-read-more">[Read More]</a>
+                  <a href="/post/got-badlock-ansible-can-help/" class="post-read-more">[Read More]</a>
                 
               </div>
     
@@ -262,10 +262,18 @@ For RPM based OS users Badlock (samba) patching is as easy as: ansible -m shell 
         <ul class="list-inline text-center footer-links">
           
               <li>
-                <a href="mailto:chris@chrisshort.net" title="Email me">
+                <a href="https://twitter.com/ChrisShort" title="Twitter">
                   <span class="fa-stack fa-lg">
                     <i class="fa fa-circle fa-stack-2x"></i>
-                    <i class="fa fa-envelope fa-stack-1x fa-inverse"></i>
+                    <i class="fa fa-twitter fa-stack-1x fa-inverse"></i>
+                  </span>
+                </a>
+              </li>
+              <li>
+                <a href="https://linkedin.com/in/christopherbshort" title="LinkedIn">
+                  <span class="fa-stack fa-lg">
+                    <i class="fa fa-circle fa-stack-2x"></i>
+                    <i class="fa fa-linkedin fa-stack-1x fa-inverse"></i>
                   </span>
                 </a>
               </li>
@@ -278,10 +286,18 @@ For RPM based OS users Badlock (samba) patching is as easy as: ansible -m shell 
                 </a>
               </li>
               <li>
-                <a href="https://plus.google.com/&#43;ChrisShort" title="Google&#43;">
+                <a href="https://medium.com/@chrisshort/" title="medium">
                   <span class="fa-stack fa-lg">
                     <i class="fa fa-circle fa-stack-2x"></i>
-                    <i class="fa fa-google-plus fa-stack-1x fa-inverse"></i>
+                    <i class="fa fa-medium fa-stack-1x fa-inverse"></i>
+                  </span>
+                </a>
+              </li>
+              <li>
+                <a href="https://chrisshort.tumblr.com" title="tumblr">
+                  <span class="fa-stack fa-lg">
+                    <i class="fa fa-circle fa-stack-2x"></i>
+                    <i class="fa fa-tumblr fa-stack-1x fa-inverse"></i>
                   </span>
                 </a>
               </li>
@@ -294,26 +310,10 @@ For RPM based OS users Badlock (samba) patching is as easy as: ansible -m shell 
                 </a>
               </li>
               <li>
-                <a href="https://twitter.com/ChrisShort" title="Twitter">
-                  <span class="fa-stack fa-lg">
-                    <i class="fa fa-circle fa-stack-2x"></i>
-                    <i class="fa fa-twitter fa-stack-1x fa-inverse"></i>
-                  </span>
-                </a>
-              </li>
-              <li>
                 <a href="https://reddit.com/u/oaf357" title="Reddit">
                   <span class="fa-stack fa-lg">
                     <i class="fa fa-circle fa-stack-2x"></i>
                     <i class="fa fa-reddit-alien fa-stack-1x fa-inverse"></i>
-                  </span>
-                </a>
-              </li>
-              <li>
-                <a href="https://linkedin.com/in/christopherbshort" title="LinkedIn">
-                  <span class="fa-stack fa-lg">
-                    <i class="fa fa-circle fa-stack-2x"></i>
-                    <i class="fa fa-linkedin fa-stack-1x fa-inverse"></i>
                   </span>
                 </a>
               </li>
@@ -334,6 +334,38 @@ For RPM based OS users Badlock (samba) patching is as easy as: ansible -m shell 
                 </a>
               </li>
               <li>
+                <a href="https://500px.com/chrisshort" title="500px">
+                  <span class="fa-stack fa-lg">
+                    <i class="fa fa-circle fa-stack-2x"></i>
+                    <i class="fa fa-500px fa-stack-1x fa-inverse"></i>
+                  </span>
+                </a>
+              </li>
+              <li>
+                <a href="https://www.flickr.com/photos/chris-short" title="Flickr">
+                  <span class="fa-stack fa-lg">
+                    <i class="fa fa-circle fa-stack-2x"></i>
+                    <i class="fa fa-flickr fa-stack-1x fa-inverse"></i>
+                  </span>
+                </a>
+              </li>
+              <li>
+                <a href="https://www.twitch.tv/thechrisshort" title="Twitch">
+                  <span class="fa-stack fa-lg">
+                    <i class="fa fa-circle fa-stack-2x"></i>
+                    <i class="fa fa-twitch fa-stack-1x fa-inverse"></i>
+                  </span>
+                </a>
+              </li>
+              <li>
+                <a href="https://www.producthunt.com/@chrisshort" title="Product Hunt">
+                  <span class="fa-stack fa-lg">
+                    <i class="fa fa-circle fa-stack-2x"></i>
+                    <i class="fa fa-product-hunt fa-stack-1x fa-inverse"></i>
+                  </span>
+                </a>
+              </li>
+              <li>
                 <a href="https://soundcloud.com/chris-short-15" title="SoundCloud">
                   <span class="fa-stack fa-lg">
                     <i class="fa fa-circle fa-stack-2x"></i>
@@ -341,9 +373,25 @@ For RPM based OS users Badlock (samba) patching is as easy as: ansible -m shell 
                   </span>
                 </a>
               </li>
+              <li>
+                <a href="https://keybase.io/chrisshort" title="Keybase">
+                  <span class="fa-stack fa-lg">
+                    <i class="fa fa-circle fa-stack-2x"></i>
+                    <i class="fa fa-key fa-stack-1x fa-inverse"></i>
+                  </span>
+                </a>
+              </li>
+              <li>
+                <a href="https://plus.google.com/&#43;ChrisShort" title="Google&#43;">
+                  <span class="fa-stack fa-lg">
+                    <i class="fa fa-circle fa-stack-2x"></i>
+                    <i class="fa fa-google-plus fa-stack-1x fa-inverse"></i>
+                  </span>
+                </a>
+              </li>
           
           <li>
-            <a href="https://chrisshort.net/index.xml" title="RSS">
+            <a href="/index.xml" title="RSS">
               <span class="fa-stack fa-lg">
                 <i class="fa fa-circle fa-stack-2x"></i>
                 <i class="fa fa-rss fa-stack-1x fa-inverse"></i>
@@ -359,13 +407,13 @@ For RPM based OS users Badlock (samba) patching is as easy as: ansible -m shell 
 
           
             &nbsp;&bull;&nbsp;
-            <a href="https://chrisshort.net">Chris Short</a>
+            <a href="/">Chris Short</a>
           
         </p>
         
         <p class="credits theme-by text-muted">
           <a href="http://gohugo.io">Hugo v0.25.1</a> powered &nbsp;&bull;&nbsp; Theme by <a href="http://deanattali.com/beautiful-jekyll/">Beautiful Jekyll</a> adapted to <a href="https://github.com/halogenica/beautifulhugo">Beautiful Hugo</a>
-          &nbsp;&bull;&nbsp;[<a href="true"></a>]
+          
         </p>
       </div>
     </div>
@@ -376,8 +424,8 @@ For RPM based OS users Badlock (samba) patching is as easy as: ansible -m shell 
 <script src="https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.7.1/contrib/auto-render.min.js" integrity="sha384-dq1/gEHSxPZQ7DdrM82ID4YVol9BYyU7GbWlIwnwyPzotpoc57wDw/guX8EaYGPx" crossorigin="anonymous"></script>
 <script src="https://code.jquery.com/jquery-1.12.4.min.js" integrity="sha256-ZosEbRLbNQzLpnKIkEdrPv7lOy9C27hHQ+Xp8a4MxAQ=" crossorigin="anonymous"></script>
 <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
-<script src="https://chrisshort.net/js/main.js"></script>
-<script src="https://chrisshort.net/js/highlight.min.js"></script>
+<script src="/js/main.js"></script>
+<script src="/js/highlight.min.js"></script>
 <script> hljs.initHighlightingOnLoad(); </script>
 <script> renderMathInElement(document.body); </script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/photoswipe/4.1.1/photoswipe.min.js" integrity="sha256-UplRCs9v4KXVJvVY+p+RSo5Q4ilAUXh7kpjyIP5odyc=" crossorigin="anonymous"></script>

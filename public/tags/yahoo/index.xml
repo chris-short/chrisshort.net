@@ -2,22 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Yahoo on Chris Short</title>
-    <link>https://chrisshort.net/tags/yahoo/</link>
+    <link>/tags/yahoo/</link>
     <description>Recent content in Yahoo on Chris Short</description>
     <generator>Hugo -- gohugo.io</generator>
-    <managingEditor>chris@chrisshort.net (Chris Short)</managingEditor>
-    <webMaster>chris@chrisshort.net (Chris Short)</webMaster>
     <lastBuildDate>Tue, 26 Jul 2016 16:06:31 +0000</lastBuildDate>
     
-	<atom:link href="https://chrisshort.net/tags/yahoo/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/tags/yahoo/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>What Does Yahoo&#39;s Downfall Teach Us?</title>
-      <link>https://chrisshort.net/post/what-does-yahoos-downfall-teach-us/</link>
+      <link>/post/what-does-yahoos-downfall-teach-us/</link>
       <pubDate>Tue, 26 Jul 2016 16:06:31 +0000</pubDate>
-      <author>chris@chrisshort.net (Chris Short)</author>
-      <guid>https://chrisshort.net/post/what-does-yahoos-downfall-teach-us/</guid>
+      
+      <guid>/post/what-does-yahoos-downfall-teach-us/</guid>
       <description>If you have not heard, Verizon announced they are going to acquire Yahoo. This ends a very long, drawn out bidding process in what has been the very long death of Yahoo. Yahoo, the brand, probably will not disappear in this deal (much like how AOL is still a brand after its acquisition by Verizon). AOL and Yahoo have benefitted greatly from their once high times. AOL&amp;rsquo;s story is well known (technological advances eroding their user base).</description>
     </item>
     

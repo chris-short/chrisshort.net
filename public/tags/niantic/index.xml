@@ -2,22 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Niantic on Chris Short</title>
-    <link>https://chrisshort.net/tags/niantic/</link>
+    <link>/tags/niantic/</link>
     <description>Recent content in Niantic on Chris Short</description>
     <generator>Hugo -- gohugo.io</generator>
-    <managingEditor>chris@chrisshort.net (Chris Short)</managingEditor>
-    <webMaster>chris@chrisshort.net (Chris Short)</webMaster>
     <lastBuildDate>Wed, 20 Jul 2016 14:34:00 +0000</lastBuildDate>
     
-	<atom:link href="https://chrisshort.net/tags/niantic/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/tags/niantic/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>FBI Issues Notice Regarding Pokémon GO</title>
-      <link>https://chrisshort.net/post/fbi-issues-notice-regarding-pokemon-go/</link>
+      <link>/post/fbi-issues-notice-regarding-pokemon-go/</link>
       <pubDate>Wed, 20 Jul 2016 14:34:00 +0000</pubDate>
-      <author>chris@chrisshort.net (Chris Short)</author>
-      <guid>https://chrisshort.net/post/fbi-issues-notice-regarding-pokemon-go/</guid>
+      
+      <guid>/post/fbi-issues-notice-regarding-pokemon-go/</guid>
       <description>(adsbygoogle = window.adsbygoogle || []).push({});  On July 15, 2016 the US Federal Bureau of Investigations (FBI) issued an External Intelligence Note regarding the recent smash hit augmented reality mobile game Pokémon GO. The Note&amp;rsquo;s classification was unclassified/for official use only with the intended audience being the law enforcement and security communities. The completely unclassified summary of the FBI External Intelligence Note states:
  The FBI’s Washington Field Office (WFO) assesses it is very likely a increased participation in the Pokémon GO augmented-reality smartphone application will result in an increase in law enforcement encounters and suspicious activity reports (SARs) in the National Capital Region (NCR) due to a high concentration of museums, art installations, historical markers, and monuments identified as target locations, or “PokéStops,” and players attempting to access restricted areas.</description>
     </item>

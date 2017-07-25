@@ -2,22 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Windows Xp on Chris Short</title>
-    <link>https://chrisshort.net/categories/windows-xp/</link>
+    <link>/categories/windows-xp/</link>
     <description>Recent content in Windows Xp on Chris Short</description>
     <generator>Hugo -- gohugo.io</generator>
-    <managingEditor>chris@chrisshort.net (Chris Short)</managingEditor>
-    <webMaster>chris@chrisshort.net (Chris Short)</webMaster>
     <lastBuildDate>Wed, 05 Jan 2005 04:16:00 +0000</lastBuildDate>
     
-	<atom:link href="https://chrisshort.net/categories/windows-xp/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/categories/windows-xp/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Windows XP and Big Hard Drives</title>
-      <link>https://chrisshort.net/post/windows-and-big-hard-drives/</link>
+      <link>/post/windows-and-big-hard-drives/</link>
       <pubDate>Wed, 05 Jan 2005 04:16:00 +0000</pubDate>
-      <author>chris@chrisshort.net (Chris Short)</author>
-      <guid>https://chrisshort.net/post/windows-and-big-hard-drives/</guid>
+      
+      <guid>/post/windows-and-big-hard-drives/</guid>
       <description>After having issues with a Western Digital 200 GB hard drive and Windows XP I thought it would be beneficial to put my notes into some sort of guide for other people that might have a problem with Windows and drives that are bigger than 137 GB (128 GB binary).
    (adsbygoogle = window.adsbygoogle || []).push({});  Windows XP Service Pack 1 eliminates the 137 GB (128 GB binary) barrier (Windows XP SP1 includes 48-bit LBA support for ATAPI disk drives).</description>
     </item>

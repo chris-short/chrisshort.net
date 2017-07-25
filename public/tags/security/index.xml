@@ -2,32 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Security on Chris Short</title>
-    <link>https://chrisshort.net/tags/security/</link>
+    <link>/tags/security/</link>
     <description>Recent content in Security on Chris Short</description>
     <generator>Hugo -- gohugo.io</generator>
-    <managingEditor>chris@chrisshort.net (Chris Short)</managingEditor>
-    <webMaster>chris@chrisshort.net (Chris Short)</webMaster>
     <lastBuildDate>Mon, 05 Jun 2017 22:26:47 +0000</lastBuildDate>
     
-	<atom:link href="https://chrisshort.net/tags/security/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/tags/security/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Breaking Encryption Won&#39;t Make Us Safer</title>
-      <link>https://chrisshort.net/post/breaking-encryption-wont-make-us-safer/</link>
+      <link>/post/breaking-encryption-wont-make-us-safer/</link>
       <pubDate>Mon, 05 Jun 2017 22:26:47 +0000</pubDate>
-      <author>chris@chrisshort.net (Chris Short)</author>
-      <guid>https://chrisshort.net/post/breaking-encryption-wont-make-us-safer/</guid>
+      
+      <guid>/post/breaking-encryption-wont-make-us-safer/</guid>
       <description>The British government wants to build backdoors into standard encryption libraries. This means the technology that protects your financial transactions could have a backdoor. These same backdoors were just exploited in the WannaCry outbreak that just took down the NHS. Who created that backdoor? The NSA, whose incompetence allowed this &amp;ldquo;tool&amp;rdquo; to fall into the hands of a Russian government-affiliated hacking group.
 You don&amp;rsquo;t do anything illegal? Great! You do have a bank account, right?</description>
     </item>
     
     <item>
       <title>Disabling Mac OS X El Capitan System Integrity Protection</title>
-      <link>https://chrisshort.net/post/disabling-mac-os-x-el-capitan-system-integrity-protection/</link>
+      <link>/post/disabling-mac-os-x-el-capitan-system-integrity-protection/</link>
       <pubDate>Tue, 13 Oct 2015 17:22:32 +0000</pubDate>
-      <author>chris@chrisshort.net (Chris Short)</author>
-      <guid>https://chrisshort.net/post/disabling-mac-os-x-el-capitan-system-integrity-protection/</guid>
+      
+      <guid>/post/disabling-mac-os-x-el-capitan-system-integrity-protection/</guid>
       <description>Apple has introduced a new security feature in Mac OS X El Capitan (10.11) called System Integrity Protection (sometimes referred to as rootless).
    (adsbygoogle = window.adsbygoogle || []).push({});  What is System Integrity Protection? According to Apple&amp;rsquo;s documentation:
  A new security policy that applies to every running process, including privileged code and code that runs out of the sandbox. The policy extends additional protections to components on disk and at run-time, only allowing system binaries to be modified by the system installer and software updates.</description>
@@ -35,10 +33,10 @@ You don&amp;rsquo;t do anything illegal? Great! You do have a bank account, righ
     
     <item>
       <title>LastPass Sells Out to LogMeIn</title>
-      <link>https://chrisshort.net/post/lastpass-sells-out-to-logmein/</link>
+      <link>/post/lastpass-sells-out-to-logmein/</link>
       <pubDate>Fri, 09 Oct 2015 23:03:30 +0000</pubDate>
-      <author>chris@chrisshort.net (Chris Short)</author>
-      <guid>https://chrisshort.net/post/lastpass-sells-out-to-logmein/</guid>
+      
+      <guid>/post/lastpass-sells-out-to-logmein/</guid>
       <description>If you have not heard, the phenomenal cloud base SaaS password manager, LastPass has agreed to be acquired be the not so customer friendly LogMeIn. The IT world immediately panned the anti-idea as anti-consumer and the security world agreed and raised all sorts of red flags as well.
    (adsbygoogle = window.adsbygoogle || []).push({});  People dislike LogMeIn for a variety of reasons but the main one is that they pulled the rugs out from under a lot of folks who were using LogMeIn to help administer remote computers (I was one of these people).</description>
     </item>

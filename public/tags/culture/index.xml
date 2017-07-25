@@ -2,22 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Culture on Chris Short</title>
-    <link>https://chrisshort.net/tags/culture/</link>
+    <link>/tags/culture/</link>
     <description>Recent content in Culture on Chris Short</description>
     <generator>Hugo -- gohugo.io</generator>
-    <managingEditor>chris@chrisshort.net (Chris Short)</managingEditor>
-    <webMaster>chris@chrisshort.net (Chris Short)</webMaster>
     <lastBuildDate>Tue, 06 Jun 2017 12:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://chrisshort.net/tags/culture/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/tags/culture/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>The Open Organization Guide to IT Culture Change</title>
-      <link>https://chrisshort.net/post/the-open-organization-guide-to-it-culture-change/</link>
+      <link>/post/the-open-organization-guide-to-it-culture-change/</link>
       <pubDate>Tue, 06 Jun 2017 12:00:00 +0000</pubDate>
-      <author>chris@chrisshort.net (Chris Short)</author>
-      <guid>https://chrisshort.net/post/the-open-organization-guide-to-it-culture-change/</guid>
+      
+      <guid>/post/the-open-organization-guide-to-it-culture-change/</guid>
       <description>The open organization community at Opensource.com (of which I&amp;rsquo;m a member) is pleased to announce the immediate release of its newest book, The Open Organization Guide to IT Culture Change.
 As IT teams around the world rise to these new challenges, they&amp;rsquo;re realizing that radical change isn&amp;rsquo;t a matter of tools alone. It&amp;rsquo;s also a matter of culture—the values that underpin behaviors, influence problem-solving capability, and facilitate truly revolutionary potential. Those values are open values.</description>
     </item>

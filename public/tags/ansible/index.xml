@@ -2,22 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Ansible on Chris Short</title>
-    <link>https://chrisshort.net/tags/ansible/</link>
+    <link>/tags/ansible/</link>
     <description>Recent content in Ansible on Chris Short</description>
     <generator>Hugo -- gohugo.io</generator>
-    <managingEditor>chris@chrisshort.net (Chris Short)</managingEditor>
-    <webMaster>chris@chrisshort.net (Chris Short)</webMaster>
     <lastBuildDate>Mon, 23 Jan 2017 22:03:02 +0000</lastBuildDate>
     
-	<atom:link href="https://chrisshort.net/tags/ansible/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/tags/ansible/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>GitLab Annoyance: Private to Public Repos</title>
-      <link>https://chrisshort.net/post/gitlab-annoyance-private-to-public-repos/</link>
+      <link>/post/gitlab-annoyance-private-to-public-repos/</link>
       <pubDate>Mon, 23 Jan 2017 22:03:02 +0000</pubDate>
-      <author>chris@chrisshort.net (Chris Short)</author>
-      <guid>https://chrisshort.net/post/gitlab-annoyance-private-to-public-repos/</guid>
+      
+      <guid>/post/gitlab-annoyance-private-to-public-repos/</guid>
       <description>I was working on a new Ansible role last week and was having problems with Test Kitchen. The issue I was having was that Test Kitchen was unable to pull in dependencies from GitLab for the Ansible role I was developing. Here is the error message I was seeing:
 [WARNING]: - rsyslog was NOT installed successfully: - command git clone https://gitlab.logicnow.com/ansible-roles/rsyslog.git rsyslog failed in directory /tmp/tmpEaRVAA (rc=128)
 I realized that on our internal, private GitLab server a repo needed to be changed from Private to Public.</description>
@@ -25,10 +23,10 @@ I realized that on our internal, private GitLab server a repo needed to be chang
     
     <item>
       <title>Ansible Role for Papertrail</title>
-      <link>https://chrisshort.net/post/ansible-role-for-papertrail/</link>
+      <link>/post/ansible-role-for-papertrail/</link>
       <pubDate>Fri, 09 Dec 2016 13:35:00 +0000</pubDate>
-      <author>chris@chrisshort.net (Chris Short)</author>
-      <guid>https://chrisshort.net/post/ansible-role-for-papertrail/</guid>
+      
+      <guid>/post/ansible-role-for-papertrail/</guid>
       <description>I have written my first publicly reusable Ansible role. It is freely available for use via Ansible Galaxy at chris-short.ansible-role-papertrail and helps you get Papertrail up and running.
 What is Papertrail? A hosted log management tool that, in my opinion, can bridge the gap between your terminal and a full blown ELK stack. It is no frills streaming log aggregation and search.
 
@@ -37,39 +35,39 @@ Being my first Ansible role I have submitted to Galaxy I am pretty stoked about 
     
     <item>
       <title>Ansible Galaxy is Open</title>
-      <link>https://chrisshort.net/post/ansible-galaxy-is-open/</link>
+      <link>/post/ansible-galaxy-is-open/</link>
       <pubDate>Tue, 11 Oct 2016 17:45:00 +0000</pubDate>
-      <author>chris@chrisshort.net (Chris Short)</author>
-      <guid>https://chrisshort.net/post/ansible-galaxy-is-open/</guid>
+      
+      <guid>/post/ansible-galaxy-is-open/</guid>
       <description>A quick note from AnsibleFest Brooklyn 2016. Ansible Galaxy is now open source and available at GitHub.com/ansible/galaxy. Congratulations to the Ansible team and Red Hat for open sourcing an important piece of the Ansible stack!</description>
     </item>
     
     <item>
       <title>User Management with Ansible</title>
-      <link>https://chrisshort.net/post/ansible-user-management/</link>
+      <link>/post/ansible-user-management/</link>
       <pubDate>Tue, 27 Sep 2016 16:15:00 +0000</pubDate>
-      <author>chris@chrisshort.net (Chris Short)</author>
-      <guid>https://chrisshort.net/post/ansible-user-management/</guid>
+      
+      <guid>/post/ansible-user-management/</guid>
       <description>The contents of this article originally appeared on DZone
 A few weeks ago, one of my DevOps counterparts was working on building out a new environment for one of our applications. This deployment included a new Puppet server (we are in an orchestration/configuration management state of flux) and my teammate was having some issues provisioning users (I did not ask why nor did I really care). My teammate asked if I could help with some Ansible knowledge.</description>
     </item>
     
     <item>
       <title>lineinfile be damned</title>
-      <link>https://chrisshort.net/post/lineinfile-be-damned/</link>
+      <link>/post/lineinfile-be-damned/</link>
       <pubDate>Tue, 06 Sep 2016 16:30:00 +0000</pubDate>
-      <author>chris@chrisshort.net (Chris Short)</author>
-      <guid>https://chrisshort.net/post/lineinfile-be-damned/</guid>
+      
+      <guid>/post/lineinfile-be-damned/</guid>
       <description>The Ansible lineinfile module is designed to search a file for a line, and ensure that it is present or absent. lineinfile is very effective at that particular task. However, when the line has to be in a certain place or before or after a certain line, lineinfile becomes a hassle to manage.
    (adsbygoogle = window.adsbygoogle || []).push({});  Most people on IRC (#ansible) tend to agree, lineinfile is not a very good module in practice.</description>
     </item>
     
     <item>
       <title>Poorly Documented Dependencies</title>
-      <link>https://chrisshort.net/post/poorly-documented-dependencies/</link>
+      <link>/post/poorly-documented-dependencies/</link>
       <pubDate>Mon, 23 May 2016 21:44:50 +0000</pubDate>
-      <author>chris@chrisshort.net (Chris Short)</author>
-      <guid>https://chrisshort.net/post/poorly-documented-dependencies/</guid>
+      
+      <guid>/post/poorly-documented-dependencies/</guid>
       <description>Few things irritate me more than poorly documented dependencies. If your tool or software documentation states you can install your widget with one command and it does not work you are probably annoying people.
 Consider this a running list of tools and their often not well documented dependency chains. Feel free to chime in with your examples in the comments.
    (adsbygoogle = window.adsbygoogle || []).push({});  Ansible</description>
@@ -77,10 +75,10 @@ Consider this a running list of tools and their often not well documented depend
     
     <item>
       <title>Got Badlock? Ansible Can Help</title>
-      <link>https://chrisshort.net/post/got-badlock-ansible-can-help/</link>
+      <link>/post/got-badlock-ansible-can-help/</link>
       <pubDate>Tue, 12 Apr 2016 04:57:53 +0000</pubDate>
-      <author>chris@chrisshort.net (Chris Short)</author>
-      <guid>https://chrisshort.net/post/got-badlock-ansible-can-help/</guid>
+      
+      <guid>/post/got-badlock-ansible-can-help/</guid>
       <description>Badlock might not be bad for all. If you are using Ansible you can patch your systems with a single playbook (or ad hoc command).
 For RPM based OS users Badlock (samba) patching is as easy as: ansible -m shell -a &amp;quot;yum update *samba*&amp;quot; all
    (adsbygoogle = window.adsbygoogle || []).push({});  Or you can be very granular and use an Ansible Playbook to audit and patch samba packages: &amp;mdash; - hosts: all tasks: - name: Check if samba packages are installed shell: &amp;ldquo;yum list installed samba | awk &amp;lsquo;!</description>
@@ -88,20 +86,20 @@ For RPM based OS users Badlock (samba) patching is as easy as: ansible -m shell 
     
     <item>
       <title>Using Ansible Vault Effectively</title>
-      <link>https://chrisshort.net/post/using-ansible-vault-effectively/</link>
+      <link>/post/using-ansible-vault-effectively/</link>
       <pubDate>Sat, 17 Oct 2015 07:53:00 +0000</pubDate>
-      <author>chris@chrisshort.net (Chris Short)</author>
-      <guid>https://chrisshort.net/post/using-ansible-vault-effectively/</guid>
+      
+      <guid>/post/using-ansible-vault-effectively/</guid>
       <description>Ansible is a great orchestration tool. The low barrier to entry and simplicity of Ansible are why so many people that start using it love it. But there is one feature in Ansible that probably should be used more often. That feature is Ansible Vault.
    (adsbygoogle = window.adsbygoogle || []).push({});   “Vault” is a feature of ansible that allows keeping sensitive data such as passwords or keys in encrypted files, rather than as plaintext in your playbooks or roles.</description>
     </item>
     
     <item>
       <title>Grep Multiple Ansible Vault Files</title>
-      <link>https://chrisshort.net/post/grep-multiple-ansible-vault-files/</link>
+      <link>/post/grep-multiple-ansible-vault-files/</link>
       <pubDate>Tue, 22 Sep 2015 23:56:00 +0000</pubDate>
-      <author>chris@chrisshort.net (Chris Short)</author>
-      <guid>https://chrisshort.net/post/grep-multiple-ansible-vault-files/</guid>
+      
+      <guid>/post/grep-multiple-ansible-vault-files/</guid>
       <description>Here&amp;rsquo;s a handy one-liner to grep multiple Ansible Vault files (like group_vars). All you need is an Ansible Vault password file (outside of your configuration repo, please) and a little bash.
    (adsbygoogle = window.adsbygoogle || []).push({});  ls -1 | while read N ; do echo -n $N: ; ansible-vault --vault-password-file ~/.ansible_vault view $N | grep  ; done </description>
     </item>

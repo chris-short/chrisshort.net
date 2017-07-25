@@ -2,22 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Podcast on Chris Short</title>
-    <link>https://chrisshort.net/tags/podcast/</link>
+    <link>/tags/podcast/</link>
     <description>Recent content in Podcast on Chris Short</description>
     <generator>Hugo -- gohugo.io</generator>
-    <managingEditor>chris@chrisshort.net (Chris Short)</managingEditor>
-    <webMaster>chris@chrisshort.net (Chris Short)</webMaster>
     <lastBuildDate>Mon, 31 Oct 2016 12:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://chrisshort.net/tags/podcast/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/tags/podcast/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>DevOps Perspectives from the Front Lines</title>
-      <link>https://chrisshort.net/post/devops-perspectives-from-the-front-lines/</link>
+      <link>/post/devops-perspectives-from-the-front-lines/</link>
       <pubDate>Mon, 31 Oct 2016 12:00:00 +0000</pubDate>
-      <author>chris@chrisshort.net (Chris Short)</author>
-      <guid>https://chrisshort.net/post/devops-perspectives-from-the-front-lines/</guid>
+      
+      <guid>/post/devops-perspectives-from-the-front-lines/</guid>
       <description>The month of October was quite unique for me. I went to a number of conferences and talked to tons of people from all walks of life. All of the events were great; DevOpsDays Raleigh, AnsibleFest Brooklyn, DevOpsDays Detroit, and All Things Open are all events I would recommend to anyone considering them.
 One distinctly unique opportunity was to sit down with the folks from The Cloudcast to tell my DevOps story.</description>
     </item>

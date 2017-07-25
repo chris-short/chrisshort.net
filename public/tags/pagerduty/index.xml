@@ -2,22 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Pagerduty on Chris Short</title>
-    <link>https://chrisshort.net/tags/pagerduty/</link>
+    <link>/tags/pagerduty/</link>
     <description>Recent content in Pagerduty on Chris Short</description>
     <generator>Hugo -- gohugo.io</generator>
-    <managingEditor>chris@chrisshort.net (Chris Short)</managingEditor>
-    <webMaster>chris@chrisshort.net (Chris Short)</webMaster>
     <lastBuildDate>Wed, 05 Oct 2016 20:56:00 +0000</lastBuildDate>
     
-	<atom:link href="https://chrisshort.net/tags/pagerduty/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/tags/pagerduty/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Notes on PagerDuty</title>
-      <link>https://chrisshort.net/post/notes-on-pagerduty/</link>
+      <link>/post/notes-on-pagerduty/</link>
       <pubDate>Wed, 05 Oct 2016 20:56:00 +0000</pubDate>
-      <author>chris@chrisshort.net (Chris Short)</author>
-      <guid>https://chrisshort.net/post/notes-on-pagerduty/</guid>
+      
+      <guid>/post/notes-on-pagerduty/</guid>
       <description>I have recently been added on to a PagerDuty rotation. I am sure numerous on-call people have a lot of different strategies to managing their rotations. However, there were two pieces of information I immediately wanted from PagerDuty:
  Can I add my on-call rotation to my Google Calendar or Mac Calendar app? What number is going to call me in the middle of the night to wake me up?  The answer to both those questions is an astounding, &amp;ldquo;YES!</description>
     </item>
