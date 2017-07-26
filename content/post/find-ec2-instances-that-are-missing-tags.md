@@ -11,6 +11,8 @@ title = "Find EC2 Instances That Are Missing Tags"
 
 +++
 
+![Amazon Web Services - AWS](https://cdn.chrisshort.net/aws.jpg)
+
 The team here was trying to align AWS resources for billing by using Tags. Seems easy enough but we were having issues trying to figure out which EC2 instances were not tagged. We also wanted to find EC2 instances that are missing a ROLE tag. We searched high and low and found that several people needed a solution. We tried to cobble something together with the AWS CLI and then Ansible. We could not come up with a viable solution. So we did what any could [**DevOps**](https://devopsish.com/) team should do; we opened a ticket with AWS Support.
 
 The response from AWS came quickly and succinctly. Here is what we came up with after their input.

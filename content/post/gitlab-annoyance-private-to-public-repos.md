@@ -11,6 +11,8 @@ title = "GitLab Annoyance: Private to Public Repos"
 
 +++
 
+![GitLab](https://cdn.chrisshort.net/gitlab-logo.png)
+
 I was working on a new Ansible role last week and was having problems with [Test Kitchen](http://kitchen.ci/). The issue I was having was that Test Kitchen was unable to pull in dependencies from GitLab for the Ansible role I  was developing. Here is the error message I was seeing:
 
 ```[WARNING]: - rsyslog was NOT installed successfully: - command git clone https://gitlab.logicnow.com/ansible-roles/rsyslog.git rsyslog failed in directory /tmp/tmpEaRVAA (rc=128)```

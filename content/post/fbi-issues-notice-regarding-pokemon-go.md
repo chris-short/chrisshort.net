@@ -11,6 +11,8 @@ title = "FBI Issues Notice Regarding Pokémon GO"
 
 +++
 
+![FBI and Pokemon Go](https://cdn.chrisshort.net/fbi-hearts-pokemon-go.png)
+
 <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 <!-- chrisshort.net Responsive -->
 <ins class="adsbygoogle"

@@ -11,6 +11,8 @@ title = "GNU sed on Mac OS X"
 
 +++
 
+![GNU sed vs. BSD sed](https://cdn.chrisshort.net/hexley-darwin-vs-heckert-gnu.png)
+
 Like a lot of systems folks I use sed, a lot. It is probably an unhealthy amount of sed use but so be it. I operate on a lot of Linux servers but my desktop environment of choice is Mac OS X which means BSD tools (not the Linux-y GNU tools).
 
 <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
