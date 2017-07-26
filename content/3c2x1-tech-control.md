@@ -10,13 +10,13 @@ title = "3C2X1: Communications - Computer Systems Controller"
 
 +++
 
-![Communications and Information Badge 3C251](https://cdn.chrisshort.net/commbadge5.jpg)   ![Communications and Information Badge 3C271](https://cdn.chrisshort.net/commbadge7.jpg)   ![Communications and Information Badge 3C291](https://cdn.chrisshort.net/commbadge9.jpg)
+![Communications and Information Badge 3C251](https://cdn.chrisshort.net/commbadge5.jpg) ![Communications and Information Badge 3C271](https://cdn.chrisshort.net/commbadge7.jpg) ![Communications and Information Badge 3C291](https://cdn.chrisshort.net/commbadge9.jpg)
 
 ## 3C2X1 Specialty Summary:
 
 Monitors and controls performance of networks and communications-computer systems (C-CS). Coordinates their configuration, operation, restoration, and service improvements. Analyzes their capabilities and performance, identifies problems, and takes corrective action. Directs and makes operational adjustments to C-CS equipment.
 
-<div><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<div class="html" markdown="0"><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 <!-- chrisshort.net Responsive -->
 <ins class="adsbygoogle"
      style="display:block"
