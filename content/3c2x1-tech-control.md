@@ -16,7 +16,7 @@ title = "3C2X1: Communications - Computer Systems Controller"
 
 Monitors and controls performance of networks and communications-computer systems (C-CS). Coordinates their configuration, operation, restoration, and service improvements. Analyzes their capabilities and performance, identifies problems, and takes corrective action. Directs and makes operational adjustments to C-CS equipment.
 
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<div><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 <!-- chrisshort.net Responsive -->
 <ins class="adsbygoogle"
      style="display:block"
@@ -25,7 +25,7 @@ Monitors and controls performance of networks and communications-computer system
      data-ad-format="auto"></ins>
 <script>
    (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+</script></div>
 
 A skill level replaces the "X" in 3C2X1. Skill levels should be viewed as one's ability or aptitude to perform their job. Air Force wide skill levels are 1, 3, 5, 7 and 9. 1 is a helper (no badge is worn on uniform), 3 is an apprentice (badge appearing on top is worn), 5 is a journeyman (badge appearing on top is worn), 7 is a craftsman (badge shown in the middle is worn), and 9 is a superintendent (the badge on the bottom is worn). There is a lot involved in obtaining each skill level but essentially as a 1 and a 3 level you're in a constant state of training. This training could be technical school(s) (located at Keesler AFB, MS), On-the-Job Training (OJT), Computer Based Training (CBTs), and studying Career Development Courses (CDCs) all the while being certified on various tasks. When all objectives of training are complete and the right rank is held an Airman can be awarded the next skill level.
 
