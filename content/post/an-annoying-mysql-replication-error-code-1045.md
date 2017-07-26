@@ -11,7 +11,7 @@ title = "An Annoying MySQL Replication Error Code: 1045"
 
 +++
 
-![MySQL]("https://cdn.chrisshort.net/logo-mysql-170x115.png")
+![MySQL](https://cdn.chrisshort.net/logo-mysql-170x115.png)
 
 <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 <!-- chrisshort.net Responsive -->
