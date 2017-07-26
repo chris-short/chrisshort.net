@@ -16,7 +16,7 @@ title = "3C2X1: Communications - Computer Systems Controller"
 
 Monitors and controls performance of networks and communications-computer systems (C-CS). Coordinates their configuration, operation, restoration, and service improvements. Analyzes their capabilities and performance, identifies problems, and takes corrective action. Directs and makes operational adjustments to C-CS equipment.
 
-<div class="html" markdown="0"><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<div class="html"><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 <!-- chrisshort.net Responsive -->
 <ins class="adsbygoogle"
      style="display:block"
