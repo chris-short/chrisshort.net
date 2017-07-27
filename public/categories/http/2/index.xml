@@ -12,10 +12,10 @@
     
     <item>
       <title>HTTP/2 Primer</title>
-      <link>/post/http2-primer/</link>
+      <link>/http/2-primer/</link>
       <pubDate>Wed, 16 Nov 2016 13:15:00 +0000</pubDate>
       
-      <guid>/post/http2-primer/</guid>
+      <guid>/http/2-primer/</guid>
       <description>Hypertext Transport Protocol v2 (HTTP/2) is here and is being implemented at an ever quickening pace. HTTP/2 is going to speed up the web and enable new capabilities. There is a lot that stays the same but there are some significant changes coming. In educating myself I decided to illustrate some of the changes in HTTP/2:
 The first thing to keep in mind is the primary reason for HTTP/2 even being a protocol is to improve performance (and not necessarily security).</description>
     </item>

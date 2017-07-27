@@ -1,0 +1,520 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+  <meta charset="utf-8" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0">
+
+  <title>Moving to Linux - Filesystems</title>
+  <meta property="og:title" content="Moving to Linux - Filesystems" />
+  <meta name="twitter:title" content="Moving to Linux - Filesystems" />
+  <meta name="description" content="After deciding how my hard disk will be partitioned in Linux, I need to select a filesystem for those partitions. A filesystem is a system for organizing directories and files, generally in terms of how it is implemented in the disk operating system. In layman&rsquo;s terms it is code that tells your operating system how data is stored, organized, and managed on a hard disk drive. Every operating system has a filesystem of some sort.">
+  <meta property="og:description" content="After deciding how my hard disk will be partitioned in Linux, I need to select a filesystem for those partitions. A filesystem is a system for organizing directories and files, generally in terms of how it is implemented in the disk operating system. In layman&rsquo;s terms it is code that tells your operating system how data is stored, organized, and managed on a hard disk drive. Every operating system has a filesystem of some sort.">
+  <meta name="twitter:description" content="After deciding how my hard disk will be partitioned in Linux, I need to select a filesystem for those partitions. A filesystem is a system for organizing directories and files, generally in terms of …">
+  <meta name="author" content="Chris Short"/>
+  <link href='https://cdn.chrisshort.net/favicon.ico' rel='icon' type='image/x-icon'/>
+  <meta name="twitter:card" content="summary" />
+  <meta name="twitter:site" content="@ChrisShort" />
+  <meta name="twitter:creator" content="@ChrisShort" />
+  <meta property="og:url" content="/moving-to-linux---filesystems/" />
+  <meta property="og:type" content="website" />
+  <meta property="og:site_name" content="Chris Short" />
+
+  <meta name="generator" content="Hugo 0.25.1" />
+  <link rel="canonical" href="/moving-to-linux---filesystems/" />
+  <link rel="alternate" href="/index.xml" type="application/rss+xml" title="Chris Short">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.7.1/katex.min.css" integrity="sha384-wITovz90syo1dJWVh32uuETPVEtGigN07tkttEqPv+uR2SE/mbQcG7ATL28aI9H0" crossorigin="anonymous">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" />
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
+  <link rel="stylesheet" href="/css/main.css" />
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Lora:400,700,400italic,700italic" />
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,800italic,400,300,600,700,800" />
+  <link rel="stylesheet" href="/css/pygment_highlights.css" />
+  <link rel="stylesheet" href="/css/highlight.min.css" />
+
+
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/photoswipe/4.1.1/photoswipe.min.css" integrity="sha256-sCl5PUOGMLfFYctzDW3MtRib0ctyUvI9Qsmq2wXOeBY=" crossorigin="anonymous" />
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/photoswipe/4.1.1/default-skin/default-skin.min.css" integrity="sha256-BFeI1V+Vh1Rk37wswuOYn5lsTcaU96hGaI7OUVCLjPc=" crossorigin="anonymous" />
+
+
+
+<div class="pswp" tabindex="-1" role="dialog" aria-hidden="true">
+
+<div class="pswp__bg"></div>
+
+<div class="pswp__scroll-wrap">
+    
+    <div class="pswp__container">
+      <div class="pswp__item"></div>
+      <div class="pswp__item"></div>
+      <div class="pswp__item"></div>
+    </div>
+    
+    <div class="pswp__ui pswp__ui--hidden">
+    <div class="pswp__top-bar">
+      
+      <div class="pswp__counter"></div>
+      <button class="pswp__button pswp__button--close" title="Close (Esc)"></button>
+      <button class="pswp__button pswp__button--share" title="Share"></button>
+      <button class="pswp__button pswp__button--fs" title="Toggle fullscreen"></button>
+      <button class="pswp__button pswp__button--zoom" title="Zoom in/out"></button>
+      
+      
+      <div class="pswp__preloader">
+        <div class="pswp__preloader__icn">
+          <div class="pswp__preloader__cut">
+            <div class="pswp__preloader__donut"></div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="pswp__share-modal pswp__share-modal--hidden pswp__single-tap">
+      <div class="pswp__share-tooltip"></div>
+    </div>
+    <button class="pswp__button pswp__button--arrow--left" title="Previous (arrow left)">
+    </button>
+    <button class="pswp__button pswp__button--arrow--right" title="Next (arrow right)">
+    </button>
+    <div class="pswp__caption">
+      <div class="pswp__caption__center"></div>
+    </div>
+    </div>
+    </div>
+</div>
+
+<script>
+window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
+ga('create', 'UA-4498776-3', 'auto');
+ga('send', 'pageview');
+</script>
+<script async src='//www.google-analytics.com/analytics.js'></script>
+
+</head>
+
+  <body>
+    <nav class="navbar navbar-default navbar-fixed-top navbar-custom">
+  <div class="container-fluid">
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#main-navbar">
+        <span class="sr-only">Toggle navigation</span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+      <a class="navbar-brand" href="/">Chris Short</a>
+    </div>
+
+    <div class="collapse navbar-collapse" id="main-navbar">
+      <ul class="nav navbar-nav navbar-right">
+        
+          
+            <li class="navlinks-container">
+              <a class="navlinks-parent" href="javascript:void(0)">Menu</a>
+              <div class="navlinks-children">
+                
+                  <a href="/">Home</a>
+                
+                  <a href="/about/">About</a>
+                
+                  <a href="/resume-cv/">Résumé/CV</a>
+                
+                  <a href="https://devopsish.com">DevOps&#39;ish</a>
+                
+                  <a href="/long-thoracic-nerve-palsy/">Long Thoracic Nerve Palsy</a>
+                
+                  <a href="/center-for-purposeful-living/">Center for Purposeful Living</a>
+                
+                  <a href="/tags">Tags</a>
+                
+              </div>
+            </li>
+          
+        
+
+        
+
+        
+      </ul>
+    </div>
+
+    <div class="avatar-container">
+      <div class="avatar-img-border">
+        
+      </div>
+    </div>
+
+  </div>
+</nav>
+
+
+
+
+    
+  
+  
+  
+
+
+
+
+  
+
+  <header class="header-section ">
+    
+    <div class="intro-header no-img">
+      
+      <div class="container">
+        <div class="row">
+          <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+            <div class="post-heading">
+              <h1>Moving to Linux - Filesystems</h1>
+                
+                
+                  <span class="post-meta">
+  Posted on May 15, 2003
+  
+</span>
+
+
+                
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </header>
+
+
+    
+<div class="container" role="main">
+  <div class="row">
+    <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+      <article role="main" class="blog-post">
+        <p>After deciding how my <a href="https://chrisshort.net/moving-to-linux-partitioning/">hard disk will be partitioned in Linux</a>, I need to select a filesystem for those partitions. A filesystem is a system for organizing directories and files, generally in terms of how it is implemented in the disk operating system. In layman&rsquo;s terms it is code that tells your operating system how data is stored, organized, and managed on a hard disk drive. Every operating system has a filesystem of some sort. In the Microsoft Windows world you&rsquo;re fairly limited as to what filesystems are available to you. FAT, FAT32, NTFS, and eventually WinFS are really your only options. In Linux however, there are quite a few filesystems available. They all have their own unique advantages and disadvantages and can have application specific reasons for existence. In this article I&rsquo;ll be discussing what I believe the four candidate filesystems are for my move to Linux.</p>
+
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- chrisshort.net Responsive -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-8972983586873269"
+     data-ad-slot="1297095894"
+     data-ad-format="auto"></ins>
+<script>
+   (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+<p>I have narrowed my four potential filesystems (based on popularity) to ext2, ext3, XFS, and ReiserFS. The last three in that list are journaling filesystems. A journaling filesystem basically creates a log (or journal) for each partition and keeps track of that partitions structural information (called metadata). The Filesystem HOWTO explained it best, here is a quote:</p>
+
+<blockquote>
+<p>File systems update their structural information (called metadata) by synchronous writes. Each metadata update may require many separate writes, and if the system crashes during the write sequence, metadata may be in inconsistent state.
+At the next boot the filesystem check utility (called fsck) must walk through the metadata structures, examining and repairing them. This operation takes a very very long time on large filesystems. And the disk may not contain sufficient information to correct the structure. This results in misplaced or removed files.</p>
+
+<p>A journaling file system uses a separate area called a log or journal. Before metadata changes are actually performed, they are logged to this separate area. The operation is then performed. If the system crashes during the operation, there is enough information in the log to &ldquo;replay&rdquo; the log record and complete the operation.</p>
+
+<p>This approach does not require a full scan of the file system, yielding very quick filesystem check time on large file systems, generally a few seconds for a multiple-gigabyte file system. In addition, because all information for the pending operation is saved, no removals or lost-and-found moves are required. Disadvantage of journaling filesystems is that they are slower than other filesystems.</p>
+</blockquote>
+
+<p>The quote does mention a minor disadvantage in terms of speed. While that is VERY important it&rsquo;s not the end all, be all of a filesystem. Stability is. After a crash instead of waiting on a filesystem check to complete on a huge partition I&rsquo;ll be going about my business as normal after a consistency check on one file (not the entire filesystem). That time saved is worth the loss in performance.</p>
+
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- chrisshort.net Responsive -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-8972983586873269"
+     data-ad-slot="1297095894"
+     data-ad-format="auto"></ins>
+<script>
+   (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+<p>Ext2 is the de facto standard filesystem for Linux. It&rsquo;s not a journaling filesystem but is very robust and quite stable. Ext2 can support filesystems as large as four terabytes. It has selectable black sizes (1024, 2048, and 4096) and can be defragmented. It&rsquo;s been around a long time and there is a nice set of utilities to go along with it.</p>
+
+<p>Ext3 is the ext2 filesystem plus journaling. This means that ext3 inherits ext2&rsquo;s stability and utilities. There has been solid kernel support for ext3 since kernel version 2.4.15. It is a natural extension of the ext2 filesystem and is in some cases actually faster than ext2. There are two things that I like about ext3. The first being that you can go in between ext2 and ext3 without having to format that partition. This is very nice considering that in some cases the need for journaling a partition sometimes disappears. The second thing that I like about ext3 is the fact that it has three journaling modes (writeback, ordered, and journal). Writeback (data=writeback) only journals metadata changes, data updates are left up to a &ldquo;sync&rdquo; process. Writeback is the equivalent of running ext2 with a very fast fsck on reboot, the consistency of the filesystem is not guaranteed. The ordered journaling mode journals all metadata. Ordered (data=ordered) is the default journaling mode for ext3. The journal mode (data=journal) logs all data and metadata and typically requires a larger journal file to maintain performance. This means that all data is written twice making journal the low performance, high integrity option. The journaling mode can be selectable on mount so the degree of journaling can be changed with a few simple commands.</p>
+
+<p>ReiserFS is another viable option for a filesystem. However, after further research I&rsquo;ve deemed it to be a filesystem that wouldn&rsquo;t fit in well in the desktop environment. Its performance in comparison to ext3 leaves something to be desired. It would be a great option for mail and database servers in terms of performance but ext3 beat out ReiserFS in quite a few desktop scenarios. After looking at its development history and hearing the opinion of some other Linux administrators it would appear that the development tree itself has changed significantly from version to version, displaying a either a lack or coordination or trying to satisfy too many wants at once. ReiserFS also doesn&rsquo;t have native Redhat support (yet) and only journals metadata (this should be addressed in version 4 of ReiserFS). So due to a lack of performance on the desktop and some other issues I won&rsquo;t be using ReiserFS on my desktop.</p>
+
+<p>XFS is a journaling filesystem developed by SGI. It has recently been ported to Linux and has mainstream kernel support since version 2.5.36. XFS has great performance, delivering near raw I/O throughputs. Its performance is what I like most about XFS. This would be a great candidate for my /video partition because of the amount of data that would be written and read during digital video editing. There are a few things that I don&rsquo;t like about XFS. The first thing being that it&rsquo;s fairly new and has no native Redhat support (yet). Another thing I don&rsquo;t like about XFS is that you can&rsquo;t make XFS partitions smaller (you can make them bigger though). My last issue with XFS was when I read, &ldquo;XFS is a huge amount of kernel code&hellip;&rdquo; in the XFS FAQ on the SGI web site. So for those reasons I will hold off on using XFS as a filesystem. XFS will however be in the back of my mind when I start needing a little improvement in performance for certain tasks.</p>
+
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- chrisshort.net Responsive -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-8972983586873269"
+     data-ad-slot="1297095894"
+     data-ad-format="auto"></ins>
+<script>
+   (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+<p>Deciding which partitions get either ext2 or ext3 shouldn&rsquo;t be too difficult and the journaling option chosen on ext3 partitions will be dependent upon the level of integrity needed, desired performance, and the size of the partition.</p>
+
+<p>Obviously swap partitions will have the native Linux swap filesystem.</p>
+
+<p>The boot partition will be ext2 because of the fact that I want to force integrity checks on this partition if it&rsquo;s not cleanly unmounted. That way if there is a problem, I&rsquo;m notified about it and I can easily wipe the partition and restore it from a backup. This is a very small partition as well (100 MB) so those integrity checks won&rsquo;t take too long.</p>
+
+<p>Root will be ext3 and have an ordered journaling mode. This is because of the need for integrity on this file system and because of its size (~63 GB).</p>
+
+<p>The /home partition will be ext3 data=ordered due to its size and the relatively low need for absolute integrity. The /home/download partition will be ext3 data=writeback because of its low need for integrity (only downloaded files will reside here on a temporary basis).</p>
+
+<p>The /mp3 partition will need a high degree of integrity due to the fact that I&rsquo;d hate to lose all those MP3s. However, due to its size (50 GB) ext2 fsck integrity checks would just take way too long. The /mp3 partition will use ext3 data=journal because of its integrity needs and size.</p>
+
+<p>The /video partition is where XFS would be make a nice fit. But due to a few of the issues mentioned earlier XFS won&rsquo;t be used until some things get ironed out between the filesystem and the kernel. The /video partition won&rsquo;t be used too often but when it is used it will be used quite heavily and performance is an issue. This partition will also be 50 GB so an fsck on it would take too long. The integrity of the data on this partition isn&rsquo;t too much of an issue considering that there is always a backup of some form, somewhere (either on CD or video tape). Taking all these things into consideration, /video will use ext3 data=writeback because of the need for high performance and low need for data integrity.</p>
+
+<p>The /burner partition would be another partition where XFS could be beneficial but I&rsquo;ll opt for ext3 data=writeback for the exact same reasons as the /video partition.</p>
+
+<p>The /burner/osd partition has a low need for overall integrity considering that its just a storage space for frequently used and needed program installation files so it will be using ext3 data=writeback.</p>
+
+<p>The /storage partition will be a place where archived data and multiple user, high need files will be kept. The need for integrity on this partition is incredibly high and backups will occur when things are added or removed. It&rsquo;s a 5 GB partition so the wait for an fsck could take a little time but will be well worth it. Therefore /storage will utilize the ext2 filesystem.</p>
+
+<p>The last partition (/var/log/SonicWALL) will be used for firewall log files and configuration backups. The need for integrity is low and the size is moderate. Considering those two things ext3 data=ordered will be used here.</p>
+
+<p><strong>200 GB Partitioning and Filesystem Scheme</strong></p>
+
+<p><code>/boot           100 MB    ext2</code><br />
+<code>swap            1 GB      Linux swap filesystem</code><br />
+<code>/               ~ 63 GB   ext3 data=ordered</code><br />
+<code>/home           30 GB     ext3 data=ordered</code><br />
+<code>/home/download  5 GB      ext3 data=writeback</code><br />
+<code>/mp3            50 GB     ext3 data=journal</code><br />
+<code>/video          50 GB     ext3 data=writeback</code></p>
+
+<p><strong>20 GB Partitioning and Filesystem Scheme</strong></p>
+
+<p><code>swap                1 GB  Linux swap filesystem</code><br />
+<code>/burner             5 GB  ext3 data=writeback</code><br />
+<code>/burner/osd         1 GB  ext3 data=writeback</code><br />
+<code>/storage            5 GB  ext2</code><br />
+<code>/var/log/SonicWALL  3 GB  ext3 data=ordered</code><br />
+<code>5 GB of Free Space</code></p>
+
+<p><strong>Resources</strong>: <a href="http://www.tldp.org/HOWTO/html_single/Filesystems-HOWTO/">Filesystems HOWTO</a>,
+<a href="http://e2fsprogs.sourceforge.net/ext2intro.html">Design and Implementation of the Second Extended Filesystem</a>, <a href="http://home.arcor.de/heider.michael/ext3.html">EXT3 File System mini-HOWTO</a>, <a href="http://batleth.sapienti-sat.org/projects/FAQs/ext3-faq.html">Linux ext3 FAQ</a>, <a href="https://en.wikipedia.org/wiki/Namesys">NAMESYS</a> (ReiserFS), <a href="http://xfs.org/index.php/XFS_FAQ">Linux XFS FAQ</a></p>
+
+      </article>
+
+      <ul class="pager blog-pager">
+        
+          <li class="previous">
+            <a href="/moving-to-linux---partitioning/" data-toggle="tooltip" data-placement="top" title="Moving to Linux - Partitioning">&larr; Previous Post</a>
+          </li>
+        
+        
+          <li class="next">
+            <a href="/moving-to-linux---linux-hopes-dashed/" data-toggle="tooltip" data-placement="top" title="Moving to Linux - Linux Hopes Dashed">Next Post &rarr;</a>
+          </li>
+        
+      </ul>
+
+      
+        
+          <div class="disqus-comments">
+            <div id="disqus_thread"></div>
+<script>
+    var disqus_config = function () {
+    
+    
+    
+    };
+    (function() {
+        if (["localhost", "127.0.0.1"].indexOf(window.location.hostname) != -1) {
+            document.getElementById('disqus_thread').innerHTML = 'Disqus comments not available by default when the website is previewed locally.';
+            return;
+        }
+        var d = document, s = d.createElement('script'); s.async = true;
+        s.src = '//' + "chrisshort" + '.disqus.com/embed.js';
+        s.setAttribute('data-timestamp', +new Date());
+        (d.head || d.body).appendChild(s);
+    })();
+</script>
+<noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+<a href="http://disqus.com" class="dsq-brlink">comments powered by <span class="logo-disqus">Disqus</span></a>
+          </div>
+        
+      
+
+    </div>
+  </div>
+</div>
+
+    <footer>
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+        <ul class="list-inline text-center footer-links">
+          
+              <li>
+                <a href="https://twitter.com/ChrisShort" title="Twitter">
+                  <span class="fa-stack fa-lg">
+                    <i class="fa fa-circle fa-stack-2x"></i>
+                    <i class="fa fa-twitter fa-stack-1x fa-inverse"></i>
+                  </span>
+                </a>
+              </li>
+              <li>
+                <a href="https://linkedin.com/in/christopherbshort" title="LinkedIn">
+                  <span class="fa-stack fa-lg">
+                    <i class="fa fa-circle fa-stack-2x"></i>
+                    <i class="fa fa-linkedin fa-stack-1x fa-inverse"></i>
+                  </span>
+                </a>
+              </li>
+              <li>
+                <a href="https://www.facebook.com/thechrisshort" title="Facebook">
+                  <span class="fa-stack fa-lg">
+                    <i class="fa fa-circle fa-stack-2x"></i>
+                    <i class="fa fa-facebook fa-stack-1x fa-inverse"></i>
+                  </span>
+                </a>
+              </li>
+              <li>
+                <a href="https://medium.com/@chrisshort/" title="medium">
+                  <span class="fa-stack fa-lg">
+                    <i class="fa fa-circle fa-stack-2x"></i>
+                    <i class="fa fa-medium fa-stack-1x fa-inverse"></i>
+                  </span>
+                </a>
+              </li>
+              <li>
+                <a href="https://chrisshort.tumblr.com" title="tumblr">
+                  <span class="fa-stack fa-lg">
+                    <i class="fa fa-circle fa-stack-2x"></i>
+                    <i class="fa fa-tumblr fa-stack-1x fa-inverse"></i>
+                  </span>
+                </a>
+              </li>
+              <li>
+                <a href="https://github.com/chris-short" title="GitHub">
+                  <span class="fa-stack fa-lg">
+                    <i class="fa fa-circle fa-stack-2x"></i>
+                    <i class="fa fa-github fa-stack-1x fa-inverse"></i>
+                  </span>
+                </a>
+              </li>
+              <li>
+                <a href="https://reddit.com/u/oaf357" title="Reddit">
+                  <span class="fa-stack fa-lg">
+                    <i class="fa fa-circle fa-stack-2x"></i>
+                    <i class="fa fa-reddit-alien fa-stack-1x fa-inverse"></i>
+                  </span>
+                </a>
+              </li>
+              <li>
+                <a href="https://www.snapchat.com/add/oaf357" title="Snapchat">
+                  <span class="fa-stack fa-lg">
+                    <i class="fa fa-circle fa-stack-2x"></i>
+                    <i class="fa fa-snapchat-ghost fa-stack-1x fa-inverse"></i>
+                  </span>
+                </a>
+              </li>
+              <li>
+                <a href="https://www.instagram.com/thechrisshort" title="Instagram">
+                  <span class="fa-stack fa-lg">
+                    <i class="fa fa-circle fa-stack-2x"></i>
+                    <i class="fa fa-instagram fa-stack-1x fa-inverse"></i>
+                  </span>
+                </a>
+              </li>
+              <li>
+                <a href="https://500px.com/chrisshort" title="500px">
+                  <span class="fa-stack fa-lg">
+                    <i class="fa fa-circle fa-stack-2x"></i>
+                    <i class="fa fa-500px fa-stack-1x fa-inverse"></i>
+                  </span>
+                </a>
+              </li>
+              <li>
+                <a href="https://www.flickr.com/photos/chris-short" title="Flickr">
+                  <span class="fa-stack fa-lg">
+                    <i class="fa fa-circle fa-stack-2x"></i>
+                    <i class="fa fa-flickr fa-stack-1x fa-inverse"></i>
+                  </span>
+                </a>
+              </li>
+              <li>
+                <a href="https://www.twitch.tv/thechrisshort" title="Twitch">
+                  <span class="fa-stack fa-lg">
+                    <i class="fa fa-circle fa-stack-2x"></i>
+                    <i class="fa fa-twitch fa-stack-1x fa-inverse"></i>
+                  </span>
+                </a>
+              </li>
+              <li>
+                <a href="https://www.producthunt.com/@chrisshort" title="Product Hunt">
+                  <span class="fa-stack fa-lg">
+                    <i class="fa fa-circle fa-stack-2x"></i>
+                    <i class="fa fa-product-hunt fa-stack-1x fa-inverse"></i>
+                  </span>
+                </a>
+              </li>
+              <li>
+                <a href="https://soundcloud.com/chris-short-15" title="SoundCloud">
+                  <span class="fa-stack fa-lg">
+                    <i class="fa fa-circle fa-stack-2x"></i>
+                    <i class="fa fa-soundcloud fa-stack-1x fa-inverse"></i>
+                  </span>
+                </a>
+              </li>
+              <li>
+                <a href="https://keybase.io/chrisshort" title="Keybase">
+                  <span class="fa-stack fa-lg">
+                    <i class="fa fa-circle fa-stack-2x"></i>
+                    <i class="fa fa-key fa-stack-1x fa-inverse"></i>
+                  </span>
+                </a>
+              </li>
+              <li>
+                <a href="https://plus.google.com/&#43;ChrisShort" title="Google&#43;">
+                  <span class="fa-stack fa-lg">
+                    <i class="fa fa-circle fa-stack-2x"></i>
+                    <i class="fa fa-google-plus fa-stack-1x fa-inverse"></i>
+                  </span>
+                </a>
+              </li>
+          
+          <li>
+            <a href="/index.xml" title="RSS">
+              <span class="fa-stack fa-lg">
+                <i class="fa fa-circle fa-stack-2x"></i>
+                <i class="fa fa-rss fa-stack-1x fa-inverse"></i>
+              </span>
+            </a>
+          </li>
+          
+        </ul>
+        <p class="credits copyright text-muted">
+          Chris Short
+          &nbsp;&bull;&nbsp;
+          2017
+
+          
+            &nbsp;&bull;&nbsp;
+            <a href="/">Chris Short</a>
+          
+        </p>
+        
+        <p class="credits theme-by text-muted">
+          <a href="http://gohugo.io">Hugo v0.25.1</a> powered &nbsp;&bull;&nbsp; Theme by <a href="http://deanattali.com/beautiful-jekyll/">Beautiful Jekyll</a> adapted to <a href="https://github.com/halogenica/beautifulhugo">Beautiful Hugo</a>
+          
+        </p>
+      </div>
+    </div>
+  </div>
+</footer>
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.7.1/katex.min.js" integrity="sha384-/y1Nn9+QQAipbNQWU65krzJralCnuOasHncUFXGkdwntGeSvQicrYkiUBwsgUqc1" crossorigin="anonymous"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.7.1/contrib/auto-render.min.js" integrity="sha384-dq1/gEHSxPZQ7DdrM82ID4YVol9BYyU7GbWlIwnwyPzotpoc57wDw/guX8EaYGPx" crossorigin="anonymous"></script>
+<script src="https://code.jquery.com/jquery-1.12.4.min.js" integrity="sha256-ZosEbRLbNQzLpnKIkEdrPv7lOy9C27hHQ+Xp8a4MxAQ=" crossorigin="anonymous"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
+<script src="/js/main.js"></script>
+<script src="/js/highlight.min.js"></script>
+<script> hljs.initHighlightingOnLoad(); </script>
+<script> renderMathInElement(document.body); </script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/photoswipe/4.1.1/photoswipe.min.js" integrity="sha256-UplRCs9v4KXVJvVY+p+RSo5Q4ilAUXh7kpjyIP5odyc=" crossorigin="anonymous"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/photoswipe/4.1.1/photoswipe-ui-default.min.js" integrity="sha256-PWHOlUzc96pMc8ThwRIXPn8yH4NOLu42RQ0b9SpnpFk=" crossorigin="anonymous"></script>
+<script src="/js/load-photoswipe.js"></script>
+
+
+
+  </body>
+</html>
+

@@ -1,0 +1,502 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+  <meta charset="utf-8" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0">
+
+  <title>Moving to Linux - Hardware Compatibility</title>
+  <meta property="og:title" content="Moving to Linux - Hardware Compatibility" />
+  <meta name="twitter:title" content="Moving to Linux - Hardware Compatibility" />
+  <meta name="description" content="The first step when preparing for the move to Linux is to make sure that your hardware is compatible. It requires a great deal of research when you get very specific (as I did). For example, I have a Logitech QuickCam Express and I wanted to make sure it would work with the latest Linux kernel. Well initially one would say, &ldquo;Well it&rsquo;s USB 1.1 it should work in Linux, no problem.">
+  <meta property="og:description" content="The first step when preparing for the move to Linux is to make sure that your hardware is compatible. It requires a great deal of research when you get very specific (as I did). For example, I have a Logitech QuickCam Express and I wanted to make sure it would work with the latest Linux kernel. Well initially one would say, &ldquo;Well it&rsquo;s USB 1.1 it should work in Linux, no problem.">
+  <meta name="twitter:description" content="The first step when preparing for the move to Linux is to make sure that your hardware is compatible. It requires a great deal of research when you get very specific (as I did). For example, I have a …">
+  <meta name="author" content="Chris Short"/>
+  <link href='https://cdn.chrisshort.net/favicon.ico' rel='icon' type='image/x-icon'/>
+  <meta name="twitter:card" content="summary" />
+  <meta name="twitter:site" content="@ChrisShort" />
+  <meta name="twitter:creator" content="@ChrisShort" />
+  <meta property="og:url" content="/moving-to-linux---hardware-compatibility/" />
+  <meta property="og:type" content="website" />
+  <meta property="og:site_name" content="Chris Short" />
+
+  <meta name="generator" content="Hugo 0.25.1" />
+  <link rel="canonical" href="/moving-to-linux---hardware-compatibility/" />
+  <link rel="alternate" href="/index.xml" type="application/rss+xml" title="Chris Short">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.7.1/katex.min.css" integrity="sha384-wITovz90syo1dJWVh32uuETPVEtGigN07tkttEqPv+uR2SE/mbQcG7ATL28aI9H0" crossorigin="anonymous">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" />
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
+  <link rel="stylesheet" href="/css/main.css" />
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Lora:400,700,400italic,700italic" />
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,800italic,400,300,600,700,800" />
+  <link rel="stylesheet" href="/css/pygment_highlights.css" />
+  <link rel="stylesheet" href="/css/highlight.min.css" />
+
+
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/photoswipe/4.1.1/photoswipe.min.css" integrity="sha256-sCl5PUOGMLfFYctzDW3MtRib0ctyUvI9Qsmq2wXOeBY=" crossorigin="anonymous" />
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/photoswipe/4.1.1/default-skin/default-skin.min.css" integrity="sha256-BFeI1V+Vh1Rk37wswuOYn5lsTcaU96hGaI7OUVCLjPc=" crossorigin="anonymous" />
+
+
+
+<div class="pswp" tabindex="-1" role="dialog" aria-hidden="true">
+
+<div class="pswp__bg"></div>
+
+<div class="pswp__scroll-wrap">
+    
+    <div class="pswp__container">
+      <div class="pswp__item"></div>
+      <div class="pswp__item"></div>
+      <div class="pswp__item"></div>
+    </div>
+    
+    <div class="pswp__ui pswp__ui--hidden">
+    <div class="pswp__top-bar">
+      
+      <div class="pswp__counter"></div>
+      <button class="pswp__button pswp__button--close" title="Close (Esc)"></button>
+      <button class="pswp__button pswp__button--share" title="Share"></button>
+      <button class="pswp__button pswp__button--fs" title="Toggle fullscreen"></button>
+      <button class="pswp__button pswp__button--zoom" title="Zoom in/out"></button>
+      
+      
+      <div class="pswp__preloader">
+        <div class="pswp__preloader__icn">
+          <div class="pswp__preloader__cut">
+            <div class="pswp__preloader__donut"></div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="pswp__share-modal pswp__share-modal--hidden pswp__single-tap">
+      <div class="pswp__share-tooltip"></div>
+    </div>
+    <button class="pswp__button pswp__button--arrow--left" title="Previous (arrow left)">
+    </button>
+    <button class="pswp__button pswp__button--arrow--right" title="Next (arrow right)">
+    </button>
+    <div class="pswp__caption">
+      <div class="pswp__caption__center"></div>
+    </div>
+    </div>
+    </div>
+</div>
+
+<script>
+window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
+ga('create', 'UA-4498776-3', 'auto');
+ga('send', 'pageview');
+</script>
+<script async src='//www.google-analytics.com/analytics.js'></script>
+
+</head>
+
+  <body>
+    <nav class="navbar navbar-default navbar-fixed-top navbar-custom">
+  <div class="container-fluid">
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#main-navbar">
+        <span class="sr-only">Toggle navigation</span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+      <a class="navbar-brand" href="/">Chris Short</a>
+    </div>
+
+    <div class="collapse navbar-collapse" id="main-navbar">
+      <ul class="nav navbar-nav navbar-right">
+        
+          
+            <li class="navlinks-container">
+              <a class="navlinks-parent" href="javascript:void(0)">Menu</a>
+              <div class="navlinks-children">
+                
+                  <a href="/">Home</a>
+                
+                  <a href="/about/">About</a>
+                
+                  <a href="/resume-cv/">Résumé/CV</a>
+                
+                  <a href="https://devopsish.com">DevOps&#39;ish</a>
+                
+                  <a href="/long-thoracic-nerve-palsy/">Long Thoracic Nerve Palsy</a>
+                
+                  <a href="/center-for-purposeful-living/">Center for Purposeful Living</a>
+                
+                  <a href="/tags">Tags</a>
+                
+              </div>
+            </li>
+          
+        
+
+        
+
+        
+      </ul>
+    </div>
+
+    <div class="avatar-container">
+      <div class="avatar-img-border">
+        
+      </div>
+    </div>
+
+  </div>
+</nav>
+
+
+
+
+    
+  
+  
+  
+
+
+
+
+  
+
+  <header class="header-section ">
+    
+    <div class="intro-header no-img">
+      
+      <div class="container">
+        <div class="row">
+          <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+            <div class="post-heading">
+              <h1>Moving to Linux - Hardware Compatibility</h1>
+                
+                
+                  <span class="post-meta">
+  Posted on April 29, 2003
+  
+</span>
+
+
+                
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </header>
+
+
+    
+<div class="container" role="main">
+  <div class="row">
+    <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+      <article role="main" class="blog-post">
+        <p>The first step when preparing for the <a href="https://chrisshort.net/moving-to-linux/">move to Linux</a> is to make sure that your hardware is compatible. It requires a great deal of research when you get very specific (as I did). For example, I have a Logitech QuickCam Express and I wanted to make sure it would work with the latest Linux kernel. Well initially one would say, &ldquo;Well it&rsquo;s USB 1.1 it should work in Linux, no problem.&rdquo; My research took things one step further by looking to see if that actual model worked and what it would take (if anything) to make it work right and to see how well it actually worked. This research utilized all the resources I had available to me. Searches on Google, newsgroups, and other Linux oriented web sites were quite helpful. There was never really a lack of information. Here is the hardware that I&rsquo;ll be using regularly in Linux:</p>
+
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- chrisshort.net Responsive -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-8972983586873269"
+     data-ad-slot="1297095894"
+     data-ad-format="auto"></ins>
+<script>
+   (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+<p><strong>Asus A7V Motherboard</strong>: This is truly a great motherboard. I&rsquo;ve had it for three years and have never really had a problem with it. It uses the VIA KT133 chipset and has an onboard Promise PCI ATA-100 controller in addition to a standard IDE controller. This allows for four separate IDE channels with a total of eight IDE devices. It&rsquo;s a very nice feature of any motherboard especially in the configuration I have (every IDE drive gets its own channel, no slave drives). Back when the board was first released the Linux kernel didn&rsquo;t have a clue what to do with the Promise controller. Eventually people made some patches for the Promise controller and those patches have been incorporated into the Linux kernel for quite some time now. The ATA-100 controller was my only true concern with this motherboard. Since that is thoroughly supported by today&rsquo;s kernels then there shouldn&rsquo;t be a hardware compatibility problem here.</p>
+
+<p><strong>AMD Athlon 1.1 GHz Processor</strong>: This was never really an issue in my mind but just to make sure I checked the Linux Hardware Compatibility HOWTO and sure enough it said Athlons were compatible. As a matter of fact just about every processor ever put out by AMD is compatible (barring a few bugs with the AMD K6 and K6-2 processors).</p>
+
+<p><strong>384 MB PC133 SDRAM</strong>: No issues here either.</p>
+
+<p><strong>ATI Radeon VE AGP Graphics Card</strong>: One of the reasons I buy ATI cards is for their Linux compatibility. The ATI web site basically tells to see the XFree86 web site for support. The Linux Hardware Compatibility HOWTO states in plain English that the ATI Radeon VE graphics card is compatible but I wanted to make sure of this. So I ventured off to the XFree86 web site and pulled up the documentation on the latest version of XFree86 and looked in the drivers section for Radeon. The Radeon section explained quite a bit about the XFree86 driver for my graphics card. I&rsquo;ll be using the driver for the RV100 ATI chip. Simple enough.</p>
+
+<p><strong>Western Digital 200 GB and 20 GB Hard Disk Drive</strong>: Considering the Promise ATA-100 controller is compatible there really shouldn&rsquo;t be an issue with the hard drives being compatible. However, with a 200 GB hard drive some partitioning should definitely be done to ensure maximum stability and performance. Also, selecting the right filesystem will be critical to the performance of these hard drives. The subjects of partitioning and filesystems are for another article though. Another concern with the 200 GB hard drive was would my decrepit Asus A7V motherboard support it. After a little research I found that the 200 GB hard drive would be supported with BIOS version 1011 and later.</p>
+
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- chrisshort.net Responsive -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-8972983586873269"
+     data-ad-slot="1297095894"
+     data-ad-format="auto"></ins>
+<script>
+   (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+<p><strong>Creative Labs SoundBlaster Audigy MP3+</strong>: Pretty much all Audigy sound cards are the same unless you have the Audigy drive. But, I listen to music quite a bit threw my Logitech Z-640 speakers so the sound quality and Audigy performance are of serious concern to me. Creative&rsquo;s web site was of little assistance but it did link to Creative&rsquo;s Open Source web site which pointed me in the right direction. There is a SourceForge project for Audigy drivers (emu10k1). There is also emu-tools, which are essentially Audigy configuration tools, available as an RPM or tarball. Now their documentation wasn&rsquo;t great but should the distro I choose not already come with these drivers I&rsquo;ll need to make sure I have the kernel sources available and follow the directions they provide. Support for playback is there and the IEEE-1394 port will be supported by the OHCI-1394 drivers but the site did mention that MIDI and recording support is missing or still flaky. I hardly ever use MIDI and recording audio is something I rarely do via the Audigy. Being that my two top choices of Linux distributions are Mandrake and Red Hat (in no particular order) I checked their sites for support of the Audigy series sound cards. Red Hat says that Audigy sound cards are compatible; Mandrake has no mention of Audigy in their hardware compatibility database. This isn&rsquo;t surprising considering the lack of attention Creative has given to even its Windows drivers.</p>
+
+<p><strong>Linksys LNE100TX Network Adaptor</strong>: This is another one of those &ldquo;no brainer, of course it&rsquo;s compatible&rdquo; devices but Linksys wasn&rsquo;t even mentioned in the Linux Hardware Compatibility HOWTO (which really doesn&rsquo;t mean much). I&rsquo;m doing this research to ensure that I know about the smallest problems I might encounter so I headed off the Linksys web site. The Linksys web site actually surprised me with the amount of documentation it had about installing this card in Linux. Essentially, the latest tulip drivers should have support for this network adaptor but just in case Linksys also provides Linux drivers available for download off their web site.</p>
+
+<p><strong>Lite-On 32x IDE CD-RW Drive</strong>: I don&rsquo;t remember the exact model number but the Lite-On web site indicates that the two models are basically the same. Detection shouldn&rsquo;t be too hard because this is an IDE drive. CD Writing isn&rsquo;t an issue in Linux these days but there is always the CD-Writing HOWTO should I run into a problem in this department. There is also a plethora of software available for CD-RW uses in Linux.</p>
+
+<p><strong>Lite-On 16x IDE DVD Drive</strong>: Again I don&rsquo;t remember the exact model number and there is really nothing to indicate a difference between the various 16x models. Here is a quote from the Linux Hardware Compatibility HOWTO, &ldquo;Most, if not all, ATAPI and SCSI DVD-ROM and writable DVD drives are supported.&rdquo; There are also quite a few available software DVD players for Linux. Another no brainer.</p>
+
+<p>That about sums up the internals of my computer. The next section of this article will discuss external pieces of hardware. Something to keep in mind when reading the next section is the way devices are connected. USB is fully supported in the 2.4.x Linux kernel.</p>
+
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- chrisshort.net Responsive -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-8972983586873269"
+     data-ad-slot="1297095894"
+     data-ad-format="auto"></ins>
+<script>
+   (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+<p><strong>HP DeskJet 5550 Printer</strong>: This is really a great printer, Carri loves it because it puts out great pictures, and I love it because it can spit out pages and pages of text like there&rsquo;s no tomorrow (thanks to the 8 MB buffer). We&rsquo;ll be using the USB 1.1 (2.0 capable) interface for this printer due to the increased throughput in comparison to the parallel port. When looking for information about Linux and this printer I came across LinuxPrinting.org which is a great site and lists almost every printer I could think of. LinuxPrinting.org says that this printer works perfectly with Linux and that there shouldn&rsquo;t be any problem with auto detection. It recommends using the hpijs driver (created by HP and distributed under a BSD-like license) for the best performance. Here is a quote from the hpijs web site, &ldquo;In Draft and Normal modes the DJGenericVIP device class will detect photo paper and automatically print in Photo mode. HiRes is another photo mode which supports the maximum resolution of the printer. HiRes mode does not do auto media detection.&rdquo; This is very comforting.</p>
+
+<p><strong>Canon CanoScan LiDE 30 Scanner</strong>: We&rsquo;ll also be using the USB 1.1 (2.0 capable) interface for this device as well. I wasn&rsquo;t even thinking about Linux compatibility when I bought this scanner and it&rsquo;s so new I would be livid if I couldn&rsquo;t use it under Linux. Well scanning in Linux pretty much means you&rsquo;ll want to use SANE (which stands for &ldquo;Scanner Access Now Easy&rdquo;). The SANE site explains why TWAIN isn&rsquo;t too much of an option for Linux systems, &ldquo;Simply put, TWAIN does not separate the user-interface from the driver of a device. This, unfortunately, makes it difficult, if not impossible, to provide network transparent access to image acquisition devices (which is useful if you have a LAN full of machines, but scanners connected to only one or two machines; it&rsquo;s obviously also useful for remote-controlled cameras and such).&rdquo; The SANE site said I should be using the sane-plustek backend but it also mentioned that this driver was a beta version and commented that it had poor color picture quality.</p>
+
+<p>Not being satisfied with that information I started searching for a &ldquo;better&rdquo; solution. I went from the SANE site to Jonathan Buzzard&rsquo;s site. He states on his web site, &ldquo;If you are in the market for a new USB scanner to use under Linux then I strongly recommend that you select an Epson scanner.&rdquo; Looks like I might have goofed up on the purchase of the scanner. But, still searching for a better solution, I went from Mr. Buzzard&rsquo;s site to Canon&rsquo;s SourceForge home page which didn&rsquo;t offer any support for the LiDE 30. Canon&rsquo;s commercial web site didn&rsquo;t even mention Linux (just Mac and Windows). As a matter of fact searching for Linux on the Canon site returns nothing. I did take a look at the sane-plustek man page and also did a search on Google for more information but it appears I&rsquo;m stuck with sane-plustek for the time being. I&rsquo;ll be waiting for the driver development to catch up to this product&rsquo;s true performance. This is disappointing but tolerable, at least it is supported somewhat.</p>
+
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- chrisshort.net Responsive -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-8972983586873269"
+     data-ad-slot="1297095894"
+     data-ad-format="auto"></ins>
+<script>
+   (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+<p><strong>Logitech QuickCam Express Web Cam</strong>: This web cam uses USB so connectivity shouldn&rsquo;t be an issue. The first thing I did when searching for Linux support for this device is a Google search. Google pointed me in the right direction. I ended up at another SourceForge project for the qce-ga driver. Their site details the qce-ga driver and how to install it. This is great but the driver is only one part of the story, I&rsquo;d need software to record video, take snapshots, etc. with the web cam. So I looked at my Google results again and noticed that a lot of people have this web cam working under Linux with a lot of different software. This device is low priority in terms of getting it working. I&rsquo;ll have to do more research to get it working once I have Linux up and running. Video for Linux (V4L) is an option.</p>
+
+<p><strong>Microsoft IntelliMouse Explorer Optical Mouse</strong>: I know, it&rsquo;s Microsoft. But you know what, it&rsquo;s a great mouse. It&rsquo;s big enough so that it suits my rather large hands well and it has four buttons and a wheel. My research took me back to the XFree86 web site which said this, &ldquo;This mouse [Microsoft IntelliMouse Explorer] has a wheel which also acts as the button 2 (middle button). There are two side buttons; they are recognized as the buttons 4 and 5. The wheel movement is recognized as the Z axis motion.&rdquo; Great, XFree86 should support this with a little tweaking (if it&rsquo;s not auto detected).</p>
+
+<p><strong>Canon ZR45MC Camcorder</strong>: This is where it might get a little tricky. Digital Video (DV) editing isn&rsquo;t very mature in Linux, yet. But there are quite a few programs that do DV editing. The thing about this camera is that it uses FireWire (IEEE-1394) to extract video and USB to extract still pictures off of a flash memory card. Considering my research of the CanoScan LiDE 30 resulted in no help from the Canon web site I started off by going to the Linux1394 web site. The Linux1394 web site gave me a great deal of information about getting FireWire devices working under Linux. But I was looking for specific information about my camcorder which I found on the Linux1394 hardware compatibility list. The HCL says it works with modules ohci1394 and raw1394. It also mentioned that the USB interface isn&rsquo;t supported by Linux1394 (obviously). Video 4 Linux might be able to work with the USB interface but I&rsquo;m sure whatever I decide to go with for the web cam will work with the USB interface of the camcorder.</p>
+
+<p>There will be some issues here and there getting some of my hardware working but everything should work. At least now I&rsquo;ll know what to expect during hardware detection and setup.</p>
+
+<p><strong>Resources</strong>: <a href="https://groups.google.com/forum/#!search/comp.os.linux">comp.os.linux</a>, <a href="http://www.asus.com/">Asus</a>, <a href="http://www.tldp.org/HOWTO/Hardware-HOWTO/">Linux Hardware Compatibility HOWTO</a>, <a href="http://www.amd.com/en-us/products/graphics">ATI</a>, <a href="http://www.xfree86.org/">XFree86</a>, <a href="http://www.linksys.com/">Linksys</a>, <a href="http://www.liteonit.com/">Lite-On</a>, <a href="http://www.openprinting.org/printers">Open Printing</a>, <a href="http://hplipopensource.com/hplip-web/index.html">HP Linux Imaging and Printing</a>,  <a href="http://www.sane-project.org/">SANE</a>, <a href="http://www.buzzard.me.uk/jonathan/scanners-usb.html">USB Scanners under Linux</a> by Jonathan Buzzard,  <a href="http://qce-ga.sourceforge.net/">Linux Driver for Quickcam USB cameras</a>, <a href="http://www.exploits.org/v4l/">Video 4 Linux</a>, <a href="https://ieee1394.wiki.kernel.org/index.php/Main_Page">Linux1394</a></p>
+
+      </article>
+
+      <ul class="pager blog-pager">
+        
+          <li class="previous">
+            <a href="/moving-to-linux/" data-toggle="tooltip" data-placement="top" title="Moving to Linux">&larr; Previous Post</a>
+          </li>
+        
+        
+          <li class="next">
+            <a href="/moving-to-linux---picking-a-distribution/" data-toggle="tooltip" data-placement="top" title="Moving to Linux - Picking a Distribution">Next Post &rarr;</a>
+          </li>
+        
+      </ul>
+
+      
+        
+          <div class="disqus-comments">
+            <div id="disqus_thread"></div>
+<script>
+    var disqus_config = function () {
+    
+    
+    
+    };
+    (function() {
+        if (["localhost", "127.0.0.1"].indexOf(window.location.hostname) != -1) {
+            document.getElementById('disqus_thread').innerHTML = 'Disqus comments not available by default when the website is previewed locally.';
+            return;
+        }
+        var d = document, s = d.createElement('script'); s.async = true;
+        s.src = '//' + "chrisshort" + '.disqus.com/embed.js';
+        s.setAttribute('data-timestamp', +new Date());
+        (d.head || d.body).appendChild(s);
+    })();
+</script>
+<noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+<a href="http://disqus.com" class="dsq-brlink">comments powered by <span class="logo-disqus">Disqus</span></a>
+          </div>
+        
+      
+
+    </div>
+  </div>
+</div>
+
+    <footer>
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+        <ul class="list-inline text-center footer-links">
+          
+              <li>
+                <a href="https://twitter.com/ChrisShort" title="Twitter">
+                  <span class="fa-stack fa-lg">
+                    <i class="fa fa-circle fa-stack-2x"></i>
+                    <i class="fa fa-twitter fa-stack-1x fa-inverse"></i>
+                  </span>
+                </a>
+              </li>
+              <li>
+                <a href="https://linkedin.com/in/christopherbshort" title="LinkedIn">
+                  <span class="fa-stack fa-lg">
+                    <i class="fa fa-circle fa-stack-2x"></i>
+                    <i class="fa fa-linkedin fa-stack-1x fa-inverse"></i>
+                  </span>
+                </a>
+              </li>
+              <li>
+                <a href="https://www.facebook.com/thechrisshort" title="Facebook">
+                  <span class="fa-stack fa-lg">
+                    <i class="fa fa-circle fa-stack-2x"></i>
+                    <i class="fa fa-facebook fa-stack-1x fa-inverse"></i>
+                  </span>
+                </a>
+              </li>
+              <li>
+                <a href="https://medium.com/@chrisshort/" title="medium">
+                  <span class="fa-stack fa-lg">
+                    <i class="fa fa-circle fa-stack-2x"></i>
+                    <i class="fa fa-medium fa-stack-1x fa-inverse"></i>
+                  </span>
+                </a>
+              </li>
+              <li>
+                <a href="https://chrisshort.tumblr.com" title="tumblr">
+                  <span class="fa-stack fa-lg">
+                    <i class="fa fa-circle fa-stack-2x"></i>
+                    <i class="fa fa-tumblr fa-stack-1x fa-inverse"></i>
+                  </span>
+                </a>
+              </li>
+              <li>
+                <a href="https://github.com/chris-short" title="GitHub">
+                  <span class="fa-stack fa-lg">
+                    <i class="fa fa-circle fa-stack-2x"></i>
+                    <i class="fa fa-github fa-stack-1x fa-inverse"></i>
+                  </span>
+                </a>
+              </li>
+              <li>
+                <a href="https://reddit.com/u/oaf357" title="Reddit">
+                  <span class="fa-stack fa-lg">
+                    <i class="fa fa-circle fa-stack-2x"></i>
+                    <i class="fa fa-reddit-alien fa-stack-1x fa-inverse"></i>
+                  </span>
+                </a>
+              </li>
+              <li>
+                <a href="https://www.snapchat.com/add/oaf357" title="Snapchat">
+                  <span class="fa-stack fa-lg">
+                    <i class="fa fa-circle fa-stack-2x"></i>
+                    <i class="fa fa-snapchat-ghost fa-stack-1x fa-inverse"></i>
+                  </span>
+                </a>
+              </li>
+              <li>
+                <a href="https://www.instagram.com/thechrisshort" title="Instagram">
+                  <span class="fa-stack fa-lg">
+                    <i class="fa fa-circle fa-stack-2x"></i>
+                    <i class="fa fa-instagram fa-stack-1x fa-inverse"></i>
+                  </span>
+                </a>
+              </li>
+              <li>
+                <a href="https://500px.com/chrisshort" title="500px">
+                  <span class="fa-stack fa-lg">
+                    <i class="fa fa-circle fa-stack-2x"></i>
+                    <i class="fa fa-500px fa-stack-1x fa-inverse"></i>
+                  </span>
+                </a>
+              </li>
+              <li>
+                <a href="https://www.flickr.com/photos/chris-short" title="Flickr">
+                  <span class="fa-stack fa-lg">
+                    <i class="fa fa-circle fa-stack-2x"></i>
+                    <i class="fa fa-flickr fa-stack-1x fa-inverse"></i>
+                  </span>
+                </a>
+              </li>
+              <li>
+                <a href="https://www.twitch.tv/thechrisshort" title="Twitch">
+                  <span class="fa-stack fa-lg">
+                    <i class="fa fa-circle fa-stack-2x"></i>
+                    <i class="fa fa-twitch fa-stack-1x fa-inverse"></i>
+                  </span>
+                </a>
+              </li>
+              <li>
+                <a href="https://www.producthunt.com/@chrisshort" title="Product Hunt">
+                  <span class="fa-stack fa-lg">
+                    <i class="fa fa-circle fa-stack-2x"></i>
+                    <i class="fa fa-product-hunt fa-stack-1x fa-inverse"></i>
+                  </span>
+                </a>
+              </li>
+              <li>
+                <a href="https://soundcloud.com/chris-short-15" title="SoundCloud">
+                  <span class="fa-stack fa-lg">
+                    <i class="fa fa-circle fa-stack-2x"></i>
+                    <i class="fa fa-soundcloud fa-stack-1x fa-inverse"></i>
+                  </span>
+                </a>
+              </li>
+              <li>
+                <a href="https://keybase.io/chrisshort" title="Keybase">
+                  <span class="fa-stack fa-lg">
+                    <i class="fa fa-circle fa-stack-2x"></i>
+                    <i class="fa fa-key fa-stack-1x fa-inverse"></i>
+                  </span>
+                </a>
+              </li>
+              <li>
+                <a href="https://plus.google.com/&#43;ChrisShort" title="Google&#43;">
+                  <span class="fa-stack fa-lg">
+                    <i class="fa fa-circle fa-stack-2x"></i>
+                    <i class="fa fa-google-plus fa-stack-1x fa-inverse"></i>
+                  </span>
+                </a>
+              </li>
+          
+          <li>
+            <a href="/index.xml" title="RSS">
+              <span class="fa-stack fa-lg">
+                <i class="fa fa-circle fa-stack-2x"></i>
+                <i class="fa fa-rss fa-stack-1x fa-inverse"></i>
+              </span>
+            </a>
+          </li>
+          
+        </ul>
+        <p class="credits copyright text-muted">
+          Chris Short
+          &nbsp;&bull;&nbsp;
+          2017
+
+          
+            &nbsp;&bull;&nbsp;
+            <a href="/">Chris Short</a>
+          
+        </p>
+        
+        <p class="credits theme-by text-muted">
+          <a href="http://gohugo.io">Hugo v0.25.1</a> powered &nbsp;&bull;&nbsp; Theme by <a href="http://deanattali.com/beautiful-jekyll/">Beautiful Jekyll</a> adapted to <a href="https://github.com/halogenica/beautifulhugo">Beautiful Hugo</a>
+          
+        </p>
+      </div>
+    </div>
+  </div>
+</footer>
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.7.1/katex.min.js" integrity="sha384-/y1Nn9+QQAipbNQWU65krzJralCnuOasHncUFXGkdwntGeSvQicrYkiUBwsgUqc1" crossorigin="anonymous"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.7.1/contrib/auto-render.min.js" integrity="sha384-dq1/gEHSxPZQ7DdrM82ID4YVol9BYyU7GbWlIwnwyPzotpoc57wDw/guX8EaYGPx" crossorigin="anonymous"></script>
+<script src="https://code.jquery.com/jquery-1.12.4.min.js" integrity="sha256-ZosEbRLbNQzLpnKIkEdrPv7lOy9C27hHQ+Xp8a4MxAQ=" crossorigin="anonymous"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
+<script src="/js/main.js"></script>
+<script src="/js/highlight.min.js"></script>
+<script> hljs.initHighlightingOnLoad(); </script>
+<script> renderMathInElement(document.body); </script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/photoswipe/4.1.1/photoswipe.min.js" integrity="sha256-UplRCs9v4KXVJvVY+p+RSo5Q4ilAUXh7kpjyIP5odyc=" crossorigin="anonymous"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/photoswipe/4.1.1/photoswipe-ui-default.min.js" integrity="sha256-PWHOlUzc96pMc8ThwRIXPn8yH4NOLu42RQ0b9SpnpFk=" crossorigin="anonymous"></script>
+<script src="/js/load-photoswipe.js"></script>
+
+
+
+  </body>
+</html>
+

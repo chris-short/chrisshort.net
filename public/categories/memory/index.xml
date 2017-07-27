@@ -12,10 +12,10 @@
     
     <item>
       <title>PHP Memory Directives Relationship</title>
-      <link>/post/php-memory-relationships/</link>
+      <link>/php-memory-directives-relationship/</link>
       <pubDate>Fri, 09 Oct 2015 17:00:52 +0000</pubDate>
       
-      <guid>/post/php-memory-relationships/</guid>
+      <guid>/php-memory-directives-relationship/</guid>
       <description>I recently had to templatize PHP configurations using Ansible and Jinja2. I had to do some research to ensure that the memory directives that were being defined were actually valid. The three directives I was tinkering with were:
  memory_limit upload_max_filesize post_max_size  These three directives values&amp;rsquo; are actually tied together. memory_limit is the max amount of memory that a script can consume. upload_max_filesize defines the largest size a file upload can be.</description>
     </item>

@@ -12,10 +12,10 @@
     
     <item>
       <title>Poorly Documented Dependencies</title>
-      <link>/post/poorly-documented-dependencies/</link>
+      <link>/poorly-documented-dependencies/</link>
       <pubDate>Mon, 23 May 2016 21:44:50 +0000</pubDate>
       
-      <guid>/post/poorly-documented-dependencies/</guid>
+      <guid>/poorly-documented-dependencies/</guid>
       <description>Few things irritate me more than poorly documented dependencies. If your tool or software documentation states you can install your widget with one command and it does not work you are probably annoying people.
 Consider this a running list of tools and their often not well documented dependency chains. Feel free to chime in with your examples in the comments.
    (adsbygoogle = window.adsbygoogle || []).push({});  Ansible</description>

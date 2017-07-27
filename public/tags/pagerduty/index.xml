@@ -12,10 +12,10 @@
     
     <item>
       <title>Notes on PagerDuty</title>
-      <link>/post/notes-on-pagerduty/</link>
+      <link>/notes-on-pagerduty/</link>
       <pubDate>Wed, 05 Oct 2016 20:56:00 +0000</pubDate>
       
-      <guid>/post/notes-on-pagerduty/</guid>
+      <guid>/notes-on-pagerduty/</guid>
       <description>I have recently been added on to a PagerDuty rotation. I am sure numerous on-call people have a lot of different strategies to managing their rotations. However, there were two pieces of information I immediately wanted from PagerDuty:
  Can I add my on-call rotation to my Google Calendar or Mac Calendar app? What number is going to call me in the middle of the night to wake me up?  The answer to both those questions is an astounding, &amp;ldquo;YES!</description>
     </item>

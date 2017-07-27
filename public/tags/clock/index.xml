@@ -12,10 +12,10 @@
     
     <item>
       <title>NTP: I Need You to Go Ahead and Love It</title>
-      <link>/post/ntp-go-ahead-and-love-it/</link>
+      <link>/ntp-i-need-you-to-go-ahead-and-love-it/</link>
       <pubDate>Wed, 02 Nov 2016 11:00:00 +0000</pubDate>
       
-      <guid>/post/ntp-go-ahead-and-love-it/</guid>
+      <guid>/ntp-i-need-you-to-go-ahead-and-love-it/</guid>
       <description>It&amp;rsquo;s 2016 (almost 2017) why is the time off on your system clocks? It became apparent to me that there are some folks out there that do not realize their clocks are off for a reason. My Twitter buddy Julia Evans recently made a graphic about distributed systems that mentioned clock issues and it made me really sad.
 Photo Credit: Julia Evans
 We had a saying when I was in the Air Force, &amp;ldquo;Timing is everything.</description>

@@ -12,20 +12,20 @@
     
     <item>
       <title>GNU sed on Mac OS X</title>
-      <link>/post/gnu-sed-on-mac-os-x/</link>
+      <link>/gnu-sed-on-mac-os-x/</link>
       <pubDate>Wed, 01 Jun 2016 16:44:00 +0000</pubDate>
       
-      <guid>/post/gnu-sed-on-mac-os-x/</guid>
+      <guid>/gnu-sed-on-mac-os-x/</guid>
       <description>Like a lot of systems folks I use sed, a lot. It is probably an unhealthy amount of sed use but so be it. I operate on a lot of Linux servers but my desktop environment of choice is Mac OS X which means BSD tools (not the Linux-y GNU tools).
    (adsbygoogle = window.adsbygoogle || []).push({});  The differences are relatively subtle between BSD sed and GNU sed.</description>
     </item>
     
     <item>
       <title>Disabling Mac OS X El Capitan System Integrity Protection</title>
-      <link>/post/disabling-mac-os-x-el-capitan-system-integrity-protection/</link>
+      <link>/disabling-mac-os-x-el-capitan-system-integrity-protection/</link>
       <pubDate>Tue, 13 Oct 2015 17:22:32 +0000</pubDate>
       
-      <guid>/post/disabling-mac-os-x-el-capitan-system-integrity-protection/</guid>
+      <guid>/disabling-mac-os-x-el-capitan-system-integrity-protection/</guid>
       <description>Apple has introduced a new security feature in Mac OS X El Capitan (10.11) called System Integrity Protection (sometimes referred to as rootless).
    (adsbygoogle = window.adsbygoogle || []).push({});  What is System Integrity Protection? According to Apple&amp;rsquo;s documentation:
  A new security policy that applies to every running process, including privileged code and code that runs out of the sandbox. The policy extends additional protections to components on disk and at run-time, only allowing system binaries to be modified by the system installer and software updates.</description>
@@ -33,20 +33,20 @@
     
     <item>
       <title>Mac OS X El Capitan and Junos Pulse</title>
-      <link>/post/mac-os-x-el-capitan-and-junos-pulse/</link>
+      <link>/mac-os-x-el-capitan-and-junos-pulse/</link>
       <pubDate>Tue, 06 Oct 2015 20:54:19 +0000</pubDate>
       
-      <guid>/post/mac-os-x-el-capitan-and-junos-pulse/</guid>
+      <guid>/mac-os-x-el-capitan-and-junos-pulse/</guid>
       <description>I had some Apple Keychain issues after upgrading to Mac OS X El Capitan yesterday. Apple provided a reasonable resolution (blow away the login Apple Keychain and re-create it). As it turns out, my issues weren&amp;rsquo;t limited to just the El Capitan upgrade. The Juniper Networks&amp;rsquo; VPN client, Junos Pulse, has some pretty awful issues.
    (adsbygoogle = window.adsbygoogle || []).push({});  The behavior went something like this: 1.</description>
     </item>
     
     <item>
       <title>Mac OS X El Capitan: Keychain Issues</title>
-      <link>/post/mac-os-x-el-capitan-keychain-issues/</link>
+      <link>/mac-os-x-el-capitan-keychain-issues/</link>
       <pubDate>Mon, 05 Oct 2015 20:42:04 +0000</pubDate>
       
-      <guid>/post/mac-os-x-el-capitan-keychain-issues/</guid>
+      <guid>/mac-os-x-el-capitan-keychain-issues/</guid>
       <description>I started having some Apple Keychain issues after upgrading to Mac OS X El Capitan. At random, I would be asked to sign back into accounts that I am logged into through Internet Accounts in System Preferences.
    (adsbygoogle = window.adsbygoogle || []).push({});  I thought it a minor issue but it became unavoidable though once El Capitan told me it couldn&amp;rsquo;t find my login Apple Keychain after logging in:</description>
     </item>

@@ -7,7 +7,7 @@ draft = false
 image = "https://cdn.chrisshort.net/fbi-hearts-pokemon-go.png"
 slug = "fbi-issues-notice-regarding-pokemon-go"
 tags = ["niantic"]
-title = "FBI Issues Notice Regarding Pokémon GO"
+title = "FBI Issues Notice Regarding Pokemon GO"
 
 +++
 

@@ -8,6 +8,9 @@ pygmentCodeFences = true
 disqusShortname = "chrisshort"
 googleAnalytics = "UA-4498776-3"
 
+[permalinks]
+  post = ":title/"
+
 [Params]
   subtitle = "DevOps'ing with a Flourish, Sarcasm as a Service™, OSS Advocate, Florida Gator, Partially Disabled AF Vet, Husband, Father. Views are solely mine."
 #  logo = "https://cdn.chrisshort.net/chrisshort.net-logo-2017.png"

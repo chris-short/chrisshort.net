@@ -3,117 +3,117 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/post/testing-certificate-chains-in-go/</loc>
+    <loc>/testing-certificate-chains-in-go/</loc>
     <lastmod>2017-07-22T22:23:32+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/post/the-open-organization-guide-to-it-culture-change/</loc>
+    <loc>/the-open-organization-guide-to-it-culture-change/</loc>
     <lastmod>2017-06-06T12:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/post/breaking-encryption-wont-make-us-safer/</loc>
+    <loc>/breaking-encryption-wont-make-us-safer/</loc>
     <lastmod>2017-06-05T22:26:47+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/post/leaving-north-carolina/</loc>
+    <loc>/leaving-north-carolina/</loc>
     <lastmod>2017-06-01T19:07:21+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/post/night-of-devops-open-source-sc/</loc>
+    <loc>/a-night-of-devops-at-open-source-south-carolina/</loc>
     <lastmod>2017-05-30T22:46:35+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/post/sysadmin-to-devops-six-months/</loc>
+    <loc>/good-sysadmin-to-devops-engineer-in-six-months/</loc>
     <lastmod>2017-05-11T12:04:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/post/the-dark-side-of-devops/</loc>
+    <loc>/the-dark-side-of-devops/</loc>
     <lastmod>2017-03-10T12:02:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/post/why-im-giving-up-content-blockers/</loc>
+    <loc>/why-im-giving-up-content-blockers/</loc>
     <lastmod>2017-02-09T12:02:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/post/recent-accomplishments/</loc>
+    <loc>/recent-accomplishments/</loc>
     <lastmod>2017-02-03T13:03:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/post/find-ec2-instances-that-are-missing-tags/</loc>
+    <loc>/find-ec2-instances-that-are-missing-tags/</loc>
     <lastmod>2017-01-26T21:37:04+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/post/gitlab-annoyance-private-to-public-repos/</loc>
+    <loc>/gitlab-annoyance-private-to-public-repos/</loc>
     <lastmod>2017-01-23T22:03:02+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/post/military-lessons-applied-to-devops-operation-eagle-claw/</loc>
+    <loc>/military-lessons-applied-to-devops-operation-eagle-claw/</loc>
     <lastmod>2017-01-18T15:05:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/post/what-i-learned-in-2016/</loc>
+    <loc>/what-i-learned-in-2016/</loc>
     <lastmod>2017-01-01T02:45:18+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/post/perspective/</loc>
+    <loc>/perspective/</loc>
     <lastmod>2016-12-20T14:15:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/post/ansible-role-for-papertrail/</loc>
+    <loc>/ansible-role-for-papertrail/</loc>
     <lastmod>2016-12-09T13:35:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/post/triangle-devops-what-the-military-taught-me-about-devops/</loc>
+    <loc>/triangle-devops-what-the-military-taught-me-about-devops/</loc>
     <lastmod>2016-12-02T02:13:01+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/post/drawing-dns-is-awesome/</loc>
+    <loc>/drawing-dns-is-awesome/</loc>
     <lastmod>2016-11-29T14:04:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/post/diy-buffer-using-ifttt/</loc>
+    <loc>/diy-buffer-using-ifttt/</loc>
     <lastmod>2016-11-21T13:03:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/post/http2-primer/</loc>
+    <loc>/http/2-primer/</loc>
     <lastmod>2016-11-16T13:15:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/post/osi-model/</loc>
+    <loc>/drawing-osi-model/</loc>
     <lastmod>2016-11-13T18:37:06+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/post/ntp-go-ahead-and-love-it/</loc>
+    <loc>/ntp-i-need-you-to-go-ahead-and-love-it/</loc>
     <lastmod>2016-11-02T11:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/post/devops-perspectives-from-the-front-lines/</loc>
+    <loc>/devops-perspectives-from-the-front-lines/</loc>
     <lastmod>2016-10-31T12:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/post/demise-of-google-fiber-and-internet-under-dirt/</loc>
+    <loc>/the-demise-of-google-fiber-and-internet-under-dirt/</loc>
     <lastmod>2016-10-30T11:00:00+00:00</lastmod>
   </url>
   
@@ -123,117 +123,117 @@
   </url>
   
   <url>
-    <loc>/post/what-the-military-taught-me-about-devops/</loc>
+    <loc>/what-the-military-taught-me-about-devops/</loc>
     <lastmod>2016-10-13T19:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/post/ansible-galaxy-is-open/</loc>
+    <loc>/ansible-galaxy-is-open/</loc>
     <lastmod>2016-10-11T17:45:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/post/notes-on-pagerduty/</loc>
+    <loc>/notes-on-pagerduty/</loc>
     <lastmod>2016-10-05T20:56:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/post/ansible-user-management/</loc>
+    <loc>/user-management-with-ansible/</loc>
     <lastmod>2016-09-27T16:15:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/post/notorious-remixes/</loc>
+    <loc>/notorious-remixes/</loc>
     <lastmod>2016-09-14T17:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/post/lineinfile-be-damned/</loc>
+    <loc>/lineinfile-be-damned/</loc>
     <lastmod>2016-09-06T16:30:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/post/nc-vets-oral-history-interview-3/</loc>
+    <loc>/north-carolina-veterans-oral-history-interview-part-3/</loc>
     <lastmod>2016-08-30T17:17:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/post/nc-vets-oral-history-interview-2/</loc>
+    <loc>/north-carolina-veterans-oral-history-interview-part-2/</loc>
     <lastmod>2016-08-23T12:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/post/nc-vets-oral-history-interview-1/</loc>
+    <loc>/north-carolina-veterans-oral-history-interview-part-1/</loc>
     <lastmod>2016-08-17T13:05:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/post/technical-debt-and-the-ongoing-battle-against-it/</loc>
+    <loc>/technical-debt-and-the-ongoing-battle-against-it/</loc>
     <lastmod>2016-08-09T18:13:30+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/post/what-does-yahoos-downfall-teach-us/</loc>
+    <loc>/what-does-yahoos-downfall-teach-us/</loc>
     <lastmod>2016-07-26T16:06:31+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/post/fbi-issues-notice-regarding-pokemon-go/</loc>
+    <loc>/fbi-issues-notice-regarding-pokemon-go/</loc>
     <lastmod>2016-07-20T14:34:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/post/weather-in-your-ios-and-macos-calendars/</loc>
+    <loc>/weather-in-your-ios-and-macos-calendars/</loc>
     <lastmod>2016-07-10T20:51:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/post/take-ownership-plant-your-flag/</loc>
+    <loc>/take-ownership-plant-your-flag/</loc>
     <lastmod>2016-06-28T17:11:49+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/post/permanently-remove-any-record-of-a-file-from-git/</loc>
+    <loc>/permanently-remove-any-record-of-a-file-from-git/</loc>
     <lastmod>2016-06-25T17:06:05+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/post/understanding-fear-and-hate/</loc>
+    <loc>/understanding-fear-and-hate/</loc>
     <lastmod>2016-06-21T05:44:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/post/low-cost-content-delivery-network-cdn/</loc>
+    <loc>/low-cost-content-delivery-network-cdn/</loc>
     <lastmod>2016-06-14T17:18:30+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/post/microsoft-remote-desktop-for-mac/</loc>
+    <loc>/microsoft-remote-desktop-for-mac/</loc>
     <lastmod>2016-06-09T22:24:02+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/post/my-mac-os-x-setup-guide/</loc>
+    <loc>/my-mac-os-x-setup-guide/</loc>
     <lastmod>2016-06-08T19:58:34+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/post/gnu-sed-on-mac-os-x/</loc>
+    <loc>/gnu-sed-on-mac-os-x/</loc>
     <lastmod>2016-06-01T16:44:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/post/the-hall-of-famer-and-i/</loc>
+    <loc>/the-hall-of-famer-and-i/</loc>
     <lastmod>2016-05-27T23:16:56+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/post/poorly-documented-dependencies/</loc>
+    <loc>/poorly-documented-dependencies/</loc>
     <lastmod>2016-05-23T21:44:50+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/post/tangible-intangibles-questions-to-ask-while-being-interviewed/</loc>
+    <loc>/tangible-intangibles-questions-to-ask-while-being-interviewed/</loc>
     <lastmod>2016-05-10T17:05:00+00:00</lastmod>
   </url>
   
@@ -243,52 +243,52 @@
   </url>
   
   <url>
-    <loc>/post/got-badlock-ansible-can-help/</loc>
+    <loc>/got-badlock-ansible-can-help/</loc>
     <lastmod>2016-04-12T04:57:53+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/post/yubikey-4-nano-demands-use-of-yubiswitch/</loc>
+    <loc>/yubikey-4-nano-demands-use-of-yubiswitch/</loc>
     <lastmod>2016-02-27T18:40:10+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/post/using-ansible-vault-effectively/</loc>
+    <loc>/using-ansible-vault-effectively/</loc>
     <lastmod>2015-10-17T07:53:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/post/disabling-mac-os-x-el-capitan-system-integrity-protection/</loc>
+    <loc>/disabling-mac-os-x-el-capitan-system-integrity-protection/</loc>
     <lastmod>2015-10-13T17:22:32+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/post/lastpass-sells-out-to-logmein/</loc>
+    <loc>/lastpass-sells-out-to-logmein/</loc>
     <lastmod>2015-10-09T23:03:30+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/post/php-memory-relationships/</loc>
+    <loc>/php-memory-directives-relationship/</loc>
     <lastmod>2015-10-09T17:00:52+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/post/mac-os-x-el-capitan-and-junos-pulse/</loc>
+    <loc>/mac-os-x-el-capitan-and-junos-pulse/</loc>
     <lastmod>2015-10-06T20:54:19+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/post/whats-wrong-with-microsoft-windows-10-marketing/</loc>
+    <loc>/whats-wrong-with-microsofts-windows-10-marketing/</loc>
     <lastmod>2015-10-06T04:13:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/post/mac-os-x-el-capitan-keychain-issues/</loc>
+    <loc>/mac-os-x-el-capitan-keychain-issues/</loc>
     <lastmod>2015-10-05T20:42:04+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/post/an-annoying-mysql-replication-error-code-1045/</loc>
+    <loc>/an-annoying-mysql-replication-error-code-1045/</loc>
     <lastmod>2015-10-05T16:53:18+00:00</lastmod>
   </url>
   
@@ -303,52 +303,52 @@
   </url>
   
   <url>
-    <loc>/post/grep-multiple-ansible-vault-files/</loc>
+    <loc>/grep-multiple-ansible-vault-files/</loc>
     <lastmod>2015-09-22T23:56:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/post/tim-tebow-seed-working-out-on-a-usc-baseball-field/</loc>
+    <loc>/tim-tebow-seen-working-out-on-a-usc-baseball-field/</loc>
     <lastmod>2013-09-19T20:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/post/tiny-tiny-rss-loathe-the-asshole-devs/</loc>
+    <loc>/tiny-tiny-rss-loathe-the-asshole-devs/</loc>
     <lastmod>2013-06-01T20:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/post/install-virtualbox-guest-additions-via-command-line/</loc>
+    <loc>/install-virtualbox-guest-additions-via-command-line/</loc>
     <lastmod>2013-05-03T18:18:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/post/why-i-dumped-spotify-premium/</loc>
+    <loc>/why-i-dumped-spotify-premium/</loc>
     <lastmod>2012-01-07T19:06:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/post/review-wii-sports-resort/</loc>
+    <loc>/review-wii-sports-resort/</loc>
     <lastmod>2010-07-27T20:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/post/chris-shorts-sausage-potato-soup/</loc>
+    <loc>/chris-shorts-sausage-potato-soup/</loc>
     <lastmod>2009-08-30T20:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/post/ear-piercing-analysis-average-age-and-additional-data/</loc>
+    <loc>/ear-piercing-analysis-average-age-and-additional-data/</loc>
     <lastmod>2009-05-26T20:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/post/another-center-for-purposeful-living-recruit-saved/</loc>
+    <loc>/another-center-for-purposeful-living-recruit-saved/</loc>
     <lastmod>2005-12-19T22:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/post/a-brief-history-of-center-for-purposeful-living-by-john-david-short-2/</loc>
+    <loc>/a-brief-history-of-center-for-purposeful-living-by-john-david-short/</loc>
     <lastmod>2005-09-14T20:00:00+00:00</lastmod>
   </url>
   
@@ -358,72 +358,72 @@
   </url>
   
   <url>
-    <loc>/post/the-teachings-of-derwyn-lackey/</loc>
+    <loc>/the-teachings-of-derwyn-lackey/</loc>
     <lastmod>2005-07-26T20:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/post/the-center-for-purposeful-living-is-a-cult-dont-take-my-word-for-it-2/</loc>
+    <loc>/the-center-for-purposeful-living-is-a-cult-dont-take-my-word-for-it/</loc>
     <lastmod>2005-07-14T20:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/post/the-cult-that-is-human-service-alliance-and-the-center-for-purposeful-living-2/</loc>
+    <loc>/the-cult-that-is-human-service-alliance-and-the-center-for-purposeful-living/</loc>
     <lastmod>2005-07-08T20:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/post/windows-and-big-hard-drives/</loc>
+    <loc>/windows-xp-and-big-hard-drives/</loc>
     <lastmod>2005-01-05T04:16:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/post/linux-directory-structure/</loc>
+    <loc>/linux-directory-structure/</loc>
     <lastmod>2005-01-05T01:53:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/post/firefox-finally-hits-the-ny-times/</loc>
+    <loc>/firefox-finally-hits-the-ny-times/</loc>
     <lastmod>2004-12-17T06:06:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/post/microsoft-and-the-death-of-the-internet/</loc>
+    <loc>/microsoft-and-the-death-of-the-internet/</loc>
     <lastmod>2003-10-09T02:30:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/post/moving-to-linux-linux-hopes-dashed/</loc>
+    <loc>/moving-to-linux---linux-hopes-dashed/</loc>
     <lastmod>2003-09-28T02:12:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/post/moving-to-linux-filesystems/</loc>
+    <loc>/moving-to-linux---filesystems/</loc>
     <lastmod>2003-05-15T01:41:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/post/moving-to-linux-partitioning/</loc>
+    <loc>/moving-to-linux---partitioning/</loc>
     <lastmod>2003-05-11T23:45:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/post/moving-to-linux-picking-a-distribution/</loc>
+    <loc>/moving-to-linux---picking-a-distribution/</loc>
     <lastmod>2003-05-10T23:30:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/post/moving-to-linux-hardware-compatibility/</loc>
+    <loc>/moving-to-linux---hardware-compatibility/</loc>
     <lastmod>2003-04-29T23:08:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/post/moving-to-linux/</loc>
+    <loc>/moving-to-linux/</loc>
     <lastmod>2003-04-24T23:05:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/post/microsoft-and-open-source/</loc>
+    <loc>/microsoft-and-open-source/</loc>
     <lastmod>2003-03-06T05:16:00+00:00</lastmod>
   </url>
   

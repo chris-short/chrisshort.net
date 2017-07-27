@@ -170,7 +170,7 @@ ga('send', 'pageview');
         <div class="posts-list">
           
             <article class="post-preview">
-              <a href="/post/gitlab-annoyance-private-to-public-repos/">
+              <a href="/gitlab-annoyance-private-to-public-repos/">
                 <h2 class="post-title">GitLab Annoyance: Private to Public Repos</h2>
     
                 
@@ -184,7 +184,7 @@ ga('send', 'pageview');
                   I was working on a new Ansible role last week and was having problems with Test Kitchen. The issue I was having was that Test Kitchen was unable to pull in dependencies from GitLab for the Ansible role I was developing. Here is the error message I was seeing:
 [WARNING]: - rsyslog was NOT installed successfully: - command git clone https://gitlab.logicnow.com/ansible-roles/rsyslog.git rsyslog failed in directory /tmp/tmpEaRVAA (rc=128)
 I realized that on our internal, private GitLab server a repo needed to be changed from Private to Public.
-                  <a href="/post/gitlab-annoyance-private-to-public-repos/" class="post-read-more">[Read More]</a>
+                  <a href="/gitlab-annoyance-private-to-public-repos/" class="post-read-more">[Read More]</a>
                 
               </div>
     
@@ -207,7 +207,7 @@ I realized that on our internal, private GitLab server a repo needed to be chang
             </article>
           
             <article class="post-preview">
-              <a href="/post/ansible-role-for-papertrail/">
+              <a href="/ansible-role-for-papertrail/">
                 <h2 class="post-title">Ansible Role for Papertrail</h2>
     
                 
@@ -222,7 +222,7 @@ I realized that on our internal, private GitLab server a repo needed to be chang
 What is Papertrail? A hosted log management tool that, in my opinion, can bridge the gap between your terminal and a full blown ELK stack. It is no frills streaming log aggregation and search.
 
 Being my first Ansible role I have submitted to Galaxy I am pretty stoked about it.
-                  <a href="/post/ansible-role-for-papertrail/" class="post-read-more">[Read More]</a>
+                  <a href="/ansible-role-for-papertrail/" class="post-read-more">[Read More]</a>
                 
               </div>
     
@@ -239,7 +239,7 @@ Being my first Ansible role I have submitted to Galaxy I am pretty stoked about 
             </article>
           
             <article class="post-preview">
-              <a href="/post/ansible-galaxy-is-open/">
+              <a href="/ansible-galaxy-is-open/">
                 <h2 class="post-title">Ansible Galaxy is Open</h2>
     
                 
@@ -268,7 +268,7 @@ Being my first Ansible role I have submitted to Galaxy I am pretty stoked about 
             </article>
           
             <article class="post-preview">
-              <a href="/post/ansible-user-management/">
+              <a href="/user-management-with-ansible/">
                 <h2 class="post-title">User Management with Ansible</h2>
     
                 
@@ -281,7 +281,7 @@ Being my first Ansible role I have submitted to Galaxy I am pretty stoked about 
                 
                   The contents of this article originally appeared on DZone
 A few weeks ago, one of my DevOps counterparts was working on building out a new environment for one of our applications. This deployment included a new Puppet server (we are in an orchestration/configuration management state of flux) and my teammate was having some issues provisioning users (I did not ask why nor did I really care). My teammate asked if I could help with some Ansible knowledge.
-                  <a href="/post/ansible-user-management/" class="post-read-more">[Read More]</a>
+                  <a href="/user-management-with-ansible/" class="post-read-more">[Read More]</a>
                 
               </div>
     
@@ -298,7 +298,7 @@ A few weeks ago, one of my DevOps counterparts was working on building out a new
             </article>
           
             <article class="post-preview">
-              <a href="/post/lineinfile-be-damned/">
+              <a href="/lineinfile-be-damned/">
                 <h2 class="post-title">lineinfile be damned</h2>
     
                 
@@ -311,7 +311,7 @@ A few weeks ago, one of my DevOps counterparts was working on building out a new
                 
                   The Ansible lineinfile module is designed to search a file for a line, and ensure that it is present or absent. lineinfile is very effective at that particular task. However, when the line has to be in a certain place or before or after a certain line, lineinfile becomes a hassle to manage.
    (adsbygoogle = window.adsbygoogle || []).push({});  Most people on IRC (#ansible) tend to agree, lineinfile is not a very good module in practice.
-                  <a href="/post/lineinfile-be-damned/" class="post-read-more">[Read More]</a>
+                  <a href="/lineinfile-be-damned/" class="post-read-more">[Read More]</a>
                 
               </div>
     
@@ -330,7 +330,7 @@ A few weeks ago, one of my DevOps counterparts was working on building out a new
             </article>
           
             <article class="post-preview">
-              <a href="/post/poorly-documented-dependencies/">
+              <a href="/poorly-documented-dependencies/">
                 <h2 class="post-title">Poorly Documented Dependencies</h2>
     
                 
@@ -344,7 +344,7 @@ A few weeks ago, one of my DevOps counterparts was working on building out a new
                   Few things irritate me more than poorly documented dependencies. If your tool or software documentation states you can install your widget with one command and it does not work you are probably annoying people.
 Consider this a running list of tools and their often not well documented dependency chains. Feel free to chime in with your examples in the comments.
    (adsbygoogle = window.adsbygoogle || []).push({});  Ansible
-                  <a href="/post/poorly-documented-dependencies/" class="post-read-more">[Read More]</a>
+                  <a href="/poorly-documented-dependencies/" class="post-read-more">[Read More]</a>
                 
               </div>
     
@@ -371,7 +371,7 @@ Consider this a running list of tools and their often not well documented depend
             </article>
           
             <article class="post-preview">
-              <a href="/post/got-badlock-ansible-can-help/">
+              <a href="/got-badlock-ansible-can-help/">
                 <h2 class="post-title">Got Badlock? Ansible Can Help</h2>
     
                 
@@ -385,7 +385,7 @@ Consider this a running list of tools and their often not well documented depend
                   Badlock might not be bad for all. If you are using Ansible you can patch your systems with a single playbook (or ad hoc command).
 For RPM based OS users Badlock (samba) patching is as easy as: ansible -m shell -a &quot;yum update *samba*&quot; all
    (adsbygoogle = window.adsbygoogle || []).push({});  Or you can be very granular and use an Ansible Playbook to audit and patch samba packages: &mdash; - hosts: all tasks: - name: Check if samba packages are installed shell: &ldquo;yum list installed samba | awk &lsquo;!
-                  <a href="/post/got-badlock-ansible-can-help/" class="post-read-more">[Read More]</a>
+                  <a href="/got-badlock-ansible-can-help/" class="post-read-more">[Read More]</a>
                 
               </div>
     
@@ -410,7 +410,7 @@ For RPM based OS users Badlock (samba) patching is as easy as: ansible -m shell 
             </article>
           
             <article class="post-preview">
-              <a href="/post/using-ansible-vault-effectively/">
+              <a href="/using-ansible-vault-effectively/">
                 <h2 class="post-title">Using Ansible Vault Effectively</h2>
     
                 
@@ -423,7 +423,7 @@ For RPM based OS users Badlock (samba) patching is as easy as: ansible -m shell 
                 
                   Ansible is a great orchestration tool. The low barrier to entry and simplicity of Ansible are why so many people that start using it love it. But there is one feature in Ansible that probably should be used more often. That feature is Ansible Vault.
    (adsbygoogle = window.adsbygoogle || []).push({});   “Vault” is a feature of ansible that allows keeping sensitive data such as passwords or keys in encrypted files, rather than as plaintext in your playbooks or roles.
-                  <a href="/post/using-ansible-vault-effectively/" class="post-read-more">[Read More]</a>
+                  <a href="/using-ansible-vault-effectively/" class="post-read-more">[Read More]</a>
                 
               </div>
     
@@ -440,7 +440,7 @@ For RPM based OS users Badlock (samba) patching is as easy as: ansible -m shell 
             </article>
           
             <article class="post-preview">
-              <a href="/post/grep-multiple-ansible-vault-files/">
+              <a href="/grep-multiple-ansible-vault-files/">
                 <h2 class="post-title">Grep Multiple Ansible Vault Files</h2>
     
                 
