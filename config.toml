@@ -1,5 +1,6 @@
 baseurl = "/"
 DefaultContentLanguage = "en"
+enableemoji = "true"
 title = "Chris Short"
 theme = "beautifulhugo"
 metaDataFormat = "yaml"
