@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>/gophercon-2017-lightning-talk-video/</loc>
+    <lastmod>2017-07-26T23:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/testing-certificate-chains-in-go/</loc>
     <lastmod>2017-07-22T22:23:32+00:00</lastmod>
   </url>
@@ -428,20 +433,14 @@
   </url>
   
   <url>
-    <loc>/categories/acquisition/</loc>
-    <lastmod>2015-10-09T23:03:30+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>/tags/acquisition/</loc>
     <lastmod>2015-10-09T23:03:30+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/categories/afghanistan/</loc>
-    <lastmod>2016-08-23T12:00:00+00:00</lastmod>
+    <loc>/categories/acquisition/</loc>
+    <lastmod>2015-10-09T23:03:30+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -452,8 +451,8 @@
   </url>
   
   <url>
-    <loc>/categories/air-force/</loc>
-    <lastmod>2016-08-30T17:17:00+00:00</lastmod>
+    <loc>/categories/afghanistan/</loc>
+    <lastmod>2016-08-23T12:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -464,8 +463,8 @@
   </url>
   
   <url>
-    <loc>/categories/amazon/</loc>
-    <lastmod>2016-06-14T17:18:30+00:00</lastmod>
+    <loc>/categories/air-force/</loc>
+    <lastmod>2016-08-30T17:17:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -476,8 +475,8 @@
   </url>
   
   <url>
-    <loc>/categories/ansible/</loc>
-    <lastmod>2017-01-23T22:03:02+00:00</lastmod>
+    <loc>/categories/amazon/</loc>
+    <lastmod>2016-06-14T17:18:30+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -488,8 +487,8 @@
   </url>
   
   <url>
-    <loc>/categories/ansible-vault/</loc>
-    <lastmod>2015-10-17T07:53:00+00:00</lastmod>
+    <loc>/categories/ansible/</loc>
+    <lastmod>2017-01-23T22:03:02+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -500,8 +499,8 @@
   </url>
   
   <url>
-    <loc>/categories/apple/</loc>
-    <lastmod>2016-06-01T16:44:00+00:00</lastmod>
+    <loc>/categories/ansible-vault/</loc>
+    <lastmod>2015-10-17T07:53:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -512,8 +511,8 @@
   </url>
   
   <url>
-    <loc>/categories/apple-keychain/</loc>
-    <lastmod>2015-10-06T20:54:19+00:00</lastmod>
+    <loc>/categories/apple/</loc>
+    <lastmod>2016-06-01T16:44:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -524,8 +523,8 @@
   </url>
   
   <url>
-    <loc>/categories/apt/</loc>
-    <lastmod>2016-04-12T04:57:53+00:00</lastmod>
+    <loc>/categories/apple-keychain/</loc>
+    <lastmod>2015-10-06T20:54:19+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -536,8 +535,8 @@
   </url>
   
   <url>
-    <loc>/categories/aws/</loc>
-    <lastmod>2017-01-26T21:37:04+00:00</lastmod>
+    <loc>/categories/apt/</loc>
+    <lastmod>2016-04-12T04:57:53+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -548,8 +547,8 @@
   </url>
   
   <url>
-    <loc>/categories/badlock/</loc>
-    <lastmod>2016-04-12T04:57:53+00:00</lastmod>
+    <loc>/categories/aws/</loc>
+    <lastmod>2017-01-26T21:37:04+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -560,8 +559,8 @@
   </url>
   
   <url>
-    <loc>/categories/bsd/</loc>
-    <lastmod>2016-06-01T16:44:00+00:00</lastmod>
+    <loc>/categories/badlock/</loc>
+    <lastmod>2016-04-12T04:57:53+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -572,8 +571,8 @@
   </url>
   
   <url>
-    <loc>/categories/buffer/</loc>
-    <lastmod>2016-11-21T13:03:00+00:00</lastmod>
+    <loc>/categories/bsd/</loc>
+    <lastmod>2016-06-01T16:44:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -584,13 +583,19 @@
   </url>
   
   <url>
-    <loc>/categories/calendar/</loc>
-    <lastmod>2016-07-10T20:51:00+00:00</lastmod>
+    <loc>/categories/buffer/</loc>
+    <lastmod>2016-11-21T13:03:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>/tags/calendar/</loc>
+    <lastmod>2016-07-10T20:51:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/categories/calendar/</loc>
     <lastmod>2016-07-10T20:51:00+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -602,20 +607,14 @@
   </url>
   
   <url>
-    <loc>/categories/cdn/</loc>
-    <lastmod>2016-06-14T17:18:30+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>/tags/cdn/</loc>
     <lastmod>2016-06-14T17:18:30+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/categories/center-for-purposeful-living/</loc>
-    <lastmod>2015-10-03T09:18:31+00:00</lastmod>
+    <loc>/categories/cdn/</loc>
+    <lastmod>2016-06-14T17:18:30+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -626,8 +625,8 @@
   </url>
   
   <url>
-    <loc>/categories/centos/</loc>
-    <lastmod>2013-05-03T18:18:00+00:00</lastmod>
+    <loc>/categories/center-for-purposeful-living/</loc>
+    <lastmod>2015-10-03T09:18:31+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -638,8 +637,8 @@
   </url>
   
   <url>
-    <loc>/categories/central-command/</loc>
-    <lastmod>2016-08-23T12:00:00+00:00</lastmod>
+    <loc>/categories/centos/</loc>
+    <lastmod>2013-05-03T18:18:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -650,14 +649,14 @@
   </url>
   
   <url>
-    <loc>/</loc>
-    <lastmod>2017-07-22T22:23:32+00:00</lastmod>
+    <loc>/categories/central-command/</loc>
+    <lastmod>2016-08-23T12:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/categories/clock/</loc>
-    <lastmod>2016-11-02T11:00:00+00:00</lastmod>
+    <loc>/</loc>
+    <lastmod>2017-07-26T23:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -668,8 +667,8 @@
   </url>
   
   <url>
-    <loc>/categories/cloudflare/</loc>
-    <lastmod>2016-06-14T17:18:30+00:00</lastmod>
+    <loc>/categories/clock/</loc>
+    <lastmod>2016-11-02T11:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -680,8 +679,8 @@
   </url>
   
   <url>
-    <loc>/categories/communications/</loc>
-    <lastmod>2016-08-23T12:00:00+00:00</lastmod>
+    <loc>/categories/cloudflare/</loc>
+    <lastmod>2016-06-14T17:18:30+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -692,8 +691,8 @@
   </url>
   
   <url>
-    <loc>/categories/content-blockers/</loc>
-    <lastmod>2017-02-09T12:02:00+00:00</lastmod>
+    <loc>/categories/communications/</loc>
+    <lastmod>2016-08-23T12:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -704,8 +703,8 @@
   </url>
   
   <url>
-    <loc>/categories/content-delivery-network/</loc>
-    <lastmod>2016-06-14T17:18:30+00:00</lastmod>
+    <loc>/categories/content-blockers/</loc>
+    <lastmod>2017-02-09T12:02:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -716,8 +715,8 @@
   </url>
   
   <url>
-    <loc>/categories/culture/</loc>
-    <lastmod>2017-06-06T12:00:00+00:00</lastmod>
+    <loc>/categories/content-delivery-network/</loc>
+    <lastmod>2016-06-14T17:18:30+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -728,8 +727,8 @@
   </url>
   
   <url>
-    <loc>/categories/cv/</loc>
-    <lastmod>2016-10-21T21:13:00+00:00</lastmod>
+    <loc>/categories/culture/</loc>
+    <lastmod>2017-06-06T12:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -740,8 +739,8 @@
   </url>
   
   <url>
-    <loc>/categories/dependencies/</loc>
-    <lastmod>2016-05-23T21:44:50+00:00</lastmod>
+    <loc>/categories/cv/</loc>
+    <lastmod>2016-10-21T21:13:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -752,7 +751,7 @@
   </url>
   
   <url>
-    <loc>/categories/dependency/</loc>
+    <loc>/categories/dependencies/</loc>
     <lastmod>2016-05-23T21:44:50+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -764,8 +763,8 @@
   </url>
   
   <url>
-    <loc>/categories/development/</loc>
-    <lastmod>2013-06-01T20:00:00+00:00</lastmod>
+    <loc>/categories/dependency/</loc>
+    <lastmod>2016-05-23T21:44:50+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -776,20 +775,20 @@
   </url>
   
   <url>
-    <loc>/categories/devops/</loc>
-    <lastmod>2017-07-22T22:23:32+00:00</lastmod>
+    <loc>/categories/development/</loc>
+    <lastmod>2013-06-01T20:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>/tags/devops/</loc>
-    <lastmod>2017-07-22T22:23:32+00:00</lastmod>
+    <lastmod>2017-07-26T23:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/categories/devopsdays/</loc>
-    <lastmod>2016-10-13T19:00:00+00:00</lastmod>
+    <loc>/categories/devops/</loc>
+    <lastmod>2017-07-26T23:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -800,8 +799,8 @@
   </url>
   
   <url>
-    <loc>/categories/dns/</loc>
-    <lastmod>2016-11-29T14:04:00+00:00</lastmod>
+    <loc>/categories/devopsdays/</loc>
+    <lastmod>2016-10-13T19:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -812,8 +811,8 @@
   </url>
   
   <url>
-    <loc>/categories/dpkg/</loc>
-    <lastmod>2016-04-12T04:57:53+00:00</lastmod>
+    <loc>/categories/dns/</loc>
+    <lastmod>2016-11-29T14:04:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -824,8 +823,8 @@
   </url>
   
   <url>
-    <loc>/categories/drawing/</loc>
-    <lastmod>2016-12-20T14:15:00+00:00</lastmod>
+    <loc>/categories/dpkg/</loc>
+    <lastmod>2016-04-12T04:57:53+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -836,8 +835,8 @@
   </url>
   
   <url>
-    <loc>/categories/e-mail/</loc>
-    <lastmod>2016-05-10T17:05:00+00:00</lastmod>
+    <loc>/categories/drawing/</loc>
+    <lastmod>2016-12-20T14:15:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -848,8 +847,8 @@
   </url>
   
   <url>
-    <loc>/categories/ear-piercing/</loc>
-    <lastmod>2009-05-26T20:00:00+00:00</lastmod>
+    <loc>/categories/e-mail/</loc>
+    <lastmod>2016-05-10T17:05:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -860,8 +859,8 @@
   </url>
   
   <url>
-    <loc>/categories/ec2/</loc>
-    <lastmod>2017-01-26T21:37:04+00:00</lastmod>
+    <loc>/categories/ear-piercing/</loc>
+    <lastmod>2009-05-26T20:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -872,8 +871,8 @@
   </url>
   
   <url>
-    <loc>/categories/el-capitan/</loc>
-    <lastmod>2015-10-13T17:22:32+00:00</lastmod>
+    <loc>/categories/ec2/</loc>
+    <lastmod>2017-01-26T21:37:04+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -884,8 +883,8 @@
   </url>
   
   <url>
-    <loc>/categories/environment/</loc>
-    <lastmod>2016-05-10T17:05:00+00:00</lastmod>
+    <loc>/categories/el-capitan/</loc>
+    <lastmod>2015-10-13T17:22:32+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -896,8 +895,8 @@
   </url>
   
   <url>
-    <loc>/categories/ext2/</loc>
-    <lastmod>2003-05-15T01:41:00+00:00</lastmod>
+    <loc>/categories/environment/</loc>
+    <lastmod>2016-05-10T17:05:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -908,7 +907,7 @@
   </url>
   
   <url>
-    <loc>/categories/ext3/</loc>
+    <loc>/categories/ext2/</loc>
     <lastmod>2003-05-15T01:41:00+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -920,8 +919,8 @@
   </url>
   
   <url>
-    <loc>/categories/fear/</loc>
-    <lastmod>2016-06-21T05:44:00+00:00</lastmod>
+    <loc>/categories/ext3/</loc>
+    <lastmod>2003-05-15T01:41:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -932,8 +931,8 @@
   </url>
   
   <url>
-    <loc>/categories/fiber/</loc>
-    <lastmod>2016-10-30T11:00:00+00:00</lastmod>
+    <loc>/categories/fear/</loc>
+    <lastmod>2016-06-21T05:44:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -944,8 +943,8 @@
   </url>
   
   <url>
-    <loc>/categories/filesystems/</loc>
-    <lastmod>2003-05-15T01:41:00+00:00</lastmod>
+    <loc>/categories/fiber/</loc>
+    <lastmod>2016-10-30T11:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -956,8 +955,8 @@
   </url>
   
   <url>
-    <loc>/categories/firefox/</loc>
-    <lastmod>2004-12-17T06:06:00+00:00</lastmod>
+    <loc>/categories/filesystems/</loc>
+    <lastmod>2003-05-15T01:41:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -968,8 +967,8 @@
   </url>
   
   <url>
-    <loc>/categories/florida-gators/</loc>
-    <lastmod>2013-09-19T20:00:00+00:00</lastmod>
+    <loc>/categories/firefox/</loc>
+    <lastmod>2004-12-17T06:06:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -980,8 +979,8 @@
   </url>
   
   <url>
-    <loc>/categories/food/</loc>
-    <lastmod>2009-08-30T20:00:00+00:00</lastmod>
+    <loc>/categories/florida-gators/</loc>
+    <lastmod>2013-09-19T20:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -992,8 +991,8 @@
   </url>
   
   <url>
-    <loc>/categories/git/</loc>
-    <lastmod>2017-01-23T22:03:02+00:00</lastmod>
+    <loc>/categories/food/</loc>
+    <lastmod>2009-08-30T20:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -1004,7 +1003,7 @@
   </url>
   
   <url>
-    <loc>/categories/gitlab/</loc>
+    <loc>/categories/git/</loc>
     <lastmod>2017-01-23T22:03:02+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -1016,8 +1015,8 @@
   </url>
   
   <url>
-    <loc>/categories/gnu/</loc>
-    <lastmod>2016-06-01T16:44:00+00:00</lastmod>
+    <loc>/categories/gitlab/</loc>
+    <lastmod>2017-01-23T22:03:02+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -1028,32 +1027,32 @@
   </url>
   
   <url>
-    <loc>/categories/go/</loc>
-    <lastmod>2017-07-22T22:23:32+00:00</lastmod>
+    <loc>/categories/gnu/</loc>
+    <lastmod>2016-06-01T16:44:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>/tags/go/</loc>
-    <lastmod>2017-07-22T22:23:32+00:00</lastmod>
+    <lastmod>2017-07-26T23:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/categories/golang/</loc>
-    <lastmod>2017-07-22T22:23:32+00:00</lastmod>
+    <loc>/categories/go/</loc>
+    <lastmod>2017-07-26T23:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>/tags/golang/</loc>
-    <lastmod>2017-07-22T22:23:32+00:00</lastmod>
+    <lastmod>2017-07-26T23:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/categories/google/</loc>
-    <lastmod>2016-10-30T11:00:00+00:00</lastmod>
+    <loc>/categories/golang/</loc>
+    <lastmod>2017-07-26T23:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -1064,8 +1063,8 @@
   </url>
   
   <url>
-    <loc>/categories/grep/</loc>
-    <lastmod>2015-09-22T23:56:00+00:00</lastmod>
+    <loc>/categories/google/</loc>
+    <lastmod>2016-10-30T11:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -1076,8 +1075,8 @@
   </url>
   
   <url>
-    <loc>/categories/hall-of-fame/</loc>
-    <lastmod>2016-05-27T23:16:56+00:00</lastmod>
+    <loc>/categories/grep/</loc>
+    <lastmod>2015-09-22T23:56:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -1088,8 +1087,8 @@
   </url>
   
   <url>
-    <loc>/categories/hardware/</loc>
-    <lastmod>2003-04-29T23:08:00+00:00</lastmod>
+    <loc>/categories/hall-of-fame/</loc>
+    <lastmod>2016-05-27T23:16:56+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -1100,8 +1099,8 @@
   </url>
   
   <url>
-    <loc>/categories/hate/</loc>
-    <lastmod>2016-06-21T05:44:00+00:00</lastmod>
+    <loc>/categories/hardware/</loc>
+    <lastmod>2003-04-29T23:08:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -1112,8 +1111,8 @@
   </url>
   
   <url>
-    <loc>/categories/http/2/</loc>
-    <lastmod>2016-11-16T13:15:00+00:00</lastmod>
+    <loc>/categories/hate/</loc>
+    <lastmod>2016-06-21T05:44:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -1124,8 +1123,8 @@
   </url>
   
   <url>
-    <loc>/categories/ifttt/</loc>
-    <lastmod>2016-11-21T13:03:00+00:00</lastmod>
+    <loc>/categories/http/2/</loc>
+    <lastmod>2016-11-16T13:15:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -1136,8 +1135,8 @@
   </url>
   
   <url>
-    <loc>/categories/internet/</loc>
-    <lastmod>2016-10-30T11:00:00+00:00</lastmod>
+    <loc>/categories/ifttt/</loc>
+    <lastmod>2016-11-21T13:03:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -1148,8 +1147,8 @@
   </url>
   
   <url>
-    <loc>/categories/interview/</loc>
-    <lastmod>2016-08-17T13:05:00+00:00</lastmod>
+    <loc>/categories/internet/</loc>
+    <lastmod>2016-10-30T11:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -1160,8 +1159,8 @@
   </url>
   
   <url>
-    <loc>/categories/ios/</loc>
-    <lastmod>2016-07-10T20:51:00+00:00</lastmod>
+    <loc>/categories/interview/</loc>
+    <lastmod>2016-08-17T13:05:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -1172,8 +1171,8 @@
   </url>
   
   <url>
-    <loc>/categories/iraq/</loc>
-    <lastmod>2016-08-23T12:00:00+00:00</lastmod>
+    <loc>/categories/ios/</loc>
+    <lastmod>2016-07-10T20:51:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -1184,8 +1183,8 @@
   </url>
   
   <url>
-    <loc>/categories/jitter/</loc>
-    <lastmod>2016-11-02T11:00:00+00:00</lastmod>
+    <loc>/categories/iraq/</loc>
+    <lastmod>2016-08-23T12:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -1196,8 +1195,8 @@
   </url>
   
   <url>
-    <loc>/categories/jq/</loc>
-    <lastmod>2017-01-26T21:37:04+00:00</lastmod>
+    <loc>/categories/jitter/</loc>
+    <lastmod>2016-11-02T11:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -1208,8 +1207,8 @@
   </url>
   
   <url>
-    <loc>/categories/junos-pulse/</loc>
-    <lastmod>2015-10-06T20:54:19+00:00</lastmod>
+    <loc>/categories/jq/</loc>
+    <lastmod>2017-01-26T21:37:04+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -1220,8 +1219,8 @@
   </url>
   
   <url>
-    <loc>/categories/kids/</loc>
-    <lastmod>2009-05-26T20:00:00+00:00</lastmod>
+    <loc>/categories/junos-pulse/</loc>
+    <lastmod>2015-10-06T20:54:19+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -1232,8 +1231,8 @@
   </url>
   
   <url>
-    <loc>/categories/lastpass/</loc>
-    <lastmod>2015-10-09T23:03:30+00:00</lastmod>
+    <loc>/categories/kids/</loc>
+    <lastmod>2009-05-26T20:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -1244,8 +1243,8 @@
   </url>
   
   <url>
-    <loc>/categories/lgbt/</loc>
-    <lastmod>2016-06-21T05:44:00+00:00</lastmod>
+    <loc>/categories/lastpass/</loc>
+    <lastmod>2015-10-09T23:03:30+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -1256,7 +1255,7 @@
   </url>
   
   <url>
-    <loc>/categories/lgbtq/</loc>
+    <loc>/categories/lgbt/</loc>
     <lastmod>2016-06-21T05:44:00+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -1268,8 +1267,8 @@
   </url>
   
   <url>
-    <loc>/categories/lineinfile/</loc>
-    <lastmod>2016-09-06T16:30:00+00:00</lastmod>
+    <loc>/categories/lgbtq/</loc>
+    <lastmod>2016-06-21T05:44:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -1280,8 +1279,8 @@
   </url>
   
   <url>
-    <loc>/categories/linux/</loc>
-    <lastmod>2016-08-17T13:05:00+00:00</lastmod>
+    <loc>/categories/lineinfile/</loc>
+    <lastmod>2016-09-06T16:30:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -1292,8 +1291,8 @@
   </url>
   
   <url>
-    <loc>/categories/logmein/</loc>
-    <lastmod>2015-10-09T23:03:30+00:00</lastmod>
+    <loc>/categories/linux/</loc>
+    <lastmod>2016-08-17T13:05:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -1304,8 +1303,8 @@
   </url>
   
   <url>
-    <loc>/categories/long-thoracic-nerve/</loc>
-    <lastmod>2015-10-03T09:57:51+00:00</lastmod>
+    <loc>/categories/logmein/</loc>
+    <lastmod>2015-10-09T23:03:30+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -1316,8 +1315,8 @@
   </url>
   
   <url>
-    <loc>/categories/mac-os-x/</loc>
-    <lastmod>2016-06-09T22:24:02+00:00</lastmod>
+    <loc>/categories/long-thoracic-nerve/</loc>
+    <lastmod>2015-10-03T09:57:51+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -1328,8 +1327,8 @@
   </url>
   
   <url>
-    <loc>/categories/macos/</loc>
-    <lastmod>2016-07-10T20:51:00+00:00</lastmod>
+    <loc>/categories/mac-os-x/</loc>
+    <lastmod>2016-06-09T22:24:02+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -1340,8 +1339,8 @@
   </url>
   
   <url>
-    <loc>/categories/marissa-meyer/</loc>
-    <lastmod>2016-07-26T16:06:31+00:00</lastmod>
+    <loc>/categories/macos/</loc>
+    <lastmod>2016-07-10T20:51:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -1352,8 +1351,8 @@
   </url>
   
   <url>
-    <loc>/categories/marketing/</loc>
-    <lastmod>2015-10-06T04:13:00+00:00</lastmod>
+    <loc>/categories/marissa-meyer/</loc>
+    <lastmod>2016-07-26T16:06:31+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -1364,8 +1363,8 @@
   </url>
   
   <url>
-    <loc>/categories/mashup/</loc>
-    <lastmod>2016-09-14T17:00:00+00:00</lastmod>
+    <loc>/categories/marketing/</loc>
+    <lastmod>2015-10-06T04:13:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -1376,8 +1375,8 @@
   </url>
   
   <url>
-    <loc>/categories/memory/</loc>
-    <lastmod>2015-10-09T17:00:52+00:00</lastmod>
+    <loc>/categories/mashup/</loc>
+    <lastmod>2016-09-14T17:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -1388,8 +1387,8 @@
   </url>
   
   <url>
-    <loc>/categories/microsoft/</loc>
-    <lastmod>2016-06-09T22:24:02+00:00</lastmod>
+    <loc>/categories/memory/</loc>
+    <lastmod>2015-10-09T17:00:52+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -1400,8 +1399,8 @@
   </url>
   
   <url>
-    <loc>/categories/military/</loc>
-    <lastmod>2017-01-18T15:05:00+00:00</lastmod>
+    <loc>/categories/microsoft/</loc>
+    <lastmod>2016-06-09T22:24:02+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -1412,8 +1411,8 @@
   </url>
   
   <url>
-    <loc>/categories/mission/</loc>
-    <lastmod>2016-08-30T17:17:00+00:00</lastmod>
+    <loc>/categories/military/</loc>
+    <lastmod>2017-01-18T15:05:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -1424,8 +1423,8 @@
   </url>
   
   <url>
-    <loc>/categories/module/</loc>
-    <lastmod>2016-09-06T16:30:00+00:00</lastmod>
+    <loc>/categories/mission/</loc>
+    <lastmod>2016-08-30T17:17:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -1436,8 +1435,8 @@
   </url>
   
   <url>
-    <loc>/categories/mysql/</loc>
-    <lastmod>2015-10-05T16:53:18+00:00</lastmod>
+    <loc>/categories/module/</loc>
+    <lastmod>2016-09-06T16:30:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -1448,8 +1447,8 @@
   </url>
   
   <url>
-    <loc>/categories/nascar/</loc>
-    <lastmod>2016-05-27T23:16:56+00:00</lastmod>
+    <loc>/categories/mysql/</loc>
+    <lastmod>2015-10-05T16:53:18+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -1460,8 +1459,8 @@
   </url>
   
   <url>
-    <loc>/categories/new-relic/</loc>
-    <lastmod>2016-05-23T21:44:50+00:00</lastmod>
+    <loc>/categories/nascar/</loc>
+    <lastmod>2016-05-27T23:16:56+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -1472,8 +1471,8 @@
   </url>
   
   <url>
-    <loc>/categories/niantic/</loc>
-    <lastmod>2016-07-20T14:34:00+00:00</lastmod>
+    <loc>/categories/new-relic/</loc>
+    <lastmod>2016-05-23T21:44:50+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -1484,8 +1483,8 @@
   </url>
   
   <url>
-    <loc>/categories/nodejs/</loc>
-    <lastmod>2016-05-23T21:44:50+00:00</lastmod>
+    <loc>/categories/niantic/</loc>
+    <lastmod>2016-07-20T14:34:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -1496,8 +1495,8 @@
   </url>
   
   <url>
-    <loc>/categories/north-carolina/</loc>
-    <lastmod>2016-08-30T17:17:00+00:00</lastmod>
+    <loc>/categories/nodejs/</loc>
+    <lastmod>2016-05-23T21:44:50+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -1508,7 +1507,7 @@
   </url>
   
   <url>
-    <loc>/categories/north-carolina-veterans/</loc>
+    <loc>/categories/north-carolina/</loc>
     <lastmod>2016-08-30T17:17:00+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -1520,8 +1519,8 @@
   </url>
   
   <url>
-    <loc>/categories/notorious-big/</loc>
-    <lastmod>2016-09-14T17:00:00+00:00</lastmod>
+    <loc>/categories/north-carolina-veterans/</loc>
+    <lastmod>2016-08-30T17:17:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -1532,8 +1531,8 @@
   </url>
   
   <url>
-    <loc>/categories/npm/</loc>
-    <lastmod>2016-05-23T21:44:50+00:00</lastmod>
+    <loc>/categories/notorious-big/</loc>
+    <lastmod>2016-09-14T17:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -1544,8 +1543,8 @@
   </url>
   
   <url>
-    <loc>/categories/ntp/</loc>
-    <lastmod>2016-11-02T11:00:00+00:00</lastmod>
+    <loc>/categories/npm/</loc>
+    <lastmod>2016-05-23T21:44:50+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -1556,8 +1555,8 @@
   </url>
   
   <url>
-    <loc>/categories/oncall/</loc>
-    <lastmod>2016-10-05T20:56:00+00:00</lastmod>
+    <loc>/categories/ntp/</loc>
+    <lastmod>2016-11-02T11:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -1568,8 +1567,8 @@
   </url>
   
   <url>
-    <loc>/categories/open-source/</loc>
-    <lastmod>2017-06-06T12:00:00+00:00</lastmod>
+    <loc>/categories/oncall/</loc>
+    <lastmod>2016-10-05T20:56:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -1580,8 +1579,8 @@
   </url>
   
   <url>
-    <loc>/categories/osi-model/</loc>
-    <lastmod>2016-11-13T18:37:06+00:00</lastmod>
+    <loc>/categories/open-source/</loc>
+    <lastmod>2017-06-06T12:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -1592,8 +1591,8 @@
   </url>
   
   <url>
-    <loc>/categories/ownership/</loc>
-    <lastmod>2016-06-28T17:11:49+00:00</lastmod>
+    <loc>/categories/osi-model/</loc>
+    <lastmod>2016-11-13T18:37:06+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -1604,8 +1603,8 @@
   </url>
   
   <url>
-    <loc>/categories/pagerduty/</loc>
-    <lastmod>2016-10-05T20:56:00+00:00</lastmod>
+    <loc>/categories/ownership/</loc>
+    <lastmod>2016-06-28T17:11:49+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -1616,8 +1615,8 @@
   </url>
   
   <url>
-    <loc>/categories/palsy/</loc>
-    <lastmod>2015-10-03T09:57:51+00:00</lastmod>
+    <loc>/categories/pagerduty/</loc>
+    <lastmod>2016-10-05T20:56:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -1628,8 +1627,8 @@
   </url>
   
   <url>
-    <loc>/categories/philosophy/</loc>
-    <lastmod>2017-01-01T02:45:18+00:00</lastmod>
+    <loc>/categories/palsy/</loc>
+    <lastmod>2015-10-03T09:57:51+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -1640,8 +1639,8 @@
   </url>
   
   <url>
-    <loc>/categories/php/</loc>
-    <lastmod>2015-10-09T17:00:52+00:00</lastmod>
+    <loc>/categories/philosophy/</loc>
+    <lastmod>2017-01-01T02:45:18+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -1652,8 +1651,8 @@
   </url>
   
   <url>
-    <loc>/categories/podcast/</loc>
-    <lastmod>2016-10-31T12:00:00+00:00</lastmod>
+    <loc>/categories/php/</loc>
+    <lastmod>2015-10-09T17:00:52+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -1664,14 +1663,14 @@
   </url>
   
   <url>
-    <loc>/post/</loc>
-    <lastmod>2017-07-22T22:23:32+00:00</lastmod>
+    <loc>/categories/podcast/</loc>
+    <lastmod>2016-10-31T12:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/categories/rcr/</loc>
-    <lastmod>2016-05-27T23:16:56+00:00</lastmod>
+    <loc>/post/</loc>
+    <lastmod>2017-07-26T23:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -1682,8 +1681,8 @@
   </url>
   
   <url>
-    <loc>/categories/recipes/</loc>
-    <lastmod>2009-08-30T20:00:00+00:00</lastmod>
+    <loc>/categories/rcr/</loc>
+    <lastmod>2016-05-27T23:16:56+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -1694,8 +1693,8 @@
   </url>
   
   <url>
-    <loc>/categories/remix/</loc>
-    <lastmod>2016-09-14T17:00:00+00:00</lastmod>
+    <loc>/categories/recipes/</loc>
+    <lastmod>2009-08-30T20:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -1706,8 +1705,8 @@
   </url>
   
   <url>
-    <loc>/categories/replication/</loc>
-    <lastmod>2015-10-05T16:53:18+00:00</lastmod>
+    <loc>/categories/remix/</loc>
+    <lastmod>2016-09-14T17:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -1718,8 +1717,8 @@
   </url>
   
   <url>
-    <loc>/categories/repo/</loc>
-    <lastmod>2016-06-25T17:06:05+00:00</lastmod>
+    <loc>/categories/replication/</loc>
+    <lastmod>2015-10-05T16:53:18+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -1730,8 +1729,8 @@
   </url>
   
   <url>
-    <loc>/categories/resume/</loc>
-    <lastmod>2016-10-21T21:13:00+00:00</lastmod>
+    <loc>/categories/repo/</loc>
+    <lastmod>2016-06-25T17:06:05+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -1742,8 +1741,8 @@
   </url>
   
   <url>
-    <loc>/categories/richard-childress/</loc>
-    <lastmod>2016-05-27T23:16:56+00:00</lastmod>
+    <loc>/categories/resume/</loc>
+    <lastmod>2016-10-21T21:13:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -1754,7 +1753,7 @@
   </url>
   
   <url>
-    <loc>/categories/richard-childress-racing/</loc>
+    <loc>/categories/richard-childress/</loc>
     <lastmod>2016-05-27T23:16:56+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -1766,8 +1765,8 @@
   </url>
   
   <url>
-    <loc>/categories/s3/</loc>
-    <lastmod>2016-06-14T17:18:30+00:00</lastmod>
+    <loc>/categories/richard-childress-racing/</loc>
+    <lastmod>2016-05-27T23:16:56+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -1778,8 +1777,8 @@
   </url>
   
   <url>
-    <loc>/categories/samba/</loc>
-    <lastmod>2016-04-12T04:57:53+00:00</lastmod>
+    <loc>/categories/s3/</loc>
+    <lastmod>2016-06-14T17:18:30+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -1790,8 +1789,8 @@
   </url>
   
   <url>
-    <loc>/categories/scm/</loc>
-    <lastmod>2016-06-25T17:06:05+00:00</lastmod>
+    <loc>/categories/samba/</loc>
+    <lastmod>2016-04-12T04:57:53+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -1802,8 +1801,8 @@
   </url>
   
   <url>
-    <loc>/categories/security/</loc>
-    <lastmod>2017-06-05T22:26:47+00:00</lastmod>
+    <loc>/categories/scm/</loc>
+    <lastmod>2016-06-25T17:06:05+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -1814,8 +1813,8 @@
   </url>
   
   <url>
-    <loc>/categories/sed/</loc>
-    <lastmod>2016-06-01T16:44:00+00:00</lastmod>
+    <loc>/categories/security/</loc>
+    <lastmod>2017-06-05T22:26:47+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -1826,8 +1825,8 @@
   </url>
   
   <url>
-    <loc>/categories/social-media/</loc>
-    <lastmod>2016-11-21T13:03:00+00:00</lastmod>
+    <loc>/categories/sed/</loc>
+    <lastmod>2016-06-01T16:44:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -1838,8 +1837,8 @@
   </url>
   
   <url>
-    <loc>/categories/spotify/</loc>
-    <lastmod>2012-01-07T19:06:00+00:00</lastmod>
+    <loc>/categories/social-media/</loc>
+    <lastmod>2016-11-21T13:03:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -1850,8 +1849,8 @@
   </url>
   
   <url>
-    <loc>/categories/stratum/</loc>
-    <lastmod>2016-11-02T11:00:00+00:00</lastmod>
+    <loc>/categories/spotify/</loc>
+    <lastmod>2012-01-07T19:06:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -1862,8 +1861,8 @@
   </url>
   
   <url>
-    <loc>/categories/streaming-music/</loc>
-    <lastmod>2012-01-07T19:06:00+00:00</lastmod>
+    <loc>/categories/stratum/</loc>
+    <lastmod>2016-11-02T11:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -1874,8 +1873,8 @@
   </url>
   
   <url>
-    <loc>/categories/system-integrity-protection/</loc>
-    <lastmod>2016-06-01T16:44:00+00:00</lastmod>
+    <loc>/categories/streaming-music/</loc>
+    <lastmod>2012-01-07T19:06:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -1886,13 +1885,19 @@
   </url>
   
   <url>
-    <loc>/categories/systemd/</loc>
-    <lastmod>2016-08-09T18:13:30+00:00</lastmod>
+    <loc>/categories/system-integrity-protection/</loc>
+    <lastmod>2016-06-01T16:44:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>/tags/systemd/</loc>
+    <lastmod>2016-08-09T18:13:30+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/categories/systemd/</loc>
     <lastmod>2016-08-09T18:13:30+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -1904,19 +1909,13 @@
   </url>
   
   <url>
-    <loc>/categories/tech-control/</loc>
-    <lastmod>2005-08-05T17:33:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>/tags/tech-control/</loc>
     <lastmod>2005-08-05T17:33:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/categories/technical-controller/</loc>
+    <loc>/categories/tech-control/</loc>
     <lastmod>2005-08-05T17:33:00+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -1928,8 +1927,8 @@
   </url>
   
   <url>
-    <loc>/categories/technical-debt/</loc>
-    <lastmod>2016-08-09T18:13:30+00:00</lastmod>
+    <loc>/categories/technical-controller/</loc>
+    <lastmod>2005-08-05T17:33:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -1940,8 +1939,8 @@
   </url>
   
   <url>
-    <loc>/categories/test-kitchen/</loc>
-    <lastmod>2017-01-23T22:03:02+00:00</lastmod>
+    <loc>/categories/technical-debt/</loc>
+    <lastmod>2016-08-09T18:13:30+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -1952,8 +1951,8 @@
   </url>
   
   <url>
-    <loc>/categories/tim-tebow/</loc>
-    <lastmod>2013-09-19T20:00:00+00:00</lastmod>
+    <loc>/categories/test-kitchen/</loc>
+    <lastmod>2017-01-23T22:03:02+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -1964,8 +1963,8 @@
   </url>
   
   <url>
-    <loc>/categories/time/</loc>
-    <lastmod>2016-11-02T11:00:00+00:00</lastmod>
+    <loc>/categories/tim-tebow/</loc>
+    <lastmod>2013-09-19T20:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -1976,8 +1975,8 @@
   </url>
   
   <url>
-    <loc>/categories/tumblr/</loc>
-    <lastmod>2016-07-26T16:06:31+00:00</lastmod>
+    <loc>/categories/time/</loc>
+    <lastmod>2016-11-02T11:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -1988,8 +1987,8 @@
   </url>
   
   <url>
-    <loc>/categories/understanding/</loc>
-    <lastmod>2016-06-21T05:44:00+00:00</lastmod>
+    <loc>/categories/tumblr/</loc>
+    <lastmod>2016-07-26T16:06:31+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -2000,8 +1999,8 @@
   </url>
   
   <url>
-    <loc>/categories/us-air-force/</loc>
-    <lastmod>2016-08-30T17:17:00+00:00</lastmod>
+    <loc>/categories/understanding/</loc>
+    <lastmod>2016-06-21T05:44:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -2012,8 +2011,8 @@
   </url>
   
   <url>
-    <loc>/categories/usaf/</loc>
-    <lastmod>2005-08-05T17:33:00+00:00</lastmod>
+    <loc>/categories/us-air-force/</loc>
+    <lastmod>2016-08-30T17:17:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -2024,8 +2023,8 @@
   </url>
   
   <url>
-    <loc>/categories/vcs/</loc>
-    <lastmod>2016-06-25T17:06:05+00:00</lastmod>
+    <loc>/categories/usaf/</loc>
+    <lastmod>2005-08-05T17:33:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -2036,8 +2035,8 @@
   </url>
   
   <url>
-    <loc>/categories/verizon/</loc>
-    <lastmod>2016-10-30T11:00:00+00:00</lastmod>
+    <loc>/categories/vcs/</loc>
+    <lastmod>2016-06-25T17:06:05+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -2048,8 +2047,8 @@
   </url>
   
   <url>
-    <loc>/categories/veterans/</loc>
-    <lastmod>2016-08-23T12:00:00+00:00</lastmod>
+    <loc>/categories/verizon/</loc>
+    <lastmod>2016-10-30T11:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -2060,8 +2059,8 @@
   </url>
   
   <url>
-    <loc>/categories/video-games/</loc>
-    <lastmod>2010-07-27T20:00:00+00:00</lastmod>
+    <loc>/categories/veterans/</loc>
+    <lastmod>2016-08-23T12:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -2072,8 +2071,8 @@
   </url>
   
   <url>
-    <loc>/categories/virtualbox/</loc>
-    <lastmod>2013-05-03T18:18:00+00:00</lastmod>
+    <loc>/categories/video-games/</loc>
+    <lastmod>2010-07-27T20:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -2084,8 +2083,8 @@
   </url>
   
   <url>
-    <loc>/categories/war/</loc>
-    <lastmod>2016-08-30T17:17:00+00:00</lastmod>
+    <loc>/categories/virtualbox/</loc>
+    <lastmod>2013-05-03T18:18:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -2096,8 +2095,8 @@
   </url>
   
   <url>
-    <loc>/categories/weather/</loc>
-    <lastmod>2016-07-10T20:51:00+00:00</lastmod>
+    <loc>/categories/war/</loc>
+    <lastmod>2016-08-30T17:17:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -2108,8 +2107,8 @@
   </url>
   
   <url>
-    <loc>/categories/windows-10/</loc>
-    <lastmod>2016-05-10T17:05:00+00:00</lastmod>
+    <loc>/categories/weather/</loc>
+    <lastmod>2016-07-10T20:51:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -2120,8 +2119,8 @@
   </url>
   
   <url>
-    <loc>/categories/windows-xp/</loc>
-    <lastmod>2005-01-05T04:16:00+00:00</lastmod>
+    <loc>/categories/windows-10/</loc>
+    <lastmod>2016-05-10T17:05:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -2132,8 +2131,8 @@
   </url>
   
   <url>
-    <loc>/categories/winged-scapula/</loc>
-    <lastmod>2015-10-03T09:57:51+00:00</lastmod>
+    <loc>/categories/windows-xp/</loc>
+    <lastmod>2005-01-05T04:16:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -2144,8 +2143,8 @@
   </url>
   
   <url>
-    <loc>/categories/wireless/</loc>
-    <lastmod>2016-10-30T11:00:00+00:00</lastmod>
+    <loc>/categories/winged-scapula/</loc>
+    <lastmod>2015-10-03T09:57:51+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -2156,8 +2155,8 @@
   </url>
   
   <url>
-    <loc>/categories/xfs/</loc>
-    <lastmod>2003-05-15T01:41:00+00:00</lastmod>
+    <loc>/categories/wireless/</loc>
+    <lastmod>2016-10-30T11:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -2168,8 +2167,8 @@
   </url>
   
   <url>
-    <loc>/categories/yahoo/</loc>
-    <lastmod>2016-07-26T16:06:31+00:00</lastmod>
+    <loc>/categories/xfs/</loc>
+    <lastmod>2003-05-15T01:41:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -2180,8 +2179,8 @@
   </url>
   
   <url>
-    <loc>/categories/yubikey/</loc>
-    <lastmod>2016-02-27T18:40:10+00:00</lastmod>
+    <loc>/categories/yahoo/</loc>
+    <lastmod>2016-07-26T16:06:31+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -2192,13 +2191,19 @@
   </url>
   
   <url>
-    <loc>/categories/yum/</loc>
-    <lastmod>2016-05-23T21:44:50+00:00</lastmod>
+    <loc>/categories/yubikey/</loc>
+    <lastmod>2016-02-27T18:40:10+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>/tags/yum/</loc>
+    <lastmod>2016-05-23T21:44:50+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/categories/yum/</loc>
     <lastmod>2016-05-23T21:44:50+00:00</lastmod>
     <priority>0</priority>
   </url>
