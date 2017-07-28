@@ -1,12 +1,15 @@
-[build]
+# Production context: All deploys to the main
+# repository branch will inherit these settings.
+[context.production]
   command = "hugo"
-  publish = "public"
+  publish = "public/"
+[context.production.environment]
+  HUGO_VERSION = "0.25"
 
-# Change the version of Hugo you want to use on Netlify
-# by changing this environment variable.
-[build.environment]
-  HUGO_VERSION = "v0.25.1"
-
+# Deploy Preview context: All Deploy Previews
+# will inherit these settings.
 [context.deploy-preview]
   command = "hugo"
-  branch = "preview"
+  publish = "public/"
+[context.deploy-preview.environment]
+  HUGO_VERSION = "0.25.1"
