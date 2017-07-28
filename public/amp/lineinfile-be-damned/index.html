@@ -1,0 +1,528 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+  <meta charset="utf-8" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0">
+
+  <title>lineinfile be damned</title>
+  <meta property="og:title" content="lineinfile be damned" />
+  <meta name="twitter:title" content="lineinfile be damned" />
+  <meta name="description" content="The Ansible lineinfile module is designed to search a file for a line, and ensure that it is present or absent. lineinfile is very effective at that particular task. However, when the line has to be in a certain place or before or after a certain line, lineinfile becomes a hassle to manage.
+   (adsbygoogle = window.adsbygoogle || []).push({});  Most people on IRC (#ansible) tend to agree, lineinfile is not a very good module in practice.">
+  <meta property="og:description" content="The Ansible lineinfile module is designed to search a file for a line, and ensure that it is present or absent. lineinfile is very effective at that particular task. However, when the line has to be in a certain place or before or after a certain line, lineinfile becomes a hassle to manage.
+   (adsbygoogle = window.adsbygoogle || []).push({});  Most people on IRC (#ansible) tend to agree, lineinfile is not a very good module in practice.">
+  <meta name="twitter:description" content="The Ansible lineinfile module is designed to search a file for a line, and ensure that it is present or absent. lineinfile is very effective at that particular task. However, when the line has to be …">
+  <meta name="author" content="Chris Short"/>
+  <link href='https://cdn.chrisshort.net/favicon.ico' rel='icon' type='image/x-icon'/>
+  <meta property="og:image" content="https://cdn.chrisshort.net/Ansible-Mark-Large-RGB-Black.png" />
+  <meta name="twitter:image" content="https://cdn.chrisshort.net/Ansible-Mark-Large-RGB-Black.png" />
+  <meta name="twitter:card" content="summary" />
+  <meta name="twitter:site" content="@ChrisShort" />
+  <meta name="twitter:creator" content="@ChrisShort" />
+  <meta property="og:url" content="/lineinfile-be-damned/" />
+  <meta property="og:type" content="website" />
+  <meta property="og:site_name" content="Chris Short" />
+
+  <meta name="generator" content="Hugo 0.25.1" />
+  <link rel="canonical" href="/lineinfile-be-damned/" />
+<link rel="canonical" type="text/html" href="/lineinfile-be-damned/">
+<link rel="alternate" href="/index.xml" type="application/rss+xml" title="Chris Short">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.7.1/katex.min.css" integrity="sha384-wITovz90syo1dJWVh32uuETPVEtGigN07tkttEqPv+uR2SE/mbQcG7ATL28aI9H0" crossorigin="anonymous">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" />
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
+  <link rel="stylesheet" href="/css/main.css" />
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Lora:400,700,400italic,700italic" />
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,800italic,400,300,600,700,800" />
+  <link rel="stylesheet" href="/css/pygment_highlights.css" />
+  <link rel="stylesheet" href="/css/highlight.min.css" />
+
+
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/photoswipe/4.1.1/photoswipe.min.css" integrity="sha256-sCl5PUOGMLfFYctzDW3MtRib0ctyUvI9Qsmq2wXOeBY=" crossorigin="anonymous" />
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/photoswipe/4.1.1/default-skin/default-skin.min.css" integrity="sha256-BFeI1V+Vh1Rk37wswuOYn5lsTcaU96hGaI7OUVCLjPc=" crossorigin="anonymous" />
+
+
+
+<div class="pswp" tabindex="-1" role="dialog" aria-hidden="true">
+
+<div class="pswp__bg"></div>
+
+<div class="pswp__scroll-wrap">
+    
+    <div class="pswp__container">
+      <div class="pswp__item"></div>
+      <div class="pswp__item"></div>
+      <div class="pswp__item"></div>
+    </div>
+    
+    <div class="pswp__ui pswp__ui--hidden">
+    <div class="pswp__top-bar">
+      
+      <div class="pswp__counter"></div>
+      <button class="pswp__button pswp__button--close" title="Close (Esc)"></button>
+      <button class="pswp__button pswp__button--share" title="Share"></button>
+      <button class="pswp__button pswp__button--fs" title="Toggle fullscreen"></button>
+      <button class="pswp__button pswp__button--zoom" title="Zoom in/out"></button>
+      
+      
+      <div class="pswp__preloader">
+        <div class="pswp__preloader__icn">
+          <div class="pswp__preloader__cut">
+            <div class="pswp__preloader__donut"></div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="pswp__share-modal pswp__share-modal--hidden pswp__single-tap">
+      <div class="pswp__share-tooltip"></div>
+    </div>
+    <button class="pswp__button pswp__button--arrow--left" title="Previous (arrow left)">
+    </button>
+    <button class="pswp__button pswp__button--arrow--right" title="Next (arrow right)">
+    </button>
+    <div class="pswp__caption">
+      <div class="pswp__caption__center"></div>
+    </div>
+    </div>
+    </div>
+</div>
+
+<script>
+window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
+ga('create', 'UA-4498776-3', 'auto');
+ga('send', 'pageview');
+</script>
+<script async src='//www.google-analytics.com/analytics.js'></script>
+
+</head>
+
+  <body>
+    <nav class="navbar navbar-default navbar-fixed-top navbar-custom">
+  <div class="container-fluid">
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#main-navbar">
+        <span class="sr-only">Toggle navigation</span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+      <a class="navbar-brand" href="/">Chris Short</a>
+    </div>
+
+    <div class="collapse navbar-collapse" id="main-navbar">
+      <ul class="nav navbar-nav navbar-right">
+        
+          
+            <li class="navlinks-container">
+              <a class="navlinks-parent" href="javascript:void(0)">Menu</a>
+              <div class="navlinks-children">
+                
+                  <a href="/">Home</a>
+                
+                  <a href="/about/">About</a>
+                
+                  <a href="/resume-cv/">Résumé/CV</a>
+                
+                  <a href="/long-thoracic-nerve-palsy/">Long Thoracic Nerve Palsy</a>
+                
+                  <a href="/center-for-purposeful-living/">Center for Purposeful Living</a>
+                
+                  <a href="https://devopsish.com">DevOps&#39;ish</a>
+                
+                  <a href="/tags">Tags</a>
+                
+              </div>
+            </li>
+          
+        
+
+        
+
+        
+      </ul>
+    </div>
+
+    <div class="avatar-container">
+      <div class="avatar-img-border">
+        
+      </div>
+    </div>
+
+  </div>
+</nav>
+
+
+
+
+    
+  
+  
+  
+
+
+
+
+  
+
+  <header class="header-section ">
+    
+    <div class="intro-header no-img">
+      
+      <div class="container">
+        <div class="row">
+          <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+            <div class="post-heading">
+              <h1>lineinfile be damned</h1>
+                
+                
+                  <span class="post-meta">
+  Posted on September 6, 2016
+  
+</span>
+
+
+                
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </header>
+
+
+    
+<div class="container" role="main">
+  <div class="row">
+    <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+      <article role="main" class="blog-post">
+        
+          <img src="https://cdn.chrisshort.net/Ansible-Mark-Large-RGB-Black.png">
+        
+        <p>The <a href="https://chrisshort.net/tag/ansible/">Ansible</a> <a href="http://docs.ansible.com/ansible/lineinfile_module.html">lineinfile</a> module is designed to search a file for a line, and ensure that it is present or absent. lineinfile is very effective at that particular task. However, when the line has to be in a certain place or before or after a certain line, lineinfile becomes a hassle to manage.</p>
+
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- chrisshort.net Responsive -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-8972983586873269"
+     data-ad-slot="1297095894"
+     data-ad-format="auto"></ins>
+<script>
+   (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+<p>Most people on IRC (#ansible) tend to agree, lineinfile is not a very good module in practice. Even <a href="https://groups.google.com/d/msg/ansible-project/vjquGCRcLJc/QEgebch_DQAJ">Brain Coca says to avoid the lineinfile module</a>. But, there is one use case I have found where line in file really excels.</p>
+
+<p>If you are not using the <a href="https://mozilla.github.io/server-side-tls/ssl-config-generator/">Mozilla SSL Configuration Generator</a> you are really missing out. It is a great tool that is super easy to use to maintain <a href="https://wiki.mozilla.org/Security/Server_Side_TLS#Recommended_configurations">recommended SSL/TLS configurations</a> on all your HTTP endpoints.</p>
+
+<p>We recently had a task to get our TLS configurations up to the latest recommended guidance as well as make those configurations as consistent as possible. But this meant we had to touch over 900 different customer impacting Apache configurations.</p>
+
+<p>Ansible to the rescue! But making and deploying templated configurations was going to be far too time-consuming to meet the self-imposed deadline we had set. This is the first time in my 2+ years of working with Ansible where I have come across a good use case for the lineinfile module.</p>
+
+<p>There are only a handful of lines in the Apache configs that we needed to worry about two of which were already present and two of which that needed to be added:</p>
+
+<ul>
+<li>SSLProtocol (present)</li>
+<li>SSLCipherSuite (present)</li>
+<li>SSLHonorCipherOrder (absent)</li>
+<li>Header always set Strict-Transport-Security (absent)</li>
+</ul>
+
+<p>I should also add that we have some configurations for endpoints that do not require encryption. Not only did we have to find and replace and add lines to the configs but we had to identify configs that only had configurations for port 443. Finding the files with the port 443 configurations is easy enough with the <a href="http://docs.ansible.com/ansible/find_module.html">Ansible find module</a>.</p>
+
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- chrisshort.net Responsive -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-8972983586873269"
+     data-ad-slot="1297095894"
+     data-ad-format="auto"></ins>
+<script>
+   (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+<p>Here is the Ansible Playbook:</p>
+
+<pre><code class="language-yaml">---
+- hosts: webserver
+  gather_facts: no
+  tasks:
+    - name: Find all the conf files
+      find:
+        paths="/etc/httpd/conf.d"
+        patterns="*.conf"
+        file_type=file
+        contains='<VirtualHost [0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}:443>'
+      register: conf_files
+      always_run: yes
+      tags: find
+
+    - name: Edit SSLProtocol
+      lineinfile:
+        dest={{ item.path }}
+        regexp="[ \t]SSLProtocol"
+        line="\tSSLProtocol\t\tall -SSLv2 -SSLv3"
+        insertafter="^[ \t]SSLEngine on"
+      with_items: "{{ conf_files.files }}"
+
+    - name: Edit SSLCipherSuite
+      lineinfile:
+        dest={{ item.path }}
+        regexp="[ \t]SSLCipherSuite"
+        line="\tSSLCipherSuite\t\tECDHE-ECDSA-CHACHA20-POLY1305:ECDHE-RSA-CHACHA20-POLY1305:ECDHE-ECDSA-AES128-GCM-SHA256:ECDHE-RSA-AES128-GCM-SHA256:ECDHE-ECDSA-AES256-GCM-SHA384:ECDHE-RSA-AES256-GCM-SHA384:DHE-RSA-AES128-GCM-SHA256:DHE-RSA-AES256-GCM-SHA384:ECDHE-ECDSA-AES128-SHA256:ECDHE-RSA-AES128-SHA256:ECDHE-ECDSA-AES128-SHA:ECDHE-RSA-AES256-SHA384:ECDHE-RSA-AES128-SHA:ECDHE-ECDSA-AES256-SHA384:ECDHE-ECDSA-AES256-SHA:ECDHE-RSA-AES256-SHA:DHE-RSA-AES128-SHA256:DHE-RSA-AES128-SHA:DHE-RSA-AES256-SHA256:DHE-RSA-AES256-SHA:ECDHE-ECDSA-DES-CBC3-SHA:ECDHE-RSA-DES-CBC3-SHA:EDH-RSA-DES-CBC3-SHA:AES128-GCM-SHA256:AES256-GCM-SHA384:AES128-SHA256:AES256-SHA256:AES128-SHA:AES256-SHA:DES-CBC3-SHA:!DSS"
+      with_items: "{{ conf_files.files }}"
+
+    - name: Edit SSLHonorCipherOrder
+      lineinfile:
+        dest="{{ item.path }}"
+        regexp="[ \t]SSLHonorCipherOrder[ \t]"
+        line="\tSSLHonorCipherOrder\t\ton"
+        insertafter="[ \t]SSLCipherSuite[ \t]"
+      with_items: "{{ conf_files.files }}"
+
+    - name: HSTS
+      lineinfile:
+        dest="{{ item.path }}"
+        regexp="[ \t]Header always set Strict-Transport-Security[ \t]"
+        insertbefore="&lt;/VirtualHost&gt;"
+        line='\tHeader always set Strict-Transport-Security "max-age=15768000"'
+      with_items: "{{ conf_files.files }}"</code></pre>
+
+<p>There are a few bits I would like to expound on:</p>
+
+<p>The Ansible find module has some <a href="http://docs.ansible.com/ansible/find_module.html#return-values">unique return values</a>; one of these values is files. The register of conf_files is all the output of the find module. The item <code>{{ conf_files.files }}</code> is the <em>files</em> array from the find module output. The <code>{{ item.path }}</code> is the <em>path</em> object from the <em>files</em> array. It is a little wonky but it grabs the full path for all files matching the options given to the find module which is exactly what we need.</p>
+
+<p>The Ansible lineinfile module usage in this playbook is intense; <code>insertafter</code>, <code>insertbefore</code>, and <code>regexp</code> are used in every step. The matching of spaces and/or tabs is handled by the <code>[ \t]</code> regex throughout the playbook. The <code>regexp</code> option in the lineinfile module makes sure lines that match the expression are replaced. The <code>insertafter</code> and <code>insertbefore</code> options allow for putting the lines where they need to be.</p>
+
+<p>This playbook took a while to run but once it was done we had consistent, well configured Apache configurations that went from F&rsquo;s to A&rsquo;s on the <a href="https://www.ssllabs.com/ssltest/">Qualys SSL Server Test</a>. Give it a try and let me know how it works out for you.</p>
+
+<p>UPDATE: Thanks to <a href="https://news.ycombinator.com/item?id=12435809">pferde on Hacker News</a> for pointing out a flaw in my regex in insertafter for the Edit SSLProtocol task. It has been corrected.</p>
+
+      </article>
+
+      <ul class="pager blog-pager">
+        
+          <li class="previous">
+            <a href="/north-carolina-veterans-oral-history-interview-part-3/" data-toggle="tooltip" data-placement="top" title="North Carolina Veterans Oral History Interview Part 3">&larr; Previous Post</a>
+          </li>
+        
+        
+          <li class="next">
+            <a href="/notorious-remixes/" data-toggle="tooltip" data-placement="top" title="Notorious Remixes">Next Post &rarr;</a>
+          </li>
+        
+      </ul>
+
+      
+        
+          <div class="disqus-comments">
+            <div id="disqus_thread"></div>
+<script>
+    var disqus_config = function () {
+    
+    
+    
+    };
+    (function() {
+        if (["localhost", "127.0.0.1"].indexOf(window.location.hostname) != -1) {
+            document.getElementById('disqus_thread').innerHTML = 'Disqus comments not available by default when the website is previewed locally.';
+            return;
+        }
+        var d = document, s = d.createElement('script'); s.async = true;
+        s.src = '//' + "chrisshort" + '.disqus.com/embed.js';
+        s.setAttribute('data-timestamp', +new Date());
+        (d.head || d.body).appendChild(s);
+    })();
+</script>
+<noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+<a href="http://disqus.com" class="dsq-brlink">comments powered by <span class="logo-disqus">Disqus</span></a>
+          </div>
+        
+      
+
+    </div>
+  </div>
+</div>
+
+    <footer>
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+        <ul class="list-inline text-center footer-links">
+          
+              <li>
+                <a href="https://twitter.com/ChrisShort" title="Twitter">
+                  <span class="fa-stack fa-lg">
+                    <i class="fa fa-circle fa-stack-2x"></i>
+                    <i class="fa fa-twitter fa-stack-1x fa-inverse"></i>
+                  </span>
+                </a>
+              </li>
+              <li>
+                <a href="https://linkedin.com/in/christopherbshort" title="LinkedIn">
+                  <span class="fa-stack fa-lg">
+                    <i class="fa fa-circle fa-stack-2x"></i>
+                    <i class="fa fa-linkedin fa-stack-1x fa-inverse"></i>
+                  </span>
+                </a>
+              </li>
+              <li>
+                <a href="https://www.facebook.com/thechrisshort" title="Facebook">
+                  <span class="fa-stack fa-lg">
+                    <i class="fa fa-circle fa-stack-2x"></i>
+                    <i class="fa fa-facebook fa-stack-1x fa-inverse"></i>
+                  </span>
+                </a>
+              </li>
+              <li>
+                <a href="https://medium.com/@chrisshort/" title="medium">
+                  <span class="fa-stack fa-lg">
+                    <i class="fa fa-circle fa-stack-2x"></i>
+                    <i class="fa fa-medium fa-stack-1x fa-inverse"></i>
+                  </span>
+                </a>
+              </li>
+              <li>
+                <a href="https://chrisshort.tumblr.com" title="tumblr">
+                  <span class="fa-stack fa-lg">
+                    <i class="fa fa-circle fa-stack-2x"></i>
+                    <i class="fa fa-tumblr fa-stack-1x fa-inverse"></i>
+                  </span>
+                </a>
+              </li>
+              <li>
+                <a href="https://github.com/chris-short" title="GitHub">
+                  <span class="fa-stack fa-lg">
+                    <i class="fa fa-circle fa-stack-2x"></i>
+                    <i class="fa fa-github fa-stack-1x fa-inverse"></i>
+                  </span>
+                </a>
+              </li>
+              <li>
+                <a href="https://reddit.com/u/oaf357" title="Reddit">
+                  <span class="fa-stack fa-lg">
+                    <i class="fa fa-circle fa-stack-2x"></i>
+                    <i class="fa fa-reddit-alien fa-stack-1x fa-inverse"></i>
+                  </span>
+                </a>
+              </li>
+              <li>
+                <a href="https://www.snapchat.com/add/oaf357" title="Snapchat">
+                  <span class="fa-stack fa-lg">
+                    <i class="fa fa-circle fa-stack-2x"></i>
+                    <i class="fa fa-snapchat-ghost fa-stack-1x fa-inverse"></i>
+                  </span>
+                </a>
+              </li>
+              <li>
+                <a href="https://www.instagram.com/thechrisshort" title="Instagram">
+                  <span class="fa-stack fa-lg">
+                    <i class="fa fa-circle fa-stack-2x"></i>
+                    <i class="fa fa-instagram fa-stack-1x fa-inverse"></i>
+                  </span>
+                </a>
+              </li>
+              <li>
+                <a href="https://500px.com/chrisshort" title="500px">
+                  <span class="fa-stack fa-lg">
+                    <i class="fa fa-circle fa-stack-2x"></i>
+                    <i class="fa fa-500px fa-stack-1x fa-inverse"></i>
+                  </span>
+                </a>
+              </li>
+              <li>
+                <a href="https://www.flickr.com/photos/chris-short" title="Flickr">
+                  <span class="fa-stack fa-lg">
+                    <i class="fa fa-circle fa-stack-2x"></i>
+                    <i class="fa fa-flickr fa-stack-1x fa-inverse"></i>
+                  </span>
+                </a>
+              </li>
+              <li>
+                <a href="https://www.twitch.tv/thechrisshort" title="Twitch">
+                  <span class="fa-stack fa-lg">
+                    <i class="fa fa-circle fa-stack-2x"></i>
+                    <i class="fa fa-twitch fa-stack-1x fa-inverse"></i>
+                  </span>
+                </a>
+              </li>
+              <li>
+                <a href="https://www.producthunt.com/@chrisshort" title="Product Hunt">
+                  <span class="fa-stack fa-lg">
+                    <i class="fa fa-circle fa-stack-2x"></i>
+                    <i class="fa fa-product-hunt fa-stack-1x fa-inverse"></i>
+                  </span>
+                </a>
+              </li>
+              <li>
+                <a href="https://soundcloud.com/chris-short-15" title="SoundCloud">
+                  <span class="fa-stack fa-lg">
+                    <i class="fa fa-circle fa-stack-2x"></i>
+                    <i class="fa fa-soundcloud fa-stack-1x fa-inverse"></i>
+                  </span>
+                </a>
+              </li>
+              <li>
+                <a href="https://keybase.io/chrisshort" title="Keybase">
+                  <span class="fa-stack fa-lg">
+                    <i class="fa fa-circle fa-stack-2x"></i>
+                    <i class="fa fa-key fa-stack-1x fa-inverse"></i>
+                  </span>
+                </a>
+              </li>
+              <li>
+                <a href="https://plus.google.com/&#43;ChrisShort" title="Google&#43;">
+                  <span class="fa-stack fa-lg">
+                    <i class="fa fa-circle fa-stack-2x"></i>
+                    <i class="fa fa-google-plus fa-stack-1x fa-inverse"></i>
+                  </span>
+                </a>
+              </li>
+          
+          <li>
+            <a href="/index.xml" title="RSS">
+              <span class="fa-stack fa-lg">
+                <i class="fa fa-circle fa-stack-2x"></i>
+                <i class="fa fa-rss fa-stack-1x fa-inverse"></i>
+              </span>
+            </a>
+          </li>
+          
+        </ul>
+        <p class="credits copyright text-muted">
+          Chris Short
+          &nbsp;&bull;&nbsp;
+          2017
+
+          
+            &nbsp;&bull;&nbsp;
+            <a href="/">Chris Short</a>
+          
+        </p>
+        
+        <p class="credits theme-by text-muted">
+          <a href="http://gohugo.io">Hugo v0.25.1</a> powered &nbsp;&bull;&nbsp; Theme by <a href="http://deanattali.com/beautiful-jekyll/">Beautiful Jekyll</a> adapted to <a href="https://github.com/halogenica/beautifulhugo">Beautiful Hugo</a>
+          
+        </p>
+      </div>
+    </div>
+  </div>
+</footer>
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.7.1/katex.min.js" integrity="sha384-/y1Nn9+QQAipbNQWU65krzJralCnuOasHncUFXGkdwntGeSvQicrYkiUBwsgUqc1" crossorigin="anonymous"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.7.1/contrib/auto-render.min.js" integrity="sha384-dq1/gEHSxPZQ7DdrM82ID4YVol9BYyU7GbWlIwnwyPzotpoc57wDw/guX8EaYGPx" crossorigin="anonymous"></script>
+<script src="https://code.jquery.com/jquery-1.12.4.min.js" integrity="sha256-ZosEbRLbNQzLpnKIkEdrPv7lOy9C27hHQ+Xp8a4MxAQ=" crossorigin="anonymous"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
+<script src="/js/main.js"></script>
+<script src="/js/highlight.min.js"></script>
+<script> hljs.initHighlightingOnLoad(); </script>
+<script> renderMathInElement(document.body); </script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/photoswipe/4.1.1/photoswipe.min.js" integrity="sha256-UplRCs9v4KXVJvVY+p+RSo5Q4ilAUXh7kpjyIP5odyc=" crossorigin="anonymous"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/photoswipe/4.1.1/photoswipe-ui-default.min.js" integrity="sha256-PWHOlUzc96pMc8ThwRIXPn8yH4NOLu42RQ0b9SpnpFk=" crossorigin="anonymous"></script>
+<script src="/js/load-photoswipe.js"></script>
+
+
+
+  </body>
+</html>
+
