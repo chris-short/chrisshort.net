@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Npm on Chris Short</title>
+    <link>/tags/npm/</link>
+    <description>Recent content in Npm on Chris Short</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Mon, 23 May 2016 21:44:50 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/npm/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Poorly Documented Dependencies</title>
+      <link>/poorly-documented-dependencies/</link>
+      <pubDate>Mon, 23 May 2016 21:44:50 +0000</pubDate>
+      
+      <guid>/poorly-documented-dependencies/</guid>
+      <description>Few things irritate me more than poorly documented dependencies. If your tool or software documentation states you can install your widget with one command and it does not work you are probably annoying people.
+Consider this a running list of tools and their often not well documented dependency chains. Feel free to chime in with your examples in the comments.
+   (adsbygoogle = window.adsbygoogle || []).push({});  Ansible</description>
+    </item>
+    
+  </channel>
+</rss>

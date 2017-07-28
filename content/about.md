@@ -1,7 +1,7 @@
 +++
 author = "Chris Short"
 date = 2016-04-17T18:00:00Z
-description = ""
+description = "About"
 draft = false
 slug = "about"
 title = "About"
@@ -29,32 +29,6 @@ Chris has also contributed to guides and books:
 * [DevOps: Continuous Delivery and Automation](https://dzone.com/guides/devops-continuous-delivery-and-automation?oid=devcs)
 * [The Open Organization Guide to IT Culture Change](https://opensource.com/open-organization/17/6/open-org-it-culture-now-available)
 
-
-### Social Media
-
-500px: [chrisshort](https://500px.com/chrisshort)
-Facebook: [thechrisshort](https://www.facebook.com/thechrisshort)
-Flickr: [chris-short](https://www.flickr.com/photos/chris-short)
-Foursquare: [chrisshort](https://foursquare.com/chrisshort)
-GitHub: [chris-short](https://github.com/chris-short)
-Google+: [ChrisShort](https://plus.google.com/+ChrisShort/)
-Instagram: [thechrisshort](https://www.instagram.com/thechrisshort/)
-Keybase: [chrisshort](https://keybase.io/chrisshort)
-LinkedIn: [christopherbshort](https://linkedin.com/in/christopherbshort)
-Medium: [@chrisshort](https://medium.com/@chrisshort/)
-Snapchat: [oaf357](https://www.snapchat.com/add/oaf357)
-Tumblr: [chrisshort](http://chrisshort.tumblr.com/)
-Twitter: [@ChrisShort](https://twitter.com/ChrisShort)
-
 ### PGP Public Key
 
-Keybase: [keybase.io/chrisshort/key.asc](https://keybase.io/chrisshort/key.asc)
 MIT: [BFD23BF8](http://pgp.mit.edu:11371/pks/lookup?op=get&search=0x0210E38FBFD23BF8)
-
-### Logo: Why the Shrug?
-
-Previous versions of chrisshort.net have had just a text based logo. This was simple but never really did it for me. I wanted to add something simple but nothing was coming to mind. "What shape defines you?" I asked myself. Simply nothing came to mind.
-
-I was iMessaging my wife one afternoon and decided to ask for her input on a logo for the site. She said the text based logo was very plain (I agreed but conceded I was no graphic artist). Then she responded with ¯\\\_(ツ)\_/¯
-
-The chrisshort.net logo was then born. We will see how long it sticks around.

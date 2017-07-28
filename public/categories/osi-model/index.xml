@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Osi Model on Chris Short</title>
+    <link>/categories/osi-model/</link>
+    <description>Recent content in Osi Model on Chris Short</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Sun, 13 Nov 2016 18:37:06 +0000</lastBuildDate>
+    
+	<atom:link href="/categories/osi-model/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Drawing: OSI Model</title>
+      <link>/drawing-osi-model/</link>
+      <pubDate>Sun, 13 Nov 2016 18:37:06 +0000</pubDate>
+      
+      <guid>/drawing-osi-model/</guid>
+      <description>The Open Systems Interconnection model (OSI model) defines a concept where every function of a computing system resides at one of its seven levels. When people say, &amp;ldquo;Layer 3 routing&amp;rdquo; or &amp;ldquo;L7 load balancing&amp;rdquo; they are referring to the OSI Model.
+It is an incredibly handy tool for troubleshooting as it reminds you to check the system at each layer. The official documentation on the OSI Model can be found on the ISO site (yes, that&amp;rsquo;s confusing).</description>
+    </item>
+    
+  </channel>
+</rss>

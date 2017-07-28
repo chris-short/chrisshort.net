@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tech Control on Chris Short</title>
+    <link>/categories/tech-control/</link>
+    <description>Recent content in Tech Control on Chris Short</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Fri, 05 Aug 2005 17:33:00 +0000</lastBuildDate>
+    
+	<atom:link href="/categories/tech-control/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>3C2X1: Communications - Computer Systems Controller</title>
+      <link>/3c2x1-tech-control/</link>
+      <pubDate>Fri, 05 Aug 2005 17:33:00 +0000</pubDate>
+      
+      <guid>/3c2x1-tech-control/</guid>
+      <description>3C2X1 Specialty Summary: Monitors and controls performance of networks and communications-computer systems (C-CS). Coordinates their configuration, operation, restoration, and service improvements. Analyzes their capabilities and performance, identifies problems, and takes corrective action. Directs and makes operational adjustments to C-CS equipment.
+   (adsbygoogle = window.adsbygoogle || []).push({});  A skill level replaces the &amp;ldquo;X&amp;rdquo; in 3C2X1. Skill levels should be viewed as one&amp;rsquo;s ability or aptitude to perform their job.</description>
+    </item>
+    
+  </channel>
+</rss>

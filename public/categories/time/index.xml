@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Time on Chris Short</title>
+    <link>/categories/time/</link>
+    <description>Recent content in Time on Chris Short</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Wed, 02 Nov 2016 11:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/categories/time/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>NTP: I Need You to Go Ahead and Love It</title>
+      <link>/ntp-i-need-you-to-go-ahead-and-love-it/</link>
+      <pubDate>Wed, 02 Nov 2016 11:00:00 +0000</pubDate>
+      
+      <guid>/ntp-i-need-you-to-go-ahead-and-love-it/</guid>
+      <description>It&amp;rsquo;s 2016 (almost 2017) why is the time off on your system clocks? It became apparent to me that there are some folks out there that do not realize their clocks are off for a reason. My Twitter buddy Julia Evans recently made a graphic about distributed systems that mentioned clock issues and it made me really sad.
+Photo Credit: Julia Evans
+We had a saying when I was in the Air Force, &amp;ldquo;Timing is everything.</description>
+    </item>
+    
+  </channel>
+</rss>

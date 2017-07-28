@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Microsoft on Chris Short</title>
+    <link>/tags/microsoft/</link>
+    <description>Recent content in Microsoft on Chris Short</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Thu, 09 Jun 2016 22:24:02 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/microsoft/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Microsoft Remote Desktop for Mac</title>
+      <link>/microsoft-remote-desktop-for-mac/</link>
+      <pubDate>Thu, 09 Jun 2016 22:24:02 +0000</pubDate>
+      
+      <guid>/microsoft-remote-desktop-for-mac/</guid>
+      <description>On June 1, 2016, Microsoft released an update to it&amp;rsquo;s Remote Desktop client for Mac OS X via the Mac App Store. The update to version 8.0.32 broke some functionality for people. The most commonly reported error I have seen is &amp;ldquo;Connection reset to peer&amp;rdquo; before authentication.
+   (adsbygoogle = window.adsbygoogle || []).push({});  Sadly, unless you have a Time Machine backup to grab the old version from you are likely going to have to find an alternative.</description>
+    </item>
+    
+    <item>
+      <title>What&#39;s Wrong with Microsoft&#39;s Windows 10 Marketing</title>
+      <link>/whats-wrong-with-microsofts-windows-10-marketing/</link>
+      <pubDate>Tue, 06 Oct 2015 04:13:00 +0000</pubDate>
+      
+      <guid>/whats-wrong-with-microsofts-windows-10-marketing/</guid>
+      <description>I was reading through Wired magazine and saw a Windows 10 ad. If you&amp;rsquo;ve turned on a TV the past month you&amp;rsquo;ve seen the ad I&amp;rsquo;m referring to, this is just the print edition of the TV ad.
+   (adsbygoogle = window.adsbygoogle || []).push({});   She won&amp;rsquo;t have to remember passwords.
+Or obsess about security.
+To her, every screen is meant to be touched.
+ And so on&amp;hellip; (here&amp;rsquo;s the full ad if you really want to see it).</description>
+    </item>
+    
+    <item>
+      <title>Windows XP and Big Hard Drives</title>
+      <link>/windows-xp-and-big-hard-drives/</link>
+      <pubDate>Wed, 05 Jan 2005 04:16:00 +0000</pubDate>
+      
+      <guid>/windows-xp-and-big-hard-drives/</guid>
+      <description>After having issues with a Western Digital 200 GB hard drive and Windows XP I thought it would be beneficial to put my notes into some sort of guide for other people that might have a problem with Windows and drives that are bigger than 137 GB (128 GB binary).
+   (adsbygoogle = window.adsbygoogle || []).push({});  Windows XP Service Pack 1 eliminates the 137 GB (128 GB binary) barrier (Windows XP SP1 includes 48-bit LBA support for ATAPI disk drives).</description>
+    </item>
+    
+    <item>
+      <title>Microsoft and the Death of the Internet</title>
+      <link>/microsoft-and-the-death-of-the-internet/</link>
+      <pubDate>Thu, 09 Oct 2003 02:30:00 +0000</pubDate>
+      
+      <guid>/microsoft-and-the-death-of-the-internet/</guid>
+      <description>Microsoft and its products and services are slowly destroying the Internet or at the very least changing the dynamics of the Internet. There are three main reasons for this rift in the Internet. The first reason is Microsoft&amp;rsquo;s standards. The second reason is the popularity of Microsoft software. The final reason is the security (or lack thereof) of Microsoft software. When you combine these three reasons together you get a potential Internet killer.</description>
+    </item>
+    
+    <item>
+      <title>Microsoft and Open Source</title>
+      <link>/microsoft-and-open-source/</link>
+      <pubDate>Thu, 06 Mar 2003 05:16:00 +0000</pubDate>
+      
+      <guid>/microsoft-and-open-source/</guid>
+      <description>For the past year or so Microsoft has repeatedly said no to Open Source and more recently after numerous attempts to say no has opened up some of its source code to various businesses and governments. Imagine a world where Microsoft Windows and Office were totally open. That&amp;rsquo;s not likely; so let&amp;rsquo;s imagine a world where Microsoft made its products a little more open.
+   (adsbygoogle = window.adsbygoogle || []).</description>
+    </item>
+    
+  </channel>
+</rss>

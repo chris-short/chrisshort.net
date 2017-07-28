@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Apple Keychain on Chris Short</title>
+    <link>/tags/apple-keychain/</link>
+    <description>Recent content in Apple Keychain on Chris Short</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Tue, 06 Oct 2015 20:54:19 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/apple-keychain/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Mac OS X El Capitan and Junos Pulse</title>
+      <link>/mac-os-x-el-capitan-and-junos-pulse/</link>
+      <pubDate>Tue, 06 Oct 2015 20:54:19 +0000</pubDate>
+      
+      <guid>/mac-os-x-el-capitan-and-junos-pulse/</guid>
+      <description>I had some Apple Keychain issues after upgrading to Mac OS X El Capitan yesterday. Apple provided a reasonable resolution (blow away the login Apple Keychain and re-create it). As it turns out, my issues weren&amp;rsquo;t limited to just the El Capitan upgrade. The Juniper Networks&amp;rsquo; VPN client, Junos Pulse, has some pretty awful issues.
+   (adsbygoogle = window.adsbygoogle || []).push({});  The behavior went something like this: 1.</description>
+    </item>
+    
+    <item>
+      <title>Mac OS X El Capitan: Keychain Issues</title>
+      <link>/mac-os-x-el-capitan-keychain-issues/</link>
+      <pubDate>Mon, 05 Oct 2015 20:42:04 +0000</pubDate>
+      
+      <guid>/mac-os-x-el-capitan-keychain-issues/</guid>
+      <description>I started having some Apple Keychain issues after upgrading to Mac OS X El Capitan. At random, I would be asked to sign back into accounts that I am logged into through Internet Accounts in System Preferences.
+   (adsbygoogle = window.adsbygoogle || []).push({});  I thought it a minor issue but it became unavoidable though once El Capitan told me it couldn&amp;rsquo;t find my login Apple Keychain after logging in:</description>
+    </item>
+    
+  </channel>
+</rss>

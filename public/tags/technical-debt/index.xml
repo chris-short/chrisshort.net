@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Technical Debt on Chris Short</title>
+    <link>/tags/technical-debt/</link>
+    <description>Recent content in Technical Debt on Chris Short</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Tue, 09 Aug 2016 18:13:30 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/technical-debt/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Technical Debt and the Ongoing Battle Against It</title>
+      <link>/technical-debt-and-the-ongoing-battle-against-it/</link>
+      <pubDate>Tue, 09 Aug 2016 18:13:30 +0000</pubDate>
+      
+      <guid>/technical-debt-and-the-ongoing-battle-against-it/</guid>
+      <description>I have been trying to fit a lot of square pegs into round holes lately. Eliminating technical debt with modern day DevOps practices to reduce costs is seldom fun or glamorous but is very often beneficial. Reducing costs should be the mindset of IT and one surefire way to do that is to spend the right amount of time on a task to complete it successfully. Finding that balance is definitely tricky especially when a lot of us are human time division multiplexers now.</description>
+    </item>
+    
+  </channel>
+</rss>

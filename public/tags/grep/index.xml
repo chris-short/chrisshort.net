@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Grep on Chris Short</title>
+    <link>/tags/grep/</link>
+    <description>Recent content in Grep on Chris Short</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Tue, 22 Sep 2015 23:56:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/grep/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Grep Multiple Ansible Vault Files</title>
+      <link>/grep-multiple-ansible-vault-files/</link>
+      <pubDate>Tue, 22 Sep 2015 23:56:00 +0000</pubDate>
+      
+      <guid>/grep-multiple-ansible-vault-files/</guid>
+      <description>Here&amp;rsquo;s a handy one-liner to grep multiple Ansible Vault files (like group_vars). All you need is an Ansible Vault password file (outside of your configuration repo, please) and a little bash.
+   (adsbygoogle = window.adsbygoogle || []).push({});  ls -1 | while read N ; do echo -n $N: ; ansible-vault --vault-password-file ~/.ansible_vault view $N | grep  ; done </description>
+    </item>
+    
+  </channel>
+</rss>

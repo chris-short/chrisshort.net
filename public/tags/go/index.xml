@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Go on Chris Short</title>
+    <link>/tags/go/</link>
+    <description>Recent content in Go on Chris Short</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Wed, 26 Jul 2017 23:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/go/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>GopherCon 2017 Lightning Talk Video</title>
+      <link>/gophercon-2017-lightning-talk-video/</link>
+      <pubDate>Wed, 26 Jul 2017 23:00:00 +0000</pubDate>
+      
+      <guid>/gophercon-2017-lightning-talk-video/</guid>
+      <description>Video of all the GopherCon 2017 talks are now available. Fifty-eight videos in all; it&amp;rsquo;s almost like being there. You can watch Ashley McNamara&amp;rsquo;s goosebump inducing talk, Kris Nova&amp;rsquo;s refreshing take on purging technical debt from kops, or Sam Boyer&amp;rsquo;s dep talk.
+My lightning talk, Golang to the rescue: Saving DevOps from TLS turmoil, is also available. Give it a watch when you have a moment. It&amp;rsquo;s not my best work but, the only way to get better is to keep at it.</description>
+    </item>
+    
+    <item>
+      <title>Testing Certificate Chains in Go</title>
+      <link>/testing-certificate-chains-in-go/</link>
+      <pubDate>Sat, 22 Jul 2017 22:23:32 +0000</pubDate>
+      
+      <guid>/testing-certificate-chains-in-go/</guid>
+      <description>This talk was derived from an opensource.com article I wrote in April 2017, Golang to the rescue: Saving DevOps from TLS turmoil. Presented at GopherCon 2017 as a Lightning Talk. Source for the talk is available on GitHub.
+Introduction Chris Short
+ Manager of DevOps at Bankrate opensource.com and DZone Contributor Contributed to The Open Organization Guide to IT Culture Change DevOpsDays Speaker and Organizer DevOps&amp;rsquo;ish chrisshort.net @ChrisShort  Notes:</description>
+    </item>
+    
+  </channel>
+</rss>

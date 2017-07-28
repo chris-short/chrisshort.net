@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Devopsdays on Chris Short</title>
+    <link>/tags/devopsdays/</link>
+    <description>Recent content in Devopsdays on Chris Short</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Thu, 13 Oct 2016 19:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/devopsdays/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>What The Military Taught Me About DevOps</title>
+      <link>/what-the-military-taught-me-about-devops/</link>
+      <pubDate>Thu, 13 Oct 2016 19:00:00 +0000</pubDate>
+      
+      <guid>/what-the-military-taught-me-about-devops/</guid>
+      <description>I was invited to speak at DevOpsDays Detroit 2016. I had a fantastic time speaking with the crowd in Detroit. This talk was my first foray into the talk world. I went long and could probably optimize the content of the slides (less words). However, I was very happy with the positive feedback and was blown away by how great the DevOpsDays volunteers and organizers.
+ Photo: Bridget Kromhout</description>
+    </item>
+    
+  </channel>
+</rss>

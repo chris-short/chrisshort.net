@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Oncall on Chris Short</title>
+    <link>/categories/oncall/</link>
+    <description>Recent content in Oncall on Chris Short</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Wed, 05 Oct 2016 20:56:00 +0000</lastBuildDate>
+    
+	<atom:link href="/categories/oncall/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Notes on PagerDuty</title>
+      <link>/notes-on-pagerduty/</link>
+      <pubDate>Wed, 05 Oct 2016 20:56:00 +0000</pubDate>
+      
+      <guid>/notes-on-pagerduty/</guid>
+      <description>I have recently been added on to a PagerDuty rotation. I am sure numerous on-call people have a lot of different strategies to managing their rotations. However, there were two pieces of information I immediately wanted from PagerDuty:
+ Can I add my on-call rotation to my Google Calendar or Mac Calendar app? What number is going to call me in the middle of the night to wake me up?  The answer to both those questions is an astounding, &amp;ldquo;YES!</description>
+    </item>
+    
+  </channel>
+</rss>

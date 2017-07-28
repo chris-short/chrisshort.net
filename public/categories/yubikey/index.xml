@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Yubikey on Chris Short</title>
+    <link>/categories/yubikey/</link>
+    <description>Recent content in Yubikey on Chris Short</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Sat, 27 Feb 2016 18:40:10 +0000</lastBuildDate>
+    
+	<atom:link href="/categories/yubikey/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Yubikey 4 Nano Demands Use of yubiswitch</title>
+      <link>/yubikey-4-nano-demands-use-of-yubiswitch/</link>
+      <pubDate>Sat, 27 Feb 2016 18:40:10 +0000</pubDate>
+      
+      <guid>/yubikey-4-nano-demands-use-of-yubiswitch/</guid>
+      <description>As more and more security policies demand the use of multi-factor authentication the number of times a day you use a multi-factor token will increase. Hopefully that number will not increase to a level that throws the balance of security and convenience towards the annoyingly secure side of the scale. But, if that ever does happen hopefully you can use an Yubikey as your token.
+   (adsbygoogle = window.</description>
+    </item>
+    
+  </channel>
+</rss>

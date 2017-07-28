@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Open Source on Chris Short</title>
+    <link>/tags/open-source/</link>
+    <description>Recent content in Open Source on Chris Short</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Tue, 06 Jun 2017 12:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/open-source/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>The Open Organization Guide to IT Culture Change</title>
+      <link>/the-open-organization-guide-to-it-culture-change/</link>
+      <pubDate>Tue, 06 Jun 2017 12:00:00 +0000</pubDate>
+      
+      <guid>/the-open-organization-guide-to-it-culture-change/</guid>
+      <description>The open organization community at Opensource.com (of which I&amp;rsquo;m a member) is pleased to announce the immediate release of its newest book, The Open Organization Guide to IT Culture Change.
+As IT teams around the world rise to these new challenges, they&amp;rsquo;re realizing that radical change isn&amp;rsquo;t a matter of tools alone. It&amp;rsquo;s also a matter of culture—the values that underpin behaviors, influence problem-solving capability, and facilitate truly revolutionary potential. Those values are open values.</description>
+    </item>
+    
+    <item>
+      <title>Recent Accomplishments</title>
+      <link>/recent-accomplishments/</link>
+      <pubDate>Fri, 03 Feb 2017 13:03:00 +0000</pubDate>
+      
+      <guid>/recent-accomplishments/</guid>
+      <description>I feel like I should say I don&amp;rsquo;t like to toot my own horn. But, if I don&amp;rsquo;t toot it who will? December and January were very busy months for me and February is definitely going to be busy. You should always be working outside your personal and professional comfort zones.
+Last month, a DZone editor reached out to me asking to write a piece for the DZone DevOps: Continuous Delivery and Automation guide.</description>
+    </item>
+    
+    <item>
+      <title>Microsoft and Open Source</title>
+      <link>/microsoft-and-open-source/</link>
+      <pubDate>Thu, 06 Mar 2003 05:16:00 +0000</pubDate>
+      
+      <guid>/microsoft-and-open-source/</guid>
+      <description>For the past year or so Microsoft has repeatedly said no to Open Source and more recently after numerous attempts to say no has opened up some of its source code to various businesses and governments. Imagine a world where Microsoft Windows and Office were totally open. That&amp;rsquo;s not likely; so let&amp;rsquo;s imagine a world where Microsoft made its products a little more open.
+   (adsbygoogle = window.adsbygoogle || []).</description>
+    </item>
+    
+  </channel>
+</rss>

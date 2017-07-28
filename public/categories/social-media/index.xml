@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Social Media on Chris Short</title>
+    <link>/categories/social-media/</link>
+    <description>Recent content in Social Media on Chris Short</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Mon, 21 Nov 2016 13:03:00 +0000</lastBuildDate>
+    
+	<atom:link href="/categories/social-media/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>DIY Buffer using IFTTT</title>
+      <link>/diy-buffer-using-ifttt/</link>
+      <pubDate>Mon, 21 Nov 2016 13:03:00 +0000</pubDate>
+      
+      <guid>/diy-buffer-using-ifttt/</guid>
+      <description>Buffer is a great tool for scheduling and posting content to social media. But, it costs money to do any sort of real sharing. I prefer to share more content from others than I do my own. Paying money to share other people&amp;rsquo;s content is fine but not for me. I came up with an alternative that might be useful to others so here it is:
+You will need a place to save links like Pocket (Instapaper or any other comparable service that interfaces with IFTTT works).</description>
+    </item>
+    
+  </channel>
+</rss>
