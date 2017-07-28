@@ -9,6 +9,10 @@ pygmentCodeFences = true
 disqusShortname = "chrisshort"
 googleAnalytics = "UA-4498776-3"
 
+[outputs]
+  home = ["HTML", "AMP", "RSS"]
+  page = ["HTML", "AMP"]
+
 [permalinks]
   post = ":title/"
 
