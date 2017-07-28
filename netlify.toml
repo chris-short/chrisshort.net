@@ -9,3 +9,4 @@
 
 [context.deploy-preview]
   command = "hugo"
+  branch = "preview"
