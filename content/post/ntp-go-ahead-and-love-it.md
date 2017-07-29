@@ -8,6 +8,7 @@ image = "https://cdn.chrisshort.net/Trento-Mercatino_dei_Gaudenti-alarm_clocks.j
 slug = "ntp-go-ahead-and-love-it"
 tags = ["ntp", "stratum", "time", "clock", "jitter"]
 title = "NTP: I Need You to Go Ahead and Love It"
+aliases = ["/ntp-go-ahead-and-love-it/"]
 
 +++
 
