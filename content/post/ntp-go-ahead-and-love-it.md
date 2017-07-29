@@ -35,7 +35,7 @@ The problem of clocks "lying" has been solved for years. What made me sad about 
 (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
 
-##What is NTP you ask?
+## What is NTP you ask?
 
 >Network Time Protocol (NTP) is a networking protocol for clock synchronization between computer systems over packet-switched, variable-latency data networks. In operation since before 1985, NTP is one of the oldest Internet protocols in current use.
 
@@ -45,7 +45,7 @@ In a nutshell, if you properly set up NTP on your network devices and systems yo
 
 NTP utilizes UDP so it is very much a fire and forget protocol (which might be why NTP is so often unknown or poorly configured). ntpd (EL 6 or lower and Ubuntu) or chronyd (EL 7 or higher) are the Linux daemons (services) that are most commonly used to manage NTP (there are others but I have not used them lately).
 
-##NTP stratum levels
+## NTP stratum levels
 
 >Loosely following the conventions established by the telephone industry, the level of each server in the hierarchy is defined by a stratum number.  Primary servers are assigned stratum one; secondary servers at each lower level are assigned stratum numbers one greater than the preceding level.  As the stratum number increases, its accuracy degrades depending on the particular network path and system clock stability.
 
@@ -72,7 +72,7 @@ If you are running bare metal, a virtual machine host, or a Docker Engine somewh
 (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
 
-##How Does NTP Determine Quality?
+## How Does NTP Determine Quality?
 
 **NERD ALERT:** If you are not concerned with the inner workings of NTP (or more accurately ntpq) *please feel free to skip this section*.
 
@@ -128,7 +128,7 @@ But what are those symbols on the far left of the results table? The dashes (-),
 (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
 
-##NTP Pool
+## NTP Pool
 
 It is trivial to setup NTP these days thanks to the [NTP Pool Project](http://www.pool.ntp.org/). What is an NTP Pool?
 
@@ -151,7 +151,7 @@ I run an NTP pool server from my house. If you are using the pool in the US ther
 (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
 
-##How Many NTP Sources Do I Need?
+## How Many NTP Sources Do I Need?
 
 I have personally seen in far too many places where the number of NTP sources has been set too low. I have also argued with co-workers about the "right" number of NTP sources to use in your NTP configuration. My recommendation to folks new to NTP is to use the [NTP pool servers](http://www.pool.ntp.org/). However, according to [ntp.org](http://support.ntp.org/bin/view/Support/SelectingOffsiteNTPServers#Section_5.3.3.), you should have an **absolute minimum of four NTP sources** on your systems:
 

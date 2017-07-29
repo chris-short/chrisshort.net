@@ -199,7 +199,9 @@ ga('send', 'pageview');
         
           <img src="https://cdn.chrisshort.net/Trento-Mercatino_dei_Gaudenti-alarm_clocks.jpg">
         
-        <p>It&rsquo;s 2016 (almost 2017) why is the time off on your system clocks? It became apparent to me that there are some folks out there that do not realize their clocks are off for a reason. My Twitter buddy <a href="https://twitter.com/b0rk">Julia Evans</a> recently made a graphic about <a href="https://twitter.com/b0rk/status/793288477060263936">distributed systems</a> that mentioned clock issues and it made me really sad.</p>
+        
+
+<p>It&rsquo;s 2016 (almost 2017) why is the time off on your system clocks? It became apparent to me that there are some folks out there that do not realize their clocks are off for a reason. My Twitter buddy <a href="https://twitter.com/b0rk">Julia Evans</a> recently made a graphic about <a href="https://twitter.com/b0rk/status/793288477060263936">distributed systems</a> that mentioned clock issues and it made me really sad.</p>
 
 <p><img src="https://cdn.chrisshort.net/clocks-lie.jpg" alt="Clocks Lie" /></p>
 
@@ -222,7 +224,7 @@ ga('send', 'pageview');
 (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
 
-<p>##What is NTP you ask?</p>
+<h2 id="what-is-ntp-you-ask">What is NTP you ask?</h2>
 
 <blockquote>
 <p>Network Time Protocol (NTP) is a networking protocol for clock synchronization between computer systems over packet-switched, variable-latency data networks. In operation since before 1985, NTP is one of the oldest Internet protocols in current use.</p>
@@ -234,7 +236,7 @@ ga('send', 'pageview');
 
 <p>NTP utilizes UDP so it is very much a fire and forget protocol (which might be why NTP is so often unknown or poorly configured). ntpd (EL 6 or lower and Ubuntu) or chronyd (EL 7 or higher) are the Linux daemons (services) that are most commonly used to manage NTP (there are others but I have not used them lately).</p>
 
-<p>##NTP stratum levels</p>
+<h2 id="ntp-stratum-levels">NTP stratum levels</h2>
 
 <blockquote>
 <p>Loosely following the conventions established by the telephone industry, the level of each server in the hierarchy is defined by a stratum number.  Primary servers are assigned stratum one; secondary servers at each lower level are assigned stratum numbers one greater than the preceding level.  As the stratum number increases, its accuracy degrades depending on the particular network path and system clock stability.</p>
@@ -263,7 +265,7 @@ ga('send', 'pageview');
 (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
 
-<p>##How Does NTP Determine Quality?</p>
+<h2 id="how-does-ntp-determine-quality">How Does NTP Determine Quality?</h2>
 
 <p><strong>NERD ALERT:</strong> If you are not concerned with the inner workings of NTP (or more accurately ntpq) <em>please feel free to skip this section</em>.</p>
 
@@ -322,7 +324,7 @@ ga('send', 'pageview');
 (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
 
-<p>##NTP Pool</p>
+<h2 id="ntp-pool">NTP Pool</h2>
 
 <p>It is trivial to setup NTP these days thanks to the <a href="http://www.pool.ntp.org/">NTP Pool Project</a>. What is an NTP Pool?</p>
 
@@ -347,7 +349,7 @@ ga('send', 'pageview');
 (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
 
-<p>##How Many NTP Sources Do I Need?</p>
+<h2 id="how-many-ntp-sources-do-i-need">How Many NTP Sources Do I Need?</h2>
 
 <p>I have personally seen in far too many places where the number of NTP sources has been set too low. I have also argued with co-workers about the &ldquo;right&rdquo; number of NTP sources to use in your NTP configuration. My recommendation to folks new to NTP is to use the <a href="http://www.pool.ntp.org/">NTP pool servers</a>. However, according to <a href="http://support.ntp.org/bin/view/Support/SelectingOffsiteNTPServers#Section_5.3.3.">ntp.org</a>, you should have an <strong>absolute minimum of four NTP sources</strong> on your systems:</p>
 

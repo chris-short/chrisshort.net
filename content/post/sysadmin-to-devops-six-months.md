@@ -17,7 +17,7 @@ The other day my Vice President asked me a question, "What would it take to turn
 
 I had more than ten minutes worth of thoughts pop into my head within seconds of the question. A deluge of DevOps lessons learned washed over me. I realized that I needed to build a framework to help others embrace DevOps culture and thinking. It's not feasible to have a framework that does not define what you are trying to build.
 
-##What is DevOps?
+## What is DevOps?
 
 Many in the DevOps world are hesitant to define what DevOps actually is. There are also many people trying to define DevOps that sometimes miss the mark. For the sake of this discussion, DevOps is a culture! The DevOps culture is a combination of three key pieces that further define it: [*People, Processes, and Tools*](https://chrisshort.net/the-dark-side-of-devops/). Let's discuss how these three pieces can mold a good System Administrator into a DevOps engineer.
 
@@ -55,7 +55,7 @@ A sure-fire way to kill any chance of developing empathy is to throw an engineer
    (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
 
-###Processes
+### Processes
 
 How do you teach someone a process that they don't know and they aren't practicing? Example is the best thing. Sometimes good examples of DevOps best practices are hard to find in your own environment. The first process that should go in place is production work must happen through automation. Nothing should change or go out into production without being peer reviewed, tested, and logged. This is a difficult process to put in place. A common objection to the automation first mindset will be, "How do you automate something that isn't built yet?" The tooling matters to an extent in this case. But, the mentality of an automation-first process is what is most important. 
 
@@ -81,7 +81,7 @@ People learn in different ways. These two books provide a story and a guide in d
    (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
 
-###Tools
+### Tools
 
 A common misconception about DevOps is that it is all about tooling. Tools are but a fraction of the larger DevOps picture. Your DevOps teams should feel free to enable whatever tooling makes the most sense to the team. Being agnostic is important but, it is better for the business if simpler, well-known tooling is in use. For example, git may not be the easiest to use version control software but, it is the most widely known. A configuration management tool that is simple to use but has a smaller market share could end up being a bad decision as the need for talent grows. Even the creator of Ansible was not specific when suggesting the importance of a configuration management tool. A thoughtfully chosen tool to manage something is better than nothing.
 
@@ -94,7 +94,7 @@ Continuous Improvement applies not only to systems and code but to people too. I
 
 Reading newsletters cultivated by active community members (not product makers) can be helpful for continuous learning (shameless plug for [DevOps'ish](https://devopsish.com/)). Technical news sites like [lobste.rs](https://lobste.rs/), [Hacker News](https://news.ycombinator.com/) (don't read the comments), [Twitter (#DevOps)](https://twitter.com/hashtag/DevOps), etc. are also helpful at pushing new concepts to engineers. Books are fabulous resources but, there are so many they cannot be consumed in their entirety. Engineers will often have books as a reference for when needed. A subscription to O'Reilly's Safari would enable your engineers to have access to a world's worth of information for a marginal fee. It also removes some financial burden from your engineers as they look to build their libraries.
 
-##Conclusion
+## Conclusion
 
 The DevOps journey is a combination of people, processes, and tools. The culmination of these is a team of allies pushing the envelope and never resting on their laurels. There is no such thing as a completed DevOps transition. Resting on your laurels is not a DevOps mindset. DevOps and its allies should be iterating and improving upon what they have learned daily. Building a team to do anything is no simple task. But, building a person that's willing to embrace cultures and methods is an easier task. Show them a path, help them go down it, and embrace their feedback. 
 
