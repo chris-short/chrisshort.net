@@ -64,6 +64,17 @@ If you are using SSH keys (and you should be) you can add each users' key as a t
 
 The Ansible tasks are fairly simple but there was one user (snowflake) that did not want to use SSH keys (ugh) so they are going to be our special snowflake that we have to worry about setting a password on.
 
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- chrisshort.net Responsive -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-8972983586873269"
+     data-ad-slot="1297095894"
+     data-ad-format="auto"></ins>
+<script>
+   (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **SECURITY NOTE**: Best practice would be to set all these accounts to have random passwords and force the users to change them upon login. However, the assumption was made that the users we were speaking of for this use case were setting their passwords the instant they logged in. Please reference "[How do I generate crypted passwords for the user module?](http://docs.ansible.com/ansible/faq.html#how-do-i-generate-crypted-passwords-for-the-user-module)" for details on creating passwords for use with Ansible.
 
 <pre><code>---

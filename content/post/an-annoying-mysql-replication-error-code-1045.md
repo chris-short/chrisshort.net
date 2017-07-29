@@ -11,6 +11,11 @@ title = "An Annoying MySQL Replication Error Code: 1045"
 
 +++
 
+I was fixing MySQL replication on a slave this past week. Everything seemed to be ready to go after bringing data over from the master manually. I went to connect the slave to the master and nothing happened.  Whaaaaaa?
+
+<pre><code class="language-bash">Last_IO_Errno: 1045
+Last_IO_Error: error connecting to master 'repl@blah.local:3306' - retry-time: 60 retries: 86400</code></pre>
+
 <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 <!-- chrisshort.net Responsive -->
 <ins class="adsbygoogle"
@@ -21,11 +26,6 @@ title = "An Annoying MySQL Replication Error Code: 1045"
 <script>
    (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
-
-I was fixing MySQL replication on a slave this past week. Everything seemed to be ready to go after bringing data over from the master manually. I went to connect the slave to the master and nothing happened.  Whaaaaaa?
-
-<pre><code class="language-bash">Last_IO_Errno: 1045
-Last_IO_Error: error connecting to master 'repl@blah.local:3306' - retry-time: 60 retries: 86400</code></pre>
 
 Let me look up [MySQL error code 1045](https://dev.mysql.com/doc/refman/5.6/en/error-messages-server.html#error_er_access_denied_error):
 
