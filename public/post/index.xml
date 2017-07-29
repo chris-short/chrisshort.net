@@ -578,8 +578,8 @@ To her, every screen is meant to be touched.
       <pubDate>Mon, 05 Oct 2015 16:53:18 +0000</pubDate>
       
       <guid>/an-annoying-mysql-replication-error-code-1045/</guid>
-      <description>(adsbygoogle = window.adsbygoogle || []).push({});  I was fixing MySQL replication on a slave this past week. Everything seemed to be ready to go after bringing data over from the master manually. I went to connect the slave to the master and nothing happened. Whaaaaaa?
-Last_IO_Errno: 1045 Last_IO_Error: error connecting to master &#39;repl@blah.local:3306&#39; - retry-time: 60 retries: 86400 Let me look up MySQL error code 1045:
+      <description>I was fixing MySQL replication on a slave this past week. Everything seemed to be ready to go after bringing data over from the master manually. I went to connect the slave to the master and nothing happened. Whaaaaaa?
+Last_IO_Errno: 1045 Last_IO_Error: error connecting to master &#39;repl@blah.local:3306&#39; - retry-time: 60 retries: 86400    (adsbygoogle = window.adsbygoogle || []).push({});  Let me look up MySQL error code 1045:
 Error: 1045 SQLSTATE: 28000 (ER_ACCESS_DENIED_ERROR) Message: Access denied for user &#39;%s&#39;@&#39;%s&#39; (using password: %s) That&amp;rsquo;s not helpful.</description>
     </item>
     
