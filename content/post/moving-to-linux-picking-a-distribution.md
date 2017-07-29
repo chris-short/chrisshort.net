@@ -7,6 +7,7 @@ draft = false
 slug = "moving-to-linux-picking-a-distribution"
 tags = ["linux"]
 title = "Moving to Linux - Picking a Distribution"
+aliases = ["moving-to-linux-picking-a-distribution"]
 
 +++
 

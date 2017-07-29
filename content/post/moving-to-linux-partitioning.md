@@ -7,6 +7,7 @@ draft = false
 slug = "moving-to-linux-partitioning"
 tags = ["linux"]
 title = "Moving to Linux - Partitioning"
+aliases ["moving-to-linux-partitioning"]
 
 +++
 

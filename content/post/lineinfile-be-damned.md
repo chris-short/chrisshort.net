@@ -11,7 +11,7 @@ title = "lineinfile be damned"
 
 +++
 
-The [Ansible](https://chrisshort.net/tag/ansible/) [lineinfile](http://docs.ansible.com/ansible/lineinfile_module.html) module is designed to search a file for a line, and ensure that it is present or absent. lineinfile is very effective at that particular task. However, when the line has to be in a certain place or before or after a certain line, lineinfile becomes a hassle to manage.
+The [Ansible](https://chrisshort.net/tags/ansible/) [lineinfile](http://docs.ansible.com/ansible/lineinfile_module.html) module is designed to search a file for a line, and ensure that it is present or absent. lineinfile is very effective at that particular task. However, when the line has to be in a certain place or before or after a certain line, lineinfile becomes a hassle to manage.
 
 <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 <!-- chrisshort.net Responsive -->

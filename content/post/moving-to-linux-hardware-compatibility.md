@@ -7,6 +7,7 @@ draft = false
 slug = "moving-to-linux-hardware-compatibility"
 tags = ["linux", "hardware"]
 title = "Moving to Linux - Hardware Compatibility"
+aliases = ["moving-to-linux-hardware-compatibility"]
 
 +++
 

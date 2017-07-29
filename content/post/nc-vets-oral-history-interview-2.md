@@ -8,6 +8,7 @@ image = "https://cdn.chrisshort.net/chris-short-qatar-firing-range.jpg"
 slug = "nc-vets-oral-history-interview-2"
 tags = ["war", "communications", "iraq", "afghanistan", "veterans", "air force", "north carolina", "central command"]
 title = "North Carolina Veterans Oral History Interview Part 2"
+aliases = ["nc-vets-oral-history-interview-2"]
 
 +++
 

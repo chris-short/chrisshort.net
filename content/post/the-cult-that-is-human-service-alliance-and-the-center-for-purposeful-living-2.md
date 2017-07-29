@@ -7,6 +7,7 @@ draft = false
 slug = "the-cult-that-is-human-service-alliance-and-the-center-for-purposeful-living-2"
 tags = ["center for purposeful living"]
 title = "The Cult that is Human Service Alliance and the Center for Purposeful Living"
+aliases = ["the-cult-that-is-human-service-alliance-and-the-center-for-purposeful-living-2"]
 
 +++
 
