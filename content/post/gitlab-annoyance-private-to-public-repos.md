@@ -17,7 +17,7 @@ I was working on a new Ansible role last week and was having problems with [Test
 
 I realized that on our internal, private GitLab server a repo needed to be changed from Private to Public. I did not have rights on the repo so I pinged a co-worker who did. Once the repo was public, for some reason, Test Kitchen was still unable to pull in the role.
 
-After a significant amount of testing and tweaking this morning we found a GitLab issue titled, [Switching project from private to public, still requires authentication](https://gitlab.com/gitlab-org/gitlab-ce/issues/24947) (and [this issue pointed out by GitLab](https://gitlab.com/gitlab-org/gitlab-ce/issues/27049) in the comments below). It turns out that there is an additional dropdown to change when switching from Private to Public. Under "Feature Visibility" there is a drop down titled, "**Repository**: *Push files to be stored in this project*"
+After a significant amount of testing and tweaking this morning we found a GitLab issue titled, [Switching project from private to public, still requires authentication](https://gitlab.com/gitlab-org/gitlab-ce/issues/24947) and [this issue pointed out by GitLab](https://gitlab.com/gitlab-org/gitlab-ce/issues/27049) in the comments below. It turns out that there is an additional dropdown to change when switching from Private to Public. Under "Feature Visibility" there is a drop down titled, "**Repository**: *Push files to be stored in this project*"
 
 [![GitLab Private to Public Repo Change](https://cdn.chrisshort.net/gitlab-private-public-repo.png)](https://cdn.chrisshort.net/gitlab-private-public-repo.png)
 
