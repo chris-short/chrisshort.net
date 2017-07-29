@@ -7,6 +7,7 @@ draft = false
 slug = "a-brief-history-of-center-for-purposeful-living-by-john-david-short-2"
 tags = ["center for purposeful living"]
 title = "A Brief History of Center for Purposeful Living by John David Short"
+aliases = ["a-brief-history-of-center-for-purposeful-living-by-john-david-short-2"]
 
 +++
 

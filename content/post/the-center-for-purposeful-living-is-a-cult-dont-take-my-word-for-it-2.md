@@ -7,6 +7,7 @@ draft = false
 slug = "the-center-for-purposeful-living-is-a-cult-dont-take-my-word-for-it-2"
 tags = ["center for purposeful living"]
 title = "The Center for Purposeful Living is a Cult: Don’t Take My Word For It"
+aliases = ["the-center-for-purposeful-living-is-a-cult-dont-take-my-word-for-it-2"]
 
 +++
 
