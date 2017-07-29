@@ -4,7 +4,6 @@ categories = ["video games"]
 date = 2010-07-27T20:00:00Z
 description = ""
 draft = false
-image = "https://dl.dropboxusercontent.com/u/5796184/3762349671_3ecbc20c67.jpg"
 slug = "review-wii-sports-resort"
 tags = ["video games"]
 title = "Review: Wii Sports Resort"
