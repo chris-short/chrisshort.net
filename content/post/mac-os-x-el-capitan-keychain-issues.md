@@ -50,4 +50,4 @@ After some reboots I'm not getting these annoying "re-sign in" messages. But, I 
 
 **EDIT (10/5/2015 at 1340 ET)**: The resolution to my Junos Pulse issue was short lived. Upon trying to re-connect to a Junos Pulse VPN it literally forces the 'login' keychain to become unusable. Upon reboot everything seems to be working okay. More to follow... Hopefully.
 
-**EDIT (10/7/2015)**: [Mac OS X El Capitan and Junos Pulse](https://chrisshort.net/mac-os-x-el-capitan-and-junos-pulse/) explains what's going on.
+**EDIT (10/7/2015)**: [Mac OS X El Capitan and Junos Pulse](/mac-os-x-el-capitan-and-junos-pulse/) explains what's going on.

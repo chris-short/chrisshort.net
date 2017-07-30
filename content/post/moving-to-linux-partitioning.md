@@ -11,7 +11,7 @@ aliases = ["moving-to-linux-partitioning"]
 
 +++
 
-After deciding to make the [move to Linux](https://chrisshort.net/moving-to-linux/), determining that my [hardware is compatible with Linux](https://chrisshort.net/moving-to-linux-hardware-compatibility/), and after [picking a Linux distro](https://chrisshort.net/moving-to-linux-picking-a-distribution/) it's time to decide how to partition my hard drive.
+After deciding to make the [move to Linux](/moving-to-linux/), determining that my [hardware is compatible with Linux](/moving-to-linux-hardware-compatibility/), and after [picking a Linux distro](/moving-to-linux-picking-a-distribution/) it's time to decide how to partition my hard drive.
 
 <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 <!-- chrisshort.net Responsive -->
@@ -24,7 +24,7 @@ After deciding to make the [move to Linux](https://chrisshort.net/moving-to-linu
    (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
 
-Unlike Microsoft Windows where one partition is usually the case, Linux users agree that a few partitions should be made for certain paths that Linux uses. I've done some research on the [Linux Directory Structure](https://chrisshort.net/linux-directory-structure/) and that would be very helpful information to read before continuing if you're not too familiar with Linux already.
+Unlike Microsoft Windows where one partition is usually the case, Linux users agree that a few partitions should be made for certain paths that Linux uses. I've done some research on the [Linux Directory Structure](/linux-directory-structure/) and that would be very helpful information to read before continuing if you're not too familiar with Linux already.
 
 A lot of people agree that the only things a home user should have to really worry about, in terms of partitioning are a swap partition and the root partition. Swap is similar to the Windows page file or virtual memory (virtual memory is the total of RAM and swap space). Root is used in Linux as the directory that everything else falls under, even devices (like hard drives, CD-ROMs, etc.). In most cases a home user really should just have a swap and root partition, it keeps things simple. But in my case I'm going to be using a huge drive (200 GB) and want certain things sorted a certain way. I also want the ability of positioning things on the hard disk so that MP3s for example aren't sharing the same space with critical files and documents. I'll also be using a second hard drive (20 GB) for simple file storage and activities that have a high disk usage (burning CDs).
 
@@ -87,4 +87,4 @@ My 20 GB drive will utilize similar organizational and performance tweaks. As me
 
 This overall partitioning scheme allows the most flexibility and best performance for my needs. This scheme is also customized to the needs of my household and simply won't work for everyone.
 
-**Resources**: [Linux Directory Structure](https://chrisshort.net/linux-directory-structure/), [Linux Partition HOWTO](http://www.tldp.org/HOWTO/Partition/index.html), [comp.os.linux](https://groups.google.com/forum/#!search/comp.os.linux)
+**Resources**: [Linux Directory Structure](/linux-directory-structure/), [Linux Partition HOWTO](http://www.tldp.org/HOWTO/Partition/index.html), [comp.os.linux](https://groups.google.com/forum/#!search/comp.os.linux)

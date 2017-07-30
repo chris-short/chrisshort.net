@@ -20,7 +20,7 @@ I had more than ten minutes worth of thoughts pop into my head within seconds of
 
 ## What is DevOps?
 
-Many in the DevOps world are hesitant to define what DevOps actually is. There are also many people trying to define DevOps that sometimes miss the mark. For the sake of this discussion, DevOps is a culture! The DevOps culture is a combination of three key pieces that further define it: [*People, Processes, and Tools*](https://chrisshort.net/the-dark-side-of-devops/). Let's discuss how these three pieces can mold a good System Administrator into a DevOps engineer.
+Many in the DevOps world are hesitant to define what DevOps actually is. There are also many people trying to define DevOps that sometimes miss the mark. For the sake of this discussion, DevOps is a culture! The DevOps culture is a combination of three key pieces that further define it: [*People, Processes, and Tools*](https:///the-dark-side-of-devops/). Let's discuss how these three pieces can mold a good System Administrator into a DevOps engineer.
 
 <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 <!-- chrisshort.net Responsive -->
