@@ -7,6 +7,7 @@ draft = false
 slug = "drawing-dns-is-awesome"
 tags = ["DNS", "drawing"]
 title = "Drawing: DNS is Awesome"
+aliases = ["dns-is-awesome"]
 
 +++
 

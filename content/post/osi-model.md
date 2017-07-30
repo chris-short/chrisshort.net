@@ -7,6 +7,7 @@ draft = false
 slug = "osi-model"
 tags = ["drawing", "OSI Model"]
 title = "Drawing: OSI Model"
+aliases = ["osi-model"]
 
 +++
 
