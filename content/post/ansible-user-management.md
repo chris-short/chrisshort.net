@@ -8,6 +8,7 @@ image = "https://cdn.chrisshort.net/ansible_circleA_blue.png"
 slug = "ansible-user-management"
 tags = ["ansible", "DevOps"]
 title = "User Management with Ansible"
+aliases = ["ansible-user-management"]
 
 +++
 

@@ -8,6 +8,7 @@ image = "https://cdn.chrisshort.net/php-logo-large-white.png"
 slug = "php-memory-relationships"
 tags = ["php", "memory", "drawing"]
 title = "PHP Memory Directives Relationship"
+aliases = ["php-memory-relationships"]
 
 +++
 

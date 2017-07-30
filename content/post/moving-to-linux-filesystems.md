@@ -7,6 +7,7 @@ draft = false
 slug = "moving-to-linux-filesystems"
 tags = ["linux", "xfs", "ext2", "ext3", "filesystems"]
 title = "Moving to Linux - Filesystems"
+aliases = ["moving-to-linux-filesystems"]
 
 +++
 

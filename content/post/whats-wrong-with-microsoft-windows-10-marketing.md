@@ -8,6 +8,7 @@ image = "https://cdn.chrisshort.net/win10_ad.jpg"
 slug = "whats-wrong-with-microsoft-windows-10-marketing"
 tags = ["microsoft", "windows 10", "marketing"]
 title = "What's Wrong with Microsoft's Windows 10 Marketing"
+aliases = ["whats-wrong-with-microsoft-windows-10-marketing"]
 
 +++
 

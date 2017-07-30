@@ -7,6 +7,7 @@ draft = false
 slug = "tim-tebow-seed-working-out-on-a-usc-baseball-field"
 tags = ["tim tebow", "florida gators"]
 title = "Tim Tebow seen working out on a USC baseball field"
+aliases = ["tim-tebow-seed-working-out-on-a-usc-baseball-field"]
 
 +++
 

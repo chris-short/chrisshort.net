@@ -7,6 +7,7 @@ draft = false
 slug = "moving-to-linux-linux-hopes-dashed"
 tags = ["linux"]
 title = "Moving to Linux - Linux Hopes Dashed"
+aliases = ["moving-to-linux-linux-hopes-dashed"]
 
 +++
 
