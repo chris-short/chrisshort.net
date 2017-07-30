@@ -1,2 +1,2 @@
-/rss        /index.xml      301
-/tag/*      /tags/:splat   301
+/rss /index.xml 301
+/tag/* /tags/:splat 301
