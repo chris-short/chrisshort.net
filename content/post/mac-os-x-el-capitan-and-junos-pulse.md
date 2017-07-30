@@ -11,7 +11,7 @@ title = "Mac OS X El Capitan and Junos Pulse"
 
 +++
 
-I had some [Apple Keychain issues after upgrading to Mac OS X El Capitan](https://chrisshort.net/mac-os-x-el-capitan-keychain-issues/) yesterday. Apple provided a reasonable resolution (blow away the login Apple Keychain and re-create it). As it turns out, my issues weren't limited to just the El Capitan upgrade. The Juniper Networks' VPN client, Junos Pulse, has some pretty awful issues.
+I had some [Apple Keychain issues after upgrading to Mac OS X El Capitan](/mac-os-x-el-capitan-keychain-issues/) yesterday. Apple provided a reasonable resolution (blow away the login Apple Keychain and re-create it). As it turns out, my issues weren't limited to just the El Capitan upgrade. The Juniper Networks' VPN client, Junos Pulse, has some pretty awful issues.
 
 <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 <!-- chrisshort.net Responsive -->
@@ -34,7 +34,7 @@ The behavior went something like this:
 
 All hell breaks loose; Apple Keychain issues galore. Literally every Apple Keychain becomes unusable to some extent and a reboot is required to resolve the issue.
 
-The workaround is to not save passwords in the Junos Pulse client (even in the supposedly El Capitan supported version of Junos Pulse; [thank you commenter JJ Duru](https://chrisshort.net/mac-os-x-el-capitan-keychain-issues/#comment-2292351153)).
+The workaround is to not save passwords in the Junos Pulse client (even in the supposedly El Capitan supported version of Junos Pulse; [thank you commenter JJ Duru](/mac-os-x-el-capitan-keychain-issues/#comment-2292351153)).
 
 Hopefully this bug gets fixed very soon.
 

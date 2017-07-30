@@ -42,7 +42,7 @@ This is a great security enhancement for the vast majority of Mac users. But, so
    (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
 
-For example, I compile and use a few GNU utilities ([sed for example](https://chrisshort.net/gnu-sed-on-mac-os-x/)) so that I don't have to worry about BSD vs. GNU syntax changes when bouncing between my laptop and servers I'm administering.
+For example, I compile and use a few GNU utilities ([sed for example](/gnu-sed-on-mac-os-x/)) so that I don't have to worry about BSD vs. GNU syntax changes when bouncing between my laptop and servers I'm administering.
 
 Even though the [security configuration  is stored in NVRAM](https://developer.apple.com/library/mac/documentation/Security/Conceptual/System_Integrity_Protection_Guide/ConfiguringSystemIntegrityProtection/ConfiguringSystemIntegrityProtection.html) it is easy enough to disable System Integrity Protection (NOTE: The vast majority of users will never need to do this).
 

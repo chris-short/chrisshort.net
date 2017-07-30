@@ -8,7 +8,7 @@ title = "Why Do You Change Jobs So Often"
 
 +++
 
-Anyone who looks at my [resume](https://chrisshort.net/resume-cv/) or [LinkedIn](https://www.linkedin.com/in/christopherbshort) inevitably ends up asking me, "Why do you change jobs so often?" The question is an awkward one to answer. Lately I have been able to think about it more in-depth. I would like to share some of my thoughts on the frequency of my job changes.
+Anyone who looks at my [resume](/resume-cv/) or [LinkedIn](https://www.linkedin.com/in/christopherbshort) inevitably ends up asking me, "Why do you change jobs so often?" The question is an awkward one to answer. Lately I have been able to think about it more in-depth. I would like to share some of my thoughts on the frequency of my job changes.
 
 **Process:** I love processes! Repetitive tasks and infrequently completed tasks benefit greatly from well documented processes. This is something the military taught me very well. When it came to our nation's secrets **process matters *greatly*.** If your organization has IT processes that add no quantifiable or measureable value to your business or the people executing the process do not understand that value, why does the process exist? If your answer is along the lines of, "That's just how we do it," or "We've always done it this way," it is a near certainty the process needs to be re-evaluated. There is one thing processes can benefit greatly from; *automation*. Poor processes or fear of automation is a guarantee I will seek employment elsewhere.
 
