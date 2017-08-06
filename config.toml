@@ -113,6 +113,12 @@ googleAnalytics = "UA-4498776-3"
 
 [[menu.main]]
     parent = "menu"
+    name = "Detroit Go Meetup"
+    url = "https://detroitgolang.com/"
+    weight = 8
+
+[[menu.main]]
+    parent = "menu"
     name = "Tags"
     url = "tags"
     weight = 100
