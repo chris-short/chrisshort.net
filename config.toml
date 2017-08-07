@@ -1,4 +1,4 @@
-baseurl = "/"
+baseurl = "https://chrisshort.net/"
 DefaultContentLanguage = "en"
 enableemoji = "true"
 title = "Chris Short"
