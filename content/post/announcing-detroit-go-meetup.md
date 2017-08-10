@@ -1,7 +1,7 @@
 +++
 author = "Chris Short"
 categories = ["Community"]
-date = 2017-08-06T21:10:00Z
+date = 2017-08-10T17:10:00Z
 description = "Detroit Go Meetup will have its first meeting at Bankrate in Downtown Detroit on Tuesday, August 29, 2017 at 7:00 PM ET"
 draft = false
 slug = "announcing-detroit-go-meetup"
