@@ -7,6 +7,7 @@ draft = false
 slug = "announcing-detroit-go-meetup"
 tags = ["go", "golang"]
 title = "Announcing Detroit Go Meetup"
+image = "https://cdn.chrisshort.net/gopher_detroit_twitter_400x400.png"
 
 +++
 
