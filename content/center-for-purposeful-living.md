@@ -1,11 +1,11 @@
 +++
 author = "Chris Short"
-categories = ["center for purposeful living"]
+categories = ["Center for Purposeful Living"]
 date = 2015-10-03T09:18:31Z
 description = ""
 draft = false
 slug = "center-for-purposeful-living"
-tags = ["center for purposeful living"]
+tags = ["center for purposeful living", "human service alliance", "hsa"]
 title = "Center for Purposeful Living"
 
 +++

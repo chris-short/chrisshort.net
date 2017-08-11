@@ -1,6 +1,6 @@
 +++
 author = "Chris Short"
-categories = ["tech control", "technical controller", "us air force", "usaf"]
+categories = ["US Air Force"]
 date = 2005-08-05T17:33:00Z
 description = ""
 draft = false

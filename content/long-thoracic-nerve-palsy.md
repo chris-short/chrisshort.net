@@ -1,6 +1,6 @@
 +++
 author = "Chris Short"
-categories = ["long thoracic nerve", "palsy", "winged scapula"]
+categories = ["Long Thoracic Nerve Palsy"]
 date = 2015-10-03T09:57:51Z
 description = ""
 draft = false
