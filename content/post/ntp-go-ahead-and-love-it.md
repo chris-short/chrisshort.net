@@ -1,6 +1,6 @@
 +++
 author = "Chris Short"
-categories = ["ntp", "stratum", "time", "clock", "jitter"]
+categories = ["NTP"]
 date = 2016-11-02T11:00:00Z
 description = ""
 draft = false

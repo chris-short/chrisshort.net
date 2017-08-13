@@ -1,6 +1,6 @@
 +++
 author = "Chris Short"
-categories = ["ansible", "new relic", "nodejs", "npm", "yum", "dependency", "dependencies"]
+categories = ["DevOps"]
 date = 2016-05-23T21:44:50Z
 description = ""
 draft = false

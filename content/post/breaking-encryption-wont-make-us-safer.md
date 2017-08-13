@@ -1,12 +1,12 @@
 +++
 author = "Chris Short"
-categories = ["security"]
+categories = ["Security"]
 date = 2017-06-05T22:26:47Z
 description = ""
 draft = false
 image = "https://cdn.chrisshort.net/encryption.jpg"
 slug = "breaking-encryption-wont-make-us-safer"
-tags = ["security"]
+tags = ["security", "encryption"]
 title = "Breaking Encryption Won't Make Us Safer"
 
 +++

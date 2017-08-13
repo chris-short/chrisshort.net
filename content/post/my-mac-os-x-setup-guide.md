@@ -1,6 +1,6 @@
 +++
 author = "Chris Short"
-categories = ["mac os x"]
+categories = ["Apple"]
 date = 2016-06-08T19:58:34Z
 description = ""
 draft = false

@@ -1,6 +1,6 @@
 +++
 author = "Chris Short"
-categories = ["content blockers"]
+categories = ["Apple"]
 date = 2017-02-09T12:02:00Z
 description = ""
 draft = false

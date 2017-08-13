@@ -1,6 +1,6 @@
 +++
 author = "Chris Short"
-categories = ["war", "communications", "iraq", "afghanistan", "veterans", "air force", "north carolina", "central command"]
+categories = ["Air Force"]
 date = 2016-08-23T12:00:00Z
 description = ""
 draft = false

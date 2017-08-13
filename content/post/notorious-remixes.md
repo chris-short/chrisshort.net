@@ -1,6 +1,6 @@
 +++
 author = "Chris Short"
-categories = ["notorious big", "mashup", "remix"]
+categories = ["Music"]
 date = 2016-09-14T17:00:00Z
 description = "The Notorious B.I.G. was one of the best rappers ever. This is the definitive collection of the best Notorious B.I.G. remixes and mashups ever created."
 draft = false

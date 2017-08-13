@@ -1,6 +1,6 @@
 +++
 author = "Chris Short"
-categories = ["apple keychain", "apple", "mac os x", "el capitan", "junos pulse"]
+categories = ["Apple"]
 date = 2015-10-05T20:42:04Z
 description = ""
 draft = false

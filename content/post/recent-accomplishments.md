@@ -1,6 +1,6 @@
 +++
 author = "Chris Short"
-categories = ["DevOps", "open source"]
+categories = ["DevOps"]
 date = 2017-02-03T13:03:00Z
 description = ""
 draft = false

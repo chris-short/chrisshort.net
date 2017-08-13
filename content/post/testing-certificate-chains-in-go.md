@@ -1,6 +1,6 @@
 +++
 author = "Chris Short"
-categories = ["Go", "golang", "DevOps"]
+categories = ["Go", "DevOps"]
 date = 2017-07-22T22:23:32Z
 description = ""
 draft = false

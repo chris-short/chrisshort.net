@@ -1,6 +1,6 @@
 +++
 author = "Chris Short"
-categories = ["tim tebow", "florida gators"]
+categories = ["Florida Gators"]
 date = 2013-09-19T20:00:00Z
 description = ""
 draft = false

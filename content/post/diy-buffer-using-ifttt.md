@@ -1,6 +1,6 @@
 +++
 author = "Chris Short"
-categories = ["social media", "ifttt", "buffer", "drawing"]
+categories = ["Social Media"]
 date = 2016-11-21T13:03:00Z
 description = ""
 draft = false

@@ -1,6 +1,6 @@
 +++
 author = "Chris Short"
-categories = ["mysql", "replication"]
+categories = ["Databases"]
 date = 2015-10-05T16:53:18Z
 description = ""
 draft = false

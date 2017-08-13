@@ -1,6 +1,6 @@
 +++
 author = "Chris Short"
-categories = ["DNS", "drawing"]
+categories = ["DNS"]
 date = 2016-11-29T14:04:00Z
 description = ""
 draft = false

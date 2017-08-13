@@ -1,6 +1,6 @@
 +++
 author = "Chris Short"
-categories = ["food", "recipes"]
+categories = ["Recipes"]
 date = 2009-08-30T20:00:00Z
 description = ""
 draft = false

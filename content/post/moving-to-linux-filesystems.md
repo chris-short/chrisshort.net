@@ -1,6 +1,6 @@
 +++
 author = "Chris Short"
-categories = ["linux", "xfs", "ext2", "ext3", "filesystems"]
+categories = ["Linux"]
 date = 2003-05-15T01:41:00Z
 description = ""
 draft = false

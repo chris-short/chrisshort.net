@@ -1,6 +1,6 @@
 +++
 author = "Chris Short"
-categories = ["development", "culture"]
+categories = ["Culture"]
 date = 2017-07-14T21:10:22Z
 description = ""
 draft = true

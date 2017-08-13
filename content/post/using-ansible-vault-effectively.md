@@ -1,6 +1,6 @@
 +++
 author = "Chris Short"
-categories = ["ansible", "ansible-vault"]
+categories = ["Ansible"]
 date = 2015-10-17T07:53:00Z
 description = ""
 draft = false

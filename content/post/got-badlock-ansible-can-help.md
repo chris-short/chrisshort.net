@@ -1,6 +1,6 @@
 +++
 author = "Chris Short"
-categories = ["ansible", "samba", "badlock", "yum", "apt", "dpkg"]
+categories = ["Ansible"]
 date = 2016-04-12T04:57:53Z
 description = ""
 draft = false

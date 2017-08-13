@@ -1,6 +1,6 @@
 +++
 author = "Chris Short"
-categories = ["ansible", "ansible-vault", "grep"]
+categories = ["Ansible"]
 date = 2015-09-22T23:56:00Z
 description = ""
 draft = false

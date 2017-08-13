@@ -1,6 +1,6 @@
 +++
 author = "Chris Short"
-categories = ["git", "scm", "vcs", "repo"]
+categories = ["Git"]
 date = 2016-06-25T17:06:05Z
 description = ""
 draft = false

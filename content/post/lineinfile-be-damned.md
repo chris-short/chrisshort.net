@@ -1,6 +1,6 @@
 +++
 author = "Chris Short"
-categories = ["ansible", "lineinfile", "module"]
+categories = ["Ansible"]
 date = 2016-09-06T16:30:00Z
 description = ""
 draft = false

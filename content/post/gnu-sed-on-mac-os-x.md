@@ -1,6 +1,6 @@
 +++
 author = "Chris Short"
-categories = ["sed", "gnu", "bsd", "mac os x", "apple", "system integrity protection"]
+categories = ["Apple"]
 date = 2016-06-01T16:44:00Z
 description = ""
 draft = false

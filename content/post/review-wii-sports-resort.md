@@ -1,6 +1,6 @@
 +++
 author = "Chris Short"
-categories = ["video games"]
+categories = ["Video Games"]
 date = 2010-07-27T20:00:00Z
 description = ""
 draft = false

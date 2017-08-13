@@ -1,6 +1,6 @@
 +++
 author = "Chris Short"
-categories = ["niantic"]
+categories = ["Security"]
 date = 2016-07-20T14:34:00Z
 description = ""
 draft = false

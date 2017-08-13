@@ -1,6 +1,6 @@
 +++
 author = "Chris Short"
-categories = ["Yahoo", "Tumblr", "Marissa Meyer", "Verizon"]
+categories = ["Yahoo"]
 date = 2016-07-26T16:06:31Z
 description = ""
 draft = false

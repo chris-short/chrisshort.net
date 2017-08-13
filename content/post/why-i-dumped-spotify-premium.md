@@ -1,6 +1,6 @@
 +++
 author = "Chris Short"
-categories = ["spotify", "streaming music"]
+categories = ["Music"]
 date = 2012-01-07T19:06:00Z
 description = ""
 draft = false

@@ -1,6 +1,6 @@
 +++
 author = "Chris Short"
-categories = ["gitlab", "git", "test kitchen", "ansible", "DevOps"]
+categories = ["DevOps"]
 date = 2017-01-23T22:03:02Z
 description = ""
 draft = false

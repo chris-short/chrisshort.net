@@ -1,6 +1,6 @@
 +++
 author = "Chris Short"
-categories = ["firefox"]
+categories = ["Internet"]
 date = 2004-12-17T06:06:00Z
 description = ""
 draft = false

@@ -1,6 +1,6 @@
 +++
 author = "Chris Short"
-categories = ["ear piercing", "kids"]
+categories = ["Kids"]
 date = 2009-05-26T20:00:00Z
 description = ""
 draft = false

@@ -1,6 +1,6 @@
 +++
 author = "Chris Short"
-categories = ["richard childress", "richard childress racing", "air force", "nascar", "rcr", "hall of fame"]
+categories = ["Air Force"]
 date = 2016-05-27T23:16:56Z
 description = ""
 draft = false

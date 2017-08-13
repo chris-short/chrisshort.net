@@ -1,6 +1,6 @@
 +++
 author = "Chris Short"
-categories = ["center for purposeful living"]
+categories = ["Center for Purposeful Living"]
 date = 2005-12-19T22:00:00Z
 description = ""
 draft = false

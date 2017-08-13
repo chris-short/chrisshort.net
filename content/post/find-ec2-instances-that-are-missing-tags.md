@@ -1,6 +1,6 @@
 +++
 author = "Chris Short"
-categories = ["EC2", "AWS", "jq", "DevOps"]
+categories = ["DevOps"]
 date = 2017-01-26T21:37:04Z
 description = ""
 draft = false

@@ -1,6 +1,6 @@
 +++
 author = "Chris Short"
-categories = ["lastpass", "logmein", "acquisition", "security"]
+categories = ["Security"]
 date = 2015-10-09T23:03:30Z
 description = ""
 draft = false

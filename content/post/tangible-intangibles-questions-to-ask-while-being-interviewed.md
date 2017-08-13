@@ -1,6 +1,6 @@
 +++
 author = "Chris Short"
-categories = ["interview", "mac os x", "windows 10", "linux", "e-mail", "environment"]
+categories = ["Philosophy"]
 date = 2016-05-10T17:05:00Z
 description = ""
 draft = false

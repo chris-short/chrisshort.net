@@ -1,6 +1,6 @@
 +++
 author = "Chris Short"
-categories = ["hate", "fear", "understanding", "lgbt", "lgbtq"]
+categories = ["Diversity"]
 date = 2016-06-21T05:44:00Z
 description = ""
 draft = false

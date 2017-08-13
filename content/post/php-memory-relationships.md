@@ -1,6 +1,6 @@
 +++
 author = "Chris Short"
-categories = ["php", "memory", "drawing"]
+categories = ["PHP"]
 date = 2015-10-09T17:00:52Z
 description = ""
 draft = false

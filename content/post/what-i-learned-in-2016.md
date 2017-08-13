@@ -1,6 +1,6 @@
 +++
 author = "Chris Short"
-categories = ["philosophy"]
+categories = ["Philosophy"]
 date = 2017-01-01T02:45:18Z
 description = ""
 draft = false

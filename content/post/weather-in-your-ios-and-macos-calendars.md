@@ -1,6 +1,6 @@
 +++
 author = "Chris Short"
-categories = ["weather", "ios", "macos", "calendar"]
+categories = ["Apple"]
 date = 2016-07-10T20:51:00Z
 description = ""
 draft = false

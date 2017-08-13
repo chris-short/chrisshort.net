@@ -1,6 +1,6 @@
 +++
 author = "Chris Short"
-categories = ["apple", "mac os x", "el capitan", "security", "system integrity protection"]
+categories = ["Apple"]
 date = 2015-10-13T17:22:32Z
 description = ""
 draft = false
