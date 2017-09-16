@@ -13,6 +13,8 @@ aliases = ["long-thoracic-nerve-palsy-winging-scapula"]
 
 I’m Chris Short and I have **Long Thoracic Nerve (LTN) Palsy** with **Winging of the Scapula**. On October 12, 2003, during a military hurricane evacuation exercise at Avon Park Air Force Range, I managed to permanently damage my LTN leading to winging of my right scapula.
 
+My life has changed dramatically since I got hurt. Pain is something that I am constantly learning to live with and occasionally thrive with.
+
 <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 <!-- chrisshort.net Responsive -->
 <ins class="adsbygoogle"
@@ -23,8 +25,6 @@ I’m Chris Short and I have **Long Thoracic Nerve (LTN) Palsy** with **Winging 
 <script>
    (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
-
-My life has changed dramatically since I got hurt. Pain is something that I am constantly learning to live with and occasionally thrive with.
 
 ### Winging of the Scapula
 
