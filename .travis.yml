@@ -24,3 +24,4 @@ deploy:
   acl: public-read
   on:
     repo: chris-short/chrisshort.net
+    branch: master
