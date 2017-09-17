@@ -11,13 +11,13 @@ script:
 - bin/hugo
 deploy:
 - provider: pages
-  target_branch: master
   local_dir: public
   skip_cleanup: true
   github_token:
     secure: byd3JcAngLcsgvaJJdVBUfYf0+gTvyd+2NXaYutBENuUKsIoQScFKo1ut1QJZ5o7G4BDad3aLt6EQCI8M8DHCp2zPF8Bo+iwrDvbkK8n/iXDSrdWmVna3LlWUUlPeOdoH+IaZI5NsyIXOhvFxOlaZPy+brTox1laWBPECp6kOyfriE1JhPJjgsNXvnx/h/ydzhZKJXCuo+8d83U9kS2LqH/Lwd2YusZPJPLpvBiob86vnL4SNNEGKNYqZeJl/UDKkKXCjCsa+juejYfmOE665QLhmhFIbqZf7GIM+wB4a33gU3nN7l+cML0FIFnVNWCr7P4F2Z41oplpQRYirSkaJZRHJwZHBHs5//VaBSG72t8CCyrrCwDJlc+TfjBCCX/T2CANrbtasGtXXiTE3dpaO1qbcfp12mtUF2XDkRSlUleBxREAD+R1N6gAVq+931/KO0l/u22rh305+7BNP3bXdEzumM+qhcQQXBsRgxd1Fy1DX8sjgZyEXUm9RZf7vfQRCMBTm/b4luunrWoyI7OjA7QgCawJjPsTiRxqmHFK2JbEXKRsS+Ht71NwzCyFiqqQWkUvcnbNHctdTV/TOFSpxRg7mGD9dGSQ6xoGrKk4Kfc/J42i/E3LlXVQYojvuf0jphqyYtXKdDK3YF7tEuFRFNLn/Ui4Mn7D4ZJpA8VOxiY=
   on:
     branch: master
+
 - provider: gcs
   access_key_id: GOOGU2LT7AP6FT66C6RA
   secret_access_key:
