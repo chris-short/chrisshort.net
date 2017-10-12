@@ -11,10 +11,12 @@ image = "https://cdn.chrisshort.net/Dark_Side_of_DevOps_DevOpsDays_Raleigh_2017.
 
 +++
 
-As previously mentioned, [I spoke at DevOpsDays Raleigh](/devopsdays-raleigh-2017-the-dark-side-of-devops/). It was an awesome experience! Videos from the event were recently released and I wanted to share them here. The first video is from my Dark Side of DevOps talk. The second video is from Ignite Karoke the second day (which I highly recommend).
+As previously mentioned, [I spoke at DevOpsDays Raleigh](/devopsdays-raleigh-2017-the-dark-side-of-devops/). It was an awesome experience organizing and participating at the event! Videos from DevOpsDays Raleigh 2017 were [recently released on YouTube](https://www.youtube.com/channel/UC4Xs0UbAdDaMRmStzhSsSag/videos). I wanted to take a moment to share the one's I was a subject in here.
 
+The first video is from my Dark Side of DevOps talk. The second video is from Ignite Karoke the second day (which I highly recommend).
 
 The Dark Side of DevOps - Chris Short
+
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/P6Wvt5GUvlU" frameborder="0" allowfullscreen></iframe>
 
 <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
@@ -29,4 +31,5 @@ The Dark Side of DevOps - Chris Short
 </script>
 
 DevOpsDays Raleigh 2017 Ignite Karoke (Part 2)
+
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/Pz2r2eDCR74" frameborder="0" allowfullscreen></iframe>
