@@ -1,7 +1,7 @@
 +++
 author = "Chris Short"
 categories = ["resume", "cv"]
-date = 2016-10-21T21:13:00Z
+date = 2017-10-15T09:58:00Z
 description = ""
 draft = false
 slug = "resume-cv"
@@ -14,25 +14,29 @@ title = "Résumé or Curriculum Vitae"
 
 ## Professional Summary
 
-Seasoned, passionate, results producing DevOps professional; wide range of experiences and skills managing numerous aspects of Linux systems (RedHat/CentOS), network administration, IT Operations, and Development Operations. Coordinated multiple projects with competing priorities involving WAN/LAN and systems design, implementation, configuration, hardening, administration, and maintenance. Expertise in troubleshooting hardware, software, and network issues in high-pressure situations. Prolific blogger, DZone and opensource.com contributor, Triangle DevOps organizer and speaker, and speaker at DevOpsDays Detroit 2016.
+Seasoned, passionate, results producing DevOps professional; wide range of experiences and skills managing numerous aspects of Linux systems (RedHat/CentOS), network administration, IT Operations, and Development Operations. Coordinated multiple projects with competing priorities involving WAN/LAN and systems design, implementation, configuration, hardening, administration, and maintenance. Expertise in troubleshooting hardware, software, and network issues in high-pressure situations. Prolific blogger, DZone and opensource.com contributor, Triangle DevOps and Detroit Golang organizer and speaker,speaker at DevOpsDays Detroit 2016 and 2017, GopherCon 2017, DevOps Days Raleigh 2017, and All Things Open.
 
 
 ## Skills
 
 ### Software
-Red Hat Enterprise Linux (3 - 7), CentOS (4 - 7), Debian, Ubuntu, Fedora, Mac OS X, macOS, Cisco IOS, Windows Server, Windows, Google Apps, Microsoft Office, Office365, Evernote, Microsoft Visio (2003, 2007), Microsoft Project 2007, Xymon, EM7, Nagios, VIM, WireShark, NMAP, IPTraf, MRTG, HTML, CSS, nginx, Apache httpd, IIS, MySQL, Bash, PHP, Perl, Python, Remedy, JIRA, Parature, MediaWiki, Ansible, Puppet, Cobbler, BIND, cron, LVM, Subversion, Git, Mercurial, YUM, RPM, APT, IPTables, sed, curl, VMWare vSphere Client, Akamai, CloudFlare, TippingPoint SMS, VirtualBox, Vagrant, Slack, HipChat, FlowDock, Percona Server, Percona Toolkit, Burp Suite, AWS S3, AWS SQS, AWS EC2, Rackspace Cloud, Docker, Test Kitchen, Serverspec, GitLab, GitHub, New Relic, Datadog
+
+Red Hat Enterprise Linux (3 - 7), CentOS (4 - 7), Debian, Ubuntu, Fedora, Mac OS X, macOS, Cisco IOS, Windows Server, Windows, Google Apps/GSuite, Microsoft Office, Office365, Evernote, Microsoft Visio (2003, 2007), Microsoft Project 2007, Xymon, EM7, Nagios, VIM, WireShark, NMAP, IPTraf, MRTG, HTML, CSS, nginx, Apache httpd, IIS, MySQL, Bash, PHP, Perl, Python, Remedy, JIRA, Parature, MediaWiki, Ansible, Puppet, Cobbler, BIND, cron, LVM, Subversion, Git, Mercurial, YUM, RPM, APT, IPTables, sed, curl, VMWare vSphere Client, Akamai, CloudFlare, TippingPoint SMS, VirtualBox, Vagrant, Slack, HipChat, FlowDock, Percona Server, Percona Toolkit, Burp Suite, AWS S3, AWS SQS, AWS EC2, Rackspace Cloud, Docker, Test Kitchen, Serverspec, GitLab, GitHub, New Relic, Datadog, Fastly, PagerDuty, Terraform, Jenkins, Kubernetes
 
 ### Hardware
 
 Cisco 5500 ASAs, Brocade SX 1600, BNT Blade Switch, Avaya/Nortel ERS 5510, TippingPoint IDS/IPS, Dell, IBM, HP, Fujitsu Servers, Oscilloscopes, Multi-meters, Fireberd 6000A, Fluke EtherScopes, Network/Protocol Analyzers, Fiber Optic Modems, PairGains, NSA Approved Encryption Devices
 
 ### Protocols
-DHCP, DNS, Ethernet, FTP, HTTP, IP, NTP, POP, RSYNC, SCP, SFTP, SMTP, SNMP, SSH, TCP/IP, TFTP, Telnet
 
+DHCP, DNS, Ethernet, FTP, HTTP, IP, NTP, POP, RSYNC, SCP, SFTP, SMTP, SNMP, SSH, TCP/IP, TFTP, Telnet
 
 ## Professional Experience
 
 June 2017-Present - Manager of DevOps - Bankrate.com - Detroit, MI
+* Charged with $1M cloud migration efforts; moving physical/virtual datacenter to Amazon Web Services has projected $1M+ savings for company post migration; lead team of six engineers and stakeholders
+* Recruited and led team of five DevOps engineers through hundreds of JIRA tasks, expanding usage of Terraform and Ansible, containerizing workloads, and iterating on DevOps best practices to improve margins
+* Stood up CoreOS Tectonic in AWS through Terraform during a six hour hackathon to demonstrate feasibility
 
 June 2016-June 2017 - Global DevOps Engineer - Solarwinds MSP - Durham, NC
 
@@ -100,14 +104,12 @@ Nov 1999-Dec 2010 – Cyber Transport Systems / Communications, Computer Systems
 * Identified US Central Command classified network Cisco router configuration flaw that baffled previous technicians; enabled necessary keepalive and restored network connectivity to forward deployed task force
 * Installed USAF ACC first ever Linux based network monitor during joint experiment to alert on network anomalies
 
-
 ## Education and Certifications
 
 * AAS, Community College of the Air Force, Electronic Systems Technology, Aug 2010
 * CompTIA Network+ (Verification ZZ6VGN6LSCBEYCBN)
 * Red Hat Certified System Administrator (RHEL 6 - Certification ID: 120-179-858)
 * Enterasys Certified Specialist - Switching NMS (License a1780000000eXhqAAE)
- 
 
 ## Formal Training Courses
 
