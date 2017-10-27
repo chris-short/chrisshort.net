@@ -14,17 +14,19 @@ addons:
     packages:
     - python-pygments
 install:
-- rm -rf public || exit 0
+  - rm -rf public || exit 0
 before_script:
   - npm install -g firebase-tools
+  - curl --silent -L https://github.com/gohugoio/hugo/releases/download/v0.30.2/hugo_0.30.2_Linux-64bit.tar.gz | tar zxf -
 script:
-- bin/hugo
+  - GIT_COMMIT_SHA=`git rev-parse --verify HEAD` GIT_COMMIT_SHA_SHORT=`git rev-parse --short HEAD`
+  - hugo
 deploy:
   - provider: gcs
     access_key_id: GOOGU2LT7AP6FT66C6RA
     secret_access_key:
       secure: fN6CoxBEAHN1ruGc8Spm7qbygt5gfMguYh3kseg0O6wI/BZ8zOw7n4+s1K0m/oTywMMCVzz6qG+3padhl36dXJ5Ua9tg1NsCbBoPsBIPAFMxsKII20CITAY4KapLCG1fB66F0zwt1ftdgiKZjxgl/tTZ0zjzP4iRSAurOhnqhv8ulLMaJZJMDeSXddgytwIJeZp76I6911d6N/nqADEeyCUwxmI4fN9vEphJaKnh6vrSUFw/43h0Cz8MEy6RzPLY+uDnfX4fkIbnrdiV7PTh81yOwpF0QZ0id3IIiciAYSeGfXlYXxLDlCY1aLmvy90k9UvceLddXJ8ekCZvEOUwpiaGlcX5APvpawL4u4iZxKfPg7ttO75Hi7qxQtYVDztcUBbKu7BkJlHuarjCYji1D7q7BMnAhjCbrpVDxd+JUZmeJ+2tVV/kSUTXAK9ESDUODNyDuHYPPmX6T0elxmIqgQVP8QSt0Yf2LmSHpz/2/MGEzJ2Qr4cCJWyd2f8wuRatboKHB6oIXROBWuuxOiIPhc6/kWqQsIvuq0UEUtWghzDodcA/XQvYQ/x+XSm6lQTJpZrr4z+udevzkwo4+J8z8FV3rnP2Xb8kKOxiC/xygiLfzN4xrKdKgyWE1KraBfxIaLh/OnkfQvpEDYksAIQ7qpV1ExvBS68Y2I7jsGPKm58=
-    bucket: gs.chrisshort.net
+    bucket: cfgs.chrisshort.net
     local-dir: public
     skip_cleanup: true
     acl: public-read
