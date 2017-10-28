@@ -37,6 +37,10 @@ deploy:
     bucket: chrisshort.net
     local-dir: public
     skip_cleanup: true
+    acl: public_read
+    on:
+      repo: chris-short/chrisshort.net
+      branch: master
   - provider: gcs
     access_key_id: GOOGU2LT7AP6FT66C6RA
     secret_access_key:
