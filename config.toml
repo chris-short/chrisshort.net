@@ -132,6 +132,18 @@ pattern = "2006"
 
 [[menu.main]]
     parent = "menu"
+    name = "Publications"
+    url = "/publications/"
+    weight = 43
+
+[[menu.main]]
+    parent = "menu"
+    name = "Causes"
+    url = "/causes/"
+    weight = 44
+
+[[menu.main]]
+    parent = "menu"
     name = "Drawings"
     url = "/tags/drawing/"
     weight = 49

@@ -1,6 +1,5 @@
 +++
 author = "Chris Short"
-categories = ["resume", "cv"]
 date = 2017-10-15T09:58:00Z
 description = ""
 draft = false
