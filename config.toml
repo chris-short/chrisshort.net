@@ -115,7 +115,7 @@ pattern = "2006"
 [[menu.main]]
     parent = "menu"
     name = "Talks"
-    url = "/categories/talks/"
+    url = "/talks/"
     weight = 40
 
 [[menu.main]]
@@ -127,7 +127,7 @@ pattern = "2006"
 [[menu.main]]
     parent = "menu"
     name = "Books"
-    url = "/categories/books/"
+    url = "/books/"
     weight = 42
 
 [[menu.main]]
@@ -150,7 +150,7 @@ pattern = "2006"
 
 [[menu.main]]
     parent = "menu"
-    name = "DevOps'ish"
+    name = "DevOps Newsletter"
     url = "https://devopsish.com"
     weight = 80
 
