@@ -5,11 +5,3 @@
   publish = "public/"
 [context.production.environment]
   HUGO_VERSION = "0.30.2"
-
-# Deploy Preview context: All Deploy Previews
-# will inherit these settings.
-[context.deploy-preview]
-  command = "GIT_COMMIT_SHA=`git rev-parse --verify HEAD` GIT_COMMIT_SHA_SHORT=`git rev-parse --short HEAD` hugo"
-  publish = "public/"
-[context.deploy-preview.environment]
-  HUGO_VERSION = "0.30.2"

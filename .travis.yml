@@ -1,6 +1,6 @@
 branches:
   only:
-    - master
+  - master
 notifications:
   email: true
   pushover:
@@ -14,24 +14,31 @@ addons:
     packages:
     - python-pygments
 install:
-  - rm -rf public || exit 0
+- rm -rf public || exit 0
 before_script:
-  - npm install -g firebase-tools
-  - curl --silent -L https://github.com/gohugoio/hugo/releases/download/v0.30.2/hugo_0.30.2_Linux-64bit.tar.gz | tar zxf -
+- npm install -g firebase-tools
+- curl --silent -L https://github.com/gohugoio/hugo/releases/download/v0.30.2/hugo_0.30.2_Linux-64bit.tar.gz
+  | tar zxf -
 script:
-  - GIT_COMMIT_SHA=`git rev-parse --verify HEAD` GIT_COMMIT_SHA_SHORT=`git rev-parse --short HEAD` ./hugo
+- GIT_COMMIT_SHA=`git rev-parse --verify HEAD` GIT_COMMIT_SHA_SHORT=`git rev-parse
+  --short HEAD` ./hugo
 deploy:
-  - provider: gcs
-    access_key_id: GOOGU2LT7AP6FT66C6RA
-    secret_access_key:
-      secure: fN6CoxBEAHN1ruGc8Spm7qbygt5gfMguYh3kseg0O6wI/BZ8zOw7n4+s1K0m/oTywMMCVzz6qG+3padhl36dXJ5Ua9tg1NsCbBoPsBIPAFMxsKII20CITAY4KapLCG1fB66F0zwt1ftdgiKZjxgl/tTZ0zjzP4iRSAurOhnqhv8ulLMaJZJMDeSXddgytwIJeZp76I6911d6N/nqADEeyCUwxmI4fN9vEphJaKnh6vrSUFw/43h0Cz8MEy6RzPLY+uDnfX4fkIbnrdiV7PTh81yOwpF0QZ0id3IIiciAYSeGfXlYXxLDlCY1aLmvy90k9UvceLddXJ8ekCZvEOUwpiaGlcX5APvpawL4u4iZxKfPg7ttO75Hi7qxQtYVDztcUBbKu7BkJlHuarjCYji1D7q7BMnAhjCbrpVDxd+JUZmeJ+2tVV/kSUTXAK9ESDUODNyDuHYPPmX6T0elxmIqgQVP8QSt0Yf2LmSHpz/2/MGEzJ2Qr4cCJWyd2f8wuRatboKHB6oIXROBWuuxOiIPhc6/kWqQsIvuq0UEUtWghzDodcA/XQvYQ/x+XSm6lQTJpZrr4z+udevzkwo4+J8z8FV3rnP2Xb8kKOxiC/xygiLfzN4xrKdKgyWE1KraBfxIaLh/OnkfQvpEDYksAIQ7qpV1ExvBS68Y2I7jsGPKm58=
-    bucket: cfgs.chrisshort.net
-    local-dir: public
-    skip_cleanup: true
-    acl: public-read
-    on:
-      repo: chris-short/chrisshort.net
-      branch: master
+- provider: gcs
+  access_key_id: GOOGU2LT7AP6FT66C6RA
+  secret_access_key:
+    secure: fN6CoxBEAHN1ruGc8Spm7qbygt5gfMguYh3kseg0O6wI/BZ8zOw7n4+s1K0m/oTywMMCVzz6qG+3padhl36dXJ5Ua9tg1NsCbBoPsBIPAFMxsKII20CITAY4KapLCG1fB66F0zwt1ftdgiKZjxgl/tTZ0zjzP4iRSAurOhnqhv8ulLMaJZJMDeSXddgytwIJeZp76I6911d6N/nqADEeyCUwxmI4fN9vEphJaKnh6vrSUFw/43h0Cz8MEy6RzPLY+uDnfX4fkIbnrdiV7PTh81yOwpF0QZ0id3IIiciAYSeGfXlYXxLDlCY1aLmvy90k9UvceLddXJ8ekCZvEOUwpiaGlcX5APvpawL4u4iZxKfPg7ttO75Hi7qxQtYVDztcUBbKu7BkJlHuarjCYji1D7q7BMnAhjCbrpVDxd+JUZmeJ+2tVV/kSUTXAK9ESDUODNyDuHYPPmX6T0elxmIqgQVP8QSt0Yf2LmSHpz/2/MGEzJ2Qr4cCJWyd2f8wuRatboKHB6oIXROBWuuxOiIPhc6/kWqQsIvuq0UEUtWghzDodcA/XQvYQ/x+XSm6lQTJpZrr4z+udevzkwo4+J8z8FV3rnP2Xb8kKOxiC/xygiLfzN4xrKdKgyWE1KraBfxIaLh/OnkfQvpEDYksAIQ7qpV1ExvBS68Y2I7jsGPKm58=
+  bucket: cfgs.chrisshort.net
+  local-dir: public
+  skip_cleanup: true
+  acl: public-read
+  on:
+    repo: chris-short/chrisshort.net
+    branch: master
+deploy:
+  provider: firebase
+  token:
+    secure: D7J+iPshXSYHTHwGwxyxtfpPEEh6RNexU0CpQhGYx/CTCIL2o5o5TX6mzXljZ2BcH3hY5MPYACgEmy5KQwedGsSd0xDzFmP+maovK78WdWo8OdX3fn+93ApfWjLmCrOSSNC8dkGPADKq/C+6TCDeF3zbcpHNh3kh+uL5390b6bFH533w3VumqyW+p3Fkkf40Q2aW/2Y9pj473MulIri6pp4uTjwfFKdkxS5G5K61/mw67dh0bf3o4HdCsomei4z3aNPNTQKYzyd/ta+RCRWxRxA15SUiyFIFDagkUKJQ+lfluApdnJx6hz8+bb7/h3TZyW/lQm6fKL2AaRFdr1wiHeqlnon/yP8QNFqIm5O8+24YLFdV6Y/LpmMGAZ7zWcYI8GReQj64uMYTYDYLX+wgLGJJFDFecPyoSh8f7H5xdP2cJW/RIefgk/y4CT66GjzgFY0MrtSyKAB6VC1J2+bTaxEo/ect1NkgMUTvW0QVfmANR0TS/4E7N3GbOvUR4MjoD2zE1piE21VAHXnpmL2jD0zrS/NBil8MRgf0Lj/QuIXtX0ZaiAICs0C9pj345Lm9v83CogueQY7Lbl6dYuu5X+M1fY5Z5sNtEK6lgw1d15BWHAYu9QhIcHCpZ0+dhT4kdZlm/LdtnG+v3M3JykQ3MJk5Qj6+JkWajEA0HKnilNI=
+  project: "chrisshort-net"
 env:
   global:
-    secure: jlFOPdTLo77Ek+XMyB5EjXRNHdmGPYElbg7LaeTK8TqbMO9eFzyZAoBRshLd4j4blVLwFN+iF2NS0IZcPHrsId8ki9zzCJiZ5SCwTX32n/jgvbDRLP0jcM40ExEh195Iswol/rY43GecF+T7FRlYpa9XFQs5c/EuGOSNksIQXXVVTkiozi0elzVHOThsSrnOgaq9QQubwTLJKN9yjKX+hjM82nGGFC4qfLi6HI6zISxS7i3YO2EtQVyvxYS0+kVK0b+5WSMkiFWoQ3bWUwB60waMDdgGzkaw3KUh8zyG/MseTHHUXMWhzy2MTt8eZsr/EIhNlEKPeYdSA3cNBBoQyYfubVqwBFYk/0obtpgEgg3103JZXayS+kAHchZLyuli2r+9gquqkW6WsPbN3V10gPcd3vVwHBBJ5hjCCjRox0/omjSEiYSZzFNoHjJbdI80W/L1geLFj7Ne54hvGcSIvURuUKiVQrufK3FRVZAM7lfxm4QZNgP6n2rZAn4C2vD7e4atEFTSVJ8u9SS/XT5kiiPstHoKbYsf+O3yNzMR1n9jNbz9yxv3kwkQ9oTC3Ok4R3EjEgV0KC6SDiYK6oHyftqWkaWrZWzGddRq8SzTMG8KizoBQHkssEouxs4aT6UYvXlRwwG4eGQ3gGSt58vaA8jpPXIQVRwIywVBf3iamK0=
+  - secure: jlFOPdTLo77Ek+XMyB5EjXRNHdmGPYElbg7LaeTK8TqbMO9eFzyZAoBRshLd4j4blVLwFN+iF2NS0IZcPHrsId8ki9zzCJiZ5SCwTX32n/jgvbDRLP0jcM40ExEh195Iswol/rY43GecF+T7FRlYpa9XFQs5c/EuGOSNksIQXXVVTkiozi0elzVHOThsSrnOgaq9QQubwTLJKN9yjKX+hjM82nGGFC4qfLi6HI6zISxS7i3YO2EtQVyvxYS0+kVK0b+5WSMkiFWoQ3bWUwB60waMDdgGzkaw3KUh8zyG/MseTHHUXMWhzy2MTt8eZsr/EIhNlEKPeYdSA3cNBBoQyYfubVqwBFYk/0obtpgEgg3103JZXayS+kAHchZLyuli2r+9gquqkW6WsPbN3V10gPcd3vVwHBBJ5hjCCjRox0/omjSEiYSZzFNoHjJbdI80W/L1geLFj7Ne54hvGcSIvURuUKiVQrufK3FRVZAM7lfxm4QZNgP6n2rZAn4C2vD7e4atEFTSVJ8u9SS/XT5kiiPstHoKbYsf+O3yNzMR1n9jNbz9yxv3kwkQ9oTC3Ok4R3EjEgV0KC6SDiYK6oHyftqWkaWrZWzGddRq8SzTMG8KizoBQHkssEouxs4aT6UYvXlRwwG4eGQ3gGSt58vaA8jpPXIQVRwIywVBf3iamK0=
