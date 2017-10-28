@@ -34,6 +34,8 @@ deploy:
   on:
     repo: chris-short/chrisshort.net
     branch: master
+before_deploy:
+- git commit -am "travisci firebase deploy `date`"
 deploy:
   provider: firebase
   token:
