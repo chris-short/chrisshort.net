@@ -22,3 +22,4 @@ title = "Publications"
 * 20161101: [The Demise of Google Fiber and Internet Under Dirt](https://dzone.com/articles/the-demise-of-google-fiber-and-internet-under-dirt)
 * 20160922: [User Management With Ansible](https://dzone.com/articles/user-management-with-ansible)
 * 20160921: [Technical Debt and the Ongoing Battle Against It](https://dzone.com/articles/technical-debt-and-the-ongoing-battle-against-it)
+* 20160505: [Tangible Intangibles: Questions to Ask While Being Interviewed](https://medium.com/@chrisshort/tangible-intangibles-questions-to-ask-while-being-interviewed-c13887bb9854)

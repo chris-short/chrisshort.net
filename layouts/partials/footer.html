@@ -43,6 +43,9 @@
           {{ i18n "poweredBy" . | safeHTML }}
           {{ with .Site.Params.commit }}&nbsp;&bull;&nbsp;[<a href="{{.}}{{ getenv "GIT_COMMIT_SHA" }}">{{ getenv "GIT_COMMIT_SHA_SHORT" }}</a>]{{ end }}
         </p>
+        <p class="credits theme-by text-muted">
+          <a href="https://devopsish.com/">DevOps'ish</a>&nbsp;&bull;&nbsp;<a href="https://opensource.com/dear-devops">Dear DevOps</a>&nbsp;&bull;&nbsp;<a href="https://detroitgolang.com/">Detroit Go Meetup</a>
+        </p>  
       </div>
     </div>
   </div>
