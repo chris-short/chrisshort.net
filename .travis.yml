@@ -29,6 +29,7 @@ deploy:
     token:
       secure: D7J+iPshXSYHTHwGwxyxtfpPEEh6RNexU0CpQhGYx/CTCIL2o5o5TX6mzXljZ2BcH3hY5MPYACgEmy5KQwedGsSd0xDzFmP+maovK78WdWo8OdX3fn+93ApfWjLmCrOSSNC8dkGPADKq/C+6TCDeF3zbcpHNh3kh+uL5390b6bFH533w3VumqyW+p3Fkkf40Q2aW/2Y9pj473MulIri6pp4uTjwfFKdkxS5G5K61/mw67dh0bf3o4HdCsomei4z3aNPNTQKYzyd/ta+RCRWxRxA15SUiyFIFDagkUKJQ+lfluApdnJx6hz8+bb7/h3TZyW/lQm6fKL2AaRFdr1wiHeqlnon/yP8QNFqIm5O8+24YLFdV6Y/LpmMGAZ7zWcYI8GReQj64uMYTYDYLX+wgLGJJFDFecPyoSh8f7H5xdP2cJW/RIefgk/y4CT66GjzgFY0MrtSyKAB6VC1J2+bTaxEo/ect1NkgMUTvW0QVfmANR0TS/4E7N3GbOvUR4MjoD2zE1piE21VAHXnpmL2jD0zrS/NBil8MRgf0Lj/QuIXtX0ZaiAICs0C9pj345Lm9v83CogueQY7Lbl6dYuu5X+M1fY5Z5sNtEK6lgw1d15BWHAYu9QhIcHCpZ0+dhT4kdZlm/LdtnG+v3M3JykQ3MJk5Qj6+JkWajEA0HKnilNI=
     project: chrisshort-net
+    skip_cleanup: true
   - provider: gcs
     access_key_id: GOOGU2LT7AP6FT66C6RA
     secret_access_key:
