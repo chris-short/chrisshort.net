@@ -22,8 +22,8 @@ before_script:
 script:
 - GIT_COMMIT_SHA=`git rev-parse --verify HEAD` GIT_COMMIT_SHA_SHORT=`git rev-parse
   --short HEAD` ./hugo
-before_deploy:
-- git add . && git commit -am 'travisci firebase deploy'
+#before_deploy:
+#- git add . && git commit -am 'travisci firebase deploy'
 deploy:
   - provider: firebase
     token:
