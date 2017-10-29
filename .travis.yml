@@ -41,6 +41,17 @@ deploy:
     on:
       repo: chris-short/chrisshort.net
       branch: master
+  - provider: s3
+    access_key_id: AKIAIUVXSICCE4F5OD2Q
+    secret_access_key:
+      secure: FObTXQnAP7o0sdvZQaEs+oN2r1jjD5kYOj/A5INILgrnItN5rcTYMVNn+Clu3FPK8nyoAXbr/tq22xC5Y8yHId2R5lIk8Q1D9NoIZPUN6mEhT+6m61dFwdtsb5dsJzPeIDKsxBRtKNuDLvsgShgexb4qOIJqnp+72kP5IzTb+xlaIgnCb6ggQko5HA4Lz2ACn2dHed9e7WhZVfHbG6g/D6n+3xlANks6CYa4Z+Qx9VPJQM3eF7tNe5kZxw58zM+JKNF9x9UGnI1qS4NwIZqL0T7UgUjQkKP9MdEb60jOTTq3A+FAKqdQ9Gh2fD6EwAwaBfjAfftYCsURiYdNa5Y8eQwo4Jh85pUTWdN2Vs5HIdyAtcGmvBRhbFny4H9IV5tYHGlr7b0XkM+gPhh6yLBqQwFhinaT1KBwT8yLAXvST7eVbPg1IDBJ2R5o1+Q2ifLKgxLT0HLks6OMk5VBcXGI1SbLZg61WFxzYl/A7Nu3S0JCwRGHlnj411PMD6C6eybXSHEiWPkvOlYizh1exJEvyW3KJ7I6VIcvlrbMFzDtD3kZdPu/ic79dlPYguhZN691zuBUwW5B5nLOg/IeWY39bETcFnbwSr5161JkCZOgVkOE3IDAaKVWCcngcgdYORbCxsdhZ+mp92gwZ6BIR1qk8+hLVRdyF8MDY83Frb60B9M=
+    bucket: chrisshort.net
+    local-dir: public
+    skip_cleanup: true
+    acl: public_read
+    on:
+      repo: chris-short/chrisshort.net
+      branch: master
 env:
   global:
   - secure: jlFOPdTLo77Ek+XMyB5EjXRNHdmGPYElbg7LaeTK8TqbMO9eFzyZAoBRshLd4j4blVLwFN+iF2NS0IZcPHrsId8ki9zzCJiZ5SCwTX32n/jgvbDRLP0jcM40ExEh195Iswol/rY43GecF+T7FRlYpa9XFQs5c/EuGOSNksIQXXVVTkiozi0elzVHOThsSrnOgaq9QQubwTLJKN9yjKX+hjM82nGGFC4qfLi6HI6zISxS7i3YO2EtQVyvxYS0+kVK0b+5WSMkiFWoQ3bWUwB60waMDdgGzkaw3KUh8zyG/MseTHHUXMWhzy2MTt8eZsr/EIhNlEKPeYdSA3cNBBoQyYfubVqwBFYk/0obtpgEgg3103JZXayS+kAHchZLyuli2r+9gquqkW6WsPbN3V10gPcd3vVwHBBJ5hjCCjRox0/omjSEiYSZzFNoHjJbdI80W/L1geLFj7Ne54hvGcSIvURuUKiVQrufK3FRVZAM7lfxm4QZNgP6n2rZAn4C2vD7e4atEFTSVJ8u9SS/XT5kiiPstHoKbYsf+O3yNzMR1n9jNbz9yxv3kwkQ9oTC3Ok4R3EjEgV0KC6SDiYK6oHyftqWkaWrZWzGddRq8SzTMG8KizoBQHkssEouxs4aT6UYvXlRwwG4eGQ3gGSt58vaA8jpPXIQVRwIywVBf3iamK0=
