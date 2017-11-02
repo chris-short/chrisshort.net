@@ -1,7 +1,7 @@
 +++
 author = "Chris Short"
 date = 2017-10-15T09:58:00Z
-description = ""
+description = "Résumé of a 20+ year veteran of Information Technology and current DevOps professional."
 draft = false
 slug = "resume-cv"
 tags = ["resume", "cv"]
@@ -13,22 +13,25 @@ title = "Résumé or Curriculum Vitae"
 
 ## Professional Summary
 
-Seasoned, passionate, results producing DevOps professional; wide range of experiences and skills managing numerous aspects of Linux systems (RedHat/CentOS), network administration, IT Operations, and Development Operations. Coordinated multiple projects with competing priorities involving WAN/LAN and systems design, implementation, configuration, hardening, administration, and maintenance. Expertise in troubleshooting hardware, software, and network issues in high-pressure situations. Prolific blogger, DZone and opensource.com contributor, Triangle DevOps and Detroit Golang organizer and speaker,speaker at DevOpsDays Detroit 2016 and 2017, GopherCon 2017, DevOps Days Raleigh 2017, and All Things Open.
-
+Seasoned, passionate, results producing DevOps professional; wide range of experiences and skills managing numerous aspects of Linux systems (RedHat/CentOS), network administration, IT Operations, and Development Operations. Coordinated multiple projects with competing priorities involving WAN/LAN and systems design, implementation, configuration, hardening, administration, and maintenance. Expertise in troubleshooting hardware, software, and network issues in high-pressure situations. Prolific blogger, DZone and opensource.com contributor, Triangle DevOps and Detroit Golang Meetup organizer and speaker, speaker at DevOpsDays Detroit 2016 and 2017, GopherCon 2017, DevOps Days Raleigh 2017, and All Things Open 2017.
 
 ## Skills
 
 ### Software
 
-Red Hat Enterprise Linux (3 - 7), CentOS (4 - 7), Debian, Ubuntu, Fedora, Mac OS X, macOS, Cisco IOS, Windows Server, Windows, Google Apps/GSuite, Microsoft Office, Office365, Evernote, Microsoft Visio (2003, 2007), Microsoft Project 2007, Xymon, EM7, Nagios, VIM, WireShark, NMAP, IPTraf, MRTG, HTML, CSS, nginx, Apache httpd, IIS, MySQL, Bash, PHP, Perl, Python, Remedy, JIRA, Parature, MediaWiki, Ansible, Puppet, Cobbler, BIND, cron, LVM, Subversion, Git, Mercurial, YUM, RPM, APT, IPTables, sed, curl, VMWare vSphere Client, Akamai, CloudFlare, TippingPoint SMS, VirtualBox, Vagrant, Slack, HipChat, FlowDock, Percona Server, Percona Toolkit, Burp Suite, AWS S3, AWS SQS, AWS EC2, Rackspace Cloud, Docker, Test Kitchen, Serverspec, GitLab, GitHub, New Relic, Datadog, Fastly, PagerDuty, Terraform, Jenkins, Kubernetes
+APT, Ansible Apache httpd, Atlassian Bamboo, Atlassian BitBucket, Atlassian Confluence, Atlassian HipChat, Atlassian JIRA, BIND, Bash, Burp Suite, CSS, CentOS (4-7), Cobbler, Datadog, Debian, Docker, EM7, Evernote, Fedora, FlowDock, G Suite by Google Cloud, Git, Git Tower, GitHub, GitLab, Go, Google Apps, HTML, IIS, IPTraf, Jenkins, LVM, MRTG, Mac OS X, MediaWiki, Mercurial, Microsoft Office, Microsoft Project 2007, Microsoft Visio (2003, 2007), MySQL, NMAP, Nagios, New Relic, Office 365, OpsGenie, PHP, PagerDuty, Parature, Percona Server, Percona Toolkit, Perl, Puppet, Python, RPM, Red Hat Enterprise Linux (3-7), Remedy, Serverspec, Slack, SourceTree, Subversion, Terraform, Test Kitchen, Trello, Ubuntu, VIM, Vagrant, VirtualBox, Visual Studio Code, Windows, Windows Server, WireShark, Xymon, YUM, cron, curl, iptables, macOS, nginx, sed
+
+### Infrastructure
+
+AWS (CloudTrail, CloudWatch, EC2, Lambda, Route53, S3, SES, SQS, VPC), Akamai, Cisco IOS, CloudFlare, Fastly, Google Cloud Platform (Compute Engine, Container Engine, Storage), Kubernetes, Rackspace Cloud, TippingPoint SMS, VMWare vSphere Client
 
 ### Hardware
 
-Cisco 5500 ASAs, Brocade SX 1600, BNT Blade Switch, Avaya/Nortel ERS 5510, TippingPoint IDS/IPS, Dell, IBM, HP, Fujitsu Servers, Oscilloscopes, Multi-meters, Fireberd 6000A, Fluke EtherScopes, Network/Protocol Analyzers, Fiber Optic Modems, PairGains, NSA Approved Encryption Devices
+Avaya/Nortel ERS 5510, BNT Blade Switch, Brocade SX 1600, Cisco 5500 ASAs, Dell, Fiber Optic Modems, Fireberd 6000A, Fluke EtherScopes, Fujitsu Servers, HP, IBM, Multi-meters, NSA Approved Encryption Devices, Network/Protocol Analyzers, Oscilloscopes, PairGains, TippingPoint IDS/IPS
 
 ### Protocols
 
-DHCP, DNS, Ethernet, FTP, HTTP, IP, NTP, POP, RSYNC, SCP, SFTP, SMTP, SNMP, SSH, TCP/IP, TFTP, Telnet
+DHCP, DNS, Ethernet, FTP, HTTP, HTTPS, IP, NTP, POP, RSYNC, SCP, SFTP, SMTP, SNMP, SSH, TCP/IP, TFTP, Telnet, UDP
 
 ## Professional Experience
 
