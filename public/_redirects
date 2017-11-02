@@ -1,2 +1,3 @@
 /rss /index.xml 301
 /tag/* /tags/:splat 301
+/img/404-southpark.jpg https://cdn.chrisshort.net/404-southpark.jpg 301
