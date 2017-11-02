@@ -36,13 +36,14 @@ DHCP, DNS, Ethernet, FTP, HTTP, HTTPS, IP, NTP, POP, RSYNC, SCP, SFTP, SMTP, SNM
 ## Professional Experience
 
 June 2017-Present - Manager of DevOps - Bankrate.com - Detroit, MI
+
 * Charged with $1M cloud migration efforts; moving physical/virtual datacenter to Amazon Web Services has projected $1M+ savings for company post migration; lead team of six engineers and stakeholders
 * Recruited and led team of five DevOps engineers through hundreds of JIRA tasks, expanding usage of Terraform and Ansible, containerizing workloads, and iterating on DevOps best practices to improve margins
 * Stood up CoreOS Tectonic in AWS through Terraform during a six hour hackathon to demonstrate feasibility
 
 June 2016-June 2017 - Global DevOps Engineer - Solarwinds MSP - Durham, NC
 
-* Worked with product teams to improve documentation of Ansible development environments; identified additional tests for Ansible roles that could be done via Test Kitchen, Docker, and Serverspec or GitLabCI
+* Worked with product teams to improve documentation of Ansible development environments; identified additional tests for Ansible roles that could be done via Test Kitchen, Docker, and Serverspec or GitLabC
 * Converted 300 GB MySQL table from MyISAM to InnoDB utilizing existing backup, MySQL replication, and Rackspace OnMetal instance; converted to more  tolerant storage engine consistent with app architecture
 * Upgraded internal and customer TLS/SSL Apache Web Server configurations; trained staff on proper implementations, potential issues/concerns, and automated changes with Ansible
 * Utilized AWS EC2 and SQS in tandem with systemd and custom AMIs as well as existing application code to build job servers that would collect, verify, and purge duplicate copies of archived mail messages in AWS S3
