@@ -20,14 +20,12 @@ When the [Dot-com bubble](https://en.wikipedia.org/wiki/Dot-com_bubble) began to
 
 Chris is now working in the open source, Linux systems, and DevOps spaces. He writes for several publications and maintains the [DevOps'ish](https://devopsish.com) newsletter. He calls the Greater Metro Detroit area his home. His up to date [Résumé](/resume-cv/) or [Curriculum Vitae](/resume-cv/) is available.
 
-### Writing Elsewhere
+### Appearances Elsewhere
 
-Chris also contributes content to [DZone](https://dzone.com/users/2868764/chrisshort.html), [opensource.com](https://opensource.com/users/chrisshort), and [The Open Organization](https://opensource.com/open-organization).
-
-Chris has also contributed to guides and books:
-
-* [DevOps: Continuous Delivery and Automation](https://dzone.com/guides/devops-continuous-delivery-and-automation?oid=devcs)
-* [The Open Organization Guide to IT Culture Change](https://opensource.com/open-organization/17/6/open-org-it-culture-now-available)
+* [Talks](/talks/)
+* [Interviews](/categories/interviews/)
+* [Books](/books/)
+* [Publications](/publications/)
 
 ### PGP Public Key
 
