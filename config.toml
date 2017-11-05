@@ -102,6 +102,12 @@ pattern = "2006"
 
 [[menu.main]]
     parent = "menu"
+    name = "Newsletter"
+    url = "http://eepurl.com/csvznH"
+    weight = 19
+
+[[menu.main]]
+    parent = "menu"
     name = "About"
     url = "/about/"
     weight = 20
