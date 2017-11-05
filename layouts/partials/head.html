@@ -43,29 +43,14 @@
 <!-- Links and stylesheets -->
   <link rel="canonical" href="{{ .URL | absLangURL }}" />
   <link rel="alternate" href="{{ "index.xml" | absLangURL }}" type="application/rss+xml" title="{{ .Site.Title }}">
-  <noscript id="deferred-styles">
-    <link rel="stylesheet" href="{{ "css/katex.min.css" | absURL }}" />
-    <link rel="stylesheet" href="{{ "css/font-awesome.min.css" | absURL }}" />
-    <link rel="stylesheet" href="{{ "css/bootstrap.min.css" | absURL }}" />
-    <link rel="stylesheet" href="{{ "css/main.css" | absURL }}" />
-    <link rel="stylesheet" href="{{ "css/google-fonts-Lora.css" | absURL }}" />
-    <link rel="stylesheet" href="{{ "css/google-fonts-Open-Sans.css" | absURL }}" />
-    <link rel="stylesheet" href="{{ "css/pygment_highlights.css" | absURL }}" />
-    <link rel="stylesheet" href="{{ "css/highlight.min.css" | absURL }}" />
-  </noscript>
-  <script>
-    var loadDeferredStyles = function() {
-      var addStylesNode = document.getElementById("deferred-styles");
-      var replacement = document.createElement("div");
-      replacement.innerHTML = addStylesNode.textContent;
-      document.body.appendChild(replacement)
-      addStylesNode.parentElement.removeChild(addStylesNode);
-    };
-    var raf = requestAnimationFrame || mozRequestAnimationFrame ||
-        webkitRequestAnimationFrame || msRequestAnimationFrame;
-    if (raf) raf(function() { window.setTimeout(loadDeferredStyles, 0); });
-    else window.addEventListener('load', loadDeferredStyles);
-  </script>  
+  <link rel="stylesheet" href="{{ "css/katex.min.css" | absURL }}" />
+  <link rel="stylesheet" href="{{ "css/font-awesome.min.css" | absURL }}" />
+  <link rel="stylesheet" href="{{ "css/bootstrap.min.css" | absURL }}" />
+  <link rel="stylesheet" href="{{ "css/main.css" | absURL }}" />
+  <link rel="stylesheet" href="{{ "css/google-fonts-Lora.css" | absURL }}" />
+  <link rel="stylesheet" href="{{ "css/google-fonts-Open-Sans.css" | absURL }}" />
+  <link rel="stylesheet" href="{{ "css/pygment_highlights.css" | absURL }}" />
+  <link rel="stylesheet" href="{{ "css/highlight.min.css" | absURL }}" />
 {{- partial "head_custom.html" . }}
 {{- partial "load-photoswipe-theme.html" . }}
 {{ template "_internal/google_analytics_async.html" . }}
