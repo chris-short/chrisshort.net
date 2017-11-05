@@ -16,11 +16,11 @@
   <meta name="author" content="{{ .Site.Author.name }}"/>
 {{- with .Site.Params.favicon }}
   <link href="{{ . | absURL }}" rel="icon" type="image/x-icon" />
-  <link rel="apple-touch-icon" sizes="180x180" href="https://cdn.chrisshort.net/apple-touch-icon.png" />
-  <link rel="icon" type="image/png" sizes="32x32" href="https://cdn.chrisshort.net/favicon-32x32.png" />
-  <link rel="icon" type="image/png" sizes="16x16" href="https://cdn.chrisshort.net/favicon-16x16.png" />
-  <link rel="manifest" href="https://cdn.chrisshort.net/manifest.json" />
-  <link rel="mask-icon" href="https://cdn.chrisshort.net/safari-pinned-tab.svg" color="#5bbad5" />
+  <link rel="apple-touch-icon" sizes="180x180" href="https://cdn.chrisshort.net/favicons/apple-touch-icon.png" />
+  <link rel="icon" type="image/png" sizes="32x32" href="https://cdn.chrisshort.net/favicons/favicon-32x32.png" />
+  <link rel="icon" type="image/png" sizes="16x16" href="https://cdn.chrisshort.net/favicons/favicon-16x16.png" />
+  <link rel="manifest" href="https://cdn.chrisshort.net/favicons/manifest.json" />
+  <link rel="mask-icon" href="https://cdn.chrisshort.net/favicons/safari-pinned-tab.svg" color="#5bbad5" />
 {{- end -}}
 <!-- Social Media Tags -->
 {{- with .Params.share_img | default .Params.image | default .Site.Params.logo }}
