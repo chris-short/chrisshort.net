@@ -1,11 +1,12 @@
 +++
 author = "Chris Short"
+categories = ["Work", "Life"]
 date = 2017-06-01T19:07:21Z
 description = ""
 draft = false
 slug = "leaving-north-carolina"
 title = "Leaving North Carolina"
-tags = ["north carolina"]
+tags = ["job", "work", "life", "balance", "north carolina"]
 
 +++
 
