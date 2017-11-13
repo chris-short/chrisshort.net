@@ -1,7 +1,7 @@
 +++
 author = "Chris Short"
 categories = ["Work", "Life"]
-date = 2016-07-10T20:51:00Z
+date = 2017-11-13T10:00:00Z
 description = "An open e-mail about why I am deciding to leave Bankrate now"
 draft = false
 image = "https://cdn.chrisshort.net/leaving.jpg"
