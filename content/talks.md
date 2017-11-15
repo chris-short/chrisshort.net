@@ -12,7 +12,7 @@ title = "Talks"
 
 Date: October 24, 2017  
 Event: [Lightning Talks - Hosted by opensource.com](https://allthingsopen.org/lightning-talks-hosted-by-opensource-com/)  
-Blog Post: [All Things Open 2017: DevOps README.md](/all-things-open-2017-devops-readme.md/)
+Blog Post: [All Things Open 2017: DevOps README.md](/all-things-open-2017-devops-readme.md/)  
 Video: [DevOps README.md — Chris Short](https://youtu.be/Ibnj-YZTypU)
 
 ### DevOpsDays Raleigh 2017 Ignite Karoke (Part 2)
