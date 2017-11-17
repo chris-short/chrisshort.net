@@ -1,0 +1,15 @@
++++
+author = "Chris Short"
+categories = ["Long Thoracic Nerve Palsy"]
+date = 2005-05-19T13:38:00Z
+description = "Chris Short suffers from Long Thoracic Nerve Palsy with Winging of the Scapula"
+draft = false
+slug = "shoulder-update-20050519"
+tags = ["shoulder"]
+title = "Shoulder Update 05/19/2005"
+
++++
+
+I had my "procedure" done on my shoulder this morning. Everything went fine. I was asleep and woke up and mobile so that is a good thing. However, I still feel like I'm having an out of body experience at the moment.
+
+The good news is that the pain I had this morning is pretty much gone.
