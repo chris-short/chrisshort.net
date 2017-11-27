@@ -43,7 +43,7 @@ June 2017-Nov 2017 - Manager of DevOps - Bankrate.com - Detroit, MI
 
 June 2016-June 2017 - Global DevOps Engineer - Solarwinds MSP - Durham, NC
 
-* Worked with product teams to improve documentation of Ansible development environments; identified additional tests for Ansible roles that could be done via Test Kitchen, Docker, and Serverspec or GitLabC
+* Worked with product teams to improve documentation of Ansible development environments; identified additional tests for Ansible roles that could be done via Test Kitchen, Docker, and Serverspec or GitLab CI
 * Converted 300 GB MySQL table from MyISAM to InnoDB utilizing existing backup, MySQL replication, and Rackspace OnMetal instance; converted to more  tolerant storage engine consistent with app architecture
 * Upgraded internal and customer TLS/SSL Apache Web Server configurations; trained staff on proper implementations, potential issues/concerns, and automated changes with Ansible
 * Utilized AWS EC2 and SQS in tandem with systemd and custom AMIs as well as existing application code to build job servers that would collect, verify, and purge duplicate copies of archived mail messages in AWS S3
