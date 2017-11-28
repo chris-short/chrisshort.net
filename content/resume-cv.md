@@ -13,7 +13,7 @@ title = "Résumé or Curriculum Vitae"
 
 ## Professional Summary
 
-Seasoned, passionate, results producing DevOps professional; wide range of experiences and skills managing numerous aspects of Linux systems (RedHat/CentOS), network administration, IT Operations, and Development Operations. Coordinated multiple projects with competing priorities involving WAN/LAN and systems design, implementation, configuration, hardening, administration, and maintenance. Expertise in troubleshooting hardware, software, and network issues in high-pressure situations. Prolific blogger, DZone and opensource.com contributor, Triangle DevOps and Detroit Golang Meetup organizer and speaker, speaker at DevOpsDays Detroit 2016 and 2017, GopherCon 2017, DevOps Days Raleigh 2017, and All Things Open 2017.
+Seasoned, passionate, results producing DevOps professional; wide range of experiences and skills managing numerous aspects of Linux systems, network administration, IT Operations, and Development Operations (DevOps). Coordinated multiple projects with competing priorities involving WAN/LAN and systems design, implementation, configuration, hardening, administration, and maintenance. Expertise in troubleshooting hardware, software, and network issues in high-pressure situations. Prolific blogger, opensource.com and DZone contributor, Triangle DevOps and Detroit Golang Meetup organizer and speaker, Speaker at DevOpsDays Detroit 2016-2017, GopherCon 2017, DevOps Days Raleigh 2017, and All Things Open 2017.
 
 ## Skills
 
@@ -27,7 +27,7 @@ AWS (CloudTrail, CloudWatch, EC2, Lambda, Route53, S3, SES, SQS, VPC), Akamai, C
 
 ### Hardware
 
-Avaya/Nortel ERS 5510, BNT Blade Switch, Brocade SX 1600, Cisco 5500 ASAs, Dell, Fiber Optic Modems, Fireberd 6000A, Fluke EtherScopes, Fujitsu Servers, HP, IBM, Multi-meters, NSA Approved Encryption Devices, Network/Protocol Analyzers, Oscilloscopes, PairGains, TippingPoint IDS/IPS
+Avaya/Nortel ERS 5510, BNT Blade Switch, Brocade SX 1600, Cisco 5500 ASAs, Dell, Fiber Optic Modems, Fireberd 6000A, Fluke EtherScopes, Fujitsu Servers, HP, IBM, Multimeters, NSA Approved Encryption Devices, Network/Protocol Analyzers, Oscilloscopes, PairGains, TippingPoint IDS/IPS
 
 ### Protocols
 
