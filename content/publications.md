@@ -8,6 +8,7 @@ tags = ["publications"]
 title = "Publications"
 +++
 
+* 2017-12-06: [10 must-read DevOps resources](https://opensource.com/article/17/12/10-must-read-devops-books)
 * 2017-10-25: [What's your DevOps problem?](https://opensource.com/article/17/10/dear-devops)
 * 2017-07-25: [Testing Certificate Chains in Go](https://dzone.com/articles/testing-certificate-chains-in-go)
 * 2017-05-25: [5 laws every aspiring DevOps engineer should know](https://opensource.com/open-organization/17/5/5-devops-laws)
