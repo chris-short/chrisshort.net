@@ -13,8 +13,8 @@ googleAnalytics = "UA-4498776-3"
   post = ":title/"
 
 [Params]
-  subtitle = "DevOps'ing with a Flourish, Sarcasm as a Service™, OSS Advocate, Florida Gator, Partially Disabled AF Vet, Husband, Father. Views are solely mine."
-  description = "DevOps'ing with a Flourish, Sarcasm as a Service™, OSS Advocate, Florida Gator, Partially Disabled AF Vet, Husband, Father. Views are solely mine."
+  subtitle = "DevOps, Cloud Native, Open Source, Sarcasm, Florida Gators, Partially Disabled Veteran, Husband, Father. Views are mine."
+  description = "DevOps, Cloud Native, Open Source, Sarcasm, Florida Gators, Partially Disabled Veteran, Husband, Father. Views are mine." 
   logo = "https://cdn.chrisshort.net/Late-2017-Headshot-Square-Optimized.jpg"
   favicon = "https://cdn.chrisshort.net/favicons/favicon.ico"
   dateFormat = "January 2, 2006"
