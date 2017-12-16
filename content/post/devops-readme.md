@@ -5,7 +5,7 @@ date = 2017-09-27T21:45:00Z
 description = "A curated list of things to read to level up your DevOps skills and knowledge."
 draft = false
 slug = "devops-readme.md"
-tags = ["DevOps", "books", "culture"]
+tags = ["DevOps", "books", "culture", "cloud native"]
 title = "DevOps README.md"
 
 +++

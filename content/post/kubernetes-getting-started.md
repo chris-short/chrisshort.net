@@ -5,7 +5,7 @@ date = 2017-11-30T20:50:00Z
 description = "How do you get started with 'an open-source system for automating deployment, scaling, and management of containerized applications'?"
 draft = false
 slug = "kubernetes-getting-started"
-tags = ["DevOps", "kubernetes", "minishift", "minikube", "coreos", "tectonic"]
+tags = ["DevOps", "kubernetes", "minishift", "minikube", "coreos", "tectonic", "cloud native"]
 title = "Kubernetes: Getting Started"
 image = "https://cdn.chrisshort.net/kubernetes-getting-started.png"
 

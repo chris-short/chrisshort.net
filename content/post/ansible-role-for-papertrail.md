@@ -5,7 +5,7 @@ date = 2016-12-09T13:35:00Z
 description = ""
 draft = false
 slug = "ansible-role-for-papertrail"
-tags = ["ansible", "DevOps"]
+tags = ["ansible", "DevOps", "cloud native"]
 title = "Ansible Role for Papertrail"
 
 +++
