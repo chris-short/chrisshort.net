@@ -35,7 +35,7 @@ googleAnalytics = "UA-4498776-3"
 
 [Author]
   name = "Chris Short"
-#  email = ""
+  email = "chris@chrisshort.net"
   facebook = "thechrisshort"
   googleplus = "+ChrisShort" # or xxxxxxxxxxxxxxxxxxxxx
   github = "chris-short"
@@ -92,22 +92,19 @@ pattern = "2006"
 [[menu.main]]
     identifier = "menu"
     name = "Menu"
+    weight = 999
+
+[[menu.main]]
+    name = "Home"
+    url = "/"
     weight = 1
 
 [[menu.main]]
-    parent = "menu"
-    name = "Home"
-    url = "/"
-    weight = 10
-
-[[menu.main]]
-    parent = "menu"
     name = "Newsletter"
     url = "http://eepurl.com/csvznH"
     weight = 19
 
 [[menu.main]]
-    parent = "menu"
     name = "About"
     url = "/about/"
     weight = 20
@@ -144,15 +141,15 @@ pattern = "2006"
 
 [[menu.main]]
     parent = "menu"
-    name = "Causes"
-    url = "/causes/"
-    weight = 44
-
-[[menu.main]]
-    parent = "menu"
     name = "Drawings"
     url = "/tags/drawing/"
     weight = 49
+
+[[menu.main]]
+    parent = "menu"
+    name = "Causes"
+    url = "/causes/"
+    weight = 50
 
 [[menu.main]]
     parent = "menu"

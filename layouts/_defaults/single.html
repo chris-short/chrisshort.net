@@ -3,13 +3,10 @@
   <div class="row">
     <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
       <article role="main" class="blog-post">
-        {{ if .Param "image" }}
-          <img src="{{ .Param "image" }}">
-        {{ end }}
         {{ .Content }}
       </article>
 
-      {{ $related := .Site.RegularPages.Related . | first 5 }}
+      {{ $related := .Site.RegularPages.Related . | first 4 }}
       {{ with $related }}
       <h3>See Also</h3>
       <ul>
@@ -32,10 +29,16 @@
         {{ end }}
       </ul>
 
+
       {{ if (.Params.comments) | or (and (or (not (isset .Params "comments")) (eq .Params.comments nil)) (.Site.Params.comments)) }}
         {{ if .Site.DisqusShortname }}
           <div class="disqus-comments">
             {{ template "_internal/disqus.html" . }}
+          </div>
+        {{ end }}
+        {{ if .Site.Params.staticman }}
+          <div class="staticman-comments">
+            {{ partial "staticman-comments.html" . }}
           </div>
         {{ end }}
       {{ end }}

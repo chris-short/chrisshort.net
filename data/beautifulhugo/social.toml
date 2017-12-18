@@ -5,6 +5,12 @@ title = "Email me"
 icon = "fa-envelope"
 
 [[social_icons]]
+id = "github"
+url = "https://github.com/%s"
+title = "GitHub"
+icon = "fa-github"
+
+[[social_icons]]
 id = "twitter"
 url = "https://twitter.com/%s"
 title = "Twitter"
@@ -17,28 +23,22 @@ title = "LinkedIn"
 icon = "fa-linkedin"
 
 [[social_icons]]
-id = "facebook"
-url = "https://www.facebook.com/%s"
-title = "Facebook"
-icon = "fa-facebook"
-
-[[social_icons]]
 id = "medium"
 url = "https://medium.com/%s/"
 title = "medium"
 icon = "fa-medium"
 
 [[social_icons]]
+id = "facebook"
+url = "https://www.facebook.com/%s"
+title = "Facebook"
+icon = "fa-facebook"
+
+[[social_icons]]
 id = "tumblr"
 url = "https://%s.tumblr.com"
 title = "tumblr"
 icon = "fa-tumblr"
-
-[[social_icons]]
-id = "github"
-url = "https://github.com/%s"
-title = "GitHub"
-icon = "fa-github"
 
 [[social_icons]]
 id = "gitlab"
