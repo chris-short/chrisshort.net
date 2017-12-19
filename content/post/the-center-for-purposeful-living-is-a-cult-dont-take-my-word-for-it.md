@@ -7,8 +7,10 @@ draft = false
 slug = "the-center-for-purposeful-living-is-a-cult-dont-take-my-word-for-it-2"
 tags = ["center for purposeful living"]
 title = "The Center for Purposeful Living is a Cult: Don’t Take My Word For It"
-aliases = ["the-center-for-purposeful-living-is-a-cult-dont-take-my-word-for-it-2"]
-
+aliases = [
+    "the-center-for-purposeful-living-is-a-cult-dont-take-my-word-for-it-2",
+    "/post/65748540/the-center-for-purposeful-living-is-a-cult-dont-take"
+]
 +++
 
 It’s obvious I’m not the only one that believes Human Service Alliance, University for Human Goodness, Center for Purposeful Living, or whatever they are calling themselves this week is a cult. That fact is apparent to many not engulfed in the organization including those that have had some limited experience with the cult. A few nights ago I had an exchange of e-mails with someone who wishes to remain anonymous (so for the sake of this article we’ll call them Quincy).

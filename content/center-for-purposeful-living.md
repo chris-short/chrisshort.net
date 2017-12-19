@@ -7,6 +7,9 @@ draft = false
 slug = "center-for-purposeful-living"
 tags = ["center for purposeful living", "human service alliance", "hsa"]
 title = "Center for Purposeful Living"
+aliases = [
+    "/post/119631260/center-for-purposeful-living"
+]
 
 +++
 

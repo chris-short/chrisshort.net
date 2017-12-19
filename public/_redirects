@@ -1,3 +1,5 @@
+# This files is unique to Netlify (Not a hugo component; use of hugo's alias function is encouraged)
+
 */amp/ /:splat 301
 /author/chris* / 301
 /categories/apt /tags/apt 301
@@ -39,6 +41,8 @@
 /resume/ /resume-cv/ 301
 /rss /index.xml 301
 /tag/* /tags/:splat 301
+/sitemap-posts.xml /sitemap.xml 301
+
 # Back to Tumblr
 /post/* https://chrisshort.tumblr.com/post/:splat 301
 /tagged/* https://chrisshort.tumblr.com/tagged/:splat 301
@@ -47,3 +51,6 @@
 /day/* http://chrisshort.tumblr.com/day/:splat 301
 /random/* http://chrisshort.tumblr.com/random/:splat 301
 /ask/* http://chrisshort.tumblr.com/ask/:splat 301
+
+# opensource.com mistakes
+/p/5dbc46a9-5091-4251-967d-43517f38a467/ / 301

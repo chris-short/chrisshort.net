@@ -4,11 +4,13 @@ categories = ["Center for Purposeful Living"]
 date = 2005-07-08T20:00:00Z
 description = ""
 draft = false
-slug = "the-cult-that-is-human-service-alliance-and-the-center-for-purposeful-living-2"
+slug = "the-cult-that-is-human-service-alliance-and-the-center-for-purposeful-living"
 tags = ["center for purposeful living"]
 title = "The Cult that is Human Service Alliance and the Center for Purposeful Living"
-aliases = ["the-cult-that-is-human-service-alliance-and-the-center-for-purposeful-living-2"]
-
+aliases = [
+    "the-cult-that-is-human-service-alliance-and-the-center-for-purposeful-living-2", 
+    "/post/65745344/the-cult-that-is-human-service-alliance-and-the-center"
+]    
 +++
 
 Allow me to take a moment to inform you about a dark part of my past that I have kept from quite a few people; while I was a child I was an unwilling member of a cult known then as **Human Service Alliance** and after quite a few name changes (to include the **University for Human Goodness**) it is now known as the **Center for Purposeful Living**. I was young and when you’re in an environment like that you don’t know any better regardless of your age. Shortly after my now disowned biological mother divorced my father she started taking my brother and I to a strange place in Boomer, North Carolina (the then campus of Human Service Alliance). I was so young at the time that I didn’t really care where I was but my ultimate goal was to spend time with my father. There were kids at HSA in Boomer, NC and I had people to play with so I was as happy as a boy without a permanent father figure could be.
