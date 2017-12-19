@@ -1,3 +1,4 @@
+*/amp/ /:splat 301
 /author/chris* / 301
 /categories/apt /tags/apt 301
 /categories/aws /tags/aws 301
@@ -37,4 +38,12 @@
 /img/404-southpark.jpg https://cdn.chrisshort.net/404-southpark.jpg 301
 /resume/ /resume-cv/ 301
 /rss /index.xml 301
-/tag/* /tags/t 301
+/tag/* /tags/:splat 301
+# Back to Tumblr
+/post/* https://chrisshort.tumblr.com/post/:splat 301
+/tagged/* https://chrisshort.tumblr.com/tagged/:splat 301
+/archive/* https://chrisshort.tumblr.com/archive/:splat 301
+/image/* http://chrisshort.tumblr.com/image/:splat 301
+/day/* http://chrisshort.tumblr.com/day/:splat 301
+/random/* http://chrisshort.tumblr.com/random/:splat 301
+/ask/* http://chrisshort.tumblr.com/ask/:splat 301
