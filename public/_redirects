@@ -1,4 +1,4 @@
-/author/chris/ / 301
+/author/chris* / 301
 /categories/apt /tags/apt 301
 /categories/aws /tags/aws 301
 /categories/badlock /tags/badlock 301
@@ -37,4 +37,4 @@
 /img/404-southpark.jpg https://cdn.chrisshort.net/404-southpark.jpg 301
 /resume/ /resume-cv/ 301
 /rss /index.xml 301
-/tag/* /tags/:splat 301
+/tag/* /tags/t 301
