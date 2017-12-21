@@ -7,11 +7,16 @@ draft = false
 slug = "linux-ease-of-use"
 tags = ["linux", "Microsoft", "open source"]
 title = "Linux and Ease of Use"
+<<<<<<< HEAD
 image = "https://cdn.chrisshort.net/Tux.png"
 aliases = [
     "/archives/2005/01/linux-and-ease-of-use.php",
     "linux-and-ease-of-use.php"
     ]
+=======
+image = "https://cdn.chrisshort.net/hp-pavilion-zv5260us-01.jpg"
+aliases = ["/archives/2005/01/linux-and-ease-of-use.php"]
+>>>>>>> 4bada1c0a9a746e2c8ec57ed128102a132b524f7
 
 +++
 
