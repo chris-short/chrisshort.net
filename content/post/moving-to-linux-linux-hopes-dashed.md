@@ -7,7 +7,10 @@ draft = false
 slug = "moving-to-linux-linux-hopes-dashed"
 tags = ["linux"]
 title = "Moving to Linux - Linux Hopes Dashed"
-aliases = ["moving-to-linux-linux-hopes-dashed"]
+aliases = [
+    "moving-to-linux-linux-hopes-dashed",
+    "/archives/2005/01/moving-to-linux-linux-hopes-dashed.php"
+    ]
 
 +++
 

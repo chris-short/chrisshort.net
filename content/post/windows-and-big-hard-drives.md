@@ -8,7 +8,11 @@ image = "https://cdn.chrisshort.net/Windows_XP_Logo.png"
 slug = "windows-and-big-hard-drives"
 tags = ["microsoft", "windows xp"]
 title = "Windows XP and Big Hard Drives"
-aliases = ["windows-and-big-hard-drives"]
+aliases = [
+    "windows-and-big-hard-drives",
+    "/archives/2005/01/windows-and-big-hard-drives.php",
+    "windows-and-big-hard-drives.php"
+    ]
 
 +++
 
