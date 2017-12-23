@@ -16,6 +16,8 @@ aliases = [
 
 The [Ansible](https://chrisshort.net/tags/ansible/) [lineinfile](http://docs.ansible.com/ansible/lineinfile_module.html) module is designed to search a file for a line, and ensure that it is present or absent. lineinfile is very effective at that particular task. However, when the line has to be in a certain place or before or after a certain line, lineinfile becomes a hassle to manage.
 
+Most people on IRC (#ansible) tend to agree, lineinfile is not a very good module in practice. Even [Brain Coca says to avoid the lineinfile module](https://groups.google.com/d/msg/ansible-project/vjquGCRcLJc/QEgebch_DQAJ). But, there is one use case I have found where line in file really excels.
+
 <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 <!-- chrisshort.net Responsive -->
 <ins class="adsbygoogle"
@@ -26,8 +28,6 @@ The [Ansible](https://chrisshort.net/tags/ansible/) [lineinfile](http://docs.ans
 <script>
    (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
-
-Most people on IRC (#ansible) tend to agree, lineinfile is not a very good module in practice. Even [Brain Coca says to avoid the lineinfile module](https://groups.google.com/d/msg/ansible-project/vjquGCRcLJc/QEgebch_DQAJ). But, there is one use case I have found where line in file really excels.
 
 If you are not using the [Mozilla SSL Configuration Generator](https://mozilla.github.io/server-side-tls/ssl-config-generator/) you are really missing out. It is a great tool that is super easy to use to maintain [recommended SSL/TLS configurations](https://wiki.mozilla.org/Security/Server_Side_TLS#Recommended_configurations) on all your HTTP endpoints.
 
