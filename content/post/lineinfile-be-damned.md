@@ -2,12 +2,15 @@
 author = "Chris Short"
 categories = ["Ansible"]
 date = 2016-09-06T16:30:00Z
-description = ""
+description = "Ansible lineinfile module is a cumbersome one to work. Here is a use case and examples of how to utilize Ansible lineinfile"
 draft = false
 image = "https://cdn.chrisshort.net/Ansible-Mark-Large-RGB-Black.png"
-slug = "lineinfile-be-damned"
+slug = "ansible-lineinfile-be-damned"
 tags = ["ansible", "lineinfile", "module"]
-title = "lineinfile be damned"
+title = "Ansible lineinfile be damned"
+aliases = [
+  "lineinfile-be-damned"
+]
 
 +++
 
