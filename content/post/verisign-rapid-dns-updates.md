@@ -9,6 +9,7 @@ tags = ["internet", "DNS"]
 title = "VeriSign's rapid DNS updates in .com/.net"
 aliases = [
     "/archives/2004/07/verisigns-rapid-dns-updates-in-com/net.php",
+    "/verisigns-rapid-dns-updates-in-.com/.net/",
     "verisigns-rapid-dns-updates-in-com/net.php",
     "verisign-rapid-DNS-updates"
     ]

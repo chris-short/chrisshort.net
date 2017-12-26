@@ -7,6 +7,10 @@ draft = false
 slug = "linux-directory-structure"
 tags = ["linux"]
 title = "Linux Directory Structure"
+aliases = [
+    "/archives/2005/01/linux-directory-structure.php",
+    "linux-directory-structure.php"
+]
 
 +++
 

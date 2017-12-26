@@ -35,6 +35,14 @@
 /categories/vcs /tags/vcs 301
 /categories/windows-xp /tags/windows-xp 301
 /categories/windows-xp/ /tags/windows-xp/ 301
+/categories/content-blockers/ /tags/content-blockers/ 301
+/categories/lineinfile/ /tags/lineinfile/ 301
+/categories/north-carolina-veterans/ /tags/north-carolina-veterans/ 301
+/categories/tech-control /tags/tech-control 301
+/categories/virtualbox/ /tags/virtualbox/ 301
+/categories/wireless /tags/wireless 301
+/categories/yubikey /tags/yubikey 301
+/categories/yubikey/ /tags/yubikey/ 301
 /cv/ /resume-cv/ 301
 /http-2-primer-and-drawing/ /http/2-primer/ 301
 /img/404-southpark.jpg https://cdn.chrisshort.net/404-southpark.jpg 301
@@ -42,6 +50,14 @@
 /rss /index.xml 301
 /tag/* /tags/:splat 301
 /sitemap-posts.xml /sitemap.xml 301
+/tags/ansible-galaxy/ /tags/ansible/ 301
+/archives/gaming/ / 301
+/archives/search-engine-optimization/ / 301
+/archives/news/ / 301
+/archives/miscellaneous/ / 301
+/archives//commentary / 301
+/archives/blogging/ / 301
+/archives/chrisshortnet/ / 301
 
 # Back to Tumblr
 /post/* https://chrisshort.tumblr.com/post/:splat 301
