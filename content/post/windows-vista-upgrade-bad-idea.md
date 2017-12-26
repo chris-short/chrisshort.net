@@ -1,7 +1,7 @@
 +++
 author = "Chris Short"
 categories = ["Microsoft"]
-date = 2007-02-01T205:14:00Z
+date = "2007-02-01T205:14:00Z"
 description = "Four reasons why upgrading to Windows Vista is a REALLY bad idea."
 draft = false
 slug = "windows-vista-upgrade-bad-idea"
