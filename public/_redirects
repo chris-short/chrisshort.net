@@ -43,6 +43,8 @@
 /categories/wireless /tags/wireless 301
 /categories/yubikey /tags/yubikey 301
 /categories/yubikey/ /tags/yubikey/ 301
+/categories/winged-scapula /tags/winged-scapula/ 301
+/categories/long-thoracic-nerve /categories/long-thoracic-nerve-palsy/ 301
 /cv/ /resume-cv/ 301
 /http-2-primer-and-drawing/ /http/2-primer/ 301
 /img/404-southpark.jpg https://cdn.chrisshort.net/404-southpark.jpg 301
@@ -55,9 +57,10 @@
 /archives/search-engine-optimization/ / 301
 /archives/news/ / 301
 /archives/miscellaneous/ / 301
-/archives//commentary / 301
+/archives/commentary / 301
 /archives/blogging/ / 301
 /archives/chrisshortnet/ / 301
+/archives/open-source-software/ /tags/open-source/ 301
 
 # Back to Tumblr
 /post/* https://chrisshort.tumblr.com/post/:splat 301
