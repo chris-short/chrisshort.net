@@ -22,7 +22,7 @@ googleAnalytics = "UA-4498776-3"
   commit = "https://github.com/chris-short/chrisshort.net/tree/"
   rss = true
   comments = true
-  gcse = "8972983586873269:7437701092" # Get your code from google.com/cse. Make sure to go to "Look and Feel" and change Layout to "Full Width" and Theme to "Classic"
+#  gcse = "8972983586873269:7437701092" # Get your code from google.com/cse. Make sure to go to "Look and Feel" and change Layout to "Full Width" and Theme to "Classic"
 
 #[[Params.bigimg]]
 #  src = "img/triangle.jpg"
