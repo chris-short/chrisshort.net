@@ -1,5 +1,6 @@
 baseurl = "https://chrisshort.net/"
 DefaultContentLanguage = "en"
+enableRobotsTXT = "true"
 enableemoji = "true"
 title = "Chris Short"
 theme = "beautifulhugo"
