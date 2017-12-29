@@ -14,15 +14,15 @@ googleAnalytics = "UA-4498776-3"
   post = ":title/"
 
 [Params]
-  subtitle = "DevOps, Cloud Native, Open Source, Sarcasm, Florida Gators, Partially Disabled Veteran, Husband, Father. Views are mine."
-  description = "DevOps, Cloud Native, Open Source, Sarcasm, Florida Gators, Partially Disabled Veteran, Husband, Father. Views are mine." 
+  subtitle = "DevOps, Cloud Native, Open Source, Sarcasm, Florida Gators, Partially Disabled Veteran, Husband, Father. Views are solely mine."
+  description = "DevOps, Cloud Native, Open Source, Sarcasm, Florida Gators, Partially Disabled Veteran, Husband, Father. Views are solely mine." 
   logo = "https://cdn.chrisshort.net/Late-2017-Headshot-Square-Optimized.jpg"
   favicon = "https://cdn.chrisshort.net/favicons/favicon.ico"
   dateFormat = "January 2, 2006"
   commit = "https://github.com/chris-short/chrisshort.net/tree/"
   rss = true
   comments = true
-#  gcse = "8972983586873269:7437701092" # Get your code from google.com/cse. Make sure to go to "Look and Feel" and change Layout to "Full Width" and Theme to "Classic"
+  gcse = "8972983586873269:7437701092" # Get your code from google.com/cse. Make sure to go to "Look and Feel" and change Layout to "Full Width" and Theme to "Classic"
 
 #[[Params.bigimg]]
 #  src = "img/triangle.jpg"
