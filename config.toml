@@ -1,6 +1,5 @@
 baseurl = "https://chrisshort.net/"
 DefaultContentLanguage = "en"
-enableRobotsTXT = "true"
 enableemoji = "true"
 title = "Chris Short"
 theme = "beautifulhugo"
@@ -9,6 +8,7 @@ pygmentsUseClasses = true
 pygmentCodeFences = true
 disqusShortname = "chrisshort"
 googleAnalytics = "UA-4498776-3"
+paginate = 6
 
 [permalinks]
   post = ":title/"
