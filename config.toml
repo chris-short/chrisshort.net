@@ -37,7 +37,7 @@ paginate = 6
 [Author]
   name = "Chris Short"
   email = "chris@chrisshort.net"
-  facebook = "thechrisshort"
+#  facebook = "thechrisshort"
 #  googleplus = "+ChrisShort" # or xxxxxxxxxxxxxxxxxxxxx
   github = "chris-short"
 #  gitlab = "username"
