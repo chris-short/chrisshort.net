@@ -34,7 +34,7 @@ To be clear, Docker has helped revolutionize software development. Taking Linux 
 
 Docker's early success lead to the company building a big community around its product. That early success fueled funding round after funding round. Well known investors like Goldman Sachs, Greylock Partners, Sequoia Capital, and Insight Venture Partners lined up to [give truckloads of money to Docker](https://www.crunchbase.com/organization/docker). To date, Docker has raised capital investments totaling between $242 to over $250 million dollars.
 
-But, like most well funded, win at all cost start-ups of the 2010s, Docker made some human resources missteps. Docker has protected some crappy people along its rise. This led to my personal dislike of the company's leadership. The product is still quality but it doesn't excuse the company's behavior AT ALL. Sadly, this is the case for a lot of Silicon Valley darlings and it needs to change.
+But, like most well funded, win at all cost start-ups of the 2010s, Docker made some human resources missteps. [Docker has protected some crappy people along its rise](https://twitter.com/mipsytipsy/status/723565091598147584). This led to my personal dislike of the company's leadership. The product is still quality but it doesn't excuse the company's behavior AT ALL. Sadly, this is the case for a lot of Silicon Valley darlings and it needs to change.
 
 ### Kubernetes Dealt Damage to Docker
 
