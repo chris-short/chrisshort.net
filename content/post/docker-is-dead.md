@@ -19,6 +19,8 @@ aliases = [
 
 To say that [Docker](https://www.docker.com/) had a very rough 2017 is an understatement. Aside from Uber, I can't think of a more utilized, hyped, and well funded Silicon Valley startup (still in operation) fumbling as bad as Docker did in 2017. People will look back on 2017 as the year Docker, a great piece of software, was completely ruined by bad business practices leading to its end in 2018. This is an outside facing retrospective on how and where Docker went wrong and how Docker's efforts to fix it are far too little way too late.
 
+Japanese Translation: [Docker社は死んだ](http://itosho525.hatenablog.com/entry/2018/01/01/074358)
+
 > [**Subscribe to DevOps'ish**](http://eepurl.com/csvznH) for updates on Docker as well as other DevOps, Cloud Native, and Open Source news.
 
 ### Docker is Good Software
@@ -81,3 +83,5 @@ The real problem with Docker is a lack of coherent leadership. There appears to 
 I floated out [a theory on Twitter](https://twitter.com/ChrisShort/status/946724417249345536) about the awkward moments for Docker in 2017. It is possible Docker knows the end is near for the company itself. As organizational changes have indicated a pending exit (likely through acquisition), the technical core of the company prioritized some changes. [Donating containerd to CNCF](https://blog.docker.com/2017/03/docker-donates-containerd-to-cncf/), making Moby the upstream of Docker, and embracing Kubernetes will immortalize the good work done by the folks at Docker. This allows a large organization like Oracle or Microsoft to come along and acquire the company without worrying about the technological advances made by Docker employees being locked behind licenses. This provides the best of both worlds for the software teams and company itself. Needless to say, 2018 will be an interesting year for Docker.
 
 > [**Subscribe to DevOps'ish**](http://eepurl.com/csvznH) for updates on Docker as well as other DevOps, Cloud Native, and Open Source news.
+
+Japanese Translation: [Docker社は死んだ](http://itosho525.hatenablog.com/entry/2018/01/01/074358)
