@@ -9,7 +9,7 @@ tags = ["open source", "docker", "containers", "kubernetes", "moby"]
 title = "Docker, Inc. is Dead"
 image = "https://cdn.chrisshort.net/docker-is-dead.png"
 aliases = [
-    "/docker-is-dead/"
+    "/docker-is-dead/",
     "/docker-is-dead"
 ]
 
