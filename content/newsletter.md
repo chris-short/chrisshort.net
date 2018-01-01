@@ -1,6 +1,6 @@
 +++
 author = "Chris Short"
-date = 2018-01-18T16:00:00Z
+date = 2018-01-01T16:00:00Z
 description = "Newsletter Signup"
 draft = false
 slug = "newsletter"
