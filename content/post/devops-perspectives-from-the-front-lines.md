@@ -22,3 +22,6 @@ Your browser does not support the audio element but you can download it as an MP
 Also available as an [MP3 download](https://cdn.chrisshort.net/The%20Cloudcast%20%23277%20-%20DevOps%20Perspectives%20from%20the%20Front%20Lines.mp3)
 
 Subscribe to The Cloudcast; they're good people.
+
+
+> [**Subscribe to DevOps'ish**](http://eepurl.com/csvznH) for updates on DevOps, Cloud Native, and Open Source news.
