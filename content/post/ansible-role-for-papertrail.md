@@ -20,4 +20,4 @@ Being my first Ansible role I have submitted to Galaxy I am pretty stoked about 
 
 One nifty feature I discovered while working on the Travis CI playbook was the addition of the `ansible_pkg_mgr` fact. This is awesome because you can apply tasks to systems that have a specific package manager. Previously you would need to address Debian, Ubuntu, Fedora, CentOS, and on, and on separately. Three tasks covered the all the OSes I really wanted to test (apt, dnf, and yum).
 
-> [**Subscribe to DevOps'ish**](http://eepurl.com/csvznH) for updates on Ansible as well as other DevOps, Cloud Native, and Open Source news.
+> [**Subscribe to DevOps'ish**](/newsletter/) for updates on Ansible as well as other DevOps, Cloud Native, and Open Source news.

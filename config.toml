@@ -102,7 +102,7 @@ pattern = "2006"
 
 [[menu.main]]
     name = "Newsletter"
-    url = "http://eepurl.com/csvznH"
+    url = "/newsletter/"
     weight = 19
 
 [[menu.main]]

@@ -22,6 +22,8 @@ Chris is now working in the open source, Linux systems, and DevOps spaces. He wr
 
 ### Appearances Elsewhere
 
+* [DevOps'ish](https://devopsish.com)
+* [Newsletter](/newsletter/)
 * [Talks](/talks/)
 * [Interviews](/categories/interviews/)
 * [Books](/books/)

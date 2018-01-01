@@ -33,7 +33,7 @@ If you are not using the [Mozilla SSL Configuration Generator](https://mozilla.g
 
 We recently had a task to get our TLS configurations up to the latest recommended guidance as well as make those configurations as consistent as possible. But this meant we had to touch over 900 different customer impacting Apache configurations.
 
-> [**Subscribe to DevOps'ish**](http://eepurl.com/csvznH) for updates on Ansible as well as other DevOps, Cloud Native, and Open Source news.
+> [**Subscribe to DevOps'ish**](/newsletter/) for updates on Ansible as well as other DevOps, Cloud Native, and Open Source news.
 
 Ansible to the rescue! But making and deploying templated configurations was going to be far too time-consuming to meet the self-imposed deadline we had set. This is the first time in my 2+ years of working with Ansible where I have come across a good use case for the lineinfile module.
 
@@ -114,4 +114,4 @@ This playbook took a while to run but once it was done we had consistent, well c
 
 UPDATE: Thanks to [pferde on Hacker News](https://news.ycombinator.com/item?id=12435809) for pointing out a flaw in my regex in insertafter for the Edit SSLProtocol task. It has been corrected.
 
-> [**Subscribe to DevOps'ish**](http://eepurl.com/csvznH) for updates on Ansible as well as other DevOps, Cloud Native, and Open Source news.
+> [**Subscribe to DevOps'ish**](/newsletter/) for updates on Ansible as well as other DevOps, Cloud Native, and Open Source news.

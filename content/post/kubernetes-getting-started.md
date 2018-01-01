@@ -29,7 +29,7 @@ If you want an "Explain Like I'm Five" guide to what Kubernetes is and some of i
 
 Let's break down the two areas you can get started with Kubernetes. The first area is maintaining or operating the Kubernetes cluster itself. The second area is deploying and maintaining applications running in a Kubernetes cluster. The distinction here is to provide compartmentalization when learning Kubernetes. To be proficient at Kubernetes you should know both but, you can get started knowing one area or the other.
 
-> [**Subscribe to DevOps'ish**](http://eepurl.com/csvznH) for updates on Kubernetes as well as other DevOps, Cloud Native, and Open Source news.
+> [**Subscribe to DevOps'ish**](/newsletter/) for updates on Kubernetes as well as other DevOps, Cloud Native, and Open Source news.
 
 To learn how the internals of Kubernetes works I would recommend [Kelsey Hightower's "Kubernetes The Hard Way"](https://github.com/kelseyhightower/kubernetes-the-hard-way). It is a hands-on series of labs to bringing up Kubernetes with zero automation. If you want to know how to stand up all the pieces that make a full Kubernetes cluster then this is the path for you.
 
@@ -50,4 +50,4 @@ After kicking the tires on minikube if you feel like it is missing a few compone
 
 Regardless of how you get started learning Kubernetes now is the time to start. There are so many places to deploy Kubernetes now it doesn't make sense to not kick the tires now before determining if it is a great fit for your use cases. Before you deploy to AWS, Google Cloud, or Azure make sure you're not wasting your time.
 
-> [**Subscribe to DevOps'ish**](http://eepurl.com/csvznH) for updates on Kubernetes as well as other DevOps, Cloud Native, and Open Source news.
+> [**Subscribe to DevOps'ish**](/newsletter/) for updates on Kubernetes as well as other DevOps, Cloud Native, and Open Source news.
