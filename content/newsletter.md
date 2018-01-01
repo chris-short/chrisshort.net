@@ -1,7 +1,7 @@
 +++
 author = "Chris Short"
 date = 2018-01-01T16:00:00Z
-description = "Newsletter Signup"
+description = "Subscribe to DevOps’ish for updates on DevOps, Cloud Native, and Open Source news."
 draft = false
 slug = "newsletter"
 title = "Newsletter"
