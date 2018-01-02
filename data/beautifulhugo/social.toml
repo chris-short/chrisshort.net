@@ -18,7 +18,7 @@ icon = "fa-twitter"
 
 [[social_icons]]
 id = "linkedin"
-url = "https://linkedin.com/in/%s"
+url = "https://linkedin.com/in/%s/"
 title = "LinkedIn"
 icon = "fa-linkedin"
 
@@ -48,7 +48,7 @@ icon = "fa-gitlab"
 
 [[social_icons]]
 id = "reddit"
-url = "https://reddit.com/u/%s"
+url = "https://www.reddit.com/user/%s"
 title = "Reddit"
 icon = "fa-reddit-alien"
 
@@ -72,7 +72,7 @@ icon = "fa-snapchat-ghost"
 
 [[social_icons]]
 id = "instagram"
-url = "https://www.instagram.com/%s"
+url = "https://www.instagram.com/%s/"
 title = "Instagram"
 icon = "fa-instagram"
 

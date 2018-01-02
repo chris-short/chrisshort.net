@@ -8,13 +8,14 @@ pygmentsUseClasses = true
 pygmentCodeFences = true
 disqusShortname = "chrisshort"
 googleAnalytics = "UA-4498776-3"
+paginate = 6
 
 [permalinks]
   post = ":title/"
 
 [Params]
-  subtitle = "DevOps, Cloud Native, Open Source, Sarcasm, Florida Gators, Partially Disabled Veteran, Husband, Father. Views are mine."
-  description = "DevOps, Cloud Native, Open Source, Sarcasm, Florida Gators, Partially Disabled Veteran, Husband, Father. Views are mine." 
+  subtitle = "DevOps, Cloud Native, Open Source, Sarcasm, Florida Gators, Partially Disabled Veteran, Husband, Father. Views are solely mine."
+  description = "DevOps, Cloud Native, Open Source, Sarcasm, Florida Gators, Partially Disabled Veteran, Husband, Father. Views are solely mine." 
   logo = "https://cdn.chrisshort.net/Late-2017-Headshot-Square-Optimized.jpg"
   favicon = "https://cdn.chrisshort.net/favicons/favicon.ico"
   dateFormat = "January 2, 2006"
@@ -36,8 +37,8 @@ googleAnalytics = "UA-4498776-3"
 [Author]
   name = "Chris Short"
   email = "chris@chrisshort.net"
-  facebook = "thechrisshort"
-  googleplus = "+ChrisShort" # or xxxxxxxxxxxxxxxxxxxxx
+#  facebook = "thechrisshort"
+#  googleplus = "+ChrisShort" # or xxxxxxxxxxxxxxxxxxxxx
   github = "chris-short"
 #  gitlab = "username"
   twitter = "ChrisShort"
@@ -47,15 +48,15 @@ googleAnalytics = "UA-4498776-3"
   tumblr = "chrisshort"
 #  xing = "username"
 #  stackoverflow = "users/XXXXXXX/username"
-  snapchat = "oaf357"
+#  snapchat = "oaf357"
   instagram = "thechrisshort"
-  500px = "chrisshort"
+#  500px = "chrisshort"
   flickr = "chris-short"
 #  youtube = "user/username" # or channel/channelname
   soundcloud = "chris-short-15"
-  twitch = "thechrisshort"
+#  twitch = "thechrisshort"
   keybase = "chrisshort"
-  producthunt = "@chrisshort"
+#  producthunt = "@chrisshort"
 #  spotify = "username"
 #  bandcamp = "username"
 #  itchio = "username"
@@ -101,7 +102,7 @@ pattern = "2006"
 
 [[menu.main]]
     name = "Newsletter"
-    url = "http://eepurl.com/csvznH"
+    url = "/newsletter/"
     weight = 19
 
 [[menu.main]]

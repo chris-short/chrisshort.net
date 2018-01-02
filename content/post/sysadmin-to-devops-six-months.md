@@ -14,7 +14,7 @@ aliases = ["sysadmin-to-devops-six-months"]
 
 The other day my Vice President asked me a question, "What would it take to turn a good SysAdmin into a DevOps engineer?" He followed it up with, "Don't spend more than ten minutes thinking about it." He was not disappointed when I told him the next day I am spending way more than ten minutes on answering the question. This is a hard question for me to answer. This is a question that you won't know if your answer is right for at least six months.
 
-[**Subscribe to DevOps'ish Weekly**](http://eepurl.com/csvznH)
+> [**Subscribe to DevOps'ish**](/newsletter/) for updates on DevOps, Cloud Native, and Open Source news.
 
 I had more than ten minutes worth of thoughts pop into my head within seconds of the question. A deluge of DevOps lessons learned washed over me. I realized that I needed to build a framework to help others embrace DevOps culture and thinking. It's not feasible to have a framework that does not define what you are trying to build.
 
@@ -99,4 +99,4 @@ Reading newsletters cultivated by active community members (not product makers) 
 
 The DevOps journey is a combination of people, processes, and tools. The culmination of these is a team of allies pushing the envelope and never resting on their laurels. There is no such thing as a completed DevOps transition. Resting on your laurels is not a DevOps mindset. DevOps and its allies should be iterating and improving upon what they have learned daily. Building a team to do anything is no simple task. But, building a person that's willing to embrace cultures and methods is an easier task. Show them a path, help them go down it, and embrace their feedback. 
 
-[**Subscribe to DevOps'ish Weekly**](http://eepurl.com/csvznH)
+> [**Subscribe to DevOps'ish**](/newsletter/) for updates on DevOps, Cloud Native, and Open Source news.

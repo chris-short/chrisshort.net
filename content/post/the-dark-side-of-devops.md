@@ -15,7 +15,7 @@ title = "The Dark Side of DevOps"
 
 A lot of people think that [DevOps](https://devopsish.com/), [Cloud Native](https://pivotal.io/cloud-native), [Agile](http://agilemanifesto.org/), [GROWS](http://growsmethod.com/), etc. are all rainbows and roses. You start small and work your way up to full blown operations or you decide as an organizational unit to change. These are the two patterns associated with a Jedi-type maturation process of DevOps. What if I told you that, like in Star Wars, DevOps has a dark side? I have seen the light side everyone thinks of and have carried the red lightsaber as well. Let's walk into the cave on Dagobah together.
 
-[**Subscribe to DevOps'ish Weekly**](http://eepurl.com/csvznH)
+> [**Subscribe to DevOps'ish**](/newsletter/) for updates on DevOps, Cloud Native, and Open Source news.
 
 <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 <!-- chrisshort.net Responsive -->
@@ -86,4 +86,4 @@ What these experiences have taught me is the need for allies at all levels of th
 
 The DevOps journey is a combination of people, processes, and tooling. The culmination of these is a team of allies pushing the envelope and never resting on their laurels. There is no such thing as a completed DevOps transition. Resting on your laurels is not a DevOps mindset. DevOps and its allies should be iterating and improving upon what they have learned daily.
 
-[**Subscribe to DevOps'ish Weekly**](http://eepurl.com/csvznH)
+> [**Subscribe to DevOps'ish**](/newsletter/) for updates on DevOps, Cloud Native, and Open Source news.
