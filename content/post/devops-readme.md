@@ -197,7 +197,7 @@ After [DevOpsDays Raleigh 2017](https://www.devopsdays.org/events/2017-raleigh/w
 ## The Art of War
 
 * In DevOps you SHOULD NOT have adversaries
-* I am willing to bet that anyone worth their salt has read this though
+* I am willing to bet that anyone worth their salt has read this though
 * Tactics from this work should be used sensibly
 * "Know thy enemy"
 * Pros: Well known work studied in business, military

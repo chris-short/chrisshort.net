@@ -7,6 +7,10 @@ draft = false
 slug = "blogs-explained"
 tags = ["internet"]
 title = "Blogs Explained"
+aliases = [
+    "/archives/2005/01/blogs-explained.php",
+    "blogs-explained.php"
+]
 
 +++
 
