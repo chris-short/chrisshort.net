@@ -27,11 +27,11 @@ It is a simple question but the answer tells you a lot about a company. It shoul
    (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
 
-E-mail is harder to manage than you would think. It requires a non-trivial amount of infrastructure resources (servers, DNS, spam filtering, monitoring, etc.). E-mail also has to be managed by people with specific skill sets. If the e-mail admin is doing other tasks; you are going to have a bad time. Handing this service off to an outside party is very often extremely cost effective and frees up people to accomplish things that contribute to the company’s bottom line as well as remove an attack vector.
+E-mail is harder to manage than you would think. It requires a non-trivial amount of infrastructure resources (servers, DNS, spam filtering, monitoring, etc.). E-mail also has to be managed by people with specific skill sets. If the e-mail admin is doing other tasks; you are going to have a bad time. Handing this service off to an outside party is very often extremely cost effective and frees up people to accomplish things that contribute to the company's bottom line as well as remove an attack vector.
 
 **Mac, Windows, or Linux Laptops?**
 
-Five years or so ago, Macs were “cool”, but today they are very normal to see in meetings, development teams, operations teams, and management. Windows desktops are dying (as is the greater PC industry). To sit there and be a Windows (or PC) only shop is both naive and restrictive to people and groups. I have not used a Windows based operating system in over five years. I am sure I could figure things out but why force me to do so? Mac vs. PC is not about preference; it is about allowing people to choose tools that work best for their workflows.
+Five years or so ago, Macs were "cool", but today they are very normal to see in meetings, development teams, operations teams, and management. Windows desktops are dying (as is the greater PC industry). To sit there and be a Windows (or PC) only shop is both naive and restrictive to people and groups. I have not used a Windows based operating system in over five years. I am sure I could figure things out but why force me to do so? Mac vs. PC is not about preference; it is about allowing people to choose tools that work best for their workflows.
 
 There is one caveat, if a company is anti-Apple but allows you to install whatever operating system you want on a PC that is not as big a red flag. Also, if a company has a liberal BYOD policy (and you can bring your own Mac) then bring your own Mac to work and be done with it.
 
@@ -48,7 +48,7 @@ There is one caveat, if a company is anti-Apple but allows you to install whatev
 
 **Environment**
 
-The actual work space is incredibly important too. Is it a huge cube farm on an open floor? Is it a high walled, segmented cube farm? Are there lots of offices and doors? Are there isolated break areas? Are there collaboration areas and meeting rooms easily available? This is about allowing for quiet work times and collaborative work times. The environment should allow you to socialize with co-workers during breaks for coffee without distracting people hard at work. The spaces should keep people who are concentrating “in the zone” and people who are meeting on point.
+The actual work space is incredibly important too. Is it a huge cube farm on an open floor? Is it a high walled, segmented cube farm? Are there lots of offices and doors? Are there isolated break areas? Are there collaboration areas and meeting rooms easily available? This is about allowing for quiet work times and collaborative work times. The environment should allow you to socialize with co-workers during breaks for coffee without distracting people hard at work. The spaces should keep people who are concentrating "in the zone" and people who are meeting on point.
 
 **Lesser things (but important nonetheless)**
 

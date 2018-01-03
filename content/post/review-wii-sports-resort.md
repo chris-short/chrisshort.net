@@ -46,7 +46,7 @@ The Frisbee games are exceedingly difficult to get to work in Automatic mode (au
 
 ![Wii Sports Resort](https://cdn.chrisshort.net/wii-sports-resort-02.jpg)
 
-The Basketball games are not for those that actually play.  Think of it as a guitar master playing Rock Band, you will likely have to develop two sets of skills.  I like to think I have a very pretty jump shot (at least I was complemented on it when I played) but, Wii Sports Resort “ain’t having” my Glen Rice modeled game.  It likes a nice simple, ugly wrist snap motion mixed in with a little bit of good timing.  The 3-on-3 game also leaves something to be desired but it is decent enough.
+The Basketball games are not for those that actually play.  Think of it as a guitar master playing Rock Band, you will likely have to develop two sets of skills.  I like to think I have a very pretty jump shot (at least I was complemented on it when I played) but, Wii Sports Resort "ain't having" my Glen Rice modeled game.  It likes a nice simple, ugly wrist snap motion mixed in with a little bit of good timing.  The 3-on-3 game also leaves something to be desired but it is decent enough.
 
 ![Wii Sports Resort](https://cdn.chrisshort.net/wii-sports-resort-03.jpg)
 

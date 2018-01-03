@@ -11,7 +11,7 @@ aliases = ["long-thoracic-nerve-palsy-winging-scapula"]
 
 +++
 
-I’m Chris Short and I have **Long Thoracic Nerve (LTN) Palsy** with **Winging of the Scapula**. On October 12, 2003, during a military hurricane evacuation exercise at Avon Park Air Force Range, I managed to permanently damage my LTN leading to winging of my right scapula.
+I'm Chris Short and I have **Long Thoracic Nerve (LTN) Palsy** with **Winging of the Scapula**. On October 12, 2003, during a military hurricane evacuation exercise at Avon Park Air Force Range, I managed to permanently damage my LTN leading to winging of my right scapula.
 
 My life has changed dramatically since I got hurt. Pain is something that I am constantly learning to live with and occasionally thrive with.
 
@@ -28,7 +28,7 @@ My life has changed dramatically since I got hurt. Pain is something that I am c
 
 ### Winging of the Scapula
 
-According to Wikipedia, "A **winged scapula** (scapula alata) is a condition in which the shoulder blade, or shoulder bone, protrudes from a person’s back in an abnormal position. It is a rare condition with the potential to lead to limited functional activity in the upper extremity with which it is adjacent. It can affect a person's ability to lift, pull, and push weighty objects."
+According to Wikipedia, "A **winged scapula** (scapula alata) is a condition in which the shoulder blade, or shoulder bone, protrudes from a person's back in an abnormal position. It is a rare condition with the potential to lead to limited functional activity in the upper extremity with which it is adjacent. It can affect a person's ability to lift, pull, and push weighty objects."
 
 ### Long Thoracic Nerve (LTN) Palsy
 
@@ -38,7 +38,7 @@ The **long thoracic nerve** (LTN) is a nerve that arises from the fifth, sixth, 
 
 [wiseGEEK](http://www.wisegeek.com/what-is-long-thoracic-nerve-palsy.htm) provides one of the best explanations that I have found of what Long Thoracic Nerve Palsy actually is:
 
-> Long thoracic nerve palsy is caused by injury and damage to the long thoracic nerve. This nerve runs from the neck vertebrae along the side of the chest to the muscle that holds the scapula bone to the chest wall. When this nerve is damaged, the scapula — or shoulder blade — becomes abnormally positioned, resembling a protruding wing. This odd positioning has led to the name “winged scapula.” Shoulder pain and loss of movement occur as the imbalance in muscle functioning causes stress to the muscles of the shoulder.
+> Long thoracic nerve palsy is caused by injury and damage to the long thoracic nerve. This nerve runs from the neck vertebrae along the side of the chest to the muscle that holds the scapula bone to the chest wall. When this nerve is damaged, the scapula — or shoulder blade — becomes abnormally positioned, resembling a protruding wing. This odd positioning has led to the name "winged scapula." Shoulder pain and loss of movement occur as the imbalance in muscle functioning causes stress to the muscles of the shoulder.
 
 ### Pain Relief
 
@@ -73,4 +73,4 @@ I also take fish oil for its joint and heart health benefits.
 
 #### Pulsed Radiofrequency Lesioning
 
-While deemed “experimental” by insurance companies due to overuse, pulsed radiofrequency lesioning has provided significant pain relief to me.
+While deemed "experimental" by insurance companies due to overuse, pulsed radiofrequency lesioning has provided significant pain relief to me.

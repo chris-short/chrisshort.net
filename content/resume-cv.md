@@ -88,7 +88,7 @@ Feb 2012-June 2012 - Linux Systems Administrator - College Foundation, Inc. - Ra
 
 * Spearheaded NIST compliance efforts on RHEL 5 and 6 systems used for federal student loans program; applied Security Technical Implementation Guides in accordance with company priorities; created standard image
 * Trained network admins and instructed IT staff on Network Time Protocol and best practices for implementation; engineered/implemented RHEL 6 based, NIST compliant NTP server in under 8 hours
-* Instilled sound, best practice administration standards eliminating “wild west” mentality; standardized configurations on mail systems and network devices that were performing identical duties in two locations
+* Instilled sound, best practice administration standards eliminating "wild west" mentality; standardized configurations on mail systems and network devices that were performing identical duties in two locations
 * Built RHEL 6 boxes using custom Kickstart config file to meet requirements of WebSphere administrator
 
 Jan 2011-Feb 2012 - Support Operations Specialist - McClatchy Interactive - Raleigh, NC

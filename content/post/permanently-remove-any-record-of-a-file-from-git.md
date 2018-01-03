@@ -31,7 +31,7 @@ A co-worker and I needed to remove all instances of a binary blob from one of ou
 `git remote rm origin`
 
 **Remove the file and rewrite history:**<br />
-`git filter-branch --index-filter ‘git rm --cached --ignore-unmatch FILENAME’ HEAD`
+`git filter-branch --index-filter 'git rm --cached --ignore-unmatch FILENAME' HEAD`
 
 **Remove garbage and lingering files:**<br />
 `git reflog expire --expire=now --all && git gc --prune=now --aggressive`

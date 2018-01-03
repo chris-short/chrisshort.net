@@ -29,9 +29,9 @@ As many already know, there is a cult in [Winston-Salem, North Carolina](http://
 The Center for Purposeful Living has done irreparable harm to several families and numerous people across the globe.  In 2005, I started a series of articles that detailed the acts of those at the Center for Purposeful Living.  Here are those stories:
 
 * [The Cult that is Human Service Alliance and the Center for Purposeful Living](/the-cult-that-is-human-service-alliance-and-the-center-for-purposeful-living-2)
-* [The Center for Purposeful Living is a Cult: Don’t Take My Word For It](/the-center-for-purposeful-living-is-a-cult-dont-take-my-word-for-it/)
+* [The Center for Purposeful Living is a Cult: Don't Take My Word For It](/the-center-for-purposeful-living-is-a-cult-dont-take-my-word-for-it/)
 * [The Teachings of Derwyn Lackey](/the-teachings-of-derwyn-lackey)
 * [A Brief History of Center for Purposeful Living by John David Short](/a-brief-history-of-center-for-purposeful-living-by-john-david-short/)
 * [Another Center for Purposeful Living Recruit Saved](/another-center-for-purposeful-living-recruit-saved)
 
-I would like to welcome anyone willing to share their stories to contact me so that I may share (anonymously if you’d wish) your trials and tribulations with the Center for Purposeful Living with an ever growing group of individuals hurt by this cult.  The objective of these writings is to inform the world about the activities of the cult known as Center for Purposeful Living.
+I would like to welcome anyone willing to share their stories to contact me so that I may share (anonymously if you'd wish) your trials and tribulations with the Center for Purposeful Living with an ever growing group of individuals hurt by this cult.  The objective of these writings is to inform the world about the activities of the cult known as Center for Purposeful Living.

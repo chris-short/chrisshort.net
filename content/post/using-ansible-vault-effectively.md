@@ -24,7 +24,7 @@ title = "Using Ansible Vault Effectively"
    (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
 
->“Vault” is a feature of ansible that allows keeping sensitive data such as passwords or keys in encrypted files, rather than as plaintext in your playbooks or roles. These vault files can then be distributed or placed in source control.
+>"Vault" is a feature of ansible that allows keeping sensitive data such as passwords or keys in encrypted files, rather than as plaintext in your playbooks or roles. These vault files can then be distributed or placed in source control.
 
 This means you can store just about anything in Ansible files. SSH keys, MySQL user passwords, and secret API keys are all fair game in Ansible Vaults. Then you can safely check this data into your repo with a reasonable expectation that it is safe from Github crawlers and other prying eyes.
 
