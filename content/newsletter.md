@@ -8,6 +8,10 @@ title = "Newsletter"
 
 +++
 
+## DevOps'ish
+
+### A weekly newsletter covering DevOps, Cloud Native, Open Source, and the ‘ish in between.
+
 <!-- Begin MailChimp Signup Form -->
 <link href="//cdn.chrisshort.net/static/css/classic-10_7.css" rel="stylesheet" type="text/css">
 <style type="text/css">
