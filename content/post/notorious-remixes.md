@@ -6,7 +6,7 @@ description = "The Notorious B.I.G. was one of the best rappers ever. This is th
 draft = false
 image = "https://cdn.chrisshort.net/The_Notorious_B.I.G._graffiti.jpg"
 slug = "notorious-remixes"
-tags = ["notorious big", "mashup", "remix"]
+tags = ["notorious big", "mashup", "remix", "hip hop"]
 title = "Notorious Remixes"
 
 +++

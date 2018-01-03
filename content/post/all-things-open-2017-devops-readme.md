@@ -5,7 +5,7 @@ date = 2017-10-27T22:30:00Z
 description = "A curated list of things to read to level up your DevOps skills and knowledge."
 draft = false
 slug = "all-things-open-2017-devops-readme.md"
-tags = ["DevOps", "books", "culture"]
+tags = ["DevOps", "books", "culture", "talks"]
 title = "All Things Open 2017: DevOps README.md"
 image = "https://cdn.chrisshort.net/chris-short-all-things-open-devops-readme.jpg"
 

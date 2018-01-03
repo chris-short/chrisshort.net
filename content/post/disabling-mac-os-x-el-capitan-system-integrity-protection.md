@@ -5,7 +5,7 @@ date = 2015-10-13T17:22:32Z
 description = ""
 draft = false
 slug = "disabling-mac-os-x-el-capitan-system-integrity-protection"
-tags = ["apple", "mac os x", "el capitan", "security", "system integrity protection"]
+tags = ["apple", "mac os x", "el capitan", "security", "system integrity protection", "sip", "macos"]
 title = "Disabling Mac OS X El Capitan System Integrity Protection"
 
 +++

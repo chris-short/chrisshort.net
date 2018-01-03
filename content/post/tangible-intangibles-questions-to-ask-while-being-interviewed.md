@@ -5,7 +5,7 @@ date = 2016-05-10T17:05:00Z
 description = ""
 draft = false
 slug = "tangible-intangibles-questions-to-ask-while-being-interviewed"
-tags = ["interview", "mac os x", "windows 10", "linux", "e-mail", "environment"]
+tags = ["interview", "mac os x", "windows 10", "linux", "e-mail", "environment", "macos"]
 title = "Tangible Intangibles: Questions to Ask While Being Interviewed"
 
 +++

@@ -6,7 +6,7 @@ description = ""
 draft = false
 image = "https://cdn.chrisshort.net/encryption.jpg"
 slug = "breaking-encryption-wont-make-us-safer"
-tags = ["security", "encryption"]
+tags = ["security", "encryption", "nsa]
 title = "Breaking Encryption Won't Make Us Safer"
 
 +++

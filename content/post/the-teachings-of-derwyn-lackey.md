@@ -5,7 +5,7 @@ date = 2005-07-26T20:00:00Z
 description = ""
 draft = false
 slug = "the-teachings-of-derwyn-lackey"
-tags = ["center for purposeful living"]
+tags = ["center for purposeful living", "human service alliance", "hsa"]
 title = "The Teachings of Derwyn Lackey"
 
 +++

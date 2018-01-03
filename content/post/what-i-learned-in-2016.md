@@ -5,7 +5,7 @@ date = 2017-01-01T02:45:18Z
 description = ""
 draft = false
 slug = "what-i-learned-in-2016"
-tags = ["philosophy"]
+tags = ["philosophy", "life", "kubernetes"]
 title = "What I Learned in 2016"
 
 +++

@@ -5,7 +5,7 @@ date = 2017-07-26T23:00:00Z
 description = ""
 draft = false
 slug = "gophercon-2017-lightning-talk-video"
-tags = ["Go", "golang", "devops"]
+tags = ["Go", "golang", "devops", "talks"]
 title = "GopherCon 2017 Lightning Talk Video"
 
 +++

@@ -5,7 +5,7 @@ date = 2003-05-11T23:45:00Z
 description = ""
 draft = false
 slug = "moving-to-linux-partitioning"
-tags = ["linux"]
+tags = ["linux", "open source", ]
 title = "Moving to Linux - Partitioning"
 aliases = ["moving-to-linux-partitioning"]
 

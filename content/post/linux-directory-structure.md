@@ -5,7 +5,7 @@ date = 2005-01-05T01:53:00Z
 description = ""
 draft = false
 slug = "linux-directory-structure"
-tags = ["linux"]
+tags = ["linux", "open source"]
 title = "Linux Directory Structure"
 aliases = [
     "/archives/2005/01/linux-directory-structure.php",

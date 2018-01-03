@@ -6,7 +6,7 @@ description = ""
 draft = false
 image = "https://cdn.chrisshort.net/badlock.png"
 slug = "got-badlock-ansible-can-help"
-tags = ["ansible", "samba", "badlock", "yum", "apt", "dpkg"]
+tags = ["ansible", "samba", "badlock", "yum", "apt", "dpkg", "security"]
 title = "Got Badlock? Ansible Can Help"
 
 +++

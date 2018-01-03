@@ -6,7 +6,7 @@ description = ""
 draft = false
 image = "https://cdn.chrisshort.net/Pulse-Secure-Logo-Medium_optimized.png"
 slug = "mac-os-x-el-capitan-and-junos-pulse"
-tags = ["junos pulse", "apple keychain", "mac os x", "el capitan", "apple"]
+tags = ["junos pulse", "apple keychain", "mac os x", "el capitan", "apple", "macos"]
 title = "Mac OS X El Capitan and Junos Pulse"
 
 +++

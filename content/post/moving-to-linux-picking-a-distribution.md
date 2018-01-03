@@ -5,7 +5,7 @@ date = 2003-05-10T23:30:00Z
 description = ""
 draft = false
 slug = "moving-to-linux-picking-a-distribution"
-tags = ["linux"]
+tags = ["linux", "open source"]
 title = "Moving to Linux - Picking a Distribution"
 aliases = ["moving-to-linux-picking-a-distribution"]
 

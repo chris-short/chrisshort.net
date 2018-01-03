@@ -5,7 +5,7 @@ date = 2005-12-19T22:00:00Z
 description = ""
 draft = false
 slug = "another-center-for-purposeful-living-recruit-saved"
-tags = ["center for purposeful living"]
+tags = ["center for purposeful living", "human service alliance", "hsa"]
 title = "Another Center for Purposeful Living Recruit Saved"
 
 +++

@@ -6,7 +6,7 @@ description = ""
 draft = false
 image = "https://cdn.chrisshort.net/Cloudcast-Logo-2015-Banner-Blue.png"
 slug = "devops-perspectives-from-the-front-lines"
-tags = ["DevOps", "podcast"]
+tags = ["DevOps", "podcast", "interviews"]
 title = "DevOps Perspectives from the Front Lines"
 
 +++

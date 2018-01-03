@@ -6,7 +6,7 @@ description = ""
 draft = false
 image = "https://cdn.chrisshort.net/yubikey-nano.png"
 slug = "yubikey-4-nano-demands-use-of-yubiswitch"
-tags = ["yubikey", "mac os x"]
+tags = ["yubikey", "mac os x", "macos"]
 title = "Yubikey 4 Nano Demands Use of yubiswitch"
 
 +++

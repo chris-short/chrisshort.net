@@ -6,7 +6,7 @@ description = "An open e-mail about why I am deciding to leave Bankrate now"
 draft = false
 image = "https://cdn.chrisshort.net/leaving.jpg"
 slug = "leaving-bankrate"
-tags = ["job", "work", "life", "balance"]
+tags = ["job", "work", "life", "balance", "acquisition"]
 title = "Leaving Bankrate"
 
 +++

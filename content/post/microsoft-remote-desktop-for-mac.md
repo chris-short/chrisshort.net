@@ -5,7 +5,7 @@ date = 2016-06-09T22:24:02Z
 description = ""
 draft = false
 slug = "microsoft-remote-desktop-for-mac"
-tags = ["mac os x", "microsoft"]
+tags = ["mac os x", "microsoft", "macos"]
 title = "Microsoft Remote Desktop for Mac"
 
 +++

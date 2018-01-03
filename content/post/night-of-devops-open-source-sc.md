@@ -6,7 +6,7 @@ description = ""
 draft = false
 image = "https://cdn.chrisshort.net/a-night-of-devops.jpg"
 slug = "night-of-devops-open-source-sc"
-tags = ["DevOps", "cloud native"]
+tags = ["DevOps", "cloud native", "talks"]
 title = "A Night of DevOps at Open Source South Carolina"
 aliases = ["night-of-devops-open-source-sc"]
 

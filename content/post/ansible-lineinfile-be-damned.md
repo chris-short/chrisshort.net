@@ -6,7 +6,7 @@ description = "Ansible lineinfile module is a cumbersome one to work. Here is a 
 draft = false
 image = "https://cdn.chrisshort.net/Ansible-Mark-Large-RGB-Black.png"
 slug = "ansible-lineinfile-be-damned"
-tags = ["ansible", "lineinfile", "module"]
+tags = ["ansible", "lineinfile", "module", "security"]
 title = "Ansible lineinfile be damned"
 aliases = [
   "lineinfile-be-damned"

@@ -6,6 +6,7 @@ description = ""
 draft = false
 slug = "moving-to-linux"
 title = "Moving to Linux"
+tags = ["linux", "open source"]
 aliases = ["/archives/2005/01/moving-to-linux.php"]
 
 +++

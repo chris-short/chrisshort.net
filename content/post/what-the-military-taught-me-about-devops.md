@@ -6,7 +6,7 @@ description = ""
 draft = false
 image = "https://cdn.chrisshort.net/chris-short-devopsdays-detroit-2016-bridget-kromhout.jpg"
 slug = "what-the-military-taught-me-about-devops"
-tags = ["DevOps", "DevOpsDays"]
+tags = ["DevOps", "DevOpsDays", "talks"]
 title = "What The Military Taught Me About DevOps"
 
 +++

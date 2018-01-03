@@ -5,7 +5,7 @@ date = 2013-06-01T20:00:00Z
 description = ""
 draft = false
 slug = "tiny-tiny-rss-loathe-the-asshole-devs"
-tags = ["development"]
+tags = ["development", "culture"]
 title = "Tiny Tiny RSS: Loathe the Asshole Devs"
 
 +++

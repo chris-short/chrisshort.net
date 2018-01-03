@@ -5,7 +5,7 @@ date = 2016-12-02T02:13:01Z
 description = ""
 draft = false
 slug = "triangle-devops-what-the-military-taught-me-about-devops"
-tags = ["DevOps"]
+tags = ["DevOps", "talks"]
 title = "Triangle DevOps: What The Military Taught Me About DevOps"
 
 +++

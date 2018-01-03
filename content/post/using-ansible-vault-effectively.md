@@ -6,7 +6,7 @@ description = ""
 draft = false
 image = "https://cdn.chrisshort.net/ansible_circleA_red.png"
 slug = "using-ansible-vault-effectively"
-tags = ["ansible", "ansible-vault"]
+tags = ["ansible", "ansible-vault", "security"]
 title = "Using Ansible Vault Effectively"
 
 +++

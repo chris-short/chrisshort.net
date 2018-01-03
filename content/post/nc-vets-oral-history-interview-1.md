@@ -6,7 +6,7 @@ description = ""
 draft = false
 image = "https://cdn.chrisshort.net/handy_recorder.jpg"
 slug = "nc-vets-oral-history-interview-1"
-tags = ["air force", "us air force", "interview", "internet", "military", "linux", "google"]
+tags = ["air force", "us air force", "internet", "military", "linux", "google", "interviews"]
 title = "North Carolina Veterans Oral History Interview Part 1"
 aliases = ["nc-vets-oral-history-interview-1"]
 

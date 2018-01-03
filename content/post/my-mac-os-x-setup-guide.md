@@ -6,7 +6,7 @@ description = ""
 draft = false
 image = "https://cdn.chrisshort.net/macbook.jpg"
 slug = "my-mac-os-x-setup-guide"
-tags = ["mac os x"]
+tags = ["mac os x", "macos"]
 title = "My Mac OS X Setup Guide"
 
 +++
