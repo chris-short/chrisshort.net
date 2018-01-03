@@ -14,7 +14,7 @@ aliases = [
 
 +++
 
-This will be the final article in the "[Moving to Linux](https://chrisshort.net/moving-to-linux/)" series.
+This will be the final article in the "[Moving to Linux](/moving-to-linux/)" series.
 
 <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 <!-- chrisshort.net Responsive -->

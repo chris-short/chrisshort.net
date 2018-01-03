@@ -11,7 +11,7 @@ aliases = ["moving-to-linux-picking-a-distribution"]
 
 +++
 
-After deciding to [move to Linux](https://chrisshort.net/moving-to-linux/) and determining that [my hardware is compatible with Linux](https://chrisshort.net/moving-to-linux-hardware-compatibility/), it's time to pick a Linux distribution.
+After deciding to [move to Linux](/moving-to-linux/) and determining that [my hardware is compatible with Linux](/moving-to-linux-hardware-compatibility/), it's time to pick a Linux distribution.
 
 <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 <!-- chrisshort.net Responsive -->

@@ -44,7 +44,7 @@ You can no longer use vim (or Emacs, nano, etc.) to edit Ansible Vault files... 
 
 Ansible Vault adds a layer of security so it's inherently harder to use (but not much harder). Don't make it harder by sporadically encrypting some variable files and not others. Waste the handful of kilobytes of disk and make all your variable files Ansible Vaults.
 
-Previously, I've given a one-liner on how to [Grep Multiple Ansible Vault Files](https://chrisshort.net/grep-multiple-ansible-vault-files/) that is based off this model as well.
+Previously, I've given a one-liner on how to [Grep Multiple Ansible Vault Files](/grep-multiple-ansible-vault-files/) that is based off this model as well.
 
 <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 <!-- chrisshort.net Responsive -->
