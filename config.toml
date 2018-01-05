@@ -16,8 +16,8 @@ paginate = 6
 [Params]
   subtitle = "DevOps, Cloud Native, Open Source, Sarcasm, Florida Gators, Partially Disabled Veteran, Husband, Father. Views are solely mine."
   description = "DevOps, Cloud Native, Open Source, Sarcasm, Florida Gators, Partially Disabled Veteran, Husband, Father. Views are solely mine." 
-  logo = "https://cdn.chrisshort.net/Late-2017-Headshot-Square-Optimized.jpg"
-  favicon = "https://cdn.chrisshort.net/favicons/favicon.ico"
+  logo = "https://cdn.chrisshort.net/static/img/Late-2017-Headshot-Square-Optimized.jpg"
+  favicon = "https://cdn.chrisshort.net/static/favicons/favicon.ico"
   dateFormat = "January 2, 2006"
   commit = "https://github.com/chris-short/chrisshort.net/tree/"
   rss = true
