@@ -45,7 +45,7 @@ paginate = 6
   reddit = "oaf357"
   linkedin = "christopherbshort"
   medium = "@chrisshort"
-  tumblr = "chrisshort"
+#  tumblr = "chrisshort"
 #  xing = "username"
 #  stackoverflow = "users/XXXXXXX/username"
 #  snapchat = "oaf357"
@@ -63,6 +63,7 @@ paginate = 6
 #  vk = "username"
 #  paypal = "username"
 #  telegram = "username"
+  buymeacoffee = "ChrisShort"
 
 [related]
 # Only include matches with rank >= threshold. This is a normalized rank between 0 and 100.

@@ -1,4 +1,10 @@
 [[social_icons]]
+id = "buymeacoffee"
+url = "https://www.buymeacoffee.com/%s"
+title = "Buy me a Coffee"
+icon = "fa-coffee"
+
+[[social_icons]]
 id = "email"
 url = "mailto:%s"
 title = "Email me"
