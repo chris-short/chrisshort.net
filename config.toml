@@ -6,6 +6,7 @@ theme = "beautifulhugo"
 metaDataFormat = "yaml"
 disqusShortname = "chrisshort"
 googleAnalytics = "UA-4498776-3"
+pygmentsUseClasses = true
 paginate = 6
 
 [permalinks]
