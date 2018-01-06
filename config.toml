@@ -4,8 +4,6 @@ enableemoji = "true"
 title = "Chris Short"
 theme = "beautifulhugo"
 metaDataFormat = "yaml"
-pygmentsUseClasses = true
-pygmentCodeFences = true
 disqusShortname = "chrisshort"
 googleAnalytics = "UA-4498776-3"
 paginate = 6
@@ -14,6 +12,7 @@ paginate = 6
   post = ":title/"
 
 [Params]
+  UseChroma = true
   subtitle = "DevOps, Cloud Native, Open Source, Sarcasm, Florida Gators, Partially Disabled Veteran, Husband, Father. Views are solely mine."
   description = "DevOps, Cloud Native, Open Source, Sarcasm, Florida Gators, Partially Disabled Veteran, Husband, Father. Views are solely mine." 
   logo = "https://cdn.chrisshort.net/static/img/Late-2017-Headshot-Square-Optimized.jpg"
