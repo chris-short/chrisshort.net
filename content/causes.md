@@ -4,7 +4,6 @@ date = 2017-10-27T23:00:00Z
 description = "Causes Chris Short Supports"
 draft = false
 slug = "causes"
-tags = ["causes"]
 title = "Causes"
 +++
 

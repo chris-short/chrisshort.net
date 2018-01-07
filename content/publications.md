@@ -4,7 +4,6 @@ date = 2017-12-29T05:40:00Z
 description = "Publications Chris Short has Contributed"
 draft = false
 slug = "publications"
-tags = ["publications"]
 title = "Publications"
 +++
 
