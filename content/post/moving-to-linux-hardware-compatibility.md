@@ -7,7 +7,11 @@ draft = false
 slug = "moving-to-linux-hardware-compatibility"
 tags = ["linux", "hardware", "open source"]
 title = "Moving to Linux - Hardware Compatibility"
-aliases = ["moving-to-linux-hardware-compatibility"]
+aliases = [
+    "moving-to-linux-hardware-compatibility",
+    "/archives/2005/01/moving-to-linux-hardware-compatibility.php",
+    "moving-to-linux-hardware-compatibility.php"
+]
 
 +++
 
