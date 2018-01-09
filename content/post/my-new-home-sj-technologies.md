@@ -1,9 +1,9 @@
 +++
 author = "Chris Short"
 categories = ["Life"]
-date = 2018-01-09T08:30:00Z
+date = 2018-01-09T08:45:00Z
 description = "I am very happy to announce that I have a new job. I am now a Senior DevOps Consultant with the esteemed SJ Technologies, Inc."
-draft = true
+draft = false
 slug = "my-new-home-sj-technologies"
 tags = ["job", "DevOps", "life"]
 title = "My New Home is SJ Technologies"
@@ -11,7 +11,7 @@ image = "https://cdn.chrisshort.net/sj-technologies.jpg"
 
 +++
 
-I am very happy to announce that I have a new job. I am now a **Senior DevOps Consultant** with the esteemed [SJ Technologies, Inc.](http://sjtechcorp.com/) The great job search of 2017 actually ended in 2017. The good folks at SJ Technologies put together my offer letter in the last week of 2017. This allowed me to take a deep breath over the New Year's weekend and decompress. I am truly thankful to everyone for getting the offer together in what was likely your down time. It means a lot to me and my family.
+I am very happy to announce that I have a new job. I am now a **Senior DevOps Advocate** with the esteemed [SJ Technologies, Inc.](http://sjtechcorp.com/) The great job search of 2017 actually ended in 2017. The good folks at SJ Technologies put together my offer letter in the last week of 2017. This allowed me to take a deep breath over the New Year's weekend and decompress. I am truly thankful to everyone for getting the offer together in what was likely your down time. It means a lot to me and my family.
 
 > [**Subscribe to DevOps'ish**](/newsletter/) for updates on DevOps, Cloud Native, and Open Source news.
 

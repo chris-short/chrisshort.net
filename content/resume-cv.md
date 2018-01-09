@@ -35,6 +35,8 @@ DHCP, DNS, Ethernet, FTP, HTTP, HTTPS, IP, NTP, POP, RSYNC, SCP, SFTP, SMTP, SNM
 
 ## Professional Experience
 
+Senior DevOps Advocate, SJ Technologies - Detroit, MI, Jan 2018 - Present
+
 June 2017-Nov 2017 - Manager of DevOps - Bankrate.com - Detroit, MI
 
 * Charged with $1M cloud migration efforts; moving physical/virtual datacenter to Amazon Web Services has projected $1M+ savings for company post migration; lead team of six engineers and stakeholders
