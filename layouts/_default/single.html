@@ -2,15 +2,11 @@
 <div class="container" role="main">
   <div class="row">
     <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+      {{ if .Params.image }}
+      <img src="{{ .Params.image }}" class="img-title" />
+      {{ end }}
       <article role="main" class="blog-post">
-        {{ if .Param "image" }}
-        <img src="{{ .Param " image " }}"> {{ end }} {{ .Content }}
-        <p>
-          <a href="https://www.buymeacoffee.com/ChrisShort">
-            <img src="https://cdn.chrisshort.net/static/img/buy-me-a-coffee.png" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;"
-              target="_blank">
-          </a>
-        </p>
+        {{ .Content }}
       </article>
 
       {{ $related := .Site.RegularPages.Related . | first 4 }} {{ with $related }}
@@ -22,30 +18,41 @@
         </li>
         {{ end }}
       </ul>
+      <br />
       {{ end }}
 
       <ul class="pager blog-pager">
         {{ if .PrevInSection }}
-        <li class="previous">
-          <a href="{{ .PrevInSection.Permalink }}" data-toggle="tooltip" data-placement="top" title="{{ .PrevInSection.Title }}">&larr; {{ i18n "previousPost" }}</a>
-        </li>
-        {{ end }} {{ if .NextInSection }}
-        <li class="next">
-          <a href="{{ .NextInSection.Permalink }}" data-toggle="tooltip" data-placement="top" title="{{ .NextInSection.Title }}">{{ i18n "nextPost" }} &rarr;</a>
-        </li>
+          <li class="previous">
+            <a href="{{ .PrevInSection.Permalink }}" data-toggle="tooltip" data-placement="top" title="{{ .PrevInSection.Title }}">&larr; {{ i18n "previousPost" }}</a>
+          </li>
+        {{ end }}
+        {{ if .NextInSection }}
+          <li class="next">
+            <a href="{{ .NextInSection.Permalink }}" data-toggle="tooltip" data-placement="top" title="{{ .NextInSection.Title }}">{{ i18n "nextPost" }} &rarr;</a>
+          </li>
         {{ end }}
       </ul>
 
-      {{ if (.Params.comments) | or (and (or (not (isset .Params "comments")) (eq .Params.comments nil)) (.Site.Params.comments))}}
-      {{ if .Site.DisqusShortname }}
-      <div class="disqus-comments">
-        {{ template "_internal/disqus.html" . }}
-      </div>
-      {{ end }} {{ if .Site.Params.staticman }}
-      <div class="staticman-comments">
-        {{ partial "staticman-comments.html" . }}
-      </div>
-      {{ end }} {{ end }}
+      <p>
+          <a href="https://www.buymeacoffee.com/ChrisShort">
+            <img src="https://cdn.chrisshort.net/static/img/buy-me-a-coffee.png" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;"
+              target="_blank">
+          </a>
+      </p>
+
+      {{ if (.Params.comments) | or (and (or (not (isset .Params "comments")) (eq .Params.comments nil)) (.Site.Params.comments)) }}
+        {{ if .Site.DisqusShortname }}
+          <div class="disqus-comments">
+            {{ template "_internal/disqus.html" . }}
+          </div>
+        {{ end }}
+        {{ if .Site.Params.staticman }}
+          <div class="staticman-comments">
+            {{ partial "staticman-comments.html" . }}
+          </div>
+        {{ end }}
+      {{ end }}
 
     </div>
   </div>
