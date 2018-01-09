@@ -5,7 +5,7 @@ date = 2018-01-09T08:45:00Z
 description = "I am very happy to announce that I have a new job. I am now a Senior DevOps Consultant with the esteemed SJ Technologies, Inc."
 draft = false
 slug = "my-new-home-sj-technologies"
-tags = ["job", "DevOps", "life"]
+tags = ["job", "DevOps", "life", "impostor syndrome"]
 title = "My New Home is SJ Technologies"
 image = "https://cdn.chrisshort.net/sj-technologies.jpg"
 
