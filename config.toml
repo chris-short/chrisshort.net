@@ -104,7 +104,7 @@ pattern = "2006"
 [[menu.main]]
     name = "Newsletter"
     url = "/newsletter/"
-    weight = 19
+    weight = 10
 
 [[menu.main]]
     name = "About"
@@ -145,7 +145,7 @@ pattern = "2006"
     parent = "menu"
     name = "Drawings"
     url = "/tags/drawing/"
-    weight = 49
+    weight = 44
 
 [[menu.main]]
     parent = "menu"

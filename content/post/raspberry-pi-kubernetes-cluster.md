@@ -89,6 +89,6 @@ My setup is far from perfect but it's great for under $400. It's hard to beat a 
 
 While I highly recommend Kubernetes on Raspberry Pi, there are some trade-offs to running Kubernetes on ARM systems. A lot of the Kubernetes tools that people know and love don't support ARM (yet). But, after talking with some folks at Weave and Heptio there is a desire to get their tooling on ARM architecture. As a member of the Kubernetes community, I can help push ARM adoption along. I offered my help and access to my cluster should anyone want to work towards the goal of getting their tools on ARM-powered Kubernetes clusters.
 
-I am very happy with the progress I made in a handful of evenings on building and deploying a Raspberry Pi Kubernetes cluster. I'm hopeful that [rak8s](https://rak8s.io/) will turn into a full-blown project. Hopefully, it will allow others to learn and improve their skills while getting into Kubernetes on Raspberry Pi. PRs welcome and happy k8s'ing!
-
 > [**Subscribe to DevOps'ish**](/newsletter/) for updates on Docker as well as other DevOps, Cloud Native, and Open Source news.
+
+I am very happy with the progress I made in a handful of evenings on building and deploying a Raspberry Pi Kubernetes cluster. I'm hopeful that [rak8s](https://rak8s.io/) will turn into a full-blown project. Hopefully, it will allow others to learn and improve their skills while getting into Kubernetes on Raspberry Pi. PRs welcome and happy k8s'ing!

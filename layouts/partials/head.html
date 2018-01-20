@@ -1,19 +1,23 @@
 <head>
   <meta charset="utf-8" />
-  <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0" />
   <!-- Site Title, Description, Author, and Favicon -->
   {{- with .Title | default .Site.Title }}
   <title>{{ . }}</title>
   <meta property="og:title" content="{{ . }}" />
   <meta name="twitter:title" content="{{ . | truncate 70 }}" />
+  <meta itemprop="name" content="{{ . }}" />
   {{- end }}
   {{- with .Description | default .Site.Params.description }}
-  <meta name="description" content="{{ . }}">
-  <meta property="og:description" content="{{ . }}">
-  <meta name="twitter:description" content=" {{ . | truncate 200 }} ">
-  {{- end}}
-  <meta name="author" content="{{ .Site.Author.name }}" />
+  <meta name="description" content="{{ . }}" />
+  <meta property="og:description" content="{{ . }}" />
+  <meta name="twitter:description" content="{{ . | truncate 200 }}" />
+  <meta itemprop="description" content="{{ . | truncate 160 }}" />
+  {{- end }}
+  {{- with .Site.Author.name }}
+  <meta name="author" content="{{ . }}" />
+  {{- end }}
   {{- with .Site.Params.favicon }}
   <link href="{{ . | absURL }}" rel="icon" type="image/x-icon" />
   <link rel="apple-touch-icon" sizes="180x180" href="https://cdn.chrisshort.net/static/favicons/apple-touch-icon.png" />
@@ -26,6 +30,7 @@
   {{- with .Params.share_img | default .Params.image | default .Site.Params.logo }}
   <meta property="og:image" content="{{ . | absURL }}" />
   <meta name="twitter:image" content="{{ . | absURL }}" />
+  <meta itemprop="image" content="{{ . | absURL }}" />
   {{- end }}
   <meta name="twitter:card" content="summary" />
   {{- with .Site.Author.twitter }}
