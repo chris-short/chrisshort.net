@@ -6,8 +6,12 @@ description = "This talk walks through the use case of having to apply new certi
 draft = false
 slug = "devopsdays-nyc-2018"
 tags = ["open source", "devops", "go", "golang", "talks", "security"]
-title = "DevOpsDays 2018 Ignite Talk on Golang"
+title = "DevOpsDays NYC 2018 Ignite Talk on Golang"
 image = "https://cdn.chrisshort.net/chris-short-sj-technologies-devopsdays-nyc.jpg"
+aliases = [
+    "devopsdays-nyc-2018",
+    "devopsdays-2018-ignite-talk-on-golang"
+]
 
 +++
 
