@@ -10,9 +10,9 @@ title = "Talks"
 
 ## Golang to the Rescue: Saving DevOps from TLS Turmoil by Chris Short
 
-Date: January 19, 2018 
-Event: [DevOpsDays New York City 2018](https://www.devopsdays.org/events/2018-new-york-city/program/chris-short/) 
-Blog Post: [DevOpsDays 2018 Ignite Talk on Golang](/devopsdays-nyc-2018/) 
+Date: January 19, 2018  
+Event: [DevOpsDays New York City 2018](https://www.devopsdays.org/events/2018-new-york-city/program/chris-short/)  
+Blog Post: [DevOpsDays 2018 Ignite Talk on Golang](/devopsdays-nyc-2018/)
 
 ## DevOps README.md
 
