@@ -6,13 +6,13 @@ description = "Verisign switches to near real-time DNS updates on September 8, 2
 draft = false
 slug = "verisign-rapid-dns-updates"
 tags = ["internet", "DNS"]
-title = "VeriSign's rapid DNS updates in .com/.net"
+title = "VeriSign's rapid DNS updates in .com and .net"
 aliases = [
     "/archives/2004/07/verisigns-rapid-dns-updates-in-com/net.php",
     "/verisigns-rapid-dns-updates-in-.com/.net/",
     "verisigns-rapid-dns-updates-in-com/net.php",
     "verisign-rapid-DNS-updates"
-    ]
+]
 
 +++
 
