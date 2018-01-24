@@ -45,10 +45,10 @@ deploy:
   on:
     repo: chris-short/chrisshort.net
     branch: master
-after_deploy:
+after_success:
 - curl --silent -L https://github.com/chris-short/purgeflare/releases/download/v0.1.0/purgeflare-linux-amd64
   | chmod 0700 -
-after_script:
+after_deploy:
 - purgeflare-linux-amd64 -email $email -key $key -cfzone $cfzone --execute
 env:
   global:
