@@ -24,7 +24,7 @@ Chris is now working in the [open source](/tags/open-source/), [Linux](/tags/lin
 
 * [DevOps'ish](https://devopsish.com)
 * [Newsletter](/newsletter/)
-* [Talks](/talks/)
+* [Speaking](/speaking/)
 * [Interviews](/categories/interviews/)
 * [Books](/books/)
 * [Publications](/publications/)

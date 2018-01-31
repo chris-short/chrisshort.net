@@ -26,7 +26,7 @@ For many months, I have wanted a **Kubernetes** cluster of my very own. One that
 
 Once I [left Bankrate](/leaving-bankrate/), the GKE cluster was shuttered and a lower cost option was needed. I ran minikube for a while. I got annoyed when a laptop went to sleep and ruined minikube. I tried to run a single node cluster on an old 2010 MacBook Pro. But, it wasn't up to the task without [VT-x](https://en.wikipedia.org/wiki/X86_virtualization#Intel_virtualization_(VT-x)). I abandoned the idea for later on once I realized the four old Raspberry Pis I had weren't going to be able to handle but a handful of containers.
 
-> [**Subscribe to DevOps'ish**](/newsletter/) for updates on Docker as well as other DevOps, Cloud Native, and Open Source news.
+> [**Subscribe to DevOps'ish**](/newsletter/) for updates on DevOps, Cloud Native, and Open Source news.
 
 While job hunting, writing, and everything else I did at the end of 2017 I started a side mission. I was going to figure out where the sweet spot is in the cost to capabilities ratio for in-home Kubernetes clusters. I went to the University of Michigan Property Disposition building after a trip to the Ann Arbor VA Hospital. There wasn't much there given the time of year and what was there were old Mac Pros at around $200 each (with no hard drives). I searched Craigslist but there wasn't much available. I'll be honest, looking on Craigslist in the Detroit Metro area left me wondering, "If I do find something, how safe would I be going to buy it?" Plus, hardware consistency is very important to me. It was going to be hard to find three, four, or five identical systems. I know this isn't a requirement of Kubernetes but it makes things simpler when it comes to systems management. I looked at other surplus hardware sites and while there were options I hit a moral dilemma. "If I buy these cheap systems will I be taking away from someone who would benefit more from them?"
 
@@ -89,6 +89,6 @@ My setup is far from perfect but it's great for under $400. It's hard to beat a 
 
 While I highly recommend Kubernetes on Raspberry Pi, there are some trade-offs to running Kubernetes on ARM systems. A lot of the Kubernetes tools that people know and love don't support ARM (yet). But, after talking with some folks at Weave and Heptio there is a desire to get their tooling on ARM architecture. As a member of the Kubernetes community, I can help push ARM adoption along. I offered my help and access to my cluster should anyone want to work towards the goal of getting their tools on ARM-powered Kubernetes clusters.
 
-> [**Subscribe to DevOps'ish**](/newsletter/) for updates on Docker as well as other DevOps, Cloud Native, and Open Source news.
+> [**Subscribe to DevOps'ish**](/newsletter/) for updates on DevOps, Cloud Native, and Open Source news.
 
 I am very happy with the progress I made in a handful of evenings on building and deploying a Raspberry Pi Kubernetes cluster. I'm hopeful that [rak8s](https://rak8s.io/) will turn into a full-blown project. Hopefully, it will allow others to learn and improve their skills while getting into Kubernetes on Raspberry Pi. PRs welcome and happy k8s'ing!

@@ -119,8 +119,8 @@ pattern = "2006"
 
 [[menu.main]]
     parent = "menu"
-    name = "Talks"
-    url = "/talks/"
+    name = "Speaking"
+    url = "/speaking/"
     weight = 40
 
 [[menu.main]]

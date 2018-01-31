@@ -1,12 +1,17 @@
 +++
 author = "Chris Short"
 date = 2018-01-22T20:55:00Z
-description = "Talks Chris Short has Given"
+description = "Talks Chris Short has given"
 draft = false
-slug = "talks"
-tags = ["talks"]
-title = "Talks"
+slug = "speaking"
+tags = ["talks", "speaking"]
+title = "Speaking"
+aliases = [
+    "talks"
+]
 +++
+
+If you'd like to talk about me speaking at your conference, Meetup, office, party, etc. shoot me a DM on Twitter ([@ChrisShort](https://twitter.com/ChrisShort)) or [e-mail](mailto:chris@chrisshort.net). Thanks!
 
 ## Golang to the Rescue: Saving DevOps from TLS Turmoil by Chris Short
 
