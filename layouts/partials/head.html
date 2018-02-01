@@ -2,13 +2,6 @@
   <meta charset="utf-8" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0" />
-  <link rel='dns-prefetch' href='//cdn.chrisshort.net' />
-  <link rel='dns-prefetch' href='//pagead2.googlesyndication.com' />
-  <link rel='dns-prefetch' href='//js-agent.newrelic.com' />
-  <link rel='dns-prefetch' href='//www.google-analytics.com' />
-  <link rel='dns-prefetch' href='//cdnjs.cloudflare.com' />
-  <link rel='dns-prefetch' href='//code.jquery.com' />
-  <link rel='dns-prefetch' href='//maxcdn.bootstrapcdn.com' />
   <!-- Site Title, Description, Author, and Favicon -->
   {{- with .Title | default .Site.Title }}
   <title>{{ . }}</title>
@@ -54,7 +47,11 @@
   {{ .Hugo.Generator -}}
   <!-- Links and stylesheets -->
   <link rel="canonical" href="{{ .URL | absLangURL }}" />
+  {{- if .RSSLink }}
   <link rel="alternate" href="{{ .RSSLink }}" type="application/rss+xml" title="{{ .Site.Title }}">
+  {{- else }}
+  <link rel="alternate" href="{{ .Site.RSSLink }}" type="application/rss+xml" title="{{ .Site.Title }}">
+  {{- end }}
   <link rel="stylesheet" href="{{ "css/katex.min.css" | absURL }}" />
   <link rel="stylesheet" href="{{ "css/font-awesome.min.css" | absURL }}" />
   <link rel="stylesheet" href="{{ "css/bootstrap.min.css" | absURL }}" />
@@ -62,8 +59,8 @@
   <link rel="stylesheet" href="{{ "css/google-fonts.css" | absURL }}" />
   <link rel="stylesheet" href="{{ "css/codeblock.css" | absURL }}" />
   <link rel="stylesheet" href="{{ "css/syntax.css" | absURL }}" />
+
   {{- partial "head_custom.html" . }}
   {{- partial "load-photoswipe-theme.html" . }}
   {{ template "_internal/google_analytics_async.html" . }}
-
 </head>
