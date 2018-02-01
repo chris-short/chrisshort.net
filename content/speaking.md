@@ -11,7 +11,14 @@ aliases = [
 ]
 +++
 
-If you'd like to talk about me speaking at your conference, Meetup, office, party, etc. shoot me a DM on Twitter ([@ChrisShort](https://twitter.com/ChrisShort)) or [e-mail](mailto:chris@chrisshort.net). Thanks!
+If you'd like to talk about me speaking at your conference, Meetup, office, party, etc. please send me a DM on Twitter ([@ChrisShort](https://twitter.com/ChrisShort)) or [e-mail](mailto:chris@chrisshort.net). Thanks!
+
+## Go: Enabling DevOps To Go Faster
+
+Date: January 31, 2018  
+Event: [Orchestructure January 2018 Meetup](https://www.meetup.com/orchestructure/events/246812066/)  
+Blog Post: [Orchestructure January 2018 Meetup](/orchestructure-january-2018-meetup/)  
+Video: [Go: Enabling DevOps to Go Faster - Chris Short (January 2018)](https://youtu.be/fC_fmN5tXkQ)
 
 ## Golang to the Rescue: Saving DevOps from TLS Turmoil by Chris Short
 
@@ -29,26 +36,26 @@ Video: [DevOps README.md — Chris Short](https://youtu.be/Ibnj-YZTypU)
 ## DevOpsDays Raleigh 2017 Ignite Karoke (Part 2)
 
 Date: September 8, 2017  
-Event: [DevOpsDays Raleigh](https://dodral2017.busyconf.com/schedule#day_597f51db67de73d3e8000210)  
+Event: [DevOpsDays Raleigh 2017](https://dodral2017.busyconf.com/schedule#day_597f51db67de73d3e8000210)  
 Video: [DevOpsDays Raleigh 2017 Ignite Karoke (Part 2)](https://youtu.be/Pz2r2eDCR74)
 
 ## The Dark Side of DevOps
 
 Date: September 8, 2017  
-Event: [DevOpsDays Raleigh](https://dodral2017.busyconf.com/schedule#day_597f51db67de73d3e8000210)  
+Event: [DevOpsDays Raleigh 2017](https://dodral2017.busyconf.com/schedule#day_597f51db67de73d3e8000210)  
 Blog Post: [DevOpsDays Raleigh 2017: The Dark Side of DevOps](/devopsdays-raleigh-2017-the-dark-side-of-devops/)  
 Video: [DevOpsDays Raleigh 2017](/video-devopsdays-raleigh-2017/)
 
 ## DevOps README.md
 
 Date: September 27, 2017  
-Event: [DevOpsDays Detroit](https://www.devopsdays.org/events/2017-detroit/program/continous-learning/)  
+Event: [DevOpsDays Detroit 2017](https://www.devopsdays.org/events/2017-detroit/program/continous-learning/)  
 Blog Post: [DevOps README.md](/devops-readme.md/)
 
 ## Golang to the rescue: Saving DevOps from TLS turmoil
 
 Date: July 12, 2017  
-Event: [GopherCon](https://gophercon.com)  
+Event: [GopherCon 2017](https://gophercon.com)  
 Blog Post: [GopherCon 2017 Lightning Talk Video](/gophercon-2017-lightning-talk-video/)
 
 ## A Night of DevOps at Open Source South Carolina
@@ -60,11 +67,11 @@ Blog Post: [A Night of DevOps at Open Source South Carolina](/a-night-of-devops-
 ## What The Military Taught Me About DevOps
 
 Date: November 30, 2016  
-Event [Triangle DevOps](https://www.meetup.com/Triangle-DevOps/events/235751024/)  
+Event: [Triangle DevOps](https://www.meetup.com/Triangle-DevOps/events/235751024/)  
 Blog Post: [What The Military Taught Me About DevOps](/triangle-devops-what-the-military-taught-me-about-devops/)
 
 ## What The Military Taught Me About DevOps
 
 Date: October 12, 2016  
-Event: [DevOpsDays Detroit]  (https://www.devopsdays.org/events/2016-detroit/program/what-the-military-taught-me/)  
+Event: [DevOpsDays Detroit 2016]  (https://www.devopsdays.org/events/2016-detroit/program/what-the-military-taught-me/)  
 Blog Post: [What The Military Taught Me About DevOps](/what-the-military-taught-me-about-devops/)
