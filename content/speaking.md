@@ -20,7 +20,7 @@ Event: [Orchestructure January 2018 Meetup](https://www.meetup.com/orchestructur
 Blog Post: [Orchestructure January 2018 Meetup](/orchestructure-january-2018-meetup/)  
 Video: [Go: Enabling DevOps to Go Faster - Chris Short (January 2018)](https://youtu.be/fC_fmN5tXkQ)
 
-## Golang to the Rescue: Saving DevOps from TLS Turmoil by Chris Short
+## Golang to the Rescue: Saving DevOps from TLS Turmoil
 
 Date: January 19, 2018  
 Event: [DevOpsDays New York City 2018](https://www.devopsdays.org/events/2018-new-york-city/program/chris-short/)  
