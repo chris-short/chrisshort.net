@@ -8,11 +8,15 @@ title = "About"
 
 +++
 
-### Brief Bio
+## Tagline
+
+DevOps, CNCF Ambassador, Open Source, Sarcasm, Florida Gators, Partially Disabled Veteran, Husband, Father. Views are solely mine.
+
+## Brief Bio
 
 **CHRIS SHORT** has spent more than two decades in various IT disciplines, from textile manufacturing to dial-up ISPs to DevOps engineer to manager of DevOps to senior DevOps advocate. He has been a proponent of open source solutions throughout his time in the private and public sectors. Chris is a partially disabled US Air Force veteran living with his wife and son in Greater Metro Detroit. Check out his writing and other works at [chrisshort.net](https://chrisshort.net) and [devopsish.com](https://devopsish.com).
 
-### Extended Bio
+## Extended Bio
 
 Chris Short has worked in the Information Technology field since 1995. Getting his start working summers and vacations for manufacturing and textile companies, Chris quickly latched on to the fast-paced tech sector and has been advancing technology as a resource since his youth. As a senior in high school, he was the webmaster at sandtech.net, a dial-up Internet Service Provider, in Hickory, NC and embracing Linux as a platform in the largely Windows world of the late 90s.
 
@@ -20,7 +24,7 @@ When the [Dot-com bubble](https://en.wikipedia.org/wiki/Dot-com_bubble) began to
 
 Chris is now working in the [open source](/tags/open-source/), [Linux](/tags/linux/) systems, [Cloud Native](/tags/cloud-native/), and [DevOps](/tags/devops/) spaces. He writes for several publications and maintains the [DevOps'ish](https://devopsish.com) newsletter. He calls the Greater Metro Detroit area his home. His up to date [Résumé](/resume-cv/) or [Curriculum Vitae](/resume-cv/) is available.
 
-### Appearances Elsewhere
+## Appearances Elsewhere
 
 * [DevOps'ish](https://devopsish.com)
 * [Newsletter](/newsletter/)
