@@ -24,7 +24,8 @@ Video: [Go: Enabling DevOps to Go Faster - Chris Short (January 2018)](https://y
 
 Date: January 19, 2018  
 Event: [DevOpsDays New York City 2018](https://www.devopsdays.org/events/2018-new-york-city/program/chris-short/)  
-Blog Post: [DevOpsDays NYC 2018 Ignite Talk on Golang](/devopsdays-nyc-2018-ignite-talk-on-golang/)
+Blog Post: [DevOpsDays NYC 2018 Ignite Talk on Golang](/devopsdays-nyc-2018-ignite-talk-on-golang/)  
+Video: [DevOpsDays NYC 2018 d2 07 IG Chris Short](https://youtu.be/EImcYoyYId0)
 
 ## DevOps README.md
 
