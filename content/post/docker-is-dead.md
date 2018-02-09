@@ -75,6 +75,16 @@ Docker's late and awkward embrace of Kubernetes at the last possible moment is a
 
 The real problem with Docker is a lack of coherent leadership. There appears to have been a strategic focus around a singular person in the organization. This individual has been pushed further and further away from the core of the company but still remains. The company has reorganized and has shifted its focus to the enterprise. This shift makes sense for Docker's investors (the company does have a fiduciary responsibility after all). But, this shift is going to reduce the brand's cool factor that fueled its wild success. It is said that, "Great civilizations are not murdered. They commit suicide." Docker has done just that.
 
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="autorelaxed"
+     data-ad-client="ca-pub-8972983586873269"
+     data-ad-slot="6764119446"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 ### Bonus: Conspiracy Theory
 
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Conspiracy Theory: Docker knows it is over for them. The technical folk decided to roll out Moby drastically and embraced Kubernetes suddenly to make sure their work still lives on. <a href="https://twitter.com/hashtag/Docker?src=hash&amp;ref_src=twsrc%5Etfw">#Docker</a> <a href="https://twitter.com/hashtag/DevOps?src=hash&amp;ref_src=twsrc%5Etfw">#DevOps</a></p>&mdash; Chris Short (@ChrisShort) <a href="https://twitter.com/ChrisShort/status/946724417249345536?ref_src=twsrc%5Etfw">December 29, 2017</a></blockquote>
