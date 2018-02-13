@@ -5,7 +5,7 @@ date = 2018-01-17T16:35:00Z
 description = ""
 draft = false
 slug = "raspberry-pi-kubernetes-cluster"
-tags = ["open source", "ansible", "containers", "kubernetes", "raspberry-pi", "ARM", "k8s", "cluster"]
+tags = ["open source", "ansible", "containers", "kubernetes", "raspberry pi", "ARM", "k8s", "cluster"]
 title = "My Raspberry Pi Kubernetes Cluster"
 image = "https://cdn.chrisshort.net/building-raspberry-pi-kubernetes-cluster.jpg"
 
