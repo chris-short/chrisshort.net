@@ -64,6 +64,7 @@
 /archives/chrisshortnet/ / 301
 /archives/open-source-software/ /tags/open-source/ 301
 /docker /tags/docker/ 301
+/categories/open-source /tags/open-source/ 301
 
 # Back to Tumblr
 /post/* https://chrisshort.tumblr.com/post/:splat 301
