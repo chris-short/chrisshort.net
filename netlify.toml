@@ -1,7 +1,12 @@
-# Production context: All deploys to the main
-# repository branch will inherit these settings.
+[build]
+  publish = "public"
+
 [context.production]
   command = "GIT_COMMIT_SHA=`git rev-parse --verify HEAD` GIT_COMMIT_SHA_SHORT=`git rev-parse --short HEAD` hugo"
-  publish = "public/"
 [context.production.environment]
   HUGO_VERSION = "0.34"
+
+[context.deploy-preview]
+  command = "GIT_COMMIT_SHA=`git rev-parse --verify HEAD` GIT_COMMIT_SHA_SHORT=`git rev-parse --short HEAD` hugo --buildFuture --buildDrafts"
+[context.deploy-preview.environment]
+  HUGO_VERSION = "0.36"
