@@ -90,7 +90,7 @@ Heptio has a great guide titled [*Google Cloud Registry (GCR) with external Kube
 
 `docker tag devopsish-netlify-cron gcr.io/chrisshort-net/devopsish-netlify-cron`
 
-Than push the container to GCR:
+Then push the newly tagged container image to GCR:
 
 `gcloud docker -- push gcr.io/chrisshort-net/devopsish-netlify-cron:latest`
 
