@@ -34,13 +34,6 @@
         {{ end }}
       </ul>
 
-      <p>
-          <a href="https://www.buymeacoffee.com/ChrisShort">
-            <img src="https://cdn.chrisshort.net/static/img/buy-me-a-coffee.png" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;"
-              target="_blank">
-          </a>
-      </p>
-
       {{ if (.Params.comments) | or (and (or (not (isset .Params "comments")) (eq .Params.comments nil)) (.Site.Params.comments)) }}
         {{ if .Site.DisqusShortname }}
           <div class="disqus-comments">
