@@ -1,6 +1,6 @@
 [build]
 publish = "public"
-command = "hugo"
+command = "GIT_COMMIT_SHA=`git rev-parse --verify HEAD` GIT_COMMIT_SHA_SHORT=`git rev-parse --short HEAD` hugo"
 
 [context.production.environment]
 HUGO_VERSION = "0.36"
@@ -8,7 +8,7 @@ HUGO_ENV = "production"
 HUGO_ENABLEGITINFO = "true"
 
 [context.deploy-preview]
-command = "hugo GIT_COMMIT_SHA=`git rev-parse --verify HEAD` GIT_COMMIT_SHA_SHORT=`git rev-parse --short HEAD` hugo -DF"
+command = "GIT_COMMIT_SHA=`git rev-parse --verify HEAD` GIT_COMMIT_SHA_SHORT=`git rev-parse --short HEAD` hugo -DF"
 
 [context.deploy-preview.environment]
 HUGO_VERSION = "0.36"
