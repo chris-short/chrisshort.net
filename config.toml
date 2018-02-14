@@ -62,8 +62,8 @@ paginate = 6
 #  itchio = "username"
 #  vk = "username"
 #  paypal = "username"
-#  telegram = "username"
-  buymeacoffee = "ChrisShort"
+  telegram = "ChrisShort"
+#  buymeacoffee = "ChrisShort"
 
 [related]
 # Only include matches with rank >= threshold. This is a normalized rank between 0 and 100.
