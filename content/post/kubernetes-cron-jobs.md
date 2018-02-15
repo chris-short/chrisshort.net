@@ -78,7 +78,9 @@ CMD [ "/usr/bin/curl -vvv -X POST -d '' ${URL}" ]
 
 As my Kubernetes cluster runs on Raspberry Pi, I make sure to pull this Dockerfile down to a Raspberry Pi dev box I have and build it there:
 
-`docker build -t devopsish-netlify-cron .`
+{{< highlight bash >}}
+docker build -t devopsish-netlify-cron .
+{{< /highlight >}}
 
 The name is whatever you want it to be. I will likely rename this to netlify-curl or some other more appropriate name when I'm ready.
 
@@ -88,11 +90,15 @@ The next step is to add the image to a Docker registry. I thought about running 
 
 Heptio has a great guide titled [*Google Cloud Registry (GCR) with external Kubernetes*](http://docs.heptio.com/content/private-registries/pr-gcr.html). If you are going to use GCR with an external Kubernetes cluster, I highly recommend reading this first. Once GCR is configured, your Kubernetes cluster is configured to use GCR, and the container is built, you have to tag it for GCR:
 
-`docker tag devopsish-netlify-cron gcr.io/chrisshort-net/devopsish-netlify-cron`
+{{< highlight bash >}}
+docker tag devopsish-netlify-cron gcr.io/chrisshort-net/devopsish-netlify-cron
+{{< /highlight >}}
 
 Then push the newly tagged container image to GCR:
 
-`gcloud docker -- push gcr.io/chrisshort-net/devopsish-netlify-cron:latest`
+{{< highlight bash >}}
+gcloud docker -- push gcr.io/chrisshort-net/devopsish-netlify-cron:latest
+{{< /highlight >}}
 
 <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 <ins class="adsbygoogle"
@@ -117,15 +123,19 @@ metadata:
 type: Opaque
 data:
   url: [REDACTED]
-{{< / highlight >}}
+{{< /highlight >}}
 
 The redacted url string will be the Netlify build hook URL. As this is an Opaque secret, the string will need to be base64 encoded:
 
-`echo -n "<SECRET>" | base64`
+{{< highlight bash >}}
+echo -n "<SECRET>" | base64
+{{< /highlight >}}
 
 Once the base64 string is added to the file, apply it:
 
-`kubectl apply -f secret.yml`
+{{< highlight bash >}}
+kubectl apply -f secret.yml
+{{< /highlight >}}
 
 ## Cron Job Configuration
 
@@ -154,7 +164,7 @@ spec:
                     name: devopish-build-hook
                     key: url
           restartPolicy: OnFailure
-{{< / highlight >}}
+{{< /highlight >}}
 
 One pitfall I experienced is Kubernetes uses UTC exclusively. Make sure you take that into account when you're creating your schedule.
 
@@ -168,7 +178,9 @@ Here is what the Kubernetes configuration file is specifying:
 
 Apply the configuration file and you're off to the races:
 
-`kubectl apply -f devopsish-netlify-cronjob.yml`
+{{< highlight bash >}}
+kubectl apply -f devopsish-netlify-cronjob.yml
+{{< /highlight >}}
 
 ## Conclusion
 
@@ -178,7 +190,7 @@ And voilà! You have built a Docker container, deployed the image to Google Cont
 cshort@michiganjfrog ~> kubectl get cronjob
 NAME                        SCHEDULE             SUSPEND   ACTIVE    LAST SCHEDULE   AGE
 devopsish-netlify-cronjob   1 2-14 * * 0-1,5-6   False     0         8h              2d
-{{< / highlight >}}
+{{< /highlight >}}
 
 Now go celebrate your high-availability, damn near guaranteed to run every time Kubernetes Cron Job! Congratulations!
 
