@@ -59,7 +59,7 @@ I moved my newsletter, [DevOps'ish](https://devopsish.com/), off of Medium and o
 
 The Dockerfile is pretty simple. Pull from `alpine:latest`, install `curl`, and run a `curl` command. But, I don't want the build hook URL exposed in the Dockerfile. Loading the URL as a variable via a [Kubernetes Secret](https://kubernetes.io/docs/concepts/configuration/secret/) is advisable. Do this so that the artifacts have no sensitive data and so that they can be shared publicly. Here is the Dockerfile:
 
-```
+{{< highlight dockerfile >}}
 FROM alpine:latest
 
 LABEL maintainer="Chris Short <chris@chrisshort.net>"
@@ -72,7 +72,7 @@ RUN set -x \
 ENTRYPOINT [ "/bin/sh", "-c" ]
 
 CMD [ "/usr/bin/curl -vvv -X POST -d '' ${URL}" ]
-```
+{{< /highlight >}}
 
 ### Docker Build
 
@@ -109,7 +109,7 @@ Then push the newly tagged container image to GCR:
 
 As previously mentioned, the next piece will be the Kubernetes Secret. There are a lot of ways to skin the k8s secret cat. Secrets can be loaded one time via command line or by applying a configuration file. I chose the configuration file method because I will save them in 1Password then delete them. The secret file will look something like this:
 
-```
+{{< highlight yaml >}}
 apiVersion: v1
 kind: Secret
 metadata:
@@ -117,7 +117,7 @@ metadata:
 type: Opaque
 data:
   url: [REDACTED]
-```
+{{< / highlight >}}
 
 The redacted url string will be the Netlify build hook URL. As this is an Opaque secret, the string will need to be base64 encoded:
 
@@ -131,7 +131,7 @@ Once the base64 string is added to the file, apply it:
 
 Piecing together the [Kubernetes Cron Job](https://kubernetes.io/docs/concepts/workloads/controllers/cron-jobs) configuration file is relatively easy. Schedule is a required field, and if you're familiar with cron, it will look identical to the Cron format string.
 
-```
+{{< highlight yaml >}}
 apiVersion: batch/v1beta1
 kind: CronJob
 metadata:
@@ -154,7 +154,7 @@ spec:
                     name: devopish-build-hook
                     key: url
           restartPolicy: OnFailure
-```
+{{< / highlight >}}
 
 One pitfall I experienced is Kubernetes uses UTC exclusively. Make sure you take that into account when you're creating your schedule.
 
@@ -174,11 +174,11 @@ Apply the configuration file and you're off to the races:
 
 And voilà! You have built a Docker container, deployed the image to Google Container Registry, configured the Kubernetes cluster to pull images from GCR, created a secret to store the build hook, and created the CronJob. If everything works okay, the following command should show an active cron job:
 
-```
+{{< highlight bash >}}
 cshort@michiganjfrog ~> kubectl get cronjob
 NAME                        SCHEDULE             SUSPEND   ACTIVE    LAST SCHEDULE   AGE
 devopsish-netlify-cronjob   1 2-14 * * 0-1,5-6   False     0         8h              2d
-```
+{{< / highlight >}}
 
 Now go celebrate your high-availability, damn near guaranteed to run every time Kubernetes Cron Job! Congratulations!
 
