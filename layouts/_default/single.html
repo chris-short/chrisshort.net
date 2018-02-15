@@ -5,9 +5,12 @@
       {{ if .Params.image }}
       <img src="{{ .Params.image }}" class="img-title" />
       {{ end }}
+
       <article role="main" class="blog-post">
         {{ .Content }}
       </article>
+      
+      {{ partial "sharing.html" . }}
 
       {{ $related := .Site.RegularPages.Related . | first 4 }} {{ with $related }}
       <h3>See Also</h3>
