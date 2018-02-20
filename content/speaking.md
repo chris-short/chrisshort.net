@@ -13,6 +13,13 @@ aliases = [
 
 If you'd like to talk about me speaking at your conference, Meetup, office, party, etc. please send me a DM on Twitter ([@ChrisShort](https://twitter.com/ChrisShort)) or [e-mail](mailto:chris@chrisshort.net). Thanks!
 
+## Avoiding the DevOps pit of misery: Tips from the trenches
+
+Date: February 17, 2018  
+Event: [Open Source 101 Raleigh](http://opensource101.com/raleigh/talks/avoiding-devops-pit-misery-tips-trenches/)  
+Blog Post: [Open Source 101 Raleigh 2018](/open-source-101-raleigh-2018/)  
+Video: [Avoiding the #DevOps pit of misery: Tips from the trenches with Jason Hibbets and Chris Short #opensource101](https://www.facebook.com/jhibbets/videos/10215153138403454/)
+
 ## Go: Enabling DevOps To Go Faster
 
 Date: January 31, 2018  
