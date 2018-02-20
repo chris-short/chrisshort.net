@@ -42,7 +42,7 @@ The last part of the talk we point people to some tips and tricks to help them o
 
 [Slides](https://cdn.chrisshort.net/avoiding-the-DevOps-pit-of-misery_Tips-from-the-trenches.pdf) and [video](https://cdn.chrisshort.net/jason-hibbets-chris-short-open-source-101-raleigh-2018.mp4) of the talk are available:
 
-<embed src="https://cdn.chrisshort.net/avoiding-the-DevOps-pit-of-misery_Tips-from-the-trenches.pdf" width="640" height="360" alt="pdf" />
+<embed src="https://cdn.chrisshort.net/avoiding-the-DevOps-pit-of-misery_Tips-from-the-trenches.pdf" width="100%" alt="pdf" />
 
 <iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fjhibbets%2Fvideos%2F10215153138403454%2F&show_text=0&width=267" width="267" height="476" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allowFullScreen="true"></iframe>
 
