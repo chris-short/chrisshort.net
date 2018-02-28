@@ -5,7 +5,7 @@ date = 2018-02-23T06:15:00Z
 description = ""
 draft = false
 slug = "managing-impostor-syndrome"
-tags = ["devops", "culture", "career", "job", "impostor syndrome", "continuous improvement"]
+tags = ["devops", "culture", "career", "job", "impostor syndrome", "continuous improvement", "cfp"]
 title = "Managing Imposter Syndrome"
 
 +++

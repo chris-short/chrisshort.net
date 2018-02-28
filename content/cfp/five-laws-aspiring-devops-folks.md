@@ -5,7 +5,7 @@ date = 2018-02-23T06:15:00Z
 description = ""
 draft = false
 slug = "five-laws-aspiring-devops-folks"
-tags = ["devops", "job", "career", "culture", "technical debt", "rtfm"]
+tags = ["devops", "job", "career", "culture", "technical debt", "rtfm", "cfp"]
 title = "Five Laws for Aspiring DevOps Folks"
 
 +++

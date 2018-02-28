@@ -5,7 +5,7 @@ date = 2018-02-23T06:15:00Z
 description = ""
 draft = false
 slug = "go-enabling-devops"
-tags = ["open source", "devops", "go", "golang", "security"]
+tags = ["open source", "devops", "go", "golang", "security", "cfp"]
 title = "Go to the rescue: Saving DevOps from TLS turmoil"
 
 +++
@@ -32,4 +32,4 @@ A detailed breakdown of how I built a tiny web server to fit my needs along with
 
 1. [Gophercon 2017](/gophercon-2017-lightning-talk-video/)
 2. [DevOpsDays NYC 2018 Ignite Talk on Golang](/devopsdays-nyc-2018-ignite-talk-on-golang/)
-3. [DevOpsDays Charlotter 2018 Ignite Talk on Go](/devopsdays-clt-2018-ignite-talk-on-go/)
+3. [DevOpsDays Charlotte 2018 Ignite Talk on Go](/devopsdays-clt-2018-ignite-talk-on-go/)

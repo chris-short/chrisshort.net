@@ -5,7 +5,7 @@ date = 2018-02-23T06:15:00Z
 description = ""
 draft = false
 slug = "dark-side-of-devops"
-tags = ["devops", "culture"]
+tags = ["devops", "culture", "cfp"]
 title = "The Dark Side of DevOps"
 
 +++

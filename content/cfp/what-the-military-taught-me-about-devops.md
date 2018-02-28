@@ -5,7 +5,7 @@ date = 2018-02-23T06:15:00Z
 description = ""
 draft = false
 slug = "what-the-military-taught-me-about-devops"
-tags = ["devops", "culture", "career", "job"]
+tags = ["devops", "culture", "career", "job", "cfp"]
 title = "What the Military Taught Me About DevOps"
 
 +++
@@ -39,3 +39,8 @@ I cannot stress how invaluable my time was in the Air Force. It made me who I am
 ## Notes
 
 I know a lot of people have a significant amount of anxiety about SOMETHING in our various fields. For example, [Jessie Frazelle and I have talked briefly and even she has issues around trying to prove something](https://twitter.com/Caelestisca/status/823723771743891456) and she is amazingly smart.
+
+## Presented to
+
+1. [DevOpsDays 2016: What The Military Taught Me About DevOps](/what-the-military-taught-me-about-devops/)  
+2. [Triangle DevOps: What The Military Taught Me About DevOps](/triangle-devops-what-the-military-taught-me-about-devops/)

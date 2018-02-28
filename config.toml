@@ -126,54 +126,60 @@ pattern = "2006"
 
 [[menu.main]]
     parent = "menu"
+    name = "CFPs"
+    url = "/cfp/"
+    weight = 41
+
+[[menu.main]]
+    parent = "menu"
     name = "Interviews"
     url = "/categories/interviews/"
-    weight = 41
+    weight = 50
 
 [[menu.main]]
     parent = "menu"
     name = "Books"
     url = "/books/"
-    weight = 42
+    weight = 60
 
 [[menu.main]]
     parent = "menu"
     name = "Publications"
     url = "/publications/"
-    weight = 43
+    weight = 70
 
 [[menu.main]]
     parent = "menu"
     name = "Drawings"
     url = "/tags/drawing/"
-    weight = 44
+    weight = 80
 
 [[menu.main]]
     parent = "menu"
     name = "Causes"
     url = "/causes/"
-    weight = 50
+    weight = 90
 
 [[menu.main]]
     parent = "menu"
     name = "Long Thoracic Nerve Palsy"
     url = "/long-thoracic-nerve-palsy/"
-    weight = 60
+    weight = 100
 
 [[menu.main]]
     parent = "menu"
     name = "Center for Purposeful Living"
     url = "/center-for-purposeful-living/"
-    weight = 70
+    weight = 110
 
 [[menu.main]]
     parent = "menu"
     name = "Categories"
     url = "/categories/"
-    weight = 100
+    weight = 120
 
 [[menu.main]]
     parent = "menu"
     name = "Tags"
     url = "/tags/"
-    weight = 101
+    weight = 130

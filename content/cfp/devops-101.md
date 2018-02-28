@@ -5,10 +5,25 @@ date = 2018-02-28T11:15:00Z
 description = ""
 draft = false
 slug = "devops-101"
-tags = ["devops", "job", "career", "culture", "technical debt", "rtfm"]
+tags = ["devops", "job", "career", "culture", "the three ways", "people", "process", "tools", "cfp"]
 title = "DevOps 101"
 
 +++
+
+# Abstract
+
+With the need to build, test and release software more rapidly, frequently and reliably the concept of DevOps has never been more popular, and to a degree, more misunderstood.
+
+DevOps skills are consistently highly sought after and in huge demand, yet at the same time little education and training is available in both the professional world and in higher education.
+
+This meeting will address both issues for both entry level professionals and those more advanced. It will feature:
+
+1. An introduction to DevOps, in language attendees can understand with real world examples.  
+2. An overview and hands-on demo's of some of the best practices, tools and processes that result in automating software delivery and infrastructure changes.  
+3. An interactive Q&A
+
+
+# Description
 
 ## What is DevOps?
 
@@ -428,3 +443,7 @@ MOVIE CLIP
 * Julia Evans
 
 ## Analysis of the CLOUD NATIVE LANDSCAPE
+
+# Presented to
+
+1. [A Night of DevOps at Open Source South Carolina](/a-night-of-devops-at-open-source-south-carolina/)

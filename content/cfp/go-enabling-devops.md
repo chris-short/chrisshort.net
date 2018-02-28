@@ -5,7 +5,7 @@ date = 2018-02-23T06:15:00Z
 description = ""
 draft = false
 slug = "go-enabling-devops"
-tags = ["open source", "devops", "go", "golang", "security"]
+tags = ["open source", "devops", "go", "golang", "security", "cfp"]
 title = "Go: Enabling DevOps to Go Faster"
 
 +++
