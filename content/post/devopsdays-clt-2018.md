@@ -7,15 +7,15 @@ draft = true
 slug = "devopsdays-clt-2018"
 tags = ["open source", "devops", "go", "golang", "talks", "security"]
 title = "DevOpsDays Charlotte 2018 Ignite Talk on Go"
-image = "https://cdn.chrisshort.net/chris-short-sj-technologies-devopsdays-nyc.jpg"
+image = "https://cdn.chrisshort.net/chris-short-sj-technologies-devopsdays-clt.jpg"
 
 +++
 
-I had an amazing experience at DevOpsDays NYC 2018. The organizers put together an all-star lineup. You can tell this meant a lot to the organizers by the quality of the event itself; it was top notch. Being a part of the DevOps community is absolutely amazing. I am always thrilled to get invites to DevOpsDays events; they're so well done.
+All other DevOpsDays events should be put on notice. DevOpsDays Charlotte 2018 set the bar unattainably high for the quality of the venue and speaker line up. It'll be insanely hard to beat the great folks who spoke in Charlotte this year. Almost every talk was a home run. The Red Ventures facility was also jaw dropping. Also, I don't think we could have asked for a more inviting and welcoming speaker lounge either.
 
 > [**Subscribe to DevOps'ish**](/newsletter/) for updates on DevOps, Cloud Native, and Open Source news.
 
-I was able to speak about Go and how I used it to save my DevOps ass at Solarwinds MSP. My team of merry DevOps'ers inherited an application. A third-party built the app a few years before we inherited it. The app had been in maintenance mode for quite some time. Before we could do any re-engineering work, we had to resolve a critical issue. The certificates were about to expire!
+I was able to speak about Go and using it to save my DevOps bacon. My team of merry DevOps'ers inherited an application. A third-party built the app a few years before we inherited it. The app had been in maintenance mode for quite some time. Before we could do any re-engineering work, we had to resolve a critical issue. The certificates were about to expire!
 
 <!-- chrisshort.net Responsive -->
 <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
@@ -28,7 +28,6 @@ I was able to speak about Go and how I used it to save my DevOps ass at Solarwin
    (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
 
-
 This talk walks through the use case of having to apply new certificates to an unfamiliar application. I built a 40-line Go tool to test and audit certifcate chains and web server configurations. I'm not a coder but Go makes me happy and really did save the day.
 
-<script async class="speakerdeck-embed" data-id="e90ce37a433646f79eec650670b29b0f" data-ratio="1.77777777777778" src="//speakerdeck.com/assets/embed.js"></script>
+<script async class="speakerdeck-embed" data-id="05c5de9646ba4b4eb42e1983c47a5275" data-ratio="1.77777777777778" src="//speakerdeck.com/assets/embed.js"></script>
