@@ -1,7 +1,7 @@
 +++
 author = "Chris Short"
 categories = ["Talks"]
-date = 2018-02-28T15:45:00Z
+date = 2018-02-28T20:45:00Z
 description = "This talk walks through the use case of having to apply new certificates to an unfamiliar application. I built a 50-line Go tool to test and audit certifcate chains and web server configurations."
 draft = true
 slug = "devopsdays-clt-2018"
@@ -17,15 +17,15 @@ All other DevOpsDays events should be put on notice. DevOpsDays Charlotte 2018 s
 
 I was able to speak about Go and using it to save my DevOps bacon. My team of merry DevOps'ers inherited an application. A third-party built the app a few years before we inherited it. The app had been in maintenance mode for quite some time. Before we could do any re-engineering work, we had to resolve a critical issue. The certificates were about to expire!
 
-<!-- chrisshort.net Responsive -->
 <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 <ins class="adsbygoogle"
-     style="display:block"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
      data-ad-client="ca-pub-8972983586873269"
-     data-ad-slot="1297095894"
-     data-ad-format="auto"></ins>
+     data-ad-slot="4663018952"></ins>
 <script>
-   (adsbygoogle = window.adsbygoogle || []).push({});
+     (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
 
 This talk walks through the use case of having to apply new certificates to an unfamiliar application. I built a 40-line Go tool to test and audit certifcate chains and web server configurations. I'm not a coder but Go makes me happy and really did save the day.

@@ -21,15 +21,15 @@ I had an amazing experience at DevOpsDays NYC 2018. The organizers put together 
 
 I was able to speak about Go and how I used it to save my DevOps ass at Solarwinds MSP. My team of merry DevOps'ers inherited an application. A third-party built the app a few years before we inherited it. The app had been in maintenance mode for quite some time. Before we could do any re-engineering work, we had to resolve a critical issue. The certificates were about to expire!
 
-<!-- chrisshort.net Responsive -->
 <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 <ins class="adsbygoogle"
-     style="display:block"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
      data-ad-client="ca-pub-8972983586873269"
-     data-ad-slot="1297095894"
-     data-ad-format="auto"></ins>
+     data-ad-slot="4663018952"></ins>
 <script>
-   (adsbygoogle = window.adsbygoogle || []).push({});
+     (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
 
 
