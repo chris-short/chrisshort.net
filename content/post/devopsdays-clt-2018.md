@@ -1,7 +1,7 @@
 +++
 author = "Chris Short"
 categories = ["Talks"]
-date = 2018-02-23T16:35:00Z
+date = 2018-02-28T15:45:00Z
 description = "This talk walks through the use case of having to apply new certificates to an unfamiliar application. I built a 50-line Go tool to test and audit certifcate chains and web server configurations."
 draft = true
 slug = "devopsdays-clt-2018"
