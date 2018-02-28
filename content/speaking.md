@@ -64,7 +64,7 @@ Video: [DevOpsDays Raleigh 2017](/video-devopsdays-raleigh-2017/)
 
 Date: September 27, 2017  
 Event: [DevOpsDays Detroit 2017](https://www.devopsdays.org/events/2017-detroit/program/continous-learning/)  
-Blog Post: [DevOps README.md](/devops-readme.md/)
+Blog Post: [DevOps README.md](/devops-readme.md/)  
 Video: [DevOpsDays Detroit 2017](https://youtu.be/hJDp6CLvTAQ?t=16m47s)
 
 ## Golang to the rescue: Saving DevOps from TLS turmoil
