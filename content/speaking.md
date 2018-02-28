@@ -13,6 +13,12 @@ aliases = [
 
 If you'd like to talk about me speaking at your conference, Meetup, office, party, etc. please send me a DM on Twitter ([@ChrisShort](https://twitter.com/ChrisShort)) or [e-mail](mailto:chris@chrisshort.net). Thanks!
 
+## Golang to the Rescue: Saving DevOps from TLS Turmoil
+
+Date: January 19, 2018  
+Event: [DevOpsDays Charlotte 2018](https://devopsdayscharlotte2018.sched.com/event/DIiJ/golang-to-the-rescue-saving-devops-from-tls-turmoil)  
+Blog Post: [DevOpsDays Charlotte 2018 Ignite Talk on Golang](/devopsdays-charlotte-2018-ignite-talk-on-golang/)  
+
 ## Avoiding the DevOps pit of misery: Tips from the trenches
 
 Date: February 17, 2018  
@@ -59,6 +65,7 @@ Video: [DevOpsDays Raleigh 2017](/video-devopsdays-raleigh-2017/)
 Date: September 27, 2017  
 Event: [DevOpsDays Detroit 2017](https://www.devopsdays.org/events/2017-detroit/program/continous-learning/)  
 Blog Post: [DevOps README.md](/devops-readme.md/)
+Video: [DevOpsDays Detroit 2017](https://youtu.be/hJDp6CLvTAQ?t=16m47s)
 
 ## Golang to the rescue: Saving DevOps from TLS turmoil
 
