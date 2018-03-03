@@ -38,18 +38,20 @@ DevOps needs to focus on more than Dev and Ops to be truly transformative for an
 ### Thucydides Trap
 
 * Allison coined "Thucydides Trap"
-* REFERENCE — [Destined for War: Can America and China Escape Thucydides's Trap?](https://www.amazon.com/dp/B01IAS9FZY/)
 * "Thucydides's Trap refers to the natural, inevitable discombobulation that occurs when a rising power threatens to displace a ruling power. This can happen in any sphere."
 * "Intentions aside, when a rising power threatens to displace a ruling power, the resulting structural stress makes a violent clash the rule, not the exception."
 * "Over the past five hundred years, in sixteen cases a major rising power has threatened to displace a ruling power. In twelve of those, the result was war. The four cases that avoided this outcome did so only because of huge, painful adjustments in attitudes and actions on the part of challenger and challenged alike."
+
+Source: [Destined for War: Can America and China Escape Thucydides's Trap?](https://www.amazon.com/dp/B01IAS9FZY/)
 
 ### 12 of 16 Overview
 
 * Portugal vs. Spain 🕊
 * France vs. Hapsburgs 💥
 * Hapsburgs vs. Ottoman Empire 💥
-* Hapsburgs vs. Sweden 💥 
+* Hapsburgs vs. Sweden 💥
 
+Source: [Belfer Center for Science and International Affairs](https://www.belfercenter.org/thucydides-trap/case-file)
 
 ### Dev and Ops
 
