@@ -5,7 +5,7 @@ date = 2018-03-02T12:31:00Z
 description = ""
 draft = false
 slug = "devops-as-a-war-crime"
-tags = ["devops", "culture", "cfp"]
+tags = ["devops", "culture", "thucydides", "thucydides trap", "cfp"]
 title = "DevOps as a War Crime"
 
 +++
@@ -28,12 +28,19 @@ DevOps needs to focus on more than Dev and Ops to be truly transformative for an
     * "political behavior of individuals and the subsequent outcomes of relations between states as ultimately mediated by and constructed upon the emotions of fear and self-interest."
     * "It was the rise of Athens and the fear that this instilled in Sparta that made war inevitable."
 
-### Allison Graham
+SOURCES:
+
+* [https://en.wikipedia.org/wiki/Thucydides](https://en.wikipedia.org/wiki/Thucydides)
+* [Belfer Center for Science and International Affairs](https://www.belfercenter.org/thucydides-trap/case-file)
+
+### Graham Allison
 
 * American political scientist
 * Professor at the John F. Kennedy School of Government at Harvard
 * US national security and defense policy analyst
 * Defense Medal for Distinguished Public Service recipient
+
+SOURCE: [https://en.wikipedia.org/wiki/Graham_T._Allison](https://en.wikipedia.org/wiki/Graham_T._Allison)
 
 ### Thucydides Trap
 
@@ -68,17 +75,46 @@ Source: [Belfer Center for Science and International Affairs](https://www.belfer
 ### Let's Not Forget
 
 * vim vs. emacs
-* Tools aren't worth fighting over
+* Windows vs. Linux
+* tabs vs. spaces
+* Gnome vs. KDE
+* perl vs. everything
+* Of all the problems we have in humanity, tools aren't worth fighting over
+* Do you think carpenters fight over which brand of hammer they use?
 
 ### Dev and Ops
 
-* The divide here is nearly closed
+* The divide here is closing (if not already closed)
 * Only the outliers remain (aka not Silicon Valley)
 * DevOps is happening; [the US nuclear weapons program is adopting DevOps and Agile](https://www.fbo.gov/index?s=opportunity&mode=form&id=2482d620e399c5fd667a8e4d059cc9ec&tab=core&_cview=0)
 * Your organization has no excuse
 * That won't work HERE is malarkey; sorry, not sorry
 
-### 
+### Fear
+
+"It was the rise of Athens and the **fear** that this instilled in Sparta that made war inevitable."
+
+Source: [Belfer Center for Science and International Affairs](https://www.belfercenter.org/thucydides-trap/case-file)
+
+### Fear Causes Resistance
+
+* "Tech is easy. Meat is hard." —Nirmal Metha
+* "Computers are easy, people are hard." —Bridget Kromhout
+
+### United Kingdom vs. United States 🕊
+
+* Let's look to the most recent, successful, and peaceful transfer of global power
+* Early 20th century
+* US economy outstipped UK economy
+* Prime Minister Lord Salisbury advised his finance minister that "a war with America, not this year but in the not distant future — has become something more than a possibility."
+* US Navy was rapidly expanding under President Teddy Roosevelt
+* "I would never quarrel with the United States if I could possibly avoid it." —First Lord of the Admiralty, 1901
+* Others in power in the UK eventually agreed and policy towards the US shifted given trouble brewing in Europe and US rise to power
+* Britain also had no allies in Western hemisphere to enlist to help them in a struggle against the US
+* The UK not only decided to not oppose provacative US behavior but to concede global domination to the US for the betterment of both societies
+* When WWI came in 1914, US was an essential supplier of materiel to the UK and eventually joined the fight tipping the scales towards Allied victory
+
+Source: [Belfer Center for Science and International Affairs](https://www.belfercenter.org/thucydides-trap/case-file)
 
 ### What About Networking?
 
@@ -87,23 +123,49 @@ Source: [Belfer Center for Science and International Affairs](https://www.belfer
 * What happens when you need more hardware? Eek!
 * Network Engineers are awesome at VLANs, subnets, NAT, VPNs, etc. 
     * That's VPC in a nutshell!
-* Imagine if your network team could automate and iterate as fast as the rest of your organization
-* Bring your network team into your DevOps transformation it will reduce conflict and alienation
+* Imagine if your network folks could automate and iterate as fast as the rest of your organization
+* Bring your network people into your DevOps transformation it will reduce conflict and alienation
+* Version controlled network configs are a thing network teams have struggled with for years
+    * [RANCID](http://www.shrubbery.net/rancid/)
+* Concessions:
+    * Greater purview into projects; knowing more sooner
+    * More people available for on-call rotation
+    * Skilling up more people
+* Pointing to DevOps wins will help
 
 ### What About Security?
 
-* If your security organization is the group of no you're going to have a bad time.
-* Look to leadership to help bring them on board if need be
+* If your security organization is the group of "no" you're going to have a bad time.
 * Shift security left
     * Running pentesting in the pipeline
     * Routinely scan source code for vulnerabilities
     * Vulnerability scanning as a commit-hook
 * DevSecOps
+    * DevSecOps is a thing ("SJ sells it, we have fliers")
+    * Prove to Security DevOps helps their cause
+    * Increasing the amount and frequencing of scanning
+    * Connect the dots for them; points in pipeline to governance/compliance
+    * More secure software baked in the process
+    * Higher visibility into changes in systems for all involved
+* Look to leadership to help bring them on board if need be
+* Pointing to DevOps wins will help
+
+### DevOps: The War Crime
+
+* Some people feel threatened by the cloud, fast changes, etc.
+* What happens to my job?
+* Will I have to completely relearn everything I know?
+* I've worked so hard to get here and now I have to pivot?!?
+* Should I just retire now?
 
 ### DevOps Isn't Just for IT
 
-* Being lowercase agile as an organization requires more than just development and operations, right?
+* Being lowercase agile as an organization requires more than just development and operations
+* Eventually your DevOps transformation will bump into these weird things called business processes
+* Some business processes will need to be changed along the way
+* The more allies the better!
 * C-Suite, Marketing, Legal, Sales, Finance, etc. can all help
+* Don't discredit those not writing code
 
 ### Change and Failing Fast
 
@@ -116,3 +178,4 @@ Source: [Belfer Center for Science and International Affairs](https://www.belfer
 
 ### Conclusion
 
+* WIP
