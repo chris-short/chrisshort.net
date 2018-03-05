@@ -50,17 +50,35 @@ Source: [Destined for War: Can America and China Escape Thucydides's Trap?](http
 * France vs. Hapsburgs 💥
 * Hapsburgs vs. Ottoman Empire 💥
 * Hapsburgs vs. Sweden 💥
+* Dutch Republic vs. England 💥
+* France vs. Great Britain 💥
+* United Kingdom vs. France 💥
+* France and United Kingdom vs. Russia 💥
+* France vs. Germany 💥
+* China and Russia vs. Japan 💥
+* United Kingdom vs. United States 🕊
+* United Kingdom (supported by France, Russia) vs. Germany (aka WWI) 💥
+* Soviet Union, France, and United Kingdom vs. Germany (aka WWII) 💥
+* United States vs. Japan  (aka WWII) 💥
+* United States vs. Soviet Union (aka Cold War) 🕊
+* United Kingdom and France vs. Germany 🕊
 
 Source: [Belfer Center for Science and International Affairs](https://www.belfercenter.org/thucydides-trap/case-file)
+
+### Let's Not Forget
+
+* vim vs. emacs
+* Tools aren't worth fighting over
 
 ### Dev and Ops
 
 * The divide here is nearly closed
 * Only the outliers remain (aka not Silicon Valley)
 * DevOps is happening; [the US nuclear weapons program is adopting DevOps and Agile](https://www.fbo.gov/index?s=opportunity&mode=form&id=2482d620e399c5fd667a8e4d059cc9ec&tab=core&_cview=0)
-* Your organization has no excuse; That won't work HERE is malarkey; sorry, not sorry
+* Your organization has no excuse
+* That won't work HERE is malarkey; sorry, not sorry
 
-###
+### 
 
 ### What About Networking?
 
