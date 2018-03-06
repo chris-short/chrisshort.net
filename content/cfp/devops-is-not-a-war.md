@@ -6,7 +6,7 @@ description = ""
 draft = false
 slug = "devops-is-not-a-war"
 tags = ["devops", "culture", "thucydides", "thucydides trap", "cfp"]
-title = "DevOps as a War Crime"
+title = "DevOps is Not a War"
 aliases = [
     "devops-as-a-war-crime"
 ]
