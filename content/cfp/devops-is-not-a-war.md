@@ -8,7 +8,7 @@ slug = "devops-is-not-a-war"
 tags = ["devops", "culture", "thucydides", "thucydides trap", "cfp"]
 title = "DevOps is Not a War"
 aliases = [
-    "devops-as-a-war-crime"
+    "/devops-as-a-war-crime/"
 ]
 
 +++
