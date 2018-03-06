@@ -182,4 +182,5 @@ Source: [Belfer Center for Science and International Affairs](https://www.belfer
 * It's human nature to battle the things we fear
 * Finding Allies and creating successes together is key
 * Early inclusion and concessions are keys to success
-* 
+* Fail fast
+* Be a learning organization
