@@ -4,9 +4,12 @@ categories = ["CFP"]
 date = 2018-03-02T12:31:00Z
 description = ""
 draft = false
-slug = "devops-as-a-war-crime"
+slug = "devops-is-not-a-war"
 tags = ["devops", "culture", "thucydides", "thucydides trap", "cfp"]
 title = "DevOps as a War Crime"
+aliases = [
+    "devops-as-a-war-crime"
+]
 
 +++
 
@@ -17,6 +20,11 @@ Over the past 500 years, there have been 16 cases of a rising power threatening 
 ## Description
 
 DevOps needs to focus on more than Dev and Ops to be truly transformative for an organization. What about your security folks? What about your network team? We'll introduce the work of Thucydides and the concept of Thucydides's Trap, a political scientist's take on how rising and established powers are destined for conflict. Transformations can often be contentious and sometimes rebellious. History can actually help us avoid failure in our transformations. The more the merrier along this journey!
+
+### whoami
+
+* Brands
+* Partially Disabled Veteran
 
 ### Thucydides
 
@@ -72,23 +80,13 @@ Source: [Destined for War: Can America and China Escape Thucydides's Trap?](http
 
 Source: [Belfer Center for Science and International Affairs](https://www.belfercenter.org/thucydides-trap/case-file)
 
-### Let's Not Forget
-
-* vim vs. emacs
-* Windows vs. Linux
-* tabs vs. spaces
-* Gnome vs. KDE
-* perl vs. everything
-* Of all the problems we have in humanity, tools aren't worth fighting over
-* Do you think carpenters fight over which brand of hammer they use?
-
 ### Dev and Ops
 
 * The divide here is closing (if not already closed)
 * Only the outliers remain (aka not Silicon Valley)
 * DevOps is happening; [the US nuclear weapons program is adopting DevOps and Agile](https://www.fbo.gov/index?s=opportunity&mode=form&id=2482d620e399c5fd667a8e4d059cc9ec&tab=core&_cview=0)
-* Your organization has no excuse
 * That won't work HERE is malarkey; sorry, not sorry
+* Your organization has no excuse
 
 ### Fear
 
@@ -109,10 +107,10 @@ Source: [Belfer Center for Science and International Affairs](https://www.belfer
 * Prime Minister Lord Salisbury advised his finance minister that "a war with America, not this year but in the not distant future — has become something more than a possibility."
 * US Navy was rapidly expanding under President Teddy Roosevelt
 * "I would never quarrel with the United States if I could possibly avoid it." —First Lord of the Admiralty, 1901
-* Others in power in the UK eventually agreed and policy towards the US shifted given trouble brewing in Europe and US rise to power
 * Britain also had no allies in Western hemisphere to enlist to help them in a struggle against the US
 * The UK not only decided to not oppose provacative US behavior but to concede global domination to the US for the betterment of both societies
-* When WWI came in 1914, US was an essential supplier of materiel to the UK and eventually joined the fight tipping the scales towards Allied victory
+* When WWI came in 1914, US was an essential supplier of materiel to the UK
+* Joined the fight tipping the scales towards Allied victory
 
 Source: [Belfer Center for Science and International Affairs](https://www.belfercenter.org/thucydides-trap/case-file)
 
@@ -157,6 +155,7 @@ Source: [Belfer Center for Science and International Affairs](https://www.belfer
 * Will I have to completely relearn everything I know?
 * I've worked so hard to get here and now I have to pivot?!?
 * Should I just retire now?
+* Empathy goes a long way here (but we've probably all heard enough about that)
 
 ### DevOps Isn't Just for IT
 
@@ -170,12 +169,17 @@ Source: [Belfer Center for Science and International Affairs](https://www.belfer
 ### Change and Failing Fast
 
 * Humans resist change
+    * Either you're a learning organization or you're losing to one
 * We inherrently value success
+    * You can't learn from mistakes if you never make them
 * Different isn't always bad
+    * We all agree cars are better than horses and buggies
 * Figuring out a dud early is better than dumping millions into a failure
-* "Throwing good money after bad"
-* Celebrate failures AND successes
+    * "Throwing good money after bad"
 
 ### Conclusion
 
-* WIP
+* It's human nature to battle the things we fear
+* Finding Allies and creating successes together is key
+* Early inclusion and concessions are keys to success
+* 
