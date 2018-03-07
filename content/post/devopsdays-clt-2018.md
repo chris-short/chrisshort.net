@@ -8,6 +8,9 @@ slug = "devopsdays-clt-2018"
 tags = ["open source", "devops", "go", "golang", "talks", "security"]
 title = "DevOpsDays Charlotte 2018 Ignite Talk on Go"
 image = "https://cdn.chrisshort.net/chris-short-sj-technologies-devopsdays-clt.jpg"
+aliases = [
+    "devopsdays-charlotte-2018-ignite-talk-on-golang"
+]
 
 +++
 
