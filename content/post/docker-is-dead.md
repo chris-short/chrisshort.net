@@ -17,7 +17,7 @@ aliases = [
 
 +++
 
-**DISCLAIMER**: The views expressed in this article are solely mine. They do not reflect the opinion of Cloud Native Computing Foundation (I'm a CNCF ambassador), opensource.com nor Red Hat (I'm an opensource.com community moderator), nor that of any group I am affilated with or employed by.
+**DISCLAIMER**: The views expressed in this article are solely mine. They do not reflect the opinion of Cloud Native Computing Foundation (I'm a CNCF ambassador), opensource.com nor Red Hat (I'm an opensource.com community moderator), nor that of any group I am affiliated with or employed by.
 
 To say that [Docker](https://www.docker.com/) had a very rough 2017 is an understatement. Aside from Uber, I can't think of a more utilized, hyped, and well funded Silicon Valley startup (still in operation) fumbling as bad as Docker did in 2017. People will look back on 2017 as the year Docker, a great piece of software, was completely ruined by bad business practices leading to its end in 2018. This is an outside facing retrospective on how and where Docker went wrong and how Docker's efforts to fix it are far too little way too late.
 
