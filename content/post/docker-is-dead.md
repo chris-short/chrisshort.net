@@ -29,17 +29,6 @@ Japanese Translation: [Docker社は死んだ](http://itosho525.hatenablog.com/en
 
 To be clear, Docker has helped revolutionize software development. Taking Linux primitives like cgroups, namespaces, process isolation, etc. and putting them into a single tool is an amazing feat. In 2012, I was trying to figure out how development environments could be more portable. Docker's rise allowed a development environment to become a simple, version controllable Dockerfile. The tooling went from Packer, Vagrant, VirtualBox, and a ton of infrastructure to Docker. The Docker UI is actually pretty good too! It's a good tool with many applications. The folks on the Docker team should be very proud of the tooling they built.
 
-<!-- chrisshort.net Responsive -->
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-8972983586873269"
-     data-ad-slot="1297095894"
-     data-ad-format="auto"></ins>
-<script>
-   (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 ### Docker is a Silicon Valley Darling
 
 Docker's early success lead to the company building a big community around its product. That early success fueled funding round after funding round. Well known investors like Goldman Sachs, Greylock Partners, Sequoia Capital, and Insight Venture Partners lined up to [give truckloads of money to Docker](https://www.crunchbase.com/organization/docker). To date, Docker has raised capital investments totaling between $242 to over $250 million dollars.
@@ -58,17 +47,6 @@ No one understood what Docker was doing in April at dockercon17 when it [announc
 
 Not only was the change managed poorly, the messaging was given little consideration as well. This led to an [apology](https://news.ycombinator.com/item?id=14157715) and later [hand drawn explanations](https://twitter.com/solomonstre/status/855918630915133440) of the change. This further muddies the already cloudy container space and Docker (or is it Moby?) ecosystem. The handling of the Moby rollout continues to baffle those working in the industry. The Docker brand is likely tarnished due to this.
 
-<!-- chrisshort.net Responsive -->
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-8972983586873269"
-     data-ad-slot="1297095894"
-     data-ad-format="auto"></ins>
-<script>
-   (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 ### The Cold Embrace of Kubernetes
 
 Docker's late and awkward embrace of Kubernetes at the last possible moment is a sign of an impending downfall. When asked if Docker Swarm was dead, Solomon Hykes tweeted, "[Docker will continue to support both Kubernetes and Swarm as first-class citizens, and encourage cross-pollination. Openness and choice create a healthier ecosystem for everyone.](https://twitter.com/solomonstre/status/941080802607222784)" The problem here is that Docker Swarm isn't fully baked and is quite far from it. The Docker Swarm product team and its handful of open source contributors will not be able to keep up with the Kubernetes community. As good as the Docker UI is the Kubernetes UI is far superior. It's almost as if Docker is conceding itself to being a marginal consulting firm in the container space.
@@ -85,15 +63,3 @@ The real problem with Docker is a lack of coherent leadership. There appears to 
 I floated out [a theory on Twitter](https://twitter.com/ChrisShort/status/946724417249345536) about the awkward moments for Docker in 2017. It is possible Docker knows the end is near for the company itself. As organizational changes have indicated a pending exit (likely through acquisition), the technical core of the company prioritized some changes. [Donating containerd to CNCF](https://blog.docker.com/2017/03/docker-donates-containerd-to-cncf/), making Moby the upstream of Docker, and embracing Kubernetes will immortalize the good work done by the folks at Docker. This allows a large organization like Oracle or Microsoft to come along and acquire the company without worrying about the technological advances made by Docker employees being locked behind licenses. This provides the best of both worlds for the software teams and company itself. Needless to say, 2018 will be an interesting year for Docker.
 
 > [**Subscribe to DevOps'ish**](/newsletter/) for updates on Docker as well as other DevOps, Cloud Native, and Open Source news.
-
-Japanese Translation: [Docker社は死んだ](http://itosho525.hatenablog.com/entry/2018/01/01/074358)
-
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-format="autorelaxed"
-     data-ad-client="ca-pub-8972983586873269"
-     data-ad-slot="6764119446"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
