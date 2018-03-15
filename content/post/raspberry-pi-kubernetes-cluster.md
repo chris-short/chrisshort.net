@@ -13,17 +13,6 @@ image = "https://cdn.chrisshort.net/building-raspberry-pi-kubernetes-cluster.jpg
 
 For many months, I have wanted a **Kubernetes** cluster of my very own. One that I can tinker with, break, rebuild, and deploy services to. In the fall of 2017, I decided to stand up a three node cluster in Google Kubernetes Engine (GKE). It was nice and shiny and Googly but it wasn't cheap. Totaling almost $40/month to run I was envious of my friends who have virtually unlimited access to cloud compute.
 
-<!-- chrisshort.net Responsive -->
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-8972983586873269"
-     data-ad-slot="1297095894"
-     data-ad-format="auto"></ins>
-<script>
-   (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 Once I [left Bankrate](/leaving-bankrate/), the GKE cluster was shuttered and a lower cost option was needed. I ran minikube for a while. I got annoyed when a laptop went to sleep and ruined minikube. I tried to run a single node cluster on an old 2010 MacBook Pro. But, it wasn't up to the task without [VT-x](https://en.wikipedia.org/wiki/X86_virtualization#Intel_virtualization_(VT-x)). I abandoned the idea for later on once I realized the four old Raspberry Pis I had weren't going to be able to handle but a handful of containers.
 
 > [**Subscribe to DevOps'ish**](/newsletter/) for updates on DevOps, Cloud Native, and Open Source news.
@@ -38,17 +27,6 @@ With all that in mind, I came up with criteria to meet my needs and wants:
 * Low noise (I've done the server room life; it's given me bad hearing)
 
 Time and time again I kept searching and coming back to the [**Raspberry Pi 3**](https://www.raspberrypi.org/products/raspberry-pi-3-model-b/) as a decent platform that fit my needs. It seems like Raspberry Pi Kubernetes clusters are popping up everywhere. The trend certainly has grown at the onset of 2018. Folks like [Alex Ellis](https://blog.alexellis.io/the-state-of-netbooting-raspberry-pi/) and [Scott Hanselman](https://www.hanselman.com/blog/HowToBuildAKubernetesClusterWithARMRaspberryPiThenRunNETCoreOnOpenFaas.aspx) are talking about Kubernetes running on Raspberry Pi clusters. It seems like the Raspberry Pi is a decent platform for Kubernetes.
-
-<!-- chrisshort.net Responsive -->
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-8972983586873269"
-     data-ad-slot="1297095894"
-     data-ad-format="auto"></ins>
-<script>
-   (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 After having lunch one day in Ann Arbor with Ed Vielmetti of [Packet](https://www.packet.net/) and talking about [ARM](https://en.wikipedia.org/wiki/ARM_architecture) in the datacenter it made a lot of sense to go this route. ARM is the CPU of the future as chips will need to be more plentiful, more power efficient, and smaller. The Apple iPhone 8 I carry has six cores and amazing performance from ARM chips. Once Meltdown and Spectre hit my belief got a real-life wake-up call. Is Intel the chip of the future? No. ARM is (yes, I know ARM is susceptible to Spectre).
 
@@ -65,17 +43,6 @@ I also ordered [USB wifi adapters](https://smile.amazon.com/gp/product/B003MTTJO
 One thing I learned in the late 90s was that rebuilding Linux boxes was something you had to get good at. If you wanted to run on tiny hard disks cleaning out cruft from packages was a regular task. Sometimes it was faster to rebuild the box than remove all the cruft after a round of experiments. One thing I learned in the 2010s was that if you automated your configuration management and software deployment undoing things was as simple as a flag. There are a lot of moving pieces to building a Kubernetes cluster. I want the same consistency in my software that I had in my hardware. The Kubernetes cluster setup and management should be automated to within an inch of its life.
 
 If you know me, you know my automation tool of choice is **[Ansible](https://chrisshort.net/tags/ansible/)**. The only time I want to manually SSH into these systems is to fix something very abnormal. There is [kubespray](https://kubespray.io/) but it doesn't address ARM. Kubespray is also overkill for what I'm trying to do. It's also a little heavy for the Raspberry Pi platform itself. I decided to set off and build my own Ansible automation.
-
-<!-- chrisshort.net Responsive -->
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-8972983586873269"
-     data-ad-slot="1297095894"
-     data-ad-format="auto"></ins>
-<script>
-   (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 rak8s is born. [**rak8s**](https://rak8s.io/) (pronounced rackets) is an Ansible playbook to deploy Kubernetes to Raspberry Pis. The idea of rak8s is two-fold, automate and educate:
 
