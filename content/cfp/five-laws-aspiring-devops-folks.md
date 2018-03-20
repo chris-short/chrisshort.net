@@ -12,7 +12,7 @@ title = "Five Laws for Aspiring DevOps Folks"
 
 ## Abstract
 
-Laziness is a great quality when automating repetitive tasks. Laziness flies in the face of learning new technologies and getting new work done. Somewhere between Jr. SysAdmin and Systems Architect, laziness is no longer an advantage. Let's look at five laws aspiring DevOps folks should follow.
+Laziness is a great quality when automating repetitive tasks. Laziness flies in the face of learning new technologies and getting new work done. Somewhere between Jr. SysAdmin and Systems Architect, laziness is no longer an advantage. Let's look at five laws aspiring DevOps folks should follow to be successful.
 
 ## Description
 
