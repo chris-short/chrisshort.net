@@ -18,6 +18,7 @@ If you'd like to talk about me speaking at your conference, Meetup, office, part
 Date: January 19, 2018  
 Event: [DevOpsDays Charlotte 2018](https://devopsdayscharlotte2018.sched.com/event/DIiJ/golang-to-the-rescue-saving-devops-from-tls-turmoil)  
 Blog Post: [DevOpsDays Charlotte 2018 Ignite Talk on Golang](/devopsdays-charlotte-2018-ignite-talk-on-golang/)  
+Video: [Golang to the rescue: Saving DevOps from TLS turmoil](https://youtu.be/-jg_SyoIIsA)
 
 ## Avoiding the DevOps pit of misery: Tips from the trenches
 
