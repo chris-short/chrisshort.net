@@ -10,7 +10,7 @@ title = "About"
 
 ## Tagline
 
-DevOps, CNCF Ambassador, Open Source, Sarcasm, Florida Gators, Partially Disabled Veteran, Husband, Father. Views are solely mine.
+Senior DevOps Advocate | CNCF Ambassador | opensource.com Community Moderator | Writes devopsish.com
 
 ## Brief Bio
 

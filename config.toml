@@ -15,8 +15,8 @@ paginate = 6
 
 [Params]
   UseChroma = true
-  subtitle = "DevOps, CNCF Ambassador, Open Source, Sarcasm, Florida Gators, Partially Disabled Veteran, Husband, Father. Views are solely mine."
-  description = "DevOps, CNCF Ambassador, Open Source, Sarcasm, Florida Gators, Partially Disabled Veteran, Husband, Father. Views are solely mine." 
+  subtitle = "Senior DevOps Advocate | CNCF Ambassador | opensource.com Community Moderator | Writes devopsish.com"
+  description = "Senior DevOps Advocate | CNCF Ambassador | opensource.com Community Moderator | Writes devopsish.com"
   logo = "https://cdn.chrisshort.net/static/img/Late-2017-Headshot-Square-Optimized.jpg"
   favicon = "https://cdn.chrisshort.net/static/favicons/favicon.ico"
   dateFormat = "January 2, 2006"
@@ -128,12 +128,12 @@ pattern = "2006"
     parent = "menu"
     name = "CFPs"
     url = "/cfp/"
-    weight = 41
+    weight = 39
 
 [[menu.main]]
     parent = "menu"
     name = "Interviews"
-    url = "/categories/interviews/"
+    url = "/interviews/"
     weight = 50
 
 [[menu.main]]
