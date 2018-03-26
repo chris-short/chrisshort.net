@@ -23,8 +23,8 @@ addons:
 install:
 - rm -rf public || exit 0
 before_script:
-- curl --silent -L https://github.com/gohugoio/hugo/releases/download/v${HUGO_VER}/hugo_${HUGO_VER}_Linux-64bit.tar.gz
-  | tar zxf -
+- curl -v -L https://github.com/gohugoio/hugo/releases/download/v${HUGO_VER}/hugo_${HUGO_VER}_Linux-64bit.tar.gz
+  || tar zxf -
 script:
 - GIT_COMMIT_SHA=`git rev-parse --verify HEAD` GIT_COMMIT_SHA_SHORT=`git rev-parse
   --short HEAD` ./hugo
@@ -41,4 +41,4 @@ deploy:
     repo: chris-short/chrisshort.net
     branch: master
 after_deploy:
-- curl -X DELETE "https://api.cloudflare.com/client/v4/zones/${cfzone}/purge_cache" -H "Content-Type:application/json" -H "X-Auth-Key:${key}" -H "X-Auth-Email:${email}" --data '{"files":["https://chrisshort.net"]}'
+- curl -v -X DELETE "https://api.cloudflare.com/client/v4/zones/${cfzone}/purge_cache" -H "Content-Type:application/json" -H "X-Auth-Key:${key}" -H "X-Auth-Email:${email}" --data '{"files":["https://chrisshort.net"]}'
