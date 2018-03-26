@@ -52,7 +52,7 @@ deploy:
 #  on:
 #    repo: chris-short/chrisshort.net
 #    branch: master
-after_success:
+after_deploy:
 - curl -X DELETE "https://api.cloudflare.com/client/v4/zones/${cfzone}/purge_cache" -H "Content-Type:application/json" -H "X-Auth-Key:${key}" -H "X-Auth-Email:${email}" --data '{"files":["https://chrisshort.net"]}'
 #- curl --silent -L -O https://github.com/chris-short/purgeflare/releases/download/v0.1.0/purgeflare-linux-amd64
 #  | chmod 0755 -
