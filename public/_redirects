@@ -1,6 +1,6 @@
 # This files is unique to Netlify (Not a hugo component; use of hugo's alias function is encouraged)
 
-*/amp/ /:splat 301
+*/amp/* /:splat 301
 /author/chris* / 301
 /categories/* /tags/:splat 301
 /tag/* /tags/:splat 301

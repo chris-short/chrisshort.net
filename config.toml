@@ -13,6 +13,9 @@ paginate = 6
 [permalinks]
   post = ":title/"
 
+#[taxonomies]
+#  category = "tags"
+
 [Params]
   UseChroma = true
   subtitle = "Senior DevOps Advocate | CNCF Ambassador | opensource.com Community Moderator | Writes devopsish.com"
