@@ -38,7 +38,7 @@ before_script:
 script:
 - GIT_COMMIT_SHA=`git rev-parse --verify HEAD` GIT_COMMIT_SHA_SHORT=`git rev-parse
   --short HEAD` ./hugo
-deploy:
+after_success:
 - gsutil rsync -d -r public gs://chrisshort.net/
 #deploy:
 #- provider: gcs
@@ -52,7 +52,7 @@ deploy:
 #  on:
 #    repo: chris-short/chrisshort.net
 #    branch: master
-after_deploy:
+after_script:
 - curl -X DELETE "https://api.cloudflare.com/client/v4/zones/${cfzone}/purge_cache"
   -H "Content-Type:application/json" -H "X-Auth-Email:${email}" -H "X-Auth-Key:${key}"
   --data '{"purge_everything":true}'
