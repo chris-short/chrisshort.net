@@ -12,6 +12,7 @@ before_install:
 - curl -O https://dl.google.com/dl/cloudsdk/channels/rapid/google-cloud-sdk.tar.gz
 - tar zxf google-cloud-sdk.tar.gz
 - ./google-cloud-sdk/install.sh -q
+- source google-cloud-sdk/path.bash.inc
 - gcloud auth activate-service-account --key-file chrisshort-net-travis-ci.json
 install:
 - gcloud config set project chrisshort-net
