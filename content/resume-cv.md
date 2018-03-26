@@ -6,6 +6,10 @@ draft = false
 slug = "resume-cv"
 tags = ["resume", "cv"]
 title = "Résumé or Curriculum Vitae"
+aliases = [
+    "/cv/",
+    "/resume/"
+]
 
 +++
 

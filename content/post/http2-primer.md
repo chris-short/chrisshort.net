@@ -8,7 +8,10 @@ image = "https://cdn.chrisshort.net/chrome-devtools-h2.png"
 slug = "http2-primer"
 tags = ["HTTP/2", "drawing"]
 title = "HTTP/2 Primer"
-aliases = ["http2-primer"]
+aliases = [
+    "http2-primer",
+    "/http-2-primer-and-drawing/"
+]
 
 +++
 
