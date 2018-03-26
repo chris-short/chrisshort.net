@@ -9,9 +9,9 @@ before_install:
 - openssl aes-256-cbc -K $encrypted_54a0bdbe9bc5_key -iv $encrypted_54a0bdbe9bc5_iv
   -in chrisshort-net-travis-ci.json.enc -out chrisshort-net-travis-ci.json
   -d
-- if [ ! -d ${HOME}/google-cloud-sdk ]; then
-     curl https://sdk.cloud.google.com | bash;
-  fi
+- curl -O https://dl.google.com/dl/cloudsdk/channels/rapid/google-cloud-sdk.tar.gz
+- tar zxf google-cloud-sdk.tar.gz
+- ./google-cloud-sdk/install.sh --usage-reporting true --command-completion true --path-update true
 - gcloud auth activate-service-account --key-file chrisshort-net-travis-ci.json
 install:
 - gcloud config set project chrisshort-net
