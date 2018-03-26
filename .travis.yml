@@ -24,7 +24,7 @@ script:
 - GIT_COMMIT_SHA=`git rev-parse --verify HEAD` GIT_COMMIT_SHA_SHORT=`git rev-parse
   --short HEAD` ./hugo
 after_success:
-- gsutil rsync -a public-read -d -r public gs://chrisshort.net/
+- gsutil -m rsync -a public-read -d -r public gs://chrisshort.net/
 #deploy:
 #- provider: gcs
 #  access_key_id: GOOGU2LT7AP6FT66C6RA
