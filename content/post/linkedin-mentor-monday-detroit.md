@@ -7,7 +7,7 @@ draft = false
 slug = "linkedin-mentor-monday-detroit"
 tags = ["detroit", "mentor", "linkedin", "mentorship", "volunteering"]
 title = "LinkedIn Mentor Monday Detroit"
-image = "/img/2018/linkedin-mentor-monday-20180122.jpg"
+image = "https://cdn.chrisshort.net/linkedin-mentor-monday-20180122.jpg"
 
 +++
 
