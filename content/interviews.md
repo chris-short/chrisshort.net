@@ -8,7 +8,7 @@ tags = ["interviews"]
 title = "Interviews"
 +++
 
-If you'd like to talk to me speaking for your podcast, live stream, web site, etc. please send me a DM on Twitter ([@ChrisShort](https://twitter.com/ChrisShort)) or [e-mail](mailto:chris@chrisshort.net). Thanks!
+If you'd like to talk to me about speaking on your podcast, live stream, web site, etc. please send me a DM on Twitter ([@ChrisShort](https://twitter.com/ChrisShort)) or [e-mail](mailto:chris@chrisshort.net). Thanks!
 
 ## Screaming in the Cloud: Episode 2
 
