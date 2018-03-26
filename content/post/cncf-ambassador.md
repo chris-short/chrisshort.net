@@ -7,7 +7,7 @@ draft = false
 slug = "cncf-ambassador"
 tags = ["cloud native", "cncf", "kubernetes", "ambassador"]
 title = "Chris Short named Cloud Native Ambassador"
-image = "https://cdn.chrisshort.net/cncf-ambassador-color-vertical.png"
+image = "/img/2018/cncf-ambassador-color-horizontal.png"
 
 +++
 
