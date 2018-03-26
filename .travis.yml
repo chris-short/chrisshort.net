@@ -40,20 +40,20 @@ deploy:
   on:
     repo: chris-short/chrisshort.net
     branch: master
-- provider: s3
-  access_key_id: AKIAIUVXSICCE4F5OD2Q
-  secret_access_key:
-    secure: FObTXQnAP7o0sdvZQaEs+oN2r1jjD5kYOj/A5INILgrnItN5rcTYMVNn+Clu3FPK8nyoAXbr/tq22xC5Y8yHId2R5lIk8Q1D9NoIZPUN6mEhT+6m61dFwdtsb5dsJzPeIDKsxBRtKNuDLvsgShgexb4qOIJqnp+72kP5IzTb+xlaIgnCb6ggQko5HA4Lz2ACn2dHed9e7WhZVfHbG6g/D6n+3xlANks6CYa4Z+Qx9VPJQM3eF7tNe5kZxw58zM+JKNF9x9UGnI1qS4NwIZqL0T7UgUjQkKP9MdEb60jOTTq3A+FAKqdQ9Gh2fD6EwAwaBfjAfftYCsURiYdNa5Y8eQwo4Jh85pUTWdN2Vs5HIdyAtcGmvBRhbFny4H9IV5tYHGlr7b0XkM+gPhh6yLBqQwFhinaT1KBwT8yLAXvST7eVbPg1IDBJ2R5o1+Q2ifLKgxLT0HLks6OMk5VBcXGI1SbLZg61WFxzYl/A7Nu3S0JCwRGHlnj411PMD6C6eybXSHEiWPkvOlYizh1exJEvyW3KJ7I6VIcvlrbMFzDtD3kZdPu/ic79dlPYguhZN691zuBUwW5B5nLOg/IeWY39bETcFnbwSr5161JkCZOgVkOE3IDAaKVWCcngcgdYORbCxsdhZ+mp92gwZ6BIR1qk8+hLVRdyF8MDY83Frb60B9M=
-  region: us-east-2
-  bucket: chrisshort.net
-  local-dir: public
-  skip_cleanup: true
-  acl: public_read
-  on:
-    repo: chris-short/chrisshort.net
-    branch: master
+#- provider: s3
+#  access_key_id: AKIAIUVXSICCE4F5OD2Q
+#  secret_access_key:
+#    secure: FObTXQnAP7o0sdvZQaEs+oN2r1jjD5kYOj/A5INILgrnItN5rcTYMVNn+Clu3FPK8nyoAXbr/tq22xC5Y8yHId2R5lIk8Q1D9NoIZPUN6mEhT+6m61dFwdtsb5dsJzPeIDKsxBRtKNuDLvsgShgexb4qOIJqnp+72kP5IzTb+xlaIgnCb6ggQko5HA4Lz2ACn2dHed9e7WhZVfHbG6g/D6n+3xlANks6CYa4Z+Qx9VPJQM3eF7tNe5kZxw58zM+JKNF9x9UGnI1qS4NwIZqL0T7UgUjQkKP9MdEb60jOTTq3A+FAKqdQ9Gh2fD6EwAwaBfjAfftYCsURiYdNa5Y8eQwo4Jh85pUTWdN2Vs5HIdyAtcGmvBRhbFny4H9IV5tYHGlr7b0XkM+gPhh6yLBqQwFhinaT1KBwT8yLAXvST7eVbPg1IDBJ2R5o1+Q2ifLKgxLT0HLks6OMk5VBcXGI1SbLZg61WFxzYl/A7Nu3S0JCwRGHlnj411PMD6C6eybXSHEiWPkvOlYizh1exJEvyW3KJ7I6VIcvlrbMFzDtD3kZdPu/ic79dlPYguhZN691zuBUwW5B5nLOg/IeWY39bETcFnbwSr5161JkCZOgVkOE3IDAaKVWCcngcgdYORbCxsdhZ+mp92gwZ6BIR1qk8+hLVRdyF8MDY83Frb60B9M=
+#  region: us-east-2
+#  bucket: chrisshort.net
+#  local-dir: public
+#  skip_cleanup: true
+#  acl: public_read
+#  on:
+#    repo: chris-short/chrisshort.net
+#    branch: master
 after_success:
-- curl -X DELETE "https://api.cloudflare.com/client/v4/zones/${cfzone}/purge_cache"; -H "Content-Type:application/json" -H "X-Auth-Key:${key}" -H "X-Auth-Email:${email}" --data '{"files":["https://chrisshort.net"]}'
+- curl -X DELETE "https://api.cloudflare.com/client/v4/zones/${cfzone}/purge_cache" -H "Content-Type:application/json" -H "X-Auth-Key:${key}" -H "X-Auth-Email:${email}" --data '{"files":["https://chrisshort.net"]}'
 #- curl --silent -L -O https://github.com/chris-short/purgeflare/releases/download/v0.1.0/purgeflare-linux-amd64
 #  | chmod 0755 -
 #after_script:
