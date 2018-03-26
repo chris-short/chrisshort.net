@@ -41,4 +41,4 @@ deploy:
     repo: chris-short/chrisshort.net
     branch: master
 after_deploy:
-- curl -v -X DELETE "https://api.cloudflare.com/client/v4/zones/${cfzone}/purge_cache" -H "Content-Type:application/json" -H "X-Auth-Key:${key}" -H "X-Auth-Email:${email}" --data '{"files":["https://chrisshort.net"]}'
+- curl -X DELETE "https://api.cloudflare.com/client/v4/zones/${cfzone}/purge_cache" -H "Content-Type:application/json" -H "X-Auth-Email:${email}" -H "X-Auth-Key:${key}" --data '{"purge_everything":true}'
