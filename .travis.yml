@@ -10,7 +10,7 @@ before_install:
   -in chrisshort-net-travis-ci.json.enc -out chrisshort-net-travis-ci.json
   -d
 - curl --silent -L https://dl.google.com/dl/cloudsdk/channels/rapid/google-cloud-sdk.tar.gz
-  | tar xxf -
+  | tar zxf -
 - ./google-cloud-sdk/install.sh -q
 - source google-cloud-sdk/path.bash.inc
 - gcloud auth activate-service-account --key-file chrisshort-net-travis-ci.json
