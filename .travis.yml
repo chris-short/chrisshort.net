@@ -27,7 +27,7 @@ after_success:
 - gsutil -m rsync -a public-read -d -r public gs://chrisshort.net/
 - curl -X DELETE "https://api.cloudflare.com/client/v4/zones/${cfzone}/purge_cache"
   -H "Content-Type:application/json" -H "X-Auth-Email:${email}" -H "X-Auth-Key:${key}"
-  --data '{"hosts":["chrisshort.net"]}'
+  --data '{"purge_everything":true}'
 language: generic
 cache: false
 branches:
