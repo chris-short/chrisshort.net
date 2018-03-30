@@ -19,6 +19,17 @@ One of the reasons I stood up a [Kubernetes cluster on Raspberry Pis](/my-raspbe
 
 I have four old Raspberry Pi boxes doing various things here in the office for me. They do a single task fine, but I have over-extended one of the first-generation Raspberry Pis. I'd like to deprecate the older Raspberry Pis as they are no longer effective boxes. To do that, I need to move the workloads (like a cloud migration). One thing I have no shortage of running on these Raspberry Pi boxes are cron jobs. I have a cron for almost everything I do. Monitoring, updating web apps, detecting changes in domain name configurations, etc.
 
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-8972983586873269"
+     data-ad-slot="4663018952"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 ## k8s Jobs and Cron Jobs
 
 Kubernetes has the concept of *Jobs*. To quote the official [Jobs documentation](https://kubernetes.io/docs/concepts/workloads/controllers/jobs-run-to-completion/#what-is-a-job), "A job creates one or more pods and ensures that a specified number of them successfully terminate." If you have a pod that needs to run until completion no matter what, a Kubernetes Job is for you. Think of Jobs as a batch processor.
@@ -26,6 +37,17 @@ Kubernetes has the concept of *Jobs*. To quote the official [Jobs documentation]
 [Kubernetes *Cron Jobs*](https://kubernetes.io/docs/concepts/workloads/controllers/cron-jobs/) are a relatively new thing. But, I am ecstatic that this is a standard feature in modern Kubernetes clusters. This means that I can tell the cluster one time that I want a job to run at certain times. Since Cron Jobs build on top of the existing Job functionality, I know that the job will be run to completion. The job will run on one of the six nodes I have in my Kubernetes cluster. Even if a pod is destroyed mid-job, it will spin up on another node and run there. High-available cron jobs have been a beast I've tried to slay many times. This is now a solved problem and all I have to do is implement it.
 
 The implementation of Kubernetes *Cron Jobs* is like many other things with Kubernetes: YAML. There are a few projects to help with wrangling your YAML ([ksonnet](https://ksonnet.io/) for example) but, that is a discussion for another article. For now, let's get a Dockerfile and Kubernetes configuration file put together.
+
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-8972983586873269"
+     data-ad-slot="4663018952"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 ## Use Case
 
@@ -51,6 +73,17 @@ ENTRYPOINT [ "/bin/sh", "-c" ]
 
 CMD [ "/usr/bin/curl -vvv -X POST -d '' ${URL}" ]
 {{< /highlight >}}
+
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-8972983586873269"
+     data-ad-slot="4663018952"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 ### Docker Build
 
@@ -102,7 +135,18 @@ Once the base64 string is added to the file, apply it:
 
 {{< highlight bash >}}
 kubectl apply -f secret.yml
-{{< /highlight >}}
+{{< /highlight >}
+
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-8972983586873269"
+     data-ad-slot="4663018952"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 ## Cron Job Configuration
 
@@ -148,6 +192,17 @@ Apply the configuration file and you're off to the races:
 {{< highlight bash >}}
 kubectl apply -f devopsish-netlify-cronjob.yml
 {{< /highlight >}}
+
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-8972983586873269"
+     data-ad-slot="4663018952"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 ## Conclusion
 
