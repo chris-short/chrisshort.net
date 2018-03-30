@@ -8,9 +8,7 @@ title = "Disclaimer"
 
 +++
 
-The views expressed on this web site are solely Chris Short's.
-
-They do not reflect the opinions or views of:
+Views expressed on this site do not reflect the opinions or views of:
 
 * SJ Technologies
 * Cloud Native Computing Foundation
@@ -18,4 +16,4 @@ They do not reflect the opinions or views of:
 * Red Hat
 * Detroit Go Meetup
 
-Nor those of any group Chris Short is affiliated with or employed by.
+Nor those of any group Chris Short is or has been affiliated with or employed by.
