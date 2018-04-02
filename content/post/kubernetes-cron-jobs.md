@@ -135,7 +135,7 @@ Once the base64 string is added to the file, apply it:
 
 {{< highlight bash >}}
 kubectl apply -f secret.yml
-{{< /highlight >}
+{{< /highlight >}}
 
 <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 <ins class="adsbygoogle"
