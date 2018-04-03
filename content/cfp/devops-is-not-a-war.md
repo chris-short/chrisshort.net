@@ -50,7 +50,7 @@ SOURCES:
 
 SOURCE: [https://en.wikipedia.org/wiki/Graham_T._Allison](https://en.wikipedia.org/wiki/Graham_T._Allison)
 
-### Thucydides Trap
+### Thucydides's Trap
 
 * Allison coined "Thucydides Trap"
 * "Thucydides's Trap refers to the natural, inevitable discombobulation that occurs when a rising power threatens to displace a ruling power. This can happen in any sphere."
@@ -114,6 +114,15 @@ Source: [Belfer Center for Science and International Affairs](https://www.belfer
 
 Source: [Belfer Center for Science and International Affairs](https://www.belfercenter.org/thucydides-trap/case-file)
 
+### DevOps: The War Crime
+
+* Some people feel threatened by the cloud, fast changes, etc.
+* What happens to my job?
+* Will I have to completely relearn everything I know?
+* I've worked so hard to get here and now I have to pivot?!?
+* Should I just retire now?
+* Empathy goes a long way here (but we've probably all heard enough about that)
+
 ### What About Networking?
 
 * Great you can deploy code and "infrastructure" on commit
@@ -147,15 +156,6 @@ Source: [Belfer Center for Science and International Affairs](https://www.belfer
     * Higher visibility into changes in systems for all involved
 * Look to leadership to help bring them on board if need be
 * Pointing to DevOps wins will help
-
-### DevOps: The War Crime
-
-* Some people feel threatened by the cloud, fast changes, etc.
-* What happens to my job?
-* Will I have to completely relearn everything I know?
-* I've worked so hard to get here and now I have to pivot?!?
-* Should I just retire now?
-* Empathy goes a long way here (but we've probably all heard enough about that)
 
 ### DevOps Isn't Just for IT
 
