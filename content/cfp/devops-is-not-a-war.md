@@ -103,7 +103,7 @@ Source: [Belfer Center for Science and International Affairs](https://www.belfer
 
 * Let's look to the most recent, successful, and peaceful transfer of global power
 * Early 20th century
-* US economy outstipped UK economy
+* US economy outstripped UK economy
 * Prime Minister Lord Salisbury advised his finance minister that "a war with America, not this year but in the not distant future — has become something more than a possibility."
 * US Navy was rapidly expanding under President Teddy Roosevelt
 * "I would never quarrel with the United States if I could possibly avoid it." —First Lord of the Admiralty, 1901
