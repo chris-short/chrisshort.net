@@ -108,7 +108,7 @@ Source: [Belfer Center for Science and International Affairs](https://www.belfer
 * US Navy was rapidly expanding under President Teddy Roosevelt
 * "I would never quarrel with the United States if I could possibly avoid it." —First Lord of the Admiralty, 1901
 * Britain also had no allies in Western hemisphere to enlist to help them in a struggle against the US
-* The UK not only decided to not oppose provacative US behavior but to concede global domination to the US for the betterment of both societies
+* The UK not only decided to not oppose provocative US behavior but to concede global domination to the US for the betterment of both societies
 * When WWI came in 1914, US was an essential supplier of materiel to the UK
 * Joined the fight tipping the scales towards Allied victory
 
@@ -170,7 +170,7 @@ Source: [Belfer Center for Science and International Affairs](https://www.belfer
 
 * Humans resist change
     * Either you're a learning organization or you're losing to one
-* We inherrently value success
+* We inherently value success
     * You can't learn from mistakes if you never make them
 * Different isn't always bad
     * We all agree cars are better than horses and buggies
