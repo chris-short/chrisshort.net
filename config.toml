@@ -18,8 +18,8 @@ paginate = 6
 
 [Params]
   UseChroma = true
-  subtitle = "Senior DevOps Advocate | CNCF Ambassador | opensource.com Community Moderator | Writes devopsish.com"
-  description = "Senior DevOps Advocate | CNCF Ambassador | opensource.com Community Moderator | Writes devopsish.com"
+  subtitle = "Senior DevOps Advocate | CNCF Ambassador | opensource.com Community Moderator | Writes devopsish.com | Partially Disabled USAF Veteran"
+  description = "Senior DevOps Advocate | CNCF Ambassador | opensource.com Community Moderator | Writes devopsish.com | Partially Disabled USAF Veteran"
   logo = "https://cdn.chrisshort.net/static/img/Late-2017-Headshot-Square-Optimized.jpg"
   favicon = "https://cdn.chrisshort.net/static/favicons/favicon.ico"
   dateFormat = "January 2, 2006"

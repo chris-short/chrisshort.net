@@ -10,7 +10,7 @@ title = "About"
 
 ## Tagline
 
-Senior DevOps Advocate | CNCF Ambassador | opensource.com Community Moderator | Writes devopsish.com
+Senior DevOps Advocate | CNCF Ambassador | opensource.com Community Moderator | Writes devopsish.com | Partially Disabled USAF Veteran
 
 ## Brief Bio
 
