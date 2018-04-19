@@ -5,6 +5,9 @@ description = "Causes Chris Short Supports"
 draft = false
 slug = "causes"
 title = "Causes"
+aliases = [
+    "/tags/causes/"
+]
 +++
 
 There are many causes worth supporting out there. It's important that you help out organizations doing good in the world. At the very least, set up [Amazon Smile](https://smile.amazon.com) to support your charity of choice. Below is a list of causes I support.
