@@ -4,11 +4,12 @@ categories = ["CFP"]
 date = 2018-03-02T12:31:00Z
 description = ""
 draft = false
-slug = "devops-is-not-a-war"
+slug = "devops-is-not-war"
 tags = ["devops", "culture", "thucydides", "thucydides trap", "cfp"]
-title = "DevOps is Not a War"
+title = "DevOps is Not War"
 aliases = [
-    "/cfp/devops-as-a-war-crime"
+    "/cfp/devops-as-a-war-crime",
+    "/cfp/devops-is-not-a-war"
 ]
 
 +++
