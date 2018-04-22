@@ -13,6 +13,24 @@ aliases = [
 
 If you'd like to talk about me speaking at your conference, Meetup, office, party, etc. please send me a DM on Twitter ([@ChrisShort](https://twitter.com/ChrisShort)) or [e-mail](mailto:chris@chrisshort.net). Thanks!
 
+## Kubernetes Cron Jobs: Highly-Available, Distributed Cron Jobs are Awesome!
+
+Date: April 20, 2018  
+Event: [Detroit Kubernetes, Docker & all related things](https://www.meetup.com/Detroit-Kubernetes-Docker-all-things-Cloud-Native/events/249593802/)
+
+## Heaven is Not a Cloud
+
+Date: April 19, 2018  
+Event: [AWS Michigan](https://www.meetup.com/AWS-Michigan/events/248874167/)
+
+
+## DevOps is Not War
+
+Date: April 18, 2018 . 
+Event: [DevOpsDays Atlanta 2018](https://www.devopsdays.org/events/2018-atlanta/program/chris-short/)  
+Blog Post: [DevOpsDays Atlanta 2018: DevOps is Not War](https://chrisshort.net/devopsdays-atlanta-2018-devops-is-not-war/)  
+Video: [DevopsdaysATL2018 - Day 2](https://www.youtube.com/watch?v=_VzVOSiXnNM&t=22m22s)
+
 ## Golang to the Rescue: Saving DevOps from TLS Turmoil
 
 Date: January 19, 2018  
