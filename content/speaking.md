@@ -26,7 +26,7 @@ Event: [AWS Michigan](https://www.meetup.com/AWS-Michigan/events/248874167/)
 
 ## DevOps is Not War
 
-Date: April 18, 2018 . 
+Date: April 18, 2018  
 Event: [DevOpsDays Atlanta 2018](https://www.devopsdays.org/events/2018-atlanta/program/chris-short/)  
 Blog Post: [DevOpsDays Atlanta 2018: DevOps is Not War](https://chrisshort.net/devopsdays-atlanta-2018-devops-is-not-war/)  
 Video: [DevopsdaysATL2018 - Day 2](https://www.youtube.com/watch?v=_VzVOSiXnNM&t=22m22s)
