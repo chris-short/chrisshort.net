@@ -7,6 +7,9 @@ slug = "publications"
 title = "Publications"
 +++
 
+* [DevSecOps and Containers: The Numbers Don't Lie](https://blog.sonatype.com/numbersdontlie): Container Security is quickly becoming a segment ripe for standardization and simplification. Given the recent explosive growth of Kubernetes and the creation of new container runtimes in the past year, this should not come as a surprise.
+* [How to create a cron job with Kubernetes on a Raspberry Pi](https://opensource.com/article/18/3/kubernetes-cron-job-tasks): Find a better way to run your scheduled tasks efficiently and reliably.
+* [9 tech influencers you should know](https://opensource.com/article/18/3/list-tech-influencers): These inspiring technology leaders are creating positive change and making a difference in the industry every day.
 * [Docker (Inc.) Is Dead](https://dzone.com/articles/docker-is-dead): 2017 was a great year for containers, but the future is grim for the company that made them popular. See what happened to Docker last year and what's in store for 2018.
 * [Tips and resources for learning Kubernetes](https://opensource.com/article/17/12/resources-learning-kubernetes): Regardless of how you decide to begin, it's time to start learning Kubernetes.
 * [Kubernetes: Getting Started](https://dzone.com/articles/kubernetes-getting-started): Getting started with Kubernetes might seem a bit daunting at first. Fortunately, this collection of guides, tips, and advice will help out.
