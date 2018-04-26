@@ -17,6 +17,12 @@ title = "GitHub"
 icon = "fa-github"
 
 [[social_icons]]
+id = "gitlab"
+url = "https://gitlab.com/%s"
+title = "GitLab"
+icon = "fa-gitlab"
+
+[[social_icons]]
 id = "twitter"
 url = "https://twitter.com/%s"
 title = "Twitter"
@@ -45,12 +51,6 @@ id = "tumblr"
 url = "https://%s.tumblr.com"
 title = "tumblr"
 icon = "fa-tumblr"
-
-[[social_icons]]
-id = "gitlab"
-url = "https://gitlab.com/%s"
-title = "GitLab"
-icon = "fa-gitlab"
 
 [[social_icons]]
 id = "reddit"
