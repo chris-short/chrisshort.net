@@ -17,7 +17,7 @@ aliases = [
 
 Date: April 20, 2018  
 Event: [Detroit Kubernetes, Docker & all related things](https://www.meetup.com/Detroit-Kubernetes-Docker-all-things-Cloud-Native/events/249593802/)  
-Blog Post: [Detroit Kubernetes: Kubernetes Cron Job](/detroit-kubernetes--kubernetes-cron-job/)
+Blog Post: [Detroit Kubernetes: Kubernetes Cron Job](/detroit-kubernetes--kubernetes-cron-jobs/)
 
 ## Heaven is Not a Cloud
 
