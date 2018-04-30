@@ -6,7 +6,7 @@ description = ""
 draft = false
 slug = "leaving-north-carolina"
 title = "Leaving North Carolina"
-tags = ["job", "work", "life", "balance", "north carolina"]
+tags = ["job", "work", "life", "balance", "north carolina", "Michigan"]
 
 +++
 

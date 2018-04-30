@@ -5,7 +5,7 @@ date = 2018-01-01T22:00:00Z
 description = "A former co-worker and now friend used to have a tagline, \"Everyday is a school day.\" I remind myself of this fact nearly every time I learn something new."
 draft = false
 slug = "what-i-learned-in-2017"
-tags = ["philosophy", "life", "kubernetes", "devops", "job"]
+tags = ["philosophy", "life", "kubernetes", "devops", "job", "Michigan"]
 title = "What I Learned in 2017"
 image = "https://cdn.chrisshort.net/2017.jpg"
 

@@ -1,6 +1,6 @@
 +++
 author = "Chris Short"
-date = 2018-01-22T20:55:00Z
+date = 2018-04-30T18:00:00Z
 description = "Talks Chris Short has given"
 draft = false
 slug = "speaking"
@@ -11,17 +11,19 @@ aliases = [
 ]
 +++
 
-If you'd like to talk about me speaking at your conference, Meetup, office, party, etc. please send me a DM on Twitter ([@ChrisShort](https://twitter.com/ChrisShort)) or [e-mail](mailto:chris@chrisshort.net). Thanks!
+> If you'd like to talk about me speaking at your conference, Meetup, office, party, etc. please send me a DM on Twitter ([@ChrisShort](https://twitter.com/ChrisShort)) or [e-mail](mailto:chris@chrisshort.net). Thanks!
 
 ## Kubernetes Cron Jobs: Highly-Available, Distributed Cron Jobs are Awesome!
 
 Date: April 20, 2018  
-Event: [Detroit Kubernetes, Docker & all related things](https://www.meetup.com/Detroit-Kubernetes-Docker-all-things-Cloud-Native/events/249593802/)
+Event: [Detroit Kubernetes, Docker & all related things](https://www.meetup.com/Detroit-Kubernetes-Docker-all-things-Cloud-Native/events/249593802/)  
+Blog Post: [Detroit Kubernetes: Kubernetes Cron Job](/detroit-kubernetes--kubernetes-cron-job/)
 
 ## Heaven is Not a Cloud
 
 Date: April 19, 2018  
-Event: [AWS Michigan](https://www.meetup.com/AWS-Michigan/events/248874167/)
+Event: [AWS Michigan](https://www.meetup.com/AWS-Michigan/events/248874167/)  
+Blog Post: [AWS Michigan: Heaven is Not a Cloud](/aws-michigan-heaven-is-not-a-cloud/)
 
 
 ## DevOps is Not War

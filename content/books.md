@@ -8,6 +8,8 @@ tags = ["books"]
 title = "Books"
 +++
 
+> If you'd like to talk to me about writing for your upcoming project please send me a DM on Twitter ([@ChrisShort](https://twitter.com/ChrisShort)) or [e-mail](mailto:chris@chrisshort.net). Thanks!
+
 ## DevOps Hiring Guide
 
 [![DevOps Hiring Guide](https://cdn.chrisshort.net/devops_hiring_guide_v1_cover.png)](https://opensource.com/downloads/devops-hiring-guide)
