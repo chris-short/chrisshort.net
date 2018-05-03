@@ -5,6 +5,9 @@ description = "About"
 draft = false
 slug = "about"
 title = "About"
+aliases = [
+    "bio"
+]
 
 +++
 
