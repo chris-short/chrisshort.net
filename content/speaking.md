@@ -24,6 +24,7 @@ Blog Post: [Detroit Kubernetes: Kubernetes Cron Job](/detroit-kubernetes--kubern
 Date: April 19, 2018  
 Event: [AWS Michigan](https://www.meetup.com/AWS-Michigan/events/248874167/)  
 Blog Post: [AWS Michigan: Heaven is Not a Cloud](/aws-michigan-heaven-is-not-a-cloud/)
+Video: [AWS Michigan Meetup April 2018 - Heaven is Not a Cloud by Chris Short](https://youtu.be/_qx9d5JSRvw)
 
 
 ## DevOps is Not War
