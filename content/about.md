@@ -27,6 +27,10 @@ When the [Dot-com bubble](https://en.wikipedia.org/wiki/Dot-com_bubble) began to
 
 Chris is now working in the [open source](/tags/open-source/), [Linux](/tags/linux/) systems, [Cloud Native](/tags/cloud-native/), and [DevOps](/tags/devops/) spaces. He writes for several publications and maintains the [DevOps'ish](https://devopsish.com) newsletter. He calls the Greater Metro Detroit area his home. His up to date [Résumé](/resume-cv/) or [Curriculum Vitae](/resume-cv/) is available.
 
+## Headshot
+
+[https://cdn.chrisshort.net/Late-2017-Headshot.jpg](https://cdn.chrisshort.net/Late-2017-Headshot.jpg)
+
 ## Appearances Elsewhere
 
 * [DevOps'ish](https://devopsish.com)

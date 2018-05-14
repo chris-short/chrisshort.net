@@ -1,0 +1,28 @@
+stages:
+  - test
+  - deploy
+
+variables:
+  GIT_SUBMODULE_STRATEGY: recursive
+
+image: registry.gitlab.com/pages/hugo:latest
+
+compile:
+  stage: test
+  before_script:
+    - rm -rf public || exit 0
+  script:
+    - hugo
+
+pages:
+  stage: deploy
+  before_script:
+    - rm -rf public || exit 0
+  script:
+  - hugo
+  artifacts:
+    paths:
+    - public
+  only:
+  - master
+
