@@ -26,7 +26,7 @@ pages:
   artifacts:
     paths:
     - public
-  expire_in: 1h
+    expire_in: 1h
   except:
     - master
 
