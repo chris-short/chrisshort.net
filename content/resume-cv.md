@@ -18,21 +18,17 @@ aliases = [
 
 ## Professional Summary
 
-Seasoned, passionate, results-producing DevOps professional; a wide range of experiences and skills managing numerous aspects of Linux systems, network administration, IT Operations, and Development Operations (DevOps). Coordinated multiple projects with competing priorities involving WAN/LAN and systems design, implementation, configuration, hardening, administration, and maintenance. Expertise in troubleshooting hardware, software, and network issues in high-pressure situations. A prolific blogger, opensource.com and DZone contributor, Triangle DevOps and Detroit Golang Meetup organizer and speaker, Speaker at DevOpsDays Detroit 2016-2017, GopherCon 2017, DevOps Days Raleigh 2017, and All Things Open 2017.
+Seasoned, passionate, results-producing DevOps professional; a wide range of experiences and skills managing numerous aspects of Linux systems, network administration, IT Operations, and Development Operations (DevOps). Expertise in troubleshooting hardware, software, cloud, and network issues in high-pressure situations. Cloud Native Computing Foundation Ambassador and opensource.com Community Moderator. Organizer of Detroit Golang and Detroit Kubernetes Meetups, speaker at numerous DevOpsDays events across North America, GopherCon, and All Things Open.
 
 ## Skills
 
 ### Software
 
-APT, Ansible, Apache httpd, Atlassian Bamboo, Atlassian BitBucket, Atlassian Confluence, Atlassian HipChat, Atlassian JIRA, BIND, Bash, Burp Suite, CSS, CentOS (4-7), Cobbler, Datadog, Debian, Docker, EM7, Evernote, Fedora, FlowDock, G Suite by Google Cloud, Git, Git Tower, GitHub, GitLab, Go, Google Apps, HTML, IIS, IPTraf, Jenkins, LVM, MRTG, Mac OS X, MediaWiki, Mercurial, Microsoft Office, Microsoft Project 2007, Microsoft Visio (2003, 2007), MySQL, NMAP, Nagios, New Relic, Office 365, OpsGenie, PHP, PagerDuty, Parature, Percona Server, Percona Toolkit, Perl, Puppet, Python, RPM, Red Hat Enterprise Linux (3-7), Remedy, Serverspec, Slack, SourceTree, Subversion, Terraform, Test Kitchen, Trello, Ubuntu, VIM, Vagrant, VirtualBox, Visual Studio Code, Windows, Windows Server, WireShark, Xymon, YUM, cron, curl, iptables, macOS, nginx, sed
+Alpine Linux, APT, Ansible, Apache httpd, Atlassian Bamboo, Atlassian BitBucket, Atlassian Confluence, Atlassian HipChat, Atlassian JIRA, BIND, Bash, Burp Suite, CSS, Caddy, CentOS (4-7), Cobbler, Datadog, Debian, Docker, EM7, Evernote, Fedora, FlowDock, G Suite by Google Cloud, Git, Git Tower, GitHub, GitLab, Go, Google Apps, HTML, Hugo, IIS, IPTraf, Jenkins, LVM, MRTG, MediaWiki, Mercurial, MySQL, NMAP, New Relic, Office 365, OpsGenie, PagerDuty, Percona Server, Percona Toolkit, Puppet, RPM, Red Hat Enterprise Linux (3-7), Remedy, Serverspec, Slack, SourceTree, Subversion, Terraform, Test Kitchen, Trello, Ubuntu, VIM, Vagrant, VirtualBox, Visual Studio Code, WireShark, Xymon, YUM, cron, curl, iptables, macOS, nginx, sed
 
 ### Infrastructure
 
-AWS (CloudTrail, CloudWatch, EC2, Lambda, Route53, S3, SES, SQS, VPC), Akamai, Cisco IOS, CloudFlare, Fastly, Google Cloud Platform (Compute Engine, Container Engine, Storage), Kubernetes, Rackspace Cloud, TippingPoint SMS, VMWare vSphere Client
-
-### Hardware
-
-Avaya/Nortel ERS 5510, BNT Blade Switch, Brocade SX 1600, Cisco 5500 ASAs, Dell, Fiber Optic Modems, Fireberd 6000A, Fluke EtherScopes, Fujitsu Servers, HP, IBM, Multimeters, NSA Approved Encryption Devices, Network/Protocol Analyzers, Oscilloscopes, PairGains, TippingPoint IDS/IPS
+AWS (CloudTrail, CloudWatch, EC2, Lambda, Route53, S3, SES, SQS, VPC), Akamai, Cisco IOS, CloudFlare, Fastly, Google Cloud Platform (Compute Engine, Container Engine, Storage), Kubernetes, Netlify, Red Hat OpenShift, Rackspace Cloud, TippingPoint SMS, VMWare vSphere Client
 
 ### Protocols
 
@@ -41,6 +37,11 @@ DHCP, DNS, Ethernet, FTP, HTTP, HTTPS, IP, NTP, POP, RSYNC, SCP, SFTP, SMTP, SNM
 ## Professional Experience
 
 Senior DevOps Advocate, SJ Technologies - Detroit, MI, Jan 2018 - Present
+
+* Assisted client build infrastructure testing tool based on Ansible to identify quality concerns between functional areas delivery virtual machines; suggested remedies to reduce handoffs and increase automation
+* Implemented Ansible automation to deploy Confluent Kafka and OpenShift to display and run various Kafka user interfaces
+* Represented SJ Technologies as a public speaker at events across North America; spread our DevOps practice message in talks based on research, experiences, and observations
+* Worked with business development, sales, and marketing teams to build new customer relationships, marketing materials to attract customers, and leveraged social media to build branding
 
 June 2017-Nov 2017 - Manager of DevOps - Bankrate.com - Detroit, MI
 
