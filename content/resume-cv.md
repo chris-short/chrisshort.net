@@ -38,8 +38,8 @@ DHCP, DNS, Ethernet, FTP, HTTP, HTTPS, IP, NTP, POP, RSYNC, SCP, SFTP, SMTP, SNM
 
 Senior DevOps Advocate, SJ Technologies - Detroit, MI, Jan 2018 - Present
 
-* Assisted client build infrastructure testing tool based on Ansible to identify quality concerns between functional areas delivery virtual machines; suggested remedies to reduce handoffs and increase automation
-* Implemented Ansible automation to deploy Confluent Kafka and OpenShift to display and run various Kafka user interfaces
+* Built Ansible-based infrastructure testing tool to identify quality concerns between functional areas delivery virtual machines; suggested remedies to reduce handoffs and increase automation
+* Set up Ansible automation to deploy Confluent Kafka; made OpenShift deployment for Kafka UI
 * Represented SJ Technologies as a public speaker at events across North America; spread our DevOps practice message in talks based on research, experiences, and observations
 * Worked with business development, sales, and marketing teams to build new customer relationships, marketing materials to attract customers, and leveraged social media to build branding
 
