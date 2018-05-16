@@ -7,6 +7,7 @@ slug = "publications"
 title = "Publications"
 +++
 
+* [DevOps hiring strategies to attract top talent](https://opensource.com/article/18/5/devops-hiring-strategies-attract-top-talent): Top DevOps recruiter Ken Middleton offers insight on how to attract and hire the best candidates.
 * [DevSecOps and Containers: The Numbers Don't Lie](https://blog.sonatype.com/numbersdontlie): Container Security is quickly becoming a segment ripe for standardization and simplification. Given the recent explosive growth of Kubernetes and the creation of new container runtimes in the past year, this should not come as a surprise.
 * [How to create a cron job with Kubernetes on a Raspberry Pi](https://opensource.com/article/18/3/kubernetes-cron-job-tasks): Find a better way to run your scheduled tasks efficiently and reliably.
 * [9 tech influencers you should know](https://opensource.com/article/18/3/list-tech-influencers): These inspiring technology leaders are creating positive change and making a difference in the industry every day.
