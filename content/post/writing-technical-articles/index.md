@@ -7,7 +7,7 @@ draft = false
 slug = "writing-technical-articles"
 tags = ["writing", "article", "outline", "proofreading"]
 title = "Writing Technical Articles"
-image = "typewriter.jpg"
+image = "/writing-technical-articles/typewriter.jpg"
 imagecap = ""
 
 +++
@@ -52,7 +52,7 @@ Having an outline is important when writing any work. It doesn't have to be fanc
 
 In general, *try* to make three main topic points with no more than three subpoints under them. There is some science behind the [rule of three](https://en.wikipedia.org/wiki/Rule_of_three_(writing)) in writing. Credit to [Dawn Parzych](https://youtu.be/Mg9kexS6B30) for pointing this out at DevOpsDays NYC 2018. When doing a deep dive document or article feel free to break this model as needed. But, in general, try to stick to a shorter format for easier consumption.
 
-> Pick three point and an introduction and conclusion and you have the beginnings of a great article.
+> Pick three points and an introduction and conclusion and you have the beginnings of a great article.
 
 Proofreading is hard. But, the good news is there are some tools available to help with proofreading. Obviously, re-reading the article is the preferred way to proofread. One suggestion is to take a break between writing the article and proofreading it. Have a meal, talk a walk, meditate, etc. This allows the mind to reset so the writer can more easily see typos or spelling mistakes. There are also two recommended tools for proofreading:
 
