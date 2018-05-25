@@ -1,7 +1,7 @@
 +++
 author = "Chris Short"
 categories = ["Community"]
-date = 2018-05-24T11:00:00Z
+date = 2018-05-25T22:43:00Z
 description = ""
 draft = false
 slug = "writing-technical-articles"
