@@ -7,7 +7,9 @@ draft = false
 slug = "another-center-for-purposeful-living-recruit-saved"
 tags = ["center for purposeful living", "human service alliance", "hsa"]
 title = "Another Center for Purposeful Living Recruit Saved"
-
+aliases = [
+    "/another-center-for-purposeful-living-recruit-saved/"
+]
 +++
 
 Yesterday, I had an incredibly healthy exchange with a divorced mother who had toured the Center for Purposeful Living and decided it might be worth her time. She even enlisted to join the Center for Purposeful Living after her tour.

@@ -9,7 +9,8 @@ tags = ["center for purposeful living", "human service alliance", "hsa"]
 title = "The Center for Purposeful Living is a Cult: Don't Take My Word For It"
 aliases = [
     "the-center-for-purposeful-living-is-a-cult-dont-take-my-word-for-it-2",
-    "/post/65748540/the-center-for-purposeful-living-is-a-cult-dont-take"
+    "/post/65748540/the-center-for-purposeful-living-is-a-cult-dont-take",
+    "/the-center-for-purposeful-living-is-a-cult-dont-take-my-word-for-it/"
 ]
 +++
 
@@ -44,7 +45,7 @@ Allow me to point out that the Center for Purposeful Living no longer cares for 
 
     My dad did some pro bono computer support work for HSA. I seem to recall that he inadvertently came across documents that gave him greater insight into Derwyn Lackey's methods - lots of items about how to pull someone in and who could/could not be trusted. He also became aware that HSA leaders appeared to be screening e-mails.
 
-The screening of Internet activities by those within the organization is something that was conveyed to me during my research for [my previous article about the Center for Purposeful Living](/the-cult-that-is-human-service-alliance-and-the-center-for-purposeful-living-2). This lends more credibility to those that informed me of this activity.
+The screening of Internet activities by those within the organization is something that was conveyed to me during my research for [my previous article about the Center for Purposeful Living](/center-for-purposeful-living/the-cult-that-is-human-service-alliance-and-the-center-for-purposeful-living/). This lends more credibility to those that informed me of this activity.
 
     
 
@@ -58,5 +59,5 @@ The ability for these people to judge and condemn others is not "spiritual" or "
 
 I'd like to thank Quincy and his father for sharing this story. I would also like to reiterate the fact that I'm willing to anonymously tell other's stories if they so wish for me to publish them.
 
-![Derwyn Lackey (Derwin Lackey)](https://cdn.chrisshort.net/recent-derwin-lackey-derwyn.jpg)
+![Derwyn Lackey (Derwin Lackey)](/center-for-purposeful-living/recent-derwin-lackey-derwyn.jpg)
 Derwyn Lackey, Supreme Ruler of the Center for Purposeful Living

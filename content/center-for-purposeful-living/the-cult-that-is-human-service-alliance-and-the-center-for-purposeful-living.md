@@ -9,7 +9,8 @@ tags = ["center for purposeful living", "human service alliance", "hsa"]
 title = "The Cult that is Human Service Alliance and the Center for Purposeful Living"
 aliases = [
     "the-cult-that-is-human-service-alliance-and-the-center-for-purposeful-living-2", 
-    "/post/65745344/the-cult-that-is-human-service-alliance-and-the-center"
+    "/post/65745344/the-cult-that-is-human-service-alliance-and-the-center",
+    "/the-cult-that-is-human-service-alliance-and-the-center-for-purposeful-living-2"
 ]    
 +++
 
@@ -121,7 +122,7 @@ Then how are you building and upgrading facilities? If that statement is true ho
    (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
 
-I'm sure after all of this information I've presented to you might generate questions and/or comments. Please feel free to post those questions and comments. I will answer all the questions I can. If you wish to contact me privately please do so via my [Google Profile](https://plus.google.com/+ChrisShort/).
+I'm sure after all of this information I've presented to you might generate questions and/or comments. Please feel free to post those questions and comments. I will answer all the questions I can. If you wish to contact me privately please do so via one of the methods at the bottom of this page.
 
 UPDATE 10 JULY 2005: I have a few more tidbits of information for those that still might be skeptical about some of these things I've mentioned here:
 
@@ -133,10 +134,5 @@ Discoveries of the Inquiring Mind can be found on [Amazon](http://www.amazon.com
 
 2) Also, a lot of people have been making comments about Derwyn Lackey; allow me to put a face with the name:
 
-![Derwyn Lackey (Derwin Lackey)](https://cdn.chrisshort.net/derwin-lackey-derwyn-lackey.jpg)
+![Derwyn Lackey (Derwin Lackey)](/center-for-purposeful-living/derwin-lackey-derwyn-lackey.jpg)
 Derwyn Lackey, Supreme Ruler of the Center for Purposeful Living
-
-More Information about the cult that is the Center for Purposeful Living can be found here:
-
-* The Center for Purposeful Living is a Cult: Don't Take My Word For It
-* The Teachings of Derwyn Lackey

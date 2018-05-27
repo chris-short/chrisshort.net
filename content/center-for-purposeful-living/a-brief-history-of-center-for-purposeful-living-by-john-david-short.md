@@ -9,7 +9,8 @@ tags = ["center for purposeful living", "human service alliance", "hsa"]
 title = "A Brief History of Center for Purposeful Living by John David Short"
 aliases = [
     "a-brief-history-of-center-for-purposeful-living-by-john-david-short-2",
-    "/post/65749306/a-brief-history-of-center-for-purposeful-living-by-john"
+    "/post/65749306/a-brief-history-of-center-for-purposeful-living-by-john",
+    "/a-brief-history-of-center-for-purposeful-living-by-john-david-short/"
 ]
 +++
 
@@ -26,7 +27,7 @@ Last week my brother, John David Short, and I had a conversation about all the s
    (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
 
-As a born-again Christian, former volunteer and the son of a CPL Board member I can say unequivocally that Human Service Alliance/University for Human Goodness/Center for Purposeful Living is a cult with a service component. Much of my experience is alluded to in my brother's post, [The Cult that is Human Service Alliance and the Center for Purposeful Living](/the-cult-that-is-human-service-alliance-and-the-center-for-purposeful-living-2), and the details are a private-family matter which I don't think anyone would be interested in. However some background may be useful to readers researching CPL online.
+As a born-again Christian, former volunteer and the son of a CPL Board member I can say unequivocally that Human Service Alliance/University for Human Goodness/Center for Purposeful Living is a cult with a service component. Much of my experience is alluded to in my brother's post, [The Cult that is Human Service Alliance and the Center for Purposeful Living](/center-for-purposeful-living/the-cult-that-is-human-service-alliance-and-the-center-for-purposeful-living/), and the details are a private-family matter which I don't think anyone would be interested in. However some background may be useful to readers researching CPL online.
 
 What is now the Center for Purposeful Living (CPL) began in 1986 as the Human Service Alliance (HSA) in Boomer, NC. HSA was created by a Registered Nurse, Elizabeth Callari as a care for the terminally ill facility based on the principles of Dr. Elizabeth Kubler-Ross' *[On Death and Dying](http://www.amazon.com/gp/product/0684839385)*. To the best of my knowledge there was little or no religious underpinning to the work at HSA at that time.
 

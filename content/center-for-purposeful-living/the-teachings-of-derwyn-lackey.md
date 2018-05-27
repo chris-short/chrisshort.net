@@ -7,10 +7,12 @@ draft = false
 slug = "the-teachings-of-derwyn-lackey"
 tags = ["center for purposeful living", "human service alliance", "hsa"]
 title = "The Teachings of Derwyn Lackey"
-
+aliases = [
+    "/the-teachings-of-derwyn-lackey"
+]
 +++
 
-I've told you about the cult known as the Center for Purposeful Living, another person has shared their experiences with the [Center for Purposeful Living](/the-cult-that-is-human-service-alliance-and-the-center-for-purposeful-living-2), and now another individual has come out denouncing the [Center for Purposeful Living](/the-cult-that-is-human-service-alliance-and-the-center-for-purposeful-living-2) which is also known as Human Service Alliance.
+I've told you about the cult known as the Center for Purposeful Living, another person has shared their experiences with the [Center for Purposeful Living](/center-for-purposeful-living/the-cult-that-is-human-service-alliance-and-the-center-for-purposeful-living/), and now another individual has come out denouncing the [Center for Purposeful Living](/center-for-purposeful-living/the-cult-that-is-human-service-alliance-and-the-center-for-purposeful-living/) which is also known as Human Service Alliance.
 
 <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 <!-- chrisshort.net Responsive -->
@@ -148,8 +150,8 @@ As for the money, with hundreds of dollars pouring into the restaurant every nig
 
 They teach students that explanations are to be avoided because in so doing, the lesson isn't learned, yet I attended teaching session after teaching session where their leaders EXPLAINED and wrote about why they were not a cult. Looking around at the audience, I did not see thinking people "humming" as they say, but instead glassy eyes ready to worship whatever The Mentor said. That's why I decided to finally read up on cults, and discovered that many of these cult books could have been written about Center for Purposeful Living as the model. That's scary. A cult profile, a leader who is worshipped (with other leaders to worship in training), never wrong or never questioned and obvious mind control techniques going on… this group is NOT what they say they are, and I had to eat humble pie with friends and family and acknowledge they were right. I am so grateful to be out and thinking clearly again and am glad to report that service and "soulfulness" did not begin nor end with CPL.
 
-![Derwyn Lackey (Derwin Lackey)](https://cdn.chrisshort.net/recent-derwin-lackey-derwyn.jpg)
+![Derwyn Lackey (Derwin Lackey)](/center-for-purposeful-living/recent-derwin-lackey-derwyn.jpg)
 
-![Derwyn Lackey (Derwin Lackey)](https://cdn.chrisshort.net/derwin-lackey-derwyn-lackey.jpg)
+![Derwyn Lackey (Derwin Lackey)](/center-for-purposeful-living/derwin-lackey-derwyn-lackey.jpg)
 
 Derwyn Lackey, Supreme Ruler of the Center for Purposeful Living
