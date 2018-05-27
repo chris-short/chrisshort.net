@@ -2,7 +2,7 @@
 author = "Chris Short"
 categories = ["Community"]
 date = 2018-05-25T22:43:00Z
-description = ""
+description = "Pick three points, add an introduction and conclusion and you have the beginnings of a great article."
 draft = false
 slug = "writing-technical-articles"
 tags = ["writing", "article", "outline", "proofreading"]
