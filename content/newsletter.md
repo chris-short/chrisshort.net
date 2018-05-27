@@ -38,6 +38,12 @@ title = "Newsletter"
 </div>
 <!--End mc_embed_signup-->
 
-#### Grateful to have readers from across the globe and companies such as:
+Grateful to have readers from across the globe and companies such as:
 
-![DevOps'ish Subscriber Logos](https://cdn.chrisshort.net/static/img/subscriber-logos.png)
+* Amazon
+* Apple
+* Chef
+* Google
+* Intel
+* Microsoft
+* Red Hat
