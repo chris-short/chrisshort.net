@@ -11,7 +11,8 @@ title = "Windows XP and Big Hard Drives"
 aliases = [
     "windows-and-big-hard-drives",
     "/archives/2005/01/windows-and-big-hard-drives.php",
-    "windows-and-big-hard-drives.php"
+    "windows-and-big-hard-drives.php",
+    "/windows-xp-and-"
     ]
 
 +++
