@@ -4,11 +4,14 @@ categories = ["PHP"]
 date = 2015-10-09T17:00:52Z
 description = ""
 draft = false
-image = "https://cdn.chrisshort.net/php-logo-large-white.png"
+image = "/drawings/php-logo-large-white.png"
 slug = "php-memory-relationships"
 tags = ["php", "memory", "drawing"]
 title = "PHP Memory Directives Relationship"
-aliases = ["php-memory-relationships"]
+aliases = [
+    "/php-memory-relationships/",
+    "/php-memory-directives-relationship/"
+]
 
 +++
 
@@ -46,4 +49,4 @@ memory\_limit > post\_max\_size > upload\_max\_filesize
 
 Or...
 
-![PHP Memory Relationships](https://cdn.chrisshort.net/drawings/php-memory-relationships.png)
+![PHP Memory Relationships](/drawings/php-memory-relationships.png)

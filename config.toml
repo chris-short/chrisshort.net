@@ -154,7 +154,7 @@ pattern = "2006"
 [[menu.main]]
     parent = "menu"
     name = "Drawings"
-    url = "/tags/drawing/"
+    url = "/drawings/"
     weight = 80
 
 [[menu.main]]

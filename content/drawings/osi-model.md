@@ -6,8 +6,11 @@ description = ""
 draft = false
 slug = "osi-model"
 tags = ["drawing", "OSI Model"]
-title = "Drawing: OSI Model"
-aliases = ["osi-model"]
+title = "OSI Model"
+aliases = [
+    "/osi-model/",
+    "/drawing-osi-model/"
+]
 
 +++
 
@@ -15,7 +18,7 @@ The Open Systems Interconnection model (OSI model) defines a concept where every
 
 It is an incredibly handy tool for troubleshooting as it reminds you to check the system at each layer. The official documentation on the OSI Model can be [found on the ISO site](http://www.iso.org/iso/catalogue_detail.htm?csnumber=20269) (yes, that's confusing). Here is my first take on a drawing for the OSI Model:
 
-![The OSI Model by Chris Short](https://cdn.chrisshort.net/drawings/OSI-Model.png)
+![The OSI Model by Chris Short](/drawings/OSI-Model.png)
 
 <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>  
 <!-- chrisshort.net Responsive -->  
