@@ -10,7 +10,7 @@ title = "3C2X1: Communications - Computer Systems Controller"
 
 +++
 
-![Communications and Information Badge 3C251](https://cdn.chrisshort.net/commbadge5.jpg) ![Communications and Information Badge 3C271](https://cdn.chrisshort.net/commbadge7.jpg) ![Communications and Information Badge 3C291](https://cdn.chrisshort.net/commbadge9.jpg)
+![Communications and Information Badge 3C251](/img/2005/commbadge5.jpg) ![Communications and Information Badge 3C271](/img/2005/commbadge7.jpg) ![Communications and Information Badge 3C291](/img/2005/commbadge9.jpg)
 
 ## 3C2X1 Specialty Summary:
 
