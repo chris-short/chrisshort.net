@@ -13,6 +13,12 @@ aliases = [
 
 > If you'd like to talk about me speaking at your conference, Meetup, office, party, etc. please send me a DM on Twitter ([@ChrisShort](https://twitter.com/ChrisShort)) or [e-mail](mailto:chris@chrisshort.net). Thanks!
 
+## DevOps is Not War
+
+Date: May 24, 2018
+Event: [ChefConf](https://chefconf.chef.io/)
+Blog Post: [ChefConf 2018: DevOps is Not War](/chefconf-2018-devops-is-not-war/)
+
 ## Kubernetes Cron Jobs: Highly-Available, Distributed Cron Jobs are Awesome!
 
 Date: April 20, 2018  
@@ -31,7 +37,7 @@ Video: [AWS Michigan Meetup April 2018 - Heaven is Not a Cloud by Chris Short](h
 
 Date: April 18, 2018  
 Event: [DevOpsDays Atlanta 2018](https://www.devopsdays.org/events/2018-atlanta/program/chris-short/)  
-Blog Post: [DevOpsDays Atlanta 2018: DevOps is Not War](https://chrisshort.net/devopsdays-atlanta-2018-devops-is-not-war/)  
+Blog Post: [DevOpsDays Atlanta 2018: DevOps is Not War](/devopsdays-atlanta-2018-devops-is-not-war/)  
 Video: [DevopsdaysATL2018 - Day 2](https://www.youtube.com/watch?v=_VzVOSiXnNM&t=22m22s)
 
 ## Golang to the Rescue: Saving DevOps from TLS Turmoil
