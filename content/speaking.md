@@ -15,8 +15,8 @@ aliases = [
 
 ## DevOps is Not War
 
-Date: May 24, 2018
-Event: [ChefConf](https://chefconf.chef.io/)
+Date: May 24, 2018  
+Event: [ChefConf](https://chefconf.chef.io/)  
 Blog Post: [ChefConf 2018: DevOps is Not War](/chefconf-2018-devops-is-not-war/)
 
 ## Kubernetes Cron Jobs: Highly-Available, Distributed Cron Jobs are Awesome!
