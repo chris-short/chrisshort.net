@@ -28,7 +28,8 @@ This talk breaks down how the military practiced most of the things we value in 
 
 **Fail Fast Because Ultimate Failure Is Not an Option**: Do the unimaginable in a remote location under austere circumstances. Ideas had to be tested immediately and often needed to be abandoned quickly based on mission needs and wartime circumstances.
 
-**Diversity Was Everywhere**: Black, Brown, Yellow, White, Green (sea/air/motion sick) did not matter to us. We were there to get the job done, period. Your gender did not matter, your socioeconomic status did not matter, and your ethnicity did not matter. If you didn't know something, you were taught. If you were color blind it didn't matter I could teach you to terminate Cat5e/Cat6 with the best of them. If you were willing to learn, I was willing to teach.
+**Diversity Was Everywhere**: We were there to get the job done, period. Your gender did not matter, your socioeconomic status did not matter, and your ethnicity did not matter. If you didn't know something, you were taught. If you were color blind it didn't matter I could teach you to terminate Cat5e/Cat6 with the best of them. If you were willing to learn, I was willing to teach. Diversity in ideas is a wonderful thing. Different perspectives are amazing.
+
 
 **Conflict Resolution**: The best idea rose to the top of teams. Rank seldom mattered so long as your idea was better. Input was constantly sought after from all parties.
 

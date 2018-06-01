@@ -13,6 +13,12 @@ aliases = [
 
 > If you'd like to talk about me speaking at your conference, Meetup, office, party, etc. please send me a DM on Twitter ([@ChrisShort](https://twitter.com/ChrisShort)) or [e-mail](mailto:chris@chrisshort.net). Thanks!
 
+## DevOpsDays Toronto 2018: What the Military Taught Me About DevOps
+
+Date: May 30, 2018  
+Event: [DevOpsDays Toronto 2018](https://www.devopsdays.org/events/2018-toronto/program/chris-short/)  
+Blog Post: [DevOpsDays Toronto 2018: What the Military Taught Me About DevOps](/devopsdays-toronto-2018-what-the-military-taught-me-about-devops/)
+
 ## DevOps is Not War
 
 Date: May 24, 2018  

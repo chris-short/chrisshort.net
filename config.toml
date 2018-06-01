@@ -116,28 +116,33 @@ pattern = "2006"
     weight = 20
 
 [[menu.main]]
+    identifier = "speaking"
+    name = "Speaking"
+    weight = 888
+
+[[menu.main]]
+    parent = "speaking"
+    name = "Talks Given"
+    url = "/speaking/"
+    weight = 889
+
+[[menu.main]]
+    parent = "speaking"
+    name = "Interviews"
+    url = "/interviews/"
+    weight = 890
+
+[[menu.main]]
+    parent = "speaking"
+    name = "CFPs"
+    url = "/cfp/"
+    weight = 891
+
+[[menu.main]]
     parent = "menu"
     name = "Résumé/CV"
     url = "/resume-cv/"
     weight = 30
-
-[[menu.main]]
-    parent = "menu"
-    name = "Speaking"
-    url = "/speaking/"
-    weight = 40
-
-[[menu.main]]
-    parent = "menu"
-    name = "CFPs"
-    url = "/cfp/"
-    weight = 39
-
-[[menu.main]]
-    parent = "menu"
-    name = "Interviews"
-    url = "/interviews/"
-    weight = 50
 
 [[menu.main]]
     parent = "menu"
