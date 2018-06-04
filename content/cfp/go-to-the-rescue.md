@@ -4,7 +4,7 @@ categories = ["CFP"]
 date = 2018-02-23T06:15:00Z
 description = ""
 draft = false
-slug = "go-enabling-devops"
+slug = "go-to-the-rescue-saving-devops-from-tls-turmoil"
 tags = ["open source", "devops", "go", "golang", "security", "cfp"]
 title = "Go to the rescue: Saving DevOps from TLS turmoil"
 
