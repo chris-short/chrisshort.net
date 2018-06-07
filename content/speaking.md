@@ -13,6 +13,12 @@ aliases = [
 
 > If you'd like to talk about me speaking at your conference, Meetup, office, party, etc. please send me a DM on Twitter ([@ChrisShort](https://twitter.com/ChrisShort)) or [e-mail](mailto:chris@chrisshort.net). Thanks!
 
+## DevNationFederal 2018: DevOps is Not War
+
+Date: June 5, 2018  
+Event: [DevNationFederal](https://devnationfederal.org/)  
+Blog Post: [DevNationFederal 2018: DevOps is Not War](/devnationfederal-2018-devops-is-not-war/)
+
 ## DevOpsDays Toronto 2018: What the Military Taught Me About DevOps
 
 Date: May 30, 2018  

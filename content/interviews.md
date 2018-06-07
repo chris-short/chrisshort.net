@@ -1,14 +1,19 @@
 +++
 author = "Chris Short"
-date = 2018-04-05T10:01:00Z
+date = 2018-06-07T22:41:00Z
 description = "Interviews Chris Short has given"
 draft = false
 slug = "interviews"
-tags = ["interviews"]
+tags = ["interviews", "podcast"]
 title = "Interviews"
 +++
 
 > If you'd like to talk to me about speaking on your podcast, live stream, web site, etc. please send me a DM on Twitter ([@ChrisShort](https://twitter.com/ChrisShort)) or [e-mail](mailto:chris@chrisshort.net). Thanks!
+
+## The New Stack: The Best CI/CD Tool for Kubernetes Doesn't Exist
+
+Date: June 5, 2018  
+Source: [The Best CI/CD Tool for Kubernetes Doesn't Exist](https://thenewstack.io/the-best-ci-cd-tool-for-kubernetes-doesnt-exist/)
 
 ## L8ist Sh9y Podcast: Chris Short on SRE, DevSecOps, Pipelines, Immutability, and Kubernetes
 
