@@ -8,7 +8,7 @@ slug = "chefconf-2018-devops-is-not-war"
 tags = ["speaking", "talks", "devops", "chefconf", "war", "cloud"]
 title = "ChefConf 2018: DevOps is Not War"
 image = "/chefconf-2018-devops-is-not-war/chris-short-thucydides-trap.jpg"
-imagecap = "Photo Courtesy of Kim McMahon"
+imagecap = "Photo Courtesy of [Kim McMahon](https://twitter.com/kamcmahon)"
 
 +++
 
