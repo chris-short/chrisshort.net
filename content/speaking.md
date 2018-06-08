@@ -7,7 +7,8 @@ slug = "speaking"
 tags = ["talks", "speaking"]
 title = "Speaking"
 aliases = [
-    "talks"
+    "talks",
+    "talks-given"
 ]
 +++
 
@@ -16,7 +17,7 @@ aliases = [
 ## Baltimore Go June Meeting - Go to the Rescue: Saving DevOps from TLS Turmoil
 
 Date: June 5, 2018  
-Event: Baltimore Go June Meeting  
+Event: [Baltimore Go June Meeting](https://www.meetup.com/BaltimoreGolang/events/kxrjrpyxjbhb/)  
 Blog Post: [Baltimore Go June Meeting - Go to the Rescue: Saving DevOps from TLS Turmoil](/baltimore-go-june-meeting---go-to-the-rescue-saving-devops-from-tls-turmoil/)
 
 ## DevNationFederal 2018: DevOps is Not War
