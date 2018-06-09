@@ -10,7 +10,8 @@ title = "The Center for Purposeful Living is a Cult: Don't Take My Word For It"
 aliases = [
     "the-center-for-purposeful-living-is-a-cult-dont-take-my-word-for-it-2",
     "/post/65748540/the-center-for-purposeful-living-is-a-cult-dont-take",
-    "/the-center-for-purposeful-living-is-a-cult-dont-take-my-word-for-it/"
+    "/the-center-for-purposeful-living-is-a-cult-dont-take-my-word-for-it/",
+    "/the-cult-that-is-human-service-alliance-and-the-center-for-purposeful-living/"
 ]
 +++
 
