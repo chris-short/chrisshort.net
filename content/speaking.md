@@ -61,7 +61,7 @@ Video: [DevopsdaysATL2018 - Day 2](https://www.youtube.com/watch?v=_VzVOSiXnNM&t
 
 ## DevOpsDays Charlotte 2018 - Golang to the Rescue: Saving DevOps from TLS Turmoil
 
-Date: January 19, 2018  
+Date: February 22, 2018  
 Event: [DevOpsDays Charlotte 2018](https://devopsdayscharlotte2018.sched.com/event/DIiJ/golang-to-the-rescue-saving-devops-from-tls-turmoil)  
 Blog Post: [DevOpsDays Charlotte 2018 Ignite Talk on Golang](/devopsdays-charlotte-2018-ignite-talk-on-go/)  
 Video: [Golang to the rescue: Saving DevOps from TLS turmoil](https://youtu.be/-jg_SyoIIsA)
