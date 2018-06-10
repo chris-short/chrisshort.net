@@ -9,7 +9,8 @@ slug = "ansible-lineinfile-be-damned"
 tags = ["ansible", "lineinfile", "module", "security"]
 title = "Ansible lineinfile be damned"
 aliases = [
-  "lineinfile-be-damned"
+  "lineinfile-be-damned",
+  "lineinfile-be-d"
 ]
 
 +++
