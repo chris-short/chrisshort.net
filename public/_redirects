@@ -12,6 +12,10 @@
 /archives/open-source-software/ /tags/open-source/ 301
 /blogging/in-honor/ / 301
 /docker /tags/docker/ 301
+/tags/publications/ /publications/ 301
+/liked/by/chrisshort / 301
+/tags/banner* / 301
+/shoulder-update/ /tags/shoulder/ 301
 
 # Back to Tumblr
 /post/* https://chrisshort.tumblr.com/post/:splat 301
