@@ -35,6 +35,6 @@ One thing I did need to mention was the fact that freedom of speech is great but
 
 <script async class="speakerdeck-embed" data-id="fe9b2a9711ec4e6a9fac37f0f04c25a6" data-ratio="1.77777777777778" src="//speakerdeck.com/assets/embed.js"></script>
 
-[**A graphic recording of this talk is available:** ![What the Military Taught Me About DevOps Graphic Recording](/drawings/DevOpsDaysTO_May30_2018_ChrisShort.jpg)](/drawings/what-the-military-taught-me-about-devops-graphic-recording/)
+[**A graphic recording of this talk is available:** ![What the Military Taught Me About DevOps Graphic Recording](/devopsdays-toronto-2018-what-the-military-taught-me-about-devops/devopsdaysto_may30_2018_chrisshort.jpg)](/drawings/what-the-military-taught-me-about-devops-graphic-recording/)
 
 ## Video coming soon...
