@@ -1,17 +1,17 @@
 +++
 author = "Chris Short"
 categories = ["DevOps"]
-date = 2018-02-06T08:30:00Z
+date = 2018-06-13T07:00:00Z
 description = "There are four military phrases that I have used for a long time that could be in greater use in the DevOps space."
 draft = true
 slug = "military-phrases-for-devops"
 tags = ["devops", "military"]
 title = "Military Phrases For Use in DevOps"
-image = "https://cdn.chrisshort.net/low-crawl.jpg"
+image = "/military-phrases-for-use-in-devops/low-crawl.jpg"
 
 +++
 
-The US military is known for quite a few things. Two that I always find fascinating are its excessive use of acronyms and flowery language to describe certain situations. There are four military phrases that I have used for a long time that could be in greater use in the DevOps space.
+The US military is known for quite a few things. Its excessive use of acronyms and flowery language to describe certain situations are often fascinating. There are six military phrases that have been used for a long time that could be in greater use in the DevOps space.
 
 ## Good Idea Fairy
 
@@ -19,7 +19,7 @@ The US military is known for quite a few things. Two that I always find fascinat
 
 I have discussed the Good Idea Fairy before in my talk, "[What the Miltary Taught Me About DevOps](/what-the-military-taught-me-about-devops/)". The best example of the Good Idea Fairy in DevOps is when someone wants to use a new tool that offers no new functionality or improvement. This happens more often than you realize. Sometimes new tools will result in new and improved functionality.  But, if no one uses that functionality what good is taking the time to implement it? DevOps is about getting the job done with the right tool now while being mindful of the future. If it's time to retool, do it. Otherwise, resist that new "DevOps tool" someone read about on Hacker News.
 
-Another example is when leadership decides that your well-trained developers are going to code in a different language. Or your infrastructure is deployed with Terraform and for no reason, everything has to be ported over to Ansible. That's insane, yes, but I've seen it happen. The Good Idea Fairy is not your friend in DevOps (or life for that matter).
+Another example is when leadership decides that your well-trained developers are going to code in a different language. Or your infrastructure is managed with Ansible and for no reason, everything has to be ported over to Terraform. That's insane, yes, but I've seen it happen. The Good Idea Fairy is not your friend in DevOps (or life for that matter).
 
 <!-- chrisshort.net Responsive -->
 <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
@@ -34,7 +34,7 @@ Another example is when leadership decides that your well-trained developers are
 
 ## Hurry Up and Wait
 
-The urge to rush to the airport so you can get through security and relax at the gate or in a lounge; that's hurry up and wait. It's not good or bad but it's sometimes the best thing to do. In the military, folks are quickly marshaled to a place so they can wait for the next thing to hurry up and do. Much like getting a group of people to a certain place at a certain requires more time to do the same holds true for code. The more of it you try to deploy at once the longer it takes. Make sure you are breaking down your work in progress to the smallest possible unit. It's much better to get a function or system deployed early and have it laying in wait than trying to rush it out the door. The trick is finding the balance between readiness and waiting. But, a project finishing too early can be bad too. The requirements can change requiring rework which is a DevOps anti-pattern.
+The urge to rush to the airport so you can get through security and relax at the gate or in a lounge; that's hurry up and wait. It's not good or bad but it's sometimes the best thing to do. In the military, folks are quickly marshaled to a place so they can wait for the next thing to hurry up and do. Much like getting a group of people to a certain place at a certain time requires more time to do the more people there are, the same holds true for code. The more code you try to deploy at once the longer it takes. Make sure you are breaking down your work in progress to the smallest possible unit. It's much better to get a function or system deployed early and have it laying in wait than trying to rush it out the door. The trick is finding the balance between readiness and waiting. But, a project finishing too early can be bad too. The requirements can change requiring rework which is a DevOps anti-pattern.
 
 > [**Subscribe to DevOps'ish**](/newsletter/) for updates on DevOps, Cloud Native, and Open Source news.
 
