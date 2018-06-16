@@ -170,6 +170,12 @@ pattern = "2006"
 
 [[menu.main]]
     parent = "menu"
+    name = "/var/tmp Playlist"
+    url = "https://itunes.apple.com/us/playlist/var-tmp/pl.55c2d8144e6b4139b7630d691e015eaf"
+    weight = 99
+
+[[menu.main]]
+    parent = "menu"
     name = "Long Thoracic Nerve Palsy"
     url = "/long-thoracic-nerve-palsy/"
     weight = 100
