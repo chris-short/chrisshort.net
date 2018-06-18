@@ -47,3 +47,5 @@ Grateful to have readers from across the globe and companies such as:
 * Intel
 * Microsoft
 * Red Hat
+
+If you are looking for other DevOps related newsletters head over to [**DevOps Newsletters**](https://devopsnewsletters.com/) for a comprehensive list.
