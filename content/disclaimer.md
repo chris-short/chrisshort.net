@@ -10,10 +10,10 @@ title = "Disclaimer"
 
 Views expressed on this site do not reflect the opinions or views of:
 
-* SJ Technologies
+* Red Hat
 * Cloud Native Computing Foundation
 * opensource.com
-* Red Hat
 * Detroit Go Meetup
+* Detroit Kubernetes Meetup
 
-Nor those of any group Chris Short is or has been affiliated with or employed by.
+Nor those of any group Chris Short is or has been affiliated with or employed by unless explicitly stated otherwise.
