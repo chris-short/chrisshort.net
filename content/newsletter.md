@@ -38,7 +38,7 @@ title = "Newsletter"
 </div>
 <!--End mc_embed_signup-->
 
-Grateful to have readers from across the globe and companies such as:
+#### Grateful to have readers from across the globe and companies such as:
 
 * Amazon
 * Apple
