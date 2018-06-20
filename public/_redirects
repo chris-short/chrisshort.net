@@ -7,6 +7,7 @@
 /tag/* /tags/:splat 301
 /archives/* / 301
 /rss /index.xml 301
+/atom.xml /index.xml 301
 /tags/ansible-galaxy/ /tags/ansible/ 301
 /sitemap-posts.xml /sitemap.xml 301
 /archives/open-source-software/ /tags/open-source/ 301
@@ -16,6 +17,9 @@
 /liked/by/chrisshort / 301
 /tags/banner* / 301
 /shoulder-update/ /tags/shoulder/ 301
+/cfp/five-laws-aspiring-devops-folks/ /cfp/ 301
+/tags/banner* / 301
+/triangle-devops-what-the-military-taught-me-about-devops/notes%20that%20accompany%20the%20slides /triangle-devops-what-the-military-taught-me-about-devops/ 301
 
 # Back to Tumblr
 /post/* https://chrisshort.tumblr.com/post/:splat 301
