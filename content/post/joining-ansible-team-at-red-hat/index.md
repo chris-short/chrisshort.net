@@ -1,7 +1,7 @@
 +++
 author = "Chris Short"
 categories = ["Ansible", "Life"]
-date = 2018-06-24T07:00:00Z
+date = 2018-06-25T14:00:00Z
 description = "It is with great pleasure that I announce I am joining the Ansible team at Red Hat as Principal Product Marketing Manager."
 draft = false
 slug = "joining-ansible-team-at-red-hat"
