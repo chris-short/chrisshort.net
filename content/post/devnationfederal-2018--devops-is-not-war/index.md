@@ -31,6 +31,10 @@ I was able to sync up with one of my Airmen from my time at Pope Air Force Base.
 
 [Jamie Duncan](https://www.linkedin.com/in/jamieeduncan/) from Red Hat was also at the event. His talk shed light on another interesting issue we are facing now; containers. Many folks, sometimes myself too, are deeply concerned about writing good Dockerfiles. Jamie made sure we all understood that the Dockerfile was WAY less important than the application running inside it. Using one of a host of tools to build an OCI image was a faster way to build a more secure image. That way we can all get back to the work that matters (building and operating our infrastructure).
 
+## Slides
+
 <script async class="speakerdeck-embed" data-id="1c41b7a3ac2f4e4d942cd5e143e27157" data-ratio="1.77777777777778" src="//speakerdeck.com/assets/embed.js"></script>
 
-## Video coming soon...
+## Video
+
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/bnyDETdyNfw" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>

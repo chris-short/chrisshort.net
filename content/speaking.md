@@ -25,6 +25,7 @@ Blog Post: [Baltimore Go June Meeting - Go to the Rescue: Saving DevOps from TLS
 Date: June 5, 2018  
 Event: [DevNationFederal](https://devnationfederal.org/)  
 Blog Post: [DevNationFederal 2018: DevOps is Not War](/devnationfederal-2018-devops-is-not-war/)
+Video: [DevNation Federal 2018 - DevOps is Not War](https://youtu.be/bnyDETdyNfw)
 
 ## DevOpsDays Toronto 2018: What the Military Taught Me About DevOps
 

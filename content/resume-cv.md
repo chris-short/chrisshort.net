@@ -1,6 +1,6 @@
 +++
 author = "Chris Short"
-date = 2017-10-15T09:58:00Z
+date = 2017-06-25T09:58:00Z
 description = "Résumé of a 20+ year veteran of Information Technology and current DevOps professional."
 draft = false
 slug = "resume-cv"
@@ -24,7 +24,7 @@ Seasoned, passionate, results-producing DevOps professional; a wide range of exp
 
 ### Software
 
-Alpine Linux, APT, Ansible, Apache httpd, Atlassian Bamboo, Atlassian BitBucket, Atlassian Confluence, Atlassian HipChat, Atlassian JIRA, BIND, Bash, Burp Suite, CSS, Caddy, CentOS (4-7), Cobbler, Datadog, Debian, Docker, EM7, Evernote, Fedora, FlowDock, G Suite by Google Cloud, Git, Git Tower, GitHub, GitLab, Go, Google Apps, HTML, Hugo, IIS, IPTraf, Jenkins, LVM, MRTG, MediaWiki, Mercurial, MySQL, NMAP, New Relic, Office 365, OpsGenie, PagerDuty, Percona Server, Percona Toolkit, Puppet, RPM, Red Hat Enterprise Linux (3-7), Remedy, Serverspec, Slack, SourceTree, Subversion, Terraform, Test Kitchen, Trello, Ubuntu, VIM, Vagrant, VirtualBox, Visual Studio Code, WireShark, Xymon, YUM, cron, curl, iptables, macOS, nginx, sed
+Alpine Linux, APT, Ansible, Apache httpd, Atlassian Bamboo, Atlassian BitBucket, Atlassian Confluence, Atlassian HipChat, Atlassian JIRA, BIND, Bash, Burp Suite, CSS, Caddy, CentOS (4-7), Cobbler, Datadog, Debian, Docker, EM7, Fedora, FlowDock, G Suite by Google Cloud, Git, Git Tower, GitHub, GitLab, Go, Google Apps, HTML, Hugo, IIS, IPTraf, Jenkins, LVM, MRTG, MediaWiki, Mercurial, MySQL, NMAP, New Relic, Office 365, OpsGenie, PagerDuty, Percona Server, Percona Toolkit, Puppet, RPM, Red Hat Enterprise Linux (3-7), Remedy, Serverspec, Slack, SourceTree, Subversion, Terraform, Test Kitchen, Trello, Ubuntu, VIM, Vagrant, VirtualBox, Visual Studio Code, WireShark, Xymon, YUM, cron, curl, iptables, macOS, nginx, sed
 
 ### Infrastructure
 
@@ -36,7 +36,7 @@ DHCP, DNS, Ethernet, FTP, HTTP, HTTPS, IP, NTP, POP, RSYNC, SCP, SFTP, SMTP, SNM
 
 ## Professional Experience
 
-Principal Product Marketing Manager, Red Hat — Detroit, MI — Jun 2018
+Principal Product Marketing Manager, Red Hat — Detroit, MI — Jun 2018 to Present
 
 Senior DevOps Advocate, SJ Technologies — Detroit, MI — Jan 2018 to Jun 2018
 
@@ -57,7 +57,7 @@ Global DevOps Engineer, Solarwinds MSP — Durham, NC — June 2016 to June 2017
 * Converted 300 GB MySQL table from MyISAM to InnoDB utilizing existing backup, MySQL replication, and Rackspace OnMetal instance; converted to more  tolerant storage engine consistent with app architecture
 * Upgraded internal and customer TLS/SSL Apache Web Server configurations; trained staff on proper implementations, potential issues/concerns, and automated changes with Ansible
 * Utilized AWS EC2 and SQS in tandem with systemd and custom AMIs as well as existing application code to build job servers that would collect, verify, and purge duplicate copies of archived mail messages in AWS S3
-* Installed and maintained Jenkins  for Continuous Delivery as well as automate Ansible Playbook runs against production infrastructure
+* Installed and maintained Jenkins for Continuous Delivery as well as automate Ansible Playbook runs against production infrastructure
 
 Senior IT Analyst, Duke School of Medicine, Office of Research Informatics — Durham, NC — Dec 2015 to June 2016
 
