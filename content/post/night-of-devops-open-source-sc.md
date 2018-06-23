@@ -16,6 +16,8 @@ On Tuesday, May 23, 2017, I did a DevOps talk at [Open Source South Carolina](ht
 
 > [**Subscribe to DevOps'ish**](/newsletter/) for updates on DevOps, Cloud Native, and Open Source news.
 
+## Slides
+
 <script async class="speakerdeck-embed" data-id="c5c805d0c9c44960861a00202b804f3b" data-ratio="1.6" src="//speakerdeck.com/assets/embed.js"></script>
 
 It was a lengthy talk given the two-hour time slot. I built an [enormous outline](https://gist.github.com/chris-short/8e50511c8ff808f032a968eac41f5363) to guide myself during the talk. I am considering making the talk into an ebook when time becomes more abundant if demand is there.

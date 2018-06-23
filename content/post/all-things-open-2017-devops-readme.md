@@ -26,4 +26,10 @@ I had the opportunity to participate in [All Things Open](https://allthingsopen.
    (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
 
+## Slides
+
 <embed src="https://cdn.chrisshort.net/DevOps%20README.md%20ATO.pdf" width="640" height="360" alt="pdf" />
+
+## Video
+
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/Ibnj-YZTypU" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>

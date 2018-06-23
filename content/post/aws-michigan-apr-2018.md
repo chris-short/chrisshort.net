@@ -28,6 +28,10 @@ I love doing local events. It allows me to form connections with folks that are 
 
 > [**Subscribe to DevOps'ish**](/newsletter/) for updates on DevOps, Cloud Native, and Open Source news.
 
+## Slides
+
 <script async class="speakerdeck-embed" data-id="d4508c95fb7a4f6a8212619d59c54637" data-ratio="1.77777777777778" src="//speakerdeck.com/assets/embed.js"></script>
+
+## Video
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/_qx9d5JSRvw" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>

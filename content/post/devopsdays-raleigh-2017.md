@@ -30,6 +30,8 @@ There was one funny thing that happened immediately after the talk. I was approa
 
 Something I learned by giving this talk is that discussing personal experiences will elicit emotions on stage. Some of the things I've experienced in my time in [DevOps](/categories/devops/) caused me great anxiety. Other DevOps experiences gave me great joy. If talking about these emotional polar opposites there should be easy transitions from one to the next. The need to be ready to manage those feelings in real time is now very apparent. Another thing I learned: Star Wars themed presentations go well if you aren't too cliche about it (and I'm still upset about Han Solo).
 
+## Slides
+
 <embed src="https://cdn.chrisshort.net/The%20Dark%20Side%20of%20DevOps.pdf" width="640" height="360" alt="pdf" />
 
 These slides are also available on [Speaker Deck](https://speakerdeck.com/chrisshort/the-dark-side-of-devops) and [video is also available](/video-devopsdays-raleigh-2017/).

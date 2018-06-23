@@ -35,4 +35,6 @@ I was able to speak about Go and how I used it to save my DevOps ass at Solarwin
 
 This talk walks through the use case of having to apply new certificates to an unfamiliar application. I built a 40-line Go tool to test and audit certifcate chains and web server configurations. I'm not a coder but Go makes me happy and really did save the day.
 
+## Slides
+
 <script async class="speakerdeck-embed" data-id="e90ce37a433646f79eec650670b29b0f" data-ratio="1.77777777777778" src="//speakerdeck.com/assets/embed.js"></script>

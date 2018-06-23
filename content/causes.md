@@ -10,7 +10,7 @@ aliases = [
 ]
 +++
 
-There are many causes worth supporting out there. It's important that you help out organizations doing good in the world. At the very least, set up [Amazon Smile](https://smile.amazon.com) to support your charity of choice. Below is a list of causes I support.
+There are many causes worth supporting out there. It's important that you help out organizations doing good in the world. At the very least, set up [Amazon Smile](https://smile.amazon.com) to support your charity of choice. Here is a list of causes I support:
 
 * [Electronic Frontier Foundation](https://www.eff.org/)
 * [K2 CHALLENGE (The Cloudcast)](https://www.crowdrise.com/the-cloudcast1)

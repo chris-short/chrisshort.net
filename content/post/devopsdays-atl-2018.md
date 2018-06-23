@@ -32,7 +32,3 @@ Over the past 500 years, there have been 16 cases of a rising power threatening 
 ## Slides
 
 <script async class="speakerdeck-embed" data-id="9b1139f43dea4abe87b8aeacac9af585" data-ratio="1.77777777777778" src="//speakerdeck.com/assets/embed.js"></script>
-
-## Video
-
-Video of the talk is [available on YouTube](https://www.youtube.com/watch?v=_VzVOSiXnNM&t=22m22s). A huge thanks to the DevOpsDays Atlanta team for getting the video out so quickly.
