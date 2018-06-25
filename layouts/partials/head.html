@@ -52,13 +52,15 @@
   {{- else }}
   <link rel="alternate" href="{{ .Site.RSSLink }}" type="application/rss+xml" title="{{ .Site.Title }}">
   {{- end }}
-  <link rel="stylesheet" href="{{ "css/katex.min.css" | absURL }}" />
-  <link rel="stylesheet" href="{{ "css/font-awesome.min.css" | absURL }}" />
+  <link rel="stylesheet" href="{{ "css/fonts.min.css" | absURL }}" />
   <link rel="stylesheet" href="{{ "css/bootstrap.min.css" | absURL }}" />
-  <link rel="stylesheet" href="{{ "css/main.css" | absURL }}" />
-  <link rel="stylesheet" href="{{ "css/google-fonts.css" | absURL }}" />
-  <link rel="stylesheet" href="{{ "css/codeblock.css" | absURL }}" />
-  <link rel="stylesheet" href="{{ "css/syntax.css" | absURL }}" />
+  <link rel="stylesheet" href="{{ "css/main.min.css" | absURL }}" />
+  <link rel="stylesheet" href="{{ "css/syntax.min.css" | absURL }}" />
+<!--  <link rel="stylesheet" href="{{ "css/font-awesome.min.css" | absURL }}" />
+  <link rel="stylesheet" href="{{ "css/bootstrap.min.css" | absURL }}" />
+  <link rel="stylesheet" href="{{ "css/main.min.css" | absURL }}" />
+  <link rel="stylesheet" href="{{ "css/google-fonts.min.css" | absURL }}" />
+  <link rel="stylesheet" href="{{ "css/syntax.min.css" | absURL }}" /> -->
 
   {{- partial "head_custom.html" . }}
   {{- partial "load-photoswipe-theme.html" . }}
