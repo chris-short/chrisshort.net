@@ -18,10 +18,8 @@ paginate = 6
 
 [Params]
   UseChroma = true
-  subtitle = "CNCF Ambassador | DevOps | opensource.com Community Moderator | Writes devopsish.com | Partially Disabled USAF Veteran"
-  description = "CNCF Ambassador | DevOps | opensource.com Community Moderator | Writes devopsish.com | Partially Disabled USAF Veteran"
-#  subtitle = "Ansible by Red Hat | CNCF Ambassador | DevOps | opensource.com Community Moderator | Writes devopsish.com | Partially Disabled USAF Veteran"
-#  description = "Ansible by Red Hat | CNCF Ambassador | DevOps | opensource.com Community Moderator | Writes devopsish.com | Partially Disabled USAF Veteran"
+  subtitle = "Ansible by Red Hat | CNCF Ambassador | DevOps | opensource.com Community Moderator | Writes devopsish.com | Partially Disabled USAF Veteran"
+  description = "Ansible by Red Hat | CNCF Ambassador | DevOps | opensource.com Community Moderator | Writes devopsish.com | Partially Disabled USAF Veteran"
   logo = "https://cdn.chrisshort.net/static/img/Late-2017-Headshot-Square-Optimized.jpg"
   favicon = "https://cdn.chrisshort.net/static/favicons/favicon.ico"
   dateFormat = "January 2, 2006"
