@@ -13,7 +13,7 @@ aliases = [
 
 ## Tagline
 
-Ansible by Red Hat | CNCF Ambassador | DevOps | opensource.com Community Moderator | Writes devopsish.com | Partially Disabled USAF Veteran
+Red Hat Ansible | CNCF Ambassador | DevOps | opensource.com Community Moderator | Writes devopsish.com | Partially Disabled USAF Veteran
 
 ## Brief Bio
 
