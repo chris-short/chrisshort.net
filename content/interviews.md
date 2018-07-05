@@ -10,6 +10,9 @@ title = "Interviews"
 
 > If you'd like to talk to me about speaking on your podcast, live stream, web site, etc. please send me a DM on Twitter ([@ChrisShort](https://twitter.com/ChrisShort)) or [e-mail](mailto:chris@chrisshort.net). Thanks!
 
+Date: June 20, 2018
+Source: [Stand-up meetings: 5 reasons to kiss traditional meetings goodbye](https://enterprisersproject.com/article/2018/6/stand-meetings-5-reasons-kiss-traditional-meetings-goodbye)
+
 ## The New Stack: The Best CI/CD Tool for Kubernetes Doesn't Exist
 
 Date: June 5, 2018  
