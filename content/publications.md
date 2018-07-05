@@ -7,6 +7,14 @@ slug = "publications"
 title = "Publications"
 +++
 
+## [5 military phrases for DevOps practitioners](https://opensource.com/article/18/7/military-phrases-devops)
+
+Many of the armed forces' colorful euphemisms are equally at home in DevOps.
+
+## [16 blogs and newsletters to follow for DevOps practitioners](https://opensource.com/article/18/6/devops-blogs-newsletters-follow)
+
+It's important to keep up with trends in this fast-paced world of technology.
+
 ## [Navigating the container security ecosystem](https://opensource.com/article/18/5/navigating-container-security-ecosystem)
 
 As container adoption increases, security automation will become a critical element of every organization's workflow.
