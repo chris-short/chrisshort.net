@@ -1,25 +1,30 @@
 +++
 author = "Chris Short"
 categories = ["DevOps"]
-date = 2018-06-13T07:00:00Z
-description = "There are four military phrases that I have used for a long time that could be in greater use in the DevOps space."
+date = 2018-07-19T07:00:00Z
+description = "There are many military phrases that I have used for a long time that could be in greater use in the DevOps space."
 draft = true
 slug = "military-phrases-for-devops"
 tags = ["devops", "military"]
 title = "Military Phrases For Use in DevOps"
 image = "/military-phrases-for-use-in-devops/low-crawl.jpg"
+imagecap = "Parental Discretion is Advised"
 
 +++
 
-The US military is known for quite a few things. Its excessive use of acronyms and flowery language to describe certain situations are often fascinating. There are six military phrases that have been used for a long time that could be in greater use in the DevOps space.
+An edited version of this article was originally written for opensource.com: [5 military phrases for DevOps practitioners](https://opensource.com/article/18/7/military-phrases-devops)
+
+The U.S. military is known for quite a few things, including its excessive and fascinating use of acronyms, euphemisms, and colorful phrases to describe certain situations. But many of these terms are applicable to other areas of life, including many non-military jobs. These are a few phrases I think crossover between both DevOps and the armed forces.
+
+> [**Subscribe to DevOps'ish**](/newsletter/) for updates on DevOps, Cloud Native, and Open Source news.
 
 ## Good Idea Fairy
 
-> Definition: Military term; An evil mythical creature that whispers advice and ideas into the ears of military leadership, causing hundreds unnecessary changes and countless wasted man-hours every year.
+> Definition: Military term; An evil mythical creature that whispers advice and ideas into the ears of military leadership, causing hundreds unnecessary changes and countless wasted man-hours every year. —[Urban Dictionary](https://www.urbandictionary.com/define.php?term=good%20idea%20fairy)
 
-I have discussed the Good Idea Fairy before in my talk, "[What the Miltary Taught Me About DevOps](/what-the-military-taught-me-about-devops/)". The best example of the Good Idea Fairy in DevOps is when someone wants to use a new tool that offers no new functionality or improvement. This happens more often than you realize. Sometimes new tools will result in new and improved functionality.  But, if no one uses that functionality what good is taking the time to implement it? DevOps is about getting the job done with the right tool now while being mindful of the future. If it's time to retool, do it. Otherwise, resist that new "DevOps tool" someone read about on Hacker News.
+I discussed the Good Idea Fairy in "[What the military taught me about DevOps](/what-the-military-taught-me-about-devops/)." The best example of the *Good Idea Fairy* in DevOps is when someone wants to use a new tool that offers no new functionality nor improvement. This happens more often than you realize. Sometimes new tools will result in new and improved functionality. But, if no one uses that functionality, what good is taking the time to implement it? DevOps is about getting the job done with the right tool now while being mindful of the future. If it's time to retool, do it. Otherwise, resist that "new DevOps tool" someone read about on [The Evil Orange Site](https://news.ycombinator.com/).
 
-Another example is when leadership decides that your well-trained developers are going to code in a different language. Or your infrastructure is managed with Ansible and for no reason, everything has to be ported over to Terraform. That's insane, yes, but I've seen it happen. The Good Idea Fairy is not your friend in DevOps (or life for that matter).
+Another example is when leadership decides that your well-trained developers are going to code in a different language. Or your infrastructure is well-managed with Ansible and, for no reason, everything has to be ported over to Terraform. That's insane, yes, but I've seen it happen. The Good Idea Fairy is not your friend in DevOps (or in life for that matter).
 
 <!-- chrisshort.net Responsive -->
 <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
@@ -34,9 +39,30 @@ Another example is when leadership decides that your well-trained developers are
 
 ## Hurry Up and Wait
 
-The urge to rush to the airport so you can get through security and relax at the gate or in a lounge; that's hurry up and wait. It's not good or bad but it's sometimes the best thing to do. In the military, folks are quickly marshaled to a place so they can wait for the next thing to hurry up and do. Much like getting a group of people to a certain place at a certain time requires more time to do the more people there are, the same holds true for code. The more code you try to deploy at once the longer it takes. Make sure you are breaking down your work in progress to the smallest possible unit. It's much better to get a function or system deployed early and have it laying in wait than trying to rush it out the door. The trick is finding the balance between readiness and waiting. But, a project finishing too early can be bad too. The requirements can change requiring rework which is a DevOps anti-pattern.
+The urge to rush to the airport so you can get through security and relax at the gate or in a lounge—that's "hurry up and wait." It's neither good nor bad, and it's sometimes the best thing to do. In the military, folks are quickly marshaled to a place so they can wait for the next thing to hurry up and do.
+
+It's much better to get a function or system deployed early and have it lying in wait rather than trying to rush it out the door. A project finishing too early can be bad, too. The requirements can change, requiring rework, which is a DevOps anti-pattern. The trick is finding the balance between readiness and waiting.
+
+Much like getting a group of people to a certain place at a certain time requires more time the more people there are, the same holds true for code. The more code you try to deploy at once, the longer it takes. Make sure you are breaking down work in progress to the smallest possible unit.
 
 > [**Subscribe to DevOps'ish**](/newsletter/) for updates on DevOps, Cloud Native, and Open Source news.
+
+## Embrace The Suck
+
+"The suck" is frequently used by Marines to describe the U.S. Marine Corps. But I have seen its context expand to a ton of situations. "The suck" is any miserable situation that someone has to get through to get to a better situation (hopefully). In DevOps, "the suck" is going to be building that tedious, repetitive pipeline. Another good example is doing the investigative work to figure out how legacy systems got to their current state (bonus points for no documentation and no one that could have built the system still being employed).
+
+Let's face it, DevOps isn't all rainbow, flowers, unicorns, and glory. There are going to be things that you will have to do in DevOps that you're not going to like. Embracing "the suck" reminds folks that there are better things ahead. Push through this now and move on to a better future.
+
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-8972983586873269"
+     data-ad-slot="4663018952"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 ## Cluster Fuck
 
@@ -55,18 +81,24 @@ Be mindful of how your quick hack has to be fed and cared for before rolling it 
    (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
 
-## Embrace The Suck
-
-The Suck is frequently used to describe the US Marine Corps by Marines. But, I have seen its context expand to a ton of situations. "The suck" is any miserable situation that you have to get through to get to a better situation (hopefully). In DevOps, "the suck" is going to be building that tedious, repetitive pipeline. Another good example is doing the investigative work to figure out how new systems got to their current state (bonus points for no documentation and no one still being employed that could have built the system).
-
-Let's face it, DevOps isn't all rainbow, flowers, unicorns, and glory. There are going to be things that you will have to do in DevOps that you're not going to like. Embracing the suck reminds folks that there are better things ahead. Push through this now and move on with life.
-
 ## You Can Only Expect What You Inspect
 
-Observability
-Responsiveness
-Business Metrics
+"You can only expect what you inspect" often refers to a leader's expectations versus the inevitable reality. If there is an expectation that something is done a certain way, be sure to periodically check that it was done right (or at all). For DevOps, consistently check that outcomes are improving business metrics and providing value. Don't assume that processes are running when you think they are; monitor them. Don't assume users will use a tool in a certain way, observe feature usage. Assumptions are an enemy in DevOps organizations, so make sure to eliminate them through inspection.
+
+> [**Subscribe to DevOps'ish**](/newsletter/) for updates on DevOps, Cloud Native, and Open Source news.
 
 ## "The standard you walk past is the standard you accept."
 
-https://en.wikiquote.org/wiki/David_Morrison
+"The standard you walk past is the standard you accept."
+[David Morrison](https://en.wikiquote.org/wiki/David_Morrison), a former chief of the Australia Army, made a prolific statement when addressing unacceptable behavior: "The standard you walk past is the standard you accept." This holds true in life and in DevOps. If your coding practices or culture do not live up to the standards your organization has set for itself, correct it on the spot. Think of the concept of [Toyota's Andon Cord](https://itrevolution.com/kata/). It signals an issue and calls for swarming so quality issues can be corrected before being rolled out into a finished vehicle. The same should hold true for the tooling and people in an organization. Do not allow the bar to be lowered. Keep the standards high.
+
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-8972983586873269"
+     data-ad-slot="4663018952"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
