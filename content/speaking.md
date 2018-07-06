@@ -38,6 +38,8 @@ Blog Post: [DevOpsDays Toronto 2018: What the Military Taught Me About DevOps](/
 Date: May 24, 2018  
 Event: [ChefConf](https://chefconf.chef.io/)  
 Blog Post: [ChefConf 2018: DevOps is Not War](/chefconf-2018-devops-is-not-war/)
+Video: [ChefConf 2018 Session: DevOps is Not a War
+](https://youtu.be/MDu6wL1DWY4)
 
 ## Detroit Kubernetes, Docker & all related things - Kubernetes Cron Jobs: Highly-Available, Distributed Cron Jobs are Awesome!
 
