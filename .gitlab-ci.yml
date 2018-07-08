@@ -8,6 +8,7 @@ variables:
 
 compile:
   stage: test
+  image: registry.gitlab.com/pages/hugo:latest
   before_script:
     - rm -rf public || exit 0
   script:
