@@ -1,7 +1,7 @@
 +++
 author = "Chris Short"
 categories = ["DevOps"]
-date = 2018-07-19T07:00:00Z
+date = 2018-07-20T07:00:00Z
 description = "There are many military phrases that I have used for a long time that could be in greater use in the DevOps space."
 draft = true
 slug = "military-phrases-for-devops"
