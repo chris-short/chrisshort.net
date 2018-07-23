@@ -7,6 +7,10 @@ slug = "publications"
 title = "Publications"
 +++
 
+## [5 Firefox extensions to protect your privacy](https://opensource.com/article/18/7/firefox-extensions-protect-privacy)
+
+Keep your browser from leaking your data with these privacy-focused tools.
+
 ## [5 military phrases for DevOps practitioners](https://opensource.com/article/18/7/military-phrases-devops)
 
 Many of the armed forces' colorful euphemisms are equally at home in DevOps.
