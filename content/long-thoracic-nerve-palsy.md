@@ -71,6 +71,10 @@ I also take turmeric to help with inflammation. After years of taking a variety 
 
 I also take fish oil for its joint and heart health benefits. 
 
+#### Trigger Point Injections
+
+Trigger point injections into two regions have been the go to relief option. However, getting trigger points in a panic can be next to impossible. I typically get injections once a quarter.
+
 #### Pulsed Radiofrequency Lesioning
 
 While deemed "experimental" by insurance companies due to overuse, pulsed radiofrequency lesioning has provided significant pain relief to me.

@@ -1,6 +1,6 @@
 +++
 author = "Chris Short"
-date = 2018-04-30T18:00:00Z
+date = 2018-08-07T10:56:00Z
 description = "Talks Chris Short has given"
 draft = false
 slug = "speaking"
@@ -31,7 +31,8 @@ Video: [DevNation Federal 2018 - DevOps is Not War](https://youtu.be/bnyDETdyNfw
 
 Date: May 30, 2018  
 Event: [DevOpsDays Toronto 2018](https://www.devopsdays.org/events/2018-toronto/program/chris-short/)  
-Blog Post: [DevOpsDays Toronto 2018: What the Military Taught Me About DevOps](/devopsdays-toronto-2018-what-the-military-taught-me-about-devops/)
+Blog Post: [DevOpsDays Toronto 2018: What the Military Taught Me About DevOps](/devopsdays-toronto-2018-what-the-military-taught-me-about-devops/)  
+Video: [Chris Short - What the Military Taught Me about DevOps](https://youtu.be/TIE1rKkJWyY)
 
 ## ChefConf 2018: DevOps is Not War
 
