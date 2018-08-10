@@ -10,55 +10,62 @@ title = "Interviews"
 
 > If you'd like to talk to me about speaking on your podcast, live stream, web site, etc. please send me a DM on Twitter ([@ChrisShort](https://twitter.com/ChrisShort)) or [e-mail](mailto:chris@chrisshort.net). Thanks!
 
-Date: June 20, 2018
+## Product Marketing - Food Fight Show
+
+Date: 2018-08-10  
+Source: [Product Marketing](http://foodfightshow.org/2018/08/product-marketing.html)
+
+## Stand-up meetings: 5 reasons to kiss traditional meetings goodbye
+
+Date: 2018-06-20  
 Source: [Stand-up meetings: 5 reasons to kiss traditional meetings goodbye](https://enterprisersproject.com/article/2018/6/stand-meetings-5-reasons-kiss-traditional-meetings-goodbye)
 
 ## The New Stack: The Best CI/CD Tool for Kubernetes Doesn't Exist
 
-Date: June 5, 2018  
+Date: 2018-06-05  
 Source: [The Best CI/CD Tool for Kubernetes Doesn't Exist](https://thenewstack.io/the-best-ci-cd-tool-for-kubernetes-doesnt-exist/)
 
 ## L8ist Sh9y Podcast: Chris Short on SRE, DevSecOps, Pipelines, Immutability, and Kubernetes
 
-Date: June 2, 2018  
+Date: 2018-06-02  
 Source: [Chris Short on SRE, DevSecOps, Pipelines, Immutability, and Kubernetes](https://soundcloud.com/user-410091210/chris-short-on-sre-devsecops-pipelines-immutability-and-kubernetes)
 
 
 ## DevOpsDays Toronto 2018 — What the military taught me about DevOps
 
-Date: June 1, 2018  
+Date: 2018-06-01  
 Source: [Chris Short describing his talk at DevOpsDays Toronto](https://youtu.be/gwOmVh7lCEA)
 
 ## Discussing DevOps Details aka The 3D Podcast: Episode 113
 
-Date: April 4, 2018  
+Date: 2018-04-04  
 Source: [Episode 113: Refactoring Giant Monoliths](http://techtowntraining.com/podcastgen/?name=2018-04-04_3d_podcast_recording_session_113_-_refactoring_giant_monoliths.mp3)
 
 ## Screaming in the Cloud: Episode 2
 
-Date: March 21, 2018  
+Date: 2018-03-21  
 Source: [EPISODE 2: SHOVING A SAN INTO US-EAST-1 WITH CHRIS SHORT OF DEVOPS’ISH](https://www.screaminginthecloud.com/episodes/2018/3/21/episode-2-shoving-a-san-into-us-east-1-with-chris-short-of-devopsish)
 
 ## DevOps Perspectives from the Front Lines
 
-Date: October 30, 2016  
+Date: 2016-10-30  
 Source: [The Cloudcast #277 - DevOps Perspectives from the Front Lines](http://www.thecloudcast.net/2016/10/the-cloudcast-277-devops-perspective.html)  
 Blog Post: [DevOps Perspectives from the Front Lines](/devops-perspectives-from-the-front-lines/)
 
 ## North Carolina Veterans Oral History Interview Part 3
 
-Date: May 21, 2016  
+Date: 2016-05-21  
 Source: [Christopher B. Short Interview, 2016-05-21](https://archive.org/details/MilCollOH1103Short)  
 Blog Post: [North Carolina Veterans Oral History Interview Part 3](/north-carolina-veterans-oral-history-interview-part-3/)
 
 ## North Carolina Veterans Oral History Interview Part 2
 
-Date: May 21, 2016  
+Date: 2016-05-21  
 Source: [Christopher B. Short Interview, 2016-05-21](https://archive.org/details/MilCollOH1103Short)  
 Blog Post: [North Carolina Veterans Oral History Interview Part 2](/north-carolina-veterans-oral-history-interview-part-2/)
 
 ## North Carolina Veterans Oral History Interview Part 1
 
-Date: May 21, 2016  
+Date: 2016-05-21  
 Source: [Christopher B. Short Interview, 2016-05-21](https://archive.org/details/MilCollOH1103Short)  
 Blog Post: [North Carolina Veterans Oral History Interview Part 1](/north-carolina-veterans-oral-history-interview-part-1/)
