@@ -13,7 +13,7 @@ title = "Interviews"
 ## Product Marketing - Food Fight Show
 
 Date: 2018-08-10  
-Source: [Product Marketing](http://foodfightshow.org/2018/08/product-marketing.html)
+Source: [PProduct Marketing Management](http://foodfightshow.org/2018/08/product-marketing.html)
 
 ## Stand-up meetings: 5 reasons to kiss traditional meetings goodbye
 
