@@ -1,11 +1,15 @@
 +++
 author = "Chris Short"
-date = 2018-01-13T22:40:00Z
+date = 2018-08-14T21:25:00Z
 description = "Publications Chris Short has Contributed"
 draft = false
 slug = "publications"
 title = "Publications"
 +++
+
+## [The Total Economic Impact of Red Hat Ansible Tower](https://www.ansible.com/blog/the-total-economic-impact-of-red-hat-ansible-tower)
+
+A dive into what Red Hat Ansible Tower enables, efficiencies gained, the acceleration of revenue recognition, and other tangible benefits
 
 ## [5 Firefox extensions to protect your privacy](https://opensource.com/article/18/7/firefox-extensions-protect-privacy)
 
