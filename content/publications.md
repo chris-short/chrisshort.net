@@ -7,6 +7,10 @@ slug = "publications"
 title = "Publications"
 +++
 
+## [Automation Everywhere At AnsibleFest Austin](https://www.ansible.com/blog/automation-everywhere-at-ansiblefest-austin)
+
+AnsibleFest is fast approaching! We couldn’t be more excited to be holding our 13th AnsibleFest in Austin, TX. It must be true that everything is bigger in Texas, because this year's AnsibleFest is on track to be the biggest one ever.
+
 ## [The Total Economic Impact of Red Hat Ansible Tower](https://www.ansible.com/blog/the-total-economic-impact-of-red-hat-ansible-tower)
 
 A dive into what Red Hat Ansible Tower enables, efficiencies gained, the acceleration of revenue recognition, and other tangible benefits
