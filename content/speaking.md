@@ -14,6 +14,16 @@ aliases = [
 
 > If you'd like to talk about me speaking at your conference, Meetup, office, party, etc. please send me a DM on Twitter ([@ChrisShort](https://twitter.com/ChrisShort)) or [e-mail](mailto:chris@chrisshort.net). Thanks!
 
+## DevOpsDays Columbus 2018: Kubernetes Cron Jobs
+
+Date: September 19, 2018  
+Event: [DevOpsDays Columbus 2018](https://www.devopsdays.org/events/2018-columbus/program/chris-short/)  
+
+## Grand Rapids RHUG — Using Ansible for DevOps
+
+Date: September 12, 2018  
+Event: [Grand Rapids RHUG Ansible, DevOps, and more!](https://www.meetup.com/Grand-Rapids-RHUG/events/253614873/)
+
 ## Baltimore Go June Meeting - Go to the Rescue: Saving DevOps from TLS Turmoil
 
 Date: June 5, 2018  

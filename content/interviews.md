@@ -10,10 +10,20 @@ title = "Interviews"
 
 > If you'd like to talk to me about speaking on your podcast, live stream, web site, etc. please send me a DM on Twitter ([@ChrisShort](https://twitter.com/ChrisShort)) or [e-mail](mailto:chris@chrisshort.net). Thanks!
 
+## Business Travel Life: Chris Short
+
+Date: 2018-09-28  
+Source: [Business Travel Life: Chris Short](https://www.tripit.com/blog/2018/09/business-travel-tips-chris-short.html)
+
+## 7 leadership skills that will make or break your DevOps transformation
+
+Date: 2018-09-24  
+Source: [7 leadership skills that will make or break your DevOps transformation](https://techbeacon.com/7-leadership-skills-will-make-or-break-your-devops-transformation)
+
 ## Product Marketing - Food Fight Show
 
 Date: 2018-08-10  
-Source: [PProduct Marketing Management](http://foodfightshow.org/2018/08/product-marketing.html)
+Source: [Product Marketing Management](http://foodfightshow.org/2018/08/product-marketing.html)
 
 ## Stand-up meetings: 5 reasons to kiss traditional meetings goodbye
 
