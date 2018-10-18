@@ -14,10 +14,17 @@ aliases = [
 
 > If you'd like to talk about me speaking at your conference, Meetup, office, party, etc. please send me a DM on Twitter ([@ChrisShort](https://twitter.com/ChrisShort)) or [e-mail](mailto:chris@chrisshort.net). Thanks!
 
+## All Day DevOps 2018: DevOps is Not War
+
+Date: 2018-10-17  
+Event: [All Day DevOps 2018](https://www.alldaydevops.com/addo-speakers/chris-short)  
+Slides: [All Day DevOps — DevOps is Not a War](https://speakerdeck.com/chrisshort/all-day-devops-devops-is-not-a-war)
+
 ## DevOpsDays Columbus 2018: Kubernetes Cron Jobs
 
-Date: September 19, 2018  
+Date: 2018-09-19
 Event: [DevOpsDays Columbus 2018](https://www.devopsdays.org/events/2018-columbus/program/chris-short/)  
+Slides: [DevOpsDays Columbus 2018: Kubernetes Cron Jobs](https://speakerdeck.com/chrisshort/devopsdays-columbus-2018-kubernetes-cron-jobs)
 
 ## Grand Rapids RHUG — Using Ansible for DevOps
 
