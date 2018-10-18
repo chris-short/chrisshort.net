@@ -43,9 +43,13 @@ title = "Newsletter"
 * Amazon
 * Apple
 * Chef
+* Cisco
+* Duke University
 * Google
 * Intel
 * Microsoft
+* Pivotal
 * Red Hat
+* Sonatype
 
 If you are looking for other DevOps related newsletters head over to [**DevOps Newsletters**](https://devopsnewsletters.com/) for a comprehensive list.
