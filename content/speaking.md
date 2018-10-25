@@ -1,6 +1,6 @@
 +++
 author = "Chris Short"
-date = 2018-08-07T10:56:00Z
+date = 2018-10-24T00:53:00Z
 description = "Talks Chris Short has given"
 draft = false
 slug = "speaking"
@@ -24,7 +24,9 @@ Slides: [All Day DevOps — DevOps is Not a War](https://speakerdeck.com/chrissh
 
 Date: 2018-09-19
 Event: [DevOpsDays Columbus 2018](https://www.devopsdays.org/events/2018-columbus/program/chris-short/)  
-Slides: [DevOpsDays Columbus 2018: Kubernetes Cron Jobs](https://speakerdeck.com/chrisshort/devopsdays-columbus-2018-kubernetes-cron-jobs)
+Slides: [DevOpsDays Columbus 2018: Kubernetes Cron Jobs](https://speakerdeck.com/chrisshort/devopsdays-columbus-2018-kubernetes-cron-jobs)  
+Video: [Chris Short Ignite - Kubernetes Cron Jobs: Dreams Really Do Come True
+](https://youtu.be/75T_-YJ5Vag)
 
 ## Grand Rapids RHUG — Using Ansible for DevOps
 
