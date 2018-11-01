@@ -15,5 +15,5 @@ There are many causes worth supporting out there. It's important that you help o
 * [Electronic Frontier Foundation](https://www.eff.org/)
 * [K2 CHALLENGE (The Cloudcast)](https://www.crowdrise.com/the-cloudcast1)
 * [Open Source Initiative](https://opensource.org/)
-* [Pin-Ups For Vets](http://www.pinupsforvets.com/)
 * [Wikimedia Foundation](https://wikimediafoundation.org/wiki/Home)
+* [Pin-Ups For Vets](http://www.pinupsforvets.com/)

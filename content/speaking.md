@@ -31,7 +31,8 @@ Video: [Chris Short Ignite - Kubernetes Cron Jobs: Dreams Really Do Come True
 ## Grand Rapids RHUG — Using Ansible for DevOps
 
 Date: September 12, 2018  
-Event: [Grand Rapids RHUG Ansible, DevOps, and more!](https://www.meetup.com/Grand-Rapids-RHUG/events/253614873/)
+Event: [Grand Rapids RHUG Ansible, DevOps, and more!](https://www.meetup.com/Grand-Rapids-RHUG/events/253614873/)  
+Slides: [Using Ansible for DevOps](https://speakerdeck.com/chrisshort/using-ansible-for-devops)
 
 ## Baltimore Go June Meeting - Go to the Rescue: Saving DevOps from TLS Turmoil
 
