@@ -30,9 +30,29 @@ The drive home was filled with nausea and worry. "I should get home and go strai
 
 A friend at Red Hat texts me asking if I'd seen the news. I responded back that I had and wasn't feeling to great about it. You have to understand my experience with IBM. In 2015, I worked for a few weeks at healthcare company that was a $1 billion dollar IBM acquisition. It was a total dumpster fire and IBM knew it. But, Watson Health was the future of IBM, a friend elsewhere in IBM had told me. Long story short, I saw a ton of cracks in the business that was just bought for a ridiculous sum of money. I had to make a decision real quick and got out of Dodge. Earlier this year, [IBM's Watson Health had huge layoffs](https://www.theregister.co.uk/2018/05/25/ibms_watson_layoffs/) and I felt very justified in my decision. My rash decision making might have hurt my career a little. But, I dodged a huge bullet in my first run in as an almost IBM employee. At the end of the brief discussion with my friend he said, "**At least it wasnt Oracle.**" My response, "Yes... I really would have driven off the road then."
 
-## Monday Morning Quarterbacking
+## Monday Morning
 
-memo-list was a dumpster fire. I stopped looking at it altogether. 
+[memo-list was a dumpster fire](https://twitter.com/cra/status/1056671662073171970). I stopped looking at it altogether overnight. Monday morning brought a slew of meeting and all-hands calendar invites. A friend who went through a gnarly acquisition at NetApp calls. He gives some sage advice that calms my nerves but doesn't completely put me at ease. It was a start though so I'm incredibly thankful for that.
+
+The Jim Whitehurst-Ginni Rometty all hands was critically important for both Jim and Ginni to nail in front of the world. Their [CNBC Squawk Box spot](https://www.cnbc.com/video/2018/10/29/watch-the-full-interview-with-ibm-and-red-hat-ceos-on-33-billion-deal.html) was alright but who knew how an auditorium full of Red Hatters would respond.
+
+Jim walks out in his familiar jeans and white button down. Ginni walks out in purple. Turns out that later on in the presentation Arvind Krishna, IBM's SVP of Hybrid Cloud and Director of Research, said he was wearing purple to show cohesion because Red Hat and IBM. Ginni said she didn't even realize she had done it. It was a very human moment.
+
+The all hands itself was good. Ginni donning a red fedora was a very nice touch. A snarky text comes in from a friend afterwards, "Never thought I'd see the day Chris Short worked for IBM." My next all hands was with my business unit leadership. They were very open, honest, and maybe just a smidge too excited. If you're a long time Red Hatter you probably have a lot of stock that's going to vest at a nice premium (even after the acquisition news 50+ point bump). For those of us still reeling from the news itself and what the future may hold I decided to write an e-mail the BU's leadership.
+
+> Thank you for taking the time today to talk and answer our questions. I asked flat out what my number one concern was for Red Hat and that is its people. I know that there is a large chunk of Red Hat, myself included, getting e-mails, phone calls, DMs, etc. this morning. Some of these are congratulatory, more are condolences, and others are flat out, "Are you going to be okay?"
+>
+> The metrics alone show this is a monumental event that could be life-changing. I'm already feeling myself become less open as a result. Contra to Red Hat policies, I am self censoring more so than I have through other acquisitions because this is IBM. I'm sharing press and stories but, I'm not commenting, at all, where normally I would. I have thoughts and opinions on the topic and I'm hesitant to discuss them as I don't know what IBM's reaction will be.
+>
+> Please keep in mind, IBM has been building, for a decade or more, negative thoughts in peoples minds. Their own actions have affected friends and family negatively. I know companies exist to deliver value to investors. But, we live in a very different world. Red Hat was this shining beacon of hope for people. Peoples' hopes and dreams are on uncertain footing now.
+>
+> Some of us now have this fear of an IBM blue washing of Red Hat. Google has shown for years that, psychological safety is important to effective teams (https://rework.withgoogle.com/blog/five-keys-to-a-successful-google-team/). Being as psychologically safe at a company as I am at Red Hat has never happened to me before. It has been liberating. I don't feel safe being as open as I was last week and this is the first twelve hours. Please help folks try to feel safe through this acquisition.
+>
+> Last week, I told a friend I finally found a place to call home in Red Hat. That friend is now trying to recruit me away from Red Hat. As I'm sure you're painfully aware, the industry moves way faster than this acquisition ever will. Please keep that in mind
+>
+> Thank you for your time and leadership.
+
+I think this e-mail captures the reality of Monday. Yes, my natural instinct to self-censor publicly was working overtime. That was likely more legalities, fear, and doubt fueling that. But, this was an emotional and raw morning. A lot of folks around Red Hat were fielding calls on Sunday evening to jump ship. I know what it's like when people are trying to lure you away. It's easy to be lured away from uncertainty (we are humans after all).
 
 ## Conclusion
 
