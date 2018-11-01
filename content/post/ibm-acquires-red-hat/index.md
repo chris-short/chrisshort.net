@@ -12,7 +12,9 @@ imagecap = "IBM to acquire Red Hat for $34 Billion (with a B)"
 
 +++
 
-Since Sunday afternoon I've been in a whirlwind of meetings, discussions, and calls regarding IBM and its planned acquisition of Red Hat for $34 billion dollars. My mind has been racing but, after some consideration I've decided to share my thoughts as a sort of narrative timeline.
+Since Sunday afternoon I've been in a whirlwind of meetings, discussions, and calls regarding IBM and its planned acquisition of Red Hat for $34 billion dollars. My mind has been racing but, after some consideration I've decided to share my thoughts as a sort of narrative timeline. Trust me when say that I have given this format considerable thought. It is likely the safest way (regulatory-wise) to deliver my thoughts on the topic.
+
+I would like to point out that I have updated [my disclaimer and this site's terms](/terms/). My views do not reflect those of my employer or entities I'm affiliated with.
 
 ## "At least it wasn't Oracle"
 
