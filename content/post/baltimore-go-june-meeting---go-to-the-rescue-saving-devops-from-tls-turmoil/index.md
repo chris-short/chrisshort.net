@@ -7,7 +7,7 @@ draft = false
 slug = "baltimore-go-june-meeting---go-to-the-rescue-saving-devops-from-tls-turmoil"
 tags = ["speaking", "talks", "devops", "go", "golang", "baltimore", "tls"]
 title = "Baltimore Go June Meeting - Go to the Rescue: Saving DevOps from TLS Turmoil"
-image = "/baltimore-go-june-meeting---go-to-the-rescue-saving-devops-from-tls-turmoil/This_is_Fine_Gopher.png"
+image = "/bbaltimore-go-june-meeting-go-to-the-rescue-saving-devops-from-tls-turmoil/This_is_Fine_Gopher.png"
 imagecap = "Gopher Art Always Courtesy of [Ashley McNamara](https://github.com/ashleymcnamara/gophers)"
 
 +++
