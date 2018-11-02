@@ -32,15 +32,19 @@ The drive home was filled with nausea and worry. "I should get home and go strai
 
 A friend at Red Hat texts me asking if I'd seen the news. I responded back that I had and wasn't feeling to great about it. You have to understand my experience with IBM. In 2015, I worked for a few weeks at healthcare company that was a $1 billion dollar IBM acquisition. It was a total dumpster fire and IBM knew it. But, Watson Health was the future of IBM, a friend elsewhere in IBM had told me. Long story short, I saw a ton of cracks in the business that was just bought for a ridiculous sum of money. I had to make a decision real quick and got out of Dodge. Earlier this year, [IBM's Watson Health had huge layoffs](https://www.theregister.co.uk/2018/05/25/ibms_watson_layoffs/) and I felt very justified in my decision. My rash decision making might have hurt my career a little. But, I dodged a huge bullet in my first run in as an almost IBM employee. At the end of the brief discussion with my friend he said, "**At least it wasnt Oracle.**" My response, "Yes... I really would have driven off the road then."
 
-## Monday Morning
+## Monday Morning Quarterbacking
 
-[memo-list was a dumpster fire](https://twitter.com/cra/status/1056671662073171970). I stopped looking at it altogether overnight. Monday morning brought a slew of meeting and all-hands calendar invites. A friend who went through a gnarly acquisition at NetApp calls. He gives some sage advice that calms my nerves but doesn't completely put me at ease. It was a start though so I'm incredibly thankful for that.
+> "In 2018, dreams don't die slowly and fade away into nothing. They're nuked from orbit." —Chris Short to a friend
+
+[memo-list was a dumpster fire](https://twitter.com/cra/status/1056671662073171970). I stopped looking at it altogether overnight. Monday morning brought a slew of meeting and all-hands calendar invites. A friend who went through a gnarly acquisition at NetApp calls. But, his Monday morning quarterbacking was pretty accurate. He gives some sage advice that calms my nerves but doesn't completely put me at ease. It was a start to calming down so I'm incredibly thankful for that.
 
 The Jim Whitehurst-Ginni Rometty all hands was critically important for both Jim and Ginni to nail in front of the world. Their [CNBC Squawk Box spot](https://www.cnbc.com/video/2018/10/29/watch-the-full-interview-with-ibm-and-red-hat-ceos-on-33-billion-deal.html) was alright but who knew how an auditorium full of Red Hatters would respond.
 
-Jim walks out in his familiar jeans and white button down. Ginni walks out in purple. Turns out that later on in the presentation Arvind Krishna, IBM's SVP of Hybrid Cloud and Director of Research, said he was wearing purple to show cohesion because Red Hat and IBM. Ginni said she didn't even realize she had done it. It was a very human moment.
+Jim walks out in his familiar jeans and crisp, white button down. Ginni walks out in purple. Turns out that later on in the presentation Arvind Krishna, IBM's SVP of Hybrid Cloud and Director of Research, said he was wearing purple to show cohesion because red and blue make purple. Ginni said she didn't even realize she had done it (but was sure to point it out on [CNBC's Mad Money](https://www.cnbc.com/2018/10/29/ibm-ceo-red-hat-is-a-game-changer-makes-us-no-1-in-hybrid-cloud.html) that night). It was a very human moment.
 
-The all hands itself was good. Ginni donning a red fedora was a very nice touch. A snarky text comes in from a friend afterwards, "Never thought I'd see the day Chris Short worked for IBM." My next all hands was with my business unit leadership. They were very open, honest, and maybe just a smidge too excited. If you're a long time Red Hatter you probably have a lot of stock that's going to vest at a nice premium (even after the acquisition news 50+ point bump). For those of us still reeling from the news itself and what the future may hold I decided to write an e-mail the BU's leadership.
+The all hands itself was good. Ginni donning a red fedora was a very nice touch.  Also, whichever Red Hatter wrote "fuck you" to Jim in the chat during the global all hands, I'm beyond disappointed in you. I pretty much had to close Twitter and avoid memo-list after the event. There was a lot of data and a lot of opinion to A snarky text comes in from a friend afterwards, "Never thought I'd see the day Chris Short worked for IBM." I muted notifications for a while too.
+
+My next all hands was with my business unit leadership. They were very open, honest, and maybe just a smidge too excited. Long time Red Hatters probably have a lot of stock that's going to vest at a nice premium (even after the acquisition news triggered a 50+ point bump). For those of us still reeling from the news itself and what the future may hold I decided to write an e-mail the BU's leadership.
 
 > Thank you for taking the time today to talk and answer our questions. I asked flat out what my number one concern was for Red Hat and that is its people. I know that there is a large chunk of Red Hat, myself included, getting e-mails, phone calls, DMs, etc. this morning. Some of these are congratulatory, more are condolences, and others are flat out, "Are you going to be okay?"
 >
@@ -54,7 +58,11 @@ The all hands itself was good. Ginni donning a red fedora was a very nice touch.
 >
 > Thank you for your time and leadership.
 
-I think this e-mail captures the reality of Monday. Yes, my natural instinct to self-censor publicly was working overtime. That was likely more legalities, fear, and doubt fueling that. But, this was an emotional and raw morning. A lot of folks around Red Hat were fielding calls on Sunday evening to jump ship. I know what it's like when people are trying to lure you away. It's easy to be lured away from uncertainty (we are humans after all).
+I think this e-mail captures the reality of Monday. Yes, my natural instinct to self-censor publicly was working overtime. That was likely more legalities, fear, and doubt fueling that anxiety. It was an emotional and raw morning. A lot of folks around Red Hat were fielding calls on Sunday evening to jump ship. I know what it's like when people are trying to lure you away. It's easy to be lured away from uncertainty (we are humans after all).
+
+The day was pretty much derailed at that point. There wasn't much myself or a lot of others could do but respond to calls from folks and side eye the bejesus out of memo-list.
+
+## 
 
 ## Conclusion
 
