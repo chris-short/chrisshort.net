@@ -7,14 +7,13 @@ draft = false
 slug = "docker-is-dead"
 tags = ["open source", "docker", "containers", "kubernetes", "moby"]
 title = "Docker, Inc is Dead"
-image = "https://cdn.chrisshort.net/docker-is-dead.png"
+image = "/docker-inc-is-dead/docker-is-dead.png"
 aliases = [
     "/docker-is-dead/",
     "/docker-is-dead",
     "/docker-inc.-is-dead",
     "/docker-inc.-is-dead/"
 ]
-
 +++
 
 **DISCLAIMER**: The views expressed in this article are solely mine. They do not reflect the opinion of Cloud Native Computing Foundation (I'm a CNCF ambassador), opensource.com nor Red Hat (I'm an opensource.com community moderator), nor that of any group I am affiliated with or employed by.
@@ -23,9 +22,9 @@ To say that [Docker](https://www.docker.com/) had a very rough 2017 is an unders
 
 Japanese Translation: [Docker社は死んだ](http://itosho525.hatenablog.com/entry/2018/01/01/074358)
 
-> [**Subscribe to DevOps'ish**](/newsletter/) for updates on Docker as well as other DevOps, Cloud Native, and Open Source news.
+<iframe src="https://upscri.be/681a2d?as_embed" height="400" frameborder="0" style="width:100%;max-width:800px;margin:0 auto;"></iframe>
 
-### Docker is Good Software
+## Docker is Good Software
 
 To be clear, Docker has helped revolutionize software development. Taking Linux primitives like cgroups, namespaces, process isolation, etc. and putting them into a single tool is an amazing feat. In 2012, I was trying to figure out how development environments could be more portable. Docker's rise allowed a development environment to become a simple, version controllable Dockerfile. The tooling went from Packer, Vagrant, VirtualBox, and a ton of infrastructure to Docker. The Docker UI is actually pretty good too! It's a good tool with many applications. The folks on the Docker team should be very proud of the tooling they built.
 
@@ -40,7 +39,7 @@ To be clear, Docker has helped revolutionize software development. Taking Linux 
      (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
 
-### Docker is a Silicon Valley Darling
+## Docker is a Silicon Valley Darling
 
 Docker's early success lead to the company building a big community around its product. That early success fueled funding round after funding round. Well known investors like Goldman Sachs, Greylock Partners, Sequoia Capital, and Insight Venture Partners lined up to [give truckloads of money to Docker](https://www.crunchbase.com/organization/docker). To date, Docker has raised capital investments totaling between $242 to over $250 million dollars.
 
@@ -57,13 +56,13 @@ But, like most well funded, win at all cost start-ups of the 2010s, Docker made 
      (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
 
-### Kubernetes Dealt Damage to Docker
+## Kubernetes Dealt Damage to Docker
 
 Docker's doom has been accelerated by the rise of [Kubernetes](https://kubernetes.io/). Docker did itself no favors in its handling of Kubernetes, the open source community's darling container orchestrator. Docker's competing product, Docker Swarm, was the only container orchestrator in Docker's mind. This decision was made despite Kubernetes preferring Docker containers at first. Off the record, Docker Captains confirmed early in 2017 that Kubernetes discussions in articles, at meetups, and at conferences was frowned upon by Docker.
 
 Through dockercon17 in Austin this Kubernetes-less mantra held. Then, rather abruptly, at dockercon EU 17 [Docker decided to go all in on Kubernetes](https://blog.docker.com/2017/10/kubernetes-docker-platform-and-moby-project/). The sudden change was an obvious admission to Kubernetes' rise and impending dominance. This is only exacerbated by the fact that Docker sponsored and had a booth at KubeCon + CloudNativeCon North America 2017.
 
-### Moby?
+## Moby?
 
 No one understood what Docker was doing in April at dockercon17 when it [announced Moby](https://blog.docker.com/2017/04/introducing-the-moby-project/). Moby is described as the new upstream for the Docker project. But, the rollout of Moby was not announced in advance. It was as if millions of voices suddenly cried out in terror when the drastic shift from Docker to Moby occurred on GitHub as Solomon Hykes was speaking at dockercon17. This drastic and poorly thought through change [required intervention from GitHub staff directly](https://www.theregister.co.uk/2017/04/21/docker_renames_open_source_code_moby/).
 
@@ -80,7 +79,7 @@ Not only was the change managed poorly, the messaging was given little considera
      (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
 
-### The Cold Embrace of Kubernetes
+## The Cold Embrace of Kubernetes
 
 Docker's late and awkward embrace of Kubernetes at the last possible moment is a sign of an impending downfall. When asked if Docker Swarm was dead, Solomon Hykes tweeted, "[Docker will continue to support both Kubernetes and Swarm as first-class citizens, and encourage cross-pollination. Openness and choice create a healthier ecosystem for everyone.](https://twitter.com/solomonstre/status/941080802607222784)" The problem here is that Docker Swarm isn't fully baked and is quite far from it. The Docker Swarm product team and its handful of open source contributors will not be able to keep up with the Kubernetes community. As good as the Docker UI is the Kubernetes UI is far superior. It's almost as if Docker is conceding itself to being a marginal consulting firm in the container space.
 
@@ -95,7 +94,7 @@ Docker's late and awkward embrace of Kubernetes at the last possible moment is a
      (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
 
-### Conclusion
+## Conclusion
 
 The real problem with Docker is a lack of coherent leadership. There appears to have been a strategic focus around a singular person in the organization. This individual has been pushed further and further away from the core of the company but still remains. The company has reorganized and has shifted its focus to the enterprise. This shift makes sense for Docker's investors (the company does have a fiduciary responsibility after all). But, this shift is going to reduce the brand's cool factor that fueled its wild success. It is said that, "Great civilizations are not murdered. They commit suicide." Docker has done just that.
 
