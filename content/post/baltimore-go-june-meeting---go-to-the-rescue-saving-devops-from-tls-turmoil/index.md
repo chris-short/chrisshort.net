@@ -7,14 +7,14 @@ draft = false
 slug = "baltimore-go-june-meeting---go-to-the-rescue-saving-devops-from-tls-turmoil"
 tags = ["speaking", "talks", "devops", "go", "golang", "baltimore", "tls"]
 title = "Baltimore Go June Meeting - Go to the Rescue: Saving DevOps from TLS Turmoil"
-image = "/bbaltimore-go-june-meeting-go-to-the-rescue-saving-devops-from-tls-turmoil/This_is_Fine_Gopher.png"
+image = "/baltimore-go-june-meeting-go-to-the-rescue-saving-devops-from-tls-turmoil/This_is_Fine_Gopher.png"
 imagecap = "Gopher Art Always Courtesy of [Ashley McNamara](https://github.com/ashleymcnamara/gophers)"
 
 +++
 
 I was in the DC metro area when I received an e-mail about the [Baltimore Go Meetup](https://www.meetup.com/BaltimoreGolang/) happening on June 5th. Since I was nearby, I decided to go ahead and RSVP to the event. I mentioned this on Twitter and shortly thereafter [Johnny Boursiquot wondered if I could speak](https://twitter.com/jboursiquot/status/1003733156871237633).
 
-> [**Subscribe to DevOps'ish**](/newsletter/) for updates on DevOps, Cloud Native, and Open Source news.
+<iframe src="https://upscri.be/681a2d?as_embed" height="400" frameborder="0" style="width:100%;max-width:800px;margin:0 auto;"></iframe>
 
 Of course I said yes. I was [already doing a talk that morning at DevNationFederal](/devnationfederal-2018-devops-is-not-war/). What's another talk in the evening? I'd move heaven and earth for Johnny. His diversity and inclusion efforts are th enormous cherry on top of his substantial contributions to the Go community.
 

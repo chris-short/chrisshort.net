@@ -14,6 +14,8 @@ imagecap = "IBM to acquire Red Hat for $34 Billion (with a B)"
 
 Since Sunday afternoon, I've been in a whirlwind of meetings, discussions, and calls about IBM's plan to acquire Red Hat for $34 billion. My mind has been racing but, after some consideration, I've decided to share my thoughts as a narrative timeline. Trust me when say that I have given this format considerable thought. It is likely the safest way (regulatory-wise) to deliver my thoughts on the topic.
 
+<iframe src="https://upscri.be/681a2d?as_embed" height="400" frameborder="0" style="width:100%;max-width:800px;margin:0 auto;"></iframe>
+
 I would like to point out that I have updated [my **disclaimer** and this site's terms](/terms/). My views do not reflect those of my employer or entities I'm affiliated with. Names are withheld for obvious reasons.
 
 ## "At least it wasn't Oracle"

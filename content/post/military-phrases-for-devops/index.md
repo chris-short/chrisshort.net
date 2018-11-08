@@ -16,7 +16,7 @@ An edited version of this article was originally written for opensource.com: [5 
 
 The U.S. military is known for quite a few things, including its excessive and fascinating use of acronyms, euphemisms, and colorful phrases to describe certain situations. But many of these terms are applicable to other areas of life, including many non-military jobs. These are a few phrases I think crossover between both DevOps and the armed forces.
 
-> [**Subscribe to DevOps'ish**](/newsletter/) for updates on DevOps, Cloud Native, and Open Source news.
+<iframe src="https://upscri.be/681a2d?as_embed" height="400" frameborder="0" style="width:100%;max-width:800px;margin:0 auto;"></iframe>
 
 ## Good Idea Fairy
 

@@ -48,7 +48,7 @@ Having an outline is important when writing any work. It doesn't have to be fanc
     * Metadata?
 * Conclusion (The Big Takeaway)
 
-> [**Subscribe to DevOps'ish**](/newsletter/) for updates on DevOps, Cloud Native, and Open Source news.
+<iframe src="https://upscri.be/681a2d?as_embed" height="400" frameborder="0" style="width:100%;max-width:800px;margin:0 auto;"></iframe>
 
 In general, *try* to make three main topic points with no more than three subpoints under them. There is some science behind the [rule of three](https://en.wikipedia.org/wiki/Rule_of_three_(writing)) in writing. Credit to [Dawn Parzych](https://youtu.be/Mg9kexS6B30) for pointing this out at DevOpsDays NYC 2018. When doing a deep dive document or article feel free to break this model as needed. But, in general, try to stick to a shorter format for easier consumption.
 

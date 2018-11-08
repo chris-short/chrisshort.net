@@ -29,6 +29,8 @@ A few things have bothered me the past couple of weeks about how Americans "resp
 
 One thing that I don't recall being a thing until recently is veterans in civilian clothes saluting during the national anthem. As a matter of fact, this wasn't allowed until 2008 when a provision was included in the National Defense Authorization Act of 2008 (further modified in 2009). I get it, it's law, you can do it if you so desire (I won't judge you for it). It's not necessary though.
 
+<iframe src="https://upscri.be/681a2d?as_embed" height="400" frameborder="0" style="width:100%;max-width:800px;margin:0 auto;"></iframe>
+
 Why render a salute as opposed to putting your hand over your heart? What's *your* reason for doing that? To self-identify as a veteran? Are you seeking recognition or special treatment? I didn't serve to be recognized for it. I joined because of the dot-com bubble burst. I continued serving because I wanted to make sure the perpetrators, planners, and networks behind the 9/11 attacks were brought to justice. If you feel like you deserve recognition or special treatment because you served it's quite possible you served for the wrong reasons.
 
 <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
@@ -45,8 +47,6 @@ Why render a salute as opposed to putting your hand over your heart? What's *you
 Another thing that irked me, I haven't quite been able to put my finger on why either, was at Aubree's graduation, all veterans were asked to stand up and be recognized. While I appreciated the thought, I did not stand up. That was neither the time nor the place to be recognized. It was a time to honor my daughter's tremendous accomplishments, not my own.
 
 I feel that as a veteran the last thing I should do is act as if I'm deserving of something. I don't "deserve" to be treated for my injuries. It should just happen, period. I shouldn't have to fight for access to treatments, yet I have to. I shouldn't have to live in constant pain, yet I do. I shouldn't have to decide between spending time with family and treating my injuries, yet I do.
-
-> [**Subscribe to DevOps'ish**](/newsletter/) for updates on DevOps, Cloud Native, and Open Source news.
 
 There is one thing that irritates me about veteran conduct today. The use of your rank after service. Retirees are allowed to use their rank after service. According to the [Department of Defense](https://kb.defense.gov/PublicQueries/publicQuestions/FaqsAnswer.jsp?Subject=Use%20of%20Military%20Rank%20by%20Retired%20Service%20Members&FaqID=202&nHit=0), "When military titles are used by members to sign their names to documents that pertain to them personally, they must show that they are in a retired status after the grade."
 

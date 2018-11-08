@@ -14,7 +14,7 @@ imagecap = "Photo Courtesy of [Kim McMahon](https://twitter.com/kamcmahon)"
 
 If you read [DevOps'ish](https://devopsish.com/077/), you already know I spoke at [ChefConf 2018](https://chefconf.chef.io/). I was able to meet 1,400 new friends while I was in Chicago (not really but kinda). I presented my talk, DevOps is Not War to a standing room only audience.
 
-> [**Subscribe to DevOps'ish**](/newsletter/) for updates on DevOps, Cloud Native, and Open Source news.
+<iframe src="https://upscri.be/681a2d?as_embed" height="400" frameborder="0" style="width:100%;max-width:800px;margin:0 auto;"></iframe>
 
 From a speaker's perspective, I have never felt more prepared for a talk. There were speaker office hours every week for 10 weeks before the event to address any questions we may have had. On top of that, [Anna Boynton](http://messageglue.com/), was available to all speakers to coach us through some of our not so great points. Anna looked at video from DevOpsDays Atlanta 2018 to help me hone the talk to a very tight time slot while hitting every main point needed.
 
