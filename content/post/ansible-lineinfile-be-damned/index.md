@@ -4,7 +4,7 @@ categories = ["Ansible"]
 date = 2016-09-06T16:30:00Z
 description = "Ansible lineinfile module is a cumbersome one to work. Here is a use case and examples of how to utilize Ansible lineinfile"
 draft = false
-image = "https://cdn.chrisshort.net/Ansible-Mark-Large-RGB-Black.png"
+image = "/ansible-lineinfile-be-damned/Ansible-Mark-Large-RGB-Black.png"
 slug = "ansible-lineinfile-be-damned"
 tags = ["ansible", "lineinfile", "module", "security"]
 title = "Ansible lineinfile be damned"
@@ -19,6 +19,14 @@ The [Ansible](/tags/ansible/) [lineinfile](http://docs.ansible.com/ansible/linei
 
 Most people on IRC (#ansible) tend to agree, lineinfile is not a very good module in practice. Even [Brain Coca says to avoid the lineinfile module](https://groups.google.com/d/msg/ansible-project/vjquGCRcLJc/QEgebch_DQAJ). But, there is one use case I have found where line in file really excels.
 
+<iframe src="https://upscri.be/681a2d?as_embed" height="400" frameborder="0" style="width:100%;max-width:800px;margin:0 auto;"></iframe>
+
+If you are not using the [Mozilla SSL Configuration Generator](https://mozilla.github.io/server-side-tls/ssl-config-generator/) you are really missing out. It is a great tool that is super easy to use to maintain [recommended SSL/TLS configurations](https://wiki.mozilla.org/Security/Server_Side_TLS#Recommended_configurations) on all your HTTP endpoints.
+
+We recently had a task to get our TLS configurations up to the latest recommended guidance as well as make those configurations as consistent as possible. But this meant we had to touch over 900 different customer impacting Apache configurations.
+
+Ansible to the rescue! But making and deploying templated configurations was going to be far too time-consuming to meet the self-imposed deadline we had set. This is the first time in my 2+ years of working with Ansible where I have come across a good use case for the lineinfile module.
+
 <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 <!-- chrisshort.net Responsive -->
 <ins class="adsbygoogle"
@@ -29,14 +37,6 @@ Most people on IRC (#ansible) tend to agree, lineinfile is not a very good modul
 <script>
    (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
-
-If you are not using the [Mozilla SSL Configuration Generator](https://mozilla.github.io/server-side-tls/ssl-config-generator/) you are really missing out. It is a great tool that is super easy to use to maintain [recommended SSL/TLS configurations](https://wiki.mozilla.org/Security/Server_Side_TLS#Recommended_configurations) on all your HTTP endpoints.
-
-We recently had a task to get our TLS configurations up to the latest recommended guidance as well as make those configurations as consistent as possible. But this meant we had to touch over 900 different customer impacting Apache configurations.
-
-> [**Subscribe to DevOps'ish**](/newsletter/) for updates on Ansible as well as other DevOps, Cloud Native, and Open Source news.
-
-Ansible to the rescue! But making and deploying templated configurations was going to be far too time-consuming to meet the self-imposed deadline we had set. This is the first time in my 2+ years of working with Ansible where I have come across a good use case for the lineinfile module.
 
 There are only a handful of lines in the Apache configs that we needed to worry about two of which were already present and two of which that needed to be added:
 
