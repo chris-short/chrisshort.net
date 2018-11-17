@@ -9,7 +9,7 @@ tags = ["kubernetes", "Michigan", "talks", "Detroit", "cron", "cron jobs"]
 title = "Detroit Kubernetes:  Kubernetes Cron Jobs"
 image = "https://cdn.chrisshort.net/detroit-kubernetes-apr-2018-cron-jobs.png"
 aliases = [
-    "/detroit-kubernetes--kubernetes-cron-job/"
+    "detroit-kubernetes--kubernetes-cron-jobs"
 ]
 
 +++
