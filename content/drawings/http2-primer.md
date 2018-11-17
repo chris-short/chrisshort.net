@@ -1,12 +1,12 @@
 +++
 author = "Chris Short"
-categories = ["HTTP/2"]
+categories = ["HTTP2"]
 date = 2016-11-16T13:15:00Z
 description = ""
 draft = false
 image = "/drawings/chrome-devtools-h2.png"
 slug = "http2-primer"
-tags = ["HTTP/2", "drawing"]
+tags = ["HTTP2", "drawing"]
 title = "HTTP/2 Primer"
 aliases = [
     "http2-primer",

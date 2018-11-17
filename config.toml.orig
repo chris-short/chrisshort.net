@@ -1,37 +1,32 @@
 baseurl = "https://chrisshort.net"
 DefaultContentLanguage = "en"
-title = "chrisshort.net"
+enableemoji = "true"
+title = "Chris Short"
 theme = "beautifulhugo"
 metaDataFormat = "yaml"
-pygmentsStyle = "trac"
-pygmentsUseClasses = true
-pygmentsCodeFences = true
-pygmentsCodefencesGuessSyntax = true
-#pygmentsUseClassic = true
-#pygmentOptions = "linenos=inline"
-#disqusShortname = "XXX"
+#disqusShortname = "chrisshort"
 googleAnalytics = "UA-4498776-3"
-paginate = 4
+pygmentsCodeFences = true
+pygmentsUseClasses = true
+paginate = 6
 
 [permalinks]
   post = ":title/"
 
+#[taxonomies]
+#  category = "tags"
+
 [Params]
-  homeTitle = "Chris Short" # Set a different text for the header on the home page
-  subtitle = "Red Hat Ansible | CNCF Ambassador | DevOps | opensource.com Community Moderator | Writes DevOps'ish | Partially Disabled USAF Veteran | He/Him"
-  logo = "img/chrisshort.net.png" # Expecting square dimensions
-  favicon = "favicons/favicon.ico"
+  UseChroma = true
+  subtitle = "Red Hat Ansible | CNCF Ambassador | DevOps | opensource.com Community Moderator | Writes devopsish.com | Partially Disabled USAF Veteran | He/Him"
+  description = "Red Hat Ansible | CNCF Ambassador | DevOps | opensource.com Community Moderator | Writes devopsish.com | Partially Disabled USAF Veteran | He/Him"
+  logo = "/img/chrisshort.net.png"
+  favicon = "/favicons/favicon.ico"
   dateFormat = "January 2, 2006"
-  commit = false
+#  commit = "https://github.com/chris-short/chrisshort.net/tree/"
   rss = true
-  comments = false
-  readingTime = true
-  wordCount = true
-  useHLJS = false
-  socialShare = true
-  delayDisqus = true
-  showRelatedPosts = true
-  gcse = "partner-pub-8972983586873269:7437701092" # Get your code from google.com/cse. Make sure to go to "Look and Feel" and change Layout to "Full Width" and Theme to "Classic"
+  comments = true
+#  gcse = "8972983586873269:7437701092" # Get your code from google.com/cse. Make sure to go to "Look and Feel" and change Layout to "Full Width" and Theme to "Classic"
 
 #[[Params.bigimg]]
 #  src = "img/triangle.jpg"
@@ -39,41 +34,66 @@ paginate = 4
 #[[Params.bigimg]]
 #  src = "img/sphere.jpg"
 #  desc = "Sphere"
-#  # position: see values of CSS background-position.
-#  position = "center top"
 #[[Params.bigimg]]
 #  src = "img/hexagon.jpg"
 #  desc = "Hexagon"
 
 [Author]
   name = "Chris Short"
-  # website = "chrisshort.net"
   email = "chris@chrisshort.net"
-  facebook = "thechrisshort"
-  # googleplus = "+username" # or xxxxxxxxxxxxxxxxxxxxx
+#  facebook = "thechrisshort"
+#  googleplus = "+ChrisShort" # or xxxxxxxxxxxxxxxxxxxxx
   github = "chris-short"
   gitlab = "chrisshort"
-  # bitbucket = "username"
   twitter = "ChrisShort"
-  reddit = "oaf357"
+#  reddit = "oaf357"
   linkedin = "thechrisshort"
   medium = "@chrisshort"
-  # xing = "username"
-  # stackoverflow = "users/XXXXXXX/username"
-  # snapchat = "username"
+#  tumblr = "chrisshort"
+#  xing = "username"
+#  stackoverflow = "users/XXXXXXX/username"
+#  snapchat = "oaf357"
   instagram = "thechrisshort"
-  # youtube = "user/username" # or channel/channelname
-  # soundcloud = "username"
-  spotify = "chris.short"
+#  500px = "chrisshort"
+  flickr = "chris-short"
+#  youtube = "user/username" # or channel/channelname
   soundcloud = "chris-short-15"
-  producthunt = "@chrisshort"
-  # bandcamp = "username"
-  # itchio = "username"
-  # vk = "username"
-  # paypal = "username"
-  telegram = "ChrisShort"
-  # 500px = "username"
+#  twitch = "thechrisshort"
   keybase = "chrisshort"
+#  producthunt = "@chrisshort"
+#  spotify = "username"
+#  bandcamp = "username"
+#  itchio = "username"
+#  vk = "username"
+#  paypal = "username"
+  telegram = "ChrisShort"
+#  buymeacoffee = "ChrisShort"
+
+[related]
+# Only include matches with rank >= threshold. This is a normalized rank between 0 and 100.
+threshold = 75
+
+# To get stable "See also" sections we, by default, exclude newer related pages.
+includeNewer = true
+
+# Will lower case keywords in both queries and in the indexes.
+toLower = false
+
+[[related.indices]]
+name = "keywords"
+weight = 150
+[[related.indices]]
+name  = "author"
+toLower = true
+weight = 30
+[[related.indices]]
+name  = "tags"
+weight = 100
+[[related.indices]]
+name  = "date"
+weight = 10
+pattern = "2006"
+  
 
 [[menu.main]]
     identifier = "menu"
@@ -84,6 +104,11 @@ paginate = 4
     name = "Home"
     url = "/"
     weight = 1
+
+[[menu.main]]
+    name = "Newsletter"
+    url = "/newsletter/"
+    weight = 10
 
 [[menu.main]]
     name = "About"
@@ -112,12 +137,6 @@ paginate = 4
     name = "CFPs"
     url = "/cfp/"
     weight = 891
-
-[[menu.main]]
-    parent = "menu"
-    name = "Newsletter"
-    url = "/newsletter/"
-    weight = 10
 
 [[menu.main]]
     parent = "menu"

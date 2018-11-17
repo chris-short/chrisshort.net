@@ -1,4 +1,4 @@
-baseurl = "https://chrisshort.net"
+baseurl = "https://preview.chrisshort.net"
 DefaultContentLanguage = "en"
 title = "chrisshort.net"
 theme = "beautifulhugo"
@@ -47,7 +47,7 @@ paginate = 4
 
 [Author]
   name = "Chris Short"
-  # website = "chrisshort.net"
+  website = "chrisshort.net"
   email = "chris@chrisshort.net"
   facebook = "thechrisshort"
   # googleplus = "+username" # or xxxxxxxxxxxxxxxxxxxxx

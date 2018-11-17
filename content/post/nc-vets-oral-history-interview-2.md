@@ -12,7 +12,7 @@ aliases = ["nc-vets-oral-history-interview-2"]
 
 +++
 
-As part of a North Carolina State Archives initiative to obtain oral histories of veterans I volunteered to be interviewed for the [North Carolina Veterans Oral History Collection](http://archives.ncdcr.gov/Public/Collections/Non-Government/Military-Collections/Oral-Histories). I was interviewed by Matthew Peek, Military Collection Archivist for the North Carolina Department of Natural and Cultural Resources (later referred to as **MP**).
+As part of a North Carolina State Archives initiative to obtain oral histories of veterans I volunteered to be interviewed for the [North Carolina Veterans Oral History Collection](https://archives.ncdcr.gov/researchers/collections/military-collections/veterans-oral-history-program). I was interviewed by Matthew Peek, Military Collection Archivist for the North Carolina Department of Natural and Cultural Resources (later referred to as **MP**).
 
 The interview was well worth the time it took to coordinate and conduct it. I would encourage all North Carolina veterans to contact Matthew and provide their unique story for preservation.
 
