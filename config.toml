@@ -121,6 +121,12 @@ paginate = 4
 
 [[menu.main]]
     parent = "menu"
+    name = "Projects"
+    url = "/projects/"
+    weight = 11
+
+[[menu.main]]
+    parent = "menu"
     name = "Résumé/CV"
     url = "/resume-cv/"
     weight = 30

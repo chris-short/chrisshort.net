@@ -1,4 +1,4 @@
-baseurl = "https://preview.chrisshort.net"
+baseurl = "https://chrisshort.net"
 DefaultContentLanguage = "en"
 title = "chrisshort.net"
 theme = "beautifulhugo"
@@ -47,7 +47,7 @@ paginate = 4
 
 [Author]
   name = "Chris Short"
-  website = "chrisshort.net"
+  # website = "chrisshort.net"
   email = "chris@chrisshort.net"
   facebook = "thechrisshort"
   # googleplus = "+username" # or xxxxxxxxxxxxxxxxxxxxx
@@ -118,6 +118,12 @@ paginate = 4
     name = "Newsletter"
     url = "/newsletter/"
     weight = 10
+
+[[menu.main]]
+    parent = "menu"
+    name = "Projects"
+    url = "/projects/"
+    weight = 11
 
 [[menu.main]]
     parent = "menu"
