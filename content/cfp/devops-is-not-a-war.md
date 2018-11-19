@@ -9,7 +9,9 @@ tags = ["devops", "culture", "thucydides", "thucydides trap", "cfp"]
 title = "DevOps is Not War"
 aliases = [
     "/cfp/devops-as-a-war-crime",
-    "/cfp/devops-is-not-a-war"
+    "/cfp/devops-is-not-a-war",
+    "cfp/devops-as-a-war-crime",
+    "cfp/devops-is-not-a-war"
 ]
 
 +++
