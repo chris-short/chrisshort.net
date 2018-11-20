@@ -26,7 +26,7 @@ The [opensource.com DevOps Community](https://opensource.com/devops-team) and [T
 
 To discuss attracting talent I brough in a fantastic recruiter to bounce questions off of; [Ken M. Middleton](https://kenmmiddleton.com/). I met Ken during [my job search last year](/leaving-bankrate/). He's a pretty awesome person and one of the only recruiters I can legitimately recommend for DevOps folks.
 
-> [**Subscribe to DevOps'ish**](/newsletter/) for updates on DevOps, Cloud Native, and Open Source news.
+{{< upscribe >}}
 
 I'm proud of this piece of work. Please check it out and let me know what you think:  
 [**The DevOps Hiring Guide**](https://opensource.com/downloads/devops-hiring-guide/toc)

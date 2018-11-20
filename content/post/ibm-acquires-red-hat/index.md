@@ -14,7 +14,7 @@ imagecap = "IBM to acquire Red Hat for $34 Billion (with a B)"
 
 Since Sunday afternoon, I've been in a whirlwind of meetings, discussions, and calls about IBM's plan to acquire Red Hat for $34 billion. My mind has been racing but, after some consideration, I've decided to share my thoughts as a narrative timeline. Trust me when say that I have given this format considerable thought. It is likely the safest way (regulatory-wise) to deliver my thoughts on the topic.
 
-<iframe src="https://upscri.be/681a2d?as_embed" height="400" frameborder="0" style="width:100%;max-width:800px;margin:0 auto;"></iframe>
+{{< upscribe >}}
 
 I would like to point out that I have updated [my **disclaimer** and this site's terms](/terms/). My views do not reflect those of my employer or entities I'm affiliated with. Names are withheld for obvious reasons.
 
@@ -39,7 +39,7 @@ I opened Gmail so I could see what Red Hat's stream of consciousness (aka memo-l
 
 It was an odd feeling. Like, maybe I could have said something knowing it wouldn't have mattered. It was a sensation of not even getting a chance to do something. In the span of 24 minutes, I went from having a pretty great day to having what was akin to a panic attack.
 
-<iframe src="https://upscri.be/681a2d?as_embed" height="400" frameborder="0" style="width:100%;max-width:800px;margin:0 auto;"></iframe>
+{{< upscribe >}}
 
 "I have to get home," I thought to myself. I made a hasty goodbye to the family and walk out the door. I sent the [IBM press release](https://newsroom.ibm.com/2018-10-28-IBM-To-Acquire-Red-Hat-Completely-Changing-The-Cloud-Landscape-And-Becoming-Worlds-1-Hybrid-Cloud-Provider) to my boss to make sure she knew. I didn't know why I was driving home but, home was also the office and it felt like the right thing to do. If push came to shove I could get people up to speed as they popped up online.
 
@@ -152,4 +152,4 @@ A huge thanks to all the wonderful people I've talked to this week. You've made 
 
 Make no mistake, this is a historic moment. Whether it's the beginning or the end of a history is the big question.
 
-> [**Subscribe to DevOps'ish**](/newsletter/) for updates on DevOps, Cloud Native, and Open Source news.
+{{< upscribe >}}

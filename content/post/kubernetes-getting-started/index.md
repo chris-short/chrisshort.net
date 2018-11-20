@@ -24,7 +24,7 @@ Getting Started with [Kubernetes](https://kubernetes.io/) sounds like quite a da
    (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
 
-<iframe src="https://upscri.be/681a2d?as_embed" height="400" frameborder="0" style="width:100%;max-width:800px;margin:0 auto;"></iframe>
+{{< upscribe >}}
 
 ## ELI5
 

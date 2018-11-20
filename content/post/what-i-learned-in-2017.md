@@ -17,7 +17,7 @@ A former co-worker and now friend used to have a tagline, "Everyday is a school 
 
 As I predicted, [2017 was the Year of Kubernetes](/what-i-learned-in-2016/). One thing the open source community made clear was that Kubernetes is where infrastructure is heading. According to many people I talked to in 2017, running vanilla Kubernetes in production is difficult. In 2018, the community will need to get people trained to operationalize Kubernetes. The Cloud Native Computing Foundation has acknowledged this in creating [Kubernetes Certifications](https://www.cncf.io/announcement/2017/11/13/cloud-native-computing-foundation-launches-certified-kubernetes-program-32-conformant-distributions-platforms/). I also think the meteoritic rise of [**Heptio**](https://heptio.com/) points to this gap in the Kubernetes ecosystem. Effort is being made but, there need to be folks spearheading Ops-minded thinking in the Kubernetes community.
 
-> [**Subscribe to DevOps'ish**](/newsletter/) for updates on DevOps, Cloud Native, and Open Source news.
+{{< upscribe >}}
 
 ### DevOps Needs Another Good Story
 
@@ -65,4 +65,4 @@ I have found that while I love staying very busy, speaking at conferences, trave
 
 2017 was not a great year for me. But it was filled with many discoveries and adventures. I am very optimistic that 2018 will be a stellar, adventure filled year. At the very least, I will create the balance that I am looking for between family, work, and community involvement. Stick around for the ride, it'll be a lot of fun!
 
-> [**Subscribe to DevOps'ish**](/newsletter/) for updates on DevOps, Cloud Native, and Open Source news.
+{{< upscribe >}}

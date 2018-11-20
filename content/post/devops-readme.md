@@ -49,7 +49,7 @@ After [DevOpsDays Raleigh 2017](https://www.devopsdays.org/events/2017-raleigh/w
 * Quip: You're DevOps'ing if you quote this book.
 * URL: https://itrevolution.com/book/the-devops-handbook/
 
-> [**Subscribe to DevOps'ish**](/newsletter/) for updates on DevOps, Cloud Native, and Open Source news.
+{{< upscribe >}}
 
 ## The Twelve-Factor App
 
@@ -206,4 +206,4 @@ After [DevOpsDays Raleigh 2017](https://www.devopsdays.org/events/2017-raleigh/w
 
 "You are either building a learning organization or you will be losing to someone who is." --Andrew Clay Shafer
 
-> [**Subscribe to DevOps'ish**](/newsletter/) for updates on DevOps, Cloud Native, and Open Source news.
+{{< upscribe >}}

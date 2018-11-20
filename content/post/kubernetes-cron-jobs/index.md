@@ -13,7 +13,7 @@ image = "/kubernetes-cron-jobs/kubernetes-wall-clock.jpg"
 
 One of the reasons I stood up a [Kubernetes cluster on Raspberry Pis](/my-raspberry-pi-kubernetes-cluster/) in my house was because of the savings I wanted to gain by not running high-available, redundant infrastructure in the cloud. Kubernetes provides high-availability by design. It's pretty awesome the possibilities that exist given this capability. Need a web server to constantly run? Build a container and throw it in the Kubernetes cluster. Need a service available all the time? Package it and ship it to the Kubernetes cluster.
 
-<iframe src="https://upscri.be/681a2d?as_embed" height="400" frameborder="0" style="width:100%;max-width:800px;margin:0 auto;"></iframe>
+{{< upscribe >}}
 
 ## Legacy Systems
 

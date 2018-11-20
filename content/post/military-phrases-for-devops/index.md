@@ -16,7 +16,7 @@ An edited version of this article was originally written for opensource.com: [5 
 
 The U.S. military is known for quite a few things, including its excessive and fascinating use of acronyms, euphemisms, and colorful phrases to describe certain situations. But many of these terms are applicable to other areas of life, including many non-military jobs. These are a few phrases I think crossover between both DevOps and the armed forces.
 
-<iframe src="https://upscri.be/681a2d?as_embed" height="400" frameborder="0" style="width:100%;max-width:800px;margin:0 auto;"></iframe>
+{{< upscribe >}}
 
 ## Good Idea Fairy
 
@@ -45,7 +45,7 @@ It's much better to get a function or system deployed early and have it lying in
 
 Much like getting a group of people to a certain place at a certain time requires more time the more people there are, the same holds true for code. The more code you try to deploy at once, the longer it takes. Make sure you are breaking down work in progress to the smallest possible unit.
 
-> [**Subscribe to DevOps'ish**](/newsletter/) for updates on DevOps, Cloud Native, and Open Source news.
+{{< upscribe >}}
 
 ## Embrace The Suck
 
@@ -85,7 +85,7 @@ Be mindful of how your quick hack has to be fed and cared for before rolling it 
 
 "You can only expect what you inspect" often refers to a leader's expectations versus the inevitable reality. If there is an expectation that something is done a certain way, be sure to periodically check that it was done right (or at all). For DevOps, consistently check that outcomes are improving business metrics and providing value. Don't assume that processes are running when you think they are; monitor them. Don't assume users will use a tool in a certain way, observe feature usage. Assumptions are an enemy in DevOps organizations, so make sure to eliminate them through inspection.
 
-> [**Subscribe to DevOps'ish**](/newsletter/) for updates on DevOps, Cloud Native, and Open Source news.
+{{< upscribe >}}
 
 ## "The standard you walk past is the standard you accept."
 
