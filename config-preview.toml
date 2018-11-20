@@ -1,4 +1,4 @@
-baseurl = "https://chrisshort.net"
+baseurl = "https://preview.chrisshort.net"
 DefaultContentLanguage = "en"
 title = "chrisshort.net"
 theme = "beautifulhugo"
