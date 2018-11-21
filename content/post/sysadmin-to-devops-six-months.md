@@ -20,9 +20,9 @@ I had more than ten minutes worth of thoughts pop into my head within seconds of
 
 ## What is DevOps?
 
-Many in the DevOps world are hesitant to define what DevOps actually is. There are also many people trying to define DevOps that sometimes miss the mark. For the sake of this discussion, DevOps is a culture! The DevOps culture is a combination of three key pieces that further define it: [*People, Processes, and Tools*](https:///the-dark-side-of-devops/). Let's discuss how these three pieces can mold a good System Administrator into a DevOps engineer.
+Many in the DevOps world are hesitant to define what DevOps actually is. There are also many people trying to define DevOps that sometimes miss the mark. For the sake of this discussion, DevOps is a culture! The DevOps culture is a combination of three key pieces that further define it: [*People, Processes, and Tools*](/the-dark-side-of-devops/). Let's discuss how these three pieces can mold a good System Administrator into a DevOps engineer.
 
-{{< adsense-inarticle >}
+{{< adsense-inarticle >}}
 
 ### People
 
@@ -32,13 +32,13 @@ It takes a willingness that is often hard to force someone to do. You can incent
 
 Taking pride in one's work is also another characteristic needed in a good DevOps personality. A good SysAdmin taking ownership in their work elevates them. Knowing their solution will be improved upon over time by others prevents engineers from taking too much pride in their work. Giving a sense of ownership in driving solutions to problems is a key thing leadership can provide to a DevOps engineer. If an engineer has an idea they are passionate about, let them work on it. The engineer might not have the expertise others on the team have but try your best not to tamp the fire of passion.
 
-{{< adsense-inarticle >}
+{{< adsense-inarticle >}}
 
 Empathy is another key trait in a good DevOps personality. It is hard to measure and even harder to invoke in others. If you hear team members suggesting to others to think of an issue from the customer's perspective, they are likely ready to work in DevOps spaces. Empathy for solving others' problems goes a long way in the DevOps space. DevOps personalities must be able to empathize with the business as well. This means your product and project managers need to be aware of what the goals of DevOps are.
 
 A sure-fire way to kill any chance of developing empathy is to throw an engineer into the deep end of the pool. As suggested in Google's book, [Site Reliability Engineering](http://landing.google.com/sre/book/chapters/accelerating-sre-on-call.html), "This 'trial by fire' method of orienting one's newbies is often born out of a team's current environment." You are trying to change your environment and your people into proactive, forward thinking, DevOps-minded engineers. Dropping your people into a firefight is never a good idea.
 
-{{< adsense-inarticle >}
+{{< adsense-inarticle >}}
 
 ### Processes
 
@@ -46,7 +46,7 @@ How do you teach someone a process that they don't know and they aren't practici
 
 Implementing the automation-first process is hard when development and test environments don't exist. The only solution to that problem is to build them. The environments must be as close to production as possible. Humans are very fallible and slow. This only increases the importance of automation being baked in as a process and a way of thinking. If something is being done it deserves to use the automation frameworks you have implemented, period. One-off changes cannot exist and should be mitigated during the automation framework rollout. There is no chicken, no egg; only automation.
 
-{{< adsense-inarticle >}
+{{< adsense-inarticle >}}
 
 [Infrastructure as Code](https://en.wikipedia.org/wiki/Infrastructure_as_Code) is a concept that successful DevOps practices need to embrace to be successful. Having configuration and implementation laid out in common, domain specific languages managed by version control is imperative to the automation process. This enables team members to monitor, implement, and manage changes to all environments and systems. The dev/test/prod environment methodology combined with Infrastructure as Code allows for consistency throughout the environment and minimizes mistakes entering production.
 
@@ -57,7 +57,7 @@ If your aspiring engineer needs a nudge in the right direction on processes, enc
 
 People learn in different ways. These two books provide a story and a guide in different, digestible formats. This will expose them to the concepts and thought processes required to embrace everyday DevOps processes. Concepts like tracking and automating work, making smaller changes more often, tightening feedback loops, and continuous learning are processes that are best explained by a third party. 
 
-{{< adsense-inarticle >}
+{{< adsense-inarticle >}}
 
 ### Tools
 
