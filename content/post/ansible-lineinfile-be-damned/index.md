@@ -115,4 +115,4 @@ This playbook took a while to run but once it was done we had consistent, well c
 
 UPDATE: Thanks to [pferde on Hacker News](https://news.ycombinator.com/item?id=12435809) for pointing out a flaw in my regex in insertafter for the Edit SSLProtocol task. It has been corrected.
 
-> [**Subscribe to DevOps'ish**](/newsletter/) for updates on Ansible as well as other DevOps, Cloud Native, and Open Source news.
+{{< upscribe >}}

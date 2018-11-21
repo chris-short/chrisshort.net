@@ -16,16 +16,7 @@ After [DevOpsDays Raleigh 2017](https://www.devopsdays.org/events/2017-raleigh/w
 
 <embed src="https://cdn.chrisshort.net/DevOps%20README.md.pdf" width="640" height="360" alt="pdf" />
 
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<!-- chrisshort.net Responsive -->
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-8972983586873269"
-     data-ad-slot="1297095894"
-     data-ad-format="auto"></ins>
-<script>
-   (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+{{< adsense-inarticle >}}
 
 # DevOps README.md
 
@@ -49,8 +40,6 @@ After [DevOpsDays Raleigh 2017](https://www.devopsdays.org/events/2017-raleigh/w
 * Quip: You're DevOps'ing if you quote this book.
 * URL: https://itrevolution.com/book/the-devops-handbook/
 
-{{< upscribe >}}
-
 ## The Twelve-Factor App
 
 * [https://12factor.net/](https://12factor.net/)
@@ -59,6 +48,8 @@ After [DevOpsDays Raleigh 2017](https://www.devopsdays.org/events/2017-raleigh/w
 * Pros: Free; Up-to-date; Roadmap
 * Cons: State has to exist somewhere; lightly addressed
 * Quip: If apps only had 12 factors...
+
+{{< upscribe >}}
 
 ## Release It!
 
@@ -89,6 +80,8 @@ After [DevOpsDays Raleigh 2017](https://www.devopsdays.org/events/2017-raleigh/w
 * Quip: Google SRE is proof setting a pile of money on fire is a viable solution to engineering problems.
 * URL: https://landing.google.com/sre/
 
+{{< adsense-inarticle >}}
+
 ## The Art of Monitoring
 
 * Opinionated HOWTO implementation guide to monitoring at scale
@@ -109,17 +102,6 @@ After [DevOpsDays Raleigh 2017](https://www.devopsdays.org/events/2017-raleigh/w
 * Quip: Effectiveness is a good thing!
 * URL: http://shop.oreilly.com/product/0636920039846.do
 
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<!-- chrisshort.net Responsive -->
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-8972983586873269"
-     data-ad-slot="1297095894"
-     data-ad-format="auto"></ins>
-<script>
-   (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 ## Enterprise DevOps Playbook
 
 * Roadmap for building a successful DevOps org
@@ -128,6 +110,8 @@ After [DevOpsDays Raleigh 2017](https://www.devopsdays.org/events/2017-raleigh/w
 * Cons: Missing some pieces to the puzzle
 * Quip: Yes! Enterprise and DevOps can work together... Somehow.
 * URL: http://www.oreilly.com/webops-perf/free/enterprise-devops-playbook.csp
+
+{{< adsense-inarticle >}}
 
 ## The Open Organization Guide to IT Culture Change
 
@@ -184,7 +168,7 @@ After [DevOpsDays Raleigh 2017](https://www.devopsdays.org/events/2017-raleigh/w
 * Cons: None given the scope
 * TED Talk: [How to make stress your friend](https://www.ted.com/talks/kelly_mcgonigal_how_to_make_stress_your_friend)
 * Quip: If stress is good for me I'm going to live forever.
-* URL: https://smile.amazon.com/gp/product/1583335617/
+* URL: https://amzn.to/2DNU1Lf
 
 ## The End of Heaven: Disaster and Suffering in a Scientific Age
 

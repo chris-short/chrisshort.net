@@ -12,7 +12,7 @@ aliases = ["sysadmin-to-devops-six-months"]
 
 +++
 
-The other day my Vice President asked me a question, "What would it take to turn a good SysAdmin into a DevOps engineer?" He followed it up with, "Don't spend more than ten minutes thinking about it." He was not disappointed when I told him the next day I am spending way more than ten minutes on answering the question. This is a hard question for me to answer. This is a question that you won't know if your answer is right for at least six months.
+The other day my Vice President asked me a question, "What would it take to turn a good SysAdmin into a [DevOps](https://devopsish.com/) engineer?" He followed it up with, "Don't spend more than ten minutes thinking about it." He was not disappointed when I told him the next day I am spending way more than ten minutes on answering the question. This is a hard question for me to answer. This is a question that you won't know if your answer is right for at least six months.
 
 {{< upscribe >}}
 
@@ -22,16 +22,7 @@ I had more than ten minutes worth of thoughts pop into my head within seconds of
 
 Many in the DevOps world are hesitant to define what DevOps actually is. There are also many people trying to define DevOps that sometimes miss the mark. For the sake of this discussion, DevOps is a culture! The DevOps culture is a combination of three key pieces that further define it: [*People, Processes, and Tools*](https:///the-dark-side-of-devops/). Let's discuss how these three pieces can mold a good System Administrator into a DevOps engineer.
 
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<!-- chrisshort.net Responsive -->
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-8972983586873269"
-     data-ad-slot="1297095894"
-     data-ad-format="auto"></ins>
-<script>
-   (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+{{< adsense-inarticle >}
 
 ### People
 
@@ -41,20 +32,13 @@ It takes a willingness that is often hard to force someone to do. You can incent
 
 Taking pride in one's work is also another characteristic needed in a good DevOps personality. A good SysAdmin taking ownership in their work elevates them. Knowing their solution will be improved upon over time by others prevents engineers from taking too much pride in their work. Giving a sense of ownership in driving solutions to problems is a key thing leadership can provide to a DevOps engineer. If an engineer has an idea they are passionate about, let them work on it. The engineer might not have the expertise others on the team have but try your best not to tamp the fire of passion.
 
+{{< adsense-inarticle >}
+
 Empathy is another key trait in a good DevOps personality. It is hard to measure and even harder to invoke in others. If you hear team members suggesting to others to think of an issue from the customer's perspective, they are likely ready to work in DevOps spaces. Empathy for solving others' problems goes a long way in the DevOps space. DevOps personalities must be able to empathize with the business as well. This means your product and project managers need to be aware of what the goals of DevOps are.
 
 A sure-fire way to kill any chance of developing empathy is to throw an engineer into the deep end of the pool. As suggested in Google's book, [Site Reliability Engineering](http://landing.google.com/sre/book/chapters/accelerating-sre-on-call.html), "This 'trial by fire' method of orienting one's newbies is often born out of a team's current environment." You are trying to change your environment and your people into proactive, forward thinking, DevOps-minded engineers. Dropping your people into a firefight is never a good idea.
 
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<!-- chrisshort.net Responsive -->
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-8972983586873269"
-     data-ad-slot="1297095894"
-     data-ad-format="auto"></ins>
-<script>
-   (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+{{< adsense-inarticle >}
 
 ### Processes
 
@@ -62,25 +46,18 @@ How do you teach someone a process that they don't know and they aren't practici
 
 Implementing the automation-first process is hard when development and test environments don't exist. The only solution to that problem is to build them. The environments must be as close to production as possible. Humans are very fallible and slow. This only increases the importance of automation being baked in as a process and a way of thinking. If something is being done it deserves to use the automation frameworks you have implemented, period. One-off changes cannot exist and should be mitigated during the automation framework rollout. There is no chicken, no egg; only automation.
 
+{{< adsense-inarticle >}
+
 [Infrastructure as Code](https://en.wikipedia.org/wiki/Infrastructure_as_Code) is a concept that successful DevOps practices need to embrace to be successful. Having configuration and implementation laid out in common, domain specific languages managed by version control is imperative to the automation process. This enables team members to monitor, implement, and manage changes to all environments and systems. The dev/test/prod environment methodology combined with Infrastructure as Code allows for consistency throughout the environment and minimizes mistakes entering production.
 
 If your aspiring engineer needs a nudge in the right direction on processes, encourage them to read two books:
 
-* [The Phoenix Project: A Novel about IT, DevOps, and Helping Your Business Win](https://smile.amazon.com/Phoenix-Project-DevOps-Helping-Business/dp/0988262592)
-* [The DevOps Handbook: How to Create World-Class Agility, Reliability, and Security in Technology Organizations](https://smile.amazon.com/DevOps-Handbook-World-Class-Reliability-Organizations-ebook/dp/B01M9ASFQ3)
+* [The Phoenix Project: A Novel about IT, DevOps, and Helping Your Business Win](https://amzn.to/2DBVoM3)
+* [The DevOps Handbook: How to Create World-Class Agility, Reliability, and Security in Technology Organizations](https://amzn.to/2DBARXO)
 
 People learn in different ways. These two books provide a story and a guide in different, digestible formats. This will expose them to the concepts and thought processes required to embrace everyday DevOps processes. Concepts like tracking and automating work, making smaller changes more often, tightening feedback loops, and continuous learning are processes that are best explained by a third party. 
 
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<!-- chrisshort.net Responsive -->
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-8972983586873269"
-     data-ad-slot="1297095894"
-     data-ad-format="auto"></ins>
-<script>
-   (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+{{< adsense-inarticle >}
 
 ### Tools
 
@@ -93,10 +70,10 @@ Tools that enable collaboration and increase communication amongst your DevOps t
 
 Continuous Improvement applies not only to systems and code but to people too. It's logical to mention some continuous improvement tools for DevOps practitioners. Encouraging engineers to attend Meetups is helpful for them to learn things that are outside of their sphere of influence. Attending and speaking at conferences (for example, [DevOpsDays](https://www.devopsdays.org/)) should be encouraged as well. Culture is as much about community as it individuals within it; DevOps is no different.
 
-Reading newsletters cultivated by active community members (not product makers) can be helpful for continuous learning (shameless plug for [DevOps'ish](https://devopsish.com/)). Technical news sites like [lobste.rs](https://lobste.rs/), [Hacker News](https://news.ycombinator.com/) (don't read the comments), [Twitter (#DevOps)](https://twitter.com/hashtag/DevOps), etc. are also helpful at pushing new concepts to engineers. Books are fabulous resources but, there are so many they cannot be consumed in their entirety. Engineers will often have books as a reference for when needed. A subscription to O'Reilly's Safari would enable your engineers to have access to a world's worth of information for a marginal fee. It also removes some financial burden from your engineers as they look to build their libraries.
+Reading newsletters cultivated by active community members (not product makers) can be helpful for continuous learning (shameless plug for [DevOps'ish](https://devopsish.com/)). Technical news sites like [lobste.rs](https://lobste.rs/), [Hacker News](https://news.ycombinator.com/) (don't read the comments), [Twitter (#DevOps)](https://twitter.com/hashtag/DevOps), [DevOps Newsletters](https://devopsnewsletters.com/), etc. are also helpful at pushing new concepts to engineers. Books are fabulous resources but, there are so many they cannot be consumed in their entirety. Engineers will often have books as a reference for when needed. A subscription to O'Reilly's Safari would enable your engineers to have access to a world's worth of information for a marginal fee. It also removes some financial burden from your engineers as they look to build their libraries.
 
 ## Conclusion
 
-The DevOps journey is a combination of people, processes, and tools. The culmination of these is a team of allies pushing the envelope and never resting on their laurels. There is no such thing as a completed DevOps transition. Resting on your laurels is not a DevOps mindset. DevOps and its allies should be iterating and improving upon what they have learned daily. Building a team to do anything is no simple task. But, building a person that's willing to embrace cultures and methods is an easier task. Show them a path, help them go down it, and embrace their feedback. 
+The [DevOps](https://devopsish.com/) journey is a combination of people, processes, and tools. The culmination of these is a team of allies pushing the envelope and never resting on their laurels. There is no such thing as a completed DevOps transition. Resting on your laurels is not a DevOps mindset. DevOps and its allies should be iterating and improving upon what they have learned daily. Building a team to do anything is no simple task. But, building a person that's willing to embrace cultures and methods is an easier task. Show them a path, help them go down it, and embrace their feedback. 
 
 {{< upscribe >}}

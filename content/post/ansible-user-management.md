@@ -21,7 +21,7 @@ A few weeks ago, one of my [**DevOps**](https://devopsish.com/) counterparts was
 
 User management usually falls into one of two categories; disjointed or a monumental effort. This Ansible solution could be that nice middle ground between the disjointed and monumental.
 
-> [**Subscribe to DevOps'ish**](/newsletter/) for updates on Ansible as well as other DevOps, Cloud Native, and Open Source news.
+{{< upscribe >}}
 
 There are probably a dozen or more ways to manage users with Ansible. But for the quick and dirty requirement to add specific (and intelligent) users, I believe this Ansible role is a good approach.
 
