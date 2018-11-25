@@ -19,7 +19,7 @@ The [Ansible](/tags/ansible/) [lineinfile](http://docs.ansible.com/ansible/linei
 
 Most people on IRC (#ansible) tend to agree, lineinfile is not a very good module in practice. Even [Brain Coca says to avoid the lineinfile module](https://groups.google.com/d/msg/ansible-project/vjquGCRcLJc/QEgebch_DQAJ). But, there is one use case I have found where line in file really excels.
 
-<iframe src="https://upscri.be/681a2d?as_embed" height="400" frameborder="0" style="width:100%;max-width:800px;margin:0 auto;"></iframe>
+{{< upscribe >}}
 
 If you are not using the [Mozilla SSL Configuration Generator](https://mozilla.github.io/server-side-tls/ssl-config-generator/) you are really missing out. It is a great tool that is super easy to use to maintain [recommended SSL/TLS configurations](https://wiki.mozilla.org/Security/Server_Side_TLS#Recommended_configurations) on all your HTTP endpoints.
 
@@ -115,4 +115,4 @@ This playbook took a while to run but once it was done we had consistent, well c
 
 UPDATE: Thanks to [pferde on Hacker News](https://news.ycombinator.com/item?id=12435809) for pointing out a flaw in my regex in insertafter for the Edit SSLProtocol task. It has been corrected.
 
-> [**Subscribe to DevOps'ish**](/newsletter/) for updates on Ansible as well as other DevOps, Cloud Native, and Open Source news.
+{{< upscribe >}}

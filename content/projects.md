@@ -38,6 +38,8 @@ A small Go app designed specifically to help troubleshoot certificate chains. A 
 
 What to read to learn more about DevOps.
 
+{{< youtube Ibnj-YZTypU >}}
+
 ## [DevOps Newsletters](https://devopsnewsletters.com/)
 
 DevOps Newsletters is an idea that sprung out of an opensource.com article: [16 blogs and newsletters to follow for DevOps practitioners](https://opensource.com/article/18/6/devops-blogs-newsletters-follow)

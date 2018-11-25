@@ -29,7 +29,7 @@ A few things have bothered me the past couple of weeks about how Americans "resp
 
 One thing that I don't recall being a thing until recently is veterans in civilian clothes saluting during the national anthem. As a matter of fact, this wasn't allowed until 2008 when a provision was included in the National Defense Authorization Act of 2008 (further modified in 2009). I get it, it's law, you can do it if you so desire (I won't judge you for it). It's not necessary though.
 
-<iframe src="https://upscri.be/681a2d?as_embed" height="400" frameborder="0" style="width:100%;max-width:800px;margin:0 auto;"></iframe>
+{{< upscribe >}}
 
 Why render a salute as opposed to putting your hand over your heart? What's *your* reason for doing that? To self-identify as a veteran? Are you seeking recognition or special treatment? I didn't serve to be recognized for it. I joined because of the dot-com bubble burst. I continued serving because I wanted to make sure the perpetrators, planners, and networks behind the 9/11 attacks were brought to justice. If you feel like you deserve recognition or special treatment because you served it's quite possible you served for the wrong reasons.
 
@@ -69,7 +69,7 @@ But, here is the thing that really gets my ire up. "Thank you for your service."
 
 Yelling out, "Thank you for your service!" might feel good in the moment, it is the only thing I hear anymore. Everyone says, "Thank you for your service," it's cliche at this point. Ask me where I served, what I did, when was I in, anything. Don't check a box of political correctness and move on.
 
-> [**Subscribe to DevOps'ish**](/newsletter/) for updates on DevOps, Cloud Native, and Open Source news.
+{{< upscribe >}}
 
 Have a meaningful moment with the veterans you encounter; not just a platitude. If you have opinions, share them. To us, it feels like we sacrificed normalcy while the civilians went shopping and drank Starbucks. Put some significance for us into the moment.
 

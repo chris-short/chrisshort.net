@@ -130,7 +130,7 @@ UPDATE 10 JULY 2005: I have a few more tidbits of information for those that sti
 
     ... About one in every fifteen people who come in contact with [Human Service Alliance] senses there is more to the group than meets the eye. These people are gradually introduced to the group's teachings, first through Lackey's book. Discoveries of the Inquiring Mind, and then through the teachings of Alice Bailey and various Hindu sources. Eventually they would be invited to the top floor of the HSA's center, a Siva temple (not open to outsiders) where simple but regular rituals honoring the deities are performed, along with meditations and chanting. ...
 
-Discoveries of the Inquiring Mind can be found on [Amazon](http://www.amazon.com/gp/product/0931029007)
+Discoveries of the Inquiring Mind can be found on [Amazon](https://amzn.to/2FxTcHW)
 
 2) Also, a lot of people have been making comments about Derwyn Lackey; allow me to put a face with the name:
 

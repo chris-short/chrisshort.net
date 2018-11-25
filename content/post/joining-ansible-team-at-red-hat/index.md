@@ -18,7 +18,7 @@ imagecap = ""
 
 In 1998, I was working at a dial-up ISP in Hickory, NC. We were heavily invested in Windows and needed to reduce costs and increase speed. My CEO at the time had the foresight to know that Linux was the future. She hired two engineers to transform the business into a Red Hat Linux based ISP. These engineers had the challenge of swapping platforms and teaching those of us that didn't abandon ship Linux. My first Linux distro was [Red Hat Linux 5](https://en.wikipedia.org/wiki/Red_Hat_Linux) (not RHEL, Red Hat Linux). From that point on, I knew Red Hat was a platform to watch and utilize.
 
-<iframe src="https://upscri.be/681a2d?as_embed" height="400" frameborder="0" style="width:100%;max-width:800px;margin:0 auto;"></iframe>
+{{< upscribe >}}
 
 When the [Dot-com bubble](https://en.wikipedia.org/wiki/Dot-com_bubble) began to burst and trouble loomed on the horizon for tech jobs, I joined the US Air Force. Soon after arriving at my first duty station, I was asked to take part in an exercise, [JEFX 2000](https://en.wikipedia.org/wiki/JEFX). During one of the experiments, I set up a Red Hat-based distro to monitor network device activity. This might have been the first use of Linux in the Air Force (confirming that is difficult). As the Red Teams worked their magic we were able to watch spikes in activity across the network in real-time on a Red Hat Linux-based system.
 
@@ -45,7 +45,7 @@ We began the process of getting our deployment processes into Ansible's syntax. 
 
 I think it's safe to say that Ansible has made me who I am today. It showed me that you can learn more with a quiet office and a use case than you can with weeks in schools. This is how I picked up [Kubernetes](/tags/kubernetes/) and it'll be how I pick up every other piece of tech I learn in the future. But, Ansible also gave me a tool to help implement the processes people in DevOps organizations needed. Some people don't believe in a process until someone shows them how the automation around it actually works. Ansible allowed me to show folks what a few policy changes and some automation could do.
 
-> [**Subscribe to DevOps'ish**](/newsletter/) for updates on DevOps, Cloud Native, and Open Source news.
+{{< upscribe >}}
 
 ## Challenges Ahead
 
@@ -72,4 +72,4 @@ Most importantly, I want to facilitate more collaboration between all the projec
 
 I would like to thank Karen Lawton and John Willis of [SJ Technologies](http://sjtechcorp.com). They brought me on board to help a few clients and I feel like I was able to accomplish that in six short months. Thank you to the DevOps community for embracing me in a way that few other communities have. I might not be as active on the DevOpsDays speaking circuit but, I'll definitely be around (and will still be submitting CFPs as appropriate). Most importantly, thank you to Justin Nemmers and all my new colleagues at Red Hat. I am looking forward to working with you all. I think this is a fantastic fit!
 
-> [**Subscribe to DevOps'ish**](/newsletter/) for updates on DevOps, Cloud Native, and Open Source news.
+{{< upscribe >}}

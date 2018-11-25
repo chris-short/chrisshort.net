@@ -46,7 +46,7 @@ The last part of the talk we point people to some tips and tricks to help them o
 
 <iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fjhibbets%2Fvideos%2F10215153138403454%2F&show_text=0&width=267" width="267" height="476" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allowFullScreen="true"></iframe>
 
-> [**Subscribe to DevOps'ish**](/newsletter/) for updates on DevOps, Cloud Native, and Open Source news.
+{{< upscribe >}}
 
 ## Thoughts on Diversity at Open Source 101
 
@@ -67,4 +67,4 @@ One thing I wanted to point out about Open Source 101 was the fact I felt like a
 
 I look forward to seeing what [Open Source 101 Columbia](http://opensource101.com/columbia/) brings. I also have a feeling that All Things Open is going to be absolutely awesome this year too. There are still tickets available for the Open Source 101 event in Columbia, SC in April. Grab some tickets and come experience a truly unique phenomenon with me!
 
-> [**Subscribe to DevOps'ish**](/newsletter/) for updates on DevOps, Cloud Native, and Open Source news.
+{{< upscribe >}}

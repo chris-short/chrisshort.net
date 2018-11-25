@@ -23,4 +23,4 @@ Also available as an [MP3 download](https://cdn.chrisshort.net/The%20Cloudcast%2
 
 Subscribe to The Cloudcast; they're good people.
 
-> [**Subscribe to DevOps'ish**](/newsletter/) for updates on DevOps, Cloud Native, and Open Source news.
+{{< upscribe >}}

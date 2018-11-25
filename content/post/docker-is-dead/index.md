@@ -22,7 +22,7 @@ To say that [Docker](https://www.docker.com/) had a very rough 2017 is an unders
 
 Japanese Translation: [Docker社は死んだ](http://itosho525.hatenablog.com/entry/2018/01/01/074358)
 
-<iframe src="https://upscri.be/681a2d?as_embed" height="400" frameborder="0" style="width:100%;max-width:800px;margin:0 auto;"></iframe>
+{{< upscribe >}}
 
 ## Docker is Good Software
 

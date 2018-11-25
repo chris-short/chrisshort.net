@@ -36,4 +36,4 @@ Something I learned by giving this talk is that discussing personal experiences 
 
 These slides are also available on [Speaker Deck](https://speakerdeck.com/chrisshort/the-dark-side-of-devops) and [video is also available](/video-devopsdays-raleigh-2017/).
 
-> [**Subscribe to DevOps'ish**](/newsletter/) for updates on DevOps, Cloud Native, and Open Source news.
+{{< upscribe >}}
