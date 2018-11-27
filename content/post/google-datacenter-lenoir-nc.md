@@ -13,6 +13,8 @@ image = "https://cdn.chrisshort.net/Google_2007.png"
 
 Good news for the Unifour area of North Carolina (where I lived three years of my early adult life), Google is building a 210 job, $600 million dollar datacenter to help bolster its online offerings.
 
+{{< mc >}}
+
 [Google Taps North Carolina for New Datacenter Site](https://www.ecommercetimes.com/story/55266.html) (E-Commerce Times):
 
 >Google plans to build a new, US$600 million datacenter in North Carolina designed to help support its online operations, the company announced Friday.
@@ -31,20 +33,13 @@ Good news for the Unifour area of North Carolina (where I lived three years of m
 >
 >"North Carolina is a desirable area because costs and wages are lower, yet they have a base of skilled, technologically savvy employees they can draw from," Greg Sterling, principal analyst at Sterling Market Intelligence, told the E-Commerce Times.
 
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<!-- chrisshort.net Responsive -->
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-8972983586873269"
-     data-ad-slot="1297095894"
-     data-ad-format="auto"></ins>
-<script>
-   (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+{{< adsense-inarticle >}}
 
 When I was in my senior year of high school in North Carolina I worked for an Internet Service Provider in Hickory, NC. The technology industry was booming in that region with four local ISPs grappling for more customers, Alcatel producing their products like no tomorrow, and Siecor was pumping out miles and miles of new fiber optic cabling for its customers. Then the dot-com bubble burst came and almost as quickly as those major businesses had grown they fizzled.
 
 I for one can attest to the severe hurt the loss of the furniture and textile industry has had on that area of North Carolina. I graduated from Hickory High School mere minutes away from Lenoir, North Carolina where a Boyles furniture manufacturing facility now sits dormant right off of Highway 321. Not too long after the technology companies left the region, the archaic North Carolina furniture manufacturing industry started to tank. Companies were losing money year after year and their employee wages were still increasing and bonuses were still being handed out. Bad business practices affected the textile industry as well and many companies that were household names in North and South Carolina closed up shop as well.
+
+{{< adsense-inarticle >}}
 
 The news of Google setting up shop in the region is very good. A new, more stable technology boom is exactly what that region needs. A major blue chip tech leader will significantly help North Carolina highlight what the region has to offer as far as infrastructure and work force.
 

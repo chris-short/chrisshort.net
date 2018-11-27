@@ -17,6 +17,8 @@ aliases = [
 
 Most of us probably knew this already but Internet Explorer (IE) is one of the most unsecured browsers on the planet. Last year alone, it was unsecure for 284 according to a Washington Post article by Brian Krebs.
 
+{{< mc >}}
+
 [Washington Post: "Internet Explorer unsafe for 284 days in 2006"](https://arstechnica.com/information-technology/2007/01/6498/) (Ars Technica)
 
 >Security Fix spent the past several weeks compiling statistics on how long it took some of the major software vendors to issue patches for security flaws in their products. Since Windows is the most-used operating system in the world, it makes sense to lead off with data on Microsoft's security updates in 2006.
@@ -33,15 +35,6 @@ Most of us probably knew this already but Internet Explorer (IE) is one of the m
 >
 >In contrast, Internet Explorer's closest competitor in terms of market share — Mozilla's Firefox browser — experienced [a single period lasting just nine days](http://forums.mozillazine.org/viewtopic.php?t=408603) last year in which exploit code for a serious security hole was posted online before Mozilla shipped a patch to remedy the problem.
 
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<!-- chrisshort.net Responsive -->
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-8972983586873269"
-     data-ad-slot="1297095894"
-     data-ad-format="auto"></ins>
-<script>
-   (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+{{< adsense-inarticle >}}
 
 That is one thing that I will give Microsoft credit for, at least they admit they have security issues in their software these days. Ten years ago, Microsoft would have laughed in Mr. Krebs' face and sent him on his way. Additionally, Firefox's security is unsurpassed. I remember the mentioned nine day period and a few people I knew thought the sky was falling. However, when you compare 284 days versus nine days that's a pretty damn secure web browser.

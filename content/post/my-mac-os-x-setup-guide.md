@@ -13,16 +13,7 @@ title = "My Mac OS X Setup Guide"
 
 I happen to be someone that finds themselves setting up new systems for myself often. I have to remind myself there are tools that I need installed before the scenario in which I need to use them (on an airplane, during a crisis, etc.). I use a Mac so this list of software and setup is going to be very Mac OS X centric.
 
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<!-- chrisshort.net Responsive -->
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-8972983586873269"
-     data-ad-slot="1297095894"
-     data-ad-format="auto"></ins>
-<script>
-   (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+{{< mc >}}
 
 **From the web:**
 
@@ -55,16 +46,7 @@ I happen to be someone that finds themselves setting up new systems for myself o
 * [Telegram](https://desktop.telegram.org/)
 * [VLC](http://www.videolan.org/)
 
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<!-- chrisshort.net Responsive -->
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-8972983586873269"
-     data-ad-slot="1297095894"
-     data-ad-format="auto"></ins>
-<script>
-   (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+{{< adsense-inarticle >}}
 
 **From the Mac App Store:**
 
@@ -88,3 +70,5 @@ I happen to be someone that finds themselves setting up new systems for myself o
 The majority of my time is spent in iTerm and Google Chrome. Google Chrome backs up my extensions, settings, etc. but iTerm does not have a reliable backup or sync solution. As a result I save the iTerm com.googlecode.iterm2.plist file to Google Drive. That way it is constantly synced to a cloud source.
 
 I spend a lot of time in vim as well. As a result, I update [my .vimrc file](https://github.com/chris-short/.files/blob/master/.vimrc) accordingly. I have an [Ansible Playbook to update vim settings](https://github.com/chris-short/.files/blob/master/vimrc_playbook) as I like a specific color scheme. I try to stray from defaults as little as possible but it happens.
+
+{{< adsense-matched >}}

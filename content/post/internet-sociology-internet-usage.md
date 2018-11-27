@@ -12,34 +12,18 @@ title = "Internet Sociology and Internet Usage"
 
 For many years now I've had the belief that Internet sociology exists. The belief came to light during my tenure as the webmaster for SanTech Computer Services. Everyone has their own personality, patterns, tendencies and so forth, this also holds true for Internet usage. Everyone uses the Internet differently. For some, their Internet use revolves around their life. For others, their life revolves around their Internet use. Then for a very small percentage of Internet users, their life and their Internet use form a somewhat symbiotic relationship where the individual has actually gotten to the point of incorporating a lifestyle that includes Internet usage to improve upon that lifestyle. The Internet itself also has its own patterns. These patterns are more noticeable on a local level but global patterns can be identified as well.
 
+{{< mc >}}
+
 The majority of people that use the Internet are the ones where Internet usage is dictated by everything else they're doing. They are the ones that check their e-mail, get stock quotes, do research, etc. when time allots for it. They're the ones who have Internet accounts that rarely get used and seldom spend more than an hour online at any given time. These individuals make up the majority of Internet users and probably have the lowest amount of Internet usage of the three "classes" mentioned earlier. This class represents a rather necessary aspect of the Internet in the sense that the majority of the content on World Wide Web sites is driven towards them. Most successful web sites are designed to keep people on them as long as possible. These individuals do contribute some content to the Internet however and that makes them even more vital.
 
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<!-- chrisshort.net Responsive -->
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-8972983586873269"
-     data-ad-slot="1297095894"
-     data-ad-format="auto"></ins>
-<script>
-   (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 A small percentage (but significant enough to mention) of people are driven by the Internet and their usage of it. These are what Internet Service Providers consider their regular customers. They're not regular because they constantly e-mail or call their ISP; they're regulars because they are constantly online. They freely abuse copyright policies by obtaining software, music, and other electronic medium illegally. They often violate terms of services of web sites and their ISPs. These violations are typically minor and are usually over looked by ISPs and webmasters all together. It doesn't make it right, but these rules and laws are typically in place to prevent significant abuse. These people are more rule benders and are definitely not criminals. They make up a vast majority of total bandwidth used by people on the Internet. These individuals often contribute content to the Internet in the form of communications through message boards, chat rooms and IRC channels, e-mail, guestbooks, etc. Some have web sites that they maintain quite well, others are simply leeches that essentially obtain everything they can and give nothing back to the Internet in any way, shape or form. They are however, a vital part of the Internet.
+
+{{< adsense-inarticle >}}
 
 An even smaller percentage of people have formed a bond with the Internet to a certain extent. They use the Internet to benefit their existence and (sometimes) the lives of others. Their use of the Internet could be work related in some cases and they might be making an income for every minute they spend online. This isn't bad. But they try and make the Internet as a whole, a better place in their own way. Some people wake up in the morning, check the weather online and go about their business. These people put the weather online and assist in keeping Internet users informed. These are the information consumers that can form new ideas and products to help benefit everybody. They become models of efficiency. They design start pages that provide them resources they need to get information they want quickly and then kindly keep the pages on their network so that no bandwidth is consumed outside of the network (the Internet). These select people help keep others informed and provide the resources a majority of Internet users want. They are the ones that try and make their life easier by using the Internet to its fullest potential. Yet, it doesn't control their life. They can function without Internet access for extended periods. The Internet can obviously function without them at all. However, the Internet has made a significant change in their day-to-day life and that person loses a tool they utilize on a regular basis when they lose Internet connectivity.
 
 The Internet itself sees spikes and sags in usage globally but these events are more noticeable on a local level. Typically, it depends on time zones. Peak times are often referred to as periods where ISPs are almost at max capacity or when their network utilization is at its highest. These times vary from time zone to time zone obviously but are typically at peaks in the evening hours. Often ISPs notice a significant sag in network utilization after typical business traffic stops and before the peak time begins. This indicates Internet subscribers moving from work to home. There is also a severe sag in utilization in the early morning hours, typically when the majority of users are asleep. There are also seasonal trends. In the US, ISPs notice more Internet usage overall during the summer (kids aren't in school). This usage spikes usually during the last month of summer vacation due to the fact students have reached a point where "there's nothing to do". Also in the US and many other countries there are significant sags in usage during holiday seasons. More recently, ISPs reported a significant (almost record breaking) increase in Internet usage in the hours before and at the onset of the US military's Operation Iraqi Freedom. This indicates that a large number of people are utilizing a computer and the Internet as a means of obtaining up to date, current information when significant global events occur. This could also mean a number of other things but that's not what this article is all about.
 
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<!-- chrisshort.net Responsive -->
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-8972983586873269"
-     data-ad-slot="1297095894"
-     data-ad-format="auto"></ins>
-<script>
-   (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+{{< adsense-inarticle >}}
 
 You can also see these trends on a more global scale as well. Typically, Internet usage in the US is at its peak during daytime hours and shortly after sunset. While other parts of the world will be experiencing a significant sag in Internet usage due to the fact a majority of that part of the world is in bed asleep. A great web site that analyzes global trends in Internet use is the [Internet Traffic Report](http://www.internettrafficreport.com/). Internet Traffic Report also breaks down usage by continent as well. Global trends have fewer spikes and sags. When put to a graph it usually looks like a set of rolling hills. It isn't till you look at specific time zones or networks until you see significant variations in trends.

@@ -10,7 +10,7 @@ title = "Chris Short's Sausage Potato Soup"
 
 +++
 
-**Ingredients**
+## Ingredients
 
 1 lb. Jimmy Dean Sage Pork Sausage *
 1 bag Potatoes O'Brien (bag size depends on how much potato you want)
@@ -23,20 +23,13 @@ title = "Chris Short's Sausage Potato Soup"
 2-3 cups of Milk (depending on how much soup you want)
 Cheddar Cheese (for garnish)
 
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<!-- chrisshort.net Responsive -->
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-8972983586873269"
-     data-ad-slot="1297095894"
-     data-ad-format="auto"></ins>
-<script>
-   (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+{{< mc >}}
 
-**Directions**
+## Directions
 
 Start heating up your Crock Pot. Add water (or wine instead, just be sure to wipe the condensation a few times from the lid with a paper towel) and chicken broth to Crock Pot (season to taste**).  Using a microplane or grater, add garlic into Crock Pot.
+
+{{< adsense-inarticle >}}
 
 Heat skillet on medium-high heat; add sausage (season to taste**).  Brown sausage until it crumbles insuring that it is cooked through.  Reserve a tablespoon or two of the drippings.  After you completely cook your sausage drain it well using a suitably sized colander.
 
@@ -46,19 +39,11 @@ Add (preferably room temperature) Potatoes O'Brien to Crock Pot. Stir mixture to
 
 Once the mixture is gently bubbling add the soups and milk. Incorporate all ingredients together well and allow to cook. Stir the soup occasionally to prevent sticking. It can cook for as long as you want but I'd recommend at least four hours after adding soups and milk. Serves 10 hungry folks.
 
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<!-- chrisshort.net Responsive -->
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-8972983586873269"
-     data-ad-slot="1297095894"
-     data-ad-format="auto"></ins>
-<script>
-   (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+### NOTES
 
 * You can use Jimmy Dean Low Fat Sausage if you're watching out for fatty foods.
-
-** Remember that canned soups are usually high in sodium.  Take it easy on the salt when you season your ingredients (not using any salt is just fine for me).
+* Remember that canned soups are usually high in sodium.  Take it easy on the salt when you season your ingredients (not using any salt is just fine for me).
 
 You can take this recipe and go crazy with it.  Want a chowder?  Make a roux and add it after all steps with a bag of corn.  Want to make it in a south of the border manner?  Use chorizo (just make sure to drain it well or you'll be skimming fat off the top).  The possibilities are endless.
+
+{{< adsense-matched >}}

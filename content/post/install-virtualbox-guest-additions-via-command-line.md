@@ -13,16 +13,7 @@ title = "Install VirtualBox Guest Additions via Command Line"
 
 I routinely spin up CentOS virtual machines in VirtualBox. Sometimes they are temporary and others might be around for months. These seemingly throw away VMs utilize the CentOS minimal install ISO for speed of setup (I really should just build a standard starting point VM and clone it as needed but I digress).
 
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<!-- chrisshort.net Responsive -->
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-8972983586873269"
-     data-ad-slot="1297095894"
-     data-ad-format="auto"></ins>
-<script>
-   (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+{{< mc >}}
 
 I understand that installing the VirtualBox guest additions is a nicety for some so you probably rarely do it. But, when I do need to install them, I always seem to forget everything that is needed by the VirtualBox guest additions; I am documenting them here for everyone's benefit.
 
@@ -38,3 +29,5 @@ Install VirtualBox Guest Additions via Command Line (CentOS 6.4):
 Complete! Guest Additions should be installed. It's up to you whether or not you want to remove gcc and make after the Guest Additions are installed. Keep in mind, that when you upgrade VirtualBox you'll need to upgrade the Guest Additions too which means you'll need gcc and make again.
 
 NOTE: The error log is `/var/log/vboxadd-install.log`
+
+{{< adsense-matched >}}

@@ -16,48 +16,21 @@ aliases = [
 
 Allow me to take a moment to inform you about a dark part of my past that I have kept from quite a few people; while I was a child I was an unwilling member of a cult known then as **Human Service Alliance** and after quite a few name changes (to include the **University for Human Goodness**) it is now known as the **Center for Purposeful Living**. I was young and when you're in an environment like that you don't know any better regardless of your age. Shortly after my now disowned biological mother divorced my father she started taking my brother and I to a strange place in Boomer, North Carolina (the then campus of Human Service Alliance). I was so young at the time that I didn't really care where I was but my ultimate goal was to spend time with my father. There were kids at HSA in Boomer, NC and I had people to play with so I was as happy as a boy without a permanent father figure could be.
 
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<!-- chrisshort.net Responsive -->
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-8972983586873269"
-     data-ad-slot="1297095894"
-     data-ad-format="auto"></ins>
-<script>
-   (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+{{< adsense-inarticle >}}
 
 Eventually, Human Service Alliance moved to their current location in Winston-Salem, North Carolina. It was not too long after this move that I realized something was afoot because HSA moving also meant that I was moving. So off I move to Winston-Salem where I lived for quite a few years and over those years the rhetoric of Human Service Alliance grew to an overwhelming level. While living in Winston-Salem and being forced to serve at HSA I was subjected to an unwanted religious based weekend class as well as quite a few significant events that made me learn to dislike the organization now known as the Center for Purposeful Living. Something was very suspicious about the fact that toward the end of my involvement with Human Service Alliance all of the permanent members moved into a subdivision outside of Walkertown, North Carolina. Shortly after my mother moved into this neighborhood I moved in with my father and step-mother in Florida. At first, they encouraged me to have a healthy relationship with my mother; the same mother that had spent years breaking down my respect for her.
 
+{{< mc >}}
+
 My second summer living with my real parents (father and step-mother) it was mutually agreed upon amongst all those involved that I would spend the summer with my biological mother. A lot had happened in that year or so while I was gone. Human Service Alliance had grown its controlling power to an unbelievable level. If I wasn't welcomed at HSA then I wasn't welcomed in my own mother's home. So there I was stuck spending a summer doing what amounted to slave labor for either HSA or my mother and step-father. It got to the point where the supreme being at Human Service Alliance, Derwyn Lackey, realized I was not going to be a helpful influence for the organization and its cause to control my peers and I was shunned from participating in activities such as trips on the board member owned Always Tours. I'm not sure what action gave Derwyn Lackey that impression but I wasn't under his thumb for quite some time and was now back after being out in the real world. At the point I was shunned from the few cool activities HSA did I realized my summer was going to be a battle for my independence from the totalitarian led cult that is Human Service Alliance. I was relegated to doing some of the less desirable tasks around the 15 acre compound and eventually after I was asked never to return HSA I was doing chores such as operating a chainsaw to cut up trees around my biological mother's home (an unsupervised 14-year-old with a chainsaw). That was actually some work that I would now enjoy but then it was a supreme punishment because at that point I was an outcast from HSA and had nothing to do during the days while my mother was hard at work "volunteering" for the cause.
 
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<!-- chrisshort.net Responsive -->
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-8972983586873269"
-     data-ad-slot="1297095894"
-     data-ad-format="auto"></ins>
-<script>
-   (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 Eventually, something happened between my mother and brother and there I was already an outcast from the organization so revered by my mother that she would risk destroying her family for so I chimed in with what I thought of the entire situation (defending my brother). It wasn't long before my real mom and dad extracted me from the situation after that incident. Not too long after that I cut all ties to my biological mother.
+
+{{< adsense-inarticle >}}
 
 Years past and not too long before the birth of my daughter my mother tried to re-establish ties with me. One late night in Virginia I locked myself in a room and called my mother. I informed her that the cult she was in was the reason she wasn't going to have the luxury of communication with me or my new family. She denied the fact that she was in a cult (of course) and at that point I informed my biological mother that she was essentially dead to me.
 
 A few more years go by and she attempts to contact me through this blog (a communiqué that was ignored). Then I'm starting the process of moving from Florida to Colorado and an online contact starts getting inquisitive about my past so I inform that person of my mother's involvement in a cult and how it destroyed her and her family. The online contact asked for more information and that's when I found [a thread on FACTNet regarding the cult activities of Human Service Alliance and the Center for Purposeful Living](http://www.factnet.org/discus/messages/4/3466.html?1118548696). I started interacting with members of the message board and have now decided to blow the whistle on what quite a few people know is a cult and what quite a few people in the Triad area of North Carolina suspect is a cult.
-
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<!-- chrisshort.net Responsive -->
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-8972983586873269"
-     data-ad-slot="1297095894"
-     data-ad-format="auto"></ins>
-<script>
-   (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 The messages and statements on the FACTNet message board have been noticed by the senior leadership at the Center for Purposeful Living and have been responded to via [an FAQ at the Center for Purposeful Living's web site disclaiming the fact that the organization is a cult](http://ufhg.org/data/publications/html/master/SUP-2005_7_2_112920.shtml). What I'm now going to present to you is what is widely considered a "fisking" in the blogging community of that FAQ. It would behoove you to read the FAQ before continuing but it's not required because I will quote what I am responding to:
 
@@ -111,16 +84,7 @@ Obviously that wasn't taken into account during the "service project" I mentione
 
 Then how are you building and upgrading facilities? If that statement is true how much money has gone to other charities since the restaurant opened? I'm sure a substantial sum of those excess revenues have been invested in stocks, bonds, and mutual funds (like the ones listed in the HSA and CPL tax returns; some real blue chip stocks I might add). Also, isn't it true that it has been said that many charities aren't worthy of the money that CPL could donate to them?
 
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<!-- chrisshort.net Responsive -->
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-8972983586873269"
-     data-ad-slot="1297095894"
-     data-ad-format="auto"></ins>
-<script>
-   (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+{{< adsense-inarticle >}}
 
 I'm sure after all of this information I've presented to you might generate questions and/or comments. Please feel free to post those questions and comments. I will answer all the questions I can. If you wish to contact me privately please do so via one of the methods at the bottom of this page.
 
@@ -136,3 +100,5 @@ Discoveries of the Inquiring Mind can be found on [Amazon](https://amzn.to/2FxTc
 
 ![Derwyn Lackey (Derwin Lackey)](/center-for-purposeful-living/derwin-lackey-derwyn-lackey.jpg)
 Derwyn Lackey, Supreme Ruler of the Center for Purposeful Living
+
+{{< adsense-matched >}}

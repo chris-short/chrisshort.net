@@ -13,19 +13,12 @@ title = "Got Badlock? Ansible Can Help"
 
 [Badlock](http://badlock.org/) might not be bad for all. If you are using Ansible you can patch your systems with a single playbook (or ad hoc command).
 
+{{< mc >}}
+
 For RPM based OS users Badlock (samba) patching is as easy as:
 `ansible -m shell -a "yum update *samba*" all`
 
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<!-- chrisshort.net Responsive -->
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-8972983586873269"
-     data-ad-slot="1297095894"
-     data-ad-format="auto"></ins>
-<script>
-   (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+{{< adsense-inarticle >}}
 
 Or you can be very granular and use an Ansible Playbook to audit and patch samba packages:
 <pre><code class="language-yaml">---

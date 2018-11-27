@@ -15,22 +15,13 @@ aliases = [
 
 +++
 
-I had an amazing experience at DevOpsDays NYC 2018. The organizers put together an all-star lineup. You can tell this meant a lot to the organizers by the quality of the event itself; it was top notch. Being a part of the DevOps community is absolutely amazing. I am always thrilled to get invites to DevOpsDays events; they're so well done.
+I had an amazing experience at DevOpsDays NYC 2018. The organizers put together an all-star lineup. You can tell this meant a lot to the organizers by the quality of the event itself; it was top notch. Being a part of the [DevOps](https://devopsish.com) community is absolutely amazing. I am always thrilled to get invites to DevOpsDays events; they're so well done.
 
-{{< upscribe >}}
+{{< mc >}}
 
 I was able to speak about Go and how I used it to save my DevOps ass at Solarwinds MSP. My team of merry DevOps'ers inherited an application. A third-party built the app a few years before we inherited it. The app had been in maintenance mode for quite some time. Before we could do any re-engineering work, we had to resolve a critical issue. The certificates were about to expire!
 
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-8972983586873269"
-     data-ad-slot="4663018952"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+{{< adsense-inarticle >}}
 
 
 This talk walks through the use case of having to apply new certificates to an unfamiliar application. I built a 40-line Go tool to test and audit certifcate chains and web server configurations. I'm not a coder but Go makes me happy and really did save the day.

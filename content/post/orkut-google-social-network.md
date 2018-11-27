@@ -13,18 +13,11 @@ image = "https://cdn.chrisshort.net/Orkut_2004.png"
 
 [orkut.com](http://www.orkut.com/) is a social networking service developed in association with Google. Why the name Orkut? [Orkut Büyükkökten](https://en.wikipedia.org/wiki/Orkut_B%C3%BCy%C3%BCkk%C3%B6kten), a Google employee that has a significant interest in social networking, developed the service. How did Mr. Orkut have time to develop such a project? Google has a creativity policy of sorts that encourages its employees to use 20% of their time for personal interests.
 
+{{< mc >}}
+
 Google has officially stated that orkut.com is not part of their service offerings (yet) but the fact that the phrase, "in affiliation with Google" appears on every page leads one to believe that this social networking service isn't going to spin-off into a non-Google entity any time soon.
 
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<!-- chrisshort.net Responsive -->
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-8972983586873269"
-     data-ad-slot="1297095894"
-     data-ad-format="auto"></ins>
-<script>
-   (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+{{< adsense-inarticle >}}
 
 Google has officially stated that orkut.com is not part of their service offerings (yet) but the fact that the phrase, "in affiliation with Google" appears on every page leads one to believe that this social networking service isn't going to spin-off into a non-Google entity any time soon.
 
@@ -32,20 +25,13 @@ The service is currently in beta (which is also mentioned on every page) and lik
 
 The likely scenario though is that Google will work out the kinks in the service, take user feedback into consideration, and refine the social networking capabilities as well as the interface and push it out as a Google subdomain and an official Google service offering.
 
+{{< adsense-inarticle >}}
+
 Orkut.com has gotten a lot of hype but not for the typical reasons or for obvious reasons like it being in affiliation with Google or just a new social network. The hype around it is due to the fact that the only way to use orkut.com is to be invited into it.
 
 It's rumored that Google initially sent out only 12,000 invitations, which leaves a vast majority of Internet users out in the cold. However, it also allows the Internet cream of the crop to pick and choose who enters Orkut's social network. To rub shoulders with people like [Brett Tabke](https://www.webmasterworld.com/), [Cowboy Neal](https://en.wikipedia.org/wiki/Slashdot), and [Chris Pirillo](https://chris.pirillo.com/) on a regular basis spreads an infectious desire in the mind of a techie to get an invite into orkut.com.
 
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<!-- chrisshort.net Responsive -->
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-8972983586873269"
-     data-ad-slot="1297095894"
-     data-ad-format="auto"></ins>
-<script>
-   (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+{{< adsense-inarticle >}}
 
 There are essentially three purposes that I see people using orkut.com for:
 
@@ -65,3 +51,5 @@ If you would like more information about orkut.com check out these other article
 * [Google Releases Orkut Social Networking Service](https://searchenginewatch.com/sew/news/2066827/google-releases-orkut-social-networking-service) (SearchEngineWatch.com)
 * [Google debuts Friendster-clone Orkut](http://www.theregister.co.uk/2004/01/23/google_debuts_friendsterclone_orkut/) (The Register)
 * [Why Google needs Orkut](http://jeremy.zawodny.com/blog/archives/001504.html) (Jeremy Zawodny's blog)
+
+{{< adsense-matched >}}

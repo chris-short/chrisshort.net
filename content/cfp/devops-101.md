@@ -39,7 +39,7 @@ This meeting will address both issues for both entry level professionals and tho
 
 #### I think this tweet puts to bed some IT misnomers
 
-* https://twitter.com/lemiorhan/status/859158123722010628
+{{< tweet 859158123722010628 >}}
 
 ### What DevOps Isn't (cont'd)
 
@@ -300,7 +300,7 @@ MOVIE CLIP
 
 #### Caveat:
 
-* https://twitter.com/chrisshort/status/861208965610434560
+{{< tweet 861208965610434560 >}}
 
 #### Version Control
 

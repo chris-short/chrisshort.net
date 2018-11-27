@@ -17,20 +17,13 @@ aliases = [
 
 ![DIY Buffer](/drawings/DIY-Buffer.png)
 
+{{< mc >}}
+
 You will need a place to save links like Pocket (Instapaper or any other comparable service that interfaces with IFTTT works).
 
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>  
-<!-- chrisshort.net Responsive -->  
-<ins class="adsbygoogle"  
-     style="display:block"
-     data-ad-client="ca-pub-8972983586873269"
-     data-ad-slot="1297095894"
-     data-ad-format="auto"></ins>
-<script>  
-(adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 Use a Tumblr site to control spacing out your posts throughout the day. Configure Tumblr with a queue that posts content throughout the day (I post fifteen times a day between 8 AM and 8 PM).
+
+{{< adsense-inarticle >}}
 
 Connect Pocket to Tumblr with IFTTT. Your applet or recipe should add Pocket links to your Tumblr queue.
 

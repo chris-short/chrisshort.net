@@ -13,16 +13,9 @@ title = "GNU sed on Mac OS X"
 
 Like a lot of systems folks I use sed, a lot. It is probably an unhealthy amount of sed use but so be it. I operate on a lot of Linux servers but my desktop environment of choice is Mac OS X which means BSD tools (not the Linux-y GNU tools).
 
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<!-- chrisshort.net Responsive -->
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-8972983586873269"
-     data-ad-slot="1297095894"
-     data-ad-format="auto"></ins>
-<script>
-   (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+{{< adsense-inarticle >}}
+
+{{< mc >}}
 
 The differences are relatively subtle between BSD sed and GNU sed. However, most of my work is done through iTerm (a literal black box). I frequently find myself diving down rabbit holes and I really do not want to have to remember the differences between BSD and GNU sed. I want the same sed everywhere so I compile GNU sed on Mac OS X:
 
@@ -52,16 +45,7 @@ The differences are relatively subtle between BSD sed and GNU sed. However, most
 
 It does not appear obvious to me that any internal OS X processes depend on BSD sed. I have done this for years without any noticeable issues. However, I have to point out that you are changing system internals and the chances of some going haywire are present.
 
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<!-- chrisshort.net Responsive -->
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-8972983586873269"
-     data-ad-slot="1297095894"
-     data-ad-format="auto"></ins>
-<script>
-   (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+{{< adsense-inarticle >}}
 
 The one annoyance I need to note when fully replacing the BSD sed version by following these steps (see footnotes if you do not want to do that) is that after every OS update (10.11.4 to 10.11.5, etc.) you will have to run through all these steps again.
 
@@ -71,3 +55,5 @@ Footnotes:
 [^n]: If you want to leave System Integrity Protection on you can install GNU sed to /usr/local and call GNU sed by the full path (/usr/local/bin/sed-gnu).
 [^n]: If you decided to not disable System Integrity Protection you should run this instead: ./configure --prefix=/usr/local/ --program-suffix=-gnu and you can skip steps 9 through 11.
 [^n]: You can change the number of jobs here if you desire; see [MAKE(1)](https://developer.apple.com/legacy/library/documentation/Darwin/Reference/ManPages/man1/make.1.html).
+
+{{< adsense-matched >}}

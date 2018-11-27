@@ -14,16 +14,7 @@ aliases = [
 
 I've told you about the cult known as the Center for Purposeful Living, another person has shared their experiences with the [Center for Purposeful Living](/center-for-purposeful-living/the-cult-that-is-human-service-alliance-and-the-center-for-purposeful-living/), and now another individual has come out denouncing the [Center for Purposeful Living](/center-for-purposeful-living/the-cult-that-is-human-service-alliance-and-the-center-for-purposeful-living/) which is also known as Human Service Alliance.
 
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<!-- chrisshort.net Responsive -->
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-8972983586873269"
-     data-ad-slot="1297095894"
-     data-ad-format="auto"></ins>
-<script>
-   (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+{{< adsense-inarticle >}}
 
 The following was originally posted on [the FACTNet thread dedicated to Human Service Alliance and the Center for Purposeful Living](http://factnet.org/vbforum/forum/social-cultural-or-special-purpose-organizations/11887-human-service-allianceuniversity-for-human-goodness) by someone referring to themselves as marcusrevelus and is being republished here because it is so incredibly powerful and remarkably true:
 
@@ -32,6 +23,8 @@ The following was originally posted on [the FACTNet thread dedicated to Human Se
     1) "Family members, parents and friends of students are encouraged to visit the campus both before and during the student's attendance. The campus atmosphere is open and honest. In cults, family members are definitely not welcome."
 
 This happens only if the family or friend is in line with the student's decision to be at CPL or if the CPL is confident they can "manage" any such visitors. Family and friends who clearly disapprove of the organization and make it known are cast as "enablers", "detractors", "victims" who do not have the student's best interests.
+
+{{< mc >}}
 
 A note to the students from CPL's leader, Derwin Lackey, about a young teenager who decided to go home for Christmas is revealing:
 
@@ -43,16 +36,7 @@ What are students to make of this? It casts the righteous leaders of CPL in the 
 
 The choice factor becomes increasingly bounded as the student is indoctrinated into the cult's requirements of submission, a high level of commitment, and performance of one's duties as assigned. In classes, references are made to being "trapped by the soul" which really means trapped by CPL totalitarian rules which stipulate selfless group-based decisions versus individual choices, which they call selfish. A child has similarly bounded choices, bounded by a loving, all-knowing parent, which is exactly how the paternal faculty and their leader at CPL function, (minus the love part). The CPL mentors are totally convinced that they know what is best for students. They analyze and diagnose, do astrology and "readings", and then counsel students in ways similar to the normal psychological counseling process that induces transference. But where ethical practitioners seek to free clients from having to transfer old unresolved issues, with parents and others, the CPL does the exact opposite by perpetuating the idea that THEY know, and presumably will always know what's best for the student. EVERYTHING at the cult is conditional on the choice a student makes, and students are constantly reminded that being there is a privilege that is earned by their choices.
 
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<!-- chrisshort.net Responsive -->
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-8972983586873269"
-     data-ad-slot="1297095894"
-     data-ad-format="auto"></ins>
-<script>
-   (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+{{< adsense-inarticle >}}
 
 Here's a message from the guru that went out to students after a one-year student departed without receiving a graduation:
 
@@ -68,16 +52,7 @@ So current CPL students who read this are supposed to be in awe? This is typical
 
 The notion that cults try to hold onto people is, intriguingly, a misinformed one. Sure, at CPL, they "release" students, and then a series of follow-up messages from the guru get sent out that spin how the student was flawed, adversely influenced, or unsalvageable ("we did our best"). NEVER do they hold themselves accountable as a group or demonstrate a collective example of TRP. Rather, notes like these, razzing students, are standard MO, (all couched as "learning" of course).
 
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<!-- chrisshort.net Responsive -->
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-8972983586873269"
-     data-ad-slot="1297095894"
-     data-ad-format="auto"></ins>
-<script>
-   (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+{{< adsense-inarticle >}}
 
 Students are informed that they should be open to feedback, but not offer any to CPL until they've been there for 6 months. If ever a student departs, any private discussion about the departure is called "gossip" and anyone who gossips or criticizes is branded a detractor and, if persistent, they will certainly be purged.
 
@@ -86,6 +61,8 @@ Addressing CPL's misinformed notion that cults always hold onto people: Purging 
     "For that brief time we are in negative tension, we need to release all decisions, or, have our Best Friend (TG) make important decisions for us until sanity returns and illusion leaves".
 
 Note the catch-22 nature of this directive, especially if there are issues regarding the leadership. First of all, who determines what is and is not negative tension? The guru via his subordinate yes-men. And if it happens to take issue with CPL in any way, it HAS to be negative. One is therefore in a state of insanity and illusion. So, what is the prescription for a student with misgivings about the program… turn off your mind and let THEM make decisions for you. This promotes a very closed system designed to contain disruption and keep people there.
+
+{{< adsense-inarticle >}}
 
 It's the leadership that holds the answers as to what is "soulful", and if a student's choice or thoughts differ, it is automatically labeled as the "personality choice" (the lesser or wrong one). This creates the tension… essentially, "our way/thoughts/ideas are right, if you choose yours, it's wrong, but hey, it's your choice!" Then if you choose your way, they put on increasingly unpleasant pressure; hold increasingly unpleasant mentoring sessions, begin to broadcast teaching sessions to all, either named or usually thinly disguised. These letters and sessions are designed to single out your issues until you yield or bolt. This mind-control/brainwashing process paralyzes some because most people want to do the right thing; want to make more soulful choices, (and are increasingly indoctrinated that CPL IS that way and no other choice). Conversely, they don't want to be labeled as quitters or losers. The CPL leadership place themselves as the soul experts, and this can begin to erode self trust and certainly has nothing to do with learning to listen to one's OWN inner wisdom,(unless of course it happens to agree with the way they see it).
 
@@ -105,16 +82,7 @@ Note that all messages from "DL" are entirely emboldened, meaning everything wri
 
 Moreover, there is a SEVERE amount of micromanagement going on so that a student gets the very appropriate sense that they are being watched from all directions. Phone calls are listened into, rooms are occasionally "inspected" by CPL staff and student e-mails have been "tapped", fire walled from detracting outsiders, and monitored. Students are called in for impromptu mentoring sessions that amount to interrogations.
 
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<!-- chrisshort.net Responsive -->
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-8972983586873269"
-     data-ad-slot="1297095894"
-     data-ad-format="auto"></ins>
-<script>
-   (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+{{< adsense-inarticle >}}
 
 The TG and their mentor complain about how much of their time is spent dealing with students' personality issues. A simple question is, "Why?" And whatever happened to serving as example of being a Totally Responsible Person? Should they be exempt from seeing such burdens as their own opportunity for learning and growth? AND, more importantly, if they were not so furiously trying to manage their "climate" by controlling everything and everyone in it, they might actually be freed up for some real service in the world.
 
@@ -127,24 +95,17 @@ Being part of an exclusively enlightened, innovative, cutting edge, new wave spi
 
 Being allowed the privilege of living among advanced disciples of the new age and from time to time receiving special kudo's from them for good behavior. A personal letter from Derwin Lackey is the ultimate favor.
 
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<!-- chrisshort.net Responsive -->
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-8972983586873269"
-     data-ad-slot="1297095894"
-     data-ad-format="auto"></ins>
-<script>
-   (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 Going on special outings and "pilgrimages" where so much is orchestrated around the "Mentor" and his legacy, not to mention evoking gratitude for the gift of his time and energy in planning and coordinating these travels. The students pay their own way for the more elaborate trips and are often coaxed, if not badgered, to get their deposit of several hundred dollars in early. Usually trip deposits are not returned, (and of course room deposits) if you leave early or are kicked out.
+
+{{< adsense-inarticle >}}
 
 Being important, (better to be a big fish in a small pond), where students are lauded and stroked for making commitments to stay beyond their one-year term, and then, if they stay longer are "permitted" to qualify as being elevated to an upper level of the CPL hierarchy, thus able to lord over lesser students, often in an overbearing and petty manner, and in my experience, these individuals are highly UN-qualified to manage anyone.
 
 Experiencing the feel-good effects of renouncing and submission to a higher authority are well-documented within all kinds of groups. Having someone enlightened take over and direct your life can be a release from many worrisome and tiring decisions, (though this actually disables one from being prepared to adequately take on that responsibility outside of the cult environment). It's like a return to childhood. As long as one follows directions, all is well and wonderful.
 
 As to what non-monetary perks the leaders receive, certainly adulation, the power over others, the inflow of money to create and expand new enterprises. Having all forms of transportation to ride around in like full sized luxury busses, and a private airplane. Not so bad.
+
+{{< adsense-inarticle >}}
 
 As for the money, with hundreds of dollars pouring into the restaurant every night in tips alone, plus the daily profits, they are building a powerful entity that has become increasingly geared to be a successful, money-making business; to be a financially successful organization, (they talk CONSTANTLY about the money they're making; it's very exciting seeing money roll in and being a successful business). If that's what they want to be when they grow up, then they should just go that route and stop the false advertising about training world servers and "human goodness", but they've lost sight of the human factor, if they ever really had it.
 
@@ -155,3 +116,5 @@ They teach students that explanations are to be avoided because in so doing, the
 ![Derwyn Lackey (Derwin Lackey)](/center-for-purposeful-living/derwin-lackey-derwyn-lackey.jpg)
 
 Derwyn Lackey, Supreme Ruler of the Center for Purposeful Living
+
+{{< adsense-matched >}}

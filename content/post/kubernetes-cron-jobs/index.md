@@ -13,22 +13,13 @@ image = "/kubernetes-cron-jobs/kubernetes-wall-clock.jpg"
 
 One of the reasons I stood up a [Kubernetes cluster on Raspberry Pis](/my-raspberry-pi-kubernetes-cluster/) in my house was because of the savings I wanted to gain by not running high-available, redundant infrastructure in the cloud. Kubernetes provides high-availability by design. It's pretty awesome the possibilities that exist given this capability. Need a web server to constantly run? Build a container and throw it in the Kubernetes cluster. Need a service available all the time? Package it and ship it to the Kubernetes cluster.
 
-{{< upscribe >}}
+{{< mc >}}
 
 ## Legacy Systems
 
 I have four old Raspberry Pi boxes doing various things here in the office for me. They do a single task fine, but I have over-extended one of the first-generation Raspberry Pis. I'd like to deprecate the older Raspberry Pis as they are no longer effective boxes. To do that, I need to move the workloads (like a cloud migration). One thing I have no shortage of running on these Raspberry Pi boxes are cron jobs. I have a cron for almost everything I do. Monitoring, updating web apps, detecting changes in domain name configurations, etc.
 
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-8972983586873269"
-     data-ad-slot="4663018952"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+{{< adsense-inarticle >}}
 
 ## k8s Jobs and Cron Jobs
 
@@ -38,22 +29,11 @@ Kubernetes has the concept of *Jobs*. To quote the official [Jobs documentation]
 
 The implementation of Kubernetes *Cron Jobs* is like many other things with Kubernetes: YAML. There are a few projects to help with wrangling your YAML ([ksonnet](https://ksonnet.io/) for example) but, that is a discussion for another article. For now, let's get a Dockerfile and Kubernetes configuration file put together.
 
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-8972983586873269"
-     data-ad-slot="4663018952"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+{{< adsense-inarticle >}}
 
 ## Use Case
 
 I moved my newsletter, [DevOps'ish](https://devopsish.com/), off of Medium and on to [Netlify](https://www.netlify.com/) with [Hugo](http://gohugo.io/) as a static site generator. This makes for a very fast and easy to manage website. But, the one piece of functionality lost in the move is the ability to schedule posts. Netlify provides a build hook that will trigger builds when called. I can write the newsletter and set it to a date in the future. Hugo, by default, will not publish articles unless a build is completed after the specified date. Calling the build hook URL via `curl` with a cron job is a way to implement scheduled posts with Hugo on Netlify.
-
-> [**Subscribe to DevOps'ish**](/newsletter/) for updates on Kubernetes as well as other DevOps, Cloud Native, and Open Source news.
 
 ## Dockerfile
 
@@ -74,16 +54,7 @@ ENTRYPOINT [ "/bin/sh", "-c" ]
 CMD [ "/usr/bin/curl -vvv -X POST -d '' ${URL}" ]
 {{< /highlight >}}
 
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-8972983586873269"
-     data-ad-slot="4663018952"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+{{< adsense-matched >}}
 
 ### Docker Build
 
@@ -137,16 +108,7 @@ Once the base64 string is added to the file, apply it:
 kubectl apply -f secret.yml
 {{< /highlight >}}
 
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-8972983586873269"
-     data-ad-slot="4663018952"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+{{< adsense-inarticle >}}
 
 ## Cron Job Configuration
 
@@ -193,16 +155,7 @@ Apply the configuration file and you're off to the races:
 kubectl apply -f devopsish-netlify-cronjob.yml
 {{< /highlight >}}
 
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-8972983586873269"
-     data-ad-slot="4663018952"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+{{< adsense-inarticle >}}
 
 ## Conclusion
 
@@ -216,4 +169,6 @@ devopsish-netlify-cronjob   1 2-14 * * 0-1,5-6   False     0         8h         
 
 Now go celebrate your high-availability, damn near guaranteed to run every time Kubernetes Cron Job! Congratulations!
 
-> [**Subscribe to DevOps'ish**](/newsletter/) for updates on Kubernetes as well as other DevOps, Cloud Native, and Open Source news.
+{{< mc >}}
+
+{{< adsense-matched >}}

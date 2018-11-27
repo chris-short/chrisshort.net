@@ -13,22 +13,15 @@ title = "Notorious Remixes"
 
 The Notorious B.I.G., Biggie, Biggie Smalls, Big Poppa, The Black Frank White, The King of New York, however you refer to him, Christopher Wallace was one of the best rappers to ever walk planet earth. Since Biggie's death in 1997 his timeless lyrics have served as a foundation for many remixes and mashups. This is the definitive collection of the best studio quality Notorious B.I.G. remixes and mashups ever created.
 
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<!-- chrisshort.net Responsive -->
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-8972983586873269"
-     data-ad-slot="1297095894"
-     data-ad-format="auto"></ins>
-<script>
-   (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+{{< mc >}}
 
 **the notorious xx**
 
 the notorious xx is a mashup of The xx (a British group) with various Notorious B.I.G. songs. It was mixed by [wait what](http://waitwhatmusic.com/). It is a fantastically cool and fun remix that was called "best mashup album of 2010" by [The Guardian](https://www.theguardian.com/music/2010/sep/16/click-download-shuffler-charlie-kubal). Download [**the notorious xx**](https://cdn.chrisshort.net/the%20notorious%20xx.zip) or stream it
 
 <iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=807865423/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/transparent=true/" seamless><a href="http://waitwhat.bandcamp.com/album/the-notorious-xx">the notorious xx by wait what</a></iframe>
+
+{{< adsense-inarticle >}}
 
 **B​.​I​.​G. Flume**
 
@@ -62,16 +55,7 @@ You can download [Gratefully D.E.A.D. - Notorious B.I.G. vs Grateful Dead](https
 
 <iframe width="100%" height="450" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/3733659&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
 
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<!-- chrisshort.net Responsive -->
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-8972983586873269"
-     data-ad-slot="1297095894"
-     data-ad-format="auto"></ins>
-<script>
-   (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+{{< adsense-inarticle >}}
 
 There are also some pretty good Notorious B.I.G. mashup/remix singles that are worth adding to your music library.
 
@@ -87,3 +71,5 @@ There are also some pretty good Notorious B.I.G. mashup/remix singles that are w
 If you know of other remixes that showcase the lyrics of Notorious B.I.G. and feel like they deserve to be in this pantheon of excellence, please let me know.
 
 Photo: [Biggie smalls](https://www.flickr.com/photos/tombothetominator/5454864996/) by [Tom Check](https://www.flickr.com/people/7536455@N04)
+
+{{< adsense-matched >}}

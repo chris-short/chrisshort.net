@@ -14,16 +14,7 @@ Network Time Protocol (NTP) is a very nice feature for networks that utilize mul
 
 NTP is defined in several RFCs. RFCs can be quite dry and boring to read but are a wealth of technical knowledge and are highly recommended reading. Links to two current, in use RFCs discussing NTP can be found at the bottom of this page. NTP is basically designed to decrease inaccuracies of previous timing standards and to ensure a time difference of a matter of milliseconds from the Network Time Protocol (NTP) server to the host. The amount of time difference from the NTP server to the device polling that server is dependent on a few factors.  Distance from the actual device is one thing. People in Maine should not use an NTP server in California to synchronize time; there is simply too much Internet to traverse. Another reason could be slow/bogged down Internet connectivity at either the NTP server or the device polling it. It all depends on the environment of the networks used to get from your network to the NTP server's network. A good rule of thumb is to use NTP servers in your time zone (or geographic region).  However, it's some times good to use a server not in your time zone as a third or fourth selection. This way if a major part of the Internet backbone in your time zone goes down and bandwidth between you and your typical NTP servers is limited your polls can head a different way to avoid the congestion and still get a reliable timing source. Keep in mind your clocks might be somewhat off when you go back to polling your primary servers (we're talking about a matter of seconds, but seconds are important to some people).
 
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<!-- chrisshort.net Responsive -->
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-8972983586873269"
-     data-ad-slot="1297095894"
-     data-ad-format="auto"></ins>
-<script>
-   (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+{{< adsense-inarticle >}}
 
 There are a few insecurities associated with NTP and its associated daemons but there are patches available for the daemons usually and practices that minimize the risk. Use of NTP can be somewhat controversial because it requires a hole through a firewall if you set up one or all device(s) on your network to request NTP updates. This isn't a vast gaping hole for all on the Internet to get through your network's defenses. You simply just need to allow certain devices on your network to be able to use UDP port 123. So really it's only an outbound UDP port, but it's a hole in a firewall nonetheless. In some groups this is considered a threat. There are many ways to minimize the threat or eliminate it completely.
 
@@ -31,16 +22,7 @@ First of all, if you're so concerned about what leaves your network that you're 
 
 I recommend using a border or external router or firewall as a NTP daemon. This device already has unadulterated access to the Internet as it is. Doing this is easy if your device is capable of it. Cisco routers and switches make good NTP daemons. There is a vulnerability in its implementation on some NTP daemon versions so be sure to do your research first. But you'd want to set up the device to poll from two to three different NTP servers. Preferably these public NTP servers would be getting their timing from stratum 2 sources or better. My preference however is to use a military NTP server getting its timing from the Global Positioning System (GPS). Once you setup your NTP daemon to time from the selected public NTP servers you would then want every device in your network to get its time from that device. This is a good practice because you're not flooding the Internet with NTP requests you're just going to see in increase in background noise on your LAN. There are numerous clients available for every operating system out there for NTP synchronization, finding one isn't hard. The idea is that the more critical accurate time is on the device, the more often it will poll the NTP servers. At most I would poll every fifteen minutes. But that can get rather ridiculous because of the added traffic of multiple devices polling every fifteen minutes. For that reason, my personal standard is hourly for servers and every four hours for workstations. You can vary that as you see fit.
 
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<!-- chrisshort.net Responsive -->
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-8972983586873269"
-     data-ad-slot="1297095894"
-     data-ad-format="auto"></ins>
-<script>
-   (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+{{< adsense-inarticle >}}
 
 The most secure implementation of using NTP is to setup an independent NTP server inside your network. This is a typical operation for most military networks. I did it myself at Langley Air Force Base in Virginia. This is not for the light of heart though, the device we used at Langley cost close to $10,000. But it's an essential aspect of military networks. A device I recommend using is a GPS receiver with an Ethernet interface and NTP capabilities. This requires a small antenna to be placed outside the building of where the actual receiver is, so bear that in mind. This solution though makes it so that all NTP polls stay within your LAN. This way no NTP traffic ever has to traverse your firewall, meaning that no firewall changes need to be made on most networks (excluding internal/departmental firewalls).
 
@@ -51,3 +33,5 @@ Network Time Protocol related RFCs:
 * RFC 1305 - Network Time Protocol (Version 3)
 
 [NTP.org](http://ntp.org/) - The official Network Time Protocol (NTP) site
+
+{{< adsense-matched >}}

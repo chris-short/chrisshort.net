@@ -15,16 +15,7 @@ I had the opportunity to participate in [All Things Open](https://allthingsopen.
 
 **This list is on [GitHub](https://github.com/chris-short/DevOps-README.md), pull requests are welcome.**
 
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<!-- chrisshort.net Responsive -->
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-8972983586873269"
-     data-ad-slot="1297095894"
-     data-ad-format="auto"></ins>
-<script>
-   (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+{{< adsense-inarticle >}}
 
 ## Slides
 

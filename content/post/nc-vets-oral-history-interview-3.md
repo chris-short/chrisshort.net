@@ -14,16 +14,7 @@ aliases = ["nc-vets-oral-history-interview-3"]
 
 As part of a North Carolina State Archives initiative to obtain oral histories of veterans I volunteered to be interviewed for the [North Carolina Veterans Oral History Collection](https://archives.ncdcr.gov/researchers/collections/military-collections/veterans-oral-history-program). I was interviewed by Matthew Peek, Military Collection Archivist for the North Carolina Department of Natural and Cultural Resources (later referred to as **MP**).
 
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<!-- chrisshort.net Responsive -->
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-8972983586873269"
-     data-ad-slot="1297095894"
-     data-ad-format="auto"></ins>
-<script>
-   (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+{{< mc >}}
 
 The interview was well worth the time it took to coordinate and conduct it. I would encourage all North Carolina veterans to contact Matthew and provide their unique story for preservation.
 
@@ -34,6 +25,8 @@ This picks up where [North Carolina Veterans Oral History Interview Part 2](/nc-
 Your browser does not support the audio element but you can download it as an MP3.
 </audio>
 Also available as an [MP3 download](https://cdn.chrisshort.net/nc-veterans-oral-history-interview-3.mp3)
+
+{{< adsense-inarticle >}}
 
 **CS:** So... Yeah, we're... You know, we go through this whole war effort and they get to the point where it's like, all right, the major combat operations are over, we're still there, you know, at some point in time we're talking about sustaining the mission. And that's not what our unit was designed to do. Our unit was designed to come in, set up stuff, pull out. We knew this was an unusual circumstance and this was going to be a little longer than normal, but we still needed to go back and become the national command authority asset that we were. So, there was a lot of talk of, well, you have to hit these certain benchmarks, and we have to do this, we have to do that, we have to bring people in – hire people, like contractors, to come do this job. So that obviously takes time.
 
@@ -103,16 +96,7 @@ But, one of the things at the Fusion Center I had mentioned earlier, there are a
 
 And we're like... 500 pound bomb. What kind of hole would that make? They're like, battle damage assessment showed this. And for the thing that just happened- it was really cool. Who made this? Like, oh, this company. I can't remember who. Oh, yeah, their stuff's crap, no, no, there's no way it's going to work. You know, it's like there's no way this thing is going to survive this, even if it was buried 27 feet down.
 
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<!-- chrisshort.net Responsive -->
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-8972983586873269"
-     data-ad-slot="1297095894"
-     data-ad-format="auto"></ins>
-<script>
-   (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+{{< adsense-inarticle >}}
 
 **MP:** So they brought you comm guys in to figure out how defeat the comms.
 
@@ -142,16 +126,7 @@ It's so hot in Qatar, my shoes – it's so hot, my shoes, you know, I'm like wea
 
 **MP:** Wow.
 
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<!-- chrisshort.net Responsive -->
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-8972983586873269"
-     data-ad-slot="1297095894"
-     data-ad-format="auto"></ins>
-<script>
-   (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+{{< adsense-inarticle >}}
 
 **CS:** I'm not supposed to be here. I didn't have orders, I just had my passport and a plane ticket. That was it. And it was a military...
 
@@ -281,16 +256,7 @@ So we're going out, and we go through this one town, and it's just ravaged. Rava
 
 **MP:** Interesting.
 
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<!-- chrisshort.net Responsive -->
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-8972983586873269"
-     data-ad-slot="1297095894"
-     data-ad-format="auto"></ins>
-<script>
-   (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+{{< adsense-inarticle >}}
 
 **CS:** Yeah. So during the previously mentioned hurricane exercise, we used to get there – and the way we operated was we show up, we set up, we don't sleep until everything's up and running. And then we start sleeping. So when we went to Qatar I was up for 72 hours straight, once we got all our gear in place. No big deal. So here it was like 12 hours of work, four hours in the air conditioned tent setting up everything, and then hit the hay and take a nap. And then get up and work the next day. I wake up the next morning, can't move my arm. It's like, what's going on. I needed help getting out of my cot. And it turns out during that incident, or during that setup exercise I had damaged a nerve, the long thoracic nerve in my right shoulder, so my scapula was sticking out a little bit further from my back.
 
@@ -386,16 +352,7 @@ I remember I get the phone call from the Medical Group saying, "Hey, Mr. Short, 
 
 And at that point, I knew I'm not going to appeal this. And I remember walking back, and I was like... What am I going to do? You know, I mean, how... How am I going to...? Where am I going to live, right? I have no income. When you think about all these things that immediately go away on this date, you have to be set up by that point. And it's, what, September/October at that point, and you're sitting there thinking, "I got to find a job." That's my new job, is to find a job.
 
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<!-- chrisshort.net Responsive -->
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-8972983586873269"
-     data-ad-slot="1297095894"
-     data-ad-format="auto"></ins>
-<script>
-   (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+{{< adsense-inarticle >}}
 
 **MP:** It's your new mission, really.
 
@@ -484,3 +441,5 @@ And at that point, I knew I'm not going to appeal this. And I remember walking b
 **MP:** And thank you for your service.
 
 **CS:** No problem. Any time.
+
+{{< adsense-matched >}}

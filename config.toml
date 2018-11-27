@@ -189,7 +189,7 @@ paginate = 4
   [privacy.googleAnalytics]
     anonymizeIP = true
     disable = false
-    respectDoNotTrack = false
+    respectDoNotTrack = true
     useSessionStorage = true
   [privacy.instagram]
     disable = false
@@ -201,4 +201,4 @@ paginate = 4
     enableDNT = true
   [privacy.youtube]
     disable = false
-    privacyEnhanced = false
+    privacyEnhanced = true

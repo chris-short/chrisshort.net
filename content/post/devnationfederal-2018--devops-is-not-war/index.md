@@ -14,20 +14,11 @@ imagecap = "Photos Courtesy of [Derek Weeks](https://twitter.com/weekstweets)"
 
 Red Hat invited me to speak at [DevNationFederal](https://devnationfederal.org/). The organizers requested I present my DevOps is Not War talk to technologists in the Washington DC area. This crowd is a group of folks that are at varying points in their DevOps journeys. Many folks from government agencies and systems integrators were present.
 
-{{< upscribe >}}
+{{< mc >}}
 
-I was able to sync up with one of my Airmen from my time at Pope Air Force Base. He was fascinated by Ansible, Kubernetes, and showed particular interest in the concepts of DevOps. He works for a siloed systems integrator and was curious how he could help influence change from within. I gave him a ton of advice and offered to help him implement Ansible playbooks and roles in his workcenter. It was pretty damn cool.
+I was able to sync up with one of my Airmen from my time at Pope Air Force Base. He was fascinated by Ansible, Kubernetes, and showed particular interest in the concepts of [DevOps](https://devopsish.com). He works for a siloed systems integrator and was curious how he could help influence change from within. I gave him a ton of advice and offered to help him implement Ansible playbooks and roles in his workcenter. It was pretty damn cool.
 
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-8972983586873269"
-     data-ad-slot="4663018952"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+{{< adsense-inarticle >}}
 
 [Jamie Duncan](https://www.linkedin.com/in/jamieeduncan/) from Red Hat was also at the event. His talk shed light on another interesting issue we are facing now; containers. Many folks, sometimes myself too, are deeply concerned about writing good Dockerfiles. Jamie made sure we all understood that the Dockerfile was WAY less important than the application running inside it. Using one of a host of tools to build an OCI image was a faster way to build a more secure image. That way we can all get back to the work that matters (building and operating our infrastructure).
 

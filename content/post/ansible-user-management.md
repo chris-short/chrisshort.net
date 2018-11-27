@@ -6,7 +6,7 @@ description = "Puppet was too cumbersome for simple user management. Ansible cam
 draft = false
 image = "https://cdn.chrisshort.net/ansible_circleA_blue.png"
 slug = "ansible-user-management"
-tags = ["ansible", "DevOps"]
+tags = ["ansible", "DevOps", "users"]
 title = "User Management with Ansible"
 aliases = ["ansible-user-management"]
 
@@ -16,12 +16,11 @@ aliases = ["ansible-user-management"]
 
 A few weeks ago, one of my [**DevOps**](https://devopsish.com/) counterparts was working on building out a new environment for one of our applications. This deployment included a new Puppet server (we are in an orchestration/configuration management state of flux) and my teammate was having some issues provisioning users (I did not ask why nor did I really care). My teammate asked if I could help with some Ansible knowledge.
 
-<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Hey, Chris? Yes. Can you whip up an <a href="https://twitter.com/ansible">@ansible</a> playbook to provision users on this Puppet box. Heh... *cracks knuckles* Sure.</p>&mdash; Chris Short (@ChrisShort) <a href="https://twitter.com/ChrisShort/status/768485051180978176">August 24, 2016</a></blockquote>
-<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+{{< twitter 768485051180978176 >}}
 
 User management usually falls into one of two categories; disjointed or a monumental effort. This Ansible solution could be that nice middle ground between the disjointed and monumental.
 
-{{< upscribe >}}
+{{< mc >}}
 
 There are probably a dozen or more ways to manage users with Ansible. But for the quick and dirty requirement to add specific (and intelligent) users, I believe this Ansible role is a good approach.
 
@@ -67,16 +66,7 @@ If you are using SSH keys (and you should be) you can add each users' key as a t
 
 The Ansible tasks are fairly simple but there was one user (snowflake) that did not want to use SSH keys (ugh) so they are going to be our special snowflake that we have to worry about setting a password on.
 
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<!-- chrisshort.net Responsive -->
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-8972983586873269"
-     data-ad-slot="1297095894"
-     data-ad-format="auto"></ins>
-<script>
-   (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+{{< adsense-inarticle >}}
 
 **SECURITY NOTE**: Best practice would be to set all these accounts to have random passwords and force the users to change them upon login. However, the assumption was made that the users we were speaking of for this use case were setting their passwords the instant they logged in. Please reference "[How do I generate crypted passwords for the user module?](http://docs.ansible.com/ansible/faq.html#how-do-i-generate-crypted-passwords-for-the-user-module)" for details on creating passwords for use with Ansible.
 

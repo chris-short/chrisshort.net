@@ -18,17 +18,10 @@ There are so many cool things about DNS one drawing is not going to do it justic
 
 ![DNS is AWESOME](/drawings/DNS-is-AWESOME.png)
 
+{{< mc >}}
+
 DNS is awesome because it allows you to have a full blown CDN for next to nothing. All you have to do is create a [CNAME that points to Amazon S3](/low-cost-content-delivery-network-cdn/) or Google Storage.
 
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>  
-<!-- chrisshort.net Responsive -->  
-<ins class="adsbygoogle"  
-     style="display:block"
-     data-ad-client="ca-pub-8972983586873269"
-     data-ad-slot="1297095894"
-     data-ad-format="auto"></ins>
-<script>  
-(adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+{{< adsense-inarticle >}}
 
 If you are interested in monitoring your DNS records I would highly recommend [dnsspy.io](https://dnsspy.io/).

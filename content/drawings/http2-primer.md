@@ -24,23 +24,18 @@ The first thing to keep in mind is the primary reason for HTTP/2 even being a pr
 
 * HTTP/2 is **multiplexed** and this is awesome! At the turn of the century, I was using military-grade multiplexers on a regular basis. I thought that it would be great to be able to do this with TCP/IP based connections; that reality is finally here for HTTP! Multiplexing essentially is combining multiple signals or streams into a single signal or stream. It is really quite innovative and will establish only one TCP connection. This will handle resource blocking in a better fashion as well.
 
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>  
-<!-- chrisshort.net Responsive -->  
-<ins class="adsbygoogle"  
-     style="display:block"
-     data-ad-client="ca-pub-8972983586873269"
-     data-ad-slot="1297095894"
-     data-ad-format="auto"></ins>
-<script>  
-(adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+{{< adsense-inarticle >}}
 
 * HTTP/2 **compresses headers** by default with a newly built compression algorithm called [HPACK](https://http2.github.io/http2-spec/compression.html). Compressing headers will allow more data to flow faster by getting headers down into the manageable realm of a packet or two as opposed several round trips.
 
 * HTTP/2 is a **binary** protocol unlike HTTP which is plaintext. In my opinion, this is good and bad but I am okay with HTTP/2 being binary. It is good in the sense that it will potentially reduce errors and ease machine parsing (not having to deal with special characters, white space, etc.). However, with it not being plaintext that means you won't be able to easily manipulate an HTTP/2 server with a tool like telnet. Fear not, [Wireshark has some support for HTTP/2](https://wiki.wireshark.org/HTTP2) and it is improving and [curl supports HTTP/2](https://curl.haxx.se/docs/http2.html).
+
+{{< mc >}}
 
 * HTTP/2 is built for performance. Some thought was put into forcing the protocol to require encryption. Ultimately, it is not an explicit requirement of HTTP/2. But, several implementations do require TLS for HTTP/2. One good thing the working group did decide was that the **lowest TLS version supported by HTTP/2 is TLS 1.2**. There is also a ciphersuite blacklist as part of the protocol. While this is not going far enough to some this is a great improvement! No more SSL v3 configs lingering around and no more TLS implementations with poor ciphersuites.
 
 * There is one thing that is not changing in HTTP/2 and that is **status codes**. 200 is still OK, 404 is still not found, and 451 is still Unavailable For Legal Reasons. There will be no need to memorize new codes (and I will still ask you to define at least three codes during an interview).
 
 There are a lot of great things happening in HTTP/2 and I would encourage to consider implementing where you can as soon as you can. Find your favorite [code's implementation or web server](https://github.com/http2/http2-spec/wiki/Implementations) and get rolling with HTTP/2.
+
+{{< adsense-matched >}}

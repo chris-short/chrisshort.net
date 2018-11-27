@@ -14,16 +14,7 @@ aliases = ["nc-vets-oral-history-interview-1"]
 
 As part of a North Carolina State Archives initiative to obtain oral histories of veterans I volunteered to be interviewed for the [North Carolina Veterans Oral History Collection](https://archives.ncdcr.gov/researchers/collections/military-collections/veterans-oral-history-program). I was interviewed by Matthew Peek, Military Collection Archivist for the North Carolina Department of Natural and Cultural Resources (later referred to as **MP**).
 
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<!-- chrisshort.net Responsive -->
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-8972983586873269"
-     data-ad-slot="1297095894"
-     data-ad-format="auto"></ins>
-<script>
-   (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+{{< mc >}}
 
 The interview was well worth the time it took to coordinate and conduct it. I would encourage all North Carolina veterans to contact Matthew and provide their unique story for preservation.
 
@@ -32,6 +23,8 @@ The interview was well worth the time it took to coordinate and conduct it. I wo
 Your browser does not support the audio element but you can download it as an MP3.
 </audio>
 Also available as an [MP3 download](https://cdn.chrisshort.net/nc-veterans-oral-history-interview-1.mp3)
+
+{{< adsense-inarticle >}}
 
 **MP:** We'll get started. Hello. Today is May 21st, 2016. My name is Matthew Peek, I'm the Military Collection Archivist at the State Archives in North Carolina, and we're here at the State Archives in downtown Raleigh to interview Chris Short a US Air Force Veteran. Thank you for doing this.
 
@@ -107,16 +100,7 @@ Also available as an [MP3 download](https://cdn.chrisshort.net/nc-veterans-oral-
 
 **MP:** Okay. Interesting. So, how long did your basic last?
 
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<!-- chrisshort.net Responsive -->
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-8972983586873269"
-     data-ad-slot="1297095894"
-     data-ad-format="auto"></ins>
-<script>
-   (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+{{< adsense-inarticle >}}
 
 **CS:** It was six weeks. I actually ended up staying there a little bit longer because right at the end of '99 there was this weird flu outbreak. No-one could figure out what was going on. We got a series of shots, and they're like, hopefully this'll help. So guys would – they'd wake up in the middle of the night; night terrors, sweat, cold, and we had no idea what was going on. We threw them in an ambulance and off they went, and they'd show up a week later. And eventually it hit me, so I remember waking up in the hospital New Year's Eve, 1999.
 
@@ -208,16 +192,7 @@ Also available as an [MP3 download](https://cdn.chrisshort.net/nc-veterans-oral-
 
 **CS:** So he really didn't like me because it was his job to secure the network. Because at that point there wasn't a network security person that sat down the hall, it was somebody's "additional duty", so your job was to maintain patches, and software upgrades, and help people out, like, oh, yeah, how do I do this thing in PowerPoint, kind of thing. So, it was his job to make sure things like that didn't happen, so he was really, really perturbed with me. But, whatever, you know, he allowed it to happen.
 
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<!-- chrisshort.net Responsive -->
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-8972983586873269"
-     data-ad-slot="1297095894"
-     data-ad-format="auto"></ins>
-<script>
-   (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+{{< adsense-inarticle >}}
 
 **MP:** What was your daily job entailed? What did it entail?
 
@@ -343,16 +318,7 @@ I go and I wake up my ex-wife, I'm like, "Hey two planes just hit the World Trad
 
 **CS:** I knew it was a terrorist attack. The second I saw the second plane enter the frame, I knew it was a terrorist attack. Like before – like that brief split-second that you saw it before it got hit – because all you saw on TV was just the two towers standing there, and then this small plume of smoke coming out of one side of it, and it was the opposite side of where the plane had hit it. And then you saw the second plane come into frame and just blast the side of the building. You saw it hit one side of the building, you saw stuff spew out the other side. And the second I saw the second plane I was like, this is an attack.
 
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<!-- chrisshort.net Responsive -->
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-8972983586873269"
-     data-ad-slot="1297095894"
-     data-ad-format="auto"></ins>
-<script>
-   (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+{{< adsense-inarticle >}}
 
 **MP:** But I'm interested in the fact that you thought of the Pentagon instantly. Was it just because of your training, or what was it that...
 
@@ -427,3 +393,5 @@ I go and I wake up my ex-wife, I'm like, "Hey two planes just hit the World Trad
 **CS:** Yeah, I mean, given my rank, they... People needed experts to solve problems quickly. I'm not going to say I was an expert at the time, but I could solve problems quickly. So...
 
 Check back next week for North Carolina Veterans Oral History Part 2 where we talk about post-9/11 and Operation Iraqi Freedom.
+
+{{< adsense-matched >}}

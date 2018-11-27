@@ -13,6 +13,8 @@ image = "https://cdn.chrisshort.net/grief.jpg"
 
 Julie and I have experienced a miscarriage. We found out we were pregnant in early November. On Thanksgiving, an episode occurred that demonstrated Julie's life might be in jeopardy as well as the life of the baby. There was a glimmer of hope that all could go well though; we had to give it time. A week before Christmas 2017, we learned that our second child wasn't going to make it. *We had a miscarriage*.
 
+{{< mc >}}
+
 Not talking about miscarriage hurts; hiding it hurts even more. We decided late at night, after it was all over, to change that. [This is a thread that Julie and I shared on Twitter](https://twitter.com/ChrisShort/status/944424925057691648) as part of our **healing process**. Please read it and consider sharing your miscarriage story too. Talking about miscarriage helps. Silence is not strength.
 
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Pregnancy loss and miscarriage is the worst. 😔 Praying for all the other moms and dads out there dealing with this too.</p>&mdash; Julie S (@Jules014) <a href="https://twitter.com/Jules014/status/944423865727537153?ref_src=twsrc%5Etfw">December 23, 2017</a></blockquote>

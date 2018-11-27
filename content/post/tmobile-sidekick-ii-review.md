@@ -17,18 +17,9 @@ aliases = [
 
 This is a comprehensive review of the [T-Mobile Sidekick II](https://en.wikipedia.org/wiki/Danger_Hiptop#Hiptop2/T-Mobile_Sidekick_2_(Danger/Sharp)). I wanted to push this review out a lot quicker but I figured that a thorough testing and experience with the Sidekick II was necessary. After spending a year with the original color Sidekick I think I'll be able to write up a very good review.
 
-On Tuesday, my Sidekick II came and like a gleeful school boy I dropped my SIM card in it and plugged in it to charge. I analyzed, prodded, poked, and so on then took it to SeaWorld the next day.
+{{< mc >}}
 
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<!-- chrisshort.net Responsive -->
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-8972983586873269"
-     data-ad-slot="1297095894"
-     data-ad-format="auto"></ins>
-<script>
-   (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+On Tuesday, my Sidekick II came and like a gleeful school boy I dropped my SIM card in it and plugged in it to charge. I analyzed, prodded, poked, and so on then took it to SeaWorld the next day.
 
 ## The Hardware
 
@@ -38,6 +29,8 @@ The first thing I noticed about the Sidekick II is that it was thinner, narrower
 
 The next major improvement that the Sidekick II brings to the table is the flat face. With the original Sidekick the ear piece would not sit up against your ear completely due to the fact the screen was positioned on top of the device. The Sidekick II's screen is flush with the rest of the device and the keyboard is sunken in underneath it. The directional pad is no longer part of the keyboard and sits on the outside of the device and has become the ear piece of the phone.
 
+{{< adsense-inarticle >}}
+
 This new form factor when compared to the plethora of Nokia phones I have around the house definitely makes it more phone like which is a good thing. The Sidekick II is still a powerful PDA-like device despite its new phone-ish look.
 
 Another improvement in the construction of the Sidekick II is a clip that holds the SIM chip firmly in place. The days of random "SIM not ready" warning messages should be a thing of the past due to this new stability in the SIM chip compartment.
@@ -46,26 +39,19 @@ Another interesting improvement is the external buttons. There is still a scroll
 
 The "rib buttons" or external buttons that sit on the top and button of the device are very nice. I especially enjoy the power button being on the outside of the device now (it's shaped differently than the rest of the rib buttons so you don't confuse it with another button). There are also volume adjust buttons that are very easy to use when on the phone whether you're using your left or right hand. The two buttons on top of the Sidekick II have various functions but the one on the right of the device defaults to the shutter button for the camera.
 
+{{< adsense-inarticle >}}
+
 There is still the notorious USB port (which has no consumer functionality, still) which is nicely covered on the right hand edge of the Sidekick II. The infrared port that had zero use on the original Sidekick is now gone as well. Above and below the USB port are the headset and power ports.
 
 On the back of the Sidekick II is the rather large speaker for the nifty speakerphone (a feature I'm going to get a lot of use out of) and the camera shutter and flash as well as a small mirror for those always troublesome self pics.
 
 The new form factor of the Sidekick II is awesome it's more phone-like features still improve upon its overall functionality. The only problem area is the speakerphone speaker being on the back of the device and the mic being on the front. Overall, the Sidekick II's form factor is a vast improvement over the original Sidekick. Couple that with the PDA capabilities of this phone and you're looking at a very good device.
 
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<!-- chrisshort.net Responsive -->
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-8972983586873269"
-     data-ad-slot="1297095894"
-     data-ad-format="auto"></ins>
-<script>
-   (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 ## The Keyboard
 
 The keyboard on the Sidekick II is going to take some getting used to. It's sunken down in the device about three times as much as the original Sidekick keyboard was. This makes it a tad more cumbersome.
+
+{{< adsense-inarticle >}}
 
 Another thing I don't like at all is the fact that the screen is incredibly close to the number keys. This isn't a huge deal breaker but 3 to 6 more millimeters of separation would make all the difference in the world.
 
@@ -75,22 +61,13 @@ Then, there is a rather mysterious button that lays to the left of the "Z" on th
 
 The directional pad is no longer part of the keyboard which is a good thing but it moved the location of various keys around a bit which makes the transition from typing on the Sidekick to the Sidekick II take a little longer. The thing I liked most about the Sidekick was that typing on it didn't really take any getting used to that will change with the Sidekick II but the learning curve won't be too bad.
 
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<!-- chrisshort.net Responsive -->
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-8972983586873269"
-     data-ad-slot="1297095894"
-     data-ad-format="auto"></ins>
-<script>
-   (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 ## The Software
 
 Let's get out of the hardware side of things and start talking software.
 
 In comparison to the original Sidekick the Sidekick II's boot time has doubled. I'm not sure if it's just because of the fancy boot up animation or not but don't expect to power the Sidekick II on and start talking immediately. However, with the improved battery life you shouldn't have to turn the Sidekick II off as much.
+
+{{< adsense-inarticle >}}
 
 Once the Sidekick II is powered on and you've unlocked your SIM card (if you've setup that security feature) you're able to use all the applications you had access to before with the original Sidekick. As a matter of fact if you previously owned a Sidekick all the applications you purchased for it will automatically download into the Sidekick II. There are numerous improvements in the menu systems of every application as well as optional settings. This allows Sidekick II users to customize their experience even more than they did before. Allow me to give a brief run down of each application:
 
@@ -110,6 +87,8 @@ This mobile version of AIM is definitely note worthy. It's full of most of the b
 
 There is no better device for text messaging than the Sidekick; well there was no better device for text messaging than the Sidekick until the Sidekick II came around. I send out lots of text messages every day and receive as many if not more than what I send so the increase in text message storage space is a welcomed addition to the Sidekick II. You also have the ability to save outgoing text messages so you don't lose track of the conversation.
 
+{{< adsense-inarticle >}}
+
 ### Address Book
 
 There is more storage space in the address book as well. You can have up to 2000 contacts in your Sidekick II. You also have the option of using the Sidekick II's built in camera to add photos to your caller ID. This is helpful but the disappointing part is that you have to take the picture with the Sidekick II; you can't import pictures from other sources into the Sidekick II address book.
@@ -128,6 +107,8 @@ Camera phones don't really interest me but the Sidekick II's 1.3 megapixel camer
 
 The Sidekick II as a camera is easy to use especially since the shutter button is on top of the Sidekick II. The camera is probably one of the best camera's you're going to find in a phone currently but it is still leaps and bounds behind today's digital cameras.
 
+{{< adsense-inarticle >}}
+
 Here is an example from SeaWorld comparing the Sidekick II's 1.3 megapixel camera to the Sony DSC-P72 Cyber-shot 3.2 megapixel digital camera:
 
 Sidekick II
@@ -142,18 +123,9 @@ All of the applications that were available for the Sidekick have been carried o
 
 Another good addition to the Sidekick II is Yahoo! Messenger. It's a free download for the Sidekick II that opens your mobile instant messaging capabilities up to more people. However, I have a hard time staying logged in to the Yahoo! service and I suspect there are some bugs that need to be worked out.
 
-I could go on and on about the applications available on the Sidekick II. Let me just sum it up by saying the Sidekick II has everything you need and nothing you don't want.
+{{< adsense-inarticle >}}
 
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<!-- chrisshort.net Responsive -->
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-8972983586873269"
-     data-ad-slot="1297095894"
-     data-ad-format="auto"></ins>
-<script>
-   (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+I could go on and on about the applications available on the Sidekick II. Let me just sum it up by saying the Sidekick II has everything you need and nothing you don't want.
 
 ## The Phone
 
@@ -180,3 +152,5 @@ Overall the Sidekick II is a vast improvement over the Sidekick. It smokes simil
 If you have more questions about the Sidekick II don't hesitate to leave a comment or send me an e-mail (chris -AT- chrisshort -DOT- net).
 
 The [T-Mobile Sidekick II](https://en.wikipedia.org/wiki/Danger_Hiptop#Hiptop2/T-Mobile_Sidekick_2_(Danger/Sharp)) is designed by [Danger, Inc.](https://en.wikipedia.org/wiki/Danger_Inc.)
+
+{{< adsense-matched >}}

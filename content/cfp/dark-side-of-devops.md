@@ -12,7 +12,7 @@ title = "The Dark Side of DevOps"
 
 ## Abstract
 
-People think that DevOps, Cloud Native, Agile, GROWS, etc. are all rainbows and roses. You start small, work your way up or you decide as an organizational unit to change. These are two patterns associated with a Jedi-type maturation process of DevOps. Like in Star Wars, DevOps has a dark side. This talk provides examples of successful and failed DevOps transformations as well as some lessons learned along the way.
+People think that [DevOps](https://devopsish.com), Cloud Native, Agile, GROWS, etc. are all rainbows and roses. You start small, work your way up or you decide as an organizational unit to change. These are two patterns associated with a Jedi-type maturation process of DevOps. Like in Star Wars, DevOps has a dark side. This talk provides examples of successful and failed DevOps transformations as well as some lessons learned along the way.
 
 ## Description
 

@@ -32,7 +32,7 @@ A co-worker and I needed to remove all instances of a binary blob from one of ou
 
 There are several guides and HOWTOs that we stumbled across to do this; those might work better for your use case (Google is your friend). But, this five step process worked very well for us.
 
-{{< upscribe >}}
+{{< mc >}}
 
 Sources:
 

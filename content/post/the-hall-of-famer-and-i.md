@@ -13,18 +13,11 @@ title = "The Hall of Famer and I"
 
 I try to keep the content tech related around here but some times an event triggers a fond memory in your past and you feel the need to write about it. In January 2010, I was in the Air Force and had the opportunity to get up earlier in the morning than normal to get on a bus and drive over to Welcome, North Carolina. For those of you that are not familiar with NASCAR, Welcome, NC is the home of [Richard Childress Racing](http://www.rcrracing.com/). Richard Childress Racing (RCR) at that point in time had an affiliation with a group on Pope Air Force Base and Fort Bragg to bring active duty military members over, give them a tour of the museum and workshops, treat them to lunch, and meet some of the staff at RCR.
 
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<!-- chrisshort.net Responsive -->
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-8972983586873269"
-     data-ad-slot="1297095894"
-     data-ad-format="auto"></ins>
-<script>
-   (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+{{< adsense-inarticle >}}
 
 If the event just was a tour of the museum and facilities it would had been well worth it. The museum tour was quite impressive. Vehicles from Mr. Childress, through Dale Earnhardt, and up to their current NASCAR drivers were there to see and touch. The RCR team members took us in the fabrication shop, the Earnhardt Childress Racing engine shop, and several other shops showing us the flow of operations there at RCR.
+
+{{< mc >}}
 
 We were then led upstairs to a large open room where numerous tables and chairs were setup. We all sat down and waited a little bit. Then in comes a smorgasbord of [world renowned Lexington, NC barbecue](https://en.wikipedia.org/wiki/Lexington_Barbecue_Festival). We were fed quite well and treated with an unprecedented level of respect. An RCR staff member came around and handed out holographic Kevin Harvick hero cards. The hero card was a nice piece of memorabilia from the day. A door opens off to the side of the room and in walks Richard Childress himself.
 
@@ -39,3 +32,5 @@ It turns out that later in 2010 I found out I was going to be medically separate
 ![Chris Short and Richard Childress](https://cdn.chrisshort.net/chris-short-richard-childress-02.jpg)
 
 The photos I took from the day at Richard Childress Racing [can be found on Flickr](https://flic.kr/s/aHsjpxsFZ7)
+
+{{< adsense-matched >}}
