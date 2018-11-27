@@ -14,20 +14,11 @@ imagecap = "Image from [rework.withgoogle.com](https://rework.withgoogle.com/pri
 
 I have mentioned this a few times in various [talks](https://chrisshort.net/speaking/), on social media, and in my [newsletter](https://devopsish.com/087/); the importance of **psychological safety** in creating effective teams is often overlooked. Google did an enormous amount of research to determine, "the secrets of effective teams at Google." Code-named [Project Aristotle](https://rework.withgoogle.com/print/guides/5721312655835136/), Google wanted to nail down, once and for all, what factors contributed to team effectiveness.
 
-{{< upscribe >}}
+{{< mc >}}
 
 The number one contributor to team effectiveness at Google was surprising at the time; *psychological safety*. "Psychological safety refers to an individual's perception of the consequences of taking an interpersonal risk." This is a mind bending idea but, it has real impact on a team's ability to perform and innovate. Let's analyze an example in my own work life of creating this psychological safety.
 
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-8972983586873269"
-     data-ad-slot="4663018952"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+{{< adsense-inarticle >}}
 
 In my career, I have found it difficult to obtain psychological safety in my own work. There's a lot of reasons for this. The main one is, in a previous life, I couldn't talk about my day to day work and life. As I have gotten further away from that time, It has gotten easier to adjust to being more transparent. With a [permanent nerve injury](/long-thoracic-nerve-palsy/), constant pain, and dealing with the horror that is the VA, it's often a lot for an employer to consume in one fell swoop. Imagine trying to go over a decade and a half worth of history and its impacts in a thirty minute meeting. It's hard and a lot of people don't get it even when it's completely broken down for them.
 
@@ -41,17 +32,6 @@ I was nervous. In the past, people have found my story hard to comprehend becaus
 
 I've never felt more comfortable telling an employer, even a person for that matter, all the things that are going on with me. I know that my boss has my back. She might not understand every nuanced detail but she is willing to learn without prying. She's willing to ask how things are going. To make sure I'm mentally ready to tackle the things we're trying to take on. She's there if I need her. I've never felt more secure in a position than I do right now. Psychological safety matters a lot. I finally have it in my work life. For that, I am truly thankful.
 
-<!-- chrisshort.net Responsive -->
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-8972983586873269"
-     data-ad-slot="1297095894"
-     data-ad-format="auto"></ins>
-<script>
-   (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+{{< adsense-inarticle >}}
 
 If you don't want to take mine or Google's word on the importance of psychological safety, take Jay-Z's verse from NICE on the blockbuster album EVERYTHING IS LOVE, "What would you do, you knew you couldn't fail? I have no fear of anything, do everything well." Safety breeds success when you're not "looking over your shoulder" trying to figure out what is about to bite you.
-
-{{< upscribe >}}

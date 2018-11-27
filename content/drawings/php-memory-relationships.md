@@ -21,18 +21,11 @@ I recently had to templatize PHP configurations using Ansible and Jinja2. I had 
 2. [upload\_max\_filesize](http://php.net/manual/en/ini.core.php#ini.upload-max-filesize)
 3. [post\_max\_size](http://php.net/manual/en/ini.core.php#ini.post-max-size)
 
+{{< mc >}}
+
 These three directives values' are actually tied together. **memory\_limit** is the max amount of memory that a script can consume. **upload\_max\_filesize** defines the largest size a file upload can be. **post\_max\_size** limits the max size of post data.
 
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<!-- chrisshort.net Responsive -->
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-8972983586873269"
-     data-ad-slot="1297095894"
-     data-ad-format="auto"></ins>
-<script>
-   (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+{{< adsense-inarticle >}}
 
 It's not until you read the documentation on [post\_max\_size](http://php.net/manual/en/ini.core.php#ini.post-max-size) that it is clearly laid out that these three directives are related:
 
@@ -50,3 +43,5 @@ memory\_limit > post\_max\_size > upload\_max\_filesize
 Or...
 
 ![PHP Memory Relationships](/drawings/php-memory-relationships.png)
+
+{{< adsense-matched >}}

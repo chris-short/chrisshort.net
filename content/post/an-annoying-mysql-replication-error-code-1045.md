@@ -16,16 +16,7 @@ I was fixing MySQL replication on a slave this past week. Everything seemed to b
 <pre><code class="language-bash">Last_IO_Errno: 1045
 Last_IO_Error: error connecting to master 'repl@blah.local:3306' - retry-time: 60 retries: 86400</code></pre>
 
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<!-- chrisshort.net Responsive -->
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-8972983586873269"
-     data-ad-slot="1297095894"
-     data-ad-format="auto"></ins>
-<script>
-   (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+{{< adsense-inarticle >}}
 
 Let me look up [MySQL error code 1045](https://dev.mysql.com/doc/refman/5.6/en/error-messages-server.html#error_er_access_denied_error):
 
@@ -36,4 +27,6 @@ That's not helpful. After some additional testing I realized the password might 
 
 It's annoying that this limit exists and the error 1045 message isn't clearer about it. Hopefully you found this very early on in your search for an answer.
 
-{{< upscribe >}}
+{{< mc >}}
+
+{{< adsense-matched >}}

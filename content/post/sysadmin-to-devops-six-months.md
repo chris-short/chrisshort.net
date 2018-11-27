@@ -14,7 +14,7 @@ aliases = ["sysadmin-to-devops-six-months"]
 
 The other day my Vice President asked me a question, "What would it take to turn a good SysAdmin into a [DevOps](https://devopsish.com/) engineer?" He followed it up with, "Don't spend more than ten minutes thinking about it." He was not disappointed when I told him the next day I am spending way more than ten minutes on answering the question. This is a hard question for me to answer. This is a question that you won't know if your answer is right for at least six months.
 
-{{< upscribe >}}
+{{< mc >}}
 
 I had more than ten minutes worth of thoughts pop into my head within seconds of the question. A deluge of DevOps lessons learned washed over me. I realized that I needed to build a framework to help others embrace DevOps culture and thinking. It's not feasible to have a framework that does not define what you are trying to build.
 
@@ -63,17 +63,16 @@ People learn in different ways. These two books provide a story and a guide in d
 
 A common misconception about DevOps is that it is all about tooling. Tools are but a fraction of the larger DevOps picture. Your DevOps teams should feel free to enable whatever tooling makes the most sense to the team. Being agnostic is important but, it is better for the business if simpler, well-known tooling is in use. For example, git may not be the easiest to use version control software but, it is the most widely known. A configuration management tool that is simple to use but has a smaller market share could end up being a bad decision as the need for talent grows. Even the creator of Ansible was not specific when suggesting the importance of a configuration management tool. A thoughtfully chosen tool to manage something is better than nothing.
 
-<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr"><a href="https://twitter.com/ChrisShort">@ChrisShort</a> <a href="https://twitter.com/Josh_Atwell">@Josh_Atwell</a> <a href="https://twitter.com/bridgetkromhout">@bridgetkromhout</a> <a href="https://twitter.com/mipsytipsy">@mipsytipsy</a> <a href="https://twitter.com/TriangleTodd">@TriangleTodd</a> <a href="https://twitter.com/cote">@cote</a> <a href="https://twitter.com/nicolefv">@nicolefv</a> <a href="https://twitter.com/RealGeneKim">@RealGeneKim</a> learn a CM tool, befriend the build ppl</p>&mdash; Michael DeHaan (@laserllama) <a href="https://twitter.com/laserllama/status/857382468378390533">April 26, 2017</a></blockquote>
-<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+{{< tweet 857382468378390533 >}}
 
 Tools that enable collaboration and increase communication amongst your DevOps team are critical. No one exists in a vacuum. Writing documentation, communicating changes, updating tickets or work orders, and committing code to version control are all necessary tools and processes for DevOps. Project management should integrate with these tools as well to prevent tool sprawl. As your teams focus on fewer and fewer entry points into the systems they are maintaining they will have a harder time interfacing with one-off systems. Project management, HR, or other business processes need to integrate into the daily routines of people to be successful. Keeping the tooling tight and consistent is critical to DevOps.
 
 Continuous Improvement applies not only to systems and code but to people too. It's logical to mention some continuous improvement tools for DevOps practitioners. Encouraging engineers to attend Meetups is helpful for them to learn things that are outside of their sphere of influence. Attending and speaking at conferences (for example, [DevOpsDays](https://www.devopsdays.org/)) should be encouraged as well. Culture is as much about community as it individuals within it; DevOps is no different.
 
+{{< adsense-inarticle >}}
+
 Reading newsletters cultivated by active community members (not product makers) can be helpful for continuous learning (shameless plug for [DevOps'ish](https://devopsish.com/)). Technical news sites like [lobste.rs](https://lobste.rs/), [Hacker News](https://news.ycombinator.com/) (don't read the comments), [Twitter (#DevOps)](https://twitter.com/hashtag/DevOps), [DevOps Newsletters](https://devopsnewsletters.com/), etc. are also helpful at pushing new concepts to engineers. Books are fabulous resources but, there are so many they cannot be consumed in their entirety. Engineers will often have books as a reference for when needed. A subscription to O'Reilly's Safari would enable your engineers to have access to a world's worth of information for a marginal fee. It also removes some financial burden from your engineers as they look to build their libraries.
 
 ## Conclusion
 
-The [DevOps](https://devopsish.com/) journey is a combination of people, processes, and tools. The culmination of these is a team of allies pushing the envelope and never resting on their laurels. There is no such thing as a completed DevOps transition. Resting on your laurels is not a DevOps mindset. DevOps and its allies should be iterating and improving upon what they have learned daily. Building a team to do anything is no simple task. But, building a person that's willing to embrace cultures and methods is an easier task. Show them a path, help them go down it, and embrace their feedback. 
-
-{{< upscribe >}}
+The [DevOps](https://devopsish.com/) journey is a combination of people, processes, and tools. The culmination of these is a team of allies pushing the envelope and never resting on their laurels. There is no such thing as a completed DevOps transition. Resting on your laurels is not a DevOps mindset. DevOps and its allies should be iterating and improving upon what they have learned daily. Building a team to do anything is no simple task. But, building a person that's willing to embrace cultures and methods is an easier task. Show them a path, help them go down it, and embrace their feedback.

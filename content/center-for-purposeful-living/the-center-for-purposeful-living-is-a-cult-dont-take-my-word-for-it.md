@@ -17,20 +17,13 @@ aliases = [
 
 It's obvious I'm not the only one that believes Human Service Alliance, University for Human Goodness, Center for Purposeful Living, or whatever they are calling themselves this week is a cult. That fact is apparent to many not engulfed in the organization including those that have had some limited experience with the cult. A few nights ago I had an exchange of e-mails with someone who wishes to remain anonymous (so for the sake of this article we'll call them Quincy).
 
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<!-- chrisshort.net Responsive -->
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-8972983586873269"
-     data-ad-slot="1297095894"
-     data-ad-format="auto"></ins>
-<script>
-   (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+{{< adsense-inarticle >}}
 
 Quincy conveyed to me a great many oddities that were noticed about the Center for Purposeful Living:
 
     My father dated a woman who had been heavily involved in [Human Service Alliance] for several years. They came to meet about a year after my dad began volunteer care for terminally ill people at HSA. His effort was to give a small payback for gifts of time and care given to our family during my grandfather's cancer journey in 1997. [Human Service Alliance] seemed like a match for that need.
+
+{{< mc >}}
 
 Allow me to point out that the Center for Purposeful Living no longer cares for the terminally ill. I'm not quite sure the real reason why they stopped the only noble cause that Human Service Alliance (fka University for Human Goodness, aka Center for Purposeful Living) had.
 
@@ -56,9 +49,13 @@ The screening of Internet activities by those within the organization is somethi
 
 That's right in line with the power Derwyn Lackey possesses over his disciples. The fact that Quincy's father's fiancée didn't know how to pull out of Human Service Alliance (now known as the Center for Purposeful Living) is testament to the weak-willed, feeble minded people Derwyn Lackey and his cult prey upon. Those that are strong enough to get out are damned and referred to as evil amongst Derwyn's many "teaching" e-mails.
 
+{{< adsense-inarticle >}}
+
 The ability for these people to judge and condemn others is not "spiritual" or "soulful" in nature. This is not the work of people with a higher calling; this is the work of those who align themselves with evil.
 
 I'd like to thank Quincy and his father for sharing this story. I would also like to reiterate the fact that I'm willing to anonymously tell other's stories if they so wish for me to publish them.
 
 ![Derwyn Lackey (Derwin Lackey)](/center-for-purposeful-living/recent-derwin-lackey-derwyn.jpg)
 Derwyn Lackey, Supreme Ruler of the Center for Purposeful Living
+
+{{< adsense-matched >}}

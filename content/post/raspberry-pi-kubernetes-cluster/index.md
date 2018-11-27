@@ -16,13 +16,13 @@ aliases = [
 
 For many months, I have wanted a **Kubernetes** cluster of my very own. One that I can tinker with, break, rebuild, and deploy services to. In the fall of 2017, I decided to stand up a three node cluster in Google Kubernetes Engine (GKE). It was nice and shiny and Googly but it wasn't cheap. Totaling almost $40/month to run I was envious of my friends who have virtually unlimited access to cloud compute.
 
+{{< mc >}}
+
 Once I [left Bankrate](/leaving-bankrate/), the GKE cluster was shuttered and a lower cost option was needed. I ran minikube for a while. I got annoyed when a laptop went to sleep and ruined minikube. I tried to run a single node cluster on an old 2010 MacBook Pro. But, it wasn't up to the task without [VT-x](https://en.wikipedia.org/wiki/X86_virtualization#Intel_virtualization_(VT-x)). I abandoned the idea for later on once I realized the four old Raspberry Pis I had weren't going to be able to handle but a handful of containers.
 
 {{< adsense-inarticle >}}
 
 While job hunting, writing, and everything else I did at the end of 2017 I started a side mission. I was going to figure out where the sweet spot is in the cost to capabilities ratio for in-home Kubernetes clusters. I went to the University of Michigan Property Disposition building after a trip to the Ann Arbor VA Hospital. There wasn't much there given the time of year and what was there were old Mac Pros at around $200 each (with no hard drives). I searched Craigslist but there wasn't much available. I'll be honest, looking on Craigslist in the Detroit Metro area left me wondering, "If I do find something, how safe would I be going to buy it?" Plus, hardware consistency is very important to me. It was going to be hard to find three, four, or five identical systems. I know this isn't a requirement of Kubernetes but it makes things simpler when it comes to systems management. I looked at other surplus hardware sites and while there were options I hit a moral dilemma. "If I buy these cheap systems will I be taking away from someone who would benefit more from them?"
-
-{{< upscribe >}}
 
 * Low cost (less than $500 which eliminates a lot of options)
 * Four or more nodes (for rolling cluster updates; emulate real-world deployments)
@@ -31,9 +31,9 @@ While job hunting, writing, and everything else I did at the end of 2017 I start
 
 Time and time again I kept searching and coming back to the [**Raspberry Pi 3**](https://www.raspberrypi.org/products/raspberry-pi-3-model-b/) as a decent platform that fit my needs. It seems like Raspberry Pi Kubernetes clusters are popping up everywhere. The trend certainly has grown at the onset of 2018. Folks like [Alex Ellis](https://blog.alexellis.io/the-state-of-netbooting-raspberry-pi/) and [Scott Hanselman](https://www.hanselman.com/blog/HowToBuildAKubernetesClusterWithARMRaspberryPiThenRunNETCoreOnOpenFaas.aspx) are talking about Kubernetes running on Raspberry Pi clusters. It seems like the Raspberry Pi is a decent platform for Kubernetes.
 
-After having lunch one day in Ann Arbor with Ed Vielmetti of [Packet](https://www.packet.net/) and talking about [ARM](https://en.wikipedia.org/wiki/ARM_architecture) in the datacenter it made a lot of sense to go this route. ARM is the CPU of the future as chips will need to be more plentiful, more power efficient, and smaller. The Apple iPhone 8 I carry has six cores and amazing performance from ARM chips. Once Meltdown and Spectre hit my belief got a real-life wake-up call. Is Intel the chip of the future? No. ARM is (yes, I know ARM is susceptible to Spectre).
-
 {{< adsense-inarticle >}}
+
+After having lunch one day in Ann Arbor with Ed Vielmetti of [Packet](https://www.packet.net/) and talking about [ARM](https://en.wikipedia.org/wiki/ARM_architecture) in the datacenter it made a lot of sense to go this route. ARM is the CPU of the future as chips will need to be more plentiful, more power efficient, and smaller. The Apple iPhone 8 I carry has six cores and amazing performance from ARM chips. Once Meltdown and Spectre hit my belief got a real-life wake-up call. Is Intel the chip of the future? No. ARM is (yes, I know ARM is susceptible to Spectre).
 
 * Six [Raspberry Pi 3 Model B Motherboards](https://amzn.to/2P0EkS4)
 * Six [SanDisk Ultra 32GB microSDHC UHS-I Card with Adapter, Grey/Red, Standard Packaging (SDSQUNC-032G-GN6MA)](https://amzn.to/2DA6H7q)
@@ -65,6 +65,8 @@ My setup is far from perfect but it's great for under $400. It's hard to beat a 
 
 While I highly recommend Kubernetes on Raspberry Pi, there are some trade-offs to running Kubernetes on ARM systems. A lot of the Kubernetes tools that people know and love don't support ARM (yet). But, after talking with some folks at Weave and Heptio there is a desire to get their tooling on ARM architecture. As a member of the Kubernetes community, I can help push ARM adoption along. I offered my help and access to my cluster should anyone want to work towards the goal of getting their tools on ARM-powered Kubernetes clusters.
 
-{{< upscribe >}}
+{{< mc >}}
 
 I am very happy with the progress I made in a handful of evenings on building and deploying a Raspberry Pi Kubernetes cluster. I'm hopeful that [rak8s](https://rak8s.io/) will turn into a full-blown project. Hopefully, it will allow others to learn and improve their skills while getting into Kubernetes on Raspberry Pi. PRs welcome and happy k8s'ing!
+
+{{< adsense-matched >}}

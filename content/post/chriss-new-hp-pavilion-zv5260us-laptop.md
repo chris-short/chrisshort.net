@@ -14,6 +14,8 @@ aliases = ["/archives/2004/08/chriss-new-hp-pavilion-zv5260us-laptop.php"]
 
 I finally did it. I bought a laptop before I headed out to California. Not so much for the trip to California but for another PC in the house and some more horsepower (a lot more horsepower). I'm not a gamer but I can always use a powerful processor.
 
+{{< mc >}}
+
 I picked up the HP Pavilion zv5260us. Here are the specs of the system:
 
 * AMD Athlon 64 3200+ Processor
@@ -29,16 +31,7 @@ I picked up the HP Pavilion zv5260us. Here are the specs of the system:
 * Firewire (IEEE 1394)
 * 3 USB 2.0 Ports
 
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<!-- chrisshort.net Responsive -->
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-8972983586873269"
-     data-ad-slot="1297095894"
-     data-ad-format="auto"></ins>
-<script>
-   (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+{{< adsense-inarticle >}}
 
 I dumped all the pre-installed software (of course) and installed the software I actually needed, removing all the crap that comes pre-installed on a laptop these days.
 
@@ -47,3 +40,5 @@ The thing I love most about the laptop is the speed but after that I thoroughly 
 What I've been doing with the wireless networking capabilities of the laptop will be discussed later this week.
 
 I'm also looking forward to a new release of a 64-bit Windows XP from Microsoft so that I can take better advantage of the 64-bit processor in this laptop. There will be more on that in the not too distant future.
+
+{{< adsense-matched >}}

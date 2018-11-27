@@ -12,16 +12,7 @@ title = "Review: Wii Sports Resort"
 
 I have to say that I was not too enthusiastic about [Wii Sports Resort](http://www.wiisportsresort.com/) when its release was announced. What intrigued me, obviously, was the addition of the Wii MotionPlus functionality. Wii Sports Resort is essentially Wii Sports 2 with a resort/spa theme.
 
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<!-- chrisshort.net Responsive -->
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-8972983586873269"
-     data-ad-slot="1297095894"
-     data-ad-format="auto"></ins>
-<script>
-   (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+{{< mc >}}
 
 All sports activities take place on an island which is explorable by plane (which I do enjoy).  The added gyroscopes and spatial awareness added by the Wii MotionPlus accessory is pretty awesome.
 
@@ -42,6 +33,8 @@ There are 12 games inside Wii Sports Resort that all have great playability (min
 * Cycling
 * Air Sports
 
+{{< adsense-inarticle >}}
+
 The Frisbee games are exceedingly difficult to get to work in Automatic mode (automatic being that it senses when you want to release the Frisbee as opposed to you using a button) but are entertaining when you get the hang of it.
 
 ![Wii Sports Resort](https://cdn.chrisshort.net/wii-sports-resort-02.jpg)
@@ -55,3 +48,5 @@ The Archery game is quite impressive.  You must factor in wind, timing, and your
 Overall, I really enjoy Wii Sports Resort, but, in small doses.  To accommodate for that I recommend changing between the 12 games frequently.
 
 On a scale of 1 to 10 I give Wii Sports Resort a 7.
+
+{{< adsense-matched >}}

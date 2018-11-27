@@ -14,16 +14,7 @@ imagecap = ""
 
 I was helping to staff the [Cloud Native Computing Foundation](https://cncf.io) booth at [ChefConf 2018](https://chefconf.chef.io/) when the topic of encouraging folks to write articles about what they're doing with [Kubernetes](/tags/kubernetes/) came up. One common problem often encountered is convincing folks that what they're doing is interesting work. The next problem is convincing folks that writing is not too difficult.
 
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-8972983586873269"
-     data-ad-slot="4663018952"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+{{< mc >}}
 
 Breaking down the task of writing into three steps is helpful:
 
@@ -48,7 +39,7 @@ Having an outline is important when writing any work. It doesn't have to be fanc
     * Metadata?
 * Conclusion (The Big Takeaway)
 
-{{< upscribe >}}
+{{< adsense-inarticle >}}
 
 In general, *try* to make three main topic points with no more than three subpoints under them. There is some science behind the [rule of three](https://en.wikipedia.org/wiki/Rule_of_three_(writing)) in writing. Credit to [Dawn Parzych](https://youtu.be/Mg9kexS6B30) for pointing this out at DevOpsDays NYC 2018. When doing a deep dive document or article feel free to break this model as needed. But, in general, try to stick to a shorter format for easier consumption.
 
@@ -61,16 +52,7 @@ Proofreading is hard. But, the good news is there are some tools available to he
 
 If there are other handy tools for proofreading or editing please [submit a merge request](https://gitlab.com/chrisshort/chrisshort.net/tree/master/content/post/writing-technical-articles) to this article.
 
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-8972983586873269"
-     data-ad-slot="4663018952"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+{{< adsense-inarticle >}}
 
 You can also ask for help proofreading. For example, when submitting an article to a site like [opensource.com](https://opensource.com/how-submit-article), they have a team of editors and staff available to assist. When in doubt, ask for help. Perhaps a friend, colleague, supervisor or family member has some skills to assist. It never hurts to ask. But, remember, that people edit for a living. Be sure to include a form of compensation for their time.
 
@@ -81,15 +63,6 @@ The last (and sometimes most important) thing to consider when writing a technic
 
 Both of these sites have a trending section that allows you to find some high-quality images to use quickly. The formatting, style guide, and metadata are important and often simple things to include in an article. Don't stress too much about it but, make sure to consider it when writing.
 
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-8972983586873269"
-     data-ad-slot="4663018952"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+{{< adsense-inarticle >}}
 
 In conclusion, the guidance can be boiled down to this: Think of three points to make in an article; add an introduction and conclusion to those three points. These five points become an outline. The three main points should have a few subpoints plugged in to help stay on topic. Once the outline is built, plug in the missing grammatically bits. Once you have that done align everything to whatever style guide may exist. Tack on the additional metadata and maybe an image then boom! You have a nice, well written technical article.

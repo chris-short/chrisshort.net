@@ -12,11 +12,12 @@ aliases = ["/ntp-go-ahead-and-love-it/"]
 
 +++
 
-It's 2016 (almost 2017) why is the time off on your system clocks? It became apparent to me that there are some folks out there that do not realize their clocks are off for a reason. My Twitter buddy [Julia Evans](https://twitter.com/b0rk) recently made a graphic about [distributed systems](https://twitter.com/b0rk/status/793288477060263936) that mentioned clock issues and it made me really sad.
+It's 2016 (almost 2017) why is the time off on your system clocks? It became apparent to me that there are some folks out there that do not realize their clocks are off for a reason. Julia Evans](https://twitter.com/b0rk) recently made a graphic about [distributed systems](https://twitter.com/b0rk/status/793288477060263936) that mentioned clock issues and it made me really sad.
 
-![Clocks Lie](https://cdn.chrisshort.net/clocks-lie.jpg)
-
+![Clocks Lie](https://cdn.chrisshort.net/clocks-lie.jpg)  
 Photo Credit: [Julia Evans](http://jvns.ca/)
+
+{{< mc >}}
 
 We had a saying when I was in the Air Force, "*Timing is everything.*" We lugged around GPS receivers that hooked up to our bulk and circuit encryption devices so that they would have accurate, consistent time with other encryption devices around the world.
 
@@ -24,16 +25,7 @@ The same theory still exists in modern encryption tools today. Set your clock to
 
 The problem of clocks "lying" has been solved for years. What made me sad about Julia's tweet was that I know how to solve this problem. However, I have never written on the topic. If you are not familiar with how to solve this distributed systems problem, allow me to introduce you to **Network Time Protocol (NTP)**.
 
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>  
-<!-- chrisshort.net Responsive -->  
-<ins class="adsbygoogle"  
-     style="display:block"
-     data-ad-client="ca-pub-8972983586873269"
-     data-ad-slot="1297095894"
-     data-ad-format="auto"></ins>
-<script>  
-(adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+{{< adsense-inarticle >}}
 
 ## What is NTP you ask?
 
@@ -61,16 +53,7 @@ Photo Credit: [Aaron Toponce](https://pthree.org/)
 
 If you are running bare metal, a virtual machine host, or a Docker Engine somewhere you need NTP. It will solve a lot of problems related to time. *I cannot emphasize enough the importance of NTP*. Many organizations have problems related to time that can be solved by a simple [Ansible playbook](https://galaxy.ansible.com/geerlingguy/ntp/), [yum](http://www.cyberciti.biz/faq/howto-install-ntp-to-synchronize-server-clock/), or [apt](https://help.ubuntu.com/lts/serverguide/NTP.html). Think of having accurate and consistent time across every device, log, and packet on your network. I actually run NTP on the AWS EC2 instance that I am writing this post on at the moment (scheduling posts for maximum exposure relies on good timing).
 
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>  
-<!-- chrisshort.net Responsive -->  
-<ins class="adsbygoogle"  
-     style="display:block"
-     data-ad-client="ca-pub-8972983586873269"
-     data-ad-slot="1297095894"
-     data-ad-format="auto"></ins>
-<script>  
-(adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+{{< adsense-inarticle >}}
 
 ## How Does NTP Determine Quality?
 
@@ -117,16 +100,7 @@ But what are those symbols on the far left of the results table? The dashes (-),
 * `*  sys.peer`: The peer has been declared the system peer and lends its variables to the system variables.
 * `o  pps.peer`: The peer has been declared the system peer and lends its variables to the system variables. However, the actual system synchronization is derived from a pulse-per-second (PPS) signal, either indirectly via the PPS reference clock driver or directly via kernel interface.
 
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>  
-<!-- chrisshort.net Responsive -->  
-<ins class="adsbygoogle"  
-     style="display:block"
-     data-ad-client="ca-pub-8972983586873269"
-     data-ad-slot="1297095894"
-     data-ad-format="auto"></ins>
-<script>  
-(adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+{{< adsense-inarticle >}}
 
 ## NTP Pool
 
@@ -140,16 +114,7 @@ If you are running a popular Linux distro or supported AWS AMI chances are when 
 
 I run an NTP pool server from my house. If you are using the pool in the US there is a chance you could be using timing from ntp.chrisshort.net. The more servers in the pools the better off systems using the pool will be. But, do not take adding a server to the pool lightly. There are some security concerns and configuration best practices that need to be taken into account when running a public NTP server that are outside the scope of this article.
 
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>  
-<!-- chrisshort.net Responsive -->  
-<ins class="adsbygoogle"  
-     style="display:block"
-     data-ad-client="ca-pub-8972983586873269"
-     data-ad-slot="1297095894"
-     data-ad-format="auto"></ins>
-<script>  
-(adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+{{< adsense-inarticle >}}
 
 ## How Many NTP Sources Do I Need?
 

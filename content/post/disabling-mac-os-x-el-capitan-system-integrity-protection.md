@@ -12,16 +12,7 @@ title = "Disabling Mac OS X El Capitan System Integrity Protection"
 
 Apple has introduced a new security feature in Mac OS X El Capitan (10.11) called **System Integrity Protection** (sometimes referred to as [rootless](http://arstechnica.co.uk/apple/2015/06/preview-os-x-el-capitans-first-beta-is-a-promising-heap-of-refinements/4/#h1)).
 
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<!-- chrisshort.net Responsive -->
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-8972983586873269"
-     data-ad-slot="1297095894"
-     data-ad-format="auto"></ins>
-<script>
-   (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+{{< mc >}}
 
 What is System Integrity Protection? According to [Apple's documentation](https://developer.apple.com/library/prerelease/mac/releasenotes/MacOSX/WhatsNewInOSX/Articles/MacOSX10_11.html):
 
@@ -29,18 +20,9 @@ What is System Integrity Protection? According to [Apple's documentation](https:
 
 What does it really do? It prevents users, processes, etc. from modifying certain resources on the system (even if you're running as root).
 
-This is a great security enhancement for the vast majority of Mac users. But, some people need to modify the resources protected by System Integrity Protection. 
+{{< adsense-inarticle >}}
 
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<!-- chrisshort.net Responsive -->
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-8972983586873269"
-     data-ad-slot="1297095894"
-     data-ad-format="auto"></ins>
-<script>
-   (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+This is a great security enhancement for the vast majority of Mac users. But, some people need to modify the resources protected by System Integrity Protection. 
 
 For example, I compile and use a few GNU utilities ([sed for example](/gnu-sed-on-mac-os-x/)) so that I don't have to worry about BSD vs. GNU syntax changes when bouncing between my laptop and servers I'm administering.
 
@@ -55,3 +37,5 @@ Even though the [security configuration  is stored in NVRAM](https://developer.a
 System Integrity Protection will now be disabled; you're back to having complete control of your operating system again. You can verify the System Integrity Protection configuration by entering `csrutil status` in a terminal.
 
 If you want to get down into the nuts and bolts of System Integrity Protection (aka SIP, rootless) I recommend reading [Rootfool – a small tool to dynamically disable and enable SIP in El Capitan](https://reverse.put.as/2015/10/12/rootfool-a-small-tool-to-dynamically-disable-and-enable-sip-in-el-capitan/)
+
+{{< adsense-matched >}}

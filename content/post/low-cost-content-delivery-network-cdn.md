@@ -13,16 +13,7 @@ title = "Low Cost Content Delivery Network (CDN)"
 
 A content delivery network (CDN) provides a service that enables public facing, web based responsive access to said resources in an effort to maintain a good user experience across the planet. A CDN provides a localized cache (copy) of your web site and its content closer to end users. CDNs leverage local data centers closer to end users and a little DNS magic to make this work. CDNs help their customers have a significantly smaller infrastructure footprint while maintaining fast load time for services provided. In theory, a CDN allows for web based resources hosted in Miami to be as responsive for the folks in Miami as it would be for the folks in Anchorage, Bangkok, Charlotte, Dallas, Edinburgh, Frankfurt, Glasgow, Helsinki, Instanbul... You get the idea.
 
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<!-- chrisshort.net Responsive -->
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-8972983586873269"
-     data-ad-slot="1297095894"
-     data-ad-format="auto"></ins>
-<script>
-   (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+{{< mc >}}
 
 The problem with CDNs is that they are not cheap to build thus are not cheap to utilize. High speed, blended provider connectivity to data centers across the globe is an expensive venture. As is maintaining the servers, network infrastructure, facilities, etc. to provide a local copy of your favorite cat video. For anyone that has ever had issues scaling a reverse proxy service, think of a CDN as a planetary distributed reverse proxy for all of humanity to utilize. When thought of in those terms it is easy to understand why CDNs cost so much to use.
 
@@ -30,16 +21,7 @@ Enter [CloudFlare](https://www.cloudflare.com/); a lower-cost content delivery n
 
 Amazon S3 is a cheap place to host content. As of June 12, 2016, S3 storage costs are, at most, $0.03 per gigabyte in the United States. With the combination of low cost storage and free CDN (and DNS services) there isn't much of a reason not to get your own CDN up and running. Let's get started:
 
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<!-- chrisshort.net Responsive -->
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-8972983586873269"
-     data-ad-slot="1297095894"
-     data-ad-format="auto"></ins>
-<script>
-   (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+{{< adsense-inarticle >}}
 
 First, setup a [CloudFlare](https://www.cloudflare.com/a/sign-up) (you will need to change the nameservers for the domain you intend to use as instructed) and [Amazon AWS](https://portal.aws.amazon.com/gp/aws/developer/registration/index.html) account if you don't already have one.
 
@@ -89,6 +71,8 @@ Your new CDN is up and running. Upload objects to S3 and serve them up via Cloud
 <pre><code class="language-bash">curl -I https://URL/FILE | grep CF-Cache-Status</code></pre>
 
 If this is the first time an object has evert been accessed or after the Edge Cache TTL has expired you will see `CF-Cache-Status: MISS`. Run the command again and you should see `CF-Cache-Status: HIT`.
+
+{{< adsense-inarticle >}}
 
 Congrats! You are now running your low cost, high quality, branded CDN from Amazon S3 and CloudFlare. Bask in the greatness that is improved responsiveness and decreased bandwidth costs.
 

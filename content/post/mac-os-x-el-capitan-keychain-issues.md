@@ -12,16 +12,7 @@ title = "Mac OS X El Capitan: Keychain Issues"
 
 I started having some Apple Keychain issues after upgrading to Mac OS X El Capitan. At random, I would be asked to sign back into accounts that I am logged into through Internet Accounts in System Preferences.
 
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<!-- chrisshort.net Responsive -->
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-8972983586873269"
-     data-ad-slot="1297095894"
-     data-ad-format="auto"></ins>
-<script>
-   (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+{{< mc >}}
 
 I thought it a minor issue but it became unavoidable though once El Capitan told me it couldn't find my login Apple Keychain after logging in:
 
@@ -29,22 +20,15 @@ I thought it a minor issue but it became unavoidable though once El Capitan told
 
 Something related to the 'login' Apple Keychain happened during the Mac OS X El Capitan upgrade process I'm assuming and after a reboot this morning everything went to hell in a hand basket it would seem.
 
+{{< adsense-inarticle >}}
+
 I did some searching and found that deleting all the files from ~/Library/Keychains was a workaround (Apple Keychain First Aid was unable to help). I moved them out of the way (moved to Desktop), rebooted, and still had the issue.
 
 ![Keychains Folder](https://cdn.chrisshort.net/Keychains.png)
 
 I got on the horn with AppleCare. Their resolution was essentially the same. But, they had me completely delete everything in ~/Library/Keychains as Apple Keychain apparently has a way to follow moved keychains (slightly creepy).
 
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<!-- chrisshort.net Responsive -->
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-8972983586873269"
-     data-ad-slot="1297095894"
-     data-ad-format="auto"></ins>
-<script>
-   (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+{{< adsense-inarticle >}}
 
 After some reboots I'm not getting these annoying "re-sign in" messages. But, I did have to re-sign in to literally everything that was ever signed-in to by me on this Macbook Pro. ~~I should also point out that this seemed to fix issues I was having with the Junos Pulse client not being able to sign in to VPN accounts.~~
 

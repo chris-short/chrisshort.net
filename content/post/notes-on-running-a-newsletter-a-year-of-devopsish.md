@@ -13,9 +13,11 @@ image = "https://cdn.chrisshort.net/devopsish-growth-chart.png"
 
 In late 2016, I set a goal to start and run a successful weekly newsletter. I decided that DevOps would be the topic. On December 11, 2016, [DevOps'ish](https://devopsish.com/) was born. After fifty-two weeks of uninterrupted DevOps newsletters, I have some things to share about the experience.
 
+{{< carbon >}}
+
 The amount of effort writing a weekly newsletter for the past year has changed over time. As you write a newsletter the format evolves. As you get busier and busier the format self optimizes. I've done one thing to make the time required to write the newsletter by hand more manageable; write DevOps'ish on Saturday night. If a family or sporting event is going to prevent me from writing the newsletter on Saturday around 8:30, I do it Friday. The consistency is key; you set the tone for yourself, those around you, and your readers.
 
-{{< upscribe >}}
+{{< mc >}}
 
 The process for writing the newsletter is simplistic enough. Throughout the week I gather links that I read and share through my [DIY Buffer](/diy-buffer-using-ifttt/). I then use Pocket and a cursory look at Twitter analytics to figure out what to put in the newsletter. In the beginning, the format of DevOps'ish was very sarcastic in nature. The [established categories](https://www.evernote.com/shard/s5/sh/adc0554b-bdfc-4f05-a261-0dc7e153a28a/3c2972b7cf29d347) became a bear to manage though. As much as I loved, "Department of Dafuq", "Department of Happy Little Clouds", and "Department of Next Year's Old Tech" it was too much to manage. The categorizations changed to match the [People, Process, and Tools](https://speakerdeck.com/chrisshort/a-night-of-devops?slide=21) concept I formed in my [DevOps 101 talk for Open Source South Carolina](/a-night-of-devops-at-open-source-south-carolina/). This categorization change drastically simplified newsletter writing.
 

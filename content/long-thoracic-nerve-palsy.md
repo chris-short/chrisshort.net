@@ -13,18 +13,9 @@ aliases = ["long-thoracic-nerve-palsy-winging-scapula"]
 
 I'm Chris Short and I have **Long Thoracic Nerve (LTN) Palsy** with **Winging of the Scapula**. On October 12, 2003, during a military hurricane evacuation exercise at Avon Park Air Force Range, I managed to permanently damage my LTN leading to winging of my right scapula.
 
-My life has changed dramatically since I got hurt. Pain is something that I am constantly learning to live with and occasionally thrive with.
+{{< mc >}}
 
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<!-- chrisshort.net Responsive -->
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-8972983586873269"
-     data-ad-slot="1297095894"
-     data-ad-format="auto"></ins>
-<script>
-   (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+My life has changed dramatically since I got hurt. Pain is something that I am constantly learning to live with and occasionally thrive with.
 
 ### Winging of the Scapula
 
@@ -33,6 +24,8 @@ According to Wikipedia, "A **winged scapula** (scapula alata) is a condition in 
 ### Long Thoracic Nerve (LTN) Palsy
 
 The **long thoracic nerve** (LTN) is a nerve that arises from the fifth, sixth, and seventh cervical nerves, descends the neck behind the brachial plexus, and is distributed to the anterior serratus muscle.
+
+{{< adsense-inarticle >}}
 
 **Palsy** is a medical term derived from the word paralysis that is defined as paralysis often accompanied by loss of feeling and uncontrolled body movements such as shaking.
 
@@ -44,16 +37,7 @@ The **long thoracic nerve** (LTN) is a nerve that arises from the fifth, sixth, 
 
 There is not much that offers pain relief from the nerve damage itself.  The muscle in my shoulder and upper back tend to always be sore from everyday use due to the winging. But, muscle relaxers are incredibly important in keeping my pain under control. Eliminating muscle spasms leads to a better life experience overall and prevents nasty flare ups before they even start. It took ten years to realize this and hopefully others can learn from this.
 
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<!-- chrisshort.net Responsive -->
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-8972983586873269"
-     data-ad-slot="1297095894"
-     data-ad-format="auto"></ins>
-<script>
-   (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+{{< adsense-inarticle >}}
 
 #### Muscle Spasms
 
@@ -78,3 +62,5 @@ Trigger point injections into two regions have been the go to relief option. How
 #### Pulsed Radiofrequency Lesioning
 
 While deemed "experimental" by insurance companies due to overuse, pulsed radiofrequency lesioning has provided significant pain relief to me.
+
+{{< adsense-matched >}}

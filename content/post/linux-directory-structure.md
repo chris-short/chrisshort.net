@@ -16,16 +16,7 @@ aliases = [
 
 ![Tux Directory Tree](https://cdn.chrisshort.net/tux-tree.gif) For more information about the Linux directory structure see the [Filesystem Hierarchy Standard (FHS)](http://www.pathname.com/fhs/) which is part of the [Linux Standard Base (LSB)](http://www.linuxbase.org/) which is a workgroup of the [Free Standards Group](http://www.freestandards.org/).
 
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<!-- chrisshort.net Responsive -->
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-8972983586873269"
-     data-ad-slot="1297095894"
-     data-ad-format="auto"></ins>
-<script>
-   (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+{{< mc >}}
 
 `/` **The root directory** (not to be concerned with the root account) is similar to a drive letter in Windows (C:\, D:\, etc.) except that in the Linux directory structure there is only one root directory and everything falls under it (including other filesystems and partitions). The root directory is the directory that contains all other directories. When a directory structure is displayed as a tree, the root directory is at the top. Typically no files or programs are stored directly under root.
 
@@ -34,6 +25,8 @@ aliases = [
 `/boot` This directory includes essential system boot files including the kernel image (vmlinuz).
 
 `/dev` This directory contains the devices available to Linux. Remember that Linux treats devices like files and you can read and write to them as if they were. Everything from floppy drives to printers to your mouse is contained in this directory. Included in this directory is the notorious /dev/null which is most useful for deleting outputs of various functions and programs.
+
+{{< adsense-inarticle >}}
 
 `/etc` Linux uses this directory to store system configuration files. Most files in this directory are text and can be edited with your favorite text editor (my favorite is ~~JED~~ [vim](http://www.vim.org/)). This is one of Linux's greatest advantages because there is never a hidden check box and just about all your configurations are in one place. **/etc/inittab** is a text file that details what processes are started at system boot up and during regular operation. **/etc/fstab** identifies file systems and their mount points (like floppy, CD-ROM, and hard disk drives). **/etc/passwd** is where users are defined.
 
@@ -58,3 +51,5 @@ aliases = [
 `/usr` Typically a shareable, read-only directory. Contains user applications and supporting files for those applications. **/usr/X11R6** is used by the X Window System. **/usr/bin** contains user accessible commands. **/usr/doc** holds documentation for /usr applications. **/usr/include** this directory contains header files for the C compiler. **/usr/include/g++** contains header files for the C++ compiler. **/usr/lib** libraries, binaries, and object files that aren't usually executed directly by users. **/usr/local** used for installing software locally that needs to be safe from being overwritten when system software updates occur. **/usr/man** is where the manual pages are kept. **/usr/share** is for read-only independent data files. **/usr/src** is used for storing source code of applications installed and kernel sources and headers.
 
 `/var` This directory contains variable data files such as logs (**/var/log**), mail (**/var/mail**), and spools (**/var/spool**) among other things.
+
+{{< adsense-matched >}}

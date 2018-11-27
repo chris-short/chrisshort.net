@@ -18,9 +18,9 @@ It's the most wonderful time of year! When everyone gets together with family or
 
 Luckily, despite having not worked on anything other than Mac and Linux the past seven years, I don't get too many wild questions from family. I'll sit down with Grandma and help her with an iPhone issue from time to time. My mother-in-law has some legacy e-mail stuff all filtered in her Gmail. Sometimes AT&T changes something and it breaks. These things happen. Complex systems are hard enough. No sense in me being an asshole about it (although I will get frustrated from time to time).
 
-I'm also lucky that most of my family follows my lead on technology. This means my wonderful wife can answer a lot of the questions too. It took some hard lessons to get to this point. They understand that and are happy to learn from our household's experiences (and my profession of twenty some years helps too).
+{{< mc >}}
 
-{{< upscribe >}}
+I'm also lucky that most of my family follows my lead on technology. This means my wonderful wife can answer a lot of the questions too. It took some hard lessons to get to this point. They understand that and are happy to learn from our household's experiences (and my profession of twenty some years helps too).
 
 I am very fortunate this year to have two households going through the exact same transition. Both households, after years of us doing it and our youngest household doing it, are cutting the cord. They’re getting rid of their expensive TV packages and going internet service only. Both households will also switch to PlayStation Vue for their sports and Bravo fixes.
 
@@ -54,7 +54,7 @@ Both homes understand that their internet access issues are not my full time job
 
 If push comes to shove, both homes can go through the setup process for Google WiFi with little guidance. They've been trained to get over their fear of breaking something by merely using software as intended (thanks every Windows environment these folks ever worked in). Couple that with a quick call to Chris or Julie for any questions and everyone is happy with their decisions.
 
-{{< upscribe >}}
+{{< mc >}}
 
 ## Notes for Support Requesters
 

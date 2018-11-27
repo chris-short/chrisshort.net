@@ -14,7 +14,7 @@ imagecap = "IBM to acquire Red Hat for $34 Billion (with a B)"
 
 Since Sunday afternoon, I've been in a whirlwind of meetings, discussions, and calls about IBM's plan to acquire Red Hat for $34 billion. My mind has been racing but, after some consideration, I've decided to share my thoughts as a narrative timeline. Trust me when say that I have given this format considerable thought. It is likely the safest way (regulatory-wise) to deliver my thoughts on the topic.
 
-{{< upscribe >}}
+{{< mc >}}
 
 I would like to point out that I have updated [my **disclaimer** and this site's terms](/terms/). My views do not reflect those of my employer or entities I'm affiliated with. Names are withheld for obvious reasons.
 
@@ -22,16 +22,7 @@ I would like to point out that I have updated [my **disclaimer** and this site's
 
 On Sunday, October 29, 2018, I was watching my two older nephews play with Max at my youngest nephew's baptism party when a Bloomberg alert popped up. My phone was on a coffee table, while I could make out that the alert was Bloomberg I couldn't read what it said. "Bloomberg? On a Sunday? Huh." I thought to myself. Picking up the phone I immediately notice it says something about Red Hat. I see the headline, [IBM to Acquire Linux Distributor Red Hat for $33.4 Billion](https://www.bloomberg.com/news/articles/2018-10-28/ibm-is-said-to-near-deal-to-acquire-software-maker-red-hat).
 
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-8972983586873269"
-     data-ad-slot="4663018952"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+{{< adsense-inarticle >}}
 
 I opened the story, skimmed it, and got up to go find my wife, Julie. I show her the story. Julie knows IBM from living in Raleigh for a decade (not a good decade for IBM either). I don't recall exactly what she said or did but, it made me start looking for more information. While opening Inoreader an alert from Reuters came in, [IBM nears deal to acquire cyber security company Red Hat: sources](https://www.reuters.com/article/us-red-hat-m-a-ibm/ibm-nears-deal-to-acquire-cyber-security-company-red-hat-sources-idUSKCN1N20N3).
 
@@ -39,22 +30,13 @@ I opened Gmail so I could see what Red Hat's stream of consciousness (aka memo-l
 
 It was an odd feeling. Like, maybe I could have said something knowing it wouldn't have mattered. It was a sensation of not even getting a chance to do something. In the span of 24 minutes, I went from having a pretty great day to having what was akin to a panic attack.
 
-{{< upscribe >}}
+{{< adsense-inarticle >}}
 
 "I have to get home," I thought to myself. I made a hasty goodbye to the family and walk out the door. I sent the [IBM press release](https://newsroom.ibm.com/2018-10-28-IBM-To-Acquire-Red-Hat-Completely-Changing-The-Cloud-Landscape-And-Becoming-Worlds-1-Hybrid-Cloud-Provider) to my boss to make sure she knew. I didn't know why I was driving home but, home was also the office and it felt like the right thing to do. If push came to shove I could get people up to speed as they popped up online.
 
 The drive home was filled with nausea and worry. “I should get home and go straight down to the office and login,” I think to myself. My boss texts back, "Holy Shit!" I get home to a lot of notifications. My boss and I go back and forth for a minute vis text as I'm walking inside. But, there wasn't much to be done. I took some anxiety meds and laid face down for a little bit on my bed.
 
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-8972983586873269"
-     data-ad-slot="4663018952"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+{{< adsense-inarticle >}}
 
 A friend at Red Hat texts me asking if I'd seen the news. I responded back that I had and wasn't feeling too great about it. You have to understand my experience with IBM. In 2015, I worked for a few weeks at a healthcare company that was a $1 billion dollar IBM acquisition. It was a total dumpster fire and IBM knew it. But, Watson Health was the future of IBM, a friend elsewhere in IBM had told me. Long story short, I saw a ton of cracks in the business that was bought for a ridiculous sum of money. I had to make a decision real quick and got out of Dodge. Earlier this year, [IBM's Watson Health had huge layoffs](https://www.theregister.co.uk/2018/05/25/ibms_watson_layoffs/) and I felt very justified in my decision. My rash decision making might have hurt my career a little. But, I dodged a huge bullet in my first run in as an almost IBM employee. At the end of the brief discussion with my friend, he said, "**At least it wasn't Oracle.**" My response, "Yes... I really would have driven off the road then."
 
@@ -68,16 +50,7 @@ The Jim Whitehurst-Ginni Rometty all-hands was critically important for both Jim
 
 Jim walks out in his familiar jeans and crisp, white button down. Ginni walks out in purple. Turns out that later on in the presentation Arvind Krishna, IBM's SVP of Hybrid Cloud and Director of Research, said he was wearing purple to show cohesion because red and blue make purple. Ginni said she didn't even realize she had done it (but was sure to point it out on [CNBC's Mad Money](https://www.cnbc.com/2018/10/29/ibm-ceo-red-hat-is-a-game-changer-makes-us-no-1-in-hybrid-cloud.html) that night). It was a very human moment.
 
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-8972983586873269"
-     data-ad-slot="4663018952"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+{{< adsense-inarticle >}}
 
 The all-hands itself was good. Ginni donning a red fedora was a very nice touch.  Also, whichever Red Hatter wrote "fuck you" to Jim in the chat during the global all-hands, I'm beyond disappointed in you. I pretty much had to close Twitter and avoid memo-list after the event. There was a lot of data and opinion to sort out. A snarky text comes in from a friend afterward, "Never thought I'd see the day Chris Short worked for IBM." I muted notifications for a while too.
 
@@ -103,16 +76,7 @@ The day was pretty much derailed at that point. There wasn't much me or many oth
 
 I had taken the mind overnight that the messaging seems to indicate that nothing earth-shattering was going to change for a while. Tuesday started off answering some DMs, texts, and e-mails. I mention this because of the time it takes to proofread every response. My modus operandi is open. Suddenly a restriction is put in place and it made me hyper-aware of what I was writing. It might have been unnecessary but, some messages were prying and others weren't. Never too careful.
 
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-8972983586873269"
-     data-ad-slot="4663018952"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+{{< adsense-inarticle >}}
 
 During a Marketing all-hands things seemed to quiet down a little. Then a funny thing started happening. IBMers started reaching out. They shared what their life at IBM was like. So I started reaching out to some IBMers I know. We all started talking. I spoke with one IBMer working from their home office in Virginia. One person spoke of a co-worker getting ordained to officiate a wedding of another IBMer. There were no folks reaching out from IBM saying, "Psst. Hey, man. RUN FOR YOUR LIFE! GO GET HELP!"
 
@@ -124,16 +88,7 @@ This spurred me to reach further out to see what other folks thought. I was read
 
 By the time Wednesday rolled around my anxiety was gone. The plan was to sit tight, ride things through the acquisition, and try to turn IBM into the next Microsoft. On Sunday, when I announced to the family my company was being bought by IBM the looks on folks faces were different based on generation. The older the person, the happier they looked. I know my grandfather would be so happy to hear this news too. I think IBM wants to truly turn things around and fast. [Microsoft Has Come a Long Way](/microsoft-has-come-a-long-way/) after all in becoming a place people want to work.
 
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-8972983586873269"
-     data-ad-slot="4663018952"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+{{< adsense-inarticle >}}
 
 But, I need a way to figure out if there are canaries in the proverbial coal mine that will indicate to me it's time to dust off the ole [resume](/resume/). Here are some scenarios that would be a red flag for me:
 
@@ -152,4 +107,6 @@ A huge thanks to all the wonderful people I've talked to this week. You've made 
 
 Make no mistake, this is a historic moment. Whether it's the beginning or the end of a history is the big question.
 
-{{< upscribe >}}
+{{< mc >}}
+
+{{< adsense-matched >}}

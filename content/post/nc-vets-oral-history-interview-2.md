@@ -16,16 +16,7 @@ As part of a North Carolina State Archives initiative to obtain oral histories o
 
 The interview was well worth the time it took to coordinate and conduct it. I would encourage all North Carolina veterans to contact Matthew and provide their unique story for preservation.
 
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<!-- chrisshort.net Responsive -->
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-8972983586873269"
-     data-ad-slot="1297095894"
-     data-ad-format="auto"></ins>
-<script>
-   (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+{{< mc >}}
 
 This picks up where my [NC State Archives Interview Part 1](/nc-vets-oral-history-interview-1/) left off. I had just been cleared to return to Langley Air Force Base the days following 9/11 after one of my best friend's funeral.
 
@@ -34,6 +25,8 @@ This picks up where my [NC State Archives Interview Part 1](/nc-vets-oral-histor
 Your browser does not support the audio element but you can download it as an MP3.
 </audio>
 Also available as an [MP3 download](https://cdn.chrisshort.net/nc-veterans-oral-history-interview-2.mp3)
+
+{{< adsense-inarticle >}}
 
 **MP:** So you get on base.
 
@@ -127,16 +120,7 @@ So, how does the best guy become – how does the brand new guy become the best 
 
 **MP:** What year was this?
 
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<!-- chrisshort.net Responsive -->
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-8972983586873269"
-     data-ad-slot="1297095894"
-     data-ad-format="auto"></ins>
-<script>
-   (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+{{< adsense-inarticle >}}
 
 **CS:** This was 2002. I showed up at JCSE, it was June of 2002, So... Yeah, Afghanistan was underway, we had some guys there at the time. We had some guys actually rotating back shortly after I got there. Became good friends with them. They had some serious stories.
 
@@ -232,16 +216,7 @@ So, yeah, but this whole thing was just this huge incident. They locked down the
 
 **CS:** We're suspicious of everybody.
 
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<!-- chrisshort.net Responsive -->
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-8972983586873269"
-     data-ad-slot="1297095894"
-     data-ad-format="auto"></ins>
-<script>
-   (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+{{< adsense-inarticle >}}
 
 **MP:** In a post-Cold War era.
 
@@ -287,16 +262,7 @@ So the... The flight over – like I've never been outside the country up until 
 
 **CS:** So, I looked at – in the beginning of Iraq I looked at it like... It was simple. The northern no-fly zone and southern no-fly zone literally did nothing but waste a lot of money, right? We didn't protect any of the Kurds that got gassed in the north; we didn't really protect anything other than the Saudi Arabian border in the South. So we were really flying a lot of aircraft, put in a lot of man hours, and people rotating in and out of Saudi Arabia, Qatar, Turkey, that whole general area, for not a lot of gain. So we're wasting billions of dollars annually on these northern and southern no-fly zones, a UN mission, not getting a lot of support from the UN on it, so... Yeah, let's go ahead and end them. But the only way to do that is to get rid of Saddam. So, I was cool with that.
 
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<!-- chrisshort.net Responsive -->
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-8972983586873269"
-     data-ad-slot="1297095894"
-     data-ad-format="auto"></ins>
-<script>
-   (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+{{< adsense-inarticle >}}
 
 **MP:** How about Afghanistan?
 
@@ -416,16 +382,7 @@ So, then, Bush gives the 72-hour ultimatum. And we're like, "Oh, yeah, things ar
 
 So when Saddam was like, no, we're not going anywhere, it was so awesome because you had this... I forget what it was called. It was a system, it was just basically a map, and it showed red dots and blue dots. Blue dots were good guys, red dots were bad guys. Right? And the war kicked off, I think, noon, or whatever, so I was asleep I was working the nightshift. But to get up to walk into our main command tent and just see the sea of blue just sweeping into Iraq, and all these red dots just vanishing left and right. Because we just had so much air power flying above. If anybody needed anything, if you wanted a 50-pound munition dropped on somebody's head, somebody would've brought it to you and done it for you in the Air Force. It was great.
 
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<!-- chrisshort.net Responsive -->
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-8972983586873269"
-     data-ad-slot="1297095894"
-     data-ad-format="auto"></ins>
-<script>
-   (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+{{< adsense-inarticle >}}
 
 **MP:** Was it like the first Persian Gulf War where you had the Air Force clearing the way initially?
 
@@ -474,3 +431,5 @@ So he'd fly in on a Blackhawk, these guys would show up in their suburban's, or 
 **CS:** Yeah, I ran into him, literally.
 
 Check back next week for [North Carolina Veterans Oral History Part 3](/nc-vets-oral-history-interview-3/) where we discuss coming home, my long thoracic nerve injury, transitioning out of the military, and the Department of Veterans Affairs.
+
+{{< adsense-matched >}}
