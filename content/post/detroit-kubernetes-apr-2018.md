@@ -24,4 +24,4 @@ The talk and corresponding demo is based on the article I wrote back in February
 
 ## Slides
 
-<script async class="speakerdeck-embed" data-id="e9011b237112405b804055e167d2ef5a" data-ratio="1.77777777777778" src="//speakerdeck.com/assets/embed.js"></script>
+{{< speakerdeck e9011b237112405b804055e167d2ef5a >}}

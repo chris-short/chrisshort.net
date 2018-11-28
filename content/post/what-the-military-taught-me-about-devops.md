@@ -15,7 +15,7 @@ I was invited to speak at [DevOpsDays Detroit 2016](https://www.devopsdays.org/e
 
 ## Slides
 
-<script async class="speakerdeck-embed" data-id="f384650d165c43ec89349d2b5cd51871" data-ratio="1.6" src="//speakerdeck.com/assets/embed.js"></script>
+{{< speakerdeck f384650d165c43ec89349d2b5cd51871 >}}
 
 Photo: [Bridget Kromhout](http://bridgetkromhout.com/)
 

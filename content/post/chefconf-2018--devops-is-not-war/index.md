@@ -20,12 +20,12 @@ From a speaker's perspective, I have never felt more prepared for a talk. There 
 
 The event morphed my bias of Chef from a niche tool to a formidable accompaniment of software to ease automation tasks. The messages from the keynotes were like those I've delivered to many audiences before, "You're not an X company, you're a technology company." As I mentioned to a few folks there, I had no idea Chef embraced DevOps as tightly as it did. I highly recommend adding ChefConf 2019 to your schedule.
 
-{{< adsense-inarticle >}}
-
 ## Slides
 
-<script async class="speakerdeck-embed" data-id="eb4de36d9c3844a5903482633f01f1b6" data-ratio="1.77777777777778" src="//speakerdeck.com/assets/embed.js"></script>
+{{< speakerdeck eb4de36d9c3844a5903482633f01f1b6 >}}
 
 ## Video
 
 {{< youtube MDu6wL1DWY4 >}}
+
+{{< adsense-matched >}}

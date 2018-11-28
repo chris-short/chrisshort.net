@@ -32,9 +32,12 @@ The YubiKey ProductID in the Preferences field needs to be set correctly or yubi
 `ioreg -p IOUSB -l -w 0 -x | grep Yubikey -A10 | grep Product`
 
 The output will look something like this:
-<pre><code class="language-bash">|     "idProduct" = 0x407
+
+{{ highlight bash }}
+|     "idProduct" = 0x407
 |     "iProduct" = 0x2
-|     "USB Product Name" = "Yubikey 4 OTP+U2F+CCID"</code></pre>
+|     "USB Product Name" = "Yubikey 4 OTP+U2F+CCID"
+{{ / highlight }}
 
 Plug the value from `idProduct` into the YubiKey ProductID field in the yubiswitch preferences pane, click OK, and yubiswitch should be working. You should now be able to enable and disable the Yubikey with a shortcut key combo or mouse click so you don't get random Yubikey codes dumped into whatever you're working on.
 
