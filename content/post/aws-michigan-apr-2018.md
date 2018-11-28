@@ -21,7 +21,7 @@ I love doing local events. It allows me to form connections with folks that are 
 
 ## Slides
 
-<script async class="speakerdeck-embed" data-id="d4508c95fb7a4f6a8212619d59c54637" data-ratio="1.77777777777778" src="//speakerdeck.com/assets/embed.js"></script>
+{{< speakerdeck d4508c95fb7a4f6a8212619d59c54637 >}}
 
 ## Video
 

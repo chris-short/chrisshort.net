@@ -24,8 +24,8 @@ I was able to sync up with one of my Airmen from my time at Pope Air Force Base.
 
 ## Slides
 
-<script async class="speakerdeck-embed" data-id="1c41b7a3ac2f4e4d942cd5e143e27157" data-ratio="1.77777777777778" src="//speakerdeck.com/assets/embed.js"></script>
+{{< speakerdeck 1c41b7a3ac2f4e4d942cd5e143e27157 >}}
 
 ## Video
 
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/bnyDETdyNfw" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+{{< youtube bnyDETdyNfw >}}
