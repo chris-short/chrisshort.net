@@ -62,6 +62,11 @@
   <meta property="og:site_name" content="{{ .Site.Title }}" />
 <!-- Hugo Version number -->
   {{ .Hugo.Generator -}}
+<!-- preconnects -->
+  <link rel="preconnect" href="https://fonts.gstatic.com/" crossorigin>
+  <link rel="preconnect" href="https://downloads.mailchimp.com" crossorigin>
+  <link rel="preconnect" href="https://cse.google.com" crossorigin>
+  <link rel="preconnect" href="https://www.google-analytics.com" crossorigin>
 <!-- Links and stylesheets -->
   <link rel="alternate" href="{{ "index.xml" | absLangURL }}" type="application/rss+xml" title="{{ .Site.Title }}">
   <link rel="stylesheet" href="{{ "css/katex.min.css" | absURL }}" />
@@ -71,10 +76,6 @@
   {{- if .Site.Params.staticman -}}
   <link rel="stylesheet" href="{{ "css/staticman.css" | absURL }}" />
   {{- end -}}
-  <link rel="preconnect" href="https://fonts.gstatic.com/" crossorigin>
-  <link rel="preconnect" href="https://downloads.mailchimp.com" crossorigin>
-  <link rel="preconnect" href="https://cse.google.com" crossorigin>
-  <link rel="preconnect" href="https://www.google-analytics.com" crossorigin>
   <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Lora:400,700,400italic,700italic" />
   <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,800italic,400,300,600,700,800" />
   {{- if .Site.Params.useHLJS }}
