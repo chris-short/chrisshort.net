@@ -21,6 +21,6 @@ I created a new Go talk for this group. I hope to reuse it to enlighten people o
 
 If the second half of this talk looks familiar it's because it's from my [*Golang to the rescue: Saving DevOps from TLS turmoil*](https://chrisshort.net/gophercon-2017-lightning-talk-video/) talk. I feel like telling the whole story of Go provides significantly better context to the DevOps use cases for Go. PDFs of the talk are available; one [with speaker notes](https://cdn.chrisshort.net/Go-Enabling-DevOps-to-Go-Faster-Notes.pdf) and the other [without notes](https://cdn.chrisshort.net/Go-Enabling-DevOps-to-Go-Faster.pdf).
 
-<script async class="speakerdeck-embed" data-id="99e8a3462b364c0982e6287d5a86ccac" data-ratio="1.77777777777778" src="//speakerdeck.com/assets/embed.js"></script>
+{{< speakerdeck 99e8a3462b364c0982e6287d5a86ccac >}}
 
 Additionally, there is [video from the meetup available](https://youtu.be/fC_fmN5tXkQ). You can enjoy the dulcide tones of me fumbling through my slides randomly auto-advancing and Keynote completely freezing. This was likely due to me copying some slides that I used for an ignite talk. Those slides were configured to auto-advance every 15 seconds. Keynote is finicky and I hope Apple is putting some effort into make it better.

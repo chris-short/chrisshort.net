@@ -26,7 +26,8 @@ There are probably a dozen or more ways to manage users with Ansible. But for th
 
 First, we need to build a dict of users that we want to create in a vars file:
 
-<pre><code>---
+{{< highlight yaml >}}
+---
 pre_puppet_users:
   - {
       user: auser,
@@ -48,11 +49,12 @@ pre_puppet_users:
       comment: "You'll See",
       state: present
     }
-</code></pre>
+{{< / highlight >}}
 
 If you are using SSH keys (and you should be) you can add each users' key as a text file and deploy those as well:
 
-<pre><code>/user-role
+{{< highlight bash >}}
+/user-role
 |--files
 |  |-- auser
 |  |-- buser
@@ -62,7 +64,7 @@ If you are using SSH keys (and you should be) you can add each users' key as a t
 |  |-- main.yml
 |--vars
    |__ main.yml
-</code></pre>
+{{< / highlight >}}
 
 The Ansible tasks are fairly simple but there was one user (snowflake) that did not want to use SSH keys (ugh) so they are going to be our special snowflake that we have to worry about setting a password on.
 
@@ -70,7 +72,8 @@ The Ansible tasks are fairly simple but there was one user (snowflake) that did 
 
 **SECURITY NOTE**: Best practice would be to set all these accounts to have random passwords and force the users to change them upon login. However, the assumption was made that the users we were speaking of for this use case were setting their passwords the instant they logged in. Please reference "[How do I generate crypted passwords for the user module?](http://docs.ansible.com/ansible/faq.html#how-do-i-generate-crypted-passwords-for-the-user-module)" for details on creating passwords for use with Ansible.
 
-<pre><code>---
+{{< highlight yaml >}}
+---
 - name: Create pre_puppet_users
   user:
     createhome=yes
@@ -94,11 +97,12 @@ The Ansible tasks are fairly simple but there was one user (snowflake) that did 
     manage_dir=yes
   with_fileglob:
     - "files/*"
-</code></pre>
+{{< / highlight >}}
 
 All of these components build an Ansible role. The higher level Ansible playbook that executes this role is pretty straight forward:
 
-<pre><code>---
+{{< highlight yaml >}}
+---
 - name: Create Users
   hosts: all
   gather_facts: false
@@ -106,6 +110,6 @@ All of these components build an Ansible role. The higher level Ansible playbook
   become: yes
   roles:
     - user-role
-</code></pre>
+{{< / highlight >}}
 
 Make sure your inventory contains the necessary systems, run the Ansible playbook, and you will have users provisioned how you see fit in no time.

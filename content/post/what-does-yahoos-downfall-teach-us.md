@@ -15,7 +15,7 @@ If you have not heard, [Verizon announced they are going to acquire Yahoo](https
 
 {{< mc >}}
 
-### Features Over Content
+## Features Over Content
 
 Building great features for users has been a hallmark of wildly successful companies the past few years. Snapchat with its well thought out and curated filters (that also generate revenue), Medium with its very handy "time to read" feature, and Google with the iOS app, Gboard, which brings a swipe-style keyboard with search built-in  are features added to existing good products. Yahoo acquired Flickr then took a very long time to give users the feature of free space which was nothing new; Facebook already had unlimited image storage for its users. Yahoo acquired Tumblr which gave Tumblr some street cred but I cannot honestly think of one feature that Tumblr nailed after the acquisition to separate it from the pack of link sharing and blogging services.
 
@@ -25,7 +25,7 @@ Instead of building great products Marissa Meyer focused on mobile platforms whi
 
 Video is where the web is heading. Yahoo saw that early on but failed to execute on that vision. I am sure that lots of Yahoo folks worked on lots of Yahoo product features. What set Yahoo products apart from their competitors?
 
-### CEOs Have to Build Great Teams
+## CEOs Have to Build Great Teams
 
 Marissa Meyer came in to Yahoo with a lot of fanfare and quite a few detractors. She was a brilliant, raw talent that people thought would bring new life to Yahoo. People also criticized Marissa Meyer's lack of leadership experience. Anything was better than what Yahoo had and why not poach a Google executive? Right?
 
@@ -37,7 +37,7 @@ In my opinion, the best talent Yahoo [acquihired](https://en.m.wikipedia.org/wik
 
 Yahoo could not keep or manage good talent in the highly competitive Silicon Valley market. Yahoo was unable to build a great team to bring it out of its funk. The Marissa Meyer detractors are sitting there saying, "I told you so."
 
-### Do Your Damn Homework
+## Do Your Damn Homework
 
 The [botched Alibaba spinoff](http://www.cnbc.com/2015/12/09/why-yahoo-decided-not-to-spin-off-alibaba.html) was pretty much the nail is Yahoo's coffin. Citing concerns about potential tax penalties, Yahoo decided against spinning off Alibaba after the IRS said it would not rule as to whether or not the deal, as structured, would be a tax free transaction. Two things immediately came to mind when I first heard of this spinoff plan (before the deal's failure):
 

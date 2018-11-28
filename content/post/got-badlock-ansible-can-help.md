@@ -21,7 +21,9 @@ For RPM based OS users Badlock (samba) patching is as easy as:
 {{< adsense-inarticle >}}
 
 Or you can be very granular and use an Ansible Playbook to audit and patch samba packages:
-<pre><code class="language-yaml">---
+
+{{< highlight yaml >}}
+---
 - hosts: all
   tasks:
     - name: Check if samba packages are installed
@@ -30,10 +32,13 @@ Or you can be very granular and use an Ansible Playbook to audit and patch samba
     - name: Update samba if installed
       yum: name={{ item }} state=latest
       when: yum_samba.stdout != ""
-      with_items: '{{yum_samba.stdout_lines}}'</code></pre>
+      with_items: '{{yum_samba.stdout_lines}}'
+{{< / highlight >}}
 
 A similar Ansible Playbook for a Debian based system would look something like this:
-<pre><code class="language-yaml">---
+
+{{< highlight yaml >}}
+---
 - hosts: all
   tasks:
     - name: Check if samba packages are installed
@@ -42,6 +47,7 @@ A similar Ansible Playbook for a Debian based system would look something like t
     - name: Update samba if installed
       apt: name={{ item }} state=latest
       when: dpkg_samba.stdout != ""
-      with_items: '{{dpkg_samba.stdout_lines}}'</code></pre>
+      with_items: '{{dpkg_samba.stdout_lines}}'
+{{< / highlight >}}
 
 Your bad nightmares about Badlock will be a not so bad memory in no time.

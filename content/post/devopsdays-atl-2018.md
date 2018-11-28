@@ -22,4 +22,4 @@ Over the past 500 years, there have been 16 cases of a rising power threatening 
 
 ## Slides
 
-<script async class="speakerdeck-embed" data-id="9b1139f43dea4abe87b8aeacac9af585" data-ratio="1.77777777777778" src="//speakerdeck.com/assets/embed.js"></script>
+{{< speakerdeck 9b1139f43dea4abe87b8aeacac9af585 >}}

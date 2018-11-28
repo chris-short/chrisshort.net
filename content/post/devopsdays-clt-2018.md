@@ -27,7 +27,7 @@ This talk walks through the use case of having to apply new certificates to an u
 
 ## Slides
 
-<script async class="speakerdeck-embed" data-id="05c5de9646ba4b4eb42e1983c47a5275" data-ratio="1.77777777777778" src="//speakerdeck.com/assets/embed.js"></script>
+{{< speakerdeck 05c5de9646ba4b4eb42e1983c47a5275 >}}
 
 ## Video
 
