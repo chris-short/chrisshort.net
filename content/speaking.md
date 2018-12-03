@@ -25,8 +25,7 @@ Slides: [All Day DevOps — DevOps is Not a War](https://speakerdeck.com/chrissh
 Date: 2018-09-19
 Event: [DevOpsDays Columbus 2018](https://www.devopsdays.org/events/2018-columbus/program/chris-short/)  
 Slides: [DevOpsDays Columbus 2018: Kubernetes Cron Jobs](https://speakerdeck.com/chrisshort/devopsdays-columbus-2018-kubernetes-cron-jobs)  
-Video: [Chris Short Ignite - Kubernetes Cron Jobs: Dreams Really Do Come True
-](https://youtu.be/75T_-YJ5Vag)
+Video: [Chris Short Ignite - Kubernetes Cron Jobs: Dreams Really Do Come True](https://youtu.be/75T_-YJ5Vag)
 
 ## Grand Rapids RHUG — Using Ansible for DevOps
 
@@ -62,7 +61,7 @@ Blog Post: [ChefConf 2018: DevOps is Not War](/chefconf-2018-devops-is-not-war/)
 Video: [ChefConf 2018 Session: DevOps is Not a War
 ](https://youtu.be/MDu6wL1DWY4)
 
-## Detroit Kubernetes, Docker & all related things - Kubernetes Cron Jobs: Highly-Available, Distributed Cron Jobs are Awesome!
+## Detroit Kubernetes, Docker & all related things - Kubernetes Cron Jobs: Highly-Available, Distributed Cron Jobs are Awesome
 
 Date: April 20, 2018  
 Event: [Detroit Kubernetes, Docker & all related things](https://www.meetup.com/Detroit-Kubernetes-Docker-all-things-Cloud-Native/events/249593802/)  
@@ -74,7 +73,6 @@ Date: April 19, 2018
 Event: [AWS Michigan](https://www.meetup.com/AWS-Michigan/events/248874167/)  
 Blog Post: [AWS Michigan: Heaven is Not a Cloud](/aws-michigan-heaven-is-not-a-cloud/)  
 Video: [AWS Michigan Meetup April 2018 - Heaven is Not a Cloud by Chris Short](https://youtu.be/_qx9d5JSRvw)
-
 
 ## DevOpsDays Atlanta 2018: DevOps is Not War
 
