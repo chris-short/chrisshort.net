@@ -1,8 +1,8 @@
 +++
 author = "Chris Short"
 categories = ["Kubernetes"]
-date = 2018-12-16T03:00:00Z
-description = ""
+date = 2018-12-21T17:00:00Z
+description = "A recap of what I did at KubeCon + CloudNativeCon North America 2018"
 draft = false
 slug = "kubecon-cloudnativecon-2018"
 tags = ["kubernetes", "cloud native", "kubekhan", "kubecon", "mentorship", "contributor", "experience", "community", "cloudnativecon", "summit", "BoF", "birds of a feather", "CNCF", "people", "seattle"]
