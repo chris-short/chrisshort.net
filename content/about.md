@@ -29,7 +29,7 @@ Chris is now working in the [open source](/tags/open-source/), [Linux](/tags/lin
 
 ## Headshot
 
-[https://cdn.chrisshort.net/Late-2017-Headshot.jpg](https://cdn.chrisshort.net/Late-2017-Headshot.jpg)
+[https://chrisshort.net/img/Late-2018-Headshot.jpg](https://chrisshort.net/img/Late-2018-Headshot.jpg)
 
 ## Appearances Elsewhere
 
