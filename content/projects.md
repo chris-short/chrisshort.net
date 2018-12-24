@@ -18,7 +18,7 @@ DevOps, Cloud Native, Open Source, and the ‘ish in between. A weekly newslette
 
 I strive, every week, to put together the best newsletter covering DevOps, Cloud Native, and Open Source Software. The three main sections of the newsletter are People, Process, and Tools. They are in that order for a reason: People implement Processes using Tools. These three components should be cared for in that order too.
 
-Source: https://gitlab.com/chrisshort/devopsish.com
+Source: <https://gitlab.com/chrisshort/devopsish.com>
 
 ## [rak8s](https://rak8s.io)
 
@@ -28,7 +28,7 @@ ARM is going to be the datacenter and home computing platform of the future. It 
 
 Also, it’s cheaper than a year of GKE. Plus, why not run Kubernetes in your home?
 
-Source: https://github.com/rak8s/
+Source: <https://github.com/rak8s/>
 
 ## [ssl-tester](https://github.com/chris-short/ssl-tester)
 
@@ -50,10 +50,10 @@ DevOps Newsletters is an idea that sprung out of an opensource.com article: [16 
 
 DevOps Newsletters intends to be a one stop shop for the best DevOps content from around the world.
 
-Source: https://github.com/chris-short/devopsnewsletters.com
+Source: <https://github.com/chris-short/devopsnewsletters.com>
 
 ## [Kubernetes News](https://kubenews.io/)
 
 Inspired by [DevOps Newsletters](https://devopsnewsletters.com/) and Peter Benjamin’s [How do you keep up with Kubernetes?](https://dev.to/petermbenjamin/how-do-you-keep-up-with-kubernetes-2209), Kubernetes News intends to be a resource to help keep up with the wide ranging and rapidly evolving world of Kubernetes.
 
-Source: https://github.com/chris-short/kubenews.io
+Source: <https://github.com/chris-short/kubenews.io>

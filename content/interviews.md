@@ -40,7 +40,6 @@ Source: [The Best CI/CD Tool for Kubernetes Doesn't Exist](https://thenewstack.i
 Date: 2018-06-02  
 Source: [Chris Short on SRE, DevSecOps, Pipelines, Immutability, and Kubernetes](https://soundcloud.com/user-410091210/chris-short-on-sre-devsecops-pipelines-immutability-and-kubernetes)
 
-
 ## DevOpsDays Toronto 2018 — What the military taught me about DevOps
 
 Date: 2018-06-01  

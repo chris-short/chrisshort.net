@@ -66,7 +66,6 @@ Senior IT Analyst, Duke School of Medicine, Office of Research Informatics — D
 * Worked with Duke Health Technology Solutions Windows Team to connect Linux to Windows environment for researchers working on the Duke Apple ResearchKit application, Autism & Beyond
 * Collaborated with vendor to build an Ansible Playbook and Role to standardize system setup and Ruby on Rails application deployment; enforced application configuration, security settings, and user management
 
-
 Systems and Security Engineer, LCMS Plus, Inc — Chapel Hill, NC — July 2015 to Nov 2015
 
 * Created standardized naming scheme; utilized Ansible to programmatically implement system configuration settings on Fedora/RHEL systems; multiple discrepancies eliminated across systems in two cloud environments

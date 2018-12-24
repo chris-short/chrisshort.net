@@ -12,7 +12,7 @@ title = "Newsletter"
 
 {{< mc >}}
 
-#### Grateful to have readers from across the globe and companies such as:
+#### Grateful to have readers from across the globe and companies such as
 
 * Amazon
 * Apple

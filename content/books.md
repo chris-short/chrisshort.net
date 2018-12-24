@@ -14,7 +14,6 @@ title = "Books"
 
 [![The Ultimate DevOps Hiring Guide](https://cdn.chrisshort.net/the_ultimate_devops_hiring_guide.png)](https://enterprisersproject.com/ultimate-devops-hiring-guide)
 
-
 ## DevOps Hiring Guide
 
 [![DevOps Hiring Guide](https://cdn.chrisshort.net/devops_hiring_guide_v1_cover.png)](https://opensource.com/downloads/devops-hiring-guide)
