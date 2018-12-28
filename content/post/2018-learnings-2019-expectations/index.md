@@ -1,7 +1,7 @@
 +++
 author = "Chris Short"
 categories = ["Philosophy"]
-date = 2018-12-31T07:00:00Z
+date = 2018-12-28T23:20:00Z
 description = "A former co-worker and now friend used to have a tagline, \"Everyday is a school day.\" I remind myself of this fact nearly every time I learn something new."
 draft = true
 slug = "2018-learnings-2019-expectations"
