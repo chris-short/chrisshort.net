@@ -4,10 +4,13 @@ categories = ["Kubernetes"]
 date = 2018-12-21T17:00:00Z
 description = "A recap of what I did at KubeCon + CloudNativeCon North America 2018"
 draft = false
-slug = "kubecon-cloudnativecon-2018"
+slug = "my-kubecon-cloudnativecon-na-2018-recap"
 tags = ["kubernetes", "cloud native", "kubekhan", "kubecon", "mentorship", "contributor", "experience", "community", "cloudnativecon", "summit", "BoF", "birds of a feather", "CNCF", "people", "seattle"]
-title = "KubeCon + CloudNativeCon NA 2018"
-image = "/kubecon-cloudnativecon-na-2018/kubecon-cloudnativecon-2018.jpg"
+title = "My KubeCon + CloudNativeCon NA 2018 Recap"
+image = "/my-kubecon-cloudnativecon-na-2018-recap/kubecon-cloudnativecon-2018.jpg"
+aliases = [
+    "kubecon-cloudnativecon-na-2018"
+]
 
 +++
 
