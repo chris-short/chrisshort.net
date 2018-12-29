@@ -14,7 +14,7 @@ compile:
     - git submodule sync --recursive
     - git submodule update --init --recursive
   script:
-    - hugo --buildDrafts --buildFuture --config config-preview.toml
+    - hugo --buildDrafts --buildFuture --minify --config config-preview.toml
 
 build-preview:
   stage: build
@@ -31,7 +31,7 @@ build-preview:
     - git submodule sync --recursive
     - git submodule update --init --recursive
   script:
-    - hugo --buildDrafts --buildFuture --config config-preview.toml
+    - hugo --buildDrafts --buildFuture --minify --config config-preview.toml
   except:
     - master
 
@@ -50,7 +50,7 @@ build-production:
     - git submodule sync --recursive
     - git submodule update --init --recursive
   script:
-    - hugo
+    - hugo --minify
   only:
     - master
 

@@ -2,7 +2,6 @@ baseurl = "https://preview.chrisshort.net"
 DefaultContentLanguage = "en"
 title = "chrisshort.net"
 theme = "beautifulhugo"
-metaDataFormat = "yaml"
 pygmentsStyle = "trac"
 pygmentsUseClasses = true
 pygmentsCodeFences = true

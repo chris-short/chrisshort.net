@@ -3,7 +3,6 @@ author = "Chris Short"
 date = 2016-04-17T18:00:00Z
 description = "About"
 draft = false
-slug = "about"
 title = "About"
 aliases = [
     "bio"
@@ -29,7 +28,7 @@ Chris is now working in the [open source](/tags/open-source/), [Linux](/tags/lin
 
 ## Headshot
 
-[https://chrisshort.net/img/Late-2018-Headshot.jpg](https://chrisshort.net/img/Late-2018-Headshot.jpg)
+[Late-2018-Headshot.jpg](Late-2018-Headshot.jpg)
 
 ## Appearances Elsewhere
 

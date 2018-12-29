@@ -3,7 +3,6 @@ author = "Chris Short"
 date = 2018-06-07T22:41:00Z
 description = "Interviews Chris Short has given"
 draft = false
-slug = "interviews"
 tags = ["interviews", "podcast"]
 title = "Interviews"
 +++
