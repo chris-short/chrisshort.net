@@ -1,7 +1,7 @@
 +++
 author = "Chris Short"
 categories = ["ansible", "work"]
-date = 2019-01-02T07:00:00Z
+date = 2019-01-07T07:00:00Z
 description = "The longer someone uses a tool the less they tend to pick up new features. Getting certified shows that while learning Kubernetes I was still keeping up."
 draft = false
 slug = "rhcs-ansible-automation"
@@ -24,6 +24,8 @@ The one thing I wanted most from this class was a skills assessment. The longer 
 ## Marketing Connection?
 
 Good capital ’M’ Marketing flows from the product through to the users even after the curriculum creation process. Good Marketing isn’t “cloud” and “hyper-converged” and “serverless” (dibs on the first product that does all three of those). Good Marketing is a mixture of both technical “How?” and practical “Why?”
+
+{{< adsense-inarticle >}}
 
 “How” to use something is often less important than the “Why” folks are using it. The documentation for a product could be phenomenal. But, if that product doesn’t solve a problem folks have, who should use it? In the case of [Ansible](https://www.ansible.com/), I need to know more of the "Why" folks are using it versus anything else. With Ansible, the "How" and "Why" are often blurred. The Why folks use Ansible is often, "It's easier than <X>." But, that's the "How" isn't it? If something is easier to use that is a legitimate "Why" but, it's a design decision too.
 
