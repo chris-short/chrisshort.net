@@ -5,7 +5,7 @@ date = 2017-07-22T22:23:32Z
 description = ""
 draft = false
 slug = "testing-certificate-chains-in-go"
-tags = ["Go", "golang", "DevOps"]
+tags = ["Go", "golang", "DevOps", "tools"]
 title = "Testing Certificate Chains in Go"
 
 +++

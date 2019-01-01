@@ -6,7 +6,7 @@ description = ""
 draft = false
 image = "https://cdn.chrisshort.net/broken-heart.jpg"
 slug = "poorly-documented-dependencies"
-tags = ["ansible", "new relic", "nodejs", "npm", "yum", "dependency", "dependencies"]
+tags = ["ansible", "new relic", "nodejs", "npm", "yum", "dependency", "dependencies", "tools"]
 title = "Poorly Documented Dependencies"
 
 +++

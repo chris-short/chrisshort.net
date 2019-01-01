@@ -5,7 +5,7 @@ date = 2003-03-06T05:16:00Z
 description = ""
 draft = false
 slug = "microsoft-and-open-source"
-tags = ["microsoft", "open source"]
+tags = ["microsoft", "open source", "windows xp"]
 title = "Microsoft and Open Source"
 
 +++

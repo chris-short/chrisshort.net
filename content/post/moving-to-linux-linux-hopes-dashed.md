@@ -5,7 +5,7 @@ date = 2003-09-28T02:12:00Z
 description = ""
 draft = false
 slug = "moving-to-linux-linux-hopes-dashed"
-tags = ["linux", "open source"]
+tags = ["linux", "open source", "windows xp"]
 title = "Moving to Linux - Linux Hopes Dashed"
 aliases = [
     "moving-to-linux-linux-hopes-dashed",

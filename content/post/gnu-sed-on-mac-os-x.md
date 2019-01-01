@@ -6,7 +6,7 @@ description = ""
 draft = false
 image = "https://cdn.chrisshort.net/hexley-darwin-vs-heckert-gnu.png"
 slug = "gnu-sed-on-mac-os-x"
-tags = ["sed", "gnu", "bsd", "mac os x", "apple", "system integrity protection", "sip", "macos"]
+tags = ["sed", "gnu", "bsd", "mac os x", "apple", "system integrity protection", "sip", "macos", "tools"]
 title = "GNU sed on Mac OS X"
 
 +++

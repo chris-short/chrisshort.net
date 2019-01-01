@@ -5,7 +5,7 @@ date = 2003-03-20T16:00:00Z
 description = "Everyone has their own personality, patterns, tendencies and so forth, this also holds true for Internet usage"
 draft = false
 slug = "internet-sociology-internet-usage"
-tags = ["internet"]
+tags = ["internet", "users"]
 title = "Internet Sociology and Internet Usage"
 
 +++

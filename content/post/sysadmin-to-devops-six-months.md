@@ -6,7 +6,7 @@ description = ""
 draft = false
 image = "https://cdn.chrisshort.net/gears-galore.jpg"
 slug = "sysadmin-to-devops-six-months"
-tags = ["DevOps"]
+tags = ["DevOps", "tools"]
 title = "\"Good SysAdmin to DevOps Engineer in Six Months\""
 aliases = ["sysadmin-to-devops-six-months"]
 

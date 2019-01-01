@@ -6,7 +6,7 @@ description = ""
 draft = false
 image = "https://cdn.chrisshort.net/lgbt-usa-map.png"
 slug = "understanding-fear-and-hate"
-tags = ["hate", "fear", "understanding", "lgbt", "lgbtq", "culture", "philosophy"]
+tags = ["hate", "fear", "lgbt", "lgbtq", "culture", "philosophy"]
 title = "Understanding, Fear, and Hate"
 
 +++

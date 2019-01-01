@@ -5,7 +5,7 @@ date = 2003-03-03T16:00:00Z
 description = "This is not a complete history of the series of Microsoft Windows."
 draft = false
 slug = "windows-evolution"
-tags = ["windows", "microsoft"]
+tags = ["windows", "microsoft", "windows xp"]
 title = "Evolution of Windows"
 image = "https://cdn.chrisshort.net/windows-xp.jpg"
 

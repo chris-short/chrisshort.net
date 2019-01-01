@@ -6,7 +6,7 @@ description = ""
 draft = false
 image = "https://cdn.chrisshort.net/richard-childress-racing-visit-2010.jpg"
 slug = "the-hall-of-famer-and-i"
-tags = ["richard childress", "richard childress racing", "air force", "nascar", "rcr", "hall of fame"]
+tags = ["richard childress", "richard childress racing", "air force", "nascar", "rcr", "hall of fame", "usaf"]
 title = "The Hall of Famer and I"
 
 +++

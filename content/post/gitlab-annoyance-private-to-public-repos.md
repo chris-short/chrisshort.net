@@ -6,7 +6,7 @@ description = ""
 draft = false
 image = "https://cdn.chrisshort.net/gitlab-logo.png"
 slug = "gitlab-annoyance-private-to-public-repos"
-tags = ["gitlab", "git", "test kitchen", "ansible", "DevOps"]
+tags = ["gitlab", "git", "test kitchen", "ansible", "DevOps", "vcs"]
 title = "GitLab Annoyance: Private to Public Repos"
 
 +++
