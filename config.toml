@@ -48,7 +48,7 @@ paginate = 4
   name = "Chris Short"
   # website = "chrisshort.net"
   email = "chris@chrisshort.net"
-  facebook = "thechrisshort"
+  # facebook = "thechrisshort"
   # googleplus = "+username" # or xxxxxxxxxxxxxxxxxxxxx
   github = "chris-short"
   gitlab = "chrisshort"
@@ -108,9 +108,15 @@ paginate = 4
 
 [[menu.main]]
     parent = "speaking"
+    name = "NC Veterans Oral History Interview"
+    url = "/nc-veterans-oral-history-program/"
+    weight = 890
+
+[[menu.main]]
+    parent = "speaking"
     name = "CFPs"
     url = "/cfp/"
-    weight = 891
+    weight = 899
 
 [[menu.main]]
     parent = "menu"

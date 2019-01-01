@@ -14,7 +14,7 @@ imagecap = "Be helpful. But, this isn't your day job."
 
 It's the most wonderful time of year! When everyone gets together with family or friends they haven't seen in who knows how long. Of course, the topic of Trump, social media, and burnt gravy stories will come up. But, my personal favorite topic is, "I have this issue with `PIECE OF TECHNOLOGY XYZ`. Please help me!"
 
-{{< carbon >}}
+{{< adsense-inarticle >}}
 
 Luckily, despite having not worked on anything other than Mac and Linux the past seven years, I don't get too many wild questions from family. I'll sit down with Grandma and help her with an iPhone issue from time to time. My mother-in-law has some legacy e-mail stuff all filtered in her Gmail. Sometimes AT&T changes something and it breaks. These things happen. Complex systems are hard enough. No sense in me being an asshole about it (although I will get frustrated from time to time).
 
@@ -36,6 +36,8 @@ Being in outside of Detroit we have to deal with one of two monopolies: AT&T and
 
 Since both homes are going with Comcast it made fiscal sense to buy a modem outright as opposed to paying a perpetual rental fee to Comcast. We have had two Arris modems now and have had no issues with them. I went to the [XFINITY My New Modem](http://mynewmodem.xfinity.com/) site to find a recommended modem.
 
+{{< adsense-inarticle >}}
+
 I saw an [Arris SURFboard SB6190](https://amzn.to/2DOhzzt) is compatible. The price on Amazon was better than Target and both homes wanted it this week. Target will happily price match Amazon and give Red Card customers 5% off on top of that. Chances are your local big box store carries a few modems for use with your local providers. They'll probably all price match each other too. Shop smartly.
 
 ## Router and WiFi Access Points
@@ -43,6 +45,8 @@ I saw an [Arris SURFboard SB6190](https://amzn.to/2DOhzzt) is compatible. The pr
 I'm a glutton for mesh networks. Give me reliable, deadzone-free wifi or give me death. I have four access points in a mesh in our home. I have one dedicated to my office, two on our main floor, and one in the back of the house on the top floor. The last thing I want to hear a complaint about is internet availability. That means everyone in the home is affected in some way or another.
 
 But, here's where the plan for each home differs. One house (House A) will have two Apple TVs and a few Apple devices and laptops and that's it. The other house (House B) will have an Apple TV, many Chromecasts, many Sonos, and the normal smattering of devices spread across three floors. House B is also a frequent meeting place for family gatherings.
+
+{{< adsense-inarticle >}}
 
 Regardless both homes were going to follow my recommendation here but I didn't want to be wasteful nor penny-wise, pound-foolish. House A is going with one Google WiFi that will act as a router and single access point. If they need another, they can get one more and be covered.
 
@@ -53,8 +57,6 @@ House B is getting a [3-Pack Google WiFi System](https://amzn.to/2BiODgI). This 
 Both homes understand that their internet access issues are not my full time job. Both homes are doing exactly what it takes to have a reliable network. But, the nice thing about the [Google WiFi System](https://amzn.to/2BiODgI) is that either home can grant me access to their WiFi System to troubleshoot issues. I can do this from my mobile phone too so even if they need help while traveling I'll be able to do it from afar.
 
 If push comes to shove, both homes can go through the setup process for Google WiFi with little guidance. They've been trained to get over their fear of breaking something by merely using software as intended (thanks every Windows environment these folks ever worked in). Couple that with a quick call to Chris or Julie for any questions and everyone is happy with their decisions.
-
-{{< mc >}}
 
 ## Notes for Support Requesters
 
@@ -69,6 +71,8 @@ Your specific problems might not be solvable by your buddy in tech. They aren't 
 ### This is Our Downtime
 
 If you're at a party or a get together of some sort, remember this is your buddy in tech's time off. A lot of us don't want to answer questions in the same realm of what we do everyday. Most of us get paid to do what you're asking us to do for free to. Keep that in mind.
+
+{{< adsense-inarticle >}}
 
 Be thankful. Regardless of the outcome, be thankful. If your buddy in tech isn't able to fix it, thank them for trying. If your buddy in tech does end up solving your problem, well, they say giving is better than receiving. Hook them up!
 

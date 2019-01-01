@@ -54,6 +54,6 @@ For me, it is all about consistently having the same sed everywhere. Most people
 Footnotes:
 [^n]: If you want to leave System Integrity Protection on you can install GNU sed to /usr/local and call GNU sed by the full path (/usr/local/bin/sed-gnu).
 [^n]: If you decided to not disable System Integrity Protection you should run this instead: ./configure --prefix=/usr/local/ --program-suffix=-gnu and you can skip steps 9 through 11.
-[^n]: You can change the number of jobs here if you desire; see [MAKE(1)](https://developer.apple.com/legacy/library/documentation/Darwin/Reference/ManPages/man1/make.1.html).
+[^n]: You can change the number of jobs here if you desire; see MAKE(1).
 
 {{< adsense-matched >}}
