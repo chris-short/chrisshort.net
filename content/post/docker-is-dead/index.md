@@ -5,7 +5,7 @@ date = 2017-12-30T12:32:00Z
 description = "Aside from Uber, I can't think of a more utilized, hyped, and well funded Silicon Valley startup (still in operation) fumbling as bad as Docker did in 2017."
 draft = false
 slug = "docker-is-dead"
-tags = ["open source", "docker", "containers", "kubernetes", "moby"]
+tags = ["open source", "docker", "containers", "kubernetes", "moby", "container"]
 title = "Docker, Inc is Dead"
 image = "/docker-inc-is-dead/docker-is-dead.png"
 aliases = [
@@ -16,19 +16,19 @@ aliases = [
 ]
 +++
 
-**DISCLAIMER**: The views expressed in this article are solely mine. They do not reflect the opinion of Cloud Native Computing Foundation (I'm a [CNCF Ambassador](/chris-short-named-cloud-native-ambassador/)), opensource.com nor Red Hat (I'm an [Opensource.com Community Moderator](https://opensource.com/opensourcecom-team)), nor that of any group I am affiliated with or employed by. Please read this my [Disclaimer](/terms/) before breaking out the tar and feathers.
+> **DISCLAIMER**: The views expressed in this article are solely mine. They do not reflect the opinion of Cloud Native Computing Foundation (I'm a [CNCF Ambassador](/chris-short-named-cloud-native-ambassador/)), opensource.com (I'm an [Opensource.com Community Moderator](https://opensource.com/opensourcecom-team)), nor Red Hat, nor that of any group I am affiliated with or employed by.
+>
+> Please read my [Disclaimer](/terms/) before breaking out the tar and feathers.
 
 To say that [Docker](http://petty.company/) had a very rough 2017 is an understatement. Aside from Uber, I can't think of a more utilized, hyped, and well funded Silicon Valley startup (still in operation) fumbling as bad as Docker did in 2017. People will look back on 2017 as the year Docker, a great piece of software, was completely ruined by bad business practices leading to its end in 2018. This is an outside facing retrospective on how and where Docker went wrong and how Docker's efforts to fix it are far too little way too late.
 
 {{< mc >}}
 
-Japanese Translation: [Docker社は死んだ](http://itosho525.hatenablog.com/entry/2018/01/01/074358)
+> Japanese Translation: [Docker社は死んだ](http://itosho525.hatenablog.com/entry/2018/01/01/074358)
 
 ## Docker is Good Software
 
 To be clear, Docker has helped revolutionize software development. Taking Linux primitives like cgroups, namespaces, process isolation, etc. and putting them into a single tool is an amazing feat. In 2012, I was trying to figure out how development environments could be more portable. Docker's rise allowed a development environment to become a simple, version controllable Dockerfile. The tooling went from Packer, Vagrant, VirtualBox, and a ton of infrastructure to Docker. The Docker UI is actually pretty good too! It's a good tool with many applications. The folks on the Docker team should be very proud of the tooling they built.
-
-{{< adsense-inarticle >}}
 
 ## Docker is a Silicon Valley Darling
 
@@ -41,6 +41,8 @@ But, like most well funded, win at all cost start-ups of the 2010s, Docker made 
 ## Kubernetes Dealt Damage to Docker
 
 Docker's doom has been accelerated by the rise of [Kubernetes](https://kubernetes.io/). Docker did itself no favors in its handling of Kubernetes, the open source community's darling container orchestrator. Docker's competing product, Docker Swarm, was the only container orchestrator in Docker's mind. This decision was made despite Kubernetes preferring Docker containers at first. Off the record, Docker Captains confirmed early in 2017 that Kubernetes discussions in articles, at meetups, and at conferences was frowned upon by Docker.
+
+{{< adsense-inarticle >}}
 
 Through dockercon17 in Austin this Kubernetes-less mantra held. Then, rather abruptly, at dockercon EU 17 [Docker decided to go all in on Kubernetes](https://blog.docker.com/2017/10/kubernetes-docker-platform-and-moby-project/). The sudden change was an obvious admission to Kubernetes' rise and impending dominance. This is only exacerbated by the fact that Docker sponsored and had a booth at KubeCon + CloudNativeCon North America 2017.
 
