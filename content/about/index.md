@@ -32,11 +32,11 @@ Chris is now working in the [open source](/tags/open-source/), [Linux](/tags/lin
 
 ## Appearances Elsewhere
 
-* [Projects](/projects/)
 * [DevOps'ish](https://devopsish.com)
+* [Projects](/projects/)
 * [Newsletter](/newsletter/)
 * [Speaking](/speaking/)
-* [Interviews](/categories/interviews/)
+* [Interviews](interviews/)
 * [Books](/books/)
 * [Publications](/publications/)
 
