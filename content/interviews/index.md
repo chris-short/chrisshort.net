@@ -9,6 +9,13 @@ title = "Interviews"
 
 > If you'd like to talk to me about speaking on your podcast, live stream, web site, etc. please send me a DM on Twitter ([@ChrisShort](https://twitter.com/ChrisShort)) or [e-mail](mailto:chris@chrisshort.net). Thanks!
 
+## On-Call Nightmares Podcast: Episode 3
+
+Date: 2018-12-27  
+Source: [On-Call Nightmares Podcast — Episode 3 - Chris Short - Red Hat](https://www.podomatic.com/podcasts/oncallnightmares/episodes/2018-12-27T09_00_12-08_00)  
+Download: [Audio](/interviews/oncallnightmares_2018-12-27T09_00_12-08_00.mp3)
+
+
 ## Business Travel Life: Chris Short
 
 Date: 2018-09-28  
@@ -22,7 +29,8 @@ Source: [7 leadership skills that will make or break your DevOps transformation]
 ## Product Marketing - Food Fight Show
 
 Date: 2018-08-10  
-Source: [Product Marketing Management](http://foodfightshow.org/2018/08/product-marketing.html)
+Source: [Product Marketing Management](http://foodfightshow.org/2018/08/product-marketing.html)  
+Download: [Audio](/interviews/FFS123.mp3)
 
 ## Stand-up meetings: 5 reasons to kiss traditional meetings goodbye
 
@@ -32,22 +40,26 @@ Source: [Stand-up meetings: 5 reasons to kiss traditional meetings goodbye](http
 ## The New Stack: The Best CI/CD Tool for Kubernetes Doesn't Exist
 
 Date: 2018-06-05  
-Source: [The Best CI/CD Tool for Kubernetes Doesn't Exist](https://thenewstack.io/the-best-ci-cd-tool-for-kubernetes-doesnt-exist/)
+Source: [The Best CI/CD Tool for Kubernetes Doesn't Exist](https://thenewstack.io/the-best-ci-cd-tool-for-kubernetes-doesnt-exist/)  
+Download: [Audio](/interviews/tns-best-ci-cd-for-kubernetes-doesnt-exist.mp3)
 
 ## L8ist Sh9y Podcast: Chris Short on SRE, DevSecOps, Pipelines, Immutability, and Kubernetes
 
 Date: 2018-06-02  
-Source: [Chris Short on SRE, DevSecOps, Pipelines, Immutability, and Kubernetes](https://soundcloud.com/user-410091210/chris-short-on-sre-devsecops-pipelines-immutability-and-kubernetes)
+Source: [Chris Short on SRE, DevSecOps, Pipelines, Immutability, and Kubernetes](https://soundcloud.com/user-410091210/chris-short-on-sre-devsecops-pipelines-immutability-and-kubernetes)  
+Download: [Audio](/interviews/chris-short-on-sre-devsecops-pipelines-immutability-and-kubernetes.mp3)
 
 ## DevOpsDays Toronto 2018 — What the military taught me about DevOps
 
 Date: 2018-06-01  
-Source: [Chris Short describing his talk at DevOpsDays Toronto](https://youtu.be/gwOmVh7lCEA)
+Source: [Chris Short describing his talk at DevOpsDays Toronto](https://youtu.be/gwOmVh7lCEA)  
+Download: [Video](/interviews/devopsdays-toronto-2018-ken-mugrage-chris-short.mp4) [Audio](/interviews/devopsdays-toronto-2018-ken-muckrage-chris-short.mp3)
 
 ## Discussing DevOps Details aka The 3D Podcast: Episode 113
 
 Date: 2018-04-04  
-Source: [Episode 113: Refactoring Giant Monoliths](http://techtowntraining.com/podcastgen/?name=2018-04-04_3d_podcast_recording_session_113_-_refactoring_giant_monoliths.mp3)
+Source: [Discussing DevOps Details Episode 113: Refactoring Giant Monoliths](http://techtowntraining.com/podcastgen/?name=2018-04-04_3d_podcast_recording_session_113_-_refactoring_giant_monoliths.mp3)  
+Download: [Audio](/interviews/2018-04-04_3d_podcast_recording_session_113_-_refactoring_giant_monoliths.mp3)
 
 ## Screaming in the Cloud: Episode 2
 
@@ -58,22 +70,26 @@ Source: [EPISODE 2: SHOVING A SAN INTO US-EAST-1 WITH CHRIS SHORT OF DEVOPS’IS
 
 Date: 2016-10-30  
 Source: [The Cloudcast #277 - DevOps Perspectives from the Front Lines](http://www.thecloudcast.net/2016/10/the-cloudcast-277-devops-perspective.html)  
-Blog Post: [DevOps Perspectives from the Front Lines](/devops-perspectives-from-the-front-lines/)
+Blog Post: [DevOps Perspectives from the Front Lines](/devops-perspectives-from-the-front-lines/)  
+Download: [Audio](/interviews/the-cloudcast-277-devops-perspectives-from-the-front-lines.mp3)
 
 ## North Carolina Veterans Oral History Interview Part 3
 
 Date: 2016-05-21  
 Source: [Christopher B. Short Interview, 2016-05-21](https://archive.org/details/MilCollOH1103Short)  
-Blog Post: [North Carolina Veterans Oral History Interview Part 3](/north-carolina-veterans-oral-history-interview-part-3/)
+Blog Post: [North Carolina Veterans Oral History Interview Part 3](/nc-veterans-oral-history-program/nc-vets-oral-history-interview-3/)  
+Download: [Audio](/nc-veterans-oral-history-program/nc-veterans-oral-history-interview-3.mp3)
 
 ## North Carolina Veterans Oral History Interview Part 2
 
 Date: 2016-05-21  
 Source: [Christopher B. Short Interview, 2016-05-21](https://archive.org/details/MilCollOH1103Short)  
-Blog Post: [North Carolina Veterans Oral History Interview Part 2](/north-carolina-veterans-oral-history-interview-part-2/)
+Blog Post: [North Carolina Veterans Oral History Interview Part 2](/nc-veterans-oral-history-program/nc-vets-oral-history-interview-2/)  
+Download: [Audio](/nc-veterans-oral-history-program/nc-veterans-oral-history-interview-2.mp3)
 
 ## North Carolina Veterans Oral History Interview Part 1
 
 Date: 2016-05-21  
 Source: [Christopher B. Short Interview, 2016-05-21](https://archive.org/details/MilCollOH1103Short)  
-Blog Post: [North Carolina Veterans Oral History Interview Part 1](/north-carolina-veterans-oral-history-interview-part-1/)
+Blog Post: [North Carolina Veterans Oral History Interview Part 1](/nc-veterans-oral-history-program/nc-vets-oral-history-interview-1/)  
+Download: [Audio](/nc-veterans-oral-history-program/nc-veterans-oral-history-interview-1.mp3)
