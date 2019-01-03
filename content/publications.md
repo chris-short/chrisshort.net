@@ -7,13 +7,11 @@ slug = "publications"
 title = "Publications"
 +++
 
-## [Automation Everywhere At AnsibleFest Austin](https://www.ansible.com/blog/automation-everywhere-at-ansiblefest-austin)
+> Chris Short's ansible.com blog posts are available here: <https://www.ansible.com/blog/author/chris-short>
 
-AnsibleFest is fast approaching! We couldn’t be more excited to be holding our 13th AnsibleFest in Austin, TX. It must be true that everything is bigger in Texas, because this year's AnsibleFest is on track to be the biggest one ever.
+## [The people, processes, and tools of DevOps in 2018](https://opensource.com/article/18/12/top-devops)
 
-## [The Total Economic Impact of Red Hat Ansible Tower](https://www.ansible.com/blog/the-total-economic-impact-of-red-hat-ansible-tower)
-
-A dive into what Red Hat Ansible Tower enables, efficiencies gained, the acceleration of revenue recognition, and other tangible benefits
+Check out the 2018 DevOps dirty dozen—the 12 most popular articles from the year.
 
 ## [5 Firefox extensions to protect your privacy](https://opensource.com/article/18/7/firefox-extensions-protect-privacy)
 
