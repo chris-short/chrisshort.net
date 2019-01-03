@@ -105,7 +105,7 @@ I tried to set the record straight early on but was asked to delete this tweet (
 
 ![Screenshot of original tweet assigning credit to folks for KubeKhan NA 2018](/2018-learnings-2019-expectations/original-credit-tweet.png)
 
-[**Kim McMahon**](https://twitter.com/kamcmahon) and I were talking before KubeCon trying to set up dinner, lunch, drinks, or something while in Seattle. But, then a meeting popped up that required me to leave Seattle at noon on Wednesday. I told Kim and asked how can we ever have time to catch up with everyone we want to see at KubeCon? She had an idea a few hours later:
+[**Kim McMahon**](https://kimmcmahon.me/) and I were talking before KubeCon trying to set up dinner, lunch, drinks, or something while in Seattle. But, then a meeting popped up that required me to leave Seattle at noon on Wednesday. I told Kim and asked how can we ever have time to catch up with everyone we want to see at KubeCon? She had an idea a few hours later:
 
 ![iMessage thread between Kim McMahon and Chris Short prior to KubeCon NA 2018](/2018-learnings-2019-expectations/kim-mcmahon-one-to-many.png)
 
@@ -135,7 +135,7 @@ Then things took on a life of their own. I grabbed my phone at one point and it 
 
 None of this might have happened if it weren't for Kim McMahon. She opened a way to create a safe space for folks to gather. Making sure folks saw everyone they could during KubeCon. For that, I am truly thankful.
 
-> I think a tradition has been born! —Kim McMahon
+> I think a tradition has been born! —[Kim McMahon](https://kimmcmahon.me/)
 
 I am also immensely thankful to Jaice, Swarna, Bob, and Vallery. But, more importantly, I'd like to thank everyone that came out to hang out during one of the more draining conferences of the year.
 
