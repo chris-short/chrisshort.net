@@ -17,7 +17,7 @@ aliases = [
 ## Ansible and Red Hat Management — better...stronger...faster
 
 Date: 2018-11-14  
-Event: [Ansible Automates: Tampa](https://www.eventbrite.com/e/ansible-automates-tampa-registration-50228564990)
+Event: [Ansible Automates: Tampa](https://www.eventbrite.com/e/ansible-automates-tampa-registration-50228564990)  
 Video: [Ansible and Red Hat Management — better...stronger...faster](https://www.brighttalk.com/webinar/ansible-and-red-hat-management-better-stronger-faster?utm_source=RedHat)
 
 I also participated in the [Ansible Q&A Panel](https://www.brighttalk.com/webinar/qa-panel?utm_source=RedHat) at the end of this event.
@@ -26,12 +26,12 @@ I also participated in the [Ansible Q&A Panel](https://www.brighttalk.com/webina
 
 Date: 2018-10-17  
 Event: [All Day DevOps 2018](https://www.alldaydevops.com/addo-speakers/chris-short)  
-Slides: [All Day DevOps — DevOps is Not a War](https://speakerdeck.com/chrisshort/all-day-devops-devops-is-not-a-war)
+Slides: [All Day DevOps — DevOps is Not a War](https://speakerdeck.com/chrisshort/all-day-devops-devops-is-not-a-war)  
 Video: [All Day DevOps 2018 — DevOps is Not a War](http://play.sonatype.com/watch/PbTS2zEEfXF7M8dbNrXEQN?)
 
 ## DevOpsDays Columbus 2018: Kubernetes Cron Jobs
 
-Date: 2018-09-19
+Date: 2018-09-19  
 Event: [DevOpsDays Columbus 2018](https://www.devopsdays.org/events/2018-columbus/program/chris-short/)  
 Slides: [DevOpsDays Columbus 2018: Kubernetes Cron Jobs](https://speakerdeck.com/chrisshort/devopsdays-columbus-2018-kubernetes-cron-jobs)  
 Video: [Chris Short Ignite - Kubernetes Cron Jobs: Dreams Really Do Come True](https://youtu.be/75T_-YJ5Vag)
