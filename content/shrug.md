@@ -12,12 +12,14 @@ title = "Shrug"
 
 ## Normal Shrug
 
-**¯\\\_(ツ)\_/¯**
+¯\\\_(ツ)\_/¯
 
-## Markdown Shrug:
+## Markdown Shrug
 
 `¯\\\_(ツ)\_/¯`
 
-## Emoji Shrug:
+## Emoji Shrug
 
-# 🤷‍♀️ 🤷‍♂️ 
+# 🤷‍♀️ 🤷‍♂️
+
+{{< tweet 1082342275273891845 >}}
