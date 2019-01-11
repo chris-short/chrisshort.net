@@ -9,6 +9,12 @@ title = "Interviews"
 
 > If you'd like to talk to me about speaking on your podcast, live stream, web site, etc. please send me a DM on Twitter ([@ChrisShort](https://twitter.com/ChrisShort)) or [e-mail](mailto:chris@chrisshort.net). Thanks!
 
+## DevOps Defined — What is Kubernetes?
+
+Date: 2019-01-11  
+Source: [DevOps Defined - What is Kubernetes?
+](https://youtu.be/ES2ShEzVyaI)
+
 ## On-Call Nightmares Podcast: Episode 3
 
 Date: 2018-12-27  

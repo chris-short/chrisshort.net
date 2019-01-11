@@ -4,7 +4,6 @@ author = "Chris Short"
 date = 2018-12-26T21:18:00Z
 description = "Résumé of a 20+ year veteran of Information Technology and DevOps and current Product Marketing professional."
 draft = false
-slug = "resume"
 tags = ["resume", "cv"]
 title = "Résumé"
 aliases = [
