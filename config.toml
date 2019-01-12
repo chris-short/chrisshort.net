@@ -121,7 +121,7 @@ paginate = 4
 [[menu.main]]
     parent = "menu"
     name = "Newsletter"
-    url = "/newsletter/"
+    url = "https://devopsish.com/"
     weight = 10
 
 [[menu.main]]
