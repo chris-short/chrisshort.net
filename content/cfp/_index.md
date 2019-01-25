@@ -10,4 +10,4 @@ title = "Call for Papers"
 
 +++
 
-If you’d like to talk about me [speaking](/speaking/) at your conference, Meetup, office, party, dinner, luncheon, etc. please send me a DM on Twitter ([@ChrisShort](https://twitter.com/ChrisShort)) or [e-mail](mailto:chris@chrisshort.net). Thanks!
+If you’d like discuss having me [speak](/speaking/) at your podcast conference, Meetup, office, party, dinner, luncheon, etc. please use the [CNCF speaker contact form](https://www.cncf.io/speaker/chrisshort/). Thanks!

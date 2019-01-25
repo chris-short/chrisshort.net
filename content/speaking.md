@@ -12,7 +12,7 @@ aliases = [
 ]
 +++
 
-> If you'd like to talk about me speaking at your conference, Meetup, office, party, etc. please send me a DM on Twitter ([@ChrisShort](https://twitter.com/ChrisShort)) or [e-mail](mailto:chris@chrisshort.net). Thanks!
+> If you’d like discuss having me [speak](/speaking/) at your podcast conference, Meetup, office, party, dinner, luncheon, etc. please use the [CNCF speaker contact form](https://www.cncf.io/speaker/chrisshort/). Thanks!
 
 ## Ansible and Red Hat Management — better...stronger...faster
 
@@ -42,7 +42,7 @@ Date: 0219-09-12
 Event: [Grand Rapids RHUG Ansible, DevOps, and more!](https://www.meetup.com/Grand-Rapids-RHUG/events/253614873/)  
 Slides: [Using Ansible for DevOps](https://speakerdeck.com/chrisshort/using-ansible-for-devops)
 
-## Baltimore Go June Meeting - Go to the Rescue: Saving DevOps from TLS Turmoil
+## Baltimore Go June Meeting — Go to the Rescue: Saving DevOps from TLS Turmoil
 
 Date: 2018-06-05  
 Event: [Baltimore Go June Meeting](https://www.meetup.com/BaltimoreGolang/events/kxrjrpyxjbhb/)  
