@@ -40,6 +40,8 @@ DHCP, DNS, Ethernet, FTP, HTTP, HTTPS, IP, NTP, POP, RSYNC, SCP, SFTP, SMTP, SNM
 
 * Blog curator, room facilitator, survey staff management, and official after party event security for AnsibleFest 2018 in Austin, TX
 * Speaker at multiple public and private Red Hat events over the globe; enabled field to intelligently sell and market Ansible to customers
+* Instrumental in bringing community projects into the Red Hat Ansible suite of tools; helped establish standards for testing and acceptance as well as scoring of Ansible content
+* Awarded Red Hat Product Marketing Best New Red Hatter 2019
 
 ### Senior DevOps Advocate, SJ Technologies — Detroit, MI — Jan 2018 to Jun 2018
 
