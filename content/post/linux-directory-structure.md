@@ -9,7 +9,8 @@ tags = ["linux", "open source"]
 title = "Linux Directory Structure"
 aliases = [
     "/archives/2005/01/linux-directory-structure.php",
-    "linux-directory-structure.php"
+    "linux-directory-structure.php",
+    "/archives/2005/01/linux-directory-structure.php"
 ]
 
 +++
