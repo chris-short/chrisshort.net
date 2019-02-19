@@ -6,11 +6,15 @@ description = "Chris Short suffers from Long Thoracic Nerve Palsy with Winging o
 draft = false
 slug = "shoulder-update-20040428"
 tags = ["shoulder", "winged scapula"]
-title = "Shoulder Update 04/28/2004"
+title = "Shoulder Update 2004-04-28"
+aliases = [
+    "/shoulder-update-04-28-2004/",
+    "shoulder-update-04-28-2004"
+]
 
 +++
 
-*8:56 AM ET*
+## 8:56 AM ET
 
 I woke up this morning at 0230 experiencing the worst pain I've ever felt in my shoulder. I took my medication which didn't really help and sat in front of the computer until it was time to go to work.
 
@@ -22,7 +26,7 @@ I think I've been more than fair with the military in the past eight months sinc
 
 We'll see what happens.
 
-*5:25 PM ET*
+## 5:25 PM ET
 
 Well the three hours in the hospital today didn't really do much for me.
 

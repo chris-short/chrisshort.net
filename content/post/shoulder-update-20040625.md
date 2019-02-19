@@ -6,7 +6,7 @@ description = "Chris Short suffers from Long Thoracic Nerve Palsy with Winging o
 draft = false
 slug = "shoulder-update-20040625"
 tags = ["shoulder", "winged scapula"]
-title = "Shoulder Update 06/25/2004"
+title = "Shoulder Update 2004-06-25"
 
 +++
 
