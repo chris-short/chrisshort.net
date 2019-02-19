@@ -7,6 +7,10 @@ draft = false
 slug = "shoulder-update-20040614"
 tags = ["shoulder", "winged scapula"]
 title = "Shoulder Update 2004-06-14"
+aliases = [
+    "/shoulder-update-06/14/2004/",
+    "shoulder-update-06/14/2004"
+]
 
 +++
 

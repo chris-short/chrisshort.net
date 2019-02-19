@@ -9,7 +9,9 @@ tags = ["shoulder", "winged scapula"]
 title = "Shoulder Update 2004-03-27"
 aliases = [
     "/shoulder-update-03-27-2004/",
-    "shoulder-update-03-27-2004"
+    "shoulder-update-03-27-2004",
+    "/shoulder-update-03/27/2004/",
+    "shoulder-update-03/27/2004"
 ]
 
 +++
