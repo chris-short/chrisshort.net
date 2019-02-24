@@ -1,11 +1,11 @@
 +++
 author = "Chris Short"
-categories = ["Center for Purposeful Living"]
+categories = ["Foundation for Purposeful Living"]
 date = 2005-07-08T20:00:00Z
 description = ""
 draft = false
 slug = "the-cult-that-is-human-service-alliance-and-the-center-for-purposeful-living"
-tags = ["center for purposeful living", "human service alliance", "hsa"]
+tags = ["center for purposeful living", "human service alliance", "hsa", "foundation for purposeful living"]
 title = "The Cult that is Human Service Alliance and the Center for Purposeful Living"
 aliases = [
     "the-cult-that-is-human-service-alliance-and-the-center-for-purposeful-living-2", 

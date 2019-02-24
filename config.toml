@@ -174,8 +174,8 @@ paginate = 4
 
 [[menu.main]]
     parent = "menu"
-    name = "Center for Purposeful Living"
-    url = "/center-for-purposeful-living/"
+    name = "Foundation for Purposeful Living"
+    url = "/foundation-for-purposeful-living/"
     weight = 110
 
 [[menu.main]]

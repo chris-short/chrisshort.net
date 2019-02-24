@@ -1,11 +1,11 @@
 +++
 author = "Chris Short"
-categories = ["Center for Purposeful Living"]
+categories = ["Foundation for Purposeful Living"]
 date = 2005-09-14T20:00:00Z
 description = ""
 draft = false
 slug = "a-brief-history-of-center-for-purposeful-living-by-john-david-short"
-tags = ["center for purposeful living", "human service alliance", "hsa"]
+tags = ["center for purposeful living", "human service alliance", "hsa", "foundation for purposeful living"]
 title = "A Brief History of Center for Purposeful Living by John David Short"
 aliases = [
     "a-brief-history-of-center-for-purposeful-living-by-john-david-short-2",

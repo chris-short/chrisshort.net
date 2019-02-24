@@ -1,11 +1,11 @@
 +++
 author = "Chris Short"
-categories = ["Center for Purposeful Living"]
+categories = ["Foundation for Purposeful Living"]
 date = 2005-07-14T20:00:00Z
 description = ""
 draft = false
 slug = "the-center-for-purposeful-living-is-a-cult-dont-take-my-word-for-it-2"
-tags = ["center for purposeful living", "human service alliance", "hsa"]
+tags = ["center for purposeful living", "human service alliance", "hsa", "foundation for purposeful living"]
 title = "The Center for Purposeful Living is a Cult: Don't Take My Word For It"
 aliases = [
     "the-center-for-purposeful-living-is-a-cult-dont-take-my-word-for-it-2",
