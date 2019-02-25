@@ -11,11 +11,17 @@ tags = ["books"]
 
 > If you'd like to talk to me about writing for your upcoming project please send me a DM on Twitter ([@ChrisShort](https://twitter.com/ChrisShort)) or [e-mail](mailto:chris@chrisshort.net). Thanks!
 
+## Ansible Automation for SysAdmins: A quickstart guide to Ansible
+
+The Ansible Automation for SysAdmins guide is a primer to help you get started using Ansible to give you a better understanding of the capabilities and show you how to automate everyday sysadmin tasks.
+
+[![Ansible Automation for SysAdmins: A quickstart guide to Ansible](/books/ansible_automation_for_sysadmins_v2.png)](https://opensource.com/downloads/ansible-quickstart)
+
 ## The Ultimate DevOps Hiring Guide
 
 Seeking a DevOps job? Hiring for a DevOps team? Get practical advice from your peers
 
-[![The Ultimate DevOps Hiring Guide](the_ultimate_devops_hiring_guide.png)](https://enterprisersproject.com/ultimate-devops-hiring-guide)
+[![The Ultimate DevOps Hiring Guide](/books/the_ultimate_devops_hiring_guide.png)](https://enterprisersproject.com/ultimate-devops-hiring-guide)
 
 ## DevOps Hiring Guide
 
