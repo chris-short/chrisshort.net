@@ -27,7 +27,7 @@ DevOps needs to focus on more than Dev and Ops to be truly transformative for an
 ### whoami
 
 * Brands
-* Partially Disabled Veteran
+* Disabled Veteran
 
 ### Thucydides
 

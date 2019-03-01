@@ -12,11 +12,11 @@ aliases = [
 
 ## Tagline
 
-Red Hat Ansible | CNCF Ambassador | DevOps | opensource.com Community Moderator | Writes devopsish.com | Partially Disabled USAF Veteran | He/Him
+Red Hat Ansible | CNCF Ambassador | DevOps | opensource.com Community Moderator | Writes devopsish.com | Disabled USAF Veteran | He/Him
 
 ## Brief Bio
 
-**Chris Short** has been a proponent of open source solutions throughout his over two decades in various IT disciplines including systems, security, networks, and DevOps engineering and advocacy across the public and private sectors. He currently works on the Ansible team at Red Hat. Chris is a partially disabled US Air Force veteran living with his wife and son in Greater Metro Detroit. Chris writes about DevOps and other topics at  [chrisshort.net](https://chrisshort.net). He also runs the DevOps, Cloud Native, and open source focused newsletter [DevOps'ish](https://devopsish.com).
+**Chris Short** has been a proponent of open source solutions throughout his over two decades in various IT disciplines including systems, security, networks, and DevOps engineering and advocacy across the public and private sectors. He currently works on the Ansible team at Red Hat. Chris is a disabled US Air Force veteran living with his wife and son in Greater Metro Detroit. Chris writes about DevOps and other topics at  [chrisshort.net](https://chrisshort.net). He also runs the DevOps, Cloud Native, and open source focused newsletter [DevOps'ish](https://devopsish.com).
 
 ## Extended Bio
 
