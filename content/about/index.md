@@ -12,7 +12,7 @@ aliases = [
 
 ## Tagline
 
-Red Hat Ansible | CNCF Ambassador | DevOps | opensource.com Community Moderator | Writes devopsish.com | Disabled USAF Veteran | He/Him
+Red Hat Ansible | CNCF Ambassador | opensource.com Community Moderator | Writes DevOps'ish | Disabled Veteran | He/Him | PROVIDED AS IS
 
 ## Brief Bio
 
