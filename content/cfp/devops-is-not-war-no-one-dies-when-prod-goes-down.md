@@ -4,7 +4,7 @@ categories = ["CFP"]
 date = 2019-03-10T12:47:00Z
 description = ""
 draft = false
-slug = "devops-is-not-war-no-one-dies-when-prod-goes-down"
+slug = "no-one-dies-when-prod-goes-down"
 tags = ["devops", "culture", "cfp"]
 title = "DevOps is Not War: No One Dies When Prod Goes Down"
 
