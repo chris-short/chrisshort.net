@@ -18,7 +18,7 @@ aliases = [
 
 ## Professional Summary
 
-Seasoned, passionate, results-producing DevOps professional; a wide range of experiences and skills managing numerous aspects of Linux systems, network administration, IT Operations, and Development Operations (DevOps). Expertise in troubleshooting hardware, software, cloud, and network issues in high-pressure situations. Cloud Native Computing Foundation Ambassador and opensource.com Community Moderator. Organizer of Detroit Golang and Detroit Kubernetes Meetups, speaker at numerous DevOpsDays events across North America, GopherCon, and All Things Open.
+Seasoned, passionate, results-producing DevOps professional; a wide range of experiences and skills managing numerous aspects of Linux systems, network administration, IT Operations, and Development Operations (DevOps). Expertise in troubleshooting hardware, software, cloud, and network issues in high-pressure situations. Cloud Native Computing Foundation Ambassador, Meetup and event organizer, public speaker, writer, and staunch supporter of the human race. Good at naming things.
 
 ## Skills
 
@@ -28,7 +28,7 @@ Alpine Linux, APT, Ansible, Apache httpd, Atlassian Bamboo, Atlassian BitBucket,
 
 ### Infrastructure
 
-AWS (CloudTrail, CloudWatch, EC2, Lambda, Route53, S3, SES, SQS, VPC), Akamai, Cisco IOS, CloudFlare, Fastly, Google Cloud Platform (Compute Engine, Container Engine, Storage), Kubernetes, Netlify, Red Hat OpenShift, Rackspace Cloud, TippingPoint SMS, VMWare vSphere Client
+AWS (CloudTrail, CloudWatch, EC2, Lambda, Route53, S3, SES, SQS, VPC), Akamai, Cisco IOS, CloudFlare, DigitalOcean, Fastly, Google Cloud Platform (Compute Engine, Container Engine, Storage), Kubernetes, Netlify, Red Hat OpenShift, Rackspace Cloud, TippingPoint SMS, VMWare vSphere Client
 
 ### Protocols
 
