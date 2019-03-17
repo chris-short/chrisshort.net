@@ -2,21 +2,6 @@
 If you want to include any custom html just before </head>, put it in /layouts/partials/head_custom.html
 Do not put anything in this file - it's only here so that hugo won't throw an error if /layouts/partials/head_custom.html doesn't exist.
 -->
-<!-- Fathom - simple website analytics - https://github.com/usefathom/fathom -->
-  <script>
-  (function(f, a, t, h, o, m){
-    a[h]=a[h]||function(){
-      (a[h].q=a[h].q||[]).push(arguments)
-    };
-    o=f.createElement('script'),
-    m=f.getElementsByTagName('script')[0];
-    o.async=1; o.src=t; o.id='fathom-script';
-    m.parentNode.insertBefore(o,m)
-  })(document, window, '//analytics.wingedblade.com/tracker.js', 'fathom');
-  fathom('set', 'siteId', 'LAVAH');
-  fathom('trackPageview');
-  </script>
-  <!-- / Fathom -->
 
   <link rel="apple-touch-icon" sizes="57x57" href="/favicons/apple-icon-57x57.png">
   <link rel="apple-touch-icon" sizes="60x60" href="/favicons/apple-icon-60x60.png">
