@@ -18,7 +18,7 @@ aliases = [
 
 ## Professional Summary
 
-Seasoned, passionate, results-producing DevOps professional; a wide range of experiences and skills managing numerous aspects of Linux systems, network administration, IT Operations, and Development Operations (DevOps). Expertise in troubleshooting hardware, software, cloud, and network issues in high-pressure situations. Cloud Native Computing Foundation Ambassador, Meetup and event organizer, public speaker, writer, and staunch supporter of the human race. Good at naming things.
+Seasoned, passionate, results-producing DevOps professional; a wide range of experiences and skills managing numerous aspects of Linux systems, network administration, IT Operations, and Development Operations (DevOps). Expertise in troubleshooting hardware, software, cloud, and network issues in high-pressure situations. Cloud Native Computing Foundation Ambassador, Meetup anad event organizer, public speaker, writer, and staunch supporter of the human race. Good at naming things.
 
 ## Skills
 
