@@ -57,3 +57,9 @@ Source: <https://github.com/chris-short/devopsnewsletters.com>
 Inspired by [DevOps Newsletters](https://devopsnewsletters.com/) and Peter Benjamin’s [How do you keep up with Kubernetes?](https://dev.to/petermbenjamin/how-do-you-keep-up-with-kubernetes-2209), Kubernetes News intends to be a resource to help keep up with the wide ranging and rapidly evolving world of Kubernetes.
 
 Source: <https://github.com/chris-short/kubenews.io>
+
+## [No Medium](https://nomedium.dev/)
+
+Medium is Bad and You Should Stop Using It.
+
+Source: <https://github.com/chris-short/nomedium.dev>
