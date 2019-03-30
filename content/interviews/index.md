@@ -1,6 +1,6 @@
 +++
 author = "Chris Short"
-date = 2018-06-07T22:41:00Z
+date = 2016-05-21T22:41:00Z
 description = "Interviews Chris Short has given"
 draft = false
 tags = ["interviews", "podcast"]
@@ -8,6 +8,14 @@ title = "Interviews"
 +++
 
 > If you’d like discuss having me [speak](/speaking/) at your podcast conference, Meetup, office, party, dinner, luncheon, etc. please use the [CNCF speaker contact form](https://www.cncf.io/speaker/chrisshort/). Thanks!
+
+## The Cloud Pod — Episode 16: This week in the cloud blob
+
+Date: 2019-03-29  
+Source: [Episode 16: This week in the cloud blob](https://www.thecloudpod.net/podcast/episode-16-this-week-in-the-cloud-blob/)  
+Download: [Audio](/interviews/tcp-episode-16-mix.mp3)
+
+AWS Summit Season 2019 is officially underway. Justin, Peter and special guest Chris Short [@chrisshort](https://twitter.com/ChrisShort). Plus the famous lightning round.
 
 ## DevOps Defined — What is Kubernetes?
 
