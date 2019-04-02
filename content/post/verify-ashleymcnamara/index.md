@@ -10,7 +10,9 @@ image = "/verify-ashleymcnamara/verify-ashleymcnamara.png"
 
 +++
 
-**认证 @ashleymcnamara** is a form of peacefu;l protest to get [Ashley McNamara](https://twitter.com/ashleymcnamara) verified on Twitter. Please consider doing something similar in your own Twitter profile. The how and the why follows.
+**认证 @ashleymcnamara** is a form of peaceful protest to have [Ashley McNamara](https://twitter.com/ashleymcnamara) verified on Twitter. Please consider doing something similar with your own Twitter profile. 
+
+The how and the why follows.
 
 ## The Blue Check
 
