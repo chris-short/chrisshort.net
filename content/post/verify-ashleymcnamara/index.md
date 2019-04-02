@@ -4,14 +4,13 @@ categories = ["Shenanigans"]
 date = 2019-04-02T07:00:00Z
 description = "认证 @ashleymcnamara — Verify Ashley McNamara"
 draft = false
-slug = "verify-ashleymcnamara"
 tags = ["Twitter", "verified account program", "verified", "Ashley McNamara"]
 title = "Verify @ashleymcnamara"
 image = "/verify-ashleymcnamara/verify-ashleymcnamara.png"
 
 +++
 
-**认证 @ashleymcnamara** is a protest to get [Ashley McNamara](https://twitter.com/ashleymcnamara) verified on Twitter. Please consider doing something similar in your own Twitter profile.
+**认证 @ashleymcnamara** is a form of peacefu;l protest to get [Ashley McNamara](https://twitter.com/ashleymcnamara) verified on Twitter. Please consider doing something similar in your own Twitter profile. The how and the why follows.
 
 ## The Blue Check
 
