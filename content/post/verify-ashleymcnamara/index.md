@@ -22,7 +22,7 @@ Twitter's verified account program is rife with poor choices and questionable de
 
 ## Low Hanging Fruit
 
-But, there are pieces of low hanging fruit the [Twitter verified account program](https://help.twitter.com/en/managing-your-account/twitter-verified-accounts) program could benefit from harvesting. The official answer from Twitter is, "[O]ur verified account program is currently on hold." However, despite "[holding off on fixing verification policy to focus on election integrity](https://techcrunch.com/2018/07/17/twitter-is-holding-off-on-fixing-verification-policy-to-focus-on-election-integrity/)" some [accounts are getting verified](https://slate.com/technology/2018/05/you-cant-get-verified-on-twitter-anymore-but-serena-williams-baby-can.html).
+But, there are pieces of low hanging fruit the [Twitter verified account program](https://help.twitter.com/en/managing-your-account/twitter-verified-accounts) could benefit from harvesting. The official answer from Twitter is, "[O]ur verified account program is currently on hold." However, despite "[holding off on fixing verification policy to focus on election integrity](https://techcrunch.com/2018/07/17/twitter-is-holding-off-on-fixing-verification-policy-to-focus-on-election-integrity/)" some [accounts are getting verified](https://slate.com/technology/2018/05/you-cant-get-verified-on-twitter-anymore-but-serena-williams-baby-can.html).
 
 {{< mc >}}
 
