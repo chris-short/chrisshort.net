@@ -30,10 +30,6 @@ Alpine Linux, APT, Ansible, Apache httpd, Atlassian Bamboo, Atlassian BitBucket,
 
 AWS (CloudTrail, CloudWatch, EC2, Lambda, Route53, S3, SES, SQS, VPC), Akamai, Cisco IOS, CloudFlare, DigitalOcean, Fastly, Google Cloud Platform (Compute Engine, Container Engine, Storage), Kubernetes, Netlify, Red Hat OpenShift, Rackspace Cloud, TippingPoint SMS, VMWare vSphere Client
 
-### Protocols
-
-DHCP, DNS, Ethernet, FTP, HTTP, HTTPS, IP, NTP, POP, RSYNC, SCP, SFTP, SMTP, SNMP, SSH, TCP/IP, TFTP, Telnet, UDP
-
 ## Professional Experience
 
 ### Principal Product Marketing Manager, Red Hat — Detroit, MI — Jun 2018 to Present
@@ -48,7 +44,7 @@ DHCP, DNS, Ethernet, FTP, HTTP, HTTPS, IP, NTP, POP, RSYNC, SCP, SFTP, SMTP, SNM
 * Built Ansible-based infrastructure testing tool to identify quality concerns between functional areas delivery virtual machines; suggested remedies to reduce handoffs and increase automation
 * Set up Ansible automation to deploy Confluent Kafka; made OpenShift deployment for Kafka UI
 * Represented SJ Technologies as a public speaker at events across North America; spread our DevOps practice message in talks based on research, experiences, and observations
-* Worked with business development, sales, and marketing teams to build new customer relationships, marketing materials to attract customers, and leveraged social media to build branding
+* Worked with BizDev, Sales, and Marketing teams to build new customer relationships, marketing materials to attract customers, and leveraged social media to build branding
 
 ### Manager of DevOps, Bankrate.com — Detroit, MI — June 2017 to Nov 2017
 
@@ -88,7 +84,7 @@ DHCP, DNS, Ethernet, FTP, HTTP, HTTPS, IP, NTP, POP, RSYNC, SCP, SFTP, SMTP, SNM
 ### Linux System Administrator, Cree — Durham, NC — Mar 2014 to May 2014
 
 * Identified discrepancies in Oracle support documentation; worked with Oracle/Cree developers to update documentation; helped Oracle to provide robust RPM; drove teams toward a best practice implementation
-* Described issues with and changed an "install everything" mentality in Linux environments; guided stakeholders toward better understanding of what applications needed to run leading to more efficient system provisioning
+* Described issues with and changed an "install everything" mentality in Linux environments; guided stakeholders toward a better understanding of what applications needed to run leading to more efficient system provisioning
 * Stood up Linux systems monitoring using Xymon Monitor server; provided near real time data giving IT data used to "right size" Factory Automation systems; identified lack of perceived bottlenecks in Oracle EBS systems
 
 ### Network/Systems Security Engineer, McClatchy Interactive — Raleigh, NC — June 2012 to Mar 2014
