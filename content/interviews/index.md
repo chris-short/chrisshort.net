@@ -15,7 +15,7 @@ Date: 2019-04-25
 Source: [DevOps’ish with Chris Short – Newsletterers – The Tim Show – S02E01](https://timhildred.com/devopsish-with-chris-short-newsletterers-the-tim-show-s02e01/)  
 Download: [Audio](/interviews/the-tim-show-s02e01.mp3)
 
-In the inaugural episode of the Newsletterers series, I sat down with [Tim Hildred](https://timhildred.com/) who runs the podcast, The Tim Show. We sat down and talked about the DevOps’ish newsletter and everything it takes to put together, the challenges faced, and the 'why' behind [DevOps'ish](https://devopsish.com/).
+In the inaugural episode of the Newsletterers series, I sat down with [Tim Hildred](https://timhildred.com/) who runs the podcast, The Tim Show. We discussed the DevOps’ish newsletter, everything it takes to put it together, the challenges faced, and the 'why' behind [DevOps'ish](https://devopsish.com/).
 
 ## The Cloud Pod — Episode 16: This week in the cloud blob
 
