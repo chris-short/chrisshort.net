@@ -7,7 +7,15 @@ tags = ["interviews", "podcast"]
 title = "Interviews"
 +++
 
-> If you’d like discuss having me [speak](/speaking/) at your podcast conference, Meetup, office, party, dinner, luncheon, etc. please use the [CNCF speaker contact form](https://www.cncf.io/speaker/chrisshort/). Thanks!
+> If you’d like discuss having me [speak](/speaking/) at your conference, Meetup, office, party, dinner, luncheon, podcast, etc. please use the [CNCF speaker contact form](https://www.cncf.io/speaker/chrisshort/). Thanks!
+
+## The Tim Show — DevOps’ish with Chris Short — Newsletterers
+
+Date: 2019-04-25  
+Source: [DevOps’ish with Chris Short – Newsletterers – The Tim Show – S02E01](https://timhildred.com/devopsish-with-chris-short-newsletterers-the-tim-show-s02e01/)  
+Download: [Audio](/interviews/the-tim-show-s02e01.mp3)
+
+In the inaugural episode of the Newsletterers series, I sat down with [Tim Hildred](https://timhildred.com/) who runs the podcast, The Tim Show. We sat down and talked about the DevOps’ish newsletter and everything it takes to put together, the challenges faced, and the 'why' behind [DevOps'ish](https://devopsish.com/).
 
 ## The Cloud Pod — Episode 16: This week in the cloud blob
 
@@ -20,15 +28,13 @@ AWS Summit Season 2019 is officially underway. Justin, Peter and special guest C
 ## DevOps Defined — What is Kubernetes?
 
 Date: 2019-01-11  
-Source: [DevOps Defined - What is Kubernetes?
-](https://youtu.be/ES2ShEzVyaI)
+Source: [DevOps Defined - What is Kubernetes?](https://youtu.be/ES2ShEzVyaI)
 
 ## On-Call Nightmares Podcast: Episode 3
 
 Date: 2018-12-27  
 Source: [On-Call Nightmares Podcast — Episode 3 - Chris Short - Red Hat](https://www.podomatic.com/podcasts/oncallnightmares/episodes/2018-12-27T09_00_12-08_00)  
 Download: [Audio](/interviews/oncallnightmares_2018-12-27T09_00_12-08_00.mp3)
-
 
 ## Business Travel Life: Chris Short
 
