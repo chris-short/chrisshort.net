@@ -74,12 +74,16 @@ deploy-preview:
 deploy-do: 
   stage: deploy
   environment:
-    name: do
+    name: digital-ocean
     url: do.chrisshort.net
   image: quay.io/chrisshort/s3cmd
   before_script:
-    - echo -n $(S3CFG) | base64 -d > ~/.s3cfg
+    - echo -n $(S3CFG) | base64 -d > /root/.s3cfg
   script:
+    - pwd
+    - ls -la .
+    - ls -la ~
+    - ls -ls /root
     - s3cmd put public s3://chrisshort
   after_script:
     - bin/cf_purge.sh
