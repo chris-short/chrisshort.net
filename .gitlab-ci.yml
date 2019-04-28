@@ -76,7 +76,7 @@ deploy-do:
   environment:
     name: digital-ocean
     url: do.chrisshort.net
-  image: quay.io/chrisshort/s3cmd
+  image: quay.io/chrisshort/s4cmd
   before_script:
     - echo -n ${S3CFG} | base64 -d > ${S3CFG_PATH}
   script:
