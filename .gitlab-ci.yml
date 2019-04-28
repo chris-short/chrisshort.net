@@ -71,7 +71,7 @@ deploy-preview:
   except:
     - master
 
-deploy-do: 
+deploy-digitalocean: 
   stage: deploy
   environment:
     name: digital-ocean
@@ -81,8 +81,6 @@ deploy-do:
     - echo -n ${S3CFG} | base64 -d > ${S3CFG_PATH}
   script:
     - s3cmd --acl-public --recursive --config=${S3CFG_PATH} --delete-removed sync public/* s3://chrisshort
-  after_script:
-    - bin/cf_purge.sh
   except:
     - master
 
