@@ -20,7 +20,7 @@ build-preview:
   stage: build
   environment:
     name: preview
-    url: preview.chrisshort.net
+    url: https://preview.chrisshort.net
   artifacts:
     paths:
       - public
@@ -39,7 +39,7 @@ build-production:
   stage: build
   environment:
     name: production
-    url: chrisshort.net
+    url: https://chrisshort.net
   artifacts:
     paths:
       - public
@@ -58,7 +58,7 @@ deploy-preview:
   stage: deploy
   environment:
     name: preview
-    url: preview.chrisshort.net
+    url: https://preview.chrisshort.net
   image: google/cloud-sdk:alpine
   before_script:
     - echo -n ${GCS_TOKEN} | base64 -d > ${GCS_TOKEN_FILE}
@@ -75,7 +75,7 @@ deploy-do:
   stage: deploy
   environment:
     name: digital-ocean
-    url: do.chrisshort.net
+    url: https://chrisshort.sfo2.digitaloceanspaces.com
   image: quay.io/chrisshort/s3cmd
   before_script:
     - echo -n ${S3CFG} | base64 -d > ${S3CFG_PATH}
@@ -90,7 +90,7 @@ deploy-production:
   stage: deploy
   environment:
     name: production
-    url: chrisshort.net
+    url: https://chrisshort.net
   image: google/cloud-sdk:alpine
   before_script:
     - echo -n ${GCS_TOKEN} | base64 -d > ${GCS_TOKEN_FILE}
