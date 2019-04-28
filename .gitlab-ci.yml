@@ -80,7 +80,7 @@ deploy-do:
   before_script:
     - echo -n ${S3CFG} | base64 -d > ${S3CFG_PATH}
   script:
-    - s4cmd --config=${S3CFG_PATH} dsync public s3://chrisshort
+    - s4cmd -p S3CFG, --config=${S3CFG_PATH} --delete-removed dsync public s3://chrisshort
   after_script:
     - bin/cf_purge.sh
   except:
