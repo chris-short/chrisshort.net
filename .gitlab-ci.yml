@@ -78,9 +78,9 @@ deploy-do:
     url: do.chrisshort.net
   image: quay.io/chrisshort/s3cmd
   before_script:
-    - echo -n $(S3CFG) | base64 -d > $(S3CFG_PATH)
+    - echo -n ${S3CFG} | base64 -d > ${S3CFG_PATH}
   script:
-    - s3cmd --config=$(S3CFG_PATH) put public s3://chrisshort
+    - s3cmd --config=${S3CFG_PATH} put public s3://chrisshort
   after_script:
     - bin/cf_purge.sh
   except:
