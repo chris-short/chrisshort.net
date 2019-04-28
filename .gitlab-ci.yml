@@ -76,11 +76,11 @@ deploy-do:
   environment:
     name: digital-ocean
     url: do.chrisshort.net
-  image: quay.io/chrisshort/s4cmd
+  image: quay.io/chrisshort/s3cmd
   before_script:
     - echo -n ${S3CFG} | base64 -d > ${S3CFG_PATH}
   script:
-    - s4cmd -p S3CFG, --config=${S3CFG_PATH} --delete-removed dsync public s3://chrisshort
+    - s3cmd --config=${S3CFG_PATH} --delete-removed sync public s3://chrisshort
   after_script:
     - bin/cf_purge.sh
   except:
