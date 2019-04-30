@@ -71,18 +71,18 @@ deploy-preview:
   except:
     - master
 
-deploy-digitalocean: 
-  stage: deploy
-  environment:
-    name: digitalocean
-    url: https://chrisshort.sfo2.digitaloceanspaces.com
-  image: quay.io/chrisshort/s3cmd
-  before_script:
-    - echo -n ${S3CFG} | base64 -d > ${S3CFG_PATH}
-  script:
-    - s3cmd --stats -H -M -P -r -c ${S3CFG_PATH} --delete-removed sync public/* s3://chrisshort
-  except:
-    - master
+#deploy-digitalocean: 
+#  stage: deploy
+#  environment:
+#    name: digitalocean
+#    url: https://chrisshort.sfo2.digitaloceanspaces.com
+#  image: quay.io/chrisshort/s3cmd
+#  before_script:
+#    - echo -n ${S3CFG} | base64 -d > ${S3CFG_PATH}
+#  script:
+#    - s3cmd --stats -H -M -P -r -c ${S3CFG_PATH} --delete-removed sync public/* s3://chrisshort
+#  except:
+#    - master
 
 deploy-production:
   stage: deploy
