@@ -14,6 +14,6 @@ Continuous Integration on [GitLab](https://gitlab.com/chrisshort/chrisshort.net/
 
 Stored on [Google Cloud Storage](https://cloud.google.com/storage/)
 
-Delivered by [Cloudflare](https://www.cloudflare.com/).
+Delivered by [Cloudflare](https://www.cloudflare.com/)
 
 Made in [Michigan](https://www.michigan.org/)
