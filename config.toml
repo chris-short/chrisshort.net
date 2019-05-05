@@ -132,6 +132,12 @@ paginate = 4
 
 [[menu.main]]
     parent = "menu"
+    name = "What is DevOps"
+    url = "https://devopsish.com/what-is-devops/"
+    weight = 12
+
+[[menu.main]]
+    parent = "menu"
     name = "Résumé/CV"
     url = "/resume-cv/"
     weight = 30
