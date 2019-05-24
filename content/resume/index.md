@@ -24,7 +24,7 @@ Seasoned, passionate, results-producing DevOps professional; a wide range of exp
 
 ### Software
 
-Alpine Linux, APT, Ansible, Apache httpd, Atlassian Bamboo, Atlassian BitBucket, Atlassian Confluence, Atlassian HipChat, Atlassian JIRA, BIND, Bash, Burp Suite, CSS, Caddy, CentOS (4-7), Cobbler, Datadog, Debian, Docker, EM7, Fedora, FlowDock, G Suite by Google Cloud, Git, Git Tower, GitHub, GitLab, Go, Google Apps, HTML, Hugo, IIS, IPTraf, Jenkins, LVM, MRTG, MediaWiki, Mercurial, MySQL, NMAP, New Relic, Office 365, OpsGenie, PagerDuty, Percona Server, Percona Toolkit, Puppet, RPM, Red Hat Enterprise Linux (3-7), Remedy, Serverspec, Slack, SourceTree, Subversion, Terraform, Test Kitchen, Trello, Ubuntu, VIM, Vagrant, VirtualBox, Visual Studio Code, WireShark, Xymon, YUM, cron, curl, iptables, macOS, nginx, sed
+Alpine Linux, APT, Ansible, Ansible Tower, Apache httpd, Atlassian Bamboo, Atlassian BitBucket, Atlassian Confluence, Atlassian HipChat, Atlassian JIRA, BIND, Bash, Burp Suite, CSS, Caddy, CentOS (4-7), Cobbler, Datadog, Debian, Docker, EM7, Fedora, FlowDock, G Suite by Google Cloud, Git, Git Tower, GitHub, GitLab, Go, Google Apps, HTML, Hugo, IIS, IPTraf, Jenkins, LVM, MRTG, MediaWiki, Mercurial, MySQL, NMAP, New Relic, Office 365, OpsGenie, PagerDuty, Percona Server, Percona Toolkit, Puppet, RPM, Red Hat Enterprise Linux (3-7), Remedy, Serverspec, Slack, SourceTree, Subversion, Terraform, Test Kitchen, Trello, Ubuntu, VIM, Vagrant, VirtualBox, Visual Studio Code, WireShark, Xymon, YUM, cron, curl, iptables, macOS, nginx, sed
 
 ### Infrastructure
 
@@ -34,6 +34,7 @@ AWS (CloudTrail, CloudWatch, EC2, Lambda, Route53, S3, SES, SQS, VPC), Akamai, C
 
 ### Principal Product Marketing Manager, Red Hat — Detroit, MI — Jun 2018 to Present
 
+* Evangelized Ansible-based Kubernetes Operators in Business Unit by engaging leadership to prove importance; scheduled developers on podcast, worked w/ team to build landing page, and presented talks at Red Hat Summit 2019
 * Blog curator, room facilitator, survey staff management, and official after party event security for AnsibleFest 2018 in Austin, TX
 * Speaker and content creator for multiple public and private Red Hat events over the globe; enabled field to intelligently sell and market Ansible to customers
 * Instrumental in bringing community projects into the Red Hat Ansible suite of tools; helped establish standards for testing and acceptance as well as scoring of Ansible content
