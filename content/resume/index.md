@@ -42,16 +42,16 @@ AWS (CloudTrail, CloudWatch, EC2, Lambda, Route53, S3, SES, SQS, VPC), Akamai, C
 
 ### Senior DevOps Advocate, SJ Technologies — Detroit, MI — Jan 2018 to Jun 2018
 
-* Built Ansible-based infrastructure testing tool to identify quality concerns between functional areas delivery virtual machines; suggested remedies to reduce handoffs and increase automation
-* Set up Ansible automation to deploy Confluent Kafka; made OpenShift deployment for Kafka UI
+* Built Ansible-based infrastructure testing tool to identify quality concerns between functional areas delivering virtual machines; suggested remedies to reduce handoffs and increase automation
+* Set up Ansible automation to deploy Confluent Kafka; built OpenShift deployment for high-availability Kafka UI
 * Represented SJ Technologies as a public speaker at events across North America; spread our DevOps practice message in talks based on research, experiences, and observations
 * Worked with BizDev, Sales, and Marketing teams to build new customer relationships, marketing materials to attract customers, and leveraged social media to build branding
 
 ### Manager of DevOps, Bankrate.com — Detroit, MI — June 2017 to Nov 2017
 
-* Charged with $1M cloud migration efforts; moving physical/virtual datacenter to Amazon Web Services has projected $1M+ savings for company post migration; lead team of six engineers and stakeholders
-* Recruited and led team of five DevOps engineers through hundreds of JIRA tasks, expanding usage of Terraform and Ansible, containerizing workloads, and iterating on DevOps best practices to improve margins
-* Stood up CoreOS Tectonic in AWS through Terraform during a six hour hackathon to demonstrate feasibility
+* Charged with $1M cloud migration efforts; moving physical/virtual datacenter to Amazon Web Services has projected $1M+ savings for company post migration; lead a team of six engineers and stakeholders
+* Recruited and led a team of five DevOps engineers through hundreds of JIRA tasks, expanding usage of Terraform and Ansible, containerizing workloads, and iterating on DevOps approaches to improve margins
+* Stood up CoreOS Tectonic in AWS through Terraform during a six-hour hackathon to demonstrate feasibility of Kubernetes platform
 
 ### Global DevOps Engineer, Solarwinds MSP — Durham, NC — June 2016 to June 2017
 
