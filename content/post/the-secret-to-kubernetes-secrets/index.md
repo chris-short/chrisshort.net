@@ -2,16 +2,16 @@
 author = "Chris Short"
 categories = ["Kubernetes"]
 date = 2019-05-28T11:10:00Z
-description = ""
+description = "There are a lot of ways to create a Kubernetes Secret. Let's dive into a few possibilities and some helpful suggestions from the Kubernetes community."
 draft = false
 slug = "the-secret-to-kubernetes-secrets"
-tags = ["kubernetes", "secrets"]
+tags = ["kubernetes", "secret", "secrets", "stringdata", "kubectl", "yaml"]
 title = "The Secret to Kubernetes Secrets"
 image = "/the-secret-to-kubernetes-secrets/kubernetes-secrets.png"
 
 +++
 
-I made an innocent [comment on Twitter](https://twitter.com/ChrisShort/status/1131771381438394368) last week that led to WAY more feedback than I was expecting. I made the statement:
+I made an innocent [comment on Twitter](https://twitter.com/ChrisShort/status/1131771381438394368) last week that led to WAY more feedback than I was expecting. The Kubernetes community showed me there are a lot of options when creating Kubernetes Secrets. I made the statement:
 
 > Every single time I have to create a secret, I have to read the docs. I should have this figured out by now."
 
