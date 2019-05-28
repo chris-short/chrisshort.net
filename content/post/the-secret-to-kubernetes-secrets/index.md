@@ -15,11 +15,11 @@ I made an innocent [comment on Twitter](https://twitter.com/ChrisShort/status/11
 
 > Every single time I have to create a secret, I have to read the docs. I should have this figured out by now."
 
-Years ago, a colleague asked Albert Einstein if he knew his phone number. The rebuttal was short and rather Einsteinian, "Never memorize something that you can look up." So when a reminder of how "[Memorization is an anti-pattern.](https://twitter.com/cjimti/status/1132165745389912064)" came up during the conversation about Kubernetes Secrets, I was quite relieved:
-
-The many ways you can peel the Kubernetes Secrets onion seems to grow daily. There are inline secrets, secrets as YAML files, secrets with base64 encoded values, and secrets through third-party providers (like [Hashicorp Vault](https://itnext.io/effective-secrets-with-vault-and-kubernetes-9af5f5c04d06)). When reading the [~~Best~~](https://devopsish.com/128/) Practices for Kubernetes Secrets, there is a cautionary tale of how things can go wrong.
+Years ago, a colleague asked Albert Einstein if he knew his phone number. The rebuttal was short and rather Einsteinian, "Never memorize something that you can look up." So when a reminder of how "[Memorization is an anti-pattern.](https://twitter.com/cjimti/status/1132165745389912064)" came up during the conversation about Kubernetes Secrets, I was quite relieved.
 
 {{< mc >}}
+
+The many ways you can peel the Kubernetes Secrets onion seems to grow daily. There are inline secrets, secrets as YAML files, secrets with base64 encoded values, and secrets through third-party providers (like [Hashicorp Vault](https://itnext.io/effective-secrets-with-vault-and-kubernetes-9af5f5c04d06)). When reading the [~~Best~~](https://devopsish.com/128/) Practices for Kubernetes Secrets, there is a cautionary tale of how things can go wrong.
 
 Several suggestions on how folks managed Kubernetes Secrets themselves rolled in via Twitter. One tip from [Jessica Deen suggested using zsh-autosuggestions](https://twitter.com/jldeen/status/1131984672198713350). This is a very viable option and if you're using ZSH I'd highly recommend it.
 
