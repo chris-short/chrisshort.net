@@ -91,7 +91,7 @@ Download: [Audio](/interviews/2018-04-04_3d_podcast_recording_session_113_-_refa
 ## Screaming in the Cloud: Episode 2
 
 Date: 2018-03-21  
-Source: [EPISODE 2: SHOVING A SAN INTO US-EAST-1 WITH CHRIS SHORT OF DEVOPS'ISH](https://www.screaminginthecloud.com/episodes/2018/3/21/episode-2-shoving-a-san-into-us-east-1-with-chris-short-of-devopsish)
+Source: [Episode 2: Shoving a SAN into us-east-1](https://www.screaminginthecloud.com/episodes/episode-2-shoving-a-san-into-us-east-1)
 
 ## DevOps Perspectives from the Front Lines
 
