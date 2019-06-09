@@ -1,6 +1,6 @@
 baseurl = "https://chrisshort.net"
 DefaultContentLanguage = "en"
-title = "chrisshort.ent"
+title = "chrisshort.net"
 theme = "beautifulhugo"
 metaDataFormat = "toml"
 pygmentsStyle = "trac"
