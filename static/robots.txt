@@ -1,0 +1,2 @@
+User-Agent: *
+Sitemap: https://chrisshort.net/sitemap.xml
