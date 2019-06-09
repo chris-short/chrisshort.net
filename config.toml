@@ -1,0 +1,108 @@
+baseurl = "https://chrisshort.net"
+DefaultContentLanguage = "en"
+title = "chrisshort.ent"
+theme = "beautifulhugo"
+metaDataFormat = "toml"
+pygmentsStyle = "trac"
+pygmentsUseClasses = true
+pygmentsCodeFences = true
+pygmentsCodefencesGuessSyntax = true
+#pygmentsUseClassic = true
+#pygmentOptions = "linenos=inline"
+#disqusShortname = "XXX"
+#googleAnalytics = "XXX"
+googleAnalytics = "UA-4498776-3"
+paginate = 4
+
+[Params]
+  homeTitle = "Chris Short" # Set a different text for the header on the home page
+  subtitle = "Red Hat Ansible | CNCF Ambassador | Writes devopsish.com | Disabled Veteran | He/Him/They"
+  logo = "img/chrisshort.net.png" # Expecting square dimensions
+  favicon = "favicons/favicon.ico"
+  dateFormat = "2006-01-02"
+  commit = false
+  rss = true
+  comments = false
+  readingTime = true
+  wordCount = true
+  useHLJS = false
+  socialShare = true
+  delayDisqus = true
+  showRelatedPosts = true
+  gcse = "partner-pub-8972983586873269:7437701092" # Get your code from google.com/cse. Make sure to go to "Look and Feel" and change Layout to "Full Width" and Theme to "Classic"
+
+#[[Params.bigimg]]
+#  src = "img/triangle.jpg"
+#  desc = "Triangle"
+#[[Params.bigimg]]
+#  src = "img/sphere.jpg"
+#  desc = "Sphere"
+#  # position: see values of CSS background-position.
+#  position = "center top"
+#[[Params.bigimg]]
+#  src = "img/hexagon.jpg"
+#  desc = "Hexagon"
+
+[Author]
+  name = "Chris Short"
+#  website = "yourwebsite.com"
+  email = "chris@chrisshort.net"
+#  facebook = "username"
+#  googleplus = "+username" # or xxxxxxxxxxxxxxxxxxxxx
+  github = "chris-short"
+  gitlab = "chrisshort"
+#  bitbucket = "username"
+  twitter = "ChrisShort"
+  reddit = "oaf357"
+  linkedin = "thechrisshort"
+#  xing = "username"
+#  stackoverflow = "users/XXXXXXX/username"
+#  snapchat = "username"
+#  instagram = "username"
+  youtube = "channel/UCMzMqbKmCmUZWAmV8jr8Daw" # or channel/channelname
+#  soundcloud = "username"
+  spotify = "chris.short"
+#  bandcamp = "username"
+#  itchio = "username"
+#  vk = "username"
+#  paypal = "username"
+  telegram = "ChrisShort"
+#  500px = "username"
+
+[[menu.main]]
+    name = "Blog"
+    url = ""
+    weight = 1
+
+[[menu.main]]
+    name = "About"
+    url = "page/about/"
+    weight = 3
+
+[[menu.main]]
+    identifier = "samples"
+    name = "Samples"
+    weight = 2
+
+[[menu.main]]
+    parent = "samples"
+    name = "Big Image Sample"
+    url = "post/2017-03-07-bigimg-sample"
+    weight = 1
+
+[[menu.main]]
+    parent = "samples"
+    name = "Math Sample"
+    url = "post/2017-03-05-math-sample"
+    weight = 2
+
+[[menu.main]]
+    parent = "samples"
+    name = "Code Sample"
+    url = "post/2016-03-08-code-sample"
+    weight = 3
+
+[[menu.main]]
+    name = "Tags"
+    url = "tags"
+    weight = 3

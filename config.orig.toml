@@ -1,0 +1,214 @@
+baseurl = "https://chrisshort.net"
+DefaultContentLanguage = "en"
+title = "chrisshort.net"
+theme = "beautifulhugo"
+pygmentsStyle = "trac"
+pygmentsUseClasses = true
+pygmentsCodeFences = true
+pygmentsCodefencesGuessSyntax = true
+#pygmentsUseClassic = true
+#pygmentOptions = "linenos=inline"
+#disqusShortname = "XXX"
+googleAnalytics = "UA-4498776-3"
+paginate = 4
+
+[permalinks]
+  post = ":title/"
+
+[Params]
+  homeTitle = "Chris Short" # Set a different text for the header on the home page
+  subtitle = "Red Hat Ansible | CNCF Ambassador | Writes devopsish.com | Disabled Veteran | He/Him/They"
+  logo = "img/chrisshort.net.png" # Expecting square dimensions
+  favicon = "favicons/favicon.ico"
+  dateFormat = "January 2, 2006"
+  commit = false
+  rss = true
+  comments = false
+  readingTime = true
+  wordCount = true
+  useHLJS = false
+  socialShare = true
+  delayDisqus = true
+  showRelatedPosts = true
+  gcse = "partner-pub-8972983586873269:7437701092" # Get your code from google.com/cse. Make sure to go to "Look and Feel" and change Layout to "Full Width" and Theme to "Classic"
+
+#[[Params.bigimg]]
+#  src = "img/triangle.jpg"
+#  desc = "Triangle"
+#[[Params.bigimg]]
+#  src = "img/sphere.jpg"
+#  desc = "Sphere"
+#  # position: see values of CSS background-position.
+#  position = "center top"
+#[[Params.bigimg]]
+#  src = "img/hexagon.jpg"
+#  desc = "Hexagon"
+
+[Author]
+  name = "Chris Short"
+  # website = "chrisshort.net"
+  email = "chris@chrisshort.net"
+  # facebook = "thechrisshort"
+  # googleplus = "+username" # or xxxxxxxxxxxxxxxxxxxxx
+  github = "chris-short"
+  gitlab = "chrisshort"
+  # bitbucket = "username"
+  twitter = "ChrisShort"
+  reddit = "oaf357"
+  linkedin = "thechrisshort"
+  # medium = "@chrisshort"
+  # xing = "username"
+  # stackoverflow = "users/XXXXXXX/username"
+  # snapchat = "username"
+  # instagram = "thechrisshort"
+  # youtube = "user/username" # or channel/channelname
+  # soundcloud = "username"
+  spotify = "chris.short"
+#  soundcloud = "chris-short-15"
+#  producthunt = "@chrisshort"
+  # bandcamp = "username"
+  # itchio = "username"
+  # vk = "username"
+  # paypal = "username"
+  telegram = "ChrisShort"
+  # 500px = "username"
+  keybase = "chrisshort"
+
+[[menu.main]]
+    identifier = "menu"
+    name = "Menu"
+    weight = 999
+
+[[menu.main]]
+    name = "Home"
+    url = "/"
+    weight = 1
+
+[[menu.main]]
+    name = "About"
+    url = "/about/"
+    weight = 20
+
+[[menu.main]]
+    name = "Résumé/CV"
+    url = "/resume/"
+    weight = 25
+
+[[menu.main]]
+    identifier = "speaking"
+    name = "Speaking"
+    weight = 888
+
+[[menu.main]]
+    parent = "speaking"
+    name = "Talks Given"
+    url = "/speaking/"
+    weight = 889
+
+[[menu.main]]
+    parent = "speaking"
+    name = "Interviews"
+    url = "/interviews/"
+    weight = 890
+
+[[menu.main]]
+    parent = "speaking"
+    name = "NC Veterans Oral History Interview"
+    url = "/nc-veterans-oral-history-program/"
+    weight = 890
+
+[[menu.main]]
+    parent = "speaking"
+    name = "CFPs"
+    url = "/cfp/"
+    weight = 899
+
+[[menu.main]]
+    parent = "menu"
+    name = "Newsletter"
+    url = "https://devopsish.com/"
+    weight = 11
+
+[[menu.main]]
+    parent = "menu"
+    name = "Projects"
+    url = "/projects/"
+    weight = 10
+
+[[menu.main]]
+    parent = "menu"
+    name = "What is DevOps"
+    url = "https://devopsish.com/what-is-devops/"
+    weight = 12
+
+[[menu.main]]
+    parent = "menu"
+    name = "Books"
+    url = "/books/"
+    weight = 60
+
+[[menu.main]]
+    parent = "menu"
+    name = "Publications"
+    url = "/publications/"
+    weight = 70
+
+[[menu.main]]
+    parent = "menu"
+    name = "Drawings"
+    url = "/drawings/"
+    weight = 80
+
+[[menu.main]]
+    parent = "menu"
+    name = "Causes"
+    url = "/causes/"
+    weight = 90
+
+#[[menu.main]]
+#    parent = "menu"
+#    name = "/var/tmp Playlist"
+#    url = "https://itunes.apple.com/us/playlist/var-tmp/pl.55c2d8144e6b4139b7630d691e015eaf"
+#    weight = 99
+
+[[menu.main]]
+    parent = "menu"
+    name = "Long Thoracic Nerve Palsy"
+    url = "/long-thoracic-nerve-palsy/"
+    weight = 100
+
+[[menu.main]]
+    parent = "menu"
+    name = "Foundation for Purposeful Living"
+    url = "/foundation-for-purposeful-living/"
+    weight = 110
+
+[[menu.main]]
+    parent = "menu"
+    name = "Categories"
+    url = "/categories/"
+    weight = 120
+
+[[menu.main]]
+    parent = "menu"
+    name = "Tags"
+    url = "/tags/"
+    weight = 130
+
+[privacy]
+  [privacy.googleAnalytics]
+    anonymizeIP = true
+    disable = false
+    respectDoNotTrack = true
+    useSessionStorage = true
+  [privacy.instagram]
+    disable = false
+    simple = false
+  [privacy.speakerDeck]
+    disable = false
+  [privacy.twitter]
+    disable = false
+    enableDNT = true
+  [privacy.youtube]
+    disable = false
+    privacyEnhanced = true
