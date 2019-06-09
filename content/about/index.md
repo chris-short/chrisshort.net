@@ -36,7 +36,7 @@ Chris is now working in the [open source](/tags/open-source/), [Linux](/tags/lin
 * [Projects](/projects/)
 * [Newsletter](/newsletter/)
 * [Speaking](/speaking/)
-* [Interviews](interviews/)
+* [Interviews](/interviews/)
 * [Books](/books/)
 * [Publications](/publications/)
 

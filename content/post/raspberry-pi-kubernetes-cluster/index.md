@@ -35,7 +35,7 @@ Time and time again I kept searching and coming back to the [**Raspberry Pi 3**]
 
 After having lunch one day in Ann Arbor with Ed Vielmetti of [Packet](https://www.packet.net/) and talking about [ARM](https://en.wikipedia.org/wiki/ARM_architecture) in the datacenter it made a lot of sense to go this route. ARM is the CPU of the future as chips will need to be more plentiful, more power efficient, and smaller. The Apple iPhone 8 I carry has six cores and amazing performance from ARM chips. Once Meltdown and Spectre hit my belief got a real-life wake-up call. Is Intel the chip of the future? No. ARM is (yes, I know ARM is susceptible to Spectre).
 
-* Six [Raspberry Pi 3 Model B Motherboards](https://amzn.to/2P0EkS4)
+* Six [Raspberry Pi 3 Model B Motherboards](https://amzn.to/2K6lfQ7)
 * Six [SanDisk Ultra 32GB microSDHC UHS-I Card with Adapter, Grey/Red, Standard Packaging (SDSQUNC-032G-GN6MA)](https://amzn.to/2DA6H7q)
 * Two [AmazonBasics USB 2.0 A-Male to Micro B Cable (3 Pack), 3 feet, Black](https://amzn.to/2BnRDZ4)
 * One [AmazonBasics 6-Port USB Wall Charger (60-Watt) - Black](https://smile.amazon.com/gp/product/B01L0KN8OS/)
