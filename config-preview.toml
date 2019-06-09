@@ -2,6 +2,7 @@ baseurl = "https://preview.chrisshort.net"
 DefaultContentLanguage = "en"
 title = "chrisshort.net"
 theme = "beautifulhugo"
+metaDataFormat = "toml"
 pygmentsStyle = "trac"
 pygmentsUseClasses = true
 pygmentsCodeFences = true
@@ -9,6 +10,7 @@ pygmentsCodefencesGuessSyntax = true
 #pygmentsUseClassic = true
 #pygmentOptions = "linenos=inline"
 #disqusShortname = "XXX"
+#googleAnalytics = "XXX"
 googleAnalytics = "UA-4498776-3"
 paginate = 4
 
@@ -20,7 +22,7 @@ paginate = 4
   subtitle = "Red Hat Ansible | CNCF Ambassador | Writes devopsish.com | Disabled Veteran | He/Him/They"
   logo = "img/chrisshort.net.png" # Expecting square dimensions
   favicon = "favicons/favicon.ico"
-  dateFormat = "January 2, 2006"
+  dateFormat = "2006-01-02"
   commit = false
   rss = true
   comments = false
@@ -46,32 +48,29 @@ paginate = 4
 
 [Author]
   name = "Chris Short"
-  # website = "chrisshort.net"
+#  website = "yourwebsite.com"
   email = "chris@chrisshort.net"
-  # facebook = "thechrisshort"
-  # googleplus = "+username" # or xxxxxxxxxxxxxxxxxxxxx
+#  facebook = "username"
+#  googleplus = "+username" # or xxxxxxxxxxxxxxxxxxxxx
   github = "chris-short"
   gitlab = "chrisshort"
-  # bitbucket = "username"
+#  bitbucket = "username"
   twitter = "ChrisShort"
   reddit = "oaf357"
   linkedin = "thechrisshort"
-  medium = "@chrisshort"
-  # xing = "username"
-  # stackoverflow = "users/XXXXXXX/username"
-  # snapchat = "username"
-  instagram = "thechrisshort"
-  # youtube = "user/username" # or channel/channelname
-  # soundcloud = "username"
+#  xing = "username"
+#  stackoverflow = "users/XXXXXXX/username"
+#  snapchat = "username"
+#  instagram = "username"
+  youtube = "channel/UCMzMqbKmCmUZWAmV8jr8Daw" # or channel/channelname
+#  soundcloud = "username"
   spotify = "chris.short"
-  soundcloud = "chris-short-15"
-  producthunt = "@chrisshort"
-  # bandcamp = "username"
-  # itchio = "username"
-  # vk = "username"
-  # paypal = "username"
+#  bandcamp = "username"
+#  itchio = "username"
+#  vk = "username"
+#  paypal = "username"
   telegram = "ChrisShort"
-  # 500px = "username"
+#  500px = "username"
   keybase = "chrisshort"
 
 [[menu.main]]
@@ -88,6 +87,11 @@ paginate = 4
     name = "About"
     url = "/about/"
     weight = 20
+
+[[menu.main]]
+    name = "Résumé/CV"
+    url = "/resume/"
+    weight = 25
 
 [[menu.main]]
     identifier = "speaking"
@@ -122,19 +126,19 @@ paginate = 4
     parent = "menu"
     name = "Newsletter"
     url = "https://devopsish.com/"
-    weight = 10
+    weight = 11
 
 [[menu.main]]
     parent = "menu"
     name = "Projects"
     url = "/projects/"
-    weight = 11
+    weight = 10
 
 [[menu.main]]
     parent = "menu"
-    name = "Résumé/CV"
-    url = "/resume-cv/"
-    weight = 30
+    name = "What is DevOps"
+    url = "https://devopsish.com/what-is-devops/"
+    weight = 12
 
 [[menu.main]]
     parent = "menu"
@@ -174,8 +178,8 @@ paginate = 4
 
 [[menu.main]]
     parent = "menu"
-    name = "Center for Purposeful Living"
-    url = "/center-for-purposeful-living/"
+    name = "Foundation for Purposeful Living"
+    url = "/foundation-for-purposeful-living/"
     weight = 110
 
 [[menu.main]]
@@ -189,21 +193,3 @@ paginate = 4
     name = "Tags"
     url = "/tags/"
     weight = 130
-
-[privacy]
-  [privacy.googleAnalytics]
-    anonymizeIP = true
-    disable = false
-    respectDoNotTrack = false
-    useSessionStorage = true
-  [privacy.instagram]
-    disable = false
-    simple = false
-  [privacy.speakerDeck]
-    disable = false
-  [privacy.twitter]
-    disable = false
-    enableDNT = true
-  [privacy.youtube]
-    disable = false
-    privacyEnhanced = false
