@@ -33,6 +33,8 @@ paginate = 4
   delayDisqus = true
   showRelatedPosts = true
   gcse = "partner-pub-8972983586873269:7437701092" # Get your code from google.com/cse. Make sure to go to "Look and Feel" and change Layout to "Full Width" and Theme to "Classic"
+  since = "2003"
+  selfHosted = true
 
 #[[Params.bigimg]]
 #  src = "img/triangle.jpg"
@@ -48,7 +50,7 @@ paginate = 4
 
 [Author]
   name = "Chris Short"
-#  website = "yourwebsite.com"
+  website = "https://chrisshort.net"
   email = "chris@chrisshort.net"
 #  facebook = "username"
 #  googleplus = "+username" # or xxxxxxxxxxxxxxxxxxxxx
