@@ -14,6 +14,7 @@ If you'd like to discuss having me [speak](/speaking/) at your conference, Meetu
 Date: 2019-06-13  
 Source: [The future of how Ansible content is handled — On Demand Webinar](https://www.ansible.com/resources/webinars-training/collections-future-of-how-ansible-content-is-handled)  
 YouTube: [The future of how Ansible content is handled](https://youtu.be/CGjDarrqBjg)
+Download: [The future of how Ansible content is handled](/interviews/2019-06-13 10.03-The-future-of-how-Ansible-content-is-handled.mp4)
 
 ## China, Huawei and the future of global technology
 
