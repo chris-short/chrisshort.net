@@ -1,17 +1,23 @@
 +++
 author = "Chris Short"
 date = 2016-05-21T22:41:00Z
-description = "Interviews Chris Short has given"
+description = "Interviews Chris Short has given, conducted, or been a part of"
 draft = false
-tags = ["interviews", "podcast"]
+tags = ["interviews", "podcast", "webinar"]
 title = "Interviews"
 +++
 
 If you'd like to discuss having me [speak](/speaking/) at your conference, Meetup, office, party, dinner, luncheon, podcast, etc. please use the [CNCF speaker contact form](https://www.cncf.io/speaker/chrisshort/). Thanks!
 
+## The future of how Ansible content is handled
+
+Date: 2019-06-13  
+Source: [The future of how Ansible content is handled — On Demand Webinar](https://www.ansible.com/resources/webinars-training/collections-future-of-how-ansible-content-is-handled)  
+YouTube: [The future of how Ansible content is handled](https://youtu.be/CGjDarrqBjg)
+
 ## China, Huawei and the future of global technology
 
-Date: 2019-05-28
+Date: 2019-05-28  
 Source: [China, Huawei and the future of global technology — The Frontier Podcast — Episode 61](https://www.gun.io/frontier/2019/episode-61)
 
 > How will Chinese companies like Huawei affect the future of cyber security? How does our relationship with China affect the open source community and the future of AI? These are big questions for big thinkers like Chris Short.
