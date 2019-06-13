@@ -7,7 +7,16 @@ tags = ["interviews", "podcast"]
 title = "Interviews"
 +++
 
-If you'd like discuss having me [speak](/speaking/) at your conference, Meetup, office, party, dinner, luncheon, podcast, etc. please use the [CNCF speaker contact form](https://www.cncf.io/speaker/chrisshort/). Thanks!
+If you'd like to discuss having me [speak](/speaking/) at your conference, Meetup, office, party, dinner, luncheon, podcast, etc. please use the [CNCF speaker contact form](https://www.cncf.io/speaker/chrisshort/). Thanks!
+
+## China, Huawei and the future of global technology
+
+Date: 2019-05-28
+Source: [China, Huawei and the future of global technology — The Frontier Podcast — Episode 61](https://www.gun.io/frontier/2019/episode-61)
+
+> How will Chinese companies like Huawei affect the future of cyber security? How does our relationship with China affect the open source community and the future of AI? These are big questions for big thinkers like Chris Short.
+>
+> Chris runs the newsletter DevOpsish and is also a Principal Product Marketing Manager for Red Hat. In this episode, Chris and Ledge discuss the fundamental differences between Chinese and US internet, the technological, legal, and contractual hoops companies jump through in order to tap into a Chinese market, and a breakdown on how Huawei could shape the tech landscape in years to come.
 
 ## 7 advantages of open source for agile teams
 
