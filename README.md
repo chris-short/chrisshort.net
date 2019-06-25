@@ -1,6 +1,6 @@
 # chrisshort.net
 
-https://img.shields.io/mozilla-observatory/grade-score/chrisshort.net.svg?publish [![GitLab CI Pipeline](https://gitlab.com/chrisshort/chrisshort.net/badges/master/build.svg)](https://gitlab.com/chrisshort/chrisshort.net/pipelines?scope=master)
+![Mozilla HTTP Observatory Grade](https://img.shields.io/mozilla-observatory/grade-score/chrisshort.net.svg?publish) [![GitLab CI Pipeline](https://gitlab.com/chrisshort/chrisshort.net/badges/master/build.svg)](https://gitlab.com/chrisshort/chrisshort.net/pipelines?scope=master)
 
 [**chrisshort.net**](https://chrisshort.net)
 
