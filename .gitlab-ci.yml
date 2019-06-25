@@ -1,21 +1,9 @@
 stages:
-  - test
   - build
   - deploy
 
 variables:
   GIT_SUBMODULE_STRATEGY: recursive
-
-compile:
-  stage: test
-  image: registry.gitlab.com/pages/hugo:latest
-  retry: 2
-  before_script:
-    - rm -rf public || exit 0
-    - git submodule sync --recursive
-    - git submodule update --init --recursive
-  script:
-    - hugo --buildDrafts --buildFuture --minify
 
 build-preview:
   stage: build
