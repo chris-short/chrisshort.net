@@ -14,7 +14,7 @@ build-preview:
     paths:
       - public
     expire_in: 10d
-  image: quay.io/chrisshort/hugo:latest
+  image: registry.gitlab.com/pages/hugo:latest
   before_script:
     - rm -rf public || exit 0
     - git submodule sync --recursive
