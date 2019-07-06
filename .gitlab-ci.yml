@@ -22,7 +22,7 @@ build-production:
     - git submodule sync --recursive
     - git submodule update --init --recursive
   script:
-    - hugo --minify
+    - hugo --minify --config config.toml
   only:
     - master
 
