@@ -5,6 +5,27 @@ stages:
 variables:
   GIT_SUBMODULE_STRATEGY: recursive
 
+build-production:
+  stage: build
+  environment:
+    name: production
+    url: https://preview.chrisshort.net
+  artifacts:
+    paths:
+      - public
+    expire_in: 1d
+  image: registry.gitlab.com/pages/hugo:latest
+  before_script:
+    - apk --no-cache update
+    - apk --no-cache add git
+    - rm -rf public || exit 0
+    - git submodule sync --recursive
+    - git submodule update --init --recursive
+  script:
+    - hugo --minify --config config.toml
+  only:
+    - master
+
 build-preview:
   stage: build
   environment:
@@ -13,9 +34,11 @@ build-preview:
   artifacts:
     paths:
       - public
-    expire_in: 10d
-  image: quay.io/chrisshort/hugo:latest
+    expire_in: 1d
+  image: registry.gitlab.com/pages/hugo:latest
   before_script:
+    - apk --no-cache update
+    - apk --no-cache add git
     - rm -rf public || exit 0
     - git submodule sync --recursive
     - git submodule update --init --recursive
@@ -24,69 +47,32 @@ build-preview:
   except:
     - master
 
-build-production:
-  stage: build
+deploy-production:
+  stage: deploy
   environment:
     name: production
     url: https://chrisshort.net
   artifacts:
     paths:
       - public
-    expire_in: 10d
-  image: registry.gitlab.com/pages/hugo:latest
-  before_script:
-    - rm -rf public || exit 0
-    - apk add git
-    - git submodule sync --recursive
-    - git submodule update --init --recursive
+    expire_in: 1d
+  image: quay.io/chrisshort/firebase:latest
   script:
-    - hugo --minify
+    - firebase deploy --only hosting --token ${FIREBASE_TOKEN}
   only:
     - master
 
 deploy-preview:
   stage: deploy
   environment:
-    name: preview
-    url: https://preview.chrisshort.net
-  image: google/cloud-sdk:alpine
-  before_script:
-    - echo -n ${GCS_TOKEN} | base64 -d > ${GCS_TOKEN_FILE}
-    - gcloud config set project ${GCS_PROJECT}
-    - gcloud auth activate-service-account --key-file ${GCS_TOKEN_FILE}
-  script:
-    - gsutil -m rsync -a public-read -d -r public gs://preview.${CI_PROJECT_NAME}/
-  after_script:
-    - bin/cf_purge.sh
-  except:
-    - master
-
-#deploy-digitalocean: 
-#  stage: deploy
-#  environment:
-#    name: digitalocean
-#    url: https://chrisshort.sfo2.digitaloceanspaces.com
-#  image: quay.io/chrisshort/s3cmd
-#  before_script:
-#    - echo -n ${S3CFG} | base64 -d > ${S3CFG_PATH}
-#  script:
-#    - s3cmd --stats -H -M -P -r -c ${S3CFG_PATH} --delete-removed sync public/* s3://chrisshort
-#  except:
-#    - master
-
-deploy-production:
-  stage: deploy
-  environment:
     name: production
-    url: https://chrisshort.net
-  image: google/cloud-sdk:alpine
-  before_script:
-    - echo -n ${GCS_TOKEN} | base64 -d > ${GCS_TOKEN_FILE}
-    - gcloud config set project ${GCS_PROJECT}
-    - gcloud auth activate-service-account --key-file ${GCS_TOKEN_FILE}
+    url: https://preview.chrisshort.net
+  artifacts:
+    paths:
+      - public
+    expire_in: 1d
+  image: quay.io/chrisshort/firebase:latest
   script:
-    - gsutil -m rsync -a public-read -d -r public gs://${CI_PROJECT_NAME}/
-  after_script:
-    - bin/cf_purge.sh
-  only:
+    - firebase deploy --only hosting --token ${FIREBASE_TOKEN}
+  except:
     - master
