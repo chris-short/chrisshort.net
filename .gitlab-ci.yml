@@ -43,7 +43,7 @@ build-preview:
     - git submodule sync --recursive
     - git submodule update --init --recursive
   script:
-    - hugo --minify
+    - hugo --buildDrafts --buildFuture --config config-preview.toml
   except:
     - master
 
