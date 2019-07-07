@@ -132,6 +132,12 @@ paginate = 4
 
 [[menu.main]]
     parent = "menu"
+    name = "Podcast"
+    url = "https://devopsish.com/categories/podcast/"
+    weight = 12
+
+[[menu.main]]
+    parent = "menu"
     name = "Projects"
     url = "/projects/"
     weight = 10
@@ -140,7 +146,7 @@ paginate = 4
     parent = "menu"
     name = "What is DevOps"
     url = "https://devopsish.com/what-is-devops/"
-    weight = 12
+    weight = 19
 
 [[menu.main]]
     parent = "menu"
