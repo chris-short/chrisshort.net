@@ -26,7 +26,6 @@ build-preview:
   except:
     - master
 
-
 build-production:
   stage: build
   environment:
@@ -53,10 +52,6 @@ deploy-preview:
   environment:
     name: production
     url: https://preview.${CI_PROJECT_NAME}
-  artifacts:
-    paths:
-      - public
-    expire_in: 1d
   image: quay.io/chrisshort/firebase:latest
   before_script:
     - curl -L -o firebase.json https://raw.githubusercontent.com/chris-short/firebase-configs/master/firebase.preview.json
@@ -71,10 +66,6 @@ deploy-production:
   environment:
     name: production
     url: https://${CI_PROJECT_NAME}
-  artifacts:
-    paths:
-      - public
-    expire_in: 3d
   image: quay.io/chrisshort/firebase:latest
   before_script:
     - curl -L -o firebase.json https://raw.githubusercontent.com/chris-short/firebase-configs/master/firebase.production.json
