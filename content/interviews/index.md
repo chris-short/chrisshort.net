@@ -51,7 +51,7 @@ Transcript: [PDF](/interviews/Frontier-Podcast-China-Huawei-and-the-future-of-gl
 Date: 2019-04-26  
 Source: [7 advantages of open source for agile teams](https://enterprisersproject.com/article/2019/4/7-advantages-open-source-agile)
 
-Open source and agile and DevOps teams go hand-in-hand. Here's a look at the benefits
+> Open source and agile and DevOps teams go hand-in-hand. Here's a look at the benefits
 
 ## The Tim Show — DevOps'ish with Chris Short — Newsletterers
 
@@ -67,12 +67,14 @@ Date: 2019-03-29
 Source: [Episode 16: This week in the cloud blob](https://www.thecloudpod.net/podcast/episode-16-this-week-in-the-cloud-blob/)  
 Download: [MP3](/interviews/tcp-episode-16-mix.mp3)
 
-AWS Summit Season 2019 is officially underway. Justin, Peter and special guest Chris Short [@chrisshort](https://twitter.com/ChrisShort). Plus the famous lightning round.
+> AWS Summit Season 2019 is officially underway. Justin, Peter and special guest Chris Short [@chrisshort](https://twitter.com/ChrisShort). Plus the famous lightning round.
 
 ## DevOps Defined — What is Kubernetes?
 
 Date: 2019-01-11  
 Source: [DevOps Defined - What is Kubernetes?](https://youtu.be/ES2ShEzVyaI)
+
+> Want to understand what the deal is with Kubernetes and why so many companies love it?  Check with this first installment of DevOps Defined in which Chris Short (K8's SME) breaks it down and explain why you should invest in Kubernetes knowledge to ensure a successful future DevOps career.
 
 ## On-Call Nightmares Podcast: Episode 3
 
