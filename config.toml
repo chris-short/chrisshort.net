@@ -105,18 +105,22 @@ paginate = 4
     name = "Talks Given"
     url = "/speaking/"
     weight = 889
-
+[[menu.main]]
+    parent = "speaking"
+    name = "Podcast"
+    url = "https://devopsish.com/categories/podcast/"
+    weight = 890
 [[menu.main]]
     parent = "speaking"
     name = "Interviews"
     url = "/interviews/"
-    weight = 890
+    weight = 891
 
 [[menu.main]]
     parent = "speaking"
     name = "NC Veterans Oral History Interview"
     url = "/nc-veterans-oral-history-program/"
-    weight = 890
+    weight = 899
 
 [[menu.main]]
     parent = "speaking"
@@ -126,21 +130,15 @@ paginate = 4
 
 [[menu.main]]
     parent = "menu"
-    name = "Newsletter"
+    name = "DevOps News"
     url = "https://devopsish.com/"
     weight = 11
 
 [[menu.main]]
     parent = "menu"
-    name = "Podcast"
-    url = "https://devopsish.com/categories/podcast/"
-    weight = 12
-
-[[menu.main]]
-    parent = "menu"
-    name = "Projects"
-    url = "/projects/"
-    weight = 10
+    name = "Newsletter"
+    url = "https://devopsish.com/subscribe/"
+    weight = 11
 
 [[menu.main]]
     parent = "menu"
@@ -172,11 +170,11 @@ paginate = 4
     url = "/causes/"
     weight = 90
 
-#[[menu.main]]
-#    parent = "menu"
-#    name = "/var/tmp Playlist"
-#    url = "https://itunes.apple.com/us/playlist/var-tmp/pl.55c2d8144e6b4139b7630d691e015eaf"
-#    weight = 99
+[[menu.main]]
+    parent = "menu"
+    name = "Projects"
+    url = "/projects/"
+    weight = 99
 
 [[menu.main]]
     parent = "menu"

@@ -14,7 +14,7 @@ Like anyone who has worked on the web long enough, I have a lot of side projects
 
 *DevOps, Cloud Native, Open Source, and the ‘ish in between.*
 
-DevOps, Cloud Native, Open Source, and the ‘ish in between. A weekly newsletter assembled by open source contributor, DevOps veteran, and CNCF Ambassador [Chris Short](https://chrisshort.net/). Attempting to lower the barrier to entry into the DevOps and Cloud Native world while keeping seasoned professionals informed on the latest news, tools, and trends. Sign up for the newsletter today!
+DevOps, Cloud Native, Open Source, and the ‘ish in between. A weekly newsletter assembled by open source contributor, DevOps veteran, and CNCF Ambassador [Chris Short](https://chrisshort.net/). Attempting to lower the barrier to entry into the DevOps and Cloud Native world while keeping seasoned professionals informed on the latest DevOps news, tools, and trends. Sign up for the newsletter today!
 
 I strive, every week, to put together the best newsletter covering DevOps, Cloud Native, and Open Source Software. The three main sections of the newsletter are People, Process, and Tools. They are in that order for a reason: People implement Processes using Tools. These three components should be cared for in that order too.
 
@@ -23,7 +23,7 @@ Source: <https://github.com/chris-short/devopsish.com>
 
 ## rak8s
 
-*Stand up a Raspberry Pi based Kubernetes cluster with Ansible*
+### Stand up a Raspberry Pi based Kubernetes cluster with Ansible
 
 ARM is going to be the datacenter and home computing platform of the future. It makes a lot of sense to start getting used to working in its unique environment.
 
@@ -45,7 +45,7 @@ What to read to learn more about DevOps.
 
 Source: [DevOps-README.md](https://github.com/chris-short/DevOps-README.md)
 
-## DevOps Newsletter
+## DevOps Newsletters
 
 DevOps Newsletters is an idea that sprung out of an opensource.com article: [16 blogs and newsletters to follow for DevOps practitioners](https://opensource.com/article/18/6/devops-blogs-newsletters-follow)
 
