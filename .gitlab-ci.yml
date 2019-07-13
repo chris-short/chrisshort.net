@@ -20,7 +20,7 @@ build-preview:
     - apk --no-cache add git
     - rm -rf public || exit 0
   script:
-    - hugo -DF
+    - hugo -DF --config config-preview.toml
   except:
     - master
 
@@ -39,7 +39,7 @@ build-production:
     - apk --no-cache add git
     - rm -rf public || exit 0
   script:
-    - hugo --minify
+    - hugo --minify --config config.toml
   only:
     - master
 
