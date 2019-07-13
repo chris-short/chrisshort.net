@@ -39,7 +39,7 @@ Download: [MP4](/interviews/2019-06-13 10.03-The-future-of-how-Ansible-content-i
 ## China, Huawei and the future of global technology
 
 Date: 2019-05-28  
-Source: [China, Huawei and the future of global technology — The Frontier Podcast — Episode 61](https://www.gun.io/frontier/2019/episode-61)
+Source: [China, Huawei and the future of global technology — The Frontier Podcast — Episode 61](https://www.gun.io/frontier/2019/episode-61)  
 Transcript: [PDF](/interviews/Frontier-Podcast-China-Huawei-and-the-future-of-global-technology.pdf)
 
 > How will Chinese companies like Huawei affect the future of cyber security? How does our relationship with China affect the open source community and the future of AI? These are big questions for big thinkers like Chris Short.
