@@ -20,7 +20,7 @@ build-preview:
     - apk --no-cache add git
     - rm -rf public || exit 0
   script:
-    - hugo -DF --config config-preview.toml
+    - hugo -DF
   except:
     - master
 
@@ -39,7 +39,7 @@ build-production:
     - apk --no-cache add git
     - rm -rf public || exit 0
   script:
-    - hugo --minify --config config.toml
+    - hugo --minify
   only:
     - master
 
@@ -52,7 +52,7 @@ deploy-preview:
   before_script:
     - curl -L -o firebase.json https://raw.githubusercontent.com/chris-short/firebase-configs/master/firebase.preview.json
     - curl -L -o .firebaserc https://raw.githubusercontent.com/chris-short/firebase-configs/master/firebaserc.json
-    - sed -i "s/REPLACEME/${FIREBASE_PROJECT}/g" .firebaserc
+    - sed -i "s/REPLACEME/${FIREBASE_PROJECT}-preview/g" .firebaserc
   script:
     - firebase deploy --only hosting --token ${FIREBASE_TOKEN}
   except:
