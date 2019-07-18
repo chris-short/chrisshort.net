@@ -9,6 +9,14 @@ title = "Interviews"
 
 If you'd like to discuss having me [speak](/speaking/) at your conference, Meetup, office, party, dinner, luncheon, podcast, etc. please use the [CNCF speaker contact form](https://www.cncf.io/speaker/chrisshort/). Thanks!
 
+## CloudSkills.fm 030: Cloud Native Ops with Ansible and Kubernetes
+
+> In this episode I had a chance to chat with Chris Short from the Ansible team at RedHat. We discuss Ansible, Kubernetes, and the importance of building up your Linux skills as the industry transitions into a cloud native world. Chris is also a CNCF Ambassador and runs the DevOps, Cloud Native, and open source focused newsletter DevOps’ish.
+
+Date: 2019-07-17  
+Source: [030: Cloud Native Ops with Ansible and Kubernetes](https://cloudskills.fm/030)  
+Download [MP3](/interviews/CloudSkills_Episode_30.mp3)
+
 ## DevOps for introverted people
 
 > We asked the Opensource.com DevOps team to talk about their experience as DevOps introverts and to give DevOps extroverts some advice. Here are their answers.
