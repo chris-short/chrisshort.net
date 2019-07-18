@@ -11,11 +11,11 @@ If you'd like to discuss having me [speak](/speaking/) at your conference, Meetu
 
 ## CloudSkills.fm 030: Cloud Native Ops with Ansible and Kubernetes
 
-> In this episode I had a chance to chat with Chris Short from the Ansible team at RedHat. We discuss Ansible, Kubernetes, and the importance of building up your Linux skills as the industry transitions into a cloud native world. Chris is also a CNCF Ambassador and runs the DevOps, Cloud Native, and open source focused newsletter DevOps’ish.
+> In this episode I had a chance to chat with Chris Short from the Ansible team at RedHat. We discuss Ansible, Kubernetes, and the importance of building up your Linux skills as the industry transitions into a cloud native world. Chris is also a CNCF Ambassador and runs the DevOps, Cloud Native, and open source focused newsletter DevOps'ish.
 
 Date: 2019-07-17  
 Source: [030: Cloud Native Ops with Ansible and Kubernetes](https://cloudskills.fm/030)  
-Download [MP3](/interviews/CloudSkills_Episode_30.mp3)
+Download: [MP3](/interviews/CloudSkills_Episode_30.mp3)
 
 ## DevOps for introverted people
 
@@ -35,7 +35,7 @@ Source: [DevOps for doubters: How to deal with 9 kinds of people who push back](
 
 Date: 2019-06-19  
 Source: [Chris Short, Red Hat | JFrog SwampUp 2019 | Digital Anarchist](https://videopress.com/v/V3TIte3s)  
-Download: [MP4](https://cdn.chrisshort.net/chris-short-red-hat-jfrog-swampup-2019_hd.mp4) (H.264) [MP4](https://cdn.chrisshort.net/chris-short-red-hat-jfrog-swampup-2019.mp4) (Original)
+Download: [MP4](https://cdn.chrisshort.net/chris-short-red-hat-jfrog-swampup-2019_hd.mp4) (H.264) | [MP4](https://cdn.chrisshort.net/chris-short-red-hat-jfrog-swampup-2019.mp4) (Original)
 
 ## The future of how Ansible content is handled
 
@@ -79,10 +79,10 @@ Download: [MP3](/interviews/tcp-episode-16-mix.mp3)
 
 ## DevOps Defined — What is Kubernetes?
 
+> Want to understand what the deal is with Kubernetes and why so many companies love it?  Check with this first installment of DevOps Defined in which Chris Short (K8's SME) breaks it down and explain why you should invest in Kubernetes knowledge to ensure a successful future DevOps career.
+
 Date: 2019-01-11  
 Source: [DevOps Defined - What is Kubernetes?](https://youtu.be/ES2ShEzVyaI)
-
-> Want to understand what the deal is with Kubernetes and why so many companies love it?  Check with this first installment of DevOps Defined in which Chris Short (K8's SME) breaks it down and explain why you should invest in Kubernetes knowledge to ensure a successful future DevOps career.
 
 ## On-Call Nightmares Podcast: Episode 3
 
