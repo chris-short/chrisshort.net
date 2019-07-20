@@ -107,11 +107,6 @@ paginate = 4
     weight = 889
 [[menu.main]]
     parent = "speaking"
-    name = "Podcast"
-    url = "https://devopsish.com/categories/podcast/"
-    weight = 890
-[[menu.main]]
-    parent = "speaking"
     name = "Interviews"
     url = "/interviews/"
     weight = 891
