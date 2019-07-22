@@ -4,7 +4,7 @@ categories = ["Kubernetes", "OpenShift", "Ansible", "Red Hat"]
 date = 2019-07-19T10:50:00Z
 description = "Operators help simplify deployment & operations of stateful applications in Kubernetes & OpenShift. Writing Operators with Ansible lowers the barrier to entry."
 draft = false
-tags = ["Kubernetes", "Operator", "Ansible"]
+tags = ["Kubernetes", "Operator", "Ansible", "operators", "talk", "app"]
 title = "How to Teach Old Apps New Tricks with Ansible-based Operators (Parts 1 & 2)"
 image = "/how-to-teach-old-apps-new-tricks-with-ansible-based-operators-parts-1-2/how-to-teach-old-apps-new-tricks-with-ansible-based-operators-parts-1-2.png"
 
