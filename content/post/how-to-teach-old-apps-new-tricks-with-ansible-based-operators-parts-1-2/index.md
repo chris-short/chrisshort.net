@@ -26,7 +26,7 @@ The last thing I wanted was someone taking an operator I wrote for this talk int
 
 ## Slides
 
-With all these parameters in place, I took to making talk titled, "How to Teach Old Apps New Tricks with Ansible-based Operators (Parts 1 & 2)" [PDF](/how-to-teach-old-apps-new-tricks-with-ansible-based-operators-parts-1-2-chris-short.pdf/)
+With all these parameters in place, I took to making talk titled, "How to Teach Old Apps New Tricks with Ansible-based Operators (Parts 1 & 2)" [PDF](how-to-teach-old-apps-new-tricks-with-ansible-based-operators-parts-1-2/how-to-teach-old-apps-new-tricks-with-ansible-based-operators-parts-1-2-chris-short.pdf)
 
 {{< speakerdeck 4ddcd10b6a4a4b1e981e62376003b176 >}}
 
