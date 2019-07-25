@@ -17,6 +17,6 @@ As previously mentioned, [I spoke at All Things Open](/all-things-open-2017-devo
 
 ## DevOps README.md - Chris Short
 
-{{ youtube Ibnj-YZTypU }}
+{{< youtube Ibnj-YZTypU >}}
 
 {{< adsense-matched >}}
