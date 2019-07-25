@@ -7,7 +7,7 @@ draft = false
 slug = "raspberry-pi-kubernetes-cluster"
 tags = ["open source", "ansible", "containers", "kubernetes", "raspberry pi", "ARM", "k8s", "cluster"]
 title = "Raspberry Pi Kubernetes Cluster"
-image = "/my-raspberry-pi-kubernetes-cluster/building-raspberry-pi-kubernetes-cluster.jpg"
+image = "/raspberry-pi-kubernetes-cluster/building-raspberry-pi-kubernetes-cluster.jpg"
 aliases = [
      "my-raspberry-pi-kubernetes-cluster"
 ]
