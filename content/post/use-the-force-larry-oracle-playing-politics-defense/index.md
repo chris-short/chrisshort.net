@@ -1,12 +1,12 @@
 +++
 author = "Chris Short"
 categories = ["Shenanigans"]
-date = 2019-07-30T07:00:00Z
+date = 2019-07-29T07:00:00Z
 description = ""
 draft = false
 tags = ["JEDI", "Oracle", "Interoperability Clearinghouse", "AWS", "China"]
 title = "Use The Force, Larry: Oracle Playing Politics with Nation's Defense"
-image = "/use-the-force-larry-oracle-playing-politics-with-defense/jedi-oracle-yoda.jpg"
+image = "/use-the-force-larry-oracle-playing-politics-with-nations-defense/jedi-oracle-yoda.jpg"
 
 +++
 
