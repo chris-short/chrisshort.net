@@ -26,7 +26,7 @@ Source: [DevOps for introverted people](https://opensource.com/article/19/7/devo
 
 ## DevOps for doubters: How to deal with 9 kinds of people who push back
 
-> Are certain people clinging to the old ways of working? Here’s how to identify them – and get them on board with your DevOps efforts
+> Are certain people clinging to the old ways of working? Here's how to identify them – and get them on board with your DevOps efforts
 
 Date: 2019-07-02  
 Source: [DevOps for doubters: How to deal with 9 kinds of people who push back](https://enterprisersproject.com/article/2019/7/devops-for-doubters-9-tips)
