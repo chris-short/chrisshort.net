@@ -22,6 +22,6 @@ OKD is the upstream of Red Hat OpenShift
 Fedora is the upstream of Red Hat Enterprise Linux  
 CentOS is more of a clone than a downstream of RHEL, but it could be simplified to RHEL is upstream of CentOS.
 
-The expectation with upstream work is that it’s community governed, managed, and supported. People build downstream products to sell by adding value to them like services or support. Now, open source vs. open core is a topic for another day.
+The expectation with upstream work is that it's community governed, managed, and supported. People build downstream products to sell by adding value to them like services or support. Now, open source vs. open core is a topic for another day.
 
 {{< mc >}}
