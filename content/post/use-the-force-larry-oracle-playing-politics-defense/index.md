@@ -18,7 +18,7 @@ Let's talk about JEDI. Not the lightsaber wielding type; it's US Department of D
 
 ## Interoperability Clearinghouse: Is this a joke?
 
-But, there's a twist in the Oracle portest of JEDI. [Interoperability Clearinghouse](https://www.ichnet.org/) protested on Oracle's behalf which struck me as odd. But, when looking at the Interoperability Clearinghouse web site suspicious things jumped out. It looks like a default Wordpress site with the default posts still up and some awkwardly formatted content added after the fact. Since no one has ever stood up a web site hastily for the purpose of anything nefarious, further digging was a worthwhile venture. There's an address at the bottom of the Interoperability Clearinghouse [contact us](https://www.ichnet.org/contact-us/) page. It's actually [linked to the Google Maps location](https://cshort.co/2YpfBva) of a private residence owned by none other than, [Robert K. Weiler](https://www.linkedin.com/in/bob-weiler-12a3905b/), Executive Vice President, Global Business Units at **Oracle**.
+But, there's a twist in the Oracle portest of JEDI. [Interoperability Clearinghouse](https://www.ichnet.org/) protested on Oracle's behalf which struck me as odd. But, when looking at the Interoperability Clearinghouse web site suspicious things jumped out. It looks like a default Wordpress site with the default posts still up and some awkwardly formatted content added after the fact. Since no one has ever stood up a web site hastily for the purpose of anything nefarious, further digging was a worthwhile venture. There's an address at the bottom of the Interoperability Clearinghouse [contact us](https://www.ichnet.org/contact-us/) page. It's actually linked to the Google Maps location of a private residence owned by none other than, [Robert K. Weiler](https://www.linkedin.com/in/bob-weiler-12a3905b/), Executive Vice President, Global Business Units at **Oracle**.
 
 Interoperability Clearinghouse and along with it, Oracle's protest, [were deemed malarkey](https://federalnewsnetwork.com/defense-news/2019/07/judge-rules-dods-jedi-contract-violated-law-on-multiple-awards/). The method by which DoD decided to source the contract to a single-vendor was flawed. But, "[the court also ruled that Oracle couldn't have been harmed by the single-award decision, since the company was disqualified from the JEDI procurement on other grounds.](https://federalnewsnetwork.com/defense-news/2019/07/judge-rules-dods-jedi-contract-violated-law-on-multiple-awards/)"
 
@@ -58,7 +58,7 @@ All this time, China has also been working within a politically naive technology
 
 ### They never should have let you split the atom
 
-Russia plays in a very different theater of operations than the US has traditionally. The elasticity and security capabilities of a fully integrated cloud might pay huge dividends against Russian tactics. Russia continues to move without impunity across the globe. Delaying this acquisition from going forward has compounding negative effects. Aging systems are yet again expected to survive somehow while the dithering in Washington drags on.
+Russia plays in a very different theater of operations than the US has traditionally. The elasticity and security capabilities of a fully integrated cloud might pay huge dividends against Russian tactics. Russia continues to move with impunity across the globe. Delaying this acquisition from going forward has compounding negative effects. Aging systems are yet again expected to survive somehow while the dithering in Washington drags on.
 
 ## What can we do?!?
 
