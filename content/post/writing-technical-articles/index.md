@@ -12,7 +12,7 @@ imagecap = ""
 
 +++
 
-I was helping to staff the [Cloud Native Computing Foundation](https://cncf.io) booth at [ChefConf 2018](https://chefconf.chef.io/) when the topic of encouraging folks to write articles about what they're doing with [Kubernetes](/tags/kubernetes/) came up. One common problem often encountered is convincing folks that what they're doing is interesting work. The next problem is convincing folks that writing is not too difficult.
+I was helping to staff the [Cloud Native Computing Foundation](https://cncf.io) booth at [ChefConf 2018](/tags/chefconf/) when the topic of encouraging folks to write articles about what they're doing with [Kubernetes](/tags/kubernetes/) came up. One common problem often encountered is convincing folks that what they're doing is interesting work. The next problem is convincing folks that writing is not too difficult.
 
 {{< mc >}}
 
@@ -50,9 +50,7 @@ Proofreading is hard. But, the good news is there are some tools available to he
 1. [Grammarly](https://www.grammarly.com/): The name says it all but, Grammarly will find the not so obvious mistakes in your works.
 2. [Hemingway Editor](http://www.hemingwayapp.com/): Hemingway Editor takes the concepts embued by Ernest Hemingway to make writing easier to digest.
 
-If there are other handy tools for proofreading or editing please [submit a merge request](https://gitlab.com/chrisshort/chrisshort.net/tree/master/content/post/writing-technical-articles) to this article.
-
-{{< adsense-inarticle >}}
+    NOTE: If there are other handy tools for proofreading or editing please [submit a pull request](https://github.com/chris-short/chrisshort.net/tree/master/content/post/writing-technical-articles) to this article.
 
 You can also ask for help proofreading. For example, when submitting an article to a site like [opensource.com](https://opensource.com/how-submit-article), they have a team of editors and staff available to assist. When in doubt, ask for help. Perhaps a friend, colleague, supervisor or family member has some skills to assist. It never hurts to ask. But, remember, that people edit for a living. Be sure to include a form of compensation for their time.
 
@@ -63,6 +61,6 @@ The last (and sometimes most important) thing to consider when writing a technic
 
 Both of these sites have a trending section that allows you to find some high-quality images to use quickly. The formatting, style guide, and metadata are important and often simple things to include in an article. Don't stress too much about it but, make sure to consider it when writing.
 
-{{< adsense-inarticle >}}
-
 In conclusion, the guidance can be boiled down to this: Think of three points to make in an article; add an introduction and conclusion to those three points. These five points become an outline. The three main points should have a few subpoints plugged in to help stay on topic. Once the outline is built, plug in the missing grammatically bits. Once you have that done align everything to whatever style guide may exist. Tack on the additional metadata and maybe an image then boom! You have a nice, well written technical article.
+
+{{< adsense-matched >}}
