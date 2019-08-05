@@ -12,7 +12,7 @@ pygmentsCodefencesGuessSyntax = true
 #disqusShortname = "XXX"
 #googleAnalytics = "XXX"
 googleAnalytics = "UA-4498776-3"
-paginate = 4
+paginate = 8
 
 [permalinks]
   post = ":title/"
