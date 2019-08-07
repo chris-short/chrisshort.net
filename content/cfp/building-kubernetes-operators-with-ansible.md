@@ -10,6 +10,8 @@ title = "Building Kubernetes Operators in an Ansible-native way"
 
 +++
 
+> If you'd like discuss having me [speak](/speaking/) at your conference, Meetup, office, party, dinner, luncheon, podcast, etc. please use the [CNCF speaker contact form](https://www.cncf.io/speaker/chrisshort/). Thanks!
+
 Learn how Ansible can help developers (or any systems savvy person) quickly ramp up to build Operators to automate and manage the life cycle of complex Kubernetes applications.
 
 ## Elevator Pitch
