@@ -90,10 +90,10 @@ paginate = 8
     url = "/about/"
     weight = 20
 
-[[menu.main]]
-    name = "Résumé/CV"
-    url = "/resume/"
-    weight = 25
+#[[menu.main]]
+#    name = "Résumé/CV"
+#    url = "/resume/"
+#    weight = 25
 
 [[menu.main]]
     identifier = "speaking"
