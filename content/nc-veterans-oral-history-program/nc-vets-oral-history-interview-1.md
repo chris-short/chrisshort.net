@@ -19,10 +19,10 @@ As part of a North Carolina State Archives initiative to obtain oral histories o
 The interview was well worth the time it took to coordinate and conduct it. I would encourage all North Carolina veterans to contact Matthew and provide their unique story for preservation.
 
 <audio controls>
-  <source src="/nc-veterans-oral-history-program/nc-veterans-oral-history-interview-1.mp3" type="audio/mpeg">
+  <source src="https://cdn.chrisshort.net/nc-veterans-oral-history-interview-1.mp3" type="audio/mpeg">
 Your browser does not support the audio element but you can download it as an MP3.
 </audio>
-Also available as an [MP3 download](/nc-veterans-oral-history-program/nc-veterans-oral-history-interview-1.mp3)
+Also available as an [MP3 download](https://cdn.chrisshort.net/nc-veterans-oral-history-interview-1.mp3)
 
 {{< adsense-inarticle >}}
 

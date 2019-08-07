@@ -18,13 +18,13 @@ The interview was well worth the time it took to coordinate and conduct it. I wo
 
 {{< mc >}}
 
-This picks up where my [NC State Archives Interview Part 1](/nc-veterans-oral-history-program/nc-vets-oral-history-interview-1/) left off. I had just been cleared to return to Langley Air Force Base the days following 9/11 after one of my best friend's funeral.
+This picks up where my [NC State Archives Interview Part 1](https://cdn.chrisshort.net/nc-vets-oral-history-interview-1/) left off. I had just been cleared to return to Langley Air Force Base the days following 9/11 after one of my best friend's funeral.
 
 <audio controls>
-  <source src="/nc-veterans-oral-history-program/nc-veterans-oral-history-interview-2.mp3" type="audio/mpeg">
+  <source src="https://cdn.chrisshort.net/nc-veterans-oral-history-interview-2.mp3" type="audio/mpeg">
 Your browser does not support the audio element but you can download it as an MP3.
 </audio>
-Also available as an [MP3 download](/nc-veterans-oral-history-program/nc-veterans-oral-history-interview-2.mp3)
+Also available as an [MP3 download](https://cdn.chrisshort.net/nc-veterans-oral-history-interview-2.mp3)
 
 {{< adsense-inarticle >}}
 
@@ -430,6 +430,6 @@ So he'd fly in on a Blackhawk, these guys would show up in their suburban's, or 
 
 **CS:** Yeah, I ran into him, literally.
 
-Check back next week for [North Carolina Veterans Oral History Part 3](/nc-veterans-oral-history-program/nc-vets-oral-history-interview-3/) where we discuss coming home, my long thoracic nerve injury, transitioning out of the military, and the Department of Veterans Affairs.
+Check back next week for [North Carolina Veterans Oral History Part 3](https://cdn.chrisshort.net/nc-vets-oral-history-interview-3/) where we discuss coming home, my long thoracic nerve injury, transitioning out of the military, and the Department of Veterans Affairs.
 
 {{< adsense-matched >}}
