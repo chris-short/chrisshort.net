@@ -13,6 +13,14 @@ aliases = [
 
 > If you'd like discuss having me [speak](/speaking/) at your podcast conference, Meetup, office, party, dinner, luncheon, etc. please use the [CNCF speaker contact form](https://www.cncf.io/speaker/chrisshort/). Thanks!
 
+## The Dark Side of DevOps
+
+Date: 2019-06-19  
+Event: [JFrog swampUP 2019](https://swampup.jfrog.com/)  
+Slides: [The Dark Side of DevOps](https://speakerdeck.com/chrisshort/the-dark-side-of-devops)  
+YouTube: [The Dark Side of DevOps - Chris Short - swampUP 2019](https://youtu.be/gi-i5NvxVLM)  
+Download: [MP4](https://cdn.chrisshort.net/The_Dark_Side_of_DevOps-Chris_Short-JFrog_SwampUP_2019.mp4)
+
 ## How to Teach Old Apps New Tricks with Ansible-based Operators (Parts 1 & 2)
 
 Date: 2019-05-08  
