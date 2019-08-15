@@ -46,8 +46,6 @@ Through dockercon17 in Austin this Kubernetes-less mantra held. Then, rather abr
 
 No one understood what Docker was doing in April at dockercon17 when it [announced Moby](https://blog.docker.com/2017/04/introducing-the-moby-project/). Moby is described as the new upstream for the Docker project. But, the rollout of Moby was not announced in advance. It was as if millions of voices suddenly cried out in terror when the drastic shift from Docker to Moby occurred on GitHub as Solomon Hykes was speaking at dockercon17. This drastic and poorly thought through change [required intervention from GitHub staff directly](https://www.theregister.co.uk/2017/04/21/docker_renames_open_source_code_moby/).
 
-{{< adsense-responsive >}}
-
 Not only was the change managed poorly, the messaging was given little consideration as well. This led to an [apology](https://news.ycombinator.com/item?id=14157715) and later [hand drawn explanations](https://twitter.com/solomonstre/status/855918630915133440) of the change. This further muddies the already cloudy container space and Docker (or is it Moby?) ecosystem. The handling of the Moby rollout continues to baffle those working in the industry. The Docker brand is likely tarnished due to this.
 
 ## The Cold Embrace of Kubernetes
@@ -60,7 +58,7 @@ The real problem with Docker is a lack of coherent leadership. There appears to 
 
 ### Bonus: Conspiracy Theory
 
-{{< twitter 946724417249345536 >}}
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Conspiracy Theory: Docker knows it is over for them. The technical folk decided to roll out Moby drastically and embraced Kubernetes suddenly to make sure their work still lives on. <a href="https://twitter.com/hashtag/Docker?src=hash&amp;ref_src=twsrc%5Etfw">#Docker</a> <a href="https://twitter.com/hashtag/DevOps?src=hash&amp;ref_src=twsrc%5Etfw">#DevOps</a></p>&mdash; Chris Short (@ChrisShort) <a href="https://twitter.com/ChrisShort/status/946724417249345536?ref_src=twsrc%5Etfw">December 29, 2017</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 I floated out [a theory on Twitter](https://twitter.com/ChrisShort/status/946724417249345536) about the awkward moments for Docker in 2017. It is possible Docker knows the end is near for the company itself. As organizational changes have indicated a pending exit (likely through acquisition), the technical core of the company prioritized some changes. [Donating containerd to CNCF](https://blog.docker.com/2017/03/docker-donates-containerd-to-cncf/), making Moby the upstream of Docker, and embracing Kubernetes will immortalize the good work done by the folks at Docker. This allows a large organization like Oracle or Microsoft to come along and acquire the company without worrying about the technological advances made by Docker employees being locked behind licenses. This provides the best of both worlds for the software teams and company itself. Needless to say, 2018 will be an interesting year for Docker.
 

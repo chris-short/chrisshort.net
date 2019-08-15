@@ -23,11 +23,11 @@ I went to [KubeCon + CloudNativeCon North America 2018](https://events.linuxfoun
 * Red Hat OpenShift quasi-ambassador
 * DevOps'ish newsletter writer
 
-{{< adsense-inarticle >}}
-
 ## It's The Journey
 
 Air travel is generally okay for me. I don't seem to mind the crowds at airports like I do crowds of people sitting (more on that in a minute). I'm usually through security in single digit minutes thanks to NEXUS and Clear. I also am perfectly capable of keeping myself busy in the short bursts of waiting around for the next thing to happen. Flying from DTW, my trips are usually shorter, east coast bound ones. The flight to Seattle was my longest this year.
+
+{{< adsense-inarticle >}}
 
 I was not looking forward to four hours on a plane. My busted ankles do weird things on longer flights. Couple that with the fact I'm huge, which makes it hard to stay comfortable long in small seats. Also, don't  get me started on the hell that flying put [my shoulder and back](/long-thoracic-nerve-palsy/) through. I mentioned my unfortunate seat selection to [Emily Freeman](http://editingemily.com) she asked if I thought about upgrading myself to First Class. Emily made a very logical argument and I'm very glad she did (thank you, Ems). I had to hit the ground running in Seattle. Being a ball of knots and high on painkillers wasn't an option.
 
@@ -35,25 +35,23 @@ I was not looking forward to four hours on a plane. My busted ankles do weird th
 
 I sat up front on the way to Seattle. What it costs me monetarily more than paid for itself in reduced pain and lower anxiety as a result. It worked better than expected. I didn't hurt too bad when we landed despite it already being a long day (Max got up in the five o'clock hour that morning). I met [Chuck Svoboda](https://twitter.com/Chuckernetes/) onboard too!
 
-{{< twitter 1071947239596019712 >}}
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Arrived! <a href="https://twitter.com/hashtag/KubeCon?src=hash&amp;ref_src=twsrc%5Etfw">#KubeCon</a> <a href="https://t.co/7swGZmtLPn">pic.twitter.com/7swGZmtLPn</a></p>&mdash; Chuck Svoboda (@Chuckernetes) <a href="https://twitter.com/Chuckernetes/status/1071947239596019712?ref_src=twsrc%5Etfw">December 10, 2018</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ## KubeKhan
 
 A few of us on Twitter decided to announce we were all going to the bar in the Sheraton Seattle to hang out and chat. General networking events like this are awesome. They allow folks to sit, stand, float, or whatever in an environment where all it is are folks like them. No concert going on, no conference crews herding you, no sales folks crowding you, and most important of all, come as you are. Some people getting together to chat in person instead of on Twitter or Slack. It wasn't anything formal or official (the code of conduct did apply though). #KubeKhan, as [Jaice coined it](https://twitter.com/jaydumars/status/1071663564417466368), became something. During the overnight hours Saturday into Sunday, things escalated quickly.
 
-{{< twitter 1071995467716681729 >}}
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr"><a href="https://twitter.com/hashtag/kubekhan?src=hash&amp;ref_src=twsrc%5Etfw">#kubekhan</a> <a href="https://twitter.com/hashtag/wrathofkube?src=hash&amp;ref_src=twsrc%5Etfw">#wrathofkube</a> is in full effect <a href="https://t.co/Wp1WDgvu43">pic.twitter.com/Wp1WDgvu43</a></p>&mdash; Bob Killen (@MrBobbyTables) <a href="https://twitter.com/MrBobbyTables/status/1071995467716681729?ref_src=twsrc%5Etfw">December 10, 2018</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 Before it was all said and done, folks discovered that Twitter notifications are hard to manage (I know I learned new methods for managing them). The group also learned the number of people in a single tweet that can be mentioned is capped at 50. There was a Kubernetes Slack channel (#kubekhan is now archived). I met with a CNCF staff member on Monday morning before everything started about something completely unrelated; they asked about [#KubeKhan](https://twitter.com/hashtag/kubekhan). Seeing the creativity from people in the community was really cool. Bob Killen gave us this wonderful [KubeKhan Parrot GIF](/my-kubecon-cloudnativecon-na-2018-recap/kubekhan-parrot.gif). By Day 2, there were even stickers thanks to [Vallery Lancey](https://twitter.com/vllry).
 
-{{< twitter 1072738257387962368 >}}
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Find me tomorrow!!! <a href="https://t.co/kOTO2Qzgf3">pic.twitter.com/kOTO2Qzgf3</a></p>&mdash; Vallery Lancey (@vllry) <a href="https://twitter.com/vllry/status/1072738257387962368?ref_src=twsrc%5Etfw">December 12, 2018</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 What a fun, impromptu way to connect with people! There is already talk of a KubeKhan Barcelona. Which reminds me, [I need to submit my talk ASAP](https://events.linuxfoundation.org/events/kubecon-cloudnativecon-europe-2019/cfp/).
 
 ## 2018 Kubernetes Contributor Summit US
 
 I had a [2018 Kubernetes Contributor Summit US](https://github.com/kubernetes/community/tree/master/events/2018/12-contributor-summit) volunteer meeting at 7:45 AM PT on the sixth floor of the Washington State Convention Center. The problem was, for whatever reason, event security was putting the screws to people as they were trying to get where they needed to be. I was stopped three times on the way into that 7:45 AM PT meeting. The first time I explained that I was volunteering on the sixth floor with a CNCF event and was coming to a pre-meeting. The person apologized and waved me through. The issue was, there were no comms between the security staff for some reason. No one radioed ahead to state someone had been cleared. I can only imagine someone more respectful of authority than I getting completely turned away from an event they were trying to show up on time for.
-
-{{< adsense-inarticle >}}
 
 If I had to pick only one suggestion to improve the event next time it would be to somehow identify people better with the badge itself. My badge was printed in a hotel lobby near the event. I appreciate that convenience. But, I would much rather go to the venue and get a badge that says something other more than "Attendee". Provide a little color or at least allow for special cases to be addressed. I'm not a unique snowflake. None of the volunteers or Ambassadors had anything to identify them as such until the beginning of keynotes the first full day (in some cases). There's a lot of unnecessary harassment to deal with if security is like this in other places.
 
@@ -77,7 +75,7 @@ Immediately following the Architecture BoF, I facilitated [etcd Maintainers: Ask
 
 I ended my Kubernetes Contributor Summit duties with the [SIG Meet & Greet](https://kcs2018.sched.com/event/JN4A/sig-meet-greet). It started in a room that was going to be WAY too small for the audience. After some quick thinking and action from a few folks, we got the session moved to more appropriate space. This was an interesting experience for me. My normal use case were folks coming in and asking what table a certain SIG was at so they could talk. But, there was one cool  scenario where I helped someone choose the SIG they wanted to work with based off what they did for work and fun. The last thing for the Contributor Summit was a group picture!
 
-{{< twitter 1072523308611051520 >}}
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">We tried to take a group pic 😄 thanks to <a href="https://twitter.com/dekkagaijin?ref_src=twsrc%5Etfw">@dekkagaijin</a> for being even taller on a chair 😂<br><br>This marks an end to 2018 Kubernetes Contributor Summits. Now on to 2019 planning! <a href="https://t.co/fvpvYX1Dw2">pic.twitter.com/fvpvYX1Dw2</a></p>&mdash; Paris 🧜‍♀️ (@ParisInBmore) <a href="https://twitter.com/ParisInBmore/status/1072523308611051520?ref_src=twsrc%5Etfw">December 11, 2018</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ## DAY 1
 
@@ -89,8 +87,6 @@ Walking into the keynotes I immediately noticed two things that I appreciated:
 2. The audience wraps around the stage
 
 I appreciated the width of the audience. It made it seem like a less packed room. But, it did not change the fact I knew there were thousands of people in this space. GopherCon last year was when I realized I had this phobia of being trapped in a room full of people. I end up feeling like the softest target in existence usually. It's manageable though. For example, football games don't bother me. But, for some reason, keynotes do. It's a truly odd mental challenge.
-
-{{< adsense-inarticle >}}
 
 I found a seat to the side of the stage near the backstage exit. ~~That was my evac route.~~ What follows is the mental back and forth I went through after two keynotes. This was triggered by a pair of speakers appearing to my left unexpectedly. This made me more aware of my surroundings. Suddenly, I didn't want to be sitting in a crowd of people anymore. The chair wasn't comfortable. I no longer wanted to be static in a sea of people. I didn't want to have a bad pain day so I kept adjusting in the chair. I wanted to see what else there might be to see. I wanted my nervousness to subside a little. I began to worry if I couldn't handle this then I couldn't handle re:Invent (going to re:Invent might be unavoidable this year).
 
@@ -108,8 +104,6 @@ The second (and last day of KubeCon for me) started off earlier than expected. I
 
 This is great for CNCF and its projects because it means that the pipeline of new developers is thriving. The leadership in the Kubernetes community is already solid. The scale of issues that can be tackled will continue to grow at the current rate I'd surmise.
 
-{{< adsense-inarticle >}}
-
 After the Networking & Mentoring Sessions, I went around and said a few goodbyes. Then I was off to Sea-Tac to catch a flight over to Raleigh, NC for meetings.
 
 ## Conclusion
@@ -119,3 +113,5 @@ After the Networking & Mentoring Sessions, I went around and said a few goodbyes
 I'm very much looking forward to my next KubeCon (and KubeKhan). To say the community is amazing would be an understatement. I feel very much at home in the Kubernetes world and have plans to deepen my involvement in it.
 
 {{< mc >}}
+
+{{< adsence-matched >}}
