@@ -113,11 +113,11 @@ I tried to set the record straight early on but was asked to delete this tweet (
 
 Later, Kim tagged me in a reply to a tweet from [Swarna Podila](https://twitter.com/skpodila/)...
 
-{{< tweet 1070707964011368448 >}}
+{{< twitter 1070707964011368448 >}}
 
 I added my tweet tagging a few people to let them know what was going on...
 
-{{< tweet 1070708893460910080  >}}
+{{< twitter 1070708893460910080  >}}
 
 Then things took on a life of their own. I grabbed my phone at one point and it was obvious it had restarted. Opening Twitter at one point made my iPhone Xs Max hot. If you don't think it blew up a few peoples' phones, check out this [tree of the Twitter thread](https://treeverse.app/view/rFWfcpbY):
 
@@ -127,11 +127,11 @@ Then things took on a life of their own. I grabbed my phone at one point and it 
 
 [Bob Killen](https://twitter.com/MrBobbyTables) brought us the fantastic `:khanparrot:` which is available in the Kubernetes Slack and as a higher resolution [Khan Parrot GIF](/my-kubecon-cloudnativecon-na-2018-recap/kubekhan-parrot.gif).
 
-{{< tweet 1071566233424646145 >}}
+{{< twitter 1071566233424646145 >}}
 
 [Vallery Lancey](https://twitter.com/vllry) did the amazing KubeKhan stickers. She was also a driving force in spreading the message. She was even named [the first official KubeKhan Ambassador](https://twitter.com/vllry/status/1078477965015445504). And there are rumors about a KubeKhan Barcelona in 2019.
 
-{{< tweet 1072738257387962368 >}}
+{{< twitter 1072738257387962368 >}}
 
 None of this might have happened if it weren't for Kim McMahon. She opened a way to create a safe space for folks to gather. Making sure folks saw everyone they could during KubeCon. For that, I am truly thankful.
 
