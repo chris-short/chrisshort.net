@@ -46,7 +46,7 @@ deploy-preview:
   environment:
     name: preview
     url: https://preview.${CI_PROJECT_NAME}
-  image: quay.io/chrisshort/firebase:0.56.3
+  image: quay.io/chrisshort/firebase:latest
   before_script:
     - curl -L -o firebase.json https://raw.githubusercontent.com/chris-short/firebase-configs/master/firebase.preview.json
     - curl -L -o .firebaserc https://raw.githubusercontent.com/chris-short/firebase-configs/master/firebaserc.json
@@ -61,7 +61,7 @@ deploy-production:
   environment:
     name: production
     url: https://${CI_PROJECT_NAME}
-  image: quay.io/chrisshort/firebase:0.56.3
+  image: quay.io/chrisshort/firebase:latest
   before_script:
     - curl -L -o firebase.json https://raw.githubusercontent.com/chris-short/firebase-configs/master/firebase.production.json
     - curl -L -o .firebaserc https://raw.githubusercontent.com/chris-short/firebase-configs/master/firebaserc.json
