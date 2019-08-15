@@ -39,7 +39,7 @@ This meeting will address both issues for both entry level professionals and tho
 
 #### I think this tweet puts to bed some IT misnomers
 
-{{< twitter 859158123722010628 >}}
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Let&#39;s clarify:<br>* Jira is not Agile<br>* Open Source is not Free<br>* Using cloud is not DevOps<br>* Rituals is not Scrum<br>* Developed is not Done</p>&mdash; Lemi Orhan Ergin (@lemiorhan) <a href="https://twitter.com/lemiorhan/status/859158123722010628?ref_src=twsrc%5Etfw">May 1, 2017</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ### What DevOps Isn't (cont'd)
 
@@ -300,7 +300,7 @@ MOVIE CLIP
 
 #### Caveat:
 
-{{< twitter 861208965610434560 >}}
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">I could have sworn DevOps was more about outcomes than tooling.</p>&mdash; Chris Short (@ChrisShort) <a href="https://twitter.com/ChrisShort/status/861208965610434560?ref_src=twsrc%5Etfw">May 7, 2017</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 #### Version Control
 
@@ -444,6 +444,6 @@ MOVIE CLIP
 
 ## Analysis of the CLOUD NATIVE LANDSCAPE
 
-# Presented to
+### Presented to
 
 1. [A Night of DevOps at Open Source South Carolina](/a-night-of-devops-at-open-source-south-carolina/)
