@@ -25,7 +25,8 @@ Several suggestions on how folks managed Kubernetes Secrets themselves rolled in
 
 My buddy [Todd Edwards suggested using VSCode snippets](https://twitter.com/TriangleTodd/status/1131814890715439106). That is a viable option for most anyone with an IDE. Brian Liles response about [using Shell functions](https://twitter.com/bryanl/status/1132220199330099200) piqued my interest for a different reason (he might have something fancy up his sleeve too). But, this thorough response reads more like a HOWTO and less like a Tweet:
 
-{{< tweet 1131869227634184198>}}
+[![Peter Benjamin](peter-benjamin-creating-kubernetes-secrets.png)](https://twitter.com/petermbenjamin/status/1131869227634184198)
+
 
 One pertinent thing that did come up in discussion was [stringData in Kubernetes Secrets](https://twitter.com/alejandrox135/status/1131890155822952449). Per the documentation, a Secret has:
 

@@ -34,4 +34,4 @@ Manager, DevOps | Bankrate.com
 
 ### Update as explained on Twitter
 
-{{< tweet 931169601148407809 >}}
+{{< twitter 931169601148407809 >}}

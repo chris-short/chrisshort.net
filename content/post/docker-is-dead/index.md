@@ -60,7 +60,7 @@ The real problem with Docker is a lack of coherent leadership. There appears to 
 
 ### Bonus: Conspiracy Theory
 
-{{< tweet 946724417249345536 >}}
+{{< twitter 946724417249345536 >}}
 
 I floated out [a theory on Twitter](https://twitter.com/ChrisShort/status/946724417249345536) about the awkward moments for Docker in 2017. It is possible Docker knows the end is near for the company itself. As organizational changes have indicated a pending exit (likely through acquisition), the technical core of the company prioritized some changes. [Donating containerd to CNCF](https://blog.docker.com/2017/03/docker-donates-containerd-to-cncf/), making Moby the upstream of Docker, and embracing Kubernetes will immortalize the good work done by the folks at Docker. This allows a large organization like Oracle or Microsoft to come along and acquire the company without worrying about the technological advances made by Docker employees being locked behind licenses. This provides the best of both worlds for the software teams and company itself. Needless to say, 2018 will be an interesting year for Docker.
 
