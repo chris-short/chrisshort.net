@@ -31,4 +31,4 @@ The workaround is to not save passwords in the Junos Pulse client (even in the s
 
 Hopefully this bug gets fixed very soon.
 
-{{< tweet 651417366992146437 >}}
+{{< twitter 651417366992146437 >}}
