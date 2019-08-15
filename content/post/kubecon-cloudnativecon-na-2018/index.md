@@ -35,17 +35,17 @@ I was not looking forward to four hours on a plane. My busted ankles do weird th
 
 I sat up front on the way to Seattle. What it costs me monetarily more than paid for itself in reduced pain and lower anxiety as a result. It worked better than expected. I didn't hurt too bad when we landed despite it already being a long day (Max got up in the five o'clock hour that morning). I met [Chuck Svoboda](https://twitter.com/Chuckernetes/) onboard too!
 
-{{< tweet 1071947239596019712 >}}
+{{< twitter 1071947239596019712 >}}
 
 ## KubeKhan
 
 A few of us on Twitter decided to announce we were all going to the bar in the Sheraton Seattle to hang out and chat. General networking events like this are awesome. They allow folks to sit, stand, float, or whatever in an environment where all it is are folks like them. No concert going on, no conference crews herding you, no sales folks crowding you, and most important of all, come as you are. Some people getting together to chat in person instead of on Twitter or Slack. It wasn't anything formal or official (the code of conduct did apply though). #KubeKhan, as [Jaice coined it](https://twitter.com/jaydumars/status/1071663564417466368), became something. During the overnight hours Saturday into Sunday, things escalated quickly.
 
-{{< tweet 1071995467716681729 >}}
+{{< twitter 1071995467716681729 >}}
 
 Before it was all said and done, folks discovered that Twitter notifications are hard to manage (I know I learned new methods for managing them). The group also learned the number of people in a single tweet that can be mentioned is capped at 50. There was a Kubernetes Slack channel (#kubekhan is now archived). I met with a CNCF staff member on Monday morning before everything started about something completely unrelated; they asked about [#KubeKhan](https://twitter.com/hashtag/kubekhan). Seeing the creativity from people in the community was really cool. Bob Killen gave us this wonderful [KubeKhan Parrot GIF](/my-kubecon-cloudnativecon-na-2018-recap/kubekhan-parrot.gif). By Day 2, there were even stickers thanks to [Vallery Lancey](https://twitter.com/vllry).
 
-{{< tweet 1072738257387962368 >}}
+{{< twitter 1072738257387962368 >}}
 
 What a fun, impromptu way to connect with people! There is already talk of a KubeKhan Barcelona. Which reminds me, [I need to submit my talk ASAP](https://events.linuxfoundation.org/events/kubecon-cloudnativecon-europe-2019/cfp/).
 
@@ -77,7 +77,7 @@ Immediately following the Architecture BoF, I facilitated [etcd Maintainers: Ask
 
 I ended my Kubernetes Contributor Summit duties with the [SIG Meet & Greet](https://kcs2018.sched.com/event/JN4A/sig-meet-greet). It started in a room that was going to be WAY too small for the audience. After some quick thinking and action from a few folks, we got the session moved to more appropriate space. This was an interesting experience for me. My normal use case were folks coming in and asking what table a certain SIG was at so they could talk. But, there was one cool  scenario where I helped someone choose the SIG they wanted to work with based off what they did for work and fun. The last thing for the Contributor Summit was a group picture!
 
-{{< tweet 1072523308611051520 >}}
+{{< twitter 1072523308611051520 >}}
 
 ## DAY 1
 
