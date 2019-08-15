@@ -22,8 +22,6 @@ A former co-worker and now friend used to have a tagline, “Everyday is a schoo
 
 [Last year](/what-i-learned-in-2017/), I mentioned that Kubernetes Will Find Its Way in 2018. I do believe that came to fruition this year. Pretty much every major IT company has a range of ways to consume Kubernetes. They're all [Cloud Native Computing Foundation members](https://www.cncf.io/about/members/) at the very least. Operationalizing Kubernetes is getting easier as more people gain experience with Kubernetes. Even lab or cloud-only experience might be enough to get a job at the moment.
 
-{{< adsense-inarticle >}}
-
 Kubernetes vendors and the community as a whole will need to focus on ease of use. There was a lot of talk about [Long-term Support at KubeCon NA 2018](/kubecon-cloudnativecon-na-2018/). Building and maintaining an LTS Kubernetes will be a lot of effort that could be better used elsewhere. Making Kubernetes easier to operationalize at scale should be the goal. There are potentially hundreds of ways to deploy a Kubernetes cluster at the moment. I can't tell you how many times I've been asked, "What's the 'right' way to deploy Kubernetes to bare metal?" this year.
 
 ## Kubernetes Will Start to Replace The Hypervisor
@@ -50,8 +48,6 @@ My friend Paul Czarkowski published an article with a different approach to the 
 
 DevOps is about improved business outcomes. Like Obi Won Kenobi talking about Darth Vader, "DevOps is more fluff now than actual outcomes. Its purpose has become twisted." It's a sad fact of the situation.
 
-{{< adsense-inarticle >}}
-
 In 2017, I asked for another story for DevOps to tell outside of the automotive industry. I wasn't able to get adoption on a non-automotive industry story for DevOps in 2018. I wasn't able to come up with a much better story than medicine. But, in the US, that's a very sticky subject that could turn into politics rather quickly. This means it's not ripe for storytelling and ideation. That ship sailed and in a way, the DevOps ship might have sailed too.
 
 This means there will be a ripe environment for new, niche buzzwords. We are already getting buzzword fatigue. For example, the definition-fuzzy [serverless](https://www.serverlessops.io/), the difficult nature of [observability](https://get.honeycomb.io/observability/), and the culmination of whatever sidecars, service mesh, and Istio end up getting labeled. In 2019 be extra wary of folks trying to go above and beyond in their marketing to attract sales
@@ -59,15 +55,11 @@ This means there will be a ripe environment for new, niche buzzwords. We are alr
 
 [Goldratt](https://en.wikipedia.org/wiki/Eliyahu_M._Goldratt), [Deming](https://en.wikipedia.org/wiki/W._Edwards_Deming), etc. are as important now as they ever were. The core tenets of DevOps matter WAY more than whatever the term DevOps means to folks this week. Smaller batches of work, releasing more often, and reducing the cost of change are all good things if they improve business outcomes. The culture changes and retooling needed to make this happen will almost always be worth it to the business.
 
-{{< adsense-inarticle >}}
-
 The good news is some in the DevOps community have adapted to this new world. People like [Nicole Forsgren](http://nicolefv.com/) are charging to the helm armed with data. I learned more about DevOps and how to talk to people about it from [**Accelerate: The Science of Lean Software and DevOps: Building and Scaling High Performing Technology Organizations**](https://amzn.to/2BFXzLU) than a lot of other books I've read. Real world experiences and real outcomes are what's going to win in the long run. Buy the book, read it.
 
 ### A Note on Site Reliability Engineering
 
 Something like [Site Reliability Engineering](https://landing.google.com/sre/), that uses DevOps principles while empowering Operations-minded folks, is a welcome initiative. In the past, I've referred to SRE as the ‘metricification' of DevOps. But, SRE is way more than that. SRE is partly about empowering folks running software to hand back a dumpster fire to folks writing software. This single change in an organization will drive change faster than any of the work I've done in DevOps ever could. But, the people, process, and tools needed to do this will still need champions, supporters, backers, etc. Organizations that embrace SRE will be the ones that see themselves as technology organizations first and widget makers second.
-
-{{< adsense-inarticle >}}
 
 I see SRE as a natural evolution of the industry. This isn't an end game by any stretch. SRE is yet another step in an ever-evolving industry (Webmaster was a job title at one point, y'all). I also see Automation Architect becoming a thing too. As more infrastructure becomes autonomously reactive (or gluing API calls together) someone will need to "orchestrate" all that. Keep in mind, I did say, “Google SRE is proof setting a pile of money on fire is a viable solution to engineering problems.” on stage at All Things Open in 2017. Needless to say, I'm not 100% bought into SRE. But, anything that helps Operations work with the business as opposed to against it (and vice versa) is a welcome change.
 
@@ -82,8 +74,6 @@ Serverless frameworks on a mainframe-like, almost bulletproof platform could be 
 What I did learn in 2018, thanks to [Laura Maguire](https://twitter.com/LauraMDMaguire) (and [SNAFUcatchers](https://www.snafucatchers.com/)), is that everything is so complex [it's remarkable *anything* works, ever](https://itrevolution.com/center-of-the-cyclone-dr-richard-cook/). This is terrifying when you really think about it but, it makes a lot of sense.
 
 Typing on a keyboard into an IDE involves so many standards and protocols. It's hard to fathom any one person knowing everything about all them, let alone hordes of people. That's why hardware engineering and software engineering are different professions though. This is why there is typically a divide between front end and back end engineers. **It's all complex!** We all happily go about our lives every day expecting when you flip a switch a light bulb comes on. That's how complex systems work though.
-
-{{< adsense-inarticle >}}
 
 Can any one person know every facet of a complex system? Doubtful. They would have to know the code and every operator's and maintainer's personalities so that they could assess their assumptions about the system they're working on. Perhaps then one person could make enough educated guesses about how the system works they could safely assert they truly know the system. The problem is even with all that they still can't possibly know how all the decades of IT solutions glued together into an enterprise environment actual work in every scenario. Then a government regulation like [GDPR](https://eugdpr.org/) comes along and now that model changes in weird never thought of ways.
 
@@ -113,11 +103,11 @@ I tried to set the record straight early on but was asked to delete this tweet (
 
 Later, Kim tagged me in a reply to a tweet from [Swarna Podila](https://twitter.com/skpodila/)...
 
-{{< twitter 1070707964011368448 >}}
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">I’ll be there too!!! Thinking of holding ‘office hours’ &lt;wink wink&gt; at the Sheraton Sunday night in the lobby bar. I think the amazing <a href="https://twitter.com/ChrisShort?ref_src=twsrc%5Etfw">@ChrisShort</a> will join. Swarna, when do you arrive?</p>&mdash; Kim McMahon - Winter Park ☀️⛰️🌲🐕🍷 (@kamcmahon) <a href="https://twitter.com/kamcmahon/status/1070707964011368448?ref_src=twsrc%5Etfw">December 6, 2018</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 I added my tweet tagging a few people to let them know what was going on...
 
-{{< twitter 1070708893460910080  >}}
+<blockquote class="twitter-tweet"><p lang="und" dir="ltr">FYI <a href="https://twitter.com/nathenharvey?ref_src=twsrc%5Etfw">@nathenharvey</a> <a href="https://twitter.com/amanda_katona?ref_src=twsrc%5Etfw">@amanda_katona</a> <a href="https://twitter.com/cra?ref_src=twsrc%5Etfw">@cra</a> <a href="https://twitter.com/mbbroberg?ref_src=twsrc%5Etfw">@mbbroberg</a> <a href="https://twitter.com/jrrickard?ref_src=twsrc%5Etfw">@jrrickard</a></p>&mdash; Chris Short (@ChrisShort) <a href="https://twitter.com/ChrisShort/status/1070708893460910080?ref_src=twsrc%5Etfw">December 6, 2018</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 Then things took on a life of their own. I grabbed my phone at one point and it was obvious it had restarted. Opening Twitter at one point made my iPhone Xs Max hot. If you don't think it blew up a few peoples' phones, check out this [tree of the Twitter thread](https://treeverse.app/view/rFWfcpbY):
 
@@ -127,11 +117,11 @@ Then things took on a life of their own. I grabbed my phone at one point and it 
 
 [Bob Killen](https://twitter.com/MrBobbyTables) brought us the fantastic `:khanparrot:` which is available in the Kubernetes Slack and as a higher resolution [Khan Parrot GIF](/my-kubecon-cloudnativecon-na-2018-recap/kubekhan-parrot.gif).
 
-{{< twitter 1071566233424646145 >}}
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">:khanparrot: <a href="https://t.co/eTL1EXxgj4">pic.twitter.com/eTL1EXxgj4</a></p>&mdash; Bob Killen (@MrBobbyTables) <a href="https://twitter.com/MrBobbyTables/status/1071566233424646145?ref_src=twsrc%5Etfw">December 9, 2018</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 [Vallery Lancey](https://twitter.com/vllry) did the amazing KubeKhan stickers. She was also a driving force in spreading the message. She was even named [the first official KubeKhan Ambassador](https://twitter.com/vllry/status/1078477965015445504). And there are rumors about a KubeKhan Barcelona in 2019.
 
-{{< twitter 1072738257387962368 >}}
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Find me tomorrow!!! <a href="https://t.co/kOTO2Qzgf3">pic.twitter.com/kOTO2Qzgf3</a></p>&mdash; Vallery Lancey (@vllry) <a href="https://twitter.com/vllry/status/1072738257387962368?ref_src=twsrc%5Etfw">December 12, 2018</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 None of this might have happened if it weren't for Kim McMahon. She opened a way to create a safe space for folks to gather. Making sure folks saw everyone they could during KubeCon. For that, I am truly thankful.
 
@@ -151,3 +141,5 @@ The lesson to learn here is to keep balance. Knowing [when and how to say no](ht
 After Christmas morning this year, I was finally able to mentally shut the door on all that was 2017. My 2018 was filled with a lot of great people. I made some amazing friends this year that I'm very happy to be bringing into 2019. I am hopeful that whatever economic upheaval we face as a society in 2019 is limited. But, in case it isn't and times get hard for you, don't hesitate to reach out for help.
 
 Oh and [5G](https://www.wired.com/story/wired-guide-5g/) (lulz... kinda).
+
+{{< adsense-matched >}}
