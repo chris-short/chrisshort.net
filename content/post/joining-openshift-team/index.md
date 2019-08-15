@@ -26,26 +26,30 @@ Last month, [I wrote about burnout in DevOps'ish](https://devopsish.com/137/), "
 
 {{< mc >}}
 
-The past year on the Ansible team kinda broke me down in other ways though. Don't get me wrong, [the first few months working on the Ansible team were phenomenal](https://chrisshort.net/the-importance-of-psychological-safety/). I won an award voted on by my peers and leadership. I was doing work and getting great feedback. But, the unknowns with IBM, leadership changes within my business unit, getting diagnosed with shingles, already having a disability, and receiving a serious mental health diagnosis, all broke me in ways I didn't know I could be.
+The past year on the Ansible team has been filled with ups and downs. Don't get me wrong, [the first few months working on the Ansible team were phenomenal](https://chrisshort.net/the-importance-of-psychological-safety/). I won an award voted on by my peers and leadership, I was doing work, and getting great feedback. But, with the unknowns with IBM, leadership changes within my business unit, getting diagnosed with shingles, already having a disability, and receiving a serious mental health diagnosis... I had a lot on my plate.
 
-I was still able to do work but, I had lost a lot of the passion. It was really apparent to me that I needed a change when AnsibleFest planning started in earnest. Within a couple of days into building tracks I was no longer willing to put forth the effort to debate what should go where. There were voices in the room that were strong and I really didn't want to inject my two cents. It was going to be an enormous amount of emotional effort I just didn't want to expend. I was conserving energy to work on what I think are equally if not more important things for AnsibleFest like diversity and inclusion. I am hopeful this will be the most inclusive Red Hat event put on to date thanks to the efforts of quite a few people across Red Hat and on the Ansible marketing team.
+I was still able to do good work but, it was harder to be passionate about Ansible outside of the container world. The two very much have a great story together that will continue to grow. But, all the work with Ansible outside of the scope of Kubernetes and Operators wasn't *nearly* as fun to me anymore. I wanted to follow my passion.
+
+On another note, the context switch between product marketing to doing literally anything technical has become an increasingly harder and harder leap for me personally. Couple that with the context switching necessary to bounce back and forth between the Ansible and Kubernetes tooling and processes, I was grinding myself down. Live and learn, I guess.
+
+I still managed to accomplish a lot in the barely over a year on the team as a product marketer:
+
+[![Twitter thread on Ben Cotton and I's One Year Red Hat Anniversaries](red-hat-anniversary-tweet.png)](https://twitter.com/FunnelFiasco/status/1143476930425102336)
 
 ## Why now though?
 
 I've been looking to make a move to the OpenShift team since before April (when things were calmer). I had a failed attempt at joining the Developer Advocates on the OpenShift team. That would have been fun but, the team rightly pointed at my utter lack of coding experience and decided otherwise. It stung a little but, makes complete and total sense. I am looking forward to working with the person they did end up hiring at some point.
 
+Another motivator for making this move now, was when I took the time to move my newsletter, [DevOps'ish](https://devopsish.com) out from behind Cloudflare. After several complaints from readers in Russia, I decided to put forth a modicum of effort to deter unfriendly regimes from blocking my various web properties. I also wanted a consistent method for doing this.
 
-
-Another motivator for making this move now, was when I took the time to move my newsletter, [DevOps'ish](https://devopsish.com) out from behind Cloudflare. After several complaints from readers in Russia, I decided to put forth a modicum of effort to deter unfriendly regimes from blocking my various web properties.
-
-I started to work on what I thought would be a relatively simple project: Building a globally load balanced block storage backed platform to host static web sites. After multiple attempts, consults with friends in and outside cloud providers, and quite a bit of discussion in the DevOps'ish Telegram I came to the conclusion that what I was trying to build wasn't possible unless I went all in with one cloud provider.
-
-On another note, I think my desire to remain technically adept impeded my ability to adapt to this role. I still want to get hands on things. But, needed to think about messaging, strategy, events, web sites, blogs, and some big picture things. The context switch between hardcore product marketing to doing literally anything technical has become an increasingly harder and harder leap for me. Let alone the context switching necessary  It was almost as if I brought some code to the party people would look at me like I had three heads. Live and learn. I still accomplished a lot in the little over a year on the team as a product marketer.
+I started to work on what I thought would be a relatively simple project: a globally load balanced, block storage backed platform to host static web sites. After multiple attempts at building some semblance of a multicloud platform, consults with friends in and outside cloud providers, and quite a bit of discussion in the DevOps'ish Telegram I came to a conclusion. What I was trying to build wasn't possible unless I went all in with one cloud provider. The alternative was to layer a platform on top of the various providers' cloud primitives. The obvious answer to this for me was [**Kubernetes**](/tags/kubernetes/). That's when I knew, it was time to move to a Kubernetes day job. If I couldn't do this then not many other people could. But, never forget, Kubernetes is an iteration in technology, it's not the destination.
 
 ## Thank you, Ansible
 
-Thank you to the Ansible team and especially my Ansible marketing teammates. You've brought me into Red Hat, welcomed me with open arms, and shared your knowledge (and dogs) with me. You have all been wonderful teammates, and we'll continue to work together as Red Hatters in the future.
+Thank you to the Ansible team and especially my Ansible marketing teammates. You've brought me into Red Hat, welcomed me with open arms, and shared your knowledge (and dogs) with me. You have all been wonderful teammates! I look forward to contining to work together more collaboratively as Red Hatters in the very near future (aka tomorrow).
 
-![Ansible](Ansible-Mark-Large-RGB-Mango.png)
+![Ansible has already won](ansible-has-already-won.png)
+
+[![Ansible](Ansible-Mark-Large-RGB-Mango.png)](https://www.ansible.com/)
 
 {{< adsense-matched >}}
