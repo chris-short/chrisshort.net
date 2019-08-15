@@ -30,6 +30,8 @@ The past year on the Ansible team has been filled with ups and downs. Don't get 
 
 I was still able to do good work, but it was harder to be passionate about Ansible outside of the container world. The two very much have a great story together that will continue to grow. But, all the work with Ansible outside of the scope of Kubernetes and Operators wasn't *nearly* as fun to me anymore. I wanted to follow my passion.
 
+## Accomplishments
+
 I still managed to do a lot in the little over a year on the Ansible team as a product marketer:
 
 [![Twitter thread on Ben Cotton and I's One Year Red Hat Anniversaries](red-hat-anniversary-tweet.png)](https://twitter.com/FunnelFiasco/status/1143476930425102336)
