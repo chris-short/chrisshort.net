@@ -18,7 +18,7 @@ My involvement with Ansible won't end. Oh, heavens, no! I am still involved in A
 
 {{< carbon >}}
 
-When I announced I was joining the Ansible team, I wrote, "[I'd like to work to see what Ansible can bring to CNCF projects.](https://chrisshort.net/joining-ansible-team-at-red-hat/)" You can write Kubernetes Operators with Ansible. Also, Ansible Operators are now a priority. Let's face it; *more people know how to write Ansible than Go*. [Ansible Operators](https://ansible.com/operators/) are something I hope I can hang my hat on some day. But, there is much work to be done still. Ansible's future lies in its ability to be picked up and used capably by almost everyone in the IT department. The more that thinking can be brought to the cloud native ecosystem, the better.
+When I announced I was joining the Ansible team, I wrote, "[I'd like to work to see what Ansible can bring to CNCF projects.](/joining-ansible-team-at-red-hat/)" You can write Kubernetes Operators with Ansible. Also, Ansible Operators are now a priority. Let's face it; *more people know how to write Ansible than Go*. [Ansible Operators](https://ansible.com/operators/) are something I hope I can hang my hat on some day. But, there is much work to be done still. Ansible's future lies in its ability to be picked up and used capably by almost everyone in the IT department. The more that thinking can be brought to the cloud native ecosystem, the better.
 
 ## Burnout
 
@@ -26,7 +26,7 @@ Last month, [I wrote about burnout in DevOps'ish](https://devopsish.com/137/), "
 
 {{< mc >}}
 
-The past year on the Ansible team has been filled with ups and downs. Don't get me wrong, [the first few months working on the Ansible team were phenomenal](https://chrisshort.net/the-importance-of-psychological-safety/). I won an award voted on by my peers and leadership, I was doing work, and getting great feedback. But, after [the IBM acquisition announcement](/one-fish-two-fish-blue-fish-sporting-new-red-hat/) and changes in my reporting chain, I wasn't getting what I needed anymore.
+The past year on the Ansible team has been filled with ups and downs. Don't get me wrong, [the first few months working on the Ansible team were phenomenal](/the-importance-of-psychological-safety/). I won an award voted on by my peers and leadership, I was doing work, and getting great feedback. But, after [the IBM acquisition announcement](/one-fish-two-fish-blue-fish-sporting-new-red-hat/) and changes in my reporting chain, I wasn't getting what I needed anymore.
 
 I was still able to do good work, but it was harder to be passionate about Ansible, outside of the container world. Ansible and containers have a great story together that will continue to grow regardless of which team I fall under. But, all the work with Ansible outside of the scope of Kubernetes Operators wasn't *nearly* as fun to me anymore. I wanted to follow my passion.
 
@@ -48,7 +48,7 @@ I started to work on what I thought would be a relatively simple project: a glob
 
 ## Thank you, Ansible
 
-Thank you to the Ansible team and especially my Ansible marketing teammates. You've brought me into Red Hat, welcomed me with open arms, and shared your knowledge (and dogs) with me. You have all been wonderful teammates! I look forward to continuing to work together more as Red Hatters in the very near future (aka tomorrow).
+Thank you to the Ansible team and especially my Ansible marketing teammates. You've brought me into Red Hat, welcomed me with open arms, and shared your knowledge (and your dogs) with me. You have all been wonderful teammates! I look forward to continuing to work together more as Red Hatters in the very near future (which is tomorrow).
 
 ![Ansible has already won](ansible-has-already-won.png)
 
