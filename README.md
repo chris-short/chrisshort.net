@@ -10,10 +10,6 @@ Built with [Hugo](https://gohugo.io/)
 
 Version Control on [GitHub](https://github.com/chris-short/chrisshort.net)
 
-Continuous Integration on [GitLab](https://gitlab.com/chrisshort/chrisshort.net/pipelines) with Kubernetes-based GitLab Runners
-
-Stored on [Google Cloud Storage](https://cloud.google.com/storage/)
-
-Delivered by [Cloudflare](https://www.cloudflare.com/)
+Continuous Integration on [GitLab](https://gitlab.com/chrisshort/chrisshort.net/pipelines)
 
 Made in [Michigan](https://www.michigan.org/)
