@@ -1,6 +1,6 @@
 +++
 author = "Chris Short"
-categories = ["Work", "Life"]
+categories = ["Life"]
 date = 2017-11-13T10:00:00Z
 description = "An open e-mail about why I am deciding to leave Bankrate now"
 draft = false

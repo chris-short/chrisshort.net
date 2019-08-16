@@ -1,8 +1,8 @@
 +++
 
 author = "Chris Short"
-date = 2018-12-26T21:18:00Z
-description = "Résumé of a 20+ year veteran of Information Technology and DevOps and current Product Marketing professional."
+date = 2019-08-19T07:00:00Z
+description = "Résumé of a 20+ year veteran of Information Technology and DevOps and current Technical Marketing professional."
 draft = false
 tags = ["resume", "cv"]
 title = "Résumé"
@@ -18,11 +18,13 @@ aliases = [
 
 ## Professional Summary
 
-Results-producing, passionate DevOps professional turned Product Marketer and community advocate. Cloud Native Computing Foundation Ambassador, Kubernetes SIG-ContribEx member, public speaker, personal and professional blogger/writer, founder of [DevOps'ish](https://devopsish.com/), and believer in open source principles bettering interactions and promoting conversations. Technology exists to improve human existence.
+Results-producing, passionate DevOps professional turned Technical Marketer and community advocate. Cloud Native Computing Foundation Ambassador, Kubernetes SIG-ContribEx member, public speaker, personal and professional blogger/writer, founder of [DevOps'ish](https://devopsish.com/), and believer in open source principles bettering interactions and promoting conversations. Technology exists to improve human existence.
 
 ## Professional Experience
 
-### Principal Product Marketing Manager, Red Hat — Detroit, MI — Jun 2018 to Present
+### Principal Technical Marketing Manager, Red Hat — Detroit, MI — Aug 2019 to Present
+
+### Principal Product Marketing Manager, Red Hat — Detroit, MI — Jun 2018 to Aug 2019
 
 * Evangelized [Kubernetes Operators with Ansible](https://ansible.com/operators) in Business Unit by engaging leadership to prove importance; scheduled developers on podcast, worked w/ team to build landing page, and presented talks at Red Hat Summit 2019
 * Ansible blog curator, editor, and sometimes writer, room facilitator, survey staff management, and official after party event security for AnsibleFest 2018 in Austin, TX
@@ -127,4 +129,4 @@ Results-producing, passionate DevOps professional turned Product Marketer and co
 
 ## Formal Training Courses
 
-Global Knowledge Network Security I & II, UNIX/LINUX Security Course, Defense Information Systems Agency CONUS Telecom Seminar, Information Technology Infrastructure Library (ITIL) Foundation Workshop, USAF Communications-Computer Systems Control Apprentice & Craftsman Courses, REDCOM Theory and Application Training Course in Distributed Digital Switching, Microsoft Learning Course 5927A: Microsoft Office Project 2007, Managing Projects, RHCSA Rapid Track Course, Enterasys Switching NMS, Puppet Fundamentals Training, Pentaho Business Analytics User Console Training, Pragmatic Marketing Certified Level II (PMC-II; Foundations and Focus)
+Global Knowledge Network Security I & II, UNIX/LINUX Security Course, Defense Information Systems Agency CONUS Telecom Seminar, Information Technology Infrastructure Library (ITIL) Foundation Workshop, USAF Communications-Computer Systems Control Apprentice & Craftsman Courses, REDCOM Theory and Application Training Course in Distributed Digital Switching, Microsoft Learning Course 5927A: Microsoft Office Project 2007, Managing Projects, RHCSA Rapid Track Course, Enterasys Switching NMS, Puppet Fundamentals Training, Pentaho Business Analytics User Console Training, Pragmatic Marketing Certified Level II (PMC-II; Foundations and Focus), Automation with Ansible I (DO407)

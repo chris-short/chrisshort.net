@@ -1,6 +1,6 @@
 +++
 author = "Chris Short"
-categories = ["Work"]
+categories = ["Life"]
 date = 2018-11-02T07:00:00Z
 description = "What it was like for relatively new Red Hat employee, Chris Short, during the IBM acquisition announcement and the week that followed."
 draft = false
