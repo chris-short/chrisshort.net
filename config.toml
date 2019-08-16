@@ -19,7 +19,7 @@ paginate = 8
 
 [Params]
   homeTitle = "Chris Short" # Set a different text for the header on the home page
-  subtitle = "Red Hat Ansible | CNCF Ambassador | Writes devopsish.com | Disabled Veteran | He/Him/They"
+  subtitle = "Works at Red Hat | Writes devopsish.com | CNCF Ambassador | Disabled Veteran | He/Him/They"
   logo = "img/chrisshort.net.png" # Expecting square dimensions
   favicon = "favicons/favicon.ico"
   dateFormat = "2006-01-02"
