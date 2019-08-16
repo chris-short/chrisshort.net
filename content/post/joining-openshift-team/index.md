@@ -2,9 +2,9 @@
 author = "Chris Short"
 categories = ["Kubernetes", "Ansible", "Life"]
 date = 2019-08-18T07:00:00Z
-description = ""
+description = "This Monday (2019-08-19) will be my first day as Principal Technical Marketing Manager on the Cloud Platforms team at Red Hat"
 draft = false
-tags = ["OpenShift", "Red Hat", "Kubernetes"]
+tags = ["OpenShift", "Red Hat", "Kubernetes", "Ansible", "Operators", "Cloud Native"]
 title = "Joining forces with OpenShift"
 image = "/joining-forces-with-openshift/ansible-to-openshift.png"
 
