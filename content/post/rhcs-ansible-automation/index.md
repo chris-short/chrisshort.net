@@ -13,8 +13,6 @@ image = "/im-a-red-hat-certified-specialist-ansible-automation/rhcs-ansible-auto
 
 The last week of November 2018, I made a trip to the Red Hat office in Westford, MA. I was enrolled in [Automation with Ansible I (DO407)](https://www.redhat.com/en/services/training/do407-automation-ansible-i) with [exam (EX407)](https://www.redhat.com/en/services/training/ex407-red-hat-certified-specialist-in-ansible-automation-exam) class. One of my co-workers scoffed when I told him I was going. He didn't seem to quite understand why I wanted a certification I don't need (I do work for Ansible now after all). I hope to address that and why Product and Marketing people should get certified (not only Ops).
 
-{{< adsense-inarticle >}}
-
 ## Why did I feel the need to do this?
 
 The one thing I wanted most from this class was a skills assessment. The longer someone uses a tool the less they tend to pick up new features of that tool. People develop habits; it's natural. I wanted to know how many of my habits were legacy. I know assumptions are enemies of effective engineers; how accurate are my assumptions. I also wanted to show a working knowledge of the product I'm working with daily. Getting certified shows that while I was off learning Kubernetes, I was still keeping up with Ansible.
