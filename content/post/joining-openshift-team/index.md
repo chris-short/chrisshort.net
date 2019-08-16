@@ -1,6 +1,6 @@
 +++
 author = "Chris Short"
-categories = ["Kubernetes", "Life"]
+categories = ["Kubernetes", "Ansible", "Life"]
 date = 2019-08-18T07:00:00Z
 description = ""
 draft = false
@@ -12,13 +12,13 @@ image = "/joining-forces-with-openshift/ansible-to-openshift.png"
 
 This Monday (2019-08-19) will be my first day as Principal Technical Marketing Manager on the Cloud Platforms team at Red Hat. What does that mean? [OpenShift](https://www.openshift.com/) (a lot of OpenShift), Kubernetes, containers, Operators, and all the associated bits will be my day job. Helping folks help themselves with technology is still and always will be the name of my game. But, working full time in the Kubernetes or cloud native ecosystem was a 2020 goal. Crossing off 2020 goals in 2019. #winning
 
-## Wait... There's still work to do
+## But, there's still work to do
 
 My involvement with Ansible won't end. Oh, heavens, no! I am still involved in AnsibleFest (see you in Atlanta).  Part of my charge when joining Red Hat was to encourage more collaboration between the Ansible and OpenShift teams. That has been happening and will continue to happen with me sitting on the OpenShift side. I'm also acting as an Ansible insider for folks on the Cloud Platforms team. I've been told to be ready for a challenge and I'm looking forward to it.
 
 {{< adsense-inarticle >}}
 
-When I announced I was joining the Ansible team, I wrote, "[I'd like to work to see what Ansible can bring to CNCF projects.](https://chrisshort.net/joining-ansible-team-at-red-hat/?utm_source=devopsish&utm_medium=newsletter&utm_campaign=141)" You can write Kubernetes Operators with Ansible. Also, Ansible Operators are now a priority. Let's face it; *more people know how to write Ansible than Go*. [Ansible Operators](https://ansible.com/operators/?utm_source=devopsish&utm_medium=newsletter&utm_campaign=141&utm_term=kubernetes) are something I hope I can hang my hat on some day. But, there is much work to be done still. Ansible's future lies in its ability to be picked up and used capably by almost everyone in the IT department. The more that thinking can be brought to the cloud native ecosystem, the better.
+When I announced I was joining the Ansible team, I wrote, "[I'd like to work to see what Ansible can bring to CNCF projects.](https://chrisshort.net/joining-ansible-team-at-red-hat/)" You can write Kubernetes Operators with Ansible. Also, Ansible Operators are now a priority. Let's face it; *more people know how to write Ansible than Go*. [Ansible Operators](https://ansible.com/operators/) are something I hope I can hang my hat on some day. But, there is much work to be done still. Ansible's future lies in its ability to be picked up and used capably by almost everyone in the IT department. The more that thinking can be brought to the cloud native ecosystem, the better.
 
 ## Burnout
 
@@ -32,9 +32,11 @@ I was still able to do good work, but it was harder to be passionate about Ansib
 
 ## Accomplishments
 
-I still managed to do a lot in the little over a year on the Ansible team as a product marketer:
+I still [managed to do quite a bit](/resume/) in the fourteen months on the Ansible team as a product marketer:
 
 [![Twitter thread on Ben Cotton and I's One Year Red Hat Anniversaries](red-hat-anniversary-tweet.png)](https://twitter.com/FunnelFiasco/status/1143476930425102336)
+
+One extremely unique opportunity was being part of a group of folks that helped adopt [Molecule](https://github.com/ansible/molecule) as an Ansible project. Seeing how that worked and played out; the intricate wordsmithing and in between the line reading skills needed are next to mastery. But, one thing I think I helped drive home was that clearer communications are typically less on words and more about substance.
 
 ## Why now though?
 
