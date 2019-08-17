@@ -18,7 +18,7 @@ Last week my brother, John David Short, and I had a conversation about all the s
 
 {{< adsense-inarticle >}}
 
-As a born-again Christian, former volunteer and the son of a CPL Board member I can say unequivocally that Human Service Alliance/University for Human Goodness/Center for Purposeful Living is a cult with a service component. Much of my experience is alluded to in my brother's post, [The Cult that is Human Service Alliance and the Center for Purposeful Living](/center-for-purposeful-living/the-cult-that-is-human-service-alliance-and-the-center-for-purposeful-living/), and the details are a private-family matter which I don't think anyone would be interested in. However some background may be useful to readers researching CPL online.
+As a born-again Christian, former volunteer and the son of a CPL Board member I can say unequivocally that Human Service Alliance/University for Human Goodness/Center for Purposeful Living is a cult with a service component. Much of my experience is alluded to in my brother's post, [The Cult that is Human Service Alliance and the Center for Purposeful Living](/foundation-for-purposeful-living/the-cult-that-is-human-service-alliance-and-the-center-for-purposeful-living/), and the details are a private-family matter which I don't think anyone would be interested in. However some background may be useful to readers researching CPL online.
 
 {{< mc >}}
 
@@ -28,15 +28,11 @@ This changed in 1987 with the arrival of Derwin Lackey (DL) as a volunteer. I wi
 
 DL began a series of informal talks with a group of volunteers twice a month called "gatherings." These were generally enjoyable evenings of food, music, and friends, followed by a brief Socratic style talk lead by DL. Questions such as, "Why do you suppose all human problems can be traced to an abuse of money, sex or power?" and "Does it seem that modern society serves little purpose other than the satisfaction of personality?" were common themes to these talks. The philosophy behind this line of discussion in expanded on in Derwin Lackey's ex libris book *[Discoveries of the Inquiring Mind](https://amzn.to/2OU94Uz)*.
 
-{{< adsense-inarticle >}}
-
 At some point (I'm not sure when or how) control of the group shifted from Elizabeth Callari to Derwin Lackey, who wished to lead a group of committed volunteers to spiritual enlightenment, rather than focusing solely on care for the terminally ill. This group formed the founding Board of Directors (BOD) of HSA of which Coleman Alderson, who has commented on the group at FACTNet, was a member. The BOD reincorporated in Winston-Salem at the current address of the Center for Purposeful Living, offering free care to the terminally ill, mediation, and respite care for families with developed disabled children free of charge. These were the service elements of the organization and the service provided was meaningful, valuable, soul-fulfilling work. It really was. Behind the scenes is where we can identify a cult, based on the New Age philosophy of Esoteric Psychology, led solely by Derwin Lackey.
 
 Much has been written about Esoteric Psychology and its founder Alice Bailey. I don't intend to develop the subject here except to say that practitioners believe that the purpose of human life is to connect with one's soul by understanding it as a unique psychological entity. Just as a psychologist can provide his clients with insight into his personality, and mental processes so can esoteric psychology claim to provide insight into others souls and hence an experienced practitioner can claim in hubris to know what's best, spiritually speaking, for an individual. This is really the crux of the cult of Human Sevrice Alliance/University for Human Goodness/Center for Purposeful Living. Mr. Lackey and the "teaching group" believe that there study and observation of this philosophy qualifies them to discern the will of their students' souls.
 
 During my time within HSA the group complemented their study of esoteric psychology with a study of the major world religions, most notably Christianity, Buddhism, and Hinduism, picking elements of each that appealed to them, and the work of other occultists such as Edgar Cayce.
-
-{{< adsense-inarticle >}}
 
 I left the group 15 years ago as I grew increasingly uncomfortable with the control DL exerted over the board members, and the spiritual and philosophical underpinnings of the group. My perspective, then, is as an outsider and I cannot speak authoritatively on the inner working of CPL. However, during my time at HSA I have seen families broken up over belief, marriages, if not arranged, then certainly encouraged, and an increasing insular lifestyle practiced by the board members, including moving to a neighbor together as a group.
 

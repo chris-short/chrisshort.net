@@ -23,7 +23,7 @@ I happen to be someone that finds themselves setting up new systems for myself o
 * [iTerm](https://www.iterm2.com/) - My Terminal of choice
 * [Shuttle](http://fitztrev.github.io/shuttle/) - Super awesome ssh config menu creator
 * [Little Snitch](https://www.obdev.at/products/littlesnitch/download.html) - I don't trust any one or any code
-* [Shimo](https://www.feingeist.io/shimo/) - Need to use more than one VPN? Shimo is for you
+* [Shimo](https://www.shimovpn.com/) - Need to use more than one VPN? Shimo is for you
 * [GPG Tools](https://gpgtools.org/)
 * [MySQL Workbench](http://dev.mysql.com/downloads/workbench/) - When you login to a MySQL server and say, "WTF?!?" you might want a GUI as a safety
 * [Witch](http://manytricks.com/witch/) - CMD + TAB will never be the same
@@ -42,7 +42,7 @@ I happen to be someone that finds themselves setting up new systems for myself o
 * [Chrome Canary](https://www.google.com/chrome/browser/canary.html)
 * [Firefox Developer Edition](https://www.mozilla.org/en-US/firefox/developer/)
 * [Safari Technology Preview](https://developer.apple.com/safari/download/)
-* [Padbury Clock](http://padbury.me/clock/) - I am fascinated by time and I love this screensaver!
+* [Padbury Clock](https://padbury.app/) - I am fascinated by time and I love this screensaver!
 * [Telegram](https://desktop.telegram.org/)
 * [VLC](http://www.videolan.org/)
 
@@ -69,6 +69,6 @@ I happen to be someone that finds themselves setting up new systems for myself o
 
 The majority of my time is spent in iTerm and Google Chrome. Google Chrome backs up my extensions, settings, etc. but iTerm does not have a reliable backup or sync solution. As a result I save the iTerm com.googlecode.iterm2.plist file to Google Drive. That way it is constantly synced to a cloud source.
 
-I spend a lot of time in vim as well. As a result, I update [my .vimrc file](https://github.com/chris-short/.files/blob/master/.vimrc) accordingly. I have an [Ansible Playbook to update vim settings](https://github.com/chris-short/.files/blob/master/vimrc_playbook) as I like a specific color scheme. I try to stray from defaults as little as possible but it happens.
+I spend a lot of time in vim as well. As a result, I update my .vimrc file accordingly. I have an Ansible Playbook to update vim settings as I like a specific color scheme. I try to stray from defaults as little as possible but it happens.
 
 {{< adsense-matched >}}
