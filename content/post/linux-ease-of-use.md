@@ -32,8 +32,8 @@ One of the many reasons I'm [moving to Linux](/moving-to-linux/) is because I'm 
 
 Linux system integrators and distribution makers are making a huge push in the ease of use department. They're smart though, you can use their cookie cutter idea of easy to use Linux or you can start at the bottom and work your way up. The other nice thing about the Linux community is that there are numerous distributions all with a different idea of ease of use. This means that there are a multitude of Linux cookie cutters while Microsoft still has one. I am by no means saying that Linux should not be made easier to use, it should be. But, people should always have the option to create their own ease of use, if they want to. The key to Linux ease of use will not be one vision of what ease of use is. That is what Microsoft wants the Linux community to do. The key will be multiple ideas of ease of use incorporated into one using the best ideas from all involved while giving users the option to use just one or any combination of those ideas, while still giving the user the ability to fully customize that ease of use environment.
 
-{{< adsense-inarticle >}}
-
 Implementation of ease of use often times sacrifices security. So many Windows users have easy to use, insecure environments. Linux is security oriented and Linux users enjoy that inherent security. The Linux community should not even think of sacrificing the security of Linux operating systems to make them easier to use. This has been done already in Windows and Windows users and system administrators around the world feel the pain of that ease of use implementation more and more everyday. The biggest hurdle in making Linux easy to use will be to make it easy to use and secure at the same time.
 
 Linux wasn't designed to be easy to use. But, the beauty of Linux is that it can be made easier to use. The Linux community will make things as simple as possible, but Linux shouldn't be made simpler.
+
+{{< adsense-matched >}}

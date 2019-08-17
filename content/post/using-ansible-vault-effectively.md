@@ -56,8 +56,6 @@ vault\_password\_file is a file with your Ansible Vault password in it. For exam
 
 You can define vault\_password\_file in your [Ansible Configuration file](http://docs.ansible.com/ansible/intro_configuration.html) and never have to use `--vault-password-file` nor be prompted for the password on the CLI (you will see an error if the vault\_password\_file does not exist).
 
-{{< adsense-inarticle >}}
-
 I have taken this a step further and created some helper scripts so the various Ansible Vault commands can be run quickly and easily. You can find the [ansible-vault-helpers on Github](https://github.com/chris-short/ansible-vault-helpers) or [download them as a zip file](https://github.com/chris-short/ansible-vault-helpers/archive/master.zip).
 
 **ansible-vault-helpers**

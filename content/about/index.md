@@ -42,5 +42,5 @@ Chris is now working in the [open source](/tags/open-source/), [Linux](/tags/lin
 
 ### PGP Public Key
 
-MIT: [BFD23BF8](http://pgp.mit.edu:11371/pks/lookup?op=get&search=0x0210E38FBFD23BF8) (expired)  
+BFD23BF8 (expired)  
 Please use [Keybase](https://keybase.io/chrisshort) or [Signal](https://support.signal.org/hc/en-us/articles/360007060592-Invite-friends-to-join-Signal)

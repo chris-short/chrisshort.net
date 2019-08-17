@@ -30,13 +30,9 @@ I opened Gmail so I could see what Red Hat's stream of consciousness (aka memo-l
 
 It was an odd feeling. Like, maybe I could have said something knowing it wouldn't have mattered. It was a sensation of not even getting a chance to do something. In the span of 24 minutes, I went from having a pretty great day to having what was akin to a panic attack.
 
-{{< adsense-inarticle >}}
-
 "I have to get home," I thought to myself. I made a hasty goodbye to the family and walk out the door. I sent the [IBM press release](https://newsroom.ibm.com/2018-10-28-IBM-To-Acquire-Red-Hat-Completely-Changing-The-Cloud-Landscape-And-Becoming-Worlds-1-Hybrid-Cloud-Provider) to my boss to make sure she knew. I didn't know why I was driving home but, home was also the office and it felt like the right thing to do. If push came to shove I could get people up to speed as they popped up online.
 
 The drive home was filled with nausea and worry. “I should get home and go straight down to the office and login,” I think to myself. My boss texts back, "Holy Shit!" I get home to a lot of notifications. My boss and I go back and forth for a minute vis text as I'm walking inside. But, there wasn't much to be done. I took some anxiety meds and laid face down for a little bit on my bed.
-
-{{< adsense-inarticle >}}
 
 A friend at Red Hat texts me asking if I'd seen the news. I responded back that I had and wasn't feeling too great about it. You have to understand my experience with IBM. In 2015, I worked for a few weeks at a healthcare company that was a $1 billion dollar IBM acquisition. It was a total dumpster fire and IBM knew it. But, Watson Health was the future of IBM, a friend elsewhere in IBM had told me. Long story short, I saw a ton of cracks in the business that was bought for a ridiculous sum of money. I had to make a decision real quick and got out of Dodge. Earlier this year, [IBM's Watson Health had huge layoffs](https://www.theregister.co.uk/2018/05/25/ibms_watson_layoffs/) and I felt very justified in my decision. My rash decision making might have hurt my career a little. But, I dodged a huge bullet in my first run in as an almost IBM employee. At the end of the brief discussion with my friend, he said, "**At least it wasn't Oracle.**" My response, "Yes... I really would have driven off the road then."
 
@@ -49,8 +45,6 @@ A friend at Red Hat texts me asking if I'd seen the news. I responded back that 
 The Jim Whitehurst-Ginni Rometty all-hands was critically important for both Jim and Ginni to nail in front of the world. Their [CNBC Squawk Box spot](https://www.cnbc.com/video/2018/10/29/watch-the-full-interview-with-ibm-and-red-hat-ceos-on-33-billion-deal.html) was decent but who knew how an auditorium full of Red Hatters would respond.
 
 Jim walks out in his familiar jeans and crisp, white button down. Ginni walks out in purple. Turns out that later on in the presentation Arvind Krishna, IBM's SVP of Hybrid Cloud and Director of Research, said he was wearing purple to show cohesion because red and blue make purple. Ginni said she didn't even realize she had done it (but was sure to point it out on [CNBC's Mad Money](https://www.cnbc.com/2018/10/29/ibm-ceo-red-hat-is-a-game-changer-makes-us-no-1-in-hybrid-cloud.html) that night). It was a very human moment.
-
-{{< adsense-inarticle >}}
 
 The all-hands itself was good. Ginni donning a red fedora was a very nice touch.  Also, whichever Red Hatter wrote "fuck you" to Jim in the chat during the global all-hands, I'm beyond disappointed in you. I pretty much had to close Twitter and avoid memo-list after the event. There was a lot of data and opinion to sort out. A snarky text comes in from a friend afterward, "Never thought I'd see the day Chris Short worked for IBM." I muted notifications for a while too.
 
@@ -76,8 +70,6 @@ The day was pretty much derailed at that point. There wasn't much me or many oth
 
 I had taken the mind overnight that the messaging seems to indicate that nothing earth-shattering was going to change for a while. Tuesday started off answering some DMs, texts, and e-mails. I mention this because of the time it takes to proofread every response. My modus operandi is open. Suddenly a restriction is put in place and it made me hyper-aware of what I was writing. It might have been unnecessary but, some messages were prying and others weren't. Never too careful.
 
-{{< adsense-inarticle >}}
-
 During a Marketing all-hands things seemed to quiet down a little. Then a funny thing started happening. IBMers started reaching out. They shared what their life at IBM was like. So I started reaching out to some IBMers I know. We all started talking. I spoke with one IBMer working from their home office in Virginia. One person spoke of a co-worker getting ordained to officiate a wedding of another IBMer. There were no folks reaching out from IBM saying, "Psst. Hey, man. RUN FOR YOUR LIFE! GO GET HELP!"
 
 This spurred me to reach further out to see what other folks thought. I was reading journalist and analyst opinions but, I wasn't reaching out to other tech folks to see what they would do or what they thought. One Googler remarked it wasn't a great time to be at any big tech company. [Microsoft is playing JEDI](https://blogs.microsoft.com/on-the-issues/2018/10/26/technology-and-the-us-military/), [Google is getting walked out on](https://www.nytimes.com/2018/11/01/technology/google-walkout-sexual-harassment.html), [Facebook ruined democracy somehow](https://www.cbsnews.com/news/facebook-is-caught-in-an-ever-tightening-squeeze/), [Amazon doesn't treat its workers well](https://www.nytimes.com/2018/10/23/business/economy/amazon-workers-sears-bankruptcy-filing.html)... The list went on and on. If you're not in turmoil and you're at a tech company consider yourself lucky. Of all the situations the IBM/Red Hat situation was the best one to be in.
@@ -87,8 +79,6 @@ This spurred me to reach further out to see what other folks thought. I was read
 > "No battle plan survives first contact with the enemy." —Helmuth von Moltke the Elder
 
 By the time Wednesday rolled around my anxiety was gone. The plan was to sit tight, ride things through the acquisition, and try to turn IBM into the next Microsoft. On Sunday, when I announced to the family my company was being bought by IBM the looks on folks faces were different based on generation. The older the person, the happier they looked. I know my grandfather would be so happy to hear this news too. I think IBM wants to truly turn things around and fast. [Microsoft Has Come a Long Way](/microsoft-has-come-a-long-way/) after all in becoming a place people want to work.
-
-{{< adsense-inarticle >}}
 
 But, I need a way to figure out if there are canaries in the proverbial coal mine that will indicate to me it's time to dust off the ole [resume](/resume/). Here are some scenarios that would be a red flag for me:
 

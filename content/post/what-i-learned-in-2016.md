@@ -28,8 +28,6 @@ Additionally, at no point should you as an engineer talk to anything other than 
 
 There is no doubt in my mind that 2017 will be the Year of Kubernetes. 2016 proved that containers matter. However, at scale, the container orchestration tool matters an order of magnitude more. Your single microservice cannot be productive on its own, right? If your infrastructure exists in containers what are you doing to ensure its high-availability?
 
-{{< adsense-inarticle >}}
-
 The answer to these container questions will be answered in 2017 and the answer will be Kubernetes. Many, many companies and product teams are putting an enormous amount of effort into Kubernetes. Red Hat has definitely pushed OpenShift as the platform of choice. Docker is pushing its tools but they seem to be slow to be adopted outside of the container itself. The real winner will be Google's cloud agnostic tools (k8s) and a good understanding of where to put compute and storage based on cost and performance.
 
 ### Soft Skills are Amazing

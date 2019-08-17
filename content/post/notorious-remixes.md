@@ -55,8 +55,6 @@ You can download [Gratefully D.E.A.D. - Notorious B.I.G. vs Grateful Dead](https
 
 <iframe width="100%" height="450" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/3733659&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
 
-{{< adsense-inarticle >}}
-
 There are also some pretty good Notorious B.I.G. mashup/remix singles that are worth adding to your music library.
 
 **Tupac - Runnin' (Dying To Live) Ft. Notorious B.I.G.**<br />

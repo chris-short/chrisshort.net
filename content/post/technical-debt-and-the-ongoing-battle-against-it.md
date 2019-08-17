@@ -29,8 +29,6 @@ I have also been working on a project to reconcile archival data across multiple
 
 The application is written in Java (no offense, I loathe Java's clunkiness and [assumptions](/take-ownership-plant-your-flag/)). Two Java developers brought me some processes to collect object identifiers, verify where the objects are stored, and then properly purge the objects and their references in the various databases. The problem I had to solve was scaling these processes. The solution that was hashed out amongst us was to use SQS to pass along work through the various processes, store the inputs and outputs in a separate S3 bucket, and run the processes as system services. Once we got everything fleshed out we would package the system as an AMI and spin up as many as we need to run through the archives at a spend rate that pleased the business.
 
-{{< adsense-inarticle >}}
-
 Gluing all the bits from the Java devs and the Amazon Web Services fell to me. I would not say this was as trivial as it sounds, there were a lot of bugs along the way. But to make a long story short, I leaned on good ole Bash and GNU tools as well as an AWS CLI tool coupled with systemd unit files to get the job done. The Bash process could have a few more features to make them perfect. The systemd unit files could be feature complete but it would probably take me another hour or two working on them to flesh out the features then they would need to be QA'd. systemctl stop, start, and status work and that's all that's needed.
 
 A lot of time could be spent making this whole solution feature complete but the value add is minimal. It is not my most complete work but it is striking the right balance between effectiveness and time spent.

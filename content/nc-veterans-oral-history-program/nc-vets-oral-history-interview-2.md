@@ -26,7 +26,7 @@ Your browser does not support the audio element but you can download it as an MP
 </audio>
 Also available as an [MP3 download](https://cdn.chrisshort.net/nc-veterans-oral-history-interview-2.mp3)
 
-{{< adsense-inarticle >}}
+{{< carbon >}}
 
 **MP:** So you get on base.
 
@@ -119,8 +119,6 @@ So, how does the best guy become – how does the brand new guy become the best 
 **CS:** Exactly, it's like, no, no, no, I'm going to work with these guys as much as I can. I will do what I have to do on this team, and then I will come to their team and do something else, so...
 
 **MP:** What year was this?
-
-{{< adsense-inarticle >}}
 
 **CS:** This was 2002. I showed up at JCSE, it was June of 2002, So... Yeah, Afghanistan was underway, we had some guys there at the time. We had some guys actually rotating back shortly after I got there. Became good friends with them. They had some serious stories.
 
@@ -216,8 +214,6 @@ So, yeah, but this whole thing was just this huge incident. They locked down the
 
 **CS:** We're suspicious of everybody.
 
-{{< adsense-inarticle >}}
-
 **MP:** In a post-Cold War era.
 
 **CS:** Yeah, I mean, by default we're suspicious of everybody, right? But when they're like, hey, we're willing to help, let's coordinate some activities, you can bring troops to our country, or fly supplies to our country – in Kyrgyzstan's case it was just like, fine, come on, let's get a trailer here for you. Get your flag out, let's go. But we're still super-suspicious. There was one time, there was some network that the US forces used with... They didn't call them Five Eyes back then, but it was the big World War allies – New Zealand, Australia, Great Britain, France, Canada. And there was a network that we used for those guys. And the...
@@ -261,8 +257,6 @@ So the... The flight over – like I've never been outside the country up until 
 **MP:** Well, before we go further I'll ask – from this time period you're seeing the war in Afghanistan, as it's called, you're seeing Iraq start. What are your thoughts about us being involved in this?
 
 **CS:** So, I looked at – in the beginning of Iraq I looked at it like... It was simple. The northern no-fly zone and southern no-fly zone literally did nothing but waste a lot of money, right? We didn't protect any of the Kurds that got gassed in the north; we didn't really protect anything other than the Saudi Arabian border in the South. So we were really flying a lot of aircraft, put in a lot of man hours, and people rotating in and out of Saudi Arabia, Qatar, Turkey, that whole general area, for not a lot of gain. So we're wasting billions of dollars annually on these northern and southern no-fly zones, a UN mission, not getting a lot of support from the UN on it, so... Yeah, let's go ahead and end them. But the only way to do that is to get rid of Saddam. So, I was cool with that.
-
-{{< adsense-inarticle >}}
 
 **MP:** How about Afghanistan?
 
@@ -381,8 +375,6 @@ So we come back, and then it's like, all right, it was just clock. We're just pu
 So, then, Bush gives the 72-hour ultimatum. And we're like, "Oh, yeah, things are going to get real nasty in 72 hours." And then we hear across the warehouse that we were set up in like all the radio units start screaming. They just start going nuts. And we're like... Oh, I guess 72 hours didn't count? No, we were preparing the battlefield. We were getting ready to go into eastern and western Iraq. Under these no-fly zones. So all these guys were starting to move around and do stuff. And we're like, okay, so like... It doesn't matter, we're still going in there, at the very least to keep the peace. We knew that, right.
 
 So when Saddam was like, no, we're not going anywhere, it was so awesome because you had this... I forget what it was called. It was a system, it was just basically a map, and it showed red dots and blue dots. Blue dots were good guys, red dots were bad guys. Right? And the war kicked off, I think, noon, or whatever, so I was asleep I was working the nightshift. But to get up to walk into our main command tent and just see the sea of blue just sweeping into Iraq, and all these red dots just vanishing left and right. Because we just had so much air power flying above. If anybody needed anything, if you wanted a 50-pound munition dropped on somebody's head, somebody would've brought it to you and done it for you in the Air Force. It was great.
-
-{{< adsense-inarticle >}}
 
 **MP:** Was it like the first Persian Gulf War where you had the Air Force clearing the way initially?
 
