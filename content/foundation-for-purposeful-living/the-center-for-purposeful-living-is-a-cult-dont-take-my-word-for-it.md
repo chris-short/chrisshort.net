@@ -49,8 +49,6 @@ The screening of Internet activities by those within the organization is somethi
 
 That's right in line with the power Derwyn Lackey possesses over his disciples. The fact that Quincy's father's fiancée didn't know how to pull out of Human Service Alliance (now known as the Center for Purposeful Living) is testament to the weak-willed, feeble minded people Derwyn Lackey and his cult prey upon. Those that are strong enough to get out are damned and referred to as evil amongst Derwyn's many "teaching" e-mails.
 
-{{< adsense-inarticle >}}
-
 The ability for these people to judge and condemn others is not "spiritual" or "soulful" in nature. This is not the work of people with a higher calling; this is the work of those who align themselves with evil.
 
 I'd like to thank Quincy and his father for sharing this story. I would also like to reiterate the fact that I'm willing to anonymously tell other's stories if they so wish for me to publish them.

@@ -39,8 +39,8 @@ When I was in my senior year of high school in North Carolina I worked for an In
 
 I for one can attest to the severe hurt the loss of the furniture and textile industry has had on that area of North Carolina. I graduated from Hickory High School mere minutes away from Lenoir, North Carolina where a Boyles furniture manufacturing facility now sits dormant right off of Highway 321. Not too long after the technology companies left the region, the archaic North Carolina furniture manufacturing industry started to tank. Companies were losing money year after year and their employee wages were still increasing and bonuses were still being handed out. Bad business practices affected the textile industry as well and many companies that were household names in North and South Carolina closed up shop as well.
 
-{{< adsense-inarticle >}}
-
 The news of Google setting up shop in the region is very good. A new, more stable technology boom is exactly what that region needs. A major blue chip tech leader will significantly help North Carolina highlight what the region has to offer as far as infrastructure and work force.
 
 To apply for a job with Google go to [Google Jobs](https://careers.google.com/jobs).
+
+{{< adsense-matched >}}

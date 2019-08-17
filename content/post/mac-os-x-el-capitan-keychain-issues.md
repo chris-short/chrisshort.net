@@ -28,8 +28,6 @@ I did some searching and found that deleting all the files from ~/Library/Keycha
 
 I got on the horn with AppleCare. Their resolution was essentially the same. But, they had me completely delete everything in ~/Library/Keychains as Apple Keychain apparently has a way to follow moved keychains (slightly creepy).
 
-{{< adsense-inarticle >}}
-
 After some reboots I'm not getting these annoying "re-sign in" messages. But, I did have to re-sign in to literally everything that was ever signed-in to by me on this Macbook Pro. ~~I should also point out that this seemed to fix issues I was having with the Junos Pulse client not being able to sign in to VPN accounts.~~
 
 **EDIT (10/5/2015 at 1340 ET)**: The resolution to my Junos Pulse issue was short lived. Upon trying to re-connect to a Junos Pulse VPN it literally forces the 'login' keychain to become unusable. Upon reboot everything seems to be working okay. More to follow... Hopefully.

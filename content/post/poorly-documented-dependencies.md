@@ -17,8 +17,6 @@ Few things irritate me more than poorly documented dependencies. If your tool or
 
 Consider this a running list of tools and their often not well documented dependency chains. Feel free to chime in with your examples in the comments.
 
-{{< adsense-inarticle >}}
-
 **Ansible**
 
 Ansible is one of my favorite tools has many installation options. I tend to need the latest features so I end up [using pip to install Ansible](http://docs.ansible.com/ansible/intro_installation.html#latest-releases-via-pip). On CentOS 7 and Red Hat 7 the Ansible dependency chain has been growing lately:
@@ -29,8 +27,6 @@ Once you install these dependencies you can run the following error free:
 
 `sudo easy_install pip && sudo pip install -U setuptools && sudo pip install ansible`
 
-{{< adsense-inarticle >}}
-
 **New Relic Node.js APM Agent**
 
 I have New Relic running in a few places but one annoyance I came across was the rather long dependency chain the [New Relic Node.js APM Agent](https://docs.newrelic.com/docs/agents/nodejs-agent/installation-configuration/install-maintain-nodejs) assuming you have npm and Node.js installed you need to npm install this rather lengthy chain of dependencies:
@@ -40,3 +36,5 @@ I have New Relic running in a few places but one annoyance I came across was the
 Once that is complete you should be able to successfully run:
 
 `sudo npm install newrelic`
+
+{{< carbon >}}

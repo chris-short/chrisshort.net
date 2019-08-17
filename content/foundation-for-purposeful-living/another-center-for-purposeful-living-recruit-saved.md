@@ -32,8 +32,6 @@ I assumed that she had read the [FACTNet](http://factnet.org/vbforum/forum/socia
 
 That's as strong as a statement I could make on the subject to a divorced mother. Plain and simple, my mother was divorced when she fully engaged in the Center of Purposeful Living and look what it did for her. The cult meant more to her than her family and for that I can't forgive any person, especially a relative; certainly a parent.
 
-{{< adsense-inarticle >}}
-
 I also find it interesting that this person is admittedly weak emotionally and spiritually at the moment and that the Center for Purposeful Living has decided to prey upon her; which is typical of any cult (preying upon the weak).
 
 Her response to my straight forward e-mail was very, very interesting:
@@ -44,6 +42,6 @@ She thanked me for my honesty and for reminding her that her number one responsi
 
 I'm not quite sure why my mother would tell a Center for Purposeful Living recruit about the FACTNet thread unless she wanted to be pushed out of the cult or if there is some other sinister realm of logic afoot (driven by the guru, Derwyn Lackey). But, referring people to their dissent isn't going to help them at all and allows myself and others to help those too weak to remove the wool from their eyes.
 
-{{< adsense-inarticle >}}
-
 Yet another person has been saved from certain doom by the Center of Purposeful Living simply because they did some research and a little communicating.
+
+{{< adsense-matched >}}

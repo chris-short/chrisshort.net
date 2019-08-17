@@ -26,11 +26,9 @@ E-mail is harder to manage than you would think. It requires a non-trivial amoun
 
 Five years or so ago, Macs were "cool", but today they are very normal to see in meetings, development teams, operations teams, and management. Windows desktops are dying (as is the greater PC industry). To sit there and be a Windows (or PC) only shop is both naive and restrictive to people and groups. I have not used a Windows based operating system in over five years. I am sure I could figure things out but why force me to do so? Mac vs. PC is not about preference; it is about allowing people to choose tools that work best for their workflows.
 
-{{< adsense-inarticle >}}
-
 There is one caveat, if a company is anti-Apple but allows you to install whatever operating system you want on a PC that is not as big a red flag. Also, if a company has a liberal BYOD policy (and you can bring your own Mac) then bring your own Mac to work and be done with it.
 
- ## Environment
+## Environment
 
 The actual work space is incredibly important too. Is it a huge cube farm on an open floor? Is it a high walled, segmented cube farm? Are there lots of offices and doors? Are there isolated break areas? Are there collaboration areas and meeting rooms easily available? This is about allowing for quiet work times and collaborative work times. The environment should allow you to socialize with co-workers during breaks for coffee without distracting people hard at work. The spaces should keep people who are concentrating "in the zone" and people who are meeting on point.
 
@@ -39,8 +37,6 @@ The actual work space is incredibly important too. Is it a huge cube farm on an 
 I have actually found the dress code to be incredibly important. Make sure you are comfortable in the attire you are expected to wear. If you feel best in a suit make sure you do not stick out like a sore thumb when you wear one. Inversely, make sure you are not dragged down to HR if you wear shorts and a t-shirt regularly.
 
 If there is free and ready access to coffee (or other forms of caffeine) that company gets an A+. Bringing your own coffee to work is great if you like it a certain way but not having to bother with it is truly a blessing (especially if you end up working a nineteen day).
-
-{{< adsense-inarticle >}}
 
 How does a company handle meetings? Do they allow them to interrupt the work day? Is there a general policy around when meetings should be scheduled? Does someone have a calendar that is routinely triple booked? These are all valid questions to ask because being in meetings where nothing gets done or decided is really annoying. The best company meeting policy I have ever experienced is one that allowed for meetings to only be scheduled on Mondays and Fridays. It was truly great to push meetings to specific days and then have three solid days of work almost guaranteed.
 

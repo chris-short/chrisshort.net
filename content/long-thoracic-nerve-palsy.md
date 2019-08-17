@@ -37,8 +37,6 @@ The **long thoracic nerve** (LTN) is a nerve that arises from the fifth, sixth, 
 
 There is not much that offers pain relief from the nerve damage itself.  The muscle in my shoulder and upper back tend to always be sore from everyday use due to the winging. But, muscle relaxers are incredibly important in keeping my pain under control. Eliminating muscle spasms leads to a better life experience overall and prevents nasty flare ups before they even start. It took ten years to realize this and hopefully others can learn from this.
 
-{{< adsense-inarticle >}}
-
 ### Muscle Spasms
 
 As of December 1, 2013 I am taking [Cyclobenzaprine](https://en.m.wikipedia.org/wiki/Cyclobenzaprine) (generic Flexirl) at night and [Methocarbamol](https://en.wikipedia.org/wiki/Methocarbamol) (generic Robaxin) during the day to make sure the spasticity is held at bay. At one point I was taking Baclofen, Cyclobenzaprine, and Methocarbamol during the course of the day. This combination apparently has some memory loss side effect. I was subsequently taken off the Baclofen and I could tell my short term memory was a little better.

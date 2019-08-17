@@ -76,8 +76,8 @@ curl -I https://URL/FILE | grep CF-Cache-Status
 
 If this is the first time an object has evert been accessed or after the Edge Cache TTL has expired you will see `CF-Cache-Status: MISS`. Run the command again and you should see `CF-Cache-Status: HIT`.
 
-{{< adsense-inarticle >}}
-
 Congrats! You are now running your low cost, high quality, branded CDN from Amazon S3 and CloudFlare. Bask in the greatness that is improved responsiveness and decreased bandwidth costs.
 
 [^n]: The cybersecurity professional in me would like to reiterate that by setting this S3 policy *every object you upload will be public by default*. If you want to set an object so that it is no longer public that is easily done on a file by file basis. However, you should manually upload the object so that the data is never exposed publicly.
+
+{{< adsense-matched >}}

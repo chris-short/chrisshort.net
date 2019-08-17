@@ -59,8 +59,6 @@ If you are running bare metal, a virtual machine host, or a Docker Engine somewh
 
 **NERD ALERT:** If you are not concerned with the inner workings of NTP (or more accurately ntpq) *please feel free to skip this section*.
 
-{{< adsense-inarticle >}}
-
 There are a lot of metrics that NTP utilizes algorithms to determine the quality of a time source; there is more to it than just stratum. A quick look at a system configured to use NTP will tell you a few metrics NTP uses to determine quality. The tool to query NTP metrics is ntpq:
 
 {{< highlight bash >}}
@@ -111,8 +109,6 @@ It is trivial to setup NTP these days thanks to the [NTP Pool Project](http://ww
 >The pool is being used by millions or tens of millions of systems around the world. It's the default "time server" for most of the major Linux distributions and many networked appliances (see information for vendors).
 
 If you are running a popular Linux distro or supported AWS AMI chances are when you install an NTP daemon (if it is not setup with one already) it will come pre-configured with NTP pool servers by default. This completely takes the guess work out of determining quality NTP servers.
-
-{{< adsense-inarticle >}}
 
 I run an NTP pool server from my house. If you are using the pool in the US there is a chance you could be using timing from ntp.chrisshort.net. The more servers in the pools the better off systems using the pool will be. But, do not take adding a server to the pool lightly. There are some security concerns and configuration best practices that need to be taken into account when running a public NTP server that are outside the scope of this article.
 

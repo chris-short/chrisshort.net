@@ -41,8 +41,8 @@ But, what does that mean for you the consumer? Chances are the 5G network provid
 
 Notice who is missing? Google, Apple, Facebook. These companies didn't get in on the bidding for spectrum a few years ago (nothing is preventing them from purchasing spectrum now). Why should this concern consumers? These are the same companies that are selling you buckets of data currently. 10 GB of data from these companies currently costs a pretty penny compared to the usually unlimited amount of data that can be consumed over terrestrial internet service providers currently.
 
-{{< adsense-inarticle >}}
-
 Could you imagine trying to manage your data buckets when everything in your home is connected to your wireless plan? I guarantee your smart TV and Nest camera are going to annihilate your wireless plan if AT&T, Verizon, Sprint, etc. are allowed to carry their current business models into the future.
 
 Laying fiber is expensive and often times legally cumbersome compared to broadcasting wirelessly. But, the perception seems to fly in the face of the reality in the sense that the market should pay more for wireless than landline internet service.
+
+{{< adsense-matched >}}

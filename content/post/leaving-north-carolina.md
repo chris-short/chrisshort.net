@@ -26,8 +26,8 @@ It took me a long time to come to grips with the idea of moving to Michigan. If 
 
 Julie and I both want Max to grow up with his family. I must have had dozens of different addresses growing up. I had a good but turbulent childhood that made me fierce and driven but it also made me callous at times. I felt like I didn't have time to care about people because once I made those connections they were usually severed. Being near Max's aunts and uncles, cousins, and grandparents will definitely be great for him. I hope he can grow up around his friends and build life long connections. I want for Max what I couldn't have.
 
-{{< adsense-inarticle >}}
-
 Another factor in the decision making is my [long thoracic nerve damage](/long-thoracic-nerve-palsy/). It has gotten progressively worse the past year. Lower humidity and a steadier barometer might do me some good. When the 2017 hurricane forecast came out it was a relief to know we wouldn't be here for the vast majority of it. I can feel tropical systems approaching and writhing in pain is not a good thing during a natural disaster. Shoveling snow is bad for me too but I can buy a snow thrower to fix that. I did have fantastic doctors from Duke available to me here in NC. But, I do look forward to seeing what the docs from "That School Up North" have in store for me.
 
 When I left North Carolina in 1999 to join the Air Force I never thought I would be living here again. As fortune would have it I've spent the past ten years living between Fayetteville and Raleigh. If you would have told me then that my future included Raleigh and Wake Forest I probably would have laughed you right out of the room. But, I have to say, despite all the turmoil of separating from the Air Force, changing jobs more frequently than I should have, and fighting the VA I am very glad to have lived here in the Triangle. I will miss the people and the community. I wish you all way more than luck.
+
+{{< adsense-matched >}}

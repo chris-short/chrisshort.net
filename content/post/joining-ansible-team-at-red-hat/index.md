@@ -46,8 +46,6 @@ I'd like to work to see what Ansible can bring to [CNCF](https://www.cncf.io/) p
 
 Most importantly, I want to facilitate more collaboration between all the projects under the Red Hat umbrella. Red Hat is an amazing company with brilliant people working there. I would love to help folks think globally and contributing towards Red Hat's common goals.
 
-{{< adsense-inarticle >}}
-
 ## Conclusion
 
 I would like to thank Karen Lawton and John Willis of [SJ Technologies](http://sjtechcorp.com). They brought me on board to help a few clients and I feel like I was able to accomplish that in six short months. Thank you to the DevOps community for embracing me in a way that few other communities have. I might not be as active on the DevOpsDays speaking circuit but, I'll definitely be around (and will still be submitting CFPs as appropriate). Most importantly, thank you to Justin Nemmers and all my new colleagues at Red Hat. I am looking forward to working with you all. I think this is a fantastic fit!
