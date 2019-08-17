@@ -31,25 +31,19 @@ While job hunting, writing, and everything else I did at the end of 2017 I start
 
 Time and time again I kept searching and coming back to the [**Raspberry Pi 3**](https://www.raspberrypi.org/products/raspberry-pi-3-model-b/) as a decent platform that fit my needs. It seems like Raspberry Pi Kubernetes clusters are popping up everywhere. The trend certainly has grown at the onset of 2018. Folks like [Alex Ellis](https://blog.alexellis.io/the-state-of-netbooting-raspberry-pi/) and [Scott Hanselman](https://www.hanselman.com/blog/HowToBuildAKubernetesClusterWithARMRaspberryPiThenRunNETCoreOnOpenFaas.aspx) are talking about Kubernetes running on Raspberry Pi clusters. It seems like the Raspberry Pi is a decent platform for Kubernetes.
 
-{{< adsense-inarticle >}}
-
 After having lunch one day in Ann Arbor with Ed Vielmetti of [Packet](https://www.packet.net/) and talking about [ARM](https://en.wikipedia.org/wiki/ARM_architecture) in the datacenter it made a lot of sense to go this route. ARM is the CPU of the future as chips will need to be more plentiful, more power efficient, and smaller. The Apple iPhone 8 I carry has six cores and amazing performance from ARM chips. Once Meltdown and Spectre hit my belief got a real-life wake-up call. Is Intel the chip of the future? No. ARM is (yes, I know ARM is susceptible to Spectre).
 
 * Six [Raspberry Pi 3 Model B Motherboards](https://amzn.to/2K6lfQ7)
 * Six [SanDisk Ultra 32GB microSDHC UHS-I Card with Adapter, Grey/Red, Standard Packaging (SDSQUNC-032G-GN6MA)](https://amzn.to/2DA6H7q)
 * Two [AmazonBasics USB 2.0 A-Male to Micro B Cable (3 Pack), 3 feet, Black](https://amzn.to/2BnRDZ4)
-* One [AmazonBasics 6-Port USB Wall Charger (60-Watt) - Black](https://smile.amazon.com/gp/product/B01L0KN8OS/)
+* One [AmazonBasics 6-Port USB Wall Charger (60-Watt) - Black](https://amzn.to/2z43dGP)
 * One [GeauxRobot Raspberry Pi 3 Model B 6-layer Dog Bone Stack Clear Case Box Enclosure also for Pi 2B B+ A+ B A](https://amzn.to/2DxXb4N)
 
 I also ordered [USB wifi adapters](https://amzn.to/2Bp0qdj) but that was a mistake given the performance of the Raspberry Pi 3 onboard wifi. It was time to assemble and test everything. While copying [Raspbian Lite](https://www.raspberrypi.org/downloads/raspbian/) to six microSD cards I began putting all the pieces together. The GeauxRobot case assembly is not intuitive. After a few reads of the instructions, I realized they looked a lot like a sandwich or lasagna recipe. The bottom and top layers were a little different but everything in the middle fit together nicely. Once the Raspberry Pis were racked and microSD cards were inserted I tested each one to make sure it would boot. Raspbian Lite booted without issue on all six boards. I did the bare minimum OS configuration on each system then I was ready to go. It was time to install Kubernetes.
 
-{{< adsense-inarticle >}}
-
 One thing I learned in the late 90s was that rebuilding Linux boxes was something you had to get good at. If you wanted to run on tiny hard disks cleaning out cruft from packages was a regular task. Sometimes it was faster to rebuild the box than remove all the cruft after a round of experiments. One thing I learned in the 2010s was that if you automated your configuration management and software deployment undoing things was as simple as a flag. There are a lot of moving pieces to building a Kubernetes cluster. I want the same consistency in my software that I had in my hardware. The Kubernetes cluster setup and management should be automated to within an inch of its life.
 
 If you know me, you know my automation tool of choice is **[Ansible](/tags/ansible/)**. The only time I want to manually SSH into these systems is to fix something very abnormal. There is [kubespray](https://kubespray.io/) but it doesn't address ARM. Kubespray is also overkill for what I'm trying to do. It's also a little heavy for the Raspberry Pi platform itself. I decided to set off and build my own Ansible automation.
-
-{{< adsense-inarticle >}}
 
 rak8s is born. [**rak8s**](https://rak8s.io/) (pronounced rackets) is an Ansible playbook to deploy Kubernetes to Raspberry Pis. The idea of rak8s is two-fold, automate and educate:
 
@@ -60,8 +54,6 @@ rak8s is born. [**rak8s**](https://rak8s.io/) (pronounced rackets) is an Ansible
 rak8s is a little rough around the edges but I intend to improve on it. It's open source on GitHub so feel free to submit your PRs. Step one (automate) is done, step two (educate) is still a work in progress (and likely always will be). Huge thanks to [Alex Ellis for his k8s on raspbian](https://gist.github.com/alexellis/fdbc90de7691a1b9edb545c17da2d975) guide as it served as a solid foundation for rak8s.
 
 My setup is far from perfect but it's great for under $400. It's hard to beat a Kuberenetes cluster that can fit in a shoebox and is stone silent too. Power distribution in my makeshift office is becoming an issue. I likely need another UPS. Power consumption by the cluster is also interesting. Having all the Raspberry Pis plugged into a single power brick creates a single point of failure. The draw on that power brick gets maxed out shortly after a kubectl apply sometimes too. Adding another power brick plugged into a different UPS should fix that.
-
-{{< adsense-inarticle >}}
 
 While I highly recommend Kubernetes on Raspberry Pi, there are some trade-offs to running Kubernetes on ARM systems. A lot of the Kubernetes tools that people know and love don't support ARM (yet). But, after talking with some folks at Weave and Heptio there is a desire to get their tooling on ARM architecture. As a member of the Kubernetes community, I can help push ARM adoption along. I offered my help and access to my cluster should anyone want to work towards the goal of getting their tools on ARM-powered Kubernetes clusters.
 

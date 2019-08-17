@@ -40,15 +40,11 @@ Much like getting a group of people to a certain place at a certain time require
 
 "The suck" is frequently used by Marines to describe the U.S. Marine Corps. But I have seen its context expand to a ton of situations. "The suck" is any miserable situation that someone has to get through to get to a better situation (hopefully). In DevOps, "the suck" is going to be building that tedious, repetitive pipeline. Another good example is doing the investigative work to figure out how legacy systems got to their current state (bonus points for no documentation and no one that could have built the system still being employed).
 
-{{< adsense-inarticle >}}
-
 Let's face it, DevOps isn't all rainbow, flowers, unicorns, and glory. There are going to be things that you will have to do in DevOps that you're not going to like. Embracing "the suck" reminds folks that there are better things ahead. Push through this now and move on to a better future.
 
 ## Cluster Fuck
 
 A cluster fuck (or fustercluck if you so desire) is described as a situation that is or has been mishandled beyond reason. The DevOps term most synonymous with cluster fuck might be dumpster fire (or the AWS status page). Think of a cluster fuck as a  series of decisions that have led to an enormous amount of technical debt. This technical debt will take an exponential amount of time to untangle compared to how long it took to put in place. This is a cluster fuck.
-
-{{< adsense-inarticle >}}
 
 Be mindful of how your quick hack has to be fed and cared for before rolling it out to production. Remember, the best time to address technical debt is before it's created. The second best time is immediately after it's implemented. Avoid creating cluster fucks when possible.
 

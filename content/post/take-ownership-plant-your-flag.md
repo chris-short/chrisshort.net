@@ -29,8 +29,8 @@ You must be mindful of your claims.  Do not beholden yourself to your claims so 
 
 Systems should be well documented, replicable, and immutable. Documentation should be written so that your junior person can follow along at 3 AM when all hell is breaking loose. Processes should be distilled down to the simplest, most intuitive level. If it is confusing to the person explaining it, it will most certainly fail. If you receive critical feedback, do not be defensive. Remain receptive and ask for help in improving it. If you plant your flag and build a fort around it prepare to have your fort burned to the ground. Someone will come along and find your weak point. Someone will come along and make your fort irrelevant. If there are forts in your environment, torch them.
 
-{{< adsense-inarticle >}}
-
 Take ownership; be decisive. PLEASE, take control of your systems, processes, and documentation. Seek out new knowledge and incrementally improve on the things you have ownership over. Holistically address changes in an effort to maintain consistency. Do not be afraid to dive headlong into something you know nothing about. Your thirst for knowledge should be unquenchable. The fire within you should burn ever brighter. Make it yours. Take pride in accomplishing your work.
 
 Plant your flag!
+
+{{< adsense-matched >}}

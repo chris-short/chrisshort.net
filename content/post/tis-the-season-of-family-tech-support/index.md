@@ -36,8 +36,6 @@ Being in outside of Detroit we have to deal with one of two monopolies: AT&T and
 
 Since both homes are going with Comcast it made fiscal sense to buy a modem outright as opposed to paying a perpetual rental fee to Comcast. We have had two Arris modems now and have had no issues with them. I went to the [XFINITY My New Modem](http://mynewmodem.xfinity.com/) site to find a recommended modem.
 
-{{< adsense-inarticle >}}
-
 I saw an [Arris SURFboard SB6190](https://amzn.to/2DOhzzt) is compatible. The price on Amazon was better than Target and both homes wanted it this week. Target will happily price match Amazon and give Red Card customers 5% off on top of that. Chances are your local big box store carries a few modems for use with your local providers. They'll probably all price match each other too. Shop smartly.
 
 ## Router and WiFi Access Points
@@ -45,8 +43,6 @@ I saw an [Arris SURFboard SB6190](https://amzn.to/2DOhzzt) is compatible. The pr
 I'm a glutton for mesh networks. Give me reliable, deadzone-free wifi or give me death. I have four access points in a mesh in our home. I have one dedicated to my office, two on our main floor, and one in the back of the house on the top floor. The last thing I want to hear a complaint about is internet availability. That means everyone in the home is affected in some way or another.
 
 But, here's where the plan for each home differs. One house (House A) will have two Apple TVs and a few Apple devices and laptops and that's it. The other house (House B) will have an Apple TV, many Chromecasts, many Sonos, and the normal smattering of devices spread across three floors. House B is also a frequent meeting place for family gatherings.
-
-{{< adsense-inarticle >}}
 
 Regardless both homes were going to follow my recommendation here but I didn't want to be wasteful nor penny-wise, pound-foolish. House A is going with one Google WiFi that will act as a router and single access point. If they need another, they can get one more and be covered.
 
@@ -72,10 +68,10 @@ Your specific problems might not be solvable by your buddy in tech. They aren't 
 
 If you're at a party or a get together of some sort, remember this is your buddy in tech's time off. A lot of us don't want to answer questions in the same realm of what we do everyday. Most of us get paid to do what you're asking us to do for free to. Keep that in mind.
 
-{{< adsense-inarticle >}}
-
 Be thankful. Regardless of the outcome, be thankful. If your buddy in tech isn't able to fix it, thank them for trying. If your buddy in tech does end up solving your problem, well, they say giving is better than receiving. Hook them up!
 
 ### Don't Be a Dick
 
 If your tech buddy takes time to give you advice and explains their reasoning, question them considerately. Try not to save five bucks here and ten bucks there. Don't take a considerable amount of time asking them for advice just to throw it all away and do your own thing. If you do end up doing that. Don't be the asshole that asks that same buddy in tech to help fix it either. That REALLY says more about you than them.
+
+{{< adsense-matched >}}

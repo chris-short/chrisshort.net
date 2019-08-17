@@ -32,8 +32,8 @@ Gina Elise has a member of the Greatest Generation in her family. Her grandfathe
 
 When I asked how many calendars Gina had sold through Pin Ups for Vets I was a little stunned when she told me, "About 270." When I asked why so few, Gina told me, "I think its just a matter of people not knowing. No national publications that I've written to have covered it." I find that surprising but given the fact that the main stream media likes to focus on the negative things in life it's not surprising that, "the LA Times, NY Times, New Yorker, Oprah, Letterman, and Leno," haven't responded to her calls for help. It's amazing that so many people have thanked Gina Elise, "you should see the hundreds of thank you notes I've received from ALL over the world," but no one wants to help her help the troops.
 
-{{< adsense-inarticle >}}
-
 I shouldn't say no one supports Gina Elise's Pin Ups for Vets though, "If it weren't for bloggers and the blog readers the project would not have been as successful. This is where I received the majority of support and sales. I want to thank all of them."
 
 I've already [ordered](http://pinupsforvets.mybigcommerce.com/) my [Pin Ups for Vets](http://www.pinupsforvets.com/) calendar and you should definitely buy one for yourself and send a few overseas. I'm positive no one will be disappointed.
+
+{{< adsense-matched >}}

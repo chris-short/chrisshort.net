@@ -26,7 +26,7 @@ Your browser does not support the audio element but you can download it as an MP
 </audio>
 Also available as an [MP3 download](https://cdn.chrisshort.net/nc-veterans-oral-history-interview-3.mp3)
 
-{{< adsense-inarticle >}}
+{{< carbon >}}
 
 **CS:** So... Yeah, we're... You know, we go through this whole war effort and they get to the point where it's like, all right, the major combat operations are over, we're still there, you know, at some point in time we're talking about sustaining the mission. And that's not what our unit was designed to do. Our unit was designed to come in, set up stuff, pull out. We knew this was an unusual circumstance and this was going to be a little longer than normal, but we still needed to go back and become the national command authority asset that we were. So, there was a lot of talk of, well, you have to hit these certain benchmarks, and we have to do this, we have to do that, we have to bring people in – hire people, like contractors, to come do this job. So that obviously takes time.
 
@@ -96,8 +96,6 @@ But, one of the things at the Fusion Center I had mentioned earlier, there are a
 
 And we're like... 500 pound bomb. What kind of hole would that make? They're like, battle damage assessment showed this. And for the thing that just happened- it was really cool. Who made this? Like, oh, this company. I can't remember who. Oh, yeah, their stuff's crap, no, no, there's no way it's going to work. You know, it's like there's no way this thing is going to survive this, even if it was buried 27 feet down.
 
-{{< adsense-inarticle >}}
-
 **MP:** So they brought you comm guys in to figure out how defeat the comms.
 
 **CS:** To figure out like...you know, what kind of damage would happen from blasts, from shaking, you know, like what kind of stuff would happen if we put off a hand grenade next to your... If we threw a bomb in your comm room, what would happen? We're like, well, this is what's going to happen. You'd lose this, you'd lose this, all this stuff might still work – you know. And we just kind of rattled through it for them, they're like, okay, so now apply that to this based off what you know.
@@ -125,8 +123,6 @@ It's so hot in Qatar, my shoes – it's so hot, my shoes, you know, I'm like wea
 **CS:** I'm wearing sneakers, and it's so hot in Qatar that at night time I'm walking up to the tarmac, or the terminal at the airport, and my shoes are sticking to the asphalt. It is that hot there. I'm just like, this is insane. So I get in the airport, and I'm flying by myself. This is it, it's just me. So I'm trying to lay real low. Six-four white dude from North Carolina does not lay low in the Middle East. At all. Right? So, I'm just trying to hang out and chill, not trying to make eye contact with anybody, get on my plane. It lands in Saudi Arabia, which I didn't see coming, so that was kind of weird, but it was like, whoa, we're not on great speaking terms with the Saudis right now. I tell the flight attendant, I was like, "I'm not getting off this plane." She's like, "You don't have to, don't worry." They were just picking up people. So I was like, okay, good.
 
 **MP:** Wow.
-
-{{< adsense-inarticle >}}
 
 **CS:** I'm not supposed to be here. I didn't have orders, I just had my passport and a plane ticket. That was it. And it was a military...
 
@@ -256,8 +252,6 @@ So we're going out, and we go through this one town, and it's just ravaged. Rava
 
 **MP:** Interesting.
 
-{{< adsense-inarticle >}}
-
 **CS:** Yeah. So during the previously mentioned hurricane exercise, we used to get there – and the way we operated was we show up, we set up, we don't sleep until everything's up and running. And then we start sleeping. So when we went to Qatar I was up for 72 hours straight, once we got all our gear in place. No big deal. So here it was like 12 hours of work, four hours in the air conditioned tent setting up everything, and then hit the hay and take a nap. And then get up and work the next day. I wake up the next morning, can't move my arm. It's like, what's going on. I needed help getting out of my cot. And it turns out during that incident, or during that setup exercise I had damaged a nerve, the long thoracic nerve in my right shoulder, so my scapula was sticking out a little bit further from my back.
 
 **MP:** It was pinching the nerve?
@@ -351,8 +345,6 @@ So I had so much leave saved up, it was like September you found out, here's you
 I remember I get the phone call from the Medical Group saying, "Hey, Mr. Short, we have a ruling on your medical separation case. Come by now." This is like two o'clock in the afternoon, on Pope, and it was right around the corner, so I just was like, "Hey, guys, I'm going to the Med Group. I'll be back." I walk over there, and she prints out the paper, hands it to me, and it's like your separation is imminent, dah, dah, dah, and you need to get ready to separate, dah, dah, dah, you'll be done – we're working on your orders right now. You can appeal or you can not appeal.
 
 And at that point, I knew I'm not going to appeal this. And I remember walking back, and I was like... What am I going to do? You know, I mean, how... How am I going to...? Where am I going to live, right? I have no income. When you think about all these things that immediately go away on this date, you have to be set up by that point. And it's, what, September/October at that point, and you're sitting there thinking, "I got to find a job." That's my new job, is to find a job.
-
-{{< adsense-inarticle >}}
 
 **MP:** It's your new mission, really.
 

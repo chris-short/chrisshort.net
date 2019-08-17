@@ -25,16 +25,14 @@ Keep in mind, content blockers block ad networks. Ad networks have been a target
 
 Saving money, privacy concerns, and stopping malware are all fantastic reasons to run ad and content blockers. I encourage all Mac and Windows users to run ad and content blockers. [Linux desktop users](https://blog.jessfraz.com/) should know what they are getting themselves into. But, for a few reasons, I am disabling ad and content blockers on my iPhone and iPad.
 
-{{< adsense-inarticle >}}
-
 My use case is unique and you should understand that before continuing. I consume most of my online content through one of many sources. Hacker News, [Lobsters](https://lobste.rs/), Twitter, LinkedIn, and my RSS aggregator are all sources I check throughout the day. Most of my reading occurs after my son goes to bed. My lovely wife will watch her [Bravo shows](http://www.bravotv.com/shows) (I watch them too but, I'm mainly reading). This means I am on very fast wifi and have solid DNS servers configured to prevent malware and bad actors. Additionally, I am consuming content from sources whose revenue model is advertising. Even if I am reading on my iPhone walking across my office I am on decent wifi. The cost of data or speed of delivery is not a concern during most of my content consumption.
 
 My security concerns on my iPhone and iPad are less compared to my Mac. The sandboxes that apps and browsers live in provide enough security for me to feel comfortable without a content blocker. I can browse the content I am interested relative safety. The privacy concerns raised by cookies and other trackers still exist. In my case, this is an acceptable level of risk to read content for free. If the major content creators would package their subscriptions into an aggregated feed I would pay for them. That model does not exist yet and it is unlikely to contain the type of content I would want to read if it did.
 
 Another reason for stopping the use of ad blockers is that to do so, to some extent, is hypocritical. I use third parties to deliver ads, collect metrics for analytics, and to enable commenting on my own site. I am very cognizant of what I push out to users. But, why should I expect people to see ads on my site if I am unwilling to see ads on theirs? Most content providers will not be as judicious as I am about what third party code they are delivering to their users. Hypocrisy is a strong motivator to change my thinking.
 
-{{< adsense-inarticle >}}
-
 Given the rise of click bait and junk news, it is now more important than ever for good news sources to deliver good content. Most of the time, the only way sites can afford to produce quality content is to deliver it along with an ad network. Hopefully, the rise in utilization of content blockers will send a message to content providers. Content providers should ease up on the number of services their sites are foisting on users. I do not have the time to build and maintain a whitelist of good content sources to input into a content blocker. In an attempt to support the good content providers I will go without content blockers altogether on my iPhone and iPad.
 
 Image courtesy [Joe The Goat Farmer](https://www.flickr.com/photos/132604339@N03/25381872413/)
+
+{{< adsense-matched >}}

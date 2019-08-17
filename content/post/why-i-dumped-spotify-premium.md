@@ -25,8 +25,6 @@ It all started to unravel when I went on my honeymoon. Bouncing around from plan
 
 Another issue I've noticed with Spotify (and I would assume any streaming music service) is that whenever an artist or label doesn't want their music to be streamed anymore then you'll never have access to it again. Sure, Spotify had a feature to upload and sync your own music but it was clunky at best and didn't necessarily work how it should. Besides, my idea of the perfect streaming music service was to be all streaming; to no longer actually own the music I was listening to and to no longer have to waste storage space on digital music files (and organizing that library).
 
-{{< adsense-inarticle >}}
-
 After getting married you look at expenses, especially entertainment dollars. I was surprised how quickly my budget for entertainment dropped when I removed the $120 a year that Spotify Premium was costing me (it was either Spotify or Sirius that had to go). The cost of being able to stream on a mobile device essentially was the main catalyst behind me dropping Spotify.
 
 The other Spotify killer was [iTunes Match](http://www.apple.com/itunes/itunes-match/); $25 a year and I could create my own 25,000 song streaming music library that would stream to any device that could run Apple software. Plus, as a bonus, it completely legitimized my music library (not that I had an illegitimate library but, to be honest, I couldn't tell you where any of the CDs I once owned are any more). Sure, iTunes Match is by no means a perfect streaming music or cloud based storage service but when you compare the cost and features of it to Spotify then you have a real competitor.

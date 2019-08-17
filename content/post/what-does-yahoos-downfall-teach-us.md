@@ -33,8 +33,6 @@ A CEO has fiduciary responsibilities but, CEOs *must* build a great team under t
 
 In my opinion, the best talent Yahoo [acquihired](https://en.m.wikipedia.org/wiki/Acqui-hiring) was David Karp the CEO of Tumblr. He created an amazing product from virtually nothing that was drawing in a lot of traffic. At the time of the acquisition by Yahoo, Tumblr was the backend that powered chrisshort.net. I put my money where my mouth was too (even at the $1.1 billion value of Tumblr); I bought Yahoo stock the day the acquisition was announced. I thought the Yahoo Board of Directors would put David Karp on a prominent position and let him innovate. Giving David Karp a lot of leeway over the products, features, and development at Yahoo would have been a great idea. But, that never happened and the value of Tumblr was written down a total of [$712 million over two earnings periods](http://2paragraphs.com/2016/07/yahoo-says-tumblr-worth-way-less-than-1-billion-again/).
 
-{{< adsense-inarticle >}}
-
 Yahoo could not keep or manage good talent in the highly competitive Silicon Valley market. Yahoo was unable to build a great team to bring it out of its funk. The Marissa Meyer detractors are sitting there saying, "I told you so."
 
 ## Do Your Damn Homework

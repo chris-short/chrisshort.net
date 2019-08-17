@@ -29,8 +29,6 @@ Kubernetes has the concept of *Jobs*. To quote the official [Jobs documentation]
 
 The implementation of Kubernetes *Cron Jobs* is like many other things with Kubernetes: YAML. There are a few projects to help with wrangling your YAML ([ksonnet](https://ksonnet.io/) for example) but, that is a discussion for another article. For now, let's get a Dockerfile and Kubernetes configuration file put together.
 
-{{< adsense-inarticle >}}
-
 ## Use Case
 
 I moved my newsletter, [DevOps'ish](https://devopsish.com/), off of Medium and on to [Netlify](https://www.netlify.com/) with [Hugo](http://gohugo.io/) as a static site generator. This makes for a very fast and easy to manage website. But, the one piece of functionality lost in the move is the ability to schedule posts. Netlify provides a build hook that will trigger builds when called. I can write the newsletter and set it to a date in the future. Hugo, by default, will not publish articles unless a build is completed after the specified date. Calling the build hook URL via `curl` with a cron job is a way to implement scheduled posts with Hugo on Netlify.
@@ -53,8 +51,6 @@ ENTRYPOINT [ "/bin/sh", "-c" ]
 
 CMD [ "/usr/bin/curl -vvv -X POST -d '' ${URL}" ]
 {{< /highlight >}}
-
-{{< adsense-matched >}}
 
 ### Docker Build
 
@@ -108,8 +104,6 @@ Once the base64 string is added to the file, apply it:
 kubectl apply -f secret.yml
 {{< /highlight >}}
 
-{{< adsense-inarticle >}}
-
 ## Cron Job Configuration
 
 Piecing together the [Kubernetes Cron Job](https://kubernetes.io/docs/concepts/workloads/controllers/cron-jobs) configuration file is relatively easy. Schedule is a required field, and if you're familiar with cron, it will look identical to the Cron format string.
@@ -154,8 +148,6 @@ Apply the configuration file and you're off to the races:
 {{< highlight bash >}}
 kubectl apply -f devopsish-netlify-cronjob.yml
 {{< /highlight >}}
-
-{{< adsense-inarticle >}}
 
 ## Conclusion
 

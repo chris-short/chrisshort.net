@@ -31,8 +31,6 @@ To learn how the internals of Kubernetes works I would recommend [Kelsey Hightow
 
 If you want to get started with deploying containerized apps to Kubernetes then [minikube](https://kubernetes.io/docs/getting-started-guides/minikube/) is the way to go. minikube is a tool that helps you deploy Kubernetes locally. You have to be able to run a hypervisor on your host but most modern devices can. Each OS is different with regards to setting up everything for minikube. But, you can run minikube on Linux, macOS, or Windows so sky's is the limit. Deploying Docker (or rkt) containers to minikube is easy. It's the things that make your container more resilient in a Kubernetes cluster.
 
-{{< adsense-inarticle >}}
-
 After kicking the tires on minikube if you feel like it is missing a few components then I would recommend [minishift](https://github.com/MiniShift/minishift) or CoreOS Tectonic. minishift is the minikube of Red Hat OpenShift. OpenShift has a fantastic UI and many features that make Kubernetes a little better. [CoreOS Tectonic](https://coreos.com/tectonic/) is a more opinionated Enterprise-ready Kubernetes. Luckily, CoreOS Tectonic has a free sandbox version. The nice thing about CoreOS Tectonic is the networking and monitoring that come baked into this iteration of Kubernetes. CoreOS has been very thoughtful about the decisions made in Tectonic and it shows.
 
 ## Conclusion
