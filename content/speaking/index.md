@@ -39,7 +39,7 @@ I also participated in the [Ansible Q&A Panel](https://www.brighttalk.com/webina
 ## All Day DevOps 2018: DevOps is Not War
 
 Date: 2018-10-17  
-Event: [All Day DevOps 2018](https://www.alldaydevops.com/addo-speakers/chris-short)  
+Event: [All Day DevOps 2018](https://alldaydevops2018.sched.com/event/GEhz/devops-is-not-war)  
 Slides: [All Day DevOps — DevOps is Not a War](https://speakerdeck.com/chrisshort/all-day-devops-devops-is-not-a-war)  
 Video: [All Day DevOps 2018 — DevOps is Not a War](http://play.sonatype.com/watch/PbTS2zEEfXF7M8dbNrXEQN?)
 
@@ -114,7 +114,7 @@ Video: [Golang to the rescue: Saving DevOps from TLS turmoil](https://youtu.be/-
 ## Open Source 101 Raleigh - Avoiding the DevOps pit of misery: Tips from the trenches
 
 Date: 2018-02-17  
-Event: [Open Source 101 Raleigh](http://opensource101.com/raleigh/talks/avoiding-devops-pit-misery-tips-trenches/)  
+Event: [Open Source 101 Raleigh](https://opensource101.com/)  
 Blog Post: [Open Source 101 Raleigh 2018](/open-source-101-raleigh-2018/)  
 Video: [Avoiding the #DevOps pit of misery: Tips from the trenches with Jason Hibbets and Chris Short #opensource101](https://www.facebook.com/jhibbets/videos/10215153138403454/)
 

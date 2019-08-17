@@ -10,7 +10,8 @@ title = "The Cult that is Human Service Alliance and the Center for Purposeful L
 aliases = [
     "the-cult-that-is-human-service-alliance-and-the-center-for-purposeful-living-2", 
     "/post/65745344/the-cult-that-is-human-service-alliance-and-the-center",
-    "/the-cult-that-is-human-service-alliance-and-the-center-for-purposeful-living-2"
+    "/the-cult-that-is-human-service-alliance-and-the-center-for-purposeful-living-2",
+    "/center-for-purposeful-living/the-cult-that-is-human-service-alliance-and-the-center-for-purposeful-living/"
 ]    
 +++
 
