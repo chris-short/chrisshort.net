@@ -60,7 +60,7 @@ You can download [Gratefully D.E.A.D. - Notorious B.I.G. vs Grateful Dead](https
 There are also some pretty good Notorious B.I.G. mashup/remix singles that are worth adding to your music library.
 
 **Tupac - Runnin' (Dying To Live) Ft. Notorious B.I.G.**<br />
-[YouTube](https://www.youtube.com/watch?v=IsHBnS3ZLSY) [iTunes](https://itun.es/us/PZQX6?i=986099078)
+[YouTube](https://www.youtube.com/watch?v=IsHBnS3ZLSY)
 
 **Victory (Nine Inch Nails Remix) - Puff Daddy and the Family, The Notorious B.I.G., and Busta Rhymes**<br />
 [YouTube](https://www.youtube.com/watch?v=EoAXc9Rm8Z8)

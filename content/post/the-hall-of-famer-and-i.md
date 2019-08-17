@@ -25,7 +25,7 @@ Mr. Childress had a grin on his face that said it all.  You could tell he was ve
 
 ![Chris Short and Richard Childress](https://cdn.chrisshort.net/chris-short-richard-childress-01.jpg)
 
-The NASCAR Hall of Fame [announced its 2017 inductees](http://www.nascar.com/en_us/news-media/articles/2016/5/25/nascar-announces-2017-hall-of-fame-class.html) this week. While I am sure some people will argue the timing of Mr. Childress's induction against the other eligible people, there is no doubt in my mind that it is very well deserved. Mr. Childress has done amazing things in NASCAR and for our nation's servicemen and women.
+The NASCAR Hall of Fame [announced its 2017 inductees](https://www.nascar.com/news-media/2016/02/24/nascar-reveals-nominees-for-2017-hall-of-fame-class/) this week. While I am sure some people will argue the timing of Mr. Childress's induction against the other eligible people, there is no doubt in my mind that it is very well deserved. Mr. Childress has done amazing things in NASCAR and for our nation's servicemen and women.
 
 It turns out that later in 2010 I found out I was going to be medically separated from the US Air Force. The trip to Richard Childress Racing is one of the coolest things I ever had the opportunity to do during my time at Pope Air Force Base. I often think back on that day.
 
