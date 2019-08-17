@@ -14,9 +14,7 @@ aliases = [
 
 I've told you about the cult known as the Center for Purposeful Living, another person has shared their experiences with the [Center for Purposeful Living](/center-for-purposeful-living/the-cult-that-is-human-service-alliance-and-the-center-for-purposeful-living/), and now another individual has come out denouncing the [Center for Purposeful Living](/center-for-purposeful-living/the-cult-that-is-human-service-alliance-and-the-center-for-purposeful-living/) which is also known as Human Service Alliance.
 
-
-
-The following was originally posted on [the FACTNet thread dedicated to Human Service Alliance and the Center for Purposeful Living](http://factnet.org/vbforum/forum/social-cultural-or-special-purpose-organizations/11887-human-service-allianceuniversity-for-human-goodness) by someone referring to themselves as marcusrevelus and is being republished here because it is so incredibly powerful and remarkably true:
+The following was originally posted on the FACTNet thread dedicated to Human Service Alliance and the Center for Purposeful Living by someone referring to themselves as marcusrevelus and is being republished here because it is so incredibly powerful and remarkably true:
 
     CPL differs from a cult in at least five significant ways:
     

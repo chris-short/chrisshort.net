@@ -20,7 +20,7 @@ However, for whatever reason Joanna White, my estranged biological mother, from 
 
 {{< adsense-inarticle >}}
 
-I assumed that she had read the [FACTNet](http://factnet.org/vbforum/forum/social-cultural-or-special-purpose-organizations/11887-human-service-allianceuniversity-for-human-goodness) thread and the posts here before contacting me so I wrote her this reply:
+I assumed that she had read the FACTNet thread and the posts here before contacting me so I wrote her this reply:
 
     
 
