@@ -43,7 +43,7 @@ The differences are relatively subtle between BSD sed and GNU sed. However, most
 
 It does not appear obvious to me that any internal OS X processes depend on BSD sed. I have done this for years without any noticeable issues. However, I have to point out that you are changing system internals and the chances of some going haywire are present.
 
-{{< adsense-inarticle >}}
+{{< carbon >}}
 
 The one annoyance I need to note when fully replacing the BSD sed version by following these steps (see footnotes if you do not want to do that) is that after every OS update (10.11.4 to 10.11.5, etc.) you will have to run through all these steps again.
 

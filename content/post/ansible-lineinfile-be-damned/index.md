@@ -23,7 +23,7 @@ Most people on IRC (#ansible) tend to agree, lineinfile is not a very good modul
 
 If you are not using the [Mozilla SSL Configuration Generator](https://mozilla.github.io/server-side-tls/ssl-config-generator/) you are really missing out. It is a great tool that is super easy to use to maintain [recommended SSL/TLS configurations](https://wiki.mozilla.org/Security/Server_Side_TLS#Recommended_configurations) on all your HTTP endpoints.
 
-{{< adsense-inarticle >}}
+{{< carbon >}}
 
 We recently had a task to get our TLS configurations up to the latest recommended guidance as well as make those configurations as consistent as possible. But this meant we had to touch over 900 different customer impacting Apache configurations.
 

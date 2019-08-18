@@ -13,7 +13,7 @@ title = "Permanently Remove Any Record of a File From git"
 
 A co-worker and I needed to remove all instances of a binary blob from one of our git repos a while back. This was a lot harder than I thought it should have been, in my opinion. However, distributed version control is not really designed to easily allow folks to delete every instance of a file. But, if you ever run into a case where you do need to expunge a file in git here is how we did it.
 
-{{< adsense-inarticle >}}
+{{< carbon >}}
 
 ## Get a new clone of the repo (in scratch/temp space)
 
