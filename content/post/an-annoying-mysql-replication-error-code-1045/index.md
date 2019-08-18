@@ -18,7 +18,7 @@ Last_IO_Errno: 1045
 Last_IO_Error: error connecting to master 'repl@blah.local:3306' - retry-time: 60 retries: 86400
 {{< / highlight >}}
 
-{{< adsense-inarticle >}}
+{{< carbon >}}
 
 Let me look up [MySQL error code 1045](https://dev.mysql.com/doc/refman/5.6/en/error-messages-server.html#error_er_access_denied_error):
 
@@ -32,5 +32,3 @@ That's not helpful. After some additional testing I realized the password might 
 {{< mc >}}
 
 It's annoying that this limit exists and the error 1045 message isn't clearer about it. Hopefully you found this very early on in your search for an answer.
-
-{{< adsense-matched >}}

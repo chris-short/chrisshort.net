@@ -17,7 +17,7 @@ One of the things I like best about Google Calendar is its extensibility. You ca
 
 One feature Apple still has not integrated into the Calendar.app is weather forecasts. This one feature is very helpful when checking your calendar before buying tickets to a baseball game, for example. One stop shopping for schedule checking and weather forecasting is surprisingly handy.
 
-{{< adsense-inarticle >}}
+{{< carbon >}}
 
 Recently, I discovered [Weather Underground](https://www.wunderground.com/) provides ICS files for use in any calendar application you can think of (Google Calendar, Microsoft Outlook, and Apple's Calendar.app). These ICS URLs do not appear to be documented by Weather Underground specifically but here are some examples to get you started:
 
