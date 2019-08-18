@@ -19,7 +19,7 @@ One of the reasons I stood up a [Kubernetes cluster on Raspberry Pis](/my-raspbe
 
 I have four old Raspberry Pi boxes doing various things here in the office for me. They do a single task fine, but I have over-extended one of the first-generation Raspberry Pis. I'd like to deprecate the older Raspberry Pis as they are no longer effective boxes. To do that, I need to move the workloads (like a cloud migration). One thing I have no shortage of running on these Raspberry Pi boxes are cron jobs. I have a cron for almost everything I do. Monitoring, updating web apps, detecting changes in domain name configurations, etc.
 
-{{< adsense-inarticle >}}
+{{< carbon >}}
 
 ## k8s Jobs and Cron Jobs
 
