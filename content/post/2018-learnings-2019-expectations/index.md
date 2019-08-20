@@ -103,7 +103,7 @@ I tried to set the record straight early on but was asked to delete this tweet (
 
 Later, Kim tagged me in a reply to a tweet from [Swarna Podila](https://twitter.com/skpodila/)...
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">I’ll be there too!!! Thinking of holding ‘office hours’ &lt;wink wink&gt; at the Sheraton Sunday night in the lobby bar. I think the amazing <a href="https://twitter.com/ChrisShort?ref_src=twsrc%5Etfw">@ChrisShort</a> will join. Swarna, when do you arrive?</p>&mdash; Kim McMahon - Winter Park ☀️⛰️🌲🐕🍷 (@kamcmahon) <a href="https://twitter.com/kamcmahon/status/1070707964011368448?ref_src=twsrc%5Etfw">December 6, 2018</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">I'll be there too!!! Thinking of holding ‘office hours' &lt;wink wink&gt; at the Sheraton Sunday night in the lobby bar. I think the amazing <a href="https://twitter.com/ChrisShort?ref_src=twsrc%5Etfw">@ChrisShort</a> will join. Swarna, when do you arrive?</p>&mdash; Kim McMahon - Winter Park ☀️⛰️🌲🐕🍷 (@kamcmahon) <a href="https://twitter.com/kamcmahon/status/1070707964011368448?ref_src=twsrc%5Etfw">December 6, 2018</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 I added my tweet tagging a few people to let them know what was going on...
 
