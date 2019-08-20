@@ -1,13 +1,24 @@
 +++
 author = "Chris Short"
 date = 2016-05-21T22:41:00Z
-description = "Interviews Chris Short has given, conducted, or been a part of"
+description = "Interviews Chris Short has given, conducted, or participated in"
 draft = false
 tags = ["interviews", "podcast", "webinar"]
 title = "Interviews"
 +++
 
 If you'd like to discuss having me [speak](/speaking/) at your conference, Meetup, office, party, dinner, luncheon, podcast, etc. please use the [CNCF speaker contact form](https://www.cncf.io/speaker/chrisshort/). Thanks!
+
+## Command Line Heroes — The Infrastructure Effect: COBOL and Go
+
+> Languages used for IT infrastructure don't have expiration dates. COBOL's been around for 60 years—and isn't going anywhere anytime soon. We maintain billions of lines of classic code for mainframes. But we're also building new infrastructures for the cloud in languages like Go.
+>
+> COBOL was a giant leap for computers to make industries more efficient. Chris Short describes how learning COBOL was seen as a safe long-term bet. Sixty years later, there are billions of lines of COBOL code that can't easily be replaced—and few specialists who know the language. Ritika Trikha explains that something must change: Either more people must learn COBOL, or the industries that rely on it have to update their codebase. Both choices are difficult. But the future isn't being written in COBOL. Today's IT infrastructure is built in the cloud—and a lot of it is written in Go. Carmen Hernández Andoh shares how Go's designers wanted a language more suited for the cloud. And Kelsey Hightower points out that languages are typically hyper-focused for one task. But they're increasingly open and flexible.
+
+Date: 2019-08-20  
+Source: [Command Line Heroes Season 3: The Infrastructure Effect](https://www.redhat.com/en/command-line-heroes/season-3/the-infrastructure-effect)  
+Download: [MP3](https://cdn.chrisshort.net/Command_Line_Heroes_S3_EP5_The_Infrastructure_Effect.mp3)  
+Transcript: [PDF](https://cdn.chrisshort.net/Command_Line_Heroes_Season_3_The_Infrastructure_Effect.pdf)
 
 ## CloudSkills.fm 030: Cloud Native Ops with Ansible and Kubernetes
 
