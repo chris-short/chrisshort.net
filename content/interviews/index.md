@@ -9,6 +9,13 @@ title = "Interviews"
 
 If you'd like to discuss having me [speak](/speaking/) at your conference, Meetup, office, party, dinner, luncheon, podcast, etc. please use the [CNCF speaker contact form](https://www.cncf.io/speaker/chrisshort/). Thanks!
 
+## How to explain DevOps in plain English
+
+> Having trouble boiling DevOps and all it encompasses down to a sound bite? Here are a few simple definitions and analogies that will help explain DevOps, even to non-techies
+
+Date: 2019-08-21  
+Source: [How to explain DevOps in plain English](https://enterprisersproject.com/article/2019/8/devops-explained-plain-english?page=1)
+
 ## Command Line Heroes — The Infrastructure Effect: COBOL and Go
 
 > Languages used for IT infrastructure don't have expiration dates. COBOL's been around for 60 years—and isn't going anywhere anytime soon. We maintain billions of lines of classic code for mainframes. But we're also building new infrastructures for the cloud in languages like Go.
