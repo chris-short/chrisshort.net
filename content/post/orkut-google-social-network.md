@@ -1,6 +1,6 @@
 +++
 author = "Chris Short"
-categories = ["Social Media"]
+categories = ["Social Media", "Google"]
 date = 2004-01-31T22:30:00Z
 description = "orkut.com is a social networking service developed in association with Google."
 draft = false

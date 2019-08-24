@@ -1,6 +1,6 @@
 +++
 author = "Chris Short"
-categories = ["Linux"]
+categories = ["Linux", "Open Source"]
 date = 2003-05-11T23:45:00Z
 description = ""
 draft = false

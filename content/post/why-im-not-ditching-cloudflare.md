@@ -1,6 +1,6 @@
 +++
 author = "Chris Short"
-categories = ["internet", "culture", "diversity"]
+categories = ["Internet", "Diversity"]
 date = 2017-08-31T12:00:00Z
 description = "Time, bugs, unprecedented events, and reason all played a factor in deciding to stick with Cloudflare"
 draft = false

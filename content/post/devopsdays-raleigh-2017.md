@@ -1,6 +1,6 @@
 +++
 author = "Chris Short"
-categories = ["DevOps", "Talks"]
+categories = ["Talks"]
 date = 2017-10-05T07:30:00Z
 description = "I have seen the light side everyone thinks of in DevOps and have carried the red lightsaber as well. Let's walk into the cave on Dagobah together."
 draft = false
