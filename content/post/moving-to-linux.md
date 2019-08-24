@@ -1,7 +1,7 @@
 +++
 author = "Chris Short"
 date = 2003-04-24T23:05:00Z
-categories = ["Linux"]
+categories = ["Linux", "Open Source"]
 description = ""
 draft = false
 slug = "moving-to-linux"

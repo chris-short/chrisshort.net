@@ -1,6 +1,6 @@
 +++
 author = "Chris Short"
-categories = ["Ansible"]
+categories = ["Ansible", "Red Hat"]
 date = 2015-10-17T07:53:00Z
 description = ""
 draft = false
@@ -15,13 +15,13 @@ title = "Using Ansible Vault Effectively"
 
 {{< mc >}}
 
->"Vault" is a feature of ansible that allows keeping sensitive data such as passwords or keys in encrypted files, rather than as plaintext in your playbooks or roles. These vault files can then be distributed or placed in source control.
+> "Vault" is a feature of ansible that allows keeping sensitive data such as passwords or keys in encrypted files, rather than as plaintext in your playbooks or roles. These vault files can then be distributed or placed in source control.
 
 This means you can store just about anything in Ansible files. SSH keys, MySQL user passwords, and secret API keys are all fair game in Ansible Vaults. Then you can safely check this data into your repo with a reasonable expectation that it is safe from Github crawlers and other prying eyes.
 
 The best use case for Ansible Vaults are your variable files (group\_vars and host\_vars). I have a quite a few group\_vars and not so many host\_vars. It's nice to be able to store secrets as reusable variables. Keeping them all in one place is even better. I also take it a step further by having a policy of, "If one variable file is an Ansible Vault they're all Ansible Vaults." Why? Allow me to explain...
 
-**Creating an Ansible Vault**
+## Creating an Ansible Vault
 
 1. `ansible-vault create BARF.yml`
 2. Enter Vault Password at Prompt
@@ -39,7 +39,7 @@ Ansible Vault adds a layer of security so it's inherently harder to use (but not
 
 Previously, I've given a one-liner on how to [Grep Multiple Ansible Vault Files](/grep-multiple-ansible-vault-files/) that is based off this model as well.
 
-**Editing an Ansible Vault**
+## Editing an Ansible Vault
 
 1. `ansible-vault edit ~/BARF.yml`
 2. Enter Vault Password at Prompt
@@ -48,7 +48,7 @@ Previously, I've given a one-liner on how to [Grep Multiple Ansible Vault Files]
 
 Ansible Vault files, at first blush, seem a little cumbersome to work with. But, the good folks at Ansible gave us `vault_password_file`.
 
->[**vault\_password\_file**](http://docs.ansible.com/ansible/intro_configuration.html#vault-password-file) Configures the path to the Vault password file as an alternative to specifying --vault-password-file on the command line
+> [**vault\_password\_file**](http://docs.ansible.com/ansible/intro_configuration.html#vault-password-file) Configures the path to the Vault password file as an alternative to specifying --vault-password-file on the command line
 
 vault\_password\_file is a file with your Ansible Vault password in it. For example: `~/.vault` is a valid place for a vault\_password\_file. **Your vault\_password\_file should be outside of any public repository and only readable/writable by you**. You can specify vault\_password\_file as a command line argument:
 
@@ -58,7 +58,7 @@ You can define vault\_password\_file in your [Ansible Configuration file](http:/
 
 I have taken this a step further and created some helper scripts so the various Ansible Vault commands can be run quickly and easily. You can find the [ansible-vault-helpers on Github](https://github.com/chris-short/ansible-vault-helpers) or [download them as a zip file](https://github.com/chris-short/ansible-vault-helpers/archive/master.zip).
 
-**ansible-vault-helpers**
+## ansible-vault-helpers
 
 The ansible-vault-helper scripts assume your Ansible Vault password is in a file (outside of any public repo and only readable/writable by you) in your home directory, specifically, ~/.vault.
 

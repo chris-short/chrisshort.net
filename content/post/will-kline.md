@@ -1,6 +1,6 @@
 +++
 author = "Chris Short"
-categories = ["friends"]
+categories = ["Life"]
 date = 2007-08-13T12:00:00Z
 description = "Will Kline: A Heartbeat That Stopped Too Soon"
 draft = false

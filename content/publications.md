@@ -11,7 +11,7 @@ title = "Publications"
 
 ## [How DevOps is like auto racing](https://developers.redhat.com/blog/2019/08/22/how-devops-is-like-auto-racing/)
 
-> To achieve their goals, race teams don’t think from start to finish; they flip the table to look at the race from the end goal to the beginning. They set a goal, a stretch goal, and then work backward from that goal to determine how to get there. Work is delegated to team members to push toward the objectives that will get the team to the desired outcome.
+> To achieve their goals, race teams don't think from start to finish; they flip the table to look at the race from the end goal to the beginning. They set a goal, a stretch goal, and then work backward from that goal to determine how to get there. Work is delegated to team members to push toward the objectives that will get the team to the desired outcome.
 
 ## [The people, processes, and tools of DevOps in 2018](https://opensource.com/article/18/12/top-devops)
 
