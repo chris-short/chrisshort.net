@@ -1,6 +1,6 @@
 +++
 author = "Chris Short"
-categories = ["Life"]
+categories = ["Civics"]
 date = 2018-05-27T15:45:00Z
 description = "To hell with 'Thank you for your service'! Have a meaningful conversation instead. Get to know veterans you encounter; it's more meaningful."
 draft = false

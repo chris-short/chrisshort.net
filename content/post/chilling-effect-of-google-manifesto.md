@@ -1,6 +1,6 @@
 +++
 author = "Chris Short"
-categories = ["Diversity"]
+categories = ["Diversity", "Google"]
 date = 2017-08-06T21:10:00Z
 description = ""
 draft = false

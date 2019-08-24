@@ -1,6 +1,6 @@
 +++
 author = "Chris Short"
-categories = ["Hardware"]
+categories = ["Hardware", "Reviews"]
 date = 2004-09-23T22:30:00Z
 description = "A comprehensive review of the Sidekick II."
 draft = false

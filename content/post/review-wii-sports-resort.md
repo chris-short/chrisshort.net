@@ -1,11 +1,11 @@
 +++
 author = "Chris Short"
-categories = ["Video Games"]
+categories = ["Reviews"]
 date = 2010-07-27T20:00:00Z
 description = ""
 draft = false
 slug = "review-wii-sports-resort"
-tags = ["video games"]
+tags = ["video games", "wii sports"]
 title = "Review: Wii Sports Resort"
 
 +++
