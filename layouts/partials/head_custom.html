@@ -1,8 +1,3 @@
-<!--
-If you want to include any custom html just before </head>, put it in /layouts/partials/head_custom.html
-Do not put anything in this file - it's only here so that hugo won't throw an error if /layouts/partials/head_custom.html doesn't exist.
--->
-
   <link rel="apple-touch-icon" sizes="57x57" href="/favicons/apple-icon-57x57.png">
   <link rel="apple-touch-icon" sizes="60x60" href="/favicons/apple-icon-60x60.png">
   <link rel="apple-touch-icon" sizes="72x72" href="/favicons/apple-icon-72x72.png">
@@ -21,4 +16,20 @@ Do not put anything in this file - it's only here so that hugo won't throw an er
   <meta name="msapplication-TileImage" content="/favicons/ms-icon-144x144.png">
   <meta name="theme-color" content="#ffffff">
 
-  <link href="/css/carbon.css" rel="stylesheet" type="text/css"> 
+  <link href="/css/carbon.css" rel="stylesheet" type="text/css">
+
+  <!-- Fathom - simple website analytics - https://usefathom.com -->
+  <script>
+  (function(f, a, t, h, o, m){
+  a[h]=a[h]||function(){
+      (a[h].q=a[h].q||[]).push(arguments)
+  };
+  o=f.createElement('script'),
+  m=f.getElementsByTagName('script')[0];
+  o.async=1; o.src=t; o.id='fathom-script';
+  m.parentNode.insertBefore(o,m)
+  })(document, window, '//cdn.usefathom.com/tracker.js', 'fathom');
+  fathom('set', 'siteId', 'SUWVJWWC');
+  fathom('trackPageview');
+  </script>
+  <!-- / Fathom -->
