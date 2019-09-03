@@ -131,12 +131,6 @@ paginate = 8
 
 [[menu.main]]
     parent = "menu"
-    name = "Newsletter"
-    url = "https://devopsish.com/subscribe/"
-    weight = 11
-
-[[menu.main]]
-    parent = "menu"
     name = "What is DevOps"
     url = "https://devopsish.com/what-is-devops/"
     weight = 19
