@@ -18,7 +18,7 @@ The Open Systems Interconnection model (OSI model) defines a concept where every
 
 {{< mc >}}
 
-It is an incredibly handy tool for troubleshooting as it reminds you to check the system at each layer. The official documentation on the OSI Model can be [found on the ISO site](http://www.iso.org/iso/catalogue_detail.htm?csnumber=20269) (yes, that's confusing). Here is my first take on a drawing for the OSI Model:
+It is an incredibly handy tool for troubleshooting as it reminds you to check the system at each layer. The official documentation on the OSI Model can be [found on the ISO site](https://www.iso.org/standard/20269.html) (yes, that's confusing). Here is my first take on a drawing for the OSI Model:
 
 ![The OSI Model by Chris Short](/drawings/OSI-Model.png)
 
