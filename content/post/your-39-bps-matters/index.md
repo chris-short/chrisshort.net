@@ -1,10 +1,10 @@
 +++
 author = "Chris Short"
 categories = ["Imposter Syndrome"]
-date = 2019-09-10T17:00:00Z
-description = ""
+date = 2019-09-10T18:00:00Z
+description = "Our voices generate so much knowledge yet transmit so little data. It's time respect the metadata we create around the 39 bits per second of our voices."
 draft = false
-tags = [""]
+tags = ["imposter syndrome", "metadata", "privacy"]
 title = "Your 39 bps matters more than you think"
 image = "/your-39-bps-matters-more-than-you-think/sine-wave.jpg"
 
