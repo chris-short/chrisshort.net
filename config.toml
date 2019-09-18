@@ -56,7 +56,7 @@ paginate = 8
 #  googleplus = "+username" # or xxxxxxxxxxxxxxxxxxxxx
   github = "chris-short"
   gitlab = "chrisshort"
-#  bitbucket = "username"
+  devto = "chrisshort"
   twitter = "ChrisShort"
   reddit = "oaf357"
   linkedin = "thechrisshort"
@@ -72,7 +72,6 @@ paginate = 8
 #  vk = "username"
 #  paypal = "username"
   telegram = "ChrisShort"
-#  500px = "username"
   keybase = "chrisshort"
 
 [[menu.main]]
