@@ -12,7 +12,7 @@ aliases = [
 
 ## Tagline
 
-Works at Red Hat | Writes devopsish.com | CNCF Ambassador | Disabled Veteran | He/Him/They
+Works at Red Hat | Writes devopsish.com | CNCF Ambassador | Disabled Veteran | He/Him/His
 
 ## Brief Bio
 
