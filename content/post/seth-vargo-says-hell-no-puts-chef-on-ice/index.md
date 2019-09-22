@@ -4,7 +4,7 @@ categories = ["Open Source"]
 date = 2019-09-23T04:15:00Z
 description = "Seth Vargo, a former Chef employee, learned something he wasn't comfortable with about code he'd written. Chef had an active contract with the US DHS' ICE"
 draft = false
-tags = ["DevOps", "Chef", "Seth Vargo", "Open Source", ""]
+tags = ["DevOps", "Chef", "Seth Vargo", "Open Source", "impact"]
 title = "Seth Vargo says hell no—puts Chef on ICE"
 image = "/seth-vargo-says-hell-noputs-chef-on-ice/balance-stacked-stones-2171464.jpg"
 
