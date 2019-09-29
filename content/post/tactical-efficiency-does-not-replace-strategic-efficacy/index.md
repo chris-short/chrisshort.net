@@ -1,10 +1,10 @@
 +++
 author = "Chris Short"
 categories = ["DevOps"]
-date = 2019-09-29T14:45:00Z
+date = 2019-09-29T16:15:00Z
 description = "Tactical efficiency does not replace strategic efficacy. Work towards a better approach but, don't think because you're a coder you're an all-knowing savant."
 draft = false
-tags = []
+tags = ["tactical", "strategic", "efficacy", "efficiency", "strategy"]
 title = "Tactical efficiency does not replace strategic efficacy"
 image = "/tactical-efficiency-does-not-replace-strategic-efficacy/chris-short-thinking.jpg"
 
@@ -13,9 +13,9 @@ I used to think of industry analysts as 100% worthless to the broader technology
 
 ## *Tactical efficiency does not replace strategic efficacy*
 
-We as technologists spend a lot of our time tackling the next problem put in front of us. These problems are tactical challenges that need to be addressed. We are in the habit of blocking and tackling. We often forget we are working as part of a team in a more extensive system. We are working towards a grander strategic vision. Analysts serve as a data point in a much larger world around us. They're, for lack of a better term, intelligence assets.
+We as technologists spend a lot of our time tackling the next problem put in front of us. These problems are tactical challenges that need to be addressed. We are in the habit of blocking and tackling. We often forget we are working as part of a team in a more extensive system. We are moving towards a grander strategic vision. Analysts serve as a data point in a much larger world around us. They're, for lack of a better term, intelligence assets.
 
-I said the words, "*Tactical efficiency does not replace strategic efficacy*," during a call with a strategy focused person at Red Hat on a Saturday morning. The conversation happened organically but, was a combination of things we didn't get to talk about while together in Atlanta and tactical problems in front of broader strategic goals. We have these conversations from time to time because we both realize that strategists working together is better than working in silos.
+I said the words, "*Tactical efficiency does not replace strategic efficacy*," during a call with a strategy focused person at Red Hat on a Saturday morning. The conversation happened organically but, was a combination of things we didn't get to talk about while together in Atlanta and tactical problems in front of broader strategic goals. We have these conversations from time to time because we both realize that strategists working together is better than operating in silos.
 
 {{< carbon >}}
 
