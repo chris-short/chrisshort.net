@@ -7,6 +7,9 @@ draft = false
 tags = ["DevOps", "Chef", "Seth Vargo", "Open Source", "impact"]
 title = "Seth Vargo says hell no—puts Chef on ICE"
 image = "/seth-vargo-says-hell-noputs-chef-on-ice/balance-stacked-stones-2171464.jpg"
+aliases = [
+  "/seth-vargo-says-hell-no-puts-chef-on-ice/"
+]
 
 +++
 
