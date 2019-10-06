@@ -1,6 +1,6 @@
 +++
 author = "Chris Short"
-categories = ["Internet"]
+categories = ["Internet", "DNS"]
 date = 2004-11-06T22:30:00Z
 description = "Verisign switches to near real-time DNS updates on September 8, 2004"
 draft = false
