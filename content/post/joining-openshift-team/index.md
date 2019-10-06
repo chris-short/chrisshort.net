@@ -1,6 +1,6 @@
 +++
 author = "Chris Short"
-categories = ["Kubernetes", "Ansible", "Life"]
+categories = ["Kubernetes", "Ansible", "Life", "OpenShift", "Red Hat"]
 date = 2019-08-18T07:00:00Z
 description = "This Monday (2019-08-19) will be my first day as Principal Technical Marketing Manager on the Cloud Platforms team at Red Hat"
 draft = false
