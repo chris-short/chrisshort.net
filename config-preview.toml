@@ -11,7 +11,6 @@ pygmentsCodefencesGuessSyntax = true
 #pygmentOptions = "linenos=inline"
 #disqusShortname = "XXX"
 #googleAnalytics = "XXX"
-googleAnalytics = "UA-4498776-3"
 paginate = 8
 
 [permalinks]
@@ -19,7 +18,7 @@ paginate = 8
 
 [Params]
   homeTitle = "Chris Short" # Set a different text for the header on the home page
-  subtitle = "Works at Red Hat | Writes devopsish.com | CNCF Ambassador | Disabled Veteran | He/Him/They/Them"
+  subtitle = "Works at Red Hat | Writes devopsish.com | CNCF Ambassador | Disabled Veteran | He/Him/His"
   logo = "img/chrisshort.net.png" # Expecting square dimensions
   favicon = "favicons/favicon.ico"
   dateFormat = "2006-01-02"
@@ -50,13 +49,13 @@ paginate = 8
 
 [Author]
   name = "Chris Short"
-#  website = "yourwebsite.com"
+  website = "https://chrisshort.net"
   email = "chris@chrisshort.net"
 #  facebook = "username"
 #  googleplus = "+username" # or xxxxxxxxxxxxxxxxxxxxx
   github = "chris-short"
   gitlab = "chrisshort"
-#  bitbucket = "username"
+  devto = "chrisshort"
   twitter = "ChrisShort"
   reddit = "oaf357"
   linkedin = "thechrisshort"
@@ -72,7 +71,6 @@ paginate = 8
 #  vk = "username"
 #  paypal = "username"
   telegram = "ChrisShort"
-#  500px = "username"
   keybase = "chrisshort"
 
 [[menu.main]]
@@ -110,37 +108,37 @@ paginate = 8
     parent = "speaking"
     name = "Interviews"
     url = "/interviews/"
-    weight = 890
+    weight = 891
 
 [[menu.main]]
     parent = "speaking"
-    name = "NC Veterans Oral History Interview"
-    url = "/nc-veterans-oral-history-program/"
-    weight = 890
+    name = "Webinars"
+    url = "/webinars/"
+    weight = 892
 
 [[menu.main]]
     parent = "speaking"
     name = "CFPs"
     url = "/cfp/"
+    weight = 898
+
+[[menu.main]]
+    parent = "speaking"
+    name = "NC Veterans Oral History Interview"
+    url = "/nc-veterans-oral-history-program/"
     weight = 899
 
 [[menu.main]]
     parent = "menu"
-    name = "Newsletter"
+    name = "DevOps News"
     url = "https://devopsish.com/"
     weight = 11
 
 [[menu.main]]
     parent = "menu"
-    name = "Projects"
-    url = "/projects/"
-    weight = 10
-
-[[menu.main]]
-    parent = "menu"
     name = "What is DevOps"
     url = "https://devopsish.com/what-is-devops/"
-    weight = 12
+    weight = 19
 
 [[menu.main]]
     parent = "menu"
@@ -166,11 +164,11 @@ paginate = 8
     url = "/causes/"
     weight = 90
 
-#[[menu.main]]
-#    parent = "menu"
-#    name = "/var/tmp Playlist"
-#    url = "https://itunes.apple.com/us/playlist/var-tmp/pl.55c2d8144e6b4139b7630d691e015eaf"
-#    weight = 99
+[[menu.main]]
+    parent = "menu"
+    name = "Projects"
+    url = "/projects/"
+    weight = 99
 
 [[menu.main]]
     parent = "menu"
@@ -195,3 +193,21 @@ paginate = 8
     name = "Tags"
     url = "/tags/"
     weight = 130
+
+[privacy]
+  [privacy.googleAnalytics]
+    anonymizeIP = true
+    disable = false
+    respectDoNotTrack = true
+    useSessionStorage = true
+  [privacy.instagram]
+    disable = false
+    simple = false
+  [privacy.speakerDeck]
+    disable = false
+  [privacy.twitter]
+    disable = false
+    enableDNT = true
+  [privacy.youtube]
+    disable = false
+    privacyEnhanced = false
