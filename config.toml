@@ -104,6 +104,7 @@ paginate = 8
     name = "Talks Given"
     url = "/speaking/"
     weight = 889
+
 [[menu.main]]
     parent = "speaking"
     name = "Interviews"
@@ -112,14 +113,20 @@ paginate = 8
 
 [[menu.main]]
     parent = "speaking"
-    name = "NC Veterans Oral History Interview"
-    url = "/nc-veterans-oral-history-program/"
-    weight = 899
+    name = "Webinars"
+    url = "/webinars/"
+    weight = 892
 
 [[menu.main]]
     parent = "speaking"
     name = "CFPs"
     url = "/cfp/"
+    weight = 898
+
+[[menu.main]]
+    parent = "speaking"
+    name = "NC Veterans Oral History Interview"
+    url = "/nc-veterans-oral-history-program/"
     weight = 899
 
 [[menu.main]]
