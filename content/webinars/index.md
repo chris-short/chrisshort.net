@@ -9,6 +9,13 @@ title = "Webinars"
 
 If you'd like to discuss having me [speak](/speaking/) at your conference, Meetup, office, party, dinner, luncheon, podcast, etc. please use the [CNCF speaker contact form](https://www.cncf.io/speaker/chrisshort/). Thanks!
 
+## Contour – High performance ingress controller for Kubernetes
+
+Date: 2019-10-10  
+Source: [Contour – High performance ingress controller for Kubernetes — CNCF](https://www.cncf.io/webinars/contour-high-performance-ingress-controller-for-kubernetes/)  
+YouTube: [Contour - High Performance Ingress Controller for Kubernetes — CNCF](https://youtu.be/764YUk-wSa0)  
+Download: [MP4](https://cdn.chrisshort.net/Contour-High-Performance-Ingress-Controller-for-Kubernetes.mp4)
+
 ## Building Kubernetes Operators in an Ansible-native way
 
 Date: 2019-10-09  
