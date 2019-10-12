@@ -27,6 +27,11 @@ Source: [Command Line Heroes Season 3: The Infrastructure Effect](https://www.re
 Download: [MP3](https://cdn.chrisshort.net/Command_Line_Heroes_S3_EP5_The_Infrastructure_Effect.mp3)  
 Transcript: [PDF](https://cdn.chrisshort.net/Command_Line_Heroes_Season_3_The_Infrastructure_Effect.pdf)
 
+<audio controls>
+  <source src="https://cdn.chrisshort.net/Command_Line_Heroes_S3_EP5_The_Infrastructure_Effect.mp3" type="audio/mpeg">
+Your browser does not support the audio element but you can download it as an MP3 (right-click).
+</audio>
+
 ## CloudSkills.fm 030: Cloud Native Ops with Ansible and Kubernetes
 
 > In this episode I had a chance to chat with Chris Short from the Ansible team at RedHat. We discuss Ansible, Kubernetes, and the importance of building up your Linux skills as the industry transitions into a cloud native world. Chris is also a CNCF Ambassador and runs the DevOps, Cloud Native, and open source focused newsletter DevOps'ish.
@@ -34,6 +39,11 @@ Transcript: [PDF](https://cdn.chrisshort.net/Command_Line_Heroes_Season_3_The_In
 Date: 2019-07-17  
 Source: [030: Cloud Native Ops with Ansible and Kubernetes](https://cloudskills.fm/030)  
 Download: [MP3](https://cdn.chrisshort.net/CloudSkills_Episode_30.mp3)
+
+<audio controls>
+  <source src="https://cdn.chrisshort.net/CloudSkills_Episode_30.mp3" type="audio/mpeg">
+Your browser does not support the audio element but you can download it as an MP3 (right-click).
+</audio>
 
 ## DevOps for introverted people
 
@@ -55,18 +65,17 @@ Date: 2019-06-19
 Source: [Chris Short, Red Hat | JFrog SwampUp 2019 | Digital Anarchist](https://videopress.com/v/V3TIte3s)  
 Download: [MP4](https://cdn.chrisshort.net/chris-short-red-hat-jfrog-swampup-2019_hd.mp4) (H.264) | [MP4](https://cdn.chrisshort.net/chris-short-red-hat-jfrog-swampup-2019.mp4) (Original)
 
-## The future of how Ansible content is handled
-
-Date: 2019-06-13  
-Source: [The future of how Ansible content is handled — On Demand Webinar](https://www.ansible.com/resources/webinars-training/collections-future-of-how-ansible-content-is-handled)  
-YouTube: [The future of how Ansible content is handled](https://youtu.be/CGjDarrqBjg)  
-Download: [MP4](https://cdn.chrisshort.net/2019-06-13 10.03-The-future-of-how-Ansible-content-is-handled.mp4)
-
 ## China, Huawei and the future of global technology
 
 Date: 2019-05-28  
 Source: [China, Huawei and the future of global technology — The Frontier Podcast — Episode 61](https://www.gun.io/frontier/2019/episode-61)  
+Download: [MP3](https://storage.googleapis.com/cdn.chrisshort.net/61-chris-short-final-bounce.mp3)  
 Transcript: [PDF](https://cdn.chrisshort.net/Frontier-Podcast-China-Huawei-and-the-future-of-global-technology.pdf)
+
+<audio controls>
+  <source src="https://cdn.chrisshort.net/CloudSkills_Episode_30.mp3" type="audio/mpeg">
+Your browser does not support the audio element but you can download it as an MP3 (right-click).
+</audio>
 
 > How will Chinese companies like Huawei affect the future of cyber security? How does our relationship with China affect the open source community and the future of AI? These are big questions for big thinkers like Chris Short.
 >
@@ -85,6 +94,11 @@ Date: 2019-04-25
 Source: [DevOps'ish with Chris Short – Newsletterers – The Tim Show – S02E01](https://timhildred.com/devopsish-with-chris-short-newsletterers-the-tim-show-s02e01/)  
 Download: [MP3](https://cdn.chrisshort.net/the-tim-show-s02e01.mp3)
 
+<audio controls>
+  <source src="https://cdn.chrisshort.net/the-tim-show-s02e01.mp3" type="audio/mpeg">
+Your browser does not support the audio element but you can download it as an MP3 (right-click).
+</audio>
+
 In the inaugural episode of the Newsletterers series, I sat down with [Tim Hildred](https://timhildred.com/) who runs the podcast, The Tim Show. We discussed the DevOps'ish newsletter, everything it takes to put it together, the challenges faced, and the 'why' behind [DevOps'ish](https://devopsish.com/).
 
 ## The Cloud Pod — Episode 16: This week in the cloud blob
@@ -92,6 +106,11 @@ In the inaugural episode of the Newsletterers series, I sat down with [Tim Hildr
 Date: 2019-03-29  
 Source: [Episode 16: This week in the cloud blob](https://www.thecloudpod.net/podcast/episode-16-this-week-in-the-cloud-blob/)  
 Download: [MP3](https://cdn.chrisshort.net/tcp-episode-16-mix.mp3)
+
+<audio controls>
+  <source src="https://cdn.chrisshort.net/tcp-episode-16-mix.mp3" type="audio/mpeg">
+Your browser does not support the audio element but you can download it as an MP3 (right-click).
+</audio>
 
 > AWS Summit Season 2019 is officially underway. Justin, Peter and special guest Chris Short [@chrisshort](https://twitter.com/ChrisShort). Plus the famous lightning round.
 
@@ -102,11 +121,18 @@ Download: [MP3](https://cdn.chrisshort.net/tcp-episode-16-mix.mp3)
 Date: 2019-01-11  
 Source: [DevOps Defined - What is Kubernetes?](https://youtu.be/ES2ShEzVyaI)
 
+{{< youtube ES2ShEzVyaI >}}
+
 ## On-Call Nightmares Podcast: Episode 3
 
 Date: 2018-12-27  
 Source: [On-Call Nightmares Podcast — Episode 3 - Chris Short - Red Hat](https://www.podomatic.com/podcasts/oncallnightmares/episodes/2018-12-27T09_00_12-08_00)  
 Download: [MP3](https://cdn.chrisshort.net/oncallnightmares_2018-12-27T09_00_12-08_00.mp3)
+
+<audio controls>
+  <source src="https://cdn.chrisshort.net/oncallnightmares_2018-12-27T09_00_12-08_00.mp3" type="audio/mpeg">
+Your browser does not support the audio element but you can download it as an MP3 (right-click).
+</audio>
 
 ## Business Travel Life: Chris Short
 
@@ -124,6 +150,11 @@ Date: 2018-08-10
 Source: [Product Marketing Management](http://foodfightshow.org/2018/08/product-marketing.html)  
 Download: [MP3](https://cdn.chrisshort.net/FFS123.mp3)
 
+<audio controls>
+  <source src="https://cdn.chrisshort.net/FFS123.mp3" type="audio/mpeg">
+Your browser does not support the audio element but you can download it as an MP3 (right-click).
+</audio>
+
 ## Stand-up meetings: 5 reasons to kiss traditional meetings goodbye
 
 Date: 2018-06-20  
@@ -135,11 +166,21 @@ Date: 2018-06-05
 Source: [The Best CI/CD Tool for Kubernetes Doesn't Exist](https://thenewstack.io/the-best-ci-cd-tool-for-kubernetes-doesnt-exist/)  
 Download: [MP3](https://cdn.chrisshort.net/tns-best-ci-cd-for-kubernetes-doesnt-exist.mp3)
 
+<audio controls>
+  <source src="https://cdn.chrisshort.net/tns-best-ci-cd-for-kubernetes-doesnt-exist.mp3" type="audio/mpeg">
+Your browser does not support the audio element but you can download it as an MP3 (right-click).
+</audio>
+
 ## L8ist Sh9y Podcast: Chris Short on SRE, DevSecOps, Pipelines, Immutability, and Kubernetes
 
 Date: 2018-06-02  
 Source: [Chris Short on SRE, DevSecOps, Pipelines, Immutability, and Kubernetes](https://soundcloud.com/user-410091210/chris-short-on-sre-devsecops-pipelines-immutability-and-kubernetes)  
 Download: [MP3](https://cdn.chrisshort.net/chris-short-on-sre-devsecops-pipelines-immutability-and-kubernetes.mp3)
+
+<audio controls>
+  <source src="https://cdn.chrisshort.net/chris-short-on-sre-devsecops-pipelines-immutability-and-kubernetes.mp3" type="audio/mpeg">
+Your browser does not support the audio element but you can download it as an MP3 (right-click).
+</audio>
 
 ## DevOpsDays Toronto 2018 — What the military taught me about DevOps
 
@@ -147,11 +188,18 @@ Date: 2018-06-01
 Source: [Chris Short describing his talk at DevOpsDays Toronto](https://youtu.be/gwOmVh7lCEA)  
 Download: [MP4](https://cdn.chrisshort.net/devopsdays-toronto-2018-ken-mugrage-chris-short.mp4) [MP3](https://cdn.chrisshort.net/devopsdays-toronto-2018-ken-muckrage-chris-short.mp3)
 
+{{< youtube gwOmVh7lCEA >}}
+
 ## Discussing DevOps Details aka The 3D Podcast: Episode 113
 
 Date: 2018-04-04  
 Source: [Discussing DevOps Details Episode 113: Refactoring Giant Monoliths](http://techtowntraining.com/podcastgen/?name=2018-04-04_3d_podcast_recording_session_113_-_refactoring_giant_monoliths.mp3)  
 Download: [MP3](https://cdn.chrisshort.net/2018-04-04_3d_podcast_recording_session_113_-_refactoring_giant_monoliths.mp3)
+
+<audio controls>
+  <source src="https://cdn.chrisshort.net/2018-04-04_3d_podcast_recording_session_113_-_refactoring_giant_monoliths.mp3" type="audio/mpeg">
+Your browser does not support the audio element but you can download it as an MP3 (right-click).
+</audio>
 
 ## Screaming in the Cloud: Episode 2
 
@@ -159,12 +207,22 @@ Date: 2018-03-21
 Source: [Episode 2: Shoving a SAN into us-east-1](https://www.screaminginthecloud.com/episodes/episode-2-shoving-a-san-into-us-east-1)
 Download: [MP3](https://cdn.chrisshort.net/Episode-2-Shoving-a-SAN-into-us-east-1.mp3)
 
+<audio controls>
+  <source src="https://cdn.chrisshort.net/Episode-2-Shoving-a-SAN-into-us-east-1.mp3" type="audio/mpeg">
+Your browser does not support the audio element but you can download it as an MP3 (right-click).
+</audio>
+
 ## DevOps Perspectives from the Front Lines
 
 Date: 2016-10-30  
 Source: [The Cloudcast #277 - DevOps Perspectives from the Front Lines](http://www.thecloudcast.net/2016/10/the-cloudcast-277-devops-perspective.html)  
 Blog Post: [DevOps Perspectives from the Front Lines](/devops-perspectives-from-the-front-lines/)  
 Download: [MP3](https://cdn.chrisshort.net/the-cloudcast-277-devops-perspectives-from-the-front-lines.mp3)
+
+<audio controls>
+  <source src="https://cdn.chrisshort.net/the-cloudcast-277-devops-perspectives-from-the-front-lines.mp3" type="audio/mpeg">
+Your browser does not support the audio element but you can download it as an MP3 (right-click).
+</audio>
 
 ## North Carolina Veterans Oral History Interview Part 3
 
