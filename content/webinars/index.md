@@ -23,9 +23,31 @@ Source: [Building Kubernetes Operators in an Ansible-native way — CNCF](https
 YouTube: [Building Kubernetes Operators in an Ansible-native way](https://youtu.be/luRo0nJABNw)  
 Download: [MP4](https://cdn.chrisshort.net/Building-Kubernetes-Operators-in-an-Ansible-native-way.mp4), [MKV](https://cdn.chrisshort.net/Building-Kubernetes-Operators-in-an-Ansible-native-way.mkv)
 
+{{< youtube luRo0nJABNw >}}
+
+## KubeVirt — Beyond Containers: Coming full circle back to VMs!
+
+Date: 2019-09-12  
+Source: [KubeVirt - Beyond Containers: Coming full circle back to VMs! - Cloud Native Computing Foundation](https://www.cncf.io/webinars/kubevirt-beyond-containers-coming-full-circle-back-to-vms/)  
+YouTube: [KubeVirt - Beyond Containers: Coming full circle back to VMs!](https://youtu.be/ULDG6udoVts)  
+Download: [MP4](https://cdn.chrisshort.net/KubeVirt-Beyond-Containers-Coming-full-circle-back-to-VMs.mp4)
+
+{{< youtube ULDG6udoVts >}}
+
+## Monitoring Kubernetes Workloads: The Sidecar Pattern
+
+Date: 2019-06-13  
+Source: [Monitoring Kubernetes Workloads: The Sidecar Pattern - Cloud Native Computing Foundation](https://www.cncf.io/webinars/monitoring-k8s-workloads-sidecar-pattern/)  
+YouTube: [Monitoring Kubernetes workloads: the sidecar pattern - CNCF](https://youtu.be/X14nPCoNUg0)  
+Download:  [MP4](https://cdn.chrisshort.net/Monitoring-Kubernetes-workloads-sidecar-pattern.mp4)
+
+{{< youtube X14nPCoNUg0 >}}
+
 ## The future of how Ansible content is handled
 
 Date: 2019-06-13  
 Source: [The future of how Ansible content is handled — On Demand Webinar](https://www.ansible.com/resources/webinars-training/collections-future-of-how-ansible-content-is-handled)  
 YouTube: [The future of how Ansible content is handled](https://youtu.be/CGjDarrqBjg)  
 Download: [MP4](https://cdn.chrisshort.net/2019-06-13 10.03-The-future-of-how-Ansible-content-is-handled.mp4)
+
+{{< youtube CGjDarrqBjg >}}

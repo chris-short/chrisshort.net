@@ -21,6 +21,8 @@ Slides: [The Dark Side of DevOps](https://speakerdeck.com/chrisshort/the-dark-si
 YouTube: [The Dark Side of DevOps - Chris Short - swampUP 2019](https://youtu.be/gi-i5NvxVLM)  
 Download: [MP4](https://cdn.chrisshort.net/The_Dark_Side_of_DevOps-Chris_Short-JFrog_SwampUP_2019.mp4)
 
+{{< youtube gi-i5NvxVLM >}}
+
 ## How to Teach Old Apps New Tricks with Ansible-based Operators (Parts 1 & 2)
 
 Date: 2019-05-08  
@@ -48,7 +50,7 @@ Video: [All Day DevOps 2018 — DevOps is Not a War](http://play.sonatype.com/w
 Date: 2018-09-19  
 Event: [DevOpsDays Columbus 2018](https://www.devopsdays.org/events/2018-columbus/program/chris-short/)  
 Slides: [DevOpsDays Columbus 2018: Kubernetes Cron Jobs](https://speakerdeck.com/chrisshort/devopsdays-columbus-2018-kubernetes-cron-jobs)  
-Video: [Chris Short Ignite - Kubernetes Cron Jobs: Dreams Really Do Come True](https://youtu.be/75T_-YJ5Vag)
+YouTube: [Chris Short Ignite - Kubernetes Cron Jobs: Dreams Really Do Come True](https://youtu.be/75T_-YJ5Vag)
 
 ## Grand Rapids RHUG — Using Ansible for DevOps
 
@@ -76,12 +78,14 @@ Event: [DevOpsDays Toronto 2018](https://www.devopsdays.org/events/2018-toronto/
 Blog Post: [DevOpsDays Toronto 2018: What the Military Taught Me About DevOps](/devopsdays-toronto-2018-what-the-military-taught-me-about-devops/)  
 Video: [Chris Short - What the Military Taught Me about DevOps](https://youtu.be/TIE1rKkJWyY)
 
+{{< youtube TIE1rKkJWyY >}}
+
 ## ChefConf 2018: DevOps is Not War
 
 Date: 2018-05-24  
 Event: [ChefConf](https://chefconf.chef.io/)  
 Blog Post: [ChefConf 2018: DevOps is Not War](/chefconf-2018-devops-is-not-war/)  
-Video: [ChefConf 2018 Session: DevOps is Not a War
+YouTube: [ChefConf 2018 Session: DevOps is Not a War
 ](https://youtu.be/MDu6wL1DWY4)
 
 ## Detroit Kubernetes, Docker & all related things - Kubernetes Cron Jobs: Highly-Available, Distributed Cron Jobs are Awesome
@@ -95,21 +99,23 @@ Blog Post: [Detroit Kubernetes: Kubernetes Cron Job](/detroit-kubernetes--kubern
 Date: 2018-04-19  
 Event: [AWS Michigan](https://www.meetup.com/AWS-Michigan/events/248874167/)  
 Blog Post: [AWS Michigan: Heaven is Not a Cloud](/aws-michigan-heaven-is-not-a-cloud/)  
-Video: [AWS Michigan Meetup April 2018 - Heaven is Not a Cloud by Chris Short](https://youtu.be/_qx9d5JSRvw)
+YouTube: [AWS Michigan Meetup April 2018 - Heaven is Not a Cloud by Chris Short](https://youtu.be/_qx9d5JSRvw)
+
+{{< youtube _qx9d5JSRvw >}}
 
 ## DevOpsDays Atlanta 2018: DevOps is Not War
 
 Date: 2018-04-18  
 Event: [DevOpsDays Atlanta 2018](https://www.devopsdays.org/events/2018-atlanta/program/chris-short/)  
 Blog Post: [DevOpsDays Atlanta 2018: DevOps is Not War](/devopsdays-atlanta-2018-devops-is-not-war/)  
-Video: [DevopsdaysATL2018 - Day 2](https://www.youtube.com/watch?v=_VzVOSiXnNM&t=22m22s)
+YouTube: [DevopsdaysATL2018 - Day 2](https://www.youtube.com/watch?v=_VzVOSiXnNM&t=22m22s)
 
 ## DevOpsDays Charlotte 2018 - Golang to the Rescue: Saving DevOps from TLS Turmoil
 
 Date: 2018-02-22  
 Event: [DevOpsDays Charlotte 2018](https://devopsdayscharlotte2018.sched.com/event/DIiJ/golang-to-the-rescue-saving-devops-from-tls-turmoil)  
 Blog Post: [DevOpsDays Charlotte 2018 Ignite Talk on Golang](/devopsdays-charlotte-2018-ignite-talk-on-go/)  
-Video: [Golang to the rescue: Saving DevOps from TLS turmoil](https://youtu.be/-jg_SyoIIsA)
+YouTube: [Golang to the rescue: Saving DevOps from TLS turmoil](https://youtu.be/-jg_SyoIIsA)
 
 ## Open Source 101 Raleigh - Avoiding the DevOps pit of misery: Tips from the trenches
 
@@ -123,27 +129,33 @@ Video: [Avoiding the #DevOps pit of misery: Tips from the trenches with Jason Hi
 Date: 2018-01-31  
 Event: [Orchestructure January 2018 Meetup](https://www.meetup.com/orchestructure/events/246812066/)  
 Blog Post: [Orchestructure January 2018 Meetup](/orchestructure-january-2018-meetup/)  
-Video: [Go: Enabling DevOps to Go Faster - Chris Short (January 2018)](https://youtu.be/fC_fmN5tXkQ)
+YouTube: [Go: Enabling DevOps to Go Faster - Chris Short (January 2018)](https://youtu.be/fC_fmN5tXkQ)
 
 ## DevOpsDays New York City 2018 - Golang to the Rescue: Saving DevOps from TLS Turmoil
 
 Date: 2018-01-19  
 Event: [DevOpsDays New York City 2018](https://www.devopsdays.org/events/2018-new-york-city/program/chris-short/)  
 Blog Post: [DevOpsDays NYC 2018 Ignite Talk on Golang](/devopsdays-nyc-2018-ignite-talk-on-golang/)  
-Video: [DevOpsDays NYC 2018 d2 07 IG Chris Short](https://youtu.be/EImcYoyYId0)
+YouTube: [DevOpsDays NYC 2018 d2 07 IG Chris Short](https://youtu.be/EImcYoyYId0)
+
+{{< youtube EImcYoyYId0 >}}
 
 ## All Things Open 2017: DevOps README.md
 
 Date: October 24, 2017  
 Event: [Lightning Talks - Hosted by opensource.com](https://allthingsopen.org/lightning-talks-hosted-by-opensource-com/)  
 Blog Post: [All Things Open 2017: DevOps README.md](/all-things-open-2017-devops-readme.md/)  
-Video: [DevOps README.md — Chris Short](https://youtu.be/Ibnj-YZTypU)
+YouTube: [DevOps README.md — Chris Short](https://youtu.be/Ibnj-YZTypU)
+
+{{< youtube Ibnj-YZTypU >}}
 
 ## DevOpsDays Raleigh 2017 Ignite Karoke (Part 2)
 
 Date: September 8, 2017  
 Event: [DevOpsDays Raleigh 2017](https://dodral2017.busyconf.com/schedule#day_597f51db67de73d3e8000210)  
-Video: [DevOpsDays Raleigh 2017 Ignite Karoke (Part 2)](https://youtu.be/Pz2r2eDCR74)
+YouTube: [DevOpsDays Raleigh 2017 Ignite Karoke (Part 2)](https://youtu.be/Pz2r2eDCR74)
+
+{{< youtube Pz2r2eDCR74 >}}
 
 ## DevOpsDays Raleigh 2017: The Dark Side of DevOps
 
@@ -157,7 +169,7 @@ Video: [DevOpsDays Raleigh 2017](/video-devopsdays-raleigh-2017/)
 Date: September 27, 2017  
 Event: [DevOpsDays Detroit 2017](https://www.devopsdays.org/events/2017-detroit/program/continous-learning/)  
 Blog Post: [DevOps README.md](/devops-readme.md/)  
-Video: [DevOpsDays Detroit 2017](https://youtu.be/hJDp6CLvTAQ?t=16m47s)
+YouTube: [DevOpsDays Detroit 2017](https://youtu.be/hJDp6CLvTAQ?t=16m47s)
 
 ## GopherCon 2017 - Golang to the rescue: Saving DevOps from TLS turmoil
 
