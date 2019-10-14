@@ -1,10 +1,10 @@
 +++
 author = "Chris Short"
 categories = ["Ansible"]
-date = 2019-10-14T07:00:00Z
-description = ""
+date = 2019-10-14T14:00:00Z
+description = "The Ansible team made the Atlanta Hilton into a living and breathing Ansible experience. From the lobby as attendees walked into the hotel to the Open Lounge."
 draft = false
-tags = ["Ansible", "AnsibleFest"]
+tags = ["Ansible", "AnsibleFest", "automation", "Kubernetes", "operators", "Red Hat"]
 title = "AnsibleFest Atlanta 2019 Trip Report"
 image = "/ansiblefest-atlanta-2019-trip-report/AnsibleFest-2019.png"
 
@@ -14,7 +14,9 @@ Background: I started using Ansible in 2014 at a datacenter company. I implement
 
 {{< twitter 1176478273691443201 >}}
 
-I attended AnsibleFest Atlanta this year. It was a wonderful event. The Ansible team made the Atlanta Hilton into a living and breathing Ansible experience. From the lobby as attendees walked into the Open Lounge (showroom floor) that featured everything from an art wall with custom sticker printing to impromptu games of cornhole. Having the vendors in a setting like this was awesome. I wanted to play games and interact more with not only community members and customers but vendors too. There were massive bean bags in the Open Lounge. One attendee that slept on a bean bag for a solid 90 minutes (or more). That's a good sign in my book.
+I attended AnsibleFest Atlanta this year. It was a fantastic event. The Ansible team made the Atlanta Hilton into a living and breathing Ansible experience. From the lobby as attendees walked into the hotel to the Open Lounge (showroom floor). It was a very Ansible event.
+
+The Open Lounge featured everything from an art wall with custom sticker printing to impromptu games of cornhole. Having the vendors in a setting like the Open Lounge was awesome. I wanted to play games and interact more with not only community members and customers but vendors too. There were massive bean bags in the Open Lounge. One attendee that slept on a bean bag for a solid 90 minutes (or more). That's a good sign in my book.
 
 ## Red Hat Ansible Automation Platform
 
