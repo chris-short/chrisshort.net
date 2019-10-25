@@ -13,6 +13,12 @@ aliases = [
 
 > If you'd like discuss having me [speak](/speaking/) at your podcast conference, Meetup, office, party, dinner, luncheon, etc. please use the [CNCF speaker contact form](https://www.cncf.io/speaker/chrisshort/). Thanks!
 
+## DevOps is Not War
+
+Date: 2019-10-23  
+Event: [DevOpsDays Detroit 2019](https://devopsdays.org/events/2019-detroit/welcome/)  
+Slides: [DevOps is Not War — DevOpsDays Detroit 2019](https://speakerdeck.com/chrisshort/devops-is-not-war-df415c22-a29d-4cab-8689-143f9922c0f3)
+
 ## The Dark Side of DevOps
 
 Date: 2019-06-19  
