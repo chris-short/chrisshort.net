@@ -17,7 +17,8 @@ aliases = [
 
 Date: 2019-10-23  
 Event: [DevOpsDays Detroit 2019](https://devopsdays.org/events/2019-detroit/welcome/)  
-Slides: [DevOps is Not War — DevOpsDays Detroit 2019](https://speakerdeck.com/chrisshort/devops-is-not-war-df415c22-a29d-4cab-8689-143f9922c0f3)
+Slides: [DevOps is Not War — DevOpsDays Detroit 2019](https://speakerdeck.com/chrisshort/devops-is-not-war-df415c22-a29d-4cab-8689-143f9922c0f3)  
+Blog post: [DevOpsDays Detroit 2019 Trip Report](/devopsdays-detroit-2019-trip-report/)
 
 ## The Dark Side of DevOps
 
