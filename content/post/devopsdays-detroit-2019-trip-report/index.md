@@ -2,9 +2,9 @@
 author = "Chris Short"
 categories = ["DevOps"]
 date = 2019-10-26T13:30:00Z
-description = ""
+description = "I spoke, sponsored, and worked from DevOpsDays Detroit 2019 this week. The event sold out for the first time this year!"
 draft = false
-tags = ["DevOps", "DevOpsDays", "Detroit", "Site Reliability Engineering", "SRE", "Conway's Law"]
+tags = ["DevOps", "DevOpsDays", "Detroit", "Site Reliability Engineering", "SRE", "Conway's Law", "business", "metrics", "data", "vendor pitch", "red hat", "engineering"]
 title = "DevOpsDays Detroit 2019 Trip Report"
 image = "/devopsdays-detroit-2019-trip-report/chris-short-devopsdays-detroit-2019.jpg"
 imagealt = "Photo used with permission from [Brandon Dimcheff](https://twitter.com/bdimcheff)"
