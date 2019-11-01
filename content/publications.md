@@ -9,6 +9,10 @@ title = "Publications"
 
 > Chris Short's ansible.com blog posts are available here: <https://www.ansible.com/blog/author/chris-short>
 
+## [Ansible Operators October 2019 Update](https://blog.openshift.com/ansible-operators-october-2019-update/)
+
+> During this month’s Operator Framework SIG Meeting, I presented an update on the latest happenings with Ansible Operators ([slides here](https://speakerdeck.com/chrisshort/operator-framework-sig-ansible-operators-october-2019-update)). I touched on a few topics that I wanted to share with the greater universe.
+
 ## [How DevOps is like auto racing](https://developers.redhat.com/blog/2019/08/22/how-devops-is-like-auto-racing/)
 
 > To achieve their goals, race teams don't think from start to finish; they flip the table to look at the race from the end goal to the beginning. They set a goal, a stretch goal, and then work backward from that goal to determine how to get there. Work is delegated to team members to push toward the objectives that will get the team to the desired outcome.
