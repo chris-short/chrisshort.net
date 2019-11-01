@@ -45,6 +45,14 @@ The materials appearing on chrisshort.net's website could include technical, typ
 
 chrisshort.net has not reviewed all of the sites linked to its website and is not responsible for the contents of any such linked site. The inclusion of any link does not imply endorsement by chrisshort.net of the site. Use of any such linked website is at the user's own risk.
 
+## Affiliate Link Policy
+
+Some articles on chrisshort.net contain links to products available from online retailers. These links may contain codes that signal to the retailer that chrisshort.net has referred you. Should you choose to purchase the product, chrisshort.net may receive a commission on the sale. This is called an affiliate program.
+
+The same rigor and standards of objectivity are applied to these articles as is the rest of chrisshort.net. In most cases, posts with affiliate links will also include an individual disclaimer located near the link or "buy" button for that product.
+
+*Note: chrisshort.net may earn compensation for sales from links on this post through [affiliate programs](/terms/).*
+
 ## Modifications
 
 chrisshort.net may revise these terms of service for its website at any time without notice. By using this website you are agreeing to be bound by the then current version of these terms of service.

@@ -57,6 +57,8 @@ This means there will be a ripe environment for new, niche buzzwords. We are alr
 
 The good news is some in the DevOps community have adapted to this new world. People like [Nicole Forsgren](http://nicolefv.com/) are charging to the helm armed with data. I learned more about DevOps and how to talk to people about it from [**Accelerate: The Science of Lean Software and DevOps: Building and Scaling High Performing Technology Organizations**](https://amzn.to/2BFXzLU) than a lot of other books I've read. Real world experiences and real outcomes are what's going to win in the long run. Buy the book, read it.
 
+*Note: chrisshort.net may earn compensation for sales from links on this post through [affiliate programs](/terms/).*
+
 ### A Note on Site Reliability Engineering
 
 Something like [Site Reliability Engineering](https://landing.google.com/sre/), that uses DevOps principles while empowering Operations-minded folks, is a welcome initiative. In the past, I've referred to SRE as the ‘metricification' of DevOps. But, SRE is way more than that. SRE is partly about empowering folks running software to hand back a dumpster fire to folks writing software. This single change in an organization will drive change faster than any of the work I've done in DevOps ever could. But, the people, process, and tools needed to do this will still need champions, supporters, backers, etc. Organizations that embrace SRE will be the ones that see themselves as technology organizations first and widget makers second.
