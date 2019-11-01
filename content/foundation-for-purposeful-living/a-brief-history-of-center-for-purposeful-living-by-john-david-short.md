@@ -24,9 +24,13 @@ As a born-again Christian, former volunteer and the son of a CPL Board member I 
 
 What is now the Center for Purposeful Living (CPL) began in 1986 as the Human Service Alliance (HSA) in Boomer, NC. HSA was created by a Registered Nurse, Elizabeth Callari as a care for the terminally ill facility based on the principles of Dr. Elizabeth Kubler-Ross' *[On Death and Dying](https://amzn.to/2OWyYX)*. To the best of my knowledge there was little or no religious underpinning to the work at HSA at that time.
 
+*Note: chrisshort.net may earn compensation for sales from links on this post through [affiliate programs](/terms/).*
+
 This changed in 1987 with the arrival of Derwin Lackey (DL) as a volunteer. I will leave it others to fill in Mr. Lackey's background as I was a child at the time and cannot speak accurately on his curriculum vitae.
 
 DL began a series of informal talks with a group of volunteers twice a month called "gatherings." These were generally enjoyable evenings of food, music, and friends, followed by a brief Socratic style talk lead by DL. Questions such as, "Why do you suppose all human problems can be traced to an abuse of money, sex or power?" and "Does it seem that modern society serves little purpose other than the satisfaction of personality?" were common themes to these talks. The philosophy behind this line of discussion in expanded on in Derwin Lackey's ex libris book *[Discoveries of the Inquiring Mind](https://amzn.to/2OU94Uz)*.
+
+*Note: chrisshort.net may earn compensation for sales from links on this post through [affiliate programs](/terms/).*
 
 At some point (I'm not sure when or how) control of the group shifted from Elizabeth Callari to Derwin Lackey, who wished to lead a group of committed volunteers to spiritual enlightenment, rather than focusing solely on care for the terminally ill. This group formed the founding Board of Directors (BOD) of HSA of which Coleman Alderson, who has commented on the group at FACTNet, was a member. The BOD reincorporated in Winston-Salem at the current address of the Center for Purposeful Living, offering free care to the terminally ill, mediation, and respite care for families with developed disabled children free of charge. These were the service elements of the organization and the service provided was meaningful, valuable, soul-fulfilling work. It really was. Behind the scenes is where we can identify a cult, based on the New Age philosophy of Esoteric Psychology, led solely by Derwin Lackey.
 
