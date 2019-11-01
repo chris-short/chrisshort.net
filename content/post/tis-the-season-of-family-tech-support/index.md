@@ -38,6 +38,8 @@ Since both homes are going with Comcast it made fiscal sense to buy a modem outr
 
 I saw an [Arris SURFboard SB6190](https://amzn.to/2DOhzzt) is compatible. The price on Amazon was better than Target and both homes wanted it this week. Target will happily price match Amazon and give Red Card customers 5% off on top of that. Chances are your local big box store carries a few modems for use with your local providers. They'll probably all price match each other too. Shop smartly.
 
+*Note: chrisshort.net may earn compensation for sales from links on this post through [affiliate programs](/terms/).*
+
 ## Router and WiFi Access Points
 
 I'm a glutton for mesh networks. Give me reliable, deadzone-free wifi or give me death. I have four access points in a mesh in our home. I have one dedicated to my office, two on our main floor, and one in the back of the house on the top floor. The last thing I want to hear a complaint about is internet availability. That means everyone in the home is affected in some way or another.

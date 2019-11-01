@@ -12,6 +12,8 @@ title = "Review: Wii Sports Resort"
 
 I have to say that I was not too enthusiastic about [Wii Sports Resort](https://amzn.to/2Zb2oGO) when its release was announced. What intrigued me, obviously, was the addition of the Wii MotionPlus functionality. Wii Sports Resort is essentially Wii Sports 2 with a resort/spa theme.
 
+*Note: chrisshort.net may earn compensation for sales from links on this post through [affiliate programs](/terms/).*
+
 {{< mc >}}
 
 All sports activities take place on an island which is explorable by plane (which I do enjoy).  The added gyroscopes and spatial awareness added by the Wii MotionPlus accessory is pretty awesome.
