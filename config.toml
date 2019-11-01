@@ -185,6 +185,12 @@ paginate = 8
 
 [[menu.main]]
     parent = "menu"
+    name = "Amazon Wishlist"
+    url = "https://cshort.co/amzn"
+    weight = 119
+
+[[menu.main]]
+    parent = "menu"
     name = "Categories"
     url = "/categories/"
     weight = 120
