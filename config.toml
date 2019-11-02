@@ -11,7 +11,7 @@ pygmentsCodefencesGuessSyntax = true
 #pygmentOptions = "linenos=inline"
 #disqusShortname = "XXX"
 #googleAnalytics = "XXX"
-googleAnalytics = "UA-4498776-3"
+#googleAnalytics = "UA-4498776-3"
 paginate = 8
 
 [permalinks]
