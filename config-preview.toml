@@ -100,9 +100,15 @@ paginate = 8
 
 [[menu.main]]
     parent = "speaking"
+    name = "Podcast"
+    url = "http://podcast.podctl.com/"
+    weight = 889
+
+[[menu.main]]
+    parent = "speaking"
     name = "Talks Given"
     url = "/speaking/"
-    weight = 889
+    weight = 890
 
 [[menu.main]]
     parent = "speaking"
@@ -114,7 +120,7 @@ paginate = 8
     parent = "speaking"
     name = "Webinars"
     url = "/webinars/"
-    weight = 892
+    weight = 897
 
 [[menu.main]]
     parent = "speaking"
