@@ -105,7 +105,7 @@ Source: [2019 Accelerate State of DevOps Report](http://cloud.google.com/devops/
 * Namespaces (partitioning)
 * Seccomp (system calls)
 * Cgroups (resource allocation)
-* Security policies (business logic as code)
+* Security policies (PSP, network policy)
 
 ### Active not Passive
 
