@@ -159,13 +159,7 @@ Kubernetes](https://security.stackrox.com/rs/219-UEH-533/images/StackRox-Kuberne
 * Meetups, Events, Community
 * Intelligence (Google alerts, newsletters, US-CERT, Infragard)
 
-
-
-
-
-
-
-
+## Discards
 
 ### You don't stand a chance
 
