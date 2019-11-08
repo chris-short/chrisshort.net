@@ -64,12 +64,6 @@ Source: [Sysdig 2019 Container Usage Report](https://sysdig.com/blog/sysdig-2019
 
 Source: [Sysdig 2019 Container Usage Report](https://sysdig.com/blog/sysdig-2019-container-usage-report/)
 
-### You don't stand a chance
-
-* Attackers know this too
-* Shodan and Google are available to everyone
-* Vulnerable software is the expectation now
-
 ### Embrace Velocity
 
 * High performing teams deploy multiple times a day
@@ -81,3 +75,100 @@ Source: [2019 Accelerate State of DevOps Report](http://cloud.google.com/devops/
 
 ### Continuous Security
 
+* Integrate security into the lifecycle
+
+### Tweets
+
+* Screenshots of tweets (https://twitter.com/ChrisShort/status/1191840746988605440)
+
+### Remember the OSI Reference Model
+
+* Troubleshoot the lowest layers first
+* Containers are made with layers
+* Build a software pipeline that application and infrastructure changes can flow through
+
+### Elements of a container pipeline
+
+* Elements of the container pipeline
+
+### CI/CD Must Include Security Gates
+
+* CI/CD Must Include Security Gates
+
+### Securing the container platform
+
+* Securing the container platform
+
+### Robust security standards
+
+* SELINUX (access control)
+* Namespaces (partitioning)
+* Seccomp (system calls)
+* Cgroups (resource allocation)
+* Security policies (business logic as code)
+
+### Active not Passive
+
+* OWASP
+* Static analysis of code at rest
+* Dependency scanning
+* Trusted base images
+* Trusted registries
+
+### Contextually Aware
+
+* Contexts abound in Kubernetes
+* Security tooling must be aware of that
+* Not all vulns are created equal
+* Continously running Kubernetes primitives
+
+### Clear boundaries
+
+* Network segmentation
+* Admission controllers
+* Infrastructure as Code
+
+Source: [Cloud-native security for containers and
+Kubernetes](https://security.stackrox.com/rs/219-UEH-533/images/StackRox-Kubernetes-Security-Platform-Solution-Brief.pdf)
+
+### Rethinking Safety
+
+* Reducing friction to make changes smaller and easier
+* SRE Golden Signals
+* Assume compromise will occur
+* Plan for disasters
+* Breaking things on purpose (Chaos Engineering)
+
+### Detection leading to mitigation
+
+* Automating mitigation
+* Scale violating deployments to zero quickly
+* Automating defense in depth response
+* Offending metadata registered in security devices
+* Ansible Operator to block bad actors at network boundary (not K8s boundary)
+
+### Automation
+
+* The first step is adopting tooling to help
+* The next steps are a cultural shift towards speed
+* Security must be automated and running at the same velocity as software development
+
+### Continuous Learning
+
+* DevOps is continuous learning (Shafer quote)
+* Meetups, Events, Community
+* Intelligence (Google alerts, newsletters, US-CERT, Infragard)
+
+
+
+
+
+
+
+
+
+### You don't stand a chance
+
+* Attackers know this too
+* Shodan and Google are available to everyone
+* Vulnerable software is the expectation now
