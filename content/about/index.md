@@ -12,11 +12,11 @@ aliases = [
 
 ## Tagline
 
-Works at Red Hat | Writes devopsish.com | CNCF Ambassador | Disabled Veteran | He/Him/His
+Works at Red Hat | Co-host PodCTL | Writes DevOps'ish | CNCF Ambassador | Disabled Veteran | He/Him/His
 
 ## Brief Bio
 
-**Chris Short** has been a proponent of open source solutions throughout his over two decades in various IT disciplines including systems, security, networks, and DevOps engineering and advocacy across the public and private sectors. He currently works at Red Hat. Chris is a disabled US Air Force veteran living with his wife and son in Greater Metro Detroit. Chris writes about DevOps and other topics at  [chrisshort.net](https://chrisshort.net). He also runs the DevOps, Cloud Native, and open source focused newsletter [DevOps'ish](https://devopsish.com).
+**Chris Short** has been a proponent of open source solutions throughout his over two decades in various IT disciplines including systems, security, networks, and DevOps engineering and advocacy across the public and private sectors. He currently works at Red Hat. Chris is a disabled US Air Force veteran living with his wife and son in Greater Metro Detroit. Chris writes about DevOps and other topics at  [chrisshort.net](https://chrisshort.net). He also runs the DevOps, Cloud Native, and open source focused newsletter [DevOps'ish](https://devopsish.com) and co-hosts Red Hat's Kubernetes podcast; [PodCTL](http://podcast.podctl.com/).
 
 ## Extended Bio
 
@@ -33,6 +33,7 @@ Chris is now working in the [open source](/tags/open-source/), [Linux](/tags/lin
 ## Appearances Elsewhere
 
 * [DevOps'ish](https://devopsish.com)
+* [PodCTL](http://podcast.podctl.com/)
 * [Projects](/projects/)
 * [Newsletter](/newsletter/)
 * [Speaking](/speaking/)
