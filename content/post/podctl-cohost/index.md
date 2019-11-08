@@ -2,7 +2,7 @@
 author = "Chris Short"
 categories = ["Kubernetes"]
 date = 2019-11-08T19:23:00Z
-description = ""
+description = "Chris Short added as co-host on Red Hat's Kubernetes podcast: PodCTL"
 draft = false
 tags = ["PodCTL", "Kubernetes", "podcast"]
 title = "PodCTL Co-host"
@@ -15,13 +15,15 @@ Three years ago, I sat down with Brian Gracely and Josh Atwell and [recorded a p
 
 {{< mc >}}
 
-For about a year or so, I've wanted to host or cohost a podcast. I have had some fits and starts over the years. I tried to get one going with Chris Bailey and then tried one on my own. Neither one seemed like something I could start from the ground up and sustain. I've learned that maintaining, editing, and recording podcasts requires a lot of work.
+For about a year or so, I've wanted to host or co-host a podcast. I have had some fits and starts over the years. I tried to get one going with Chris Bailey and then tried one on my own. Neither one seemed like something I could start from the ground up and sustain. I've learned that maintaining, editing, and recording podcasts requires a lot of work.
 
 {{< carbon >}}
 
 I [joined the OpenShift team](/joining-forces-with-openshift/) back in August. I've been getting up to speed with OpenShift and my new team while working in the upstream Kubernetes community. Couple that with the [CNCF Ambassador](/chris-short-named-cloud-native-ambassador/) duties I'm helping out with; I'm heavily invested in Kubernetes.
 
-This week, Brian Gracely reached out to me to cohost [**PodCTL**](http://podcast.podctl.com/), Red Hat's Kubernetes podcast. Knowing that Brian has the tooling and processes in place for podcast production, I didn't even hesitate to say, "Yes!" We recorded an episode together today while I'm at home here outside Detroit. [A fancy mic for my iPhone](https://amzn.to/2NYe0t0) is now part of my kit and we're off to the races.
+This week, Brian Gracely reached out to me to cohost [**PodCTL**](http://podcast.podctl.com/), Red Hat's Kubernetes podcast. Knowing that Brian has the tooling and processes in place for podcast production, I didn't even hesitate to say, "Yes!" [We recorded an episode  today](http://podcast.podctl.com/110399/2024361-the-intersection-of-devops-and-kubernetes) while I'm at home here outside Detroit. [A fancy mic for my iPhone](https://amzn.to/2NYe0t0) is now part of my kit and we're off to the races.
+
+{{< twitter 1192894234069807104 >}}
 
 Brian's focus will be Red Hat OpenShift and Red Hat's service offerings. My focus is going to be talking to the people building and using the tooling, working on or with Kubernetes, and connecting with folks working across the cloud native ecosystem. An important point I need to make, is that I'll record with you regardless of corporate affiliation. I work at a company that embraces open source software and communities, its Kubernetes podcast should too.
 
