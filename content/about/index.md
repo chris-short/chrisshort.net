@@ -12,7 +12,7 @@ aliases = [
 
 ## Tagline
 
-Works at Red Hat | Co-host PodCTL | Writes DevOps'ish | CNCF Ambassador | Disabled Veteran | He/Him/His
+Works at Red Hat | Co-host PodCTL | Writes DevOps'ish & KubeWeekly | CNCF Ambassador | Disabled Veteran | He/Him/His
 
 ## Brief Bio
 
