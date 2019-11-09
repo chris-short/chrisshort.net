@@ -105,7 +105,7 @@ Source: [2019 Accelerate State of DevOps Report](http://cloud.google.com/devops/
 * Namespaces (partitioning)
 * Seccomp (system calls)
 * Cgroups (resource allocation)
-* Security policies (PSP, network policy)
+* Security policies (PSP, network policy, OPA)
 
 ### Active not Passive
 
@@ -129,6 +129,7 @@ Source: [2019 Accelerate State of DevOps Report](http://cloud.google.com/devops/
 * Additional extensibility (CRDs)
 * Industry standard APIs
 * Speed of K8s internals
+* Robust, scalable, portable controls
 
 ### Clear boundaries
 
@@ -138,6 +139,12 @@ Source: [2019 Accelerate State of DevOps Report](http://cloud.google.com/devops/
 
 Source: [Cloud-native security for containers and
 Kubernetes](https://security.stackrox.com/rs/219-UEH-533/images/StackRox-Kubernetes-Security-Platform-Solution-Brief.pdf)
+
+### Automation
+
+* The first step is adopting tooling to help
+* The next steps are a cultural shift towards speed
+* Security must be automated and running at the same velocity as software development
 
 ### Rethinking Safety
 
@@ -154,12 +161,6 @@ Kubernetes](https://security.stackrox.com/rs/219-UEH-533/images/StackRox-Kuberne
 * Automating defense in depth response
 * Offending metadata registered in security devices
 * Ansible Operator to block bad actors at network boundary (not K8s boundary)
-
-### Automation
-
-* The first step is adopting tooling to help
-* The next steps are a cultural shift towards speed
-* Security must be automated and running at the same velocity as software development
 
 ### Continuous Learning
 
