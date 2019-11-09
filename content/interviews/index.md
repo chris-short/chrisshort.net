@@ -9,6 +9,21 @@ title = "Interviews"
 
 If you'd like to discuss having me [speak](/speaking/) at your conference, Meetup, office, party, dinner, luncheon, podcast, etc. please use the [CNCF speaker contact form](https://www.cncf.io/speaker/chrisshort/). Thanks!
 
+If you would like to book time with Chris on PodCTL, please email [PodCTL at gmail dot com](mailto:podctl@gmail.com)
+
+## The Intersection of DevOps and Kubernetes
+
+> Brian talks with Chris Short (@ChrisShort, Technical Marketing @RedHat, CNCF Ambassador, writes at DevOps’ish) about DevOps 10th birthday, how Kubernetes helps DevOps, and the exciting news that Chris will be co-hosting PodCTL.
+
+<audio controls>
+  <source src="https://cdn.chrisshort.net/the-intersection-of-devops-and-kubernetes.mp3" type="audio/mpeg">
+Your browser does not support the audio element but you can download it as an MP3 (right-click).
+</audio>
+
+Date: 2019-11-08  
+Source: [The Intersection of DevOps and Kubernetes](http://podcast.podctl.com/110399/2024361-the-intersection-of-devops-and-kubernetes)  
+Download: [MP3](https://cdn.chrisshort.net/the-intersection-of-devops-and-kubernetes.mp3)
+
 ## How to explain DevOps in plain English
 
 > Having trouble boiling DevOps and all it encompasses down to a sound bite? Here are a few simple definitions and analogies that will help explain DevOps, even to non-techies
