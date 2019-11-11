@@ -26,6 +26,8 @@ Security needs to be a step in every part of the software development lifecycle.
 * PodCTL
 * KubeWeekly
 
+### Struggles
+
 ### The Security Professional
 
 * Overworked
@@ -52,6 +54,8 @@ Security needs to be a step in every part of the software development lifecycle.
 
 What have we done?!?!
 
+### Velocity
+
 ### How fast is this thing going
 
 * "[T]he number of containers that are alive for 10 seconds or less has doubled to 22%."
@@ -73,13 +77,11 @@ Source: [Sysdig 2019 Container Usage Report](https://sysdig.com/blog/sysdig-2019
 
 Source: [2019 Accelerate State of DevOps Report](http://cloud.google.com/devops/state-of-devops/)
 
+### CD for Security
+
 ### Continuous Security
 
 * Integrate security into the lifecycle
-
-### Tweets
-
-* Screenshots of tweets (https://twitter.com/ChrisShort/status/1191840746988605440)
 
 ### Remember the OSI Reference Model
 
@@ -94,6 +96,12 @@ Source: [2019 Accelerate State of DevOps Report](http://cloud.google.com/devops/
 ### CI/CD Must Include Security Gates
 
 * CI/CD Must Include Security Gates
+
+### Platform Security
+
+### Tweets
+
+* Screenshots of tweets (https://twitter.com/ChrisShort/status/1191840746988605440)
 
 ### Securing the container platform
 
@@ -140,6 +148,8 @@ Source: [2019 Accelerate State of DevOps Report](http://cloud.google.com/devops/
 Source: [Cloud-native security for containers and
 Kubernetes](https://security.stackrox.com/rs/219-UEH-533/images/StackRox-Kubernetes-Security-Platform-Solution-Brief.pdf)
 
+### Speed Makes Us Safer
+
 ### Automation
 
 * The first step is adopting tooling to help
@@ -162,10 +172,10 @@ Kubernetes](https://security.stackrox.com/rs/219-UEH-533/images/StackRox-Kuberne
 * Offending metadata registered in security devices
 * Ansible Operator to block bad actors at network boundary (not K8s boundary)
 
-### Continuous Learning
+### *Continuous Learning*
 
 * DevOps is continuous learning (Shafer quote)
-* Meetups, Events, Community
+* Meetups, Events, Community Participation
 * Intelligence (Google alerts, newsletters, US-CERT, Infragard)
 
 ## Discards
