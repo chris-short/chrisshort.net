@@ -87,7 +87,7 @@ Source: [2019 Accelerate State of DevOps Report](http://cloud.google.com/devops/
 
 * Troubleshoot the lowest layers first
 * Containers are made with layers
-* Build a software pipeline that application and infrastructure changes can flow through
+* Build software pipelines that application and infrastructure changes can flow through
 
 ### Elements of a container pipeline
 
