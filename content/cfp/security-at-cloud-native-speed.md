@@ -122,18 +122,11 @@ Source: [2019 Accelerate State of DevOps Report](http://cloud.google.com/devops/
 * Dependency scanning
 * Trusted base images
 * Trusted registries
-* Event driven operations
-
-### Contextually Aware
-
-* Contexts abound in Kubernetes
-* Security tooling must be aware of that
-* Not all vulns are created equal
-* Continously running Kubernetes primitives
 
 ### Use K8s Primitives
 
 * Use Kubernetes native controls
+* Contextually aware
 * Additional extensibility (CRDs)
 * Industry standard APIs
 * Speed of K8s internals
