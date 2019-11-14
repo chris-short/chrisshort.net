@@ -15,17 +15,21 @@ aliases = [
 
 ## DevOps is Not War
 
-Date: 2019-10-01  
-Event: Event: [DevOpsDays Raleigh 2019](https://devopsdays.org/events/2019-raleigh/welcome/)  
-Slides: [DevOps is Not War — DevOpsDays Raleigh 2019](https://speakerdeck.com/chrisshort/devops-is-not-war-df415c22-a29d-4cab-8689-143f9922c0f3)  
-Blog post: [DevOpsDays Raleigh 2019 Trip Report](https://chrisshort.net/devopsdays-raleigh-2019-trip-report/)
-
-## DevOps is Not War
-
 Date: 2019-10-23  
 Event: [DevOpsDays Detroit 2019](https://devopsdays.org/events/2019-detroit/welcome/)  
 Slides: [DevOps is Not War — DevOpsDays Detroit 2019](https://speakerdeck.com/chrisshort/devops-is-not-war-df415c22-a29d-4cab-8689-143f9922c0f3)  
 Blog post: [DevOpsDays Detroit 2019 Trip Report](/devopsdays-detroit-2019-trip-report/)
+
+## DevOps is Not War
+
+Date: 2019-10-01  
+Event: Event: [DevOpsDays Raleigh 2019](https://devopsdays.org/events/2019-raleigh/welcome/)  
+Slides: [DevOps is Not War — DevOpsDays Raleigh 2019](https://speakerdeck.com/chrisshort/devops-is-not-war-df415c22-a29d-4cab-8689-143f9922c0f3)  
+YouTube: [DevOps is Not War - Chris Short](https://youtu.be/eKOGQKHOBNg)  
+Download: [MP4](https://cdn.chrisshort.net/DevOps-is-not-War-DOD-RDU.mp4)  
+Blog post: [DevOpsDays Raleigh 2019 Trip Report](https://chrisshort.net/devopsdays-raleigh-2019-trip-report/)
+
+{{< youtube eKOGQKHOBNg >}}
 
 ## The Dark Side of DevOps
 
