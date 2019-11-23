@@ -11,6 +11,14 @@ If you'd like to discuss having me [speak](/speaking/) at your conference, Meetu
 
 If you would like to book time with Chris on PodCTL, please email [PodCTL at gmail dot com](mailto:podctl@gmail.com)
 
+## DevOps Speakeasy at Kubecon San Diego 2019
+
+Date: 2019-11-21  
+Source: [DevOps Speakeasy at Kubecon San Diego 2019: Chris Short on DevOps!](https://youtu.be/EO54iYYDZoU)  
+Download: [MP4](https://cdn.chrisshort.net/DevOps-Speakeasy-Kubecon-San-Diego-2019-Chris-Short-on-DevOps.mp4)
+
+{{< youtube EO54iYYDZoU >}}
+
 ## The Intersection of DevOps and Kubernetes
 
 > Brian talks with Chris Short (@ChrisShort, Technical Marketing @RedHat, CNCF Ambassador, writes at DevOps’ish) about DevOps 10th birthday, how Kubernetes helps DevOps, and the exciting news that Chris will be co-hosting PodCTL.
