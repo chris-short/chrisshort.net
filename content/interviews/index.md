@@ -11,6 +11,13 @@ If you'd like to discuss having me [speak](/speaking/) at your conference, Meetu
 
 If you would like to book time with Chris on PodCTL, please email [PodCTL at gmail dot com](mailto:podctl@gmail.com)
 
+## Red Hat’s Chris Short On Redirecting A War Vet’s Energy To Lifelong Learning & Technical Leadership
+
+Date: 2019-11-29  
+Source: [Red Hat’s Chris Short On Redirecting A War Vet’s Energy To Lifelong Learning & Technical Leadership](https://cronicle.press/2019/11/29/redhats-chris-short-on-redirecting-a-war-vets-energy-to-lifelong-learning-technical-leadership/)
+
+> Does he wish more military vets would get into DevOps? “Yes,” Short says, “but I wish the DevOps community would be more embracing of military members. I remember when I first got out I had 11 years of experience from everything from the satellite down to the laptop I had some idea of how it worked and all the software between. All that meant nothing because it said U.S. Air Force on my resume, because I wasn’t from a traditional college path. Or I got the stereotype that you only know how to follow instructions or are a slightly educated monkey.”
+
 ## DevOps Speakeasy at Kubecon San Diego 2019
 
 Date: 2019-11-21  
