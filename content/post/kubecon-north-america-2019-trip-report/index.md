@@ -2,7 +2,7 @@
 author = "Chris Short"
 categories = ["Community", "Kubernetes"]
 date = 2019-12-01T03:40:00Z
-description = ""
+description = "CNCF Ambassador, Chris Short, describes the week that was in San Diego at KubeCon North America 2019"
 draft = false
 tags = ["KubeCon", "Kubernetes", "CNCF", "Ambassador", "Contributor Summit", "San Diego", "Marriott", "NATS", "iPad",  "blame", "conference", "cloud", "community", "pain", "open source"]
 title = "KubeCon North America 2019 Trip Report"
