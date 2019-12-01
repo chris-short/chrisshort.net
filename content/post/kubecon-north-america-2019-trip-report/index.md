@@ -13,6 +13,9 @@ imagealt = "Keep Cloud Native Classy"
 
 Disclaimer: I work for Red Hat, [my views and opinions are solely mine](/terms/) though.
 
+> Please feel free to share your comments at  
+> [/r/Kubernetes](https://www.reddit.com/r/kubernetes/comments/e4hm47/kubecon_north_america_2019_trip_report/), [/r/devopsish](https://www.reddit.com/r/devopsish/comments/e4fq86/kubecon_north_america_2019_trip_report/), or [The Orange Site](https://news.ycombinator.com/item?id=21676169)
+
 I attended, worked, volunteered, spoke, etc. in San Diego at KubeCon + CloudNativeCon North America 2019. 12,000 people attended the conference, which was held in the same venue ComicCon is held every year. The event was grueling and it has taken almost a full week to recover. To give you an idea, I didn't even want to write the bare minimum report I sent internally to Red Hat. I was in so much pain that reliving the week felt like it'd do more harm than good so I put off writing this trip report for a week.
 
 Why? I'll get into that. But, to give you an idea of how I felt a day after KubeCon ended, I wrote in [DevOps'ish](https://devopsish.com/155/) that I wasn't sure why I put in so much energy:
@@ -165,5 +168,8 @@ Diversity was pretty bad too. Large dinner groups would form where there would b
 ## Conclusion
 
 I do not want to do the full conference again. I will do everything I can but, I am human and I am disabled. As if a reminder from the heavens, the VA sent me a letter after getting home from KubeCon reminding me of my VA disability rating. I don't recall ever having to take the quantity of painkillers I took to get through KubeCon. The conference is worth trying to save but, if the foundation doesn't listen, I can contribute to Kubernetes without them. Change is inevitable; I always hope it's for the better.
+
+> Please feel free to share your comments at  
+> [/r/Kubernetes](https://www.reddit.com/r/kubernetes/comments/e4hm47/kubecon_north_america_2019_trip_report/), [/r/devopsish](https://www.reddit.com/r/devopsish/comments/e4fq86/kubecon_north_america_2019_trip_report/), or [The Orange Site](https://news.ycombinator.com/item?id=21676169)
 
 {{< adsense-matched >}}
