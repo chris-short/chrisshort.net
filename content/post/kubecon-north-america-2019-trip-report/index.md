@@ -1,10 +1,10 @@
 +++
 author = "Chris Short"
-categories = ["DevOps"]
-date = 2019-12-01T07:00:00Z
+categories = ["Community", "Kubernetes"]
+date = 2019-12-01T03:40:00Z
 description = ""
 draft = false
-tags = []
+tags = ["KubeCon", "Kubernetes", "CNCF", "Ambassador", "Contributor Summit", "San Diego", "Marriott", "NATS", "iPad",  "blame", "conference", "cloud", "community", "pain", "open source"]
 title = "KubeCon North America 2019 Trip Report"
 image = "/kubecon-north-america-2019-trip-report/keep-cloud-native-classy.jpg"
 imagealt = "Keep Cloud Native Classy"
