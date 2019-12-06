@@ -26,7 +26,7 @@ Security needs to be a step in every part of the software development lifecycle.
 * PodCTL
 * KubeWeekly
 
-### Struggles
+## Struggles
 
 ### The Security Professional
 
@@ -54,7 +54,7 @@ Security needs to be a step in every part of the software development lifecycle.
 
 What have we done?!?!
 
-### Velocity
+## Velocity
 
 ### How fast is this thing going
 
@@ -77,7 +77,7 @@ Source: [Sysdig 2019 Container Usage Report](https://sysdig.com/blog/sysdig-2019
 
 Source: [2019 Accelerate State of DevOps Report](http://cloud.google.com/devops/state-of-devops/)
 
-### CD for Security
+## CD for Security
 
 ### Continuous Security
 
@@ -97,7 +97,7 @@ Source: [2019 Accelerate State of DevOps Report](http://cloud.google.com/devops/
 
 * CI/CD Must Include Security Gates
 
-### Platform Security
+## Platform Security
 
 ### Tweets
 
@@ -141,7 +141,7 @@ Source: [2019 Accelerate State of DevOps Report](http://cloud.google.com/devops/
 Source: [Cloud-native security for containers and
 Kubernetes](https://security.stackrox.com/rs/219-UEH-533/images/StackRox-Kubernetes-Security-Platform-Solution-Brief.pdf)
 
-### Speed Makes Us Safer
+## Speed Makes Us Safer
 
 ### Automation
 
