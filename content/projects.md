@@ -21,9 +21,18 @@ I strive, every week, to put together the best newsletter covering DevOps, Cloud
 Newsletter: [DevOps'ish](https://devopsish.com)  
 Source: <https://github.com/chris-short/devopsish.com>
 
+## geopolitics.dev
+
+*geopolitics.dev — Ethics. Policy. Tech.*
+
+[geopolitics.dev](https://geopolitics.dev) is a project run by Air Force communications and intelligence veteran, [Chris Short](https://chrisshort.net/). After running a [tech newsletter](https://devopsish.com/) for three years it became clear that work Chris had done in the military was coming to light in the wake of the Snowden leaks and Huawei trade issues. The purpose of the newsletter is to help technologists, nerds, journalists, and politicians understand where their worlds intersect. There is more crossover than you think. [Learn more every week!](https://geopolitics.dev/subscribe/)
+
+Newsletter: [geopolitics.dev](https://geopolitics.dev)  
+Source: <https://github.com/chris-short/geopolitics.dev>
+
 ## rak8s
 
-### Stand up a Raspberry Pi based Kubernetes cluster with Ansible
+*Stand up a Raspberry Pi based Kubernetes cluster with Ansible*
 
 ARM is going to be the datacenter and home computing platform of the future. It makes a lot of sense to start getting used to working in its unique environment.
 
