@@ -13,6 +13,8 @@ aliases = [
 
 +++
 
+Update: As of 2019-12-10, it would appear that due to rate limits and other service changes, this process is now broken. I leave this here in memory of the over three years of exemplary service IFTTT has given me.
+
 [Buffer](https://buffer.com/) is a great tool for scheduling and posting content to social media. But, it costs money to do any sort of real sharing. I prefer to share more content from others than I do my own. Paying money to share other people's content is fine but not for me. I came up with an alternative that might be useful to others so here it is:
 
 ![DIY Buffer](/drawings/DIY-Buffer.png)
