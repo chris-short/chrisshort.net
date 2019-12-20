@@ -4,7 +4,7 @@ categories = ["Long Thoracic Nerve Palsy", "Culture", "Life"]
 date = 2019-12-11T15:00:00Z
 description = "At a team meeting last month I took part in a getting to know you exercise that I found helpful. I feel it's worth putting out there for others."
 draft = false
-tags = []
+tags = ["Ansible", "Linux", "Kubernetes", "team building"]
 title = "A getting to know you exercise"
 image = "/a-getting-to-know-you-exercise/three-things-that-make-me-who-i-am.png"
 imagealt = "Three images that represent who Chris Short is"
@@ -42,7 +42,7 @@ I do recall making a few specific points on the "justice and the American way" p
 
 ![Three things Chris Short is professionally known for](/a-getting-to-know-you-exercise/professionally-known-for.png)
 
-The second slide contained three logos that I think a lot of folks reading this blog will be familiar with: Linux, Ansible, and Kubernetes. My professional career stands on a lot of different things, but these three projects define mine uniquely. I made the following notes to steer whatever conversation would ensue.
+The second slide contained three logos that I think a lot of folks reading this blog will be familiar with: Linux, Ansible, and Kubernetes. My professional career stands on a lot of different things, but these three projects define mine in a foundational way. I made the following notes to steer whatever conversation would ensue.
 
 ### Linux
 
@@ -62,7 +62,7 @@ The second slide contained three logos that I think a lot of folks reading this 
 
 * I discovered Kubernetes in 2016
 * I've been a CNCF Ambassador since 2017
-* If you want to amp something up with CNCF or get something done in the K8s community; let me know
+* If you want to amp something up with CNCF or get something done in the Kubernetes community; let me know
 
 Hopefully, this is useful for folks to use during their face to face or team meetings in the future. I got a lot out of creating my portion and way more out of listening to my coworkers.
 
