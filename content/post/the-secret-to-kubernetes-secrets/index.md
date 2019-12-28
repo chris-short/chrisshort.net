@@ -1,6 +1,6 @@
 +++
 author = "Chris Short"
-categories = ["Kubernetes"]
+categories = ["Kubernetes", "2019"]
 date = 2019-05-28T11:10:00Z
 description = "There are a lot of ways to create a Kubernetes Secret. Let's dive into a few possibilities and some helpful suggestions from the Kubernetes community."
 draft = false
