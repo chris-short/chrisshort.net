@@ -1,6 +1,6 @@
 +++
 author = "Chris Short"
-categories = ["Open Source"]
+categories = ["Open Source", "2019"]
 date = 2019-09-22T12:15:00Z
 description = "Seth Vargo, a former Chef employee, learned something he wasn't comfortable with about code he'd written. Chef had an active contract with the US DHS' ICE"
 draft = false

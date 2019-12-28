@@ -1,6 +1,6 @@
 +++
 author = "Chris Short"
-categories = ["Kubernetes", "OpenShift", "Ansible", "Red Hat"]
+categories = ["Kubernetes", "OpenShift", "Ansible", "Red Hat", "2019"]
 date = 2019-07-19T10:50:00Z
 description = "Operators help simplify deployment & operations of stateful applications in Kubernetes & OpenShift. Writing Operators with Ansible lowers the barrier to entry."
 draft = false
