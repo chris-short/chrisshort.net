@@ -1,6 +1,6 @@
 +++
 author = "Chris Short"
-categories = ["Shenanigans"]
+categories = ["Shenanigans", "2019"]
 date = 2019-04-02T07:00:00Z
 description = "认证 @ashleymcnamara — Verify Ashley McNamara"
 draft = false

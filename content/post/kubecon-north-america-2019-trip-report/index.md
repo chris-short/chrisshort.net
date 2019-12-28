@@ -1,6 +1,6 @@
 +++
 author = "Chris Short"
-categories = ["Community", "Kubernetes"]
+categories = ["Community", "Kubernetes", "2019"]
 date = 2019-12-01T03:40:00Z
 description = "CNCF Ambassador, Chris Short, describes the week that was in San Diego at KubeCon North America 2019"
 draft = false
