@@ -85,7 +85,9 @@ Nothing hurt as bad as the VA telling me there was nothing else they could do fo
 
 ## DevOps'ish
 
-160 issues and going strong. I did take my first vacation from the newsletter ever this year when we went to Yosemite. But, the newsletter is at a weird point. It needs to be promoted but, I need sponsors to get the funding to promote it. Marketing is hard. It's even harder when you're the one touching the dollars and cents too. But, I did manage to build a shiny, new [DevOps'ish Sponsorship Prospectus](https://devopsish.com/sponsor/DevOps'ish_Sponsorship_Prospectus.pdf). If you work at a company that wants to market to Kubernetes, cloud, developer, and DevOps folks every week, send it over to your marketing and events teams.
+[One hundred sixty issues and still going strong](https://devopsish.com/160/). I did take my first vacation from the newsletter ever this year when we went to Yosemite. But, the newsletter is at a weird point. It needs promotion to grow, but I need sponsors to get the funding to promote it. Marketing is hard. It’s even harder when you’re the one touching the dollars and cents too. But, I did manage to build a shiny, new [DevOps’ish Sponsorship Prospectus](https://devopsish.com/sponsor/DevOps'ish_Sponsorship_Prospectus.pdf). If you work at a company that wants to market to Kubernetes, cloud, developer, and DevOps folks every week, send it over to your marketing and events teams.
+
+Another noteworthy moment about sponsorships of DevOps’ish: This year was the first year I had to decline a sponsorship due to a potential quid pro quo situation. It’s hard to balance working at a vendor and writing a newsletter about the parts of the same industry. If a prospective Red Hat partner is working with me on something and mentions DevOps’ish sponsorship, I have to say no. I think for the first time, I will have to talk to counsel about [DevOps'ish](https://devopsish.com/) in 2020.
 
 ## Goals
 
