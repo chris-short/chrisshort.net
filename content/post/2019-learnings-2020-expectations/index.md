@@ -85,7 +85,7 @@ I did a podcast this summer talking about China, US policy, intelligence concern
 >
 > Chris runs the newsletter DevOpsish and is also a Principal Product Marketing Manager for Red Hat. In this episode, Chris and Ledge discuss the fundamental differences between Chinese and US internet, the technological, legal, and contractual hoops companies jump through in order to tap into a Chinese market, and a breakdown on how Huawei could shape the tech landscape in years to come.
 
-If you want to listen to the full episode or read the transcript, head over to the [Interviews](/interviews/#china-huawei-and-the-future-of-global-technology) page when you're done reading here. Also, I'm happy to come on to any podcast to discuss anything I've work on past, present, or future.
+If you want to listen to the full episode or read the transcript, head over to the [**Interviews**](/interviews/#china-huawei-and-the-future-of-global-technology) page when you're done reading here. Also, I'm happy to come on to any podcast to discuss anything I've work on past, present, or future.
 
 ## Me
 
@@ -106,6 +106,16 @@ Another noteworthy moment about sponsorships of DevOps’ish: This year was the 
 I feel like out in the community; I shouldn't be doing too much by myself anymore. I feel very strongly that I will need to cultivate folks to shadow other people in the community. I don't scale; I am only one human. I need to spread my workload around because I have taken on more than one person can theoretically manage. I want to find folks interested in doing more in open source (Kubernetes in particular) so that we can mutually gain something together.
 
 I had a shadow, Vamshi, for the Kubernetes 1.17 retro meeting. Vamshi seems very squared away and punctual, once he gets comfortable, he'll do wonders in the Kubernetes community. If asked to moderate a retro for 1.18 or beyond, I can request Vamshi get the nod before I feel obligated to accept the invitation.
+
+### Make more impact from home
+
+I want to do more podcasting and virtual events like webinars that don't require travel. These are easy wins for everyone involved since my office and desk setup is more and more like a recording studio than an open source contributors primary work surface.
+
+If you’d like to discuss having me [speak](/speaking/) at your conference, Meetup, office, party, dinner, luncheon, podcast, etc. please use the [**CNCF speaker contact form**](https://www.cncf.io/speaker/chrisshort/). Thanks!
+
+### Make more impact at home
+
+I need to hype Detroit everywhere I go. I need to talk about Detroit, whether it's a super corporate event or not. Detroit is awesome, you should bring your events here, and if you need help convincing folks, please reach out. I have a great writeup from a recent site visit that I can continue building on to fit others' needs. I want to help Detroit rebuild. Part of that looks like broadcasting far and wide that Detroit is the fantastic city I thrive in, and you can too.
 
 ### Escalator in Chief
 
