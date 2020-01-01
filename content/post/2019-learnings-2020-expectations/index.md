@@ -77,6 +77,16 @@ InfoSec is a really tough line of work. I've done it in very high stakes industr
 
 Last year, I wanted to go to China. This year, that doesn't look to be possible. I received word that it's not the best environment for folks that served some of the places I served. It sucks because I see China as a place I'd like to go, learn some new things, and make some friends. But, that's not in the cards for me. Last year, I joked about 5G's impact on the technology landscape. In 2019, the joke's not funny *at all*. The US and China are in a full blown trade war. The US and some of its allies have outright banned Huawei equipment due to security concerns. This all started with 5G and the beginning of the hegemonic transition that is occurring between the US and China at the moment.
 
+#### China, Huawei and the future of global technology
+
+I did a podcast this summer talking about China, US policy, intelligence concerns, and more on The Frontier Podcast:
+
+> How will Chinese companies like Huawei affect the future of cyber security? How does our relationship with China affect the open source community and the future of AI? These are big questions for big thinkers like Chris Short.
+>
+> Chris runs the newsletter DevOpsish and is also a Principal Product Marketing Manager for Red Hat. In this episode, Chris and Ledge discuss the fundamental differences between Chinese and US internet, the technological, legal, and contractual hoops companies jump through in order to tap into a Chinese market, and a breakdown on how Huawei could shape the tech landscape in years to come.
+
+If you want to listen to the full episode or read the transcript, head over to the [Interviews](/interviews/#china-huawei-and-the-future-of-global-technology) page when you're done reading here. Also, I'm happy to come on to any podcast to discuss anything I've work on past, present, or future.
+
 ## Me
 
 I'm not looking to move to a new company any time soon. But, IBM's acquisition of Red Hat has made leaving Red Hat at some point inevitable. That was not the case before the IBM acquisition. Why is that? None of the reasons you're likely thinking. Where I work is now based around one thing: health care. If you're not aware, I suffered an injury in 2003 and have been in constant pain ever since. I was medically separated from the US Air Force in 2010. I was officially labeled a disabled veteran earlier this year when ***my appeals to the Veteran's Administration were finally addressed after nine years***. I suffer from a bevy of issues related to my military service to include PTSD, anxiety, depression, nerve damage, and other issues. I had a hard time with all these issues this year.
