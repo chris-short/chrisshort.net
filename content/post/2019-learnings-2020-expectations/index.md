@@ -87,6 +87,18 @@ Nothing hurt as bad as the VA telling me there was nothing else they could do fo
 
 160 issues and going strong. I did take my first vacation from the newsletter ever this year when we went to Yosemite. But, the newsletter is at a weird point. It needs to be promoted but, I need sponsors to get the funding to promote it. Marketing is hard. It's even harder when you're the one touching the dollars and cents too. But, I did manage to build a shiny, new [DevOps'ish Sponsorship Prospectus](https://devopsish.com/sponsor/DevOps'ish_Sponsorship_Prospectus.pdf). If you work at a company that wants to market to Kubernetes, cloud, developer, and DevOps folks every week, send it over to your marketing and events teams.
 
+## Goals
+
+I feel like out in the community; I shouldn't be doing too much by myself anymore. I feel very strongly that I will need to cultivate folks to shadow other people in the community. I don't scale; I am only one human. I need to spread my workload around because I have taken on more than one person can theoretically manage. I want to find folks interested in doing more in open source (Kubernetes in particular) so that we can mutually gain something together.
+
+I had a shadow, Vamshi, for the Kubernetes 1.17 retro meeting. Vamshi seems very squared away and punctual, once he gets comfortable, he'll do wonders in the Kubernetes community. If asked to moderate a retro for 1.18 or beyond, I can request Vamshi get the nod before I feel obligated to accept the invitation.
+
+### Escalator in Chief
+
+I want to help folks achieve their dreams. But, I can't ***put*** people where they want to be in life. I want to help escalate people where I can. If I'm known as the "Escalator in Chief" at the end of my life, I'd likely die happy.
+
+I have created a [1:1 event](https://calendly.com/chrisshort/1-1) so that folks can schedule time directly with me. I expect there to be a goal for the meeting and there should be at least one takeaway. But, aside from that, you can schedule a 1:1 directly with me, any time you want [via Calendly](https://calendly.com/chrisshort/1-1).
+
 ## Conclusion
 
 I am hopeful that whatever economic upheaval we face as a society in 2020 is limited. In 2019, we saw equity retract somewhat and unicorn growth slow. But, the public markets grew. Hopefully, everything remains good. But, in case it isn't and times get hard for you, don't hesitate to reach out for help (especially if you are still at Docker).
