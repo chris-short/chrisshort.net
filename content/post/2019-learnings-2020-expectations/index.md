@@ -35,11 +35,11 @@ The good news this year is that DevOps has faded into the background a little bi
 
 *Note: chrisshort.net may earn compensation for sales from links on this post through [affiliate programs](/terms/).*
 
-{{< carbon >}}
-
 ## Developer Experience
 
 If you were under a rock for the news of [Docker's demise](https://devopsish.com/154/), let me remind you that in 2020, Docker has no interest in enterprises and is all in on developer tooling. I think developer experience is going to be huge in 2020. No one will likely be able to build a mom and pop style business out of it but, it's going to be something a lot of companies focus on for the foreseeable future. I certainly believe Docker will not survive with this model. But, the fact Docker even thinks they have a chance at redemption by focusing on developer tooling or experience is noteworthy.
+
+{{< carbon >}}
 
 A lot of the work I've been doing the past six months is around creating great experiences and interactions with technology. A lot of this is education but, more of it is thoughtful workflows, empathy, and understanding. Developers have more choice than ever before. IDEs are truly awesome nowadays, containers have made environments more manageable, and APIs are everywhere. I don't interact with databases or filesystems as much as I interact with APIs these days. These abstractions are hopefully adding safeties and improving things. But, much like the satellite constellations, I wonder how much space there is for an API for everything world. This isn't a 2020 concern though.
 
