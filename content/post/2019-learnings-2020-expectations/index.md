@@ -83,6 +83,8 @@ I'm not looking to move to a new company any time soon. But, IBM's acquisition o
 
 Nothing hurt as bad as the VA telling me there was nothing else they could do for me. I altogether jettisoned VA care in all forms immediately after that. It was clear to me I was going to end up a statistic of the worst kind had I not. This was a hard fought lesson and decision though. I had many friends reach out to help. But, few were as impactful as a Kubernetes community member walking me through Red Hat's mental health care coverage. They likely saved my life. With that being said, I'm fearful of the eventual merging of IBM and Red Hat benefits. Once that happens, I will likely need to seek an enormous pay raise or find better health care elsewhere. It's an impossible situation I will find myself in until health care policy in the US changes. But, I come from the VA system, so I don't know if a national health care system would be better than what we have now. That's the kind of shit that makes me have to take meds to sleep at night.
 
+{{< tweet 1212189481849303041 >}}
+
 ## DevOps'ish
 
 [One hundred sixty issues and still going strong](https://devopsish.com/160/). I did take my first vacation from the newsletter ever this year when we went to Yosemite. But, the newsletter is at a weird point. It needs promotion to grow, but I need sponsors to get the funding to promote it. Marketing is hard. It’s even harder when you’re the one touching the dollars and cents too. But, I did manage to build a shiny, new [DevOps’ish Sponsorship Prospectus](https://devopsish.com/sponsor/DevOps'ish_Sponsorship_Prospectus.pdf). If you work at a company that wants to market to Kubernetes, cloud, developer, and DevOps folks every week, send it over to your marketing and events teams.
