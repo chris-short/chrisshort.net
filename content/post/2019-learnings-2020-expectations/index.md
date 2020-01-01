@@ -5,7 +5,7 @@ date = 2020-01-01T07:00:00Z
 description = "Chris Short looks back at 2019 and looks ahead to 2020."
 draft = false
 slug = "2019-learnings-2020-expectations"
-tags = ["DevOps", "developer", "open source", "Kubernetes", "developer experience", "security", "code", "health care", "China", "Docker", "GitOps", "Red Hat", "IBM", "cloud", "cloud native", "API", "WebAssembly", "Wasm", "community", "infrastructure", "AWS", "InfoSec", "software", "chronic pain", "velocity", "medically separated", ""]
+tags = ["DevOps", "developer", "open source", "Kubernetes", "developer experience", "security", "code", "health care", "China", "Docker", "GitOps", "Red Hat", "IBM", "cloud", "cloud native", "API", "WebAssembly", "Wasm", "community", "infrastructure", "AWS", "InfoSec", "software", "chronic pain", "velocity", "medically separated"]
 title = "2019 Learnings, 2020 Expectations"
 image = "/2019-learnings-2020-expectations/happy-new-year-gold.jpg"
 
