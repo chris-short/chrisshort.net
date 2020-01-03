@@ -144,4 +144,10 @@ After Christmas morning this year, I was finally able to mentally shut the door 
 
 Oh and [5G](https://www.wired.com/story/wired-guide-5g/) (lulz... kinda).
 
+## Works referencing this article
+
+* [Kubernetes Future: VMs, Containers, or Hypervisor?](https://www.infoq.com/news/2019/05/kubernetes-future/)
+* [Containers in 2019: They're Calling it a [Hypervisor] Comeback](https://www.infoq.com/articles/containers-hypervisors-2019/)
+* [OpenStack Provider for Virtual Kubelet: A Nodeless Approach for Kubernetes (PDF)](https://object-storage-ca-ymq-1.vexxhost.net/swift/v1/6e4619c416ff4bd19e1c087f27a43eea/www-assets-prod/summits/27/presentations/23991/slides/OpenStack-Provider-for-Virtual-Kubelet-A-Nodeless-Approach-for-Kubernetes2.pdf) ([cached](/2018-learnings-2019-expectations/OpenStack-Provider-for-Virtual-Kubelet-A-Nodeless-Approach-for-Kubernetes2.pdf))
+
 {{< adsense-matched >}}
