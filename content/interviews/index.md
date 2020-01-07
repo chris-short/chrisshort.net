@@ -9,8 +9,6 @@ title = "Interviews"
 
 If you'd like to discuss having me [speak](/speaking/) at your conference, Meetup, office, party, dinner, luncheon, podcast, etc. please use the [CNCF speaker contact form](https://www.cncf.io/speaker/chrisshort/). Thanks!
 
-If you would like to book time with Chris on PodCTL, please email [PodCTL at gmail dot com](mailto:podctl@gmail.com)
-
 ## Red Hat’s Chris Short On Redirecting A War Vet’s Energy To Lifelong Learning & Technical Leadership
 
 Date: 2019-11-29  
