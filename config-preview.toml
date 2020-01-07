@@ -72,7 +72,6 @@ paginate = 8
 #  paypal = "username"
   telegram = "ChrisShort"
   keybase = "chrisshort"
-  podcast = "http://podcast.podctl.com"
 
 [[menu.main]]
     identifier = "menu"
@@ -98,12 +97,6 @@ paginate = 8
     identifier = "speaking"
     name = "Speaking"
     weight = 888
-
-[[menu.main]]
-    parent = "speaking"
-    name = "Podcast"
-    url = "http://podcast.podctl.com/"
-    weight = 889
 
 [[menu.main]]
     parent = "speaking"
