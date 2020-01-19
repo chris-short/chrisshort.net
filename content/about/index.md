@@ -28,7 +28,7 @@ Chris is now working in the [open source](/tags/open-source/), [Linux](/tags/lin
 
 ## Headshot
 
-[Late-2018-Headshot.jpg](Late-2018-Headshot.jpg)
+[Late-2019-Headshot.jpg](Late-2019-Headshot.jpg)
 
 ## Appearances Elsewhere
 
