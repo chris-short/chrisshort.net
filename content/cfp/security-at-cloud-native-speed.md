@@ -16,7 +16,7 @@ Cloud native technologies are increasingly used by organizations to provide a co
 
 ## Description
 
-Security needs to be a step in every part of the software development lifecycle. But, the tools, libraries, platforms, and attack surface never seems to shrink. When teams adopt Kubernetes and cloud native tooling, applications become epehemeral and infrastructure becomes elastic. Baking security tooling into the pipeline is critical. Mandating rigid boundaries around decoupled components is key. Embracing speed and collaboration are crucial to security teams in today's cloud native landscape. The more the merrier along this journey!
+Security needs to be a step in every part of the software development lifecycle. But, the tools, libraries, platforms, and attack surface never seems to shrink. When teams adopt Kubernetes and cloud native tooling, applications become ephemeral and infrastructure becomes elastic. Baking security tooling into the pipeline is critical. Mandating rigid boundaries around decoupled components is key. Embracing speed and collaboration are crucial to security teams in today's cloud native landscape. The more the merrier along this journey!
 
 ### whoami
 
