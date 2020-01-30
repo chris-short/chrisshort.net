@@ -12,7 +12,7 @@ aliases = [
 
 ## Tagline
 
-Writes DevOps'ish, geopolitics.dev, & KubeWeekly | CNCF Ambassador | Co-host PodCTL | Disabled Veteran | He/Him/His | Views my own
+Kubernetes at Red Hat | Writes DevOps'ish & KubeWeekly | CNCF Ambassador | Disabled Veteran | He/Him/His | Views are solely my own
 
 ## Brief Bio
 
