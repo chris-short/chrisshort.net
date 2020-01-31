@@ -12,7 +12,7 @@ aliases = [
 
 ## Tagline
 
-Kubernetes at Red Hat | Writes DevOps'ish & KubeWeekly | CNCF Ambassador | Disabled Veteran | He/Him/His | Views are solely my own
+Kubernetes at Red Hat | Writes DevOps'ish & KubeWeekly | CNCF Ambassador | Disabled Veteran | He/Him/His | Views are solely mine
 
 ## Brief Bio
 
