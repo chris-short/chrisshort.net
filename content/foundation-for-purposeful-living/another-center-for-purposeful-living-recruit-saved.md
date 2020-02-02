@@ -40,7 +40,7 @@ Her response to my straight forward e-mail was very, very interesting:
 
 She thanked me for my honesty and for reminding her that her number one responsibility was to her son and not a cult. I asked her to, "… not jeopardize your family for the Center of Purposeful Living like my mother did." In a later e-mail she stated, "Had I not been told about factnet.org and researched more, I would have jumped in two feet and blinded eyes."
 
-I'm not quite sure why my mother would tell a Center for Purposeful Living recruit about the FACTNet thread unless she wanted to be pushed out of the cult or if there is some other sinister realm of logic afoot (driven by the guru, Derwyn Lackey). But, referring people to their dissent isn't going to help them at all and allows myself and others to help those too weak to remove the wool from their eyes.
+I'm not quite sure why my mother would tell a Center for Purposeful Living recruit about the FACTNet thread unless she wanted to be pushed out of the cult or if there is some other sinister realm of logic afoot (driven by the guru, [Derwyn Lackey](/tags/derwyn-lackey/)). But, referring people to their dissent isn't going to help them at all and allows myself and others to help those too weak to remove the wool from their eyes.
 
 Yet another person has been saved from certain doom by the Center of Purposeful Living simply because they did some research and a little communicating.
 
