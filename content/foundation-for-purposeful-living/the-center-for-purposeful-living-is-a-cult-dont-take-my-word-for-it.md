@@ -17,7 +17,7 @@ aliases = [
 
 It's obvious I'm not the only one that believes Human Service Alliance, University for Human Goodness, Center for Purposeful Living, or whatever they are calling themselves this week is a cult. That fact is apparent to many not engulfed in the organization including those that have had some limited experience with the cult. A few nights ago I had an exchange of e-mails with someone who wishes to remain anonymous (so for the sake of this article we'll call them Quincy).
 
-{{< adsense-inarticle >}}
+{{< carbon >}}
 
 Quincy conveyed to me a great many oddities that were noticed about the Center for Purposeful Living:
 

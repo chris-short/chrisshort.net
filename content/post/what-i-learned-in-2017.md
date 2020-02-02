@@ -23,7 +23,7 @@ As I predicted, [2017 was the Year of Kubernetes](/what-i-learned-in-2016/). One
 
 DevOps has a few great stories but the one the DevOps luminaries point to is the automotive manufacturing story. After being in Detroit for six months, it doesn't seem like the automotive story is a great one to continue to perpetuate. Those practicing DevOps in Detroit know people who work in the automotive industry. The sentiment has generally been, "it's amazing these companies can get a car put together." I have also heard that the IT departments of at least the big three have myriad issues. This is likely due to the bureaucracy of working in a 100 year-old company. But, these problems don't make for a well-rounded story.
 
-{{< adsense-inarticle >}}
+{{< carbon >}}
 
 This doesn't discount Deming's work, The Phoenix Project, or any other great works in the [DevOps README](https://github.com/chris-short/DevOps-README.md). Looking at assembling lines, automation, and smaller pieces of work in progress are good tenets. Even so, another good story for DevOps needs to be cultivated. I'm starting to wonder if health care could provide that message. I've yet to see that well rounded story in health care (likely due to heavy regulatory requirements) but I haven't looked very hard yet. DevOps folks might have to get creative to develop this new story.
 

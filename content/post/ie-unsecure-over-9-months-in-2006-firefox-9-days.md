@@ -35,6 +35,6 @@ Most of us probably knew this already but Internet Explorer (IE) is one of the m
 >
 >In contrast, Internet Explorer's closest competitor in terms of market share — Mozilla's Firefox browser — experienced [a single period lasting just nine days](http://forums.mozillazine.org/viewtopic.php?t=408603) last year in which exploit code for a serious security hole was posted online before Mozilla shipped a patch to remedy the problem.
 
-{{< adsense-inarticle >}}
+{{< carbon >}}
 
 That is one thing that I will give Microsoft credit for, at least they admit they have security issues in their software these days. Ten years ago, Microsoft would have laughed in Mr. Krebs' face and sent him on his way. Additionally, Firefox's security is unsurpassed. I remember the mentioned nine day period and a few people I knew thought the sky was falling. However, when you compare 284 days versus nine days that's a pretty damn secure web browser.

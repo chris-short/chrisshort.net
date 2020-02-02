@@ -18,7 +18,7 @@ The how and the why follows.
 
 Twitter's verified account program is rife with poor choices and questionable decisions. From [verifying Nazis and folks that build brands on hate](https://www.washingtonpost.com/blogs/post-partisan/wp/2017/11/09/twitter-verifies-a-neo-nazi-and-blames-everyone-else/) to not verifying respected people, verification is a problem for Twitter. Make no mistake, I know this is not an easy problem. Those of us outside Twitter's walls have the benefit of hindsight and not having to appease billions of people. We also don't have investors, employees, and so on. I get it.
 
-{{< adsense-inarticle >}}
+{{< carbon >}}
 
 ## Low Hanging Fruit
 

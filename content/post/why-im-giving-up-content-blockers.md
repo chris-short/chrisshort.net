@@ -13,7 +13,7 @@ title = "Why I'm Giving Up Content Blockers"
 
 Since the release of [Apple's iOS 9](https://thenextweb.com/apple/2015/08/24/ios-9-content-blocking-will-transform-the-mobile-web-ive-tried-it/), iPhone and iPad owners are able to install content blockers. These content blockers are often referred to as ad blockers. Providing content blocking functionality through third party apps is a reasonable request. Apple has had this functionality in [iOS since 16 September 2015](https://en.wikipedia.org/wiki/IOS_9). As a user of content blockers on the desktop, I jumped at the opportunity to install one on my mobile devices. I have been rotating them in and out of service for well over a year and a half.
 
-{{< adsense-inarticle >}}
+{{< carbon >}}
 
 Content blockers became necessary as sites started demanding more data from users. All the data usage by trackers, ad networks, analytics, and other plugins has gone unchecked for quite some time. For example, one of my favorite sites has over 20 plugins, most of which are for advertising. Imagine how much data consumption occurs while you are reading an article on your phone.
 

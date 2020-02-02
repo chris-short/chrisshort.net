@@ -45,7 +45,7 @@ stringData:
   key: [REDACTED]
 ```
 
-{{< adsense-inarticle >}}
+{{< carbon >}}
 
 In the past, I would keep Secret files in 1Password, Vault, or some other secure storage mechanism. The idea was, I wouldn't have to look at the Kubernetes Secret docs and do it all again. Reducing errors was the idea here. But, no one needs to make a file because they think that's the only way. For simple Secrets, the `--from-literal` flag allows for a key pair after to create a full fledge Secret:
 

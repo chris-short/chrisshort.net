@@ -25,7 +25,7 @@ I recently had to templatize PHP configurations using Ansible and Jinja2. I had 
 
 These three directives values' are actually tied together. **memory\_limit** is the max amount of memory that a script can consume. **upload\_max\_filesize** defines the largest size a file upload can be. **post\_max\_size** limits the max size of post data.
 
-{{< adsense-inarticle >}}
+{{< carbon >}}
 
 It's not until you read the documentation on [post\_max\_size](http://php.net/manual/en/ini.core.php#ini.post-max-size) that it is clearly laid out that these three directives are related:
 

@@ -19,7 +19,7 @@ As IT teams around the world rise to these new challenges, they're realizing tha
 
 And forward-thinking IT organizations are leveraging those principles. They're becoming more transparent, more collaborative, more mission-driven, and more agile to transform the way they work.
 
-{{< adsense-inarticle >}}
+{{< carbon >}}
 
 Consisting of more than 25 chapters from writers, practitioners, industry leaders, and notable technologists, the book explains how open principles are reshaping IT organizations today. It also offers practical advice for leaders seeking to catalyze powerful and lasting cultural changes in their IT organizations.
 

@@ -25,7 +25,7 @@ There is a lot involved in obtaining each skill level but essentially as a 1 and
 
 In this day and age, it is important to establish reliable communications links for military personnel, the Joint Chiefs of Staff and the president. As a communications/Computer Systems Control Apprentice, you will ensure quality service for military information systems worldwide. You will be involved in controlling all types of communications circuitry and information systems - voice, data and computer systems used for both local and long distance information exchange.
 
-{{< adsense-inarticle >}}
+{{< carbon >}}
 
 You will also work with fixed station, tactical and strategic command and control communications. You will be trained to monitor and analyze the performance of electronic fundamentals, state-of-the-art electronic and computer equipment, computer processed communications, systems, networks and circuits.
 

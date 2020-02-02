@@ -27,7 +27,7 @@ There are two key issues that must be addressed if the previously mentioned know
 
 Once that you have verified that your controller card and BIOS can support 48-bit LBA addressing and you are still not able to recognize all of your hard drive space there is one more thing to check. The Windows driver for your hard disk / ATAPI / ATA controller. Most older devices have older drivers installed by default during Windows setup (these drivers were provided by the manufacturer but chances are they are out of date). Grab the latest driver for your hard disk / ATAPI / ATA controller from the manufacturer's web site and do an "Update Driver" in the device properties in "Device Manager". Following the driver install, reboot. Once you reboot your PC you can go into the "Disk Management" console and you should see your drive in its entirety.
 
-{{< adsense-inarticle >}}
+{{< carbon >}}
 
 **If you are having this problem during set up** just create a partition to install Windows to and then go through the steps mentioned above after Windows is installed and you should be all set.
 

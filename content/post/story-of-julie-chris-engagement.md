@@ -20,7 +20,7 @@ Julie and I have been passholders to [Biltmore](http://www.biltmore.com/) since 
 
 I made reservations at the [Inn on Biltmore](http://www.biltmore.com/stay/inn) for Saturday, January 29, 2011.  We arrived on the sprawling 8000-acre estate around 1:30 PM and stopped by the Bass Pond and Waterfall to see them since neither of us had been there before.  After trekking across a series of muddy paths for a half an hour or so we made our way up to the Inn on Biltmore.  The valet took my car and made sure our luggage was situated.  We checked into our room where a wonderful bottle of Biltmore Riesling sat on ice awaiting our arrival.  Our luggage was delivered promptly and Julie and I enjoyed a glass of wine.  I nervously waited for the absolutely perfect time to spring the ring that was neatly tucked away in my camera bag.
 
-{{< adsense-inarticle >}}
+{{< carbon >}}
 
 We sat out on the terrace outside our amazing room looking towards the mountains to the south of the Biltmore Estate.  We decided to watch the sunset at or near the Biltmore House.  We caught a shuttle with a fantastic driver back to the house.  Julie has never been up the Rampe Douce and Vista to the Statue of Diana.  The decision was made to hike up to the statue to catch the sunsetting behind the Blue Ridge Mountains and Biltmore House on a perfectly clear, balmy Saturday in January.  I had only been up there once before on a very cloudy, rainy day; I was so mind blown by the view this time that I almost forgot why we were up there.
 

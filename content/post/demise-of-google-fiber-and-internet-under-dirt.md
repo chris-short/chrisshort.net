@@ -20,7 +20,7 @@ Also in the news, was a [little-publicized statement from AT&T's chief executive
 
 As an aside, AT&T's plan to compete with cable providers is already feasible. [AT&T is already testing its 5G network](http://about.att.com/story/unveils_5g_roadmap_including_trials.html) and expects a full 5G deployment by 2020-2021. A 5G network will be more than capable of providing TV over internet. AT&T's acquisition of DirecTV and their upcoming 5G network means they have the ability to go head-to-head with cable companies in a big way. They only need Time Warner to compete with Comcast because Comcast owns content creators; AT&T does not.
 
-{{< adsense-inarticle >}}
+{{< carbon >}}
 
 In 2015, [Verizon halted its FiOS expansion](http://arstechnica.com/business/2015/01/verizon-nears-the-end-of-fios-builds/) with the idea of focusing on wireless capabilities. It was a money loser for Verizon because building physical infrastructure is not easy nor cheap.
 

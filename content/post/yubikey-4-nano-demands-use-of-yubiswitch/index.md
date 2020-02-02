@@ -19,7 +19,7 @@ There are various sizes and styles of Yubikey to suit your need but the Yubikey 
 
 The Yubikey Nano 4 inputs the access code into whatever field is in use when it is touched. This is a very convenient option until you realize how often you touch the Yubikey Nano. Think about sitting in a chair with your laptop in your lap and suddenly *vvhttjekbkcvgtnvgjkekjkfvdrvuljndenkrcebhkfh* gets dropped into whatever you're working on. That is where [**yubiswitch**](https://github.com/pallotron/yubiswitch) comes in.
 
-{{< adsense-inarticle >}}
+{{< carbon >}}
 
 [yubiswitch provides releases](https://github.com/pallotron/yubiswitch/releases/) (source and Mac ready DMG files) for easy installation. But, there is some configuration required after installing yubiswitch. 
 

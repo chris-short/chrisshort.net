@@ -29,9 +29,9 @@ Cheddar Cheese (for garnish)
 
 Start heating up your Crock Pot. Add water (or wine instead, just be sure to wipe the condensation a few times from the lid with a paper towel) and chicken broth to Crock Pot (season to taste**).  Using a microplane or grater, add garlic into Crock Pot.
 
-{{< adsense-inarticle >}}
-
 Heat skillet on medium-high heat; add sausage (season to taste**).  Brown sausage until it crumbles insuring that it is cooked through.  Reserve a tablespoon or two of the drippings.  After you completely cook your sausage drain it well using a suitably sized colander.
+
+{{< carbon >}}
 
 Dice onions.  Using the reserved sausage drippings; caramelize onions (season to taste**).  Add to Crock Pot while hot.
 

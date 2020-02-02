@@ -17,7 +17,7 @@ After deciding how my [hard disk will be partitioned in Linux](/moving-to-linux-
 
 Every operating system has a filesystem of some sort. In the Microsoft Windows world you're fairly limited as to what filesystems are available to you. FAT, FAT32, NTFS, and eventually WinFS are really your only options. In Linux however, there are quite a few filesystems available. They all have their own unique advantages and disadvantages and can have application specific reasons for existence. In this article I'll be discussing what I believe the four candidate filesystems are for my move to Linux.
 
-{{< adsense-inarticle >}}
+{{< carbon >}}
 
 I have narrowed my four potential filesystems (based on popularity) to ext2, ext3, XFS, and ReiserFS. The last three in that list are journaling filesystems. A journaling filesystem basically creates a log (or journal) for each partition and keeps track of that partitions structural information (called metadata). The Filesystem HOWTO explained it best, here is a quote:
 

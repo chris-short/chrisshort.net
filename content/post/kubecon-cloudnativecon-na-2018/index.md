@@ -27,15 +27,15 @@ I went to [KubeCon + CloudNativeCon North America 2018](https://events.linuxfoun
 
 Air travel is generally okay for me. I don't seem to mind the crowds at airports like I do crowds of people sitting (more on that in a minute). I'm usually through security in single digit minutes thanks to NEXUS and Clear. I also am perfectly capable of keeping myself busy in the short bursts of waiting around for the next thing to happen. Flying from DTW, my trips are usually shorter, east coast bound ones. The flight to Seattle was my longest this year.
 
-{{< adsense-inarticle >}}
+{{< carbon >}}
 
 I was not looking forward to four hours on a plane. My busted ankles do weird things on longer flights. Couple that with the fact I'm huge, which makes it hard to stay comfortable long in small seats. Also, don't  get me started on the hell that flying put [my shoulder and back](/long-thoracic-nerve-palsy/) through. I mentioned my unfortunate seat selection to [Emily Freeman](http://editingemily.com) she asked if I thought about upgrading myself to First Class. Emily made a very logical argument and I'm very glad she did (thank you, Ems). I had to hit the ground running in Seattle. Being a ball of knots and high on painkillers wasn't an option.
-
-{{< mc >}}
 
 I sat up front on the way to Seattle. What it costs me monetarily more than paid for itself in reduced pain and lower anxiety as a result. It worked better than expected. I didn't hurt too bad when we landed despite it already being a long day (Max got up in the five o'clock hour that morning). I met [Chuck Svoboda](https://twitter.com/Chuckernetes/) onboard too!
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Arrived! <a href="https://twitter.com/hashtag/KubeCon?src=hash&amp;ref_src=twsrc%5Etfw">#KubeCon</a> <a href="https://t.co/7swGZmtLPn">pic.twitter.com/7swGZmtLPn</a></p>&mdash; Chuck Svoboda (@Chuckernetes) <a href="https://twitter.com/Chuckernetes/status/1071947239596019712?ref_src=twsrc%5Etfw">December 10, 2018</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+{{< mc >}}
 
 ## KubeKhan
 

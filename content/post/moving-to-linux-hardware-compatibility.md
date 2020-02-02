@@ -27,7 +27,7 @@ The first step when preparing for the [move to Linux](/moving-to-linux/) is to m
 
 **ATI Radeon VE AGP Graphics Card**: One of the reasons I buy ATI cards is for their Linux compatibility. The ATI web site basically tells to see the XFree86 web site for support. The Linux Hardware Compatibility HOWTO states in plain English that the ATI Radeon VE graphics card is compatible but I wanted to make sure of this. So I ventured off to the XFree86 web site and pulled up the documentation on the latest version of XFree86 and looked in the drivers section for Radeon. The Radeon section explained quite a bit about the XFree86 driver for my graphics card. I'll be using the driver for the RV100 ATI chip. Simple enough.
 
-{{< adsense-inarticle >}}
+{{< carbon >}}
 
 **Western Digital 200 GB and 20 GB Hard Disk Drive**: Considering the Promise ATA-100 controller is compatible there really shouldn't be an issue with the hard drives being compatible. However, with a 200 GB hard drive some partitioning should definitely be done to ensure maximum stability and performance. Also, selecting the right filesystem will be critical to the performance of these hard drives. The subjects of partitioning and filesystems are for another article though. Another concern with the 200 GB hard drive was would my decrepit Asus A7V motherboard support it. After a little research I found that the 200 GB hard drive would be supported with BIOS version 1011 and later.
 
