@@ -17,9 +17,9 @@ Three years ago, I sat down with Brian Gracely and Josh Atwell and [recorded a p
 
 For about a year or so, I've wanted to host or co-host a podcast. I have had some fits and starts over the years. I tried to get one going with Chris Bailey and then tried one on my own. Neither one seemed like something I could start from the ground up and sustain. I've learned that maintaining, editing, and recording podcasts requires a lot of work.
 
-{{< carbon >}}
+I [joined the OpenShift team](/joining-forces-with-openshift/) back in August. I've been getting up to speed with OpenShift and my new team while working in the [upstream](/upstream-vs-downstream/) Kubernetes community. Couple that with the [CNCF Ambassador](/chris-short-named-cloud-native-ambassador/) duties I'm helping out with; I'm heavily invested in Kubernetes.
 
-I [joined the OpenShift team](/joining-forces-with-openshift/) back in August. I've been getting up to speed with OpenShift and my new team while working in the upstream Kubernetes community. Couple that with the [CNCF Ambassador](/chris-short-named-cloud-native-ambassador/) duties I'm helping out with; I'm heavily invested in Kubernetes.
+{{< carbon >}}
 
 This week, Brian Gracely reached out to me to cohost [**PodCTL**](http://podcast.podctl.com/), Red Hat's Kubernetes podcast. Knowing that Brian has the tooling and processes in place for podcast production, I didn't even hesitate to say, "Yes!" [We recorded an episode  today](http://podcast.podctl.com/110399/2024361-the-intersection-of-devops-and-kubernetes) while I'm at home here outside Detroit. [A fancy mic for my iPhone](https://amzn.to/2NYe0t0) is now part of my kit and we're off to the races.
 
