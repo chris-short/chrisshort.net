@@ -25,7 +25,7 @@ I've seen some very complex Linux partitioning schemes before. A lot of distribu
 
 First, I had to determine a few things like, max swap partition sizes, a recommended size for a /boot partition, and how much empty space I'd need to edit digital video and how much storage space I want for MP3s. While doing all this I ran into a few stumbling blocks and a few tips. First, swap partitions on the i386 architecture can have a max size of 2 GB (on kernels newer than version 2.1). There can also be a maximum of eight swap partitions. The Linux Partition HOWTO recommends putting the swap partition on a fast part of the disk, placing the swap partition on a low activity disk, and if possible creating swap partitions on multiple disks and controllers. So essentially, on newer disks, it would be advisable to put the swap partition on the outside of the disk.
 
-{{< adsense-inarticle >}}
+{{< carbon >}}
 
 Being that I have two hard drives available (both on different controllers) I'll create a swap partition after the /boot partition on the 200 GB disk and the first partition on the 20 GB drive will be a swap partition. This should create optimal swap performance. The size of both partitions, being that available space isn't an issue in my case, will be 1 GB each, totaling 2 GB of swap space.
 

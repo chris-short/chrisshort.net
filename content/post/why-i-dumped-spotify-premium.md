@@ -17,7 +17,7 @@ Yesterday I was reading an article by [Steve Kovach](https://plus.google.com/102
 
 Pandora was great until it became ad laden and required me to manage a series of playlists/channels just so I could get the perfect experience for whatever it was I was doing. Grooveshark was fantastic but the licensing issues and potential legal battles they could face at any moment warded me off. Spotify seemed to be that shining beacon of streaming music services that I wanted. I went all in on Spotify and signed up for a Spotify Premium account.
 
-{{< adsense-inarticle >}}
+{{< carbon >}}
 
 I was very pleased with Spotify Premium, it allowed me to create all the playlists I wanted filled with tons of music I loved. It synced those playlists with my work computer, home laptop, and my iPhone. It even allowed me to make offline playlists which I used for music I wanted to listening while working out or driving in my car as not to blow my 2 GB bandwidth cap with Verizon. The social features of Spotify were awesome too. I had a ton of interaction on Facebook thanks to Spotify (and I found new music I liked too). All was well in Spotify Premium land.
 

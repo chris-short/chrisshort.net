@@ -16,7 +16,7 @@ aliases = [
 
 Firefox has taken out a two-page ad in the New York Times! According to Firefox this is the, "largest open source fundraising campaign in history" and, "these folks were willing to put their name out there and be the first to publicly support Firefox and our community at a scale never before attempted in open source history."
 
-{{< adsense-inarticle >}}
+{{< carbon >}}
 
 Somewhere in that massive list of names is mine. I will be picking up a New York Times some time today to see how good this Firefox ad looks on two full pages.
 

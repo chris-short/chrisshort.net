@@ -27,7 +27,7 @@ aliases = [
 
 `/dev` This directory contains the devices available to Linux. Remember that Linux treats devices like files and you can read and write to them as if they were. Everything from floppy drives to printers to your mouse is contained in this directory. Included in this directory is the notorious /dev/null which is most useful for deleting outputs of various functions and programs.
 
-{{< adsense-inarticle >}}
+{{< carbon >}}
 
 `/etc` Linux uses this directory to store system configuration files. Most files in this directory are text and can be edited with your favorite text editor (my favorite is ~~JED~~ [vim](http://www.vim.org/)). This is one of Linux's greatest advantages because there is never a hidden check box and just about all your configurations are in one place. **/etc/inittab** is a text file that details what processes are started at system boot up and during regular operation. **/etc/fstab** identifies file systems and their mount points (like floppy, CD-ROM, and hard disk drives). **/etc/passwd** is where users are defined.
 

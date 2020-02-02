@@ -14,7 +14,7 @@ imagecap = "Be helpful. But, this isn't your day job."
 
 It's the most wonderful time of year! When everyone gets together with family or friends they haven't seen in who knows how long. Of course, the topic of Trump, social media, and burnt gravy stories will come up. But, my personal favorite topic is, "I have this issue with `PIECE OF TECHNOLOGY XYZ`. Please help me!"
 
-{{< adsense-inarticle >}}
+{{< carbon >}}
 
 Luckily, despite having not worked on anything other than Mac and Linux the past seven years, I don't get too many wild questions from family. I'll sit down with Grandma and help her with an iPhone issue from time to time. My mother-in-law has some legacy e-mail stuff all filtered in her Gmail. Sometimes AT&T changes something and it breaks. These things happen. Complex systems are hard enough. No sense in me being an asshole about it (although I will get frustrated from time to time).
 

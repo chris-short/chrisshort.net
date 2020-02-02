@@ -27,7 +27,7 @@ I had the opportunity to attend and speak at [Open Source 101](http://opensource
 
 We kept the talk pretty high level but dived into outcomes focused DevOps. We brought some stats to bear from the 2017 State of DevOps report. We discussed The Three Ways and why change is difficult. I feel like we did a great job providing technical reasoning behind the importance of diversity. We also backed up the benefits of diversity and inclusion with hard numbers to argue with.
 
-{{< adsense-inarticle >}}
+{{< carbon >}}
 
 Touching on my favorite topic, failure, we mentioned, "If it fails in production you're not doing DevOps." I think there are some caveats to that but, when it comes to deployments and testing, it's 100% accurate in my opinion. I mentioned shifting left as a way to continually improve on your failure models. We also touched on blameless postmortems. Needless to say, you can turn almost any one of these points into a full-blown talk.
 

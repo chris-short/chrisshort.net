@@ -34,7 +34,7 @@ One intriguing idea coming very close to the surface is to use Kubernetes as a h
 >
 > This means a virtual machine could be containerized with little modification. With some already planned work, Kubernetes as a hypervisor will start to change the datacenter and cloud landscapes.
 
-{{< adsense-inarticle >}}
+{{< carbon >}}
 
 This enables teams to ask what their hypervisor of choice is gaining them. If it's scalability, [kubeadm join](https://kubernetes.io/docs/reference/setup-tools/kubeadm/kubeadm-join/) can handle adding nodes in a cluster with relative ease. Removing nodes is also a few commands (if you hold your teeth right). If it's redundancy/failover; it's hard to fathom a virtualized environment being faster in this scenario than containers.
 

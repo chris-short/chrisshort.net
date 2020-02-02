@@ -28,7 +28,7 @@ To say a culture contains people is a "no brainer". If you work with a reliable 
 
 It takes a willingness that is often hard to force someone to do. You can incentivize it all you want. But, the best incentive that you can give someone in DevOps is self-improvement. The perspective you should have is that this person will not work for you forever. You are building skills in your people that might end up leaving for what they see as greener pastures. Embrace this idea and watch your SysAdmin turn DevOps engineer grow.
 
-{{< adsense-inarticle >}}
+{{< carbon >}}
 
 Taking pride in one's work is also another characteristic needed in a good DevOps personality. A good SysAdmin taking ownership in their work elevates them. Knowing their solution will be improved upon over time by others prevents engineers from taking too much pride in their work. Giving a sense of ownership in driving solutions to problems is a key thing leadership can provide to a DevOps engineer. If an engineer has an idea they are passionate about, let them work on it. The engineer might not have the expertise others on the team have but try your best not to tamp the fire of passion.
 

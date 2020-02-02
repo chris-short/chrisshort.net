@@ -25,7 +25,7 @@ According to Wikipedia, "A **winged scapula** (scapula alata) is a condition in 
 
 The **long thoracic nerve** (LTN) is a nerve that arises from the fifth, sixth, and seventh cervical nerves, descends the neck behind the brachial plexus, and is distributed to the anterior serratus muscle.
 
-{{< adsense-inarticle >}}
+{{< carbon >}}
 
 **Palsy** is a medical term derived from the word paralysis that is defined as paralysis often accompanied by loss of feeling and uncontrolled body movements such as shaking.
 

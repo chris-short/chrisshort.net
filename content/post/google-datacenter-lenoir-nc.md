@@ -33,7 +33,7 @@ Good news for the Unifour area of North Carolina (where I lived three years of m
 >
 >"North Carolina is a desirable area because costs and wages are lower, yet they have a base of skilled, technologically savvy employees they can draw from," Greg Sterling, principal analyst at Sterling Market Intelligence, told the E-Commerce Times.
 
-{{< adsense-inarticle >}}
+{{< carbon >}}
 
 When I was in my senior year of high school in North Carolina I worked for an Internet Service Provider in Hickory, NC. The technology industry was booming in that region with four local ISPs grappling for more customers, Alcatel producing their products like no tomorrow, and Siecor was pumping out miles and miles of new fiber optic cabling for its customers. Then the dot-com bubble burst came and almost as quickly as those major businesses had grown they fizzled.
 

@@ -16,13 +16,13 @@ imagecap = "The Incredibly Few, The Mostly Proud: The Anonymous Veterans of Toda
 
 A few things have bothered me the past couple of weeks about how Americans "respect" veterans. While I served, I appreciated the recognition at sporting events and ceremonies for active duty personnel. But, now that I'm a civilian, I have strong feelings about how veterans should conduct themselves in today's America. I see the role of veterans in society today as responsible, pragmatic, and thoughtful citizens. Veterans' responsibilities are to ensure those currently serving this nation are keeping the oaths we swore to.
 
-{{< adsense-inarticle >}}
+{{< carbon >}}
 
 One thing that I don't recall being a thing until recently is veterans in civilian clothes saluting during the national anthem. As a matter of fact, this wasn't allowed until 2008 when a provision was included in the National Defense Authorization Act of 2008 (further modified in 2009). I get it, it's law, you can do it if you so desire (I won't judge you for it). It's not necessary though.
 
-{{< mc >}}
-
 Why render a salute as opposed to putting your hand over your heart? What's *your* reason for doing that? To self-identify as a veteran? Are you seeking recognition or special treatment? I didn't serve to be recognized for it. I joined because of the dot-com bubble burst. I continued serving because I wanted to make sure the perpetrators, planners, and networks behind the 9/11 attacks were brought to justice. If you feel like you deserve recognition or special treatment because you served it's quite possible you served for the wrong reasons.
+
+{{< mc >}}
 
 Another thing that irked me, I haven't quite been able to put my finger on why either, was at Aubree's graduation, all veterans were asked to stand up and be recognized. While I appreciated the thought, I did not stand up. That was neither the time nor the place to be recognized. It was a time to honor my daughter's tremendous accomplishments, not my own.
 

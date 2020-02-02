@@ -19,7 +19,7 @@ Getting Started with [Kubernetes](https://kubernetes.io/) sounds like quite a da
 
 If you want an "Explain Like I'm Five" guide to what Kubernetes is and some of its primitives take a look at "[The Children's Illustrated Guide to Kubernetes](/kubernetes-illustrated-childrens-guide/)". The Guide features a cute little giraffe, named Phippy, that represents a tiny PHP app that is looking for a home. Core Kubernetes primitives like [pods](https://kubernetes.io/docs/concepts/workloads/pods/pod-overview/), [replication controllers](https://kubernetes.io/docs/concepts/workloads/controllers/replicationcontroller/), [services](https://kubernetes.io/docs/concepts/services-networking/service/), [volumes](https://kubernetes.io/docs/concepts/storage/volumes/), and [namespaces](https://kubernetes.io/docs/concepts/overview/working-with-objects/namespaces/) are covered in the guide. It's a good way to wrap your mind around the why and how of Kubernetes. Fair warning though, it does not cover Kubernetes networking components.
 
-{{< adsense-inarticle >}}
+{{< carbon >}}
 
 Let's break down the two areas you can get started with Kubernetes. The first area is maintaining or operating the Kubernetes cluster itself. The second area is deploying and maintaining applications running in a Kubernetes cluster. The distinction here is to provide compartmentalization when learning Kubernetes. To be proficient at Kubernetes you should know both but, you can get started knowing one area or the other.
 

@@ -18,9 +18,9 @@ I was lucky enough to be selected to speak at DevOpsDays Toronto. This was my fi
 
 What shocked me on the first day of the event was when I was told how many people were expected: 700. This is an enormous number for a DevOpsDays. But, to the organizing team's credit, it still felt like an intimate venue. The expansive main hall was configured in such a way that the ceiling made it feel like I was talking to one-hundred people and not seven times that. For such a large event it was incredibly well planned.
 
-{{< adsense-inarticle >}}
-
 I refreshed my talk, [*What the Military Taught Me About DevOps*](https://chrisshort.net/cfp/what-the-military-taught-me-about-devops/). I did not expect to be doing this talk in a foreign country. However, I served with plenty of Canadians during my time in the Air Force so I figured it would resonate with my neighbors to the north. Keep in mind, this talk was the first public talk I ever built and submitted. A lot has changed since then (I'll save that for another time). I almost rewrote the whole thing at the last minute. But, with some advice from a friend I was able to rework it for life in 2018.
+
+{{< carbon >}}
 
 One thing I did need to mention was the fact that freedom of speech is great but, "I did not serve in the military to make it possible for assholes to carry tiki torches in Charlottesville." For the first time in my public speaking career I was interrupted by applause. It was a truly riveting feeling. Thank you, Toronto. I'll never forget this event.
 
