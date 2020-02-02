@@ -2,7 +2,7 @@
 
 author = "Chris Short"
 date = 2019-01-07T18:06:00Z
-description = "Shrug"
+description = "Shrug emoji or sup son emoji; because answering questions with words is hard."
 draft = false
 slug = "shrug"
 tags = ["shrug", "emoji", "sup son"]
