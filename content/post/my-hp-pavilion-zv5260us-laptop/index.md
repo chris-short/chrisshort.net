@@ -35,7 +35,7 @@ I picked up the HP Pavilion zv5260us. Here are the specs of the system:
 * Firewire (IEEE 1394)
 * 3 USB 2.0 Ports
 
-{{< adsense-inarticle >}}
+{{< carbon >}}
 
 I dumped all the pre-installed software (of course) and installed the software I actually needed, removing all the crap that comes pre-installed on a laptop these days.
 

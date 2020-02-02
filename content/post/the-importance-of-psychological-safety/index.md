@@ -18,7 +18,7 @@ I have mentioned this a few times in various [talks](https://chrisshort.net/spea
 
 The number one contributor to team effectiveness at Google was surprising at the time; *psychological safety*. "Psychological safety refers to an individual's perception of the consequences of taking an interpersonal risk." This is a mind bending idea but, it has real impact on a team's ability to perform and innovate. Let's analyze an example in my own work life of creating this psychological safety.
 
-{{< adsense-inarticle >}}
+{{< carbon >}}
 
 In my career, I have found it difficult to obtain psychological safety in my own work. There's a lot of reasons for this. The main one is, in a previous life, I couldn't talk about my day to day work and life. As I have gotten further away from that time, It has gotten easier to adjust to being more transparent. With a [permanent nerve injury](/long-thoracic-nerve-palsy/), constant pain, and dealing with the horror that is the VA, it's often a lot for an employer to consume in one fell swoop. Imagine trying to go over a decade and a half worth of history and its impacts in a thirty minute meeting. It's hard and a lot of people don't get it even when it's completely broken down for them.
 

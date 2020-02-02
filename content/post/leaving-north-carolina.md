@@ -18,7 +18,7 @@ Making the decision to leave North Carolina did not come easily. Julie and I hav
 
 I have made such great friends here and have morphed into a person I'm proud to be while living in the Triangle. SolarWinds MSP is a fantastic place to work. The team at SolarWinds is built for long-term success. I recently took over [Triangle DevOps](https://www.meetup.com/triangle-devops/) and joined [DevOpsDays RDU](https://www.devopsdays.org/events/2017-raleigh/contact/)'s organizing committee as a result of that. Triangle DevOps will be left in good hands. DevOpsDays RDU is already in good hands but I am still actively involved with the other organizers. I have also offered to assist with DevOpsDays Detroit. I will have to fly to [All Things Open](https://allthingsopen.org/) for the first time ever. All Things Open is the jolt of open source that I need in my year. Todd Lewis and his team have done a tremendous job creating a premiere event here in North Carolina. I'm very happy I was able to tell him that in person [when I spoke at Open Source South Carolina in Columbia, SC last week](/night-of-devops-open-source-sc/). I will make every effort to speak at it or at least attend every year.
 
-{{< adsense-inarticle >}}
+{{< carbon >}}
 
 I have built a network of friends and colleagues in North Carolina that will be missed dearly. Everyone I have met and worked with since moving to the Triangle in 2010 has made an impact on me. The folks I have not enjoyed working with and the folks that I will call friends forever have all molded me into who I am today. I call North Carolina's Triangle the Palo Alto of the East Coast. It is filled with some of the smartest people and greatest opportunities the east coast has to offer.
 

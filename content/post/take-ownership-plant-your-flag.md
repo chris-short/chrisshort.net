@@ -21,7 +21,7 @@ If you are going to plant your flag in something your knowledge of it should be 
 
 Do not be the person that makes assumptions. Definitively understand what you are doing and its impact on the things around it. Treat every task as an opportunity to learn. If you do not know, investigate further. You should also understand that no matter how much diligence you think you have put into your investigation there will likely be an outlier you missed. At some point during your research or investigative process you have to plant your flag. You could spend your entire career solving one issue. When you implement a change you acknowledge that you have the info needed to address the outliers that may crop up in a very quick and decisive manner.
 
-{{< adsense-inarticle >}}
+{{< carbon >}}
 
 Do not be the person that "cries wolf" because of an assumption. There is one in every medium to large-sized team. Every error message is not going to be solved by the same person or team within your group. Some times the error will have to be solved by you, the reporter. Other times the error is completely external to your team (third party vendors). Own the issue and get it resolved by whomever is the right team to solve it. Do not rely on others to consider your issue more pressing than the ones they are already working to resolve.
 

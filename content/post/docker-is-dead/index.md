@@ -5,7 +5,7 @@ date = 2017-12-30T12:32:00Z
 description = "Aside from Uber, I can't think of a more utilized, hyped, and well funded Silicon Valley startup (still in operation) fumbling as bad as Docker did in 2017."
 draft = false
 slug = "docker-is-dead"
-tags = ["open source", "docker", "containers", "kubernetes", "moby", "container", "Docker Inc"]
+tags = ["Docker", "Docker, Inc", "Kubernetes", "Moby", "open source", "DevOps", "container", "Docker Swarm", "rise of Kubernetes", "cloud native", "Silicon Valley", "early success", "community", "funding", "investors", "partners", "capital", "leadership", "orchestrator"]
 title = "Docker, Inc is Dead"
 image = "/docker-inc-is-dead/docker-is-dead.png"
 aliases = [
@@ -38,7 +38,7 @@ But, like most well funded, win at all cost start-ups of the 2010s, Docker made 
 
 Docker's doom has been accelerated by the rise of [Kubernetes](https://kubernetes.io/). Docker did itself no favors in its handling of Kubernetes, the open source community's darling container orchestrator. Docker's competing product, Docker Swarm, was the only container orchestrator in Docker's mind. This decision was made despite Kubernetes preferring Docker containers at first. Off the record, Docker Captains confirmed early in 2017 that Kubernetes discussions in articles, at meetups, and at conferences was frowned upon by Docker.
 
-{{< adsense-inarticle >}}
+{{< carbon >}}
 
 Through dockercon17 in Austin this Kubernetes-less mantra held. Then, rather abruptly, at dockercon EU 17 [Docker decided to go all in on Kubernetes](https://blog.docker.com/2017/10/kubernetes-docker-platform-and-moby-project/). The sudden change was an obvious admission to Kubernetes' rise and impending dominance. This is only exacerbated by the fact that Docker sponsored and had a booth at KubeCon + CloudNativeCon North America 2017.
 
@@ -58,12 +58,16 @@ The real problem with Docker is a lack of coherent leadership. There appears to 
 
 ### Bonus: Conspiracy Theory
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Conspiracy Theory: Docker knows it is over for them. The technical folk decided to roll out Moby drastically and embraced Kubernetes suddenly to make sure their work still lives on. <a href="https://twitter.com/hashtag/Docker?src=hash&amp;ref_src=twsrc%5Etfw">#Docker</a> <a href="https://twitter.com/hashtag/DevOps?src=hash&amp;ref_src=twsrc%5Etfw">#DevOps</a></p>&mdash; Chris Short (@ChrisShort) <a href="https://twitter.com/ChrisShort/status/946724417249345536?ref_src=twsrc%5Etfw">December 29, 2017</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+{{< tweet 946724417249345536 >}}
 
 I floated out [a theory on Twitter](https://twitter.com/ChrisShort/status/946724417249345536) about the awkward moments for Docker in 2017. It is possible Docker knows the end is near for the company itself. As organizational changes have indicated a pending exit (likely through acquisition), the technical core of the company prioritized some changes. [Donating containerd to CNCF](https://blog.docker.com/2017/03/docker-donates-containerd-to-cncf/), making Moby the upstream of Docker, and embracing Kubernetes will immortalize the good work done by the folks at Docker. This allows a large organization like Oracle or Microsoft to come along and acquire the company without worrying about the technological advances made by Docker employees being locked behind licenses. This provides the best of both worlds for the software teams and company itself. Needless to say, 2018 will be an interesting year for Docker.
 
-> Japanese Translation: [Docker社は死んだ](http://itosho525.hatenablog.com/entry/2018/01/01/074358)
+### Continuing Coverage
 
-{{< mc >}}
+* [DevOps'ish 117](https://devopsish.com/117/): **Docker Layoffs**, Purl, Linus Knocks Arm, Killing k8s, Ansible, OperatorHub, Gremlin, PostgreSQL Operator, and More
+* [DevOps'ish 147](https://devopsish.com/147/): Strategy is hard, the misaligned middle, calling bullshit on Matt Asay, the death of Chef, **Docker’s impending doom**, AnsibleFest, and more
+* [DevOps'ish 154](https://devopsish.com/154/): Docker on life support, The Unicorn Project, KubeCon, Helm 3, Adidas DevOps Framework, and more
+
+> Japanese Translation: [Docker社は死んだ](http://itosho525.hatenablog.com/entry/2018/01/01/074358)
 
 {{< adsense-matched >}}

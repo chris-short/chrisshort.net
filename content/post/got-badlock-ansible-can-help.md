@@ -18,7 +18,7 @@ title = "Got Badlock? Ansible Can Help"
 For RPM based OS users Badlock (samba) patching is as easy as:
 `ansible -m shell -a "yum update *samba*" all`
 
-{{< adsense-inarticle >}}
+{{< carbon >}}
 
 Or you can be very granular and use an Ansible Playbook to audit and patch samba packages:
 
@@ -51,3 +51,5 @@ A similar Ansible Playbook for a Debian based system would look something like t
 {{< / highlight >}}
 
 Your bad nightmares about Badlock will be a not so bad memory in no time.
+
+{{< adsense-matched >}}

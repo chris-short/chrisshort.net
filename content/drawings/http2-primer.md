@@ -24,7 +24,7 @@ The first thing to keep in mind is the primary reason for HTTP/2 even being a pr
 
 * HTTP/2 is **multiplexed** and this is awesome! At the turn of the century, I was using military-grade multiplexers on a regular basis. I thought that it would be great to be able to do this with TCP/IP based connections; that reality is finally here for HTTP! Multiplexing essentially is combining multiple signals or streams into a single signal or stream. It is really quite innovative and will establish only one TCP connection. This will handle resource blocking in a better fashion as well.
 
-{{< adsense-inarticle >}}
+{{< carbon >}}
 
 * HTTP/2 **compresses headers** by default with a newly built compression algorithm called [HPACK](https://http2.github.io/http2-spec/compression.html). Compressing headers will allow more data to flow faster by getting headers down into the manageable realm of a packet or two as opposed several round trips.
 
