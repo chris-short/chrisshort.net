@@ -17,7 +17,7 @@ While I was at [GopherCon 2017](/gophercon-2017-lightning-talk-video/), it becam
 
 Immediately after launching, [Steve Marsh](https://github.com/Swampy821) reached out to me about helping co-organize the meetup. Within a day, Detroit Go Meetup had another organizer and corporate sponsor in [StockX](https://stockx.com/). Within the first forty-eight hours, our first meeting and speaker announcement came out. Within days, the talented [Marcus Olsson](https://marcus.se.net/) finalized an official [Detroit Go Meetup](https://detroitgolang.com/) logo.
 
-{{< adsense-inarticle >}}
+{{< carbon >}}
 
 [Detroit Go Meetup will have its first meeting at Bankrate in Downtown Detroit on Tuesday, August 29, 2017 at 7:00 PM ET](https://www.meetup.com/DetroitGolang/events/242260260/). We are pleased to welcome none other than Sam Boyer! Sam will be giving a talk titled, "Dep Deep Dive!" This talk dives into [github.com/golang/dep](https://github.com/golang/dep), the "official experiment" and precursor to a new approach to dependency management in the go toolchain itself. To help you get the most out of dep, Sam will cover both the essential workflows, and dep's core design principles.
 

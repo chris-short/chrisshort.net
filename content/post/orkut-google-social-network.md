@@ -17,7 +17,7 @@ image = "https://cdn.chrisshort.net/Orkut_2004.png"
 
 Google has officially stated that orkut.com is not part of their service offerings (yet) but the fact that the phrase, "in affiliation with Google" appears on every page leads one to believe that this social networking service isn't going to spin-off into a non-Google entity any time soon.
 
-{{< adsense-inarticle >}}
+{{< carbon >}}
 
 Google has officially stated that orkut.com is not part of their service offerings (yet) but the fact that the phrase, "in affiliation with Google" appears on every page leads one to believe that this social networking service isn't going to spin-off into a non-Google entity any time soon.
 

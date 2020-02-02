@@ -18,7 +18,7 @@ A few weeks ago a co-worker and I were discussing some things we really enjoyed 
 
 It is a simple question but the answer tells you a lot about a company. It should be a two part answer for technical positions. On the desktop side, the answer should be a SaaS or Cloud based solution (Google, Office 365, etc.). On the server or infrastructure side, the response should be "a vendor" or "a third party".
 
-{{< adsense-inarticle >}}
+{{< carbon >}}
 
 E-mail is harder to manage than you would think. It requires a non-trivial amount of infrastructure resources (servers, DNS, spam filtering, monitoring, etc.). E-mail also has to be managed by people with specific skill sets. If the e-mail admin is doing other tasks; you are going to have a bad time. Handing this service off to an outside party is very often extremely cost effective and frees up people to accomplish things that contribute to the company's bottom line as well as remove an attack vector.
 

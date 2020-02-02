@@ -35,7 +35,7 @@ There are 12 games inside Wii Sports Resort that all have great playability (min
 * Cycling
 * Air Sports
 
-{{< adsense-inarticle >}}
+{{< carbon >}}
 
 The Frisbee games are exceedingly difficult to get to work in Automatic mode (automatic being that it senses when you want to release the Frisbee as opposed to you using a button) but are entertaining when you get the hang of it.
 

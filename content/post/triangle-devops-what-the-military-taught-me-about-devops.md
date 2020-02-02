@@ -20,6 +20,6 @@ One person asked if I would be willing to share my slides. I informed him that t
 
 One takeaway I have from the talk, is that I need to get better at speaking on diversity issues. But, that is for another time.
 
-{{< adsense-inarticle >}}
+{{< carbon >}}
 
 I think this will be the last time I give this talk (for a while at least). But, if you are interested in me speaking about veterans and/or tech issues do not hesitate to ask.

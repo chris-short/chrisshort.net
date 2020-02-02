@@ -35,7 +35,7 @@ Source: [Wikipedia](https://en.wikipedia.org/wiki/Network_Time_Protocol)
 
 In a nutshell, if you properly set up NTP on your network devices and systems you can have consistently set clocks across your enterprise. Keep in mind, NTP is time zone agnostic, it will not solve your time zone problems (you still need to address time zones in your environment). I would highly recommend bookmarking [RFC 5905](https://tools.ietf.org/html/rfc5905) and [ntp.org](http://www.ntp.org/) for future reference.
 
-{{< adsense-inarticle >}}
+{{< carbon >}}
 
 NTP utilizes UDP so it is very much a fire and forget protocol (which might be why NTP is so often unknown or poorly configured). ntpd (EL 6 or lower and Ubuntu) or chronyd (EL 7 or higher) are the Linux daemons (services) that are most commonly used to manage NTP (there are others but I have not used them lately).
 

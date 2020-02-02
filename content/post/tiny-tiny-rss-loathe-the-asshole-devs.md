@@ -12,7 +12,7 @@ title = "Tiny Tiny RSS: Loathe the Asshole Devs"
 
 I've been messing around with [Tiny Tiny RSS](http://tt-rss.org/) today. Upon discovering it I posted in their [Google+ Community](https://plus.google.com/communities/110072726694649153528) asking how other users implemented it and what they thought of a specific use case I had. I got some good responses and was quite appreciative of them.
 
-{{< adsense-inarticle >}}
+{{< carbon >}}
 
 I opted, at the advice of those in the community, to setup Tiny Tiny RSS on RedHat's [OpenShift](https://www.openshift.com/) and was pleasantly surprised by how the product RedHat created. I even [tweeted to the OpenShift Architect](https://twitter.com/Michael_McGrath/status/340987380628586497) about it. All around a nice experience with RedHat's OpenShift. Optimally, if I could get Tiny Tiny RSS to place nice on OpenShift I'd probably bring more hardware into the house for the sole purpose of running it on dedicated, non-AWS hardware.
 

@@ -18,7 +18,7 @@ Yesterday, I had an incredibly healthy exchange with a divorced mother who had t
 
 However, for whatever reason Joanna White, my estranged biological mother, from the Center for Purposeful Living advised this person to see the thread over at FACTNet. The divorced mother noticed my posts on the subject and decided to contact me directly via this web site's contact form. She asked me to, "… share your experience with me before I make this leap of faith."
 
-{{< adsense-inarticle >}}
+{{< carbon >}}
 
 I assumed that she had read the FACTNet thread and the posts here before contacting me so I wrote her this reply:
 

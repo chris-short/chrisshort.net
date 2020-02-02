@@ -31,7 +31,7 @@ The next major improvement that the Sidekick II brings to the table is the flat 
 
 This new form factor when compared to the plethora of Nokia phones I have around the house definitely makes it more phone like which is a good thing. The Sidekick II is still a powerful PDA-like device despite its new phone-ish look.
 
-{{< adsense-inarticle >}}
+{{< carbon >}}
 
 Another improvement in the construction of the Sidekick II is a clip that holds the SIM chip firmly in place. The days of random "SIM not ready" warning messages should be a thing of the past due to this new stability in the SIM chip compartment.
 

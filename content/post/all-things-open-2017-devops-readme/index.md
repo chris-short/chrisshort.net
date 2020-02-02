@@ -15,7 +15,7 @@ I had the opportunity to participate in [All Things Open](https://allthingsopen.
 
 **This list is on [GitHub](https://github.com/chris-short/DevOps-README.md), pull requests are welcome.**
 
-{{< adsense-inarticle >}}
+{{< mc >}}
 
 ## Slides
 
@@ -24,3 +24,5 @@ I had the opportunity to participate in [All Things Open](https://allthingsopen.
 ## Video
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/Ibnj-YZTypU" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+{{< adsense-matched >}}

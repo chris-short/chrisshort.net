@@ -21,7 +21,7 @@ I had an amazing experience at DevOpsDays NYC 2018. The organizers put together 
 
 I was able to speak about Go and how I used it to save my DevOps ass at Solarwinds MSP. My team of merry DevOps'ers inherited an application. A third-party built the app a few years before we inherited it. The app had been in maintenance mode for quite some time. Before we could do any re-engineering work, we had to resolve a critical issue. The certificates were about to expire!
 
-{{< adsense-inarticle >}}
+{{< carbon >}}
 
 This talk walks through the use case of having to apply new certificates to an unfamiliar application. I built a 40-line Go tool to test and audit certifcate chains and web server configurations. I'm not a coder but Go makes me happy and really did save the day.
 

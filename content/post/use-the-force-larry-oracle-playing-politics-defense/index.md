@@ -22,7 +22,7 @@ But, there's a twist in the Oracle portest of JEDI. [Interoperability Clearingho
 
 Interoperability Clearinghouse and along with it, Oracle's protest, [were deemed malarkey](https://federalnewsnetwork.com/defense-news/2019/07/judge-rules-dods-jedi-contract-violated-law-on-multiple-awards/). The method by which DoD decided to source the contract to a single-vendor was flawed. But, "[the court also ruled that Oracle couldn't have been harmed by the single-award decision, since the company was disqualified from the JEDI procurement on other grounds.](https://federalnewsnetwork.com/defense-news/2019/07/judge-rules-dods-jedi-contract-violated-law-on-multiple-awards/)"
 
-{{< adsense-inarticle >}}
+{{< carbon >}}
 
 Oracle should not be in the hunt for JEDI, *period*. DoD set a requirement that JEDI vendors must have, "[a large enough commercial cloud business as of January that the DoD contract wouldn't make up a majority of their cloud sales.](https://federalnewsnetwork.com/dod-reporters-notebook-jared-serbu/2018/12/oracle-lawsuit-claims-dods-jedi-contract-violates-law-on-7-counts/)" Oracle's cloud isn't big enough to prevent it from falling victim to catering to DoD. As opposed to pushing DoD to move faster and innovate based off other customers' innovations getting integrated back into the products. It's the "rising tide lifts all boats" philosophy and DoD wants in on it.
 

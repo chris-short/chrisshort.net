@@ -20,7 +20,7 @@ What is System Integrity Protection? According to [Apple's documentation](https:
 
 What does it really do? It prevents users, processes, etc. from modifying certain resources on the system (even if you're running as root).
 
-{{< adsense-inarticle >}}
+{{< carbon >}}
 
 This is a great security enhancement for the vast majority of Mac users. But, some people need to modify the resources protected by System Integrity Protection. 
 

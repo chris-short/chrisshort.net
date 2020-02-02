@@ -21,7 +21,7 @@ the notorious xx is a mashup of The xx (a British group) with various Notorious 
 
 <iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=807865423/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/transparent=true/" seamless><a href="http://waitwhat.bandcamp.com/album/the-notorious-xx">the notorious xx by wait what</a></iframe>
 
-{{< adsense-inarticle >}}
+{{< carbon >}}
 
 **B​.​I​.​G. Flume**
 

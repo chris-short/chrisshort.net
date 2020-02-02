@@ -22,7 +22,7 @@ I would like to point out that I have updated [my **disclaimer** and this site's
 
 On Sunday, October 29, 2018, I was watching my two older nephews play with Max at my youngest nephew's baptism party when a Bloomberg alert popped up. My phone was on a coffee table, while I could make out that the alert was Bloomberg I couldn't read what it said. "Bloomberg? On a Sunday? Huh." I thought to myself. Picking up the phone I immediately notice it says something about Red Hat. I see the headline, [IBM to Acquire Linux Distributor Red Hat for $33.4 Billion](https://www.bloomberg.com/news/articles/2018-10-28/ibm-is-said-to-near-deal-to-acquire-software-maker-red-hat).
 
-{{< adsense-inarticle >}}
+{{< carbon >}}
 
 I opened the story, skimmed it, and got up to go find my wife, Julie. I show her the story. Julie knows IBM from living in Raleigh for a decade (not a good decade for IBM either). I don't recall exactly what she said or did but, it made me start looking for more information. While opening Inoreader an alert from Reuters came in, [IBM nears deal to acquire cyber security company Red Hat: sources](https://www.reuters.com/article/us-red-hat-m-a-ibm/ibm-nears-deal-to-acquire-cyber-security-company-red-hat-sources-idUSKCN1N20N3).
 

@@ -24,7 +24,7 @@ When the [Dot-com bubble](https://en.wikipedia.org/wiki/Dot-com_bubble) began to
 
 From that point forward, I carried the Linux and open source mantles into battle. I find ways to solve complex problems on Defense Department networks using Linux and open source tools. SELinux paved the way for DoD to be able to embrace Red Hat Enterprise Linux when it was made available. This was my future and I knew it in the late 1990s.
 
-{{< adsense-inarticle >}}
+{{< carbon >}}
 
 ## The Ansible Journey Begins
 
