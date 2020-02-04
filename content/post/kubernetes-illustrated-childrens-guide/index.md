@@ -34,9 +34,7 @@ From the original [The Illustrated Children's Guide to Kubernetes](https://kuber
 Follow the tale of Phippy and her niece Zee as they take an educational trip to the Kubernetes Zoo.
 
 <object data="/pdf/Phippy-Goes-To-The-Zoo.pdf" type="application/pdf" width="700px" height="700px">
-    <embed src="/pdf/Phippy-Goes-To-The-Zoo.pdf">
         <p>This browser does not support PDFs. Please download the PDF to view it: <a href="/pdf/Phippy-Goes-To-The-Zoo.pdf">Download PDF</a>.</p>
-    </embed>
 </object>
 
 When I first got a copy of The Illustrated Children’s Guide to Kubernetes at an event in 2016 I knew what Kubernetes was and that it was going to be a big deal. But, I hadn't quite grasp the understanding of all the various components. The Illustrated Children's Guide to Kubernetes helped me understand the basics of Kubernetes and where to dive in deeper. Also, it made my son, Max, giggle quite a bit when I read it to him.
