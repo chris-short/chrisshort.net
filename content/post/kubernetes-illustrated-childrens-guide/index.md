@@ -24,9 +24,7 @@ From the original [The Illustrated Children's Guide to Kubernetes](https://kuber
 ## The Illustrated Children’s Guide to Kubernetes
 
 <object data="/pdf/Illustrated-Childrens-Guide-to-Kubernetes.pdf" type="application/pdf" width="700px" height="700px">
-    <embed src="/pdf/Illustrated-Childrens-Guide-to-Kubernetes.pdf">
         <p>This browser does not support PDFs. Please download the PDF to view it: <a href="/pdf/Illustrated-Childrens-Guide-to-Kubernetes.pdf">Download PDF</a>.</p>
-    </embed>
 </object>
 
 {{< mc >}}
