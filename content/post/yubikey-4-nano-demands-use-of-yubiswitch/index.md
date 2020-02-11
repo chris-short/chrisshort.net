@@ -21,11 +21,11 @@ The Yubikey Nano 4 inputs the access code into whatever field is in use when it 
 
 {{< carbon >}}
 
-[yubiswitch provides releases](https://github.com/pallotron/yubiswitch/releases/) (source and Mac ready DMG files) for easy installation. But, there is some configuration required after installing yubiswitch. 
+[yubiswitch provides releases](https://github.com/pallotron/yubiswitch/releases/) (source and Mac ready DMG files) for easy installation. But, there is some configuration required after installing yubiswitch.
 
 Install yubiswitch, run it, and open the Yubiswitch Preferences pane:
 
-![](https://cdn.chrisshort.net/YubiSwitch_Preferences.png)
+![YubiSwitch Preferences](https://cdn.chrisshort.net/YubiSwitch_Preferences.png)
 
 The YubiKey ProductID in the Preferences field needs to be set correctly or yubiswitch simply won't work. Open a Terminal and run the following command:
 
@@ -33,11 +33,11 @@ The YubiKey ProductID in the Preferences field needs to be set correctly or yubi
 
 The output will look something like this:
 
-{{ highlight bash }}
+{{< highlight bash >}}
 |     "idProduct" = 0x407
 |     "iProduct" = 0x2
 |     "USB Product Name" = "Yubikey 4 OTP+U2F+CCID"
-{{ / highlight }}
+{{< / highlight >}}
 
 Plug the value from `idProduct` into the YubiKey ProductID field in the yubiswitch preferences pane, click OK, and yubiswitch should be working. You should now be able to enable and disable the Yubikey with a shortcut key combo or mouse click so you don't get random Yubikey codes dumped into whatever you're working on.
 
