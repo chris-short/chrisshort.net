@@ -43,7 +43,7 @@ This is an optional but exceedingly helpful step. You can make every object you 
 
 * Copy and paste the policy below and click **Save** (make sure to change YOUR\_BUCKET\_NAME to your bucket's actual name (the URL for your CDN)
 
-{{ highlight json }}
+{{< highlight json >}}
 {
   "Version":"2012-10-17",
   "Statement":[
@@ -56,7 +56,7 @@ This is an optional but exceedingly helpful step. You can make every object you 
     }
   ]
 }
-{{ / highlight }}
+{{< / highlight >}}
 
 [![Amazon S3 Bucket Policy Editor](https://cdn.chrisshort.net/Bucket-Policy-Editor.png)](https://cdn.chrisshort.net/Bucket-Policy-Editor.png)
 
@@ -70,9 +70,9 @@ Last we will need to setup a CloudFlare Page Rule to Cache Everything. Open your
 
 Your new CDN is up and running. Upload objects to S3 and serve them up via CloudFlare's CDN. To confirm that the files are being cached by CloudFlare you can the following command:
 
-{{ highlight bash }}
+{{< highlight bash >}}
 curl -I htps://URL/FILE | grep CF-Cache-Status
-{{ / highlight }}
+{{< / highlight >}}
 
 If this is the first time an object has evert been accessed or after the Edge Cache TTL has expired you will see `CF-Cache-Status: MISS`. Run the command again and you should see `CF-Cache-Status: HIT`.
 
