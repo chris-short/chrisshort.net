@@ -46,7 +46,7 @@ The second slide contained three logos that I think a lot of folks reading this 
 
 ### Linux
 
-* My first Linux was Red Hat Linux 5 (not RHEL, Red Hat Linux)
+* My first Linux was Red Hat Linux 5.1 (not RHEL, Red Hat Linux)
 * I got my RHCSA on RHEL 6 after getting out of the Air Force
 * I have loved Linux and open source for decades
 * People come to me for the why behind a lot of things in Linux and OSS
@@ -61,7 +61,7 @@ The second slide contained three logos that I think a lot of folks reading this 
 ### Kubernetes
 
 * I discovered Kubernetes in 2016
-* I've been a CNCF Ambassador since 2017
+* I've been a CNCF Ambassador since 2018
 * If you want to amp something up with CNCF or get something done in the Kubernetes community; let me know
 
 Hopefully, this is useful for folks to use during their face to face or team meetings in the future. I got a lot out of creating my portion and way more out of listening to my coworkers.
