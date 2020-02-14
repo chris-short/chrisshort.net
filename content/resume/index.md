@@ -25,6 +25,12 @@ Results-producing, passionate DevOps professional turned Technical Marketer and 
 
 ### Principal Technical Marketing Manager, Red Hat — Detroit, MI — Aug 2019 to Present
 
+* Primary community interface as a CNCF Ambassador who is also focused on Operators and their usage for operations teams; led Ansible Operator workshops at AnsibleFest and Red Hat Summit
+* Acted as a liaison between an Infosec team and a product team after a critical vulnerability was discovered; facilitated responsible disclosure of the vulnerability
+* Built workshops, Katacoda, and other instructional materials to enabling field to be informed about Red Hat's cloud native offerings plus, competitive intelligence to position products in the market
+* Worked with Red Hat D+I, Events teams to make inclusive, constructive learning spaces at events
+* Evangelized Red Hat and many other open source offerings through official CNCF communications
+
 ### Principal Product Marketing Manager, Red Hat — Detroit, MI — Jun 2018 to Aug 2019
 
 * Evangelized [Kubernetes Operators with Ansible](https://ansible.com/operators) in Business Unit by engaging leadership to prove importance; scheduled developers on podcast, worked w/ team to build landing page, and presented talks at Red Hat Summit 2019
