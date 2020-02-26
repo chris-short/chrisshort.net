@@ -5,7 +5,7 @@ date = 2020-02-26T21:55:00Z
 description = ""
 draft = false
 slug = "open-source-initiative-board-of-directors-2020"
-tags = []
+tags = ["open source", "OSI", "Open Source Initiative", "Board of Directors", "licenses", "election"]
 title = "Open Source Initiative Board of Directors 2020"
 image = "/open-source-initiative-board-of-directors-2020/neon-open.jpg"
 
@@ -24,7 +24,7 @@ way back when I was a kid. OSI is also the maintainer of [The Open Source Defini
 
 The Definition itself has been somewhat under attack given some business models being gutted by large cloud providers. Those businesses are responding with non-open licenses attempting to mimic open source licenses for some, but not all. These are not open source licenses but, they are undoubtedly trying to gain some marketing bonus points or street cred by falsely claiming their works are open source.
 
-Another concern I have is about the use of the term open source for marketing and appealing to talent. I think the most ghastly thing I saw at a recent vendor event was a company claiming to be doing everything in the open source way for a new product. Evidence indicates the contrary. Yes, some components are open source, others are open because they have to be, but the guts and plumbing of their product are some of the most protected and litigated against code on earth. That's not fair to call a product open source unless its components are being developed in the open. It's disingenuous at best. At worst, it's damaging to the term open source and the community of open source users, integrators, and developers.
+Another concern I have is about the use of the term open source for marketing and appealing to talent. I think the most ghastly thing I saw at a recent vendor event was a company claiming to be doing everything in the open source way for a new product. Evidence indicates the contrary. Yes, some components are open source, others are open because they have to be, but the guts and plumbing of their product are some of the most protected and litigated against code on earth. That's not fair to call a something open source unless its components are being developed in the open. It's disingenuous at best. At worst, it's damaging to the term open source and the community of open source users, integrators, and developers.
 
 ## How do I vote
 
