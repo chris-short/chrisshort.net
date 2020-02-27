@@ -30,6 +30,7 @@ Results-producing, passionate DevOps professional turned Technical Marketer and 
 * Built workshops, Katacoda, and other instructional materials to enabling field to be informed about Red Hat's cloud native offerings plus, competitive intelligence to position products in the market
 * Worked with Red Hat D+I, Events teams to make inclusive, constructive learning spaces at events
 * Evangelized Red Hat and many other open source offerings through official CNCF communications
+* Gave five talks in three days for IBM FastStart 2020; taught sellers and partners on the advantages of OpenShift for AI/ML workloads, monitoring capabilities of Prometheus, and technical roadmaps
 
 ### Principal Product Marketing Manager, Red Hat — Detroit, MI — Jun 2018 to Aug 2019
 
