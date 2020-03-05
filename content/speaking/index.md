@@ -11,7 +11,7 @@ aliases = [
 ]
 +++
 
-> If you'd like discuss having me [speak](/speaking/) at your podcast conference, Meetup, office, party, dinner, luncheon, etc. please use the [CNCF speaker contact form](https://www.cncf.io/speaker/chrisshort/). Thanks!
+{{< speaker >}}
 
 ## DevOps is Not War
 
