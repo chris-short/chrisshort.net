@@ -7,7 +7,7 @@ tags = ["webinars"]
 title = "Webinars"
 +++
 
-If you'd like to discuss having me [speak](/speaking/) at your conference, Meetup, office, party, dinner, luncheon, podcast, etc. please use the [CNCF speaker contact form](https://www.cncf.io/speaker/chrisshort/). Thanks!
+{{< speaker >}}
 
 ## Contour – High performance ingress controller for Kubernetes
 
