@@ -32,7 +32,7 @@ Ansible content can now be delivered and updated independently as Ansible Collec
 
 ### Automation Analytics
 
-Automation Analytics gathers execution stats (pass/fail), module usage, and other tidbits of useful info. Right now, Tower is set to collect stats like this for local use but, it does not share them with Red Hat. Customers have to opt-in to this information sharing with Red Hat (it’s off by default).
+Automation Analytics gathers execution stats (pass/fail), module usage, and other tidbits of useful info. Right now, Tower is set to collect stats like this for local use but, it does not share them with Red Hat. Customers have to opt-in to this information sharing with Red Hat (it's off by default).
 
 The capability to get metrics out of an organization's Ansible usage could be beneficial. At a high level, I can use the module usage stats to figure out what is automated in my organization. I can take that data and compare it to an outside inventory of equipment and software. This could allow an organization to see where success with automation is occurring and where more help might be needed.
 
