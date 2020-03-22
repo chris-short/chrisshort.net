@@ -40,4 +40,3 @@ Then I was asked to spend some time talking to John Willis. If you ever want to 
 
 The discussion was like many I had before with folks trying to latch on to DevOps in their own environments except there were answers. The call made me realize SJ Technologies would be an amazing opportunity. I look forward to doing great things!
 
-{{< adsense-matched >}}

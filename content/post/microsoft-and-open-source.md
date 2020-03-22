@@ -28,4 +28,4 @@ Obviously, Microsoft is very much anti-Open Source. Why? It's simple, Open Sourc
 
 If you don't believe me check out the [Halloween Documents](http://catb.org/~esr/halloween/index.html) from Eric S. Raymond. The Halloween Documents are a series of leaked memos from within the Microsoft organization regarding Linux and Open Source and a series of responses to those memos. It's good reading if you have the time.
 
-{{< adsense-matched >}}
+

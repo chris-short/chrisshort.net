@@ -40,4 +40,4 @@ My favorite talk of the event though, had to be Daniel Oh's [Quarkus](https://qu
 
 Great job to the entire organizing team this year! Thank you for inviting me to speak at such a fantastic event.
 
-{{< adsense-matched >}}
+

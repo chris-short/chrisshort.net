@@ -27,4 +27,4 @@ Seth continues, "Chef's decision to remain silent on the issue, and their decisi
 
 In my opinion, Chef is as culpable as Seth is in all this. The fact someone not at their company anymore could have an impact like this shows an apparent lack of software supply chain controls and safeties. The fact [their timeline shows over a day of unavailability](https://blog.chef.io/2019/09/20/an-update-to-the-chef-community-regarding-current-events/) for some components leads me to believe that Chef's footing is even shakier than I suspected. Perhaps we should all look in the mirror and ask if our codebases are safe and our decisions are sound, moral, and ethical.
 
-{{< adsense-matched >}}
+

@@ -44,4 +44,4 @@ Whatever you do, don't shout it out during a damn talk! You're taking the spotli
 
 We're veterans, not pawns. We're humans, not robots. We're people, please treat us like people. Engage with veterans how you would engage with everyone else. The fact we're veterans should be the start of a conversation not the end of one. We might have issues, we might need extra help with things, but what we don't need is to be made anonymous through those five words.
 
-{{< adsense-matched >}}
+

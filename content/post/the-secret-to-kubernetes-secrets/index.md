@@ -73,4 +73,4 @@ key1:  4 bytes
 
 As far Kubernetes Secrets go, there are a few ways to create them. But, I'm going to try to stick to a one-liner or YAML files stored securely and make use of `stringData` for specifying keys and values. Ditching `echo -n "[REDACTED]" | base64` reduces a source of potential confusion and an entire step. This lowers Kubernetes' barrier to entry a smidge, so I am all for that.
 
-{{< adsense-matched >}}
+

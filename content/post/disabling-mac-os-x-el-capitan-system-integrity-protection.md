@@ -38,4 +38,3 @@ System Integrity Protection will now be disabled; you're back to having complete
 
 If you want to get down into the nuts and bolts of System Integrity Protection (aka SIP, rootless) I recommend reading [Rootfool – a small tool to dynamically disable and enable SIP in El Capitan](https://reverse.put.as/2015/10/12/rootfool-a-small-tool-to-dynamically-disable-and-enable-sip-in-el-capitan/)
 
-{{< adsense-matched >}}

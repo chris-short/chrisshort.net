@@ -84,4 +84,4 @@ The last partition (/var/log/SonicWALL) will be used for firewall log files and 
 [Filesystems HOWTO](http://www.tldp.org/HOWTO/html_single/Filesystems-HOWTO/), 
 [Design and Implementation of the Second Extended Filesystem](http://e2fsprogs.sourceforge.net/ext2intro.html), [EXT3 File System mini-HOWTO](http://home.arcor.de/heider.michael/ext3.html), [Linux ext3 FAQ](http://batleth.sapienti-sat.org/projects/FAQs/ext3-faq.html), [NAMESYS](https://en.wikipedia.org/wiki/Namesys) (ReiserFS), [Linux XFS FAQ](http://xfs.org/index.php/XFS_FAQ)
 
-{{< adsense-matched >}}
+

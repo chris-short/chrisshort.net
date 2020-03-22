@@ -127,4 +127,4 @@ I have created a [1:1 event](https://calendly.com/chrisshort/1-1) so that folks 
 
 I am hopeful that whatever economic upheaval we face as a society in 2020 is limited. In 2019, we saw equity retract somewhat and unicorn growth slow. But, the public markets grew. Hopefully, everything remains good. But, in case it isn't and times get hard for you, don't hesitate to reach out for help (especially if you are still at Docker).
 
-{{< adsense-matched >}}
+

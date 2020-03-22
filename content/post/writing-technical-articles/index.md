@@ -63,4 +63,4 @@ Both of these sites have a trending section that allows you to find some high-qu
 
 In conclusion, the guidance can be boiled down to this: Think of three points to make in an article; add an introduction and conclusion to those three points. These five points become an outline. The three main points should have a few subpoints plugged in to help stay on topic. Once the outline is built, plug in the missing grammatically bits. Once you have that done align everything to whatever style guide may exist. Tack on the additional metadata and maybe an image then boom! You have a nice, well written technical article.
 
-{{< adsense-matched >}}
+

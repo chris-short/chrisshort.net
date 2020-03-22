@@ -34,4 +34,4 @@ I've never felt more comfortable telling an employer, even a person for that mat
 
 If you don't want to take mine or Google's word on the importance of psychological safety, take Jay-Z's verse from NICE on the blockbuster album EVERYTHING IS LOVE, "What would you do, you knew you couldn't fail? I have no fear of anything, do everything well." Safety breeds success when you're not "looking over your shoulder" trying to figure out what is about to bite you.
 
-{{< adsense-matched >}}
+

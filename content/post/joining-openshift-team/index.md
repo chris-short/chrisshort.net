@@ -54,4 +54,4 @@ Thank you to the Ansible team and especially my Ansible marketing teammates. You
 
 [![Ansible](Ansible-Mark-Large-RGB-Mango.png)](https://www.ansible.com/)
 
-{{< adsense-matched >}}
+

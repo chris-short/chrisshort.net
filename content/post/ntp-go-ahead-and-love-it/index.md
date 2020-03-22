@@ -126,4 +126,4 @@ There is so much more that I could write about NTP. It is a truly fascinating pr
 
 Banner Photo Credit: [Matteo Ianeselli](https://commons.wikimedia.org/wiki/User:Ianezz) via [Wikimedia Commons](http://commons.wikimedia.org/)
 
-{{< adsense-matched >}}
+

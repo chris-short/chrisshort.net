@@ -52,4 +52,4 @@ A similar Ansible Playbook for a Debian based system would look something like t
 
 Your bad nightmares about Badlock will be a not so bad memory in no time.
 
-{{< adsense-matched >}}
+

@@ -30,4 +30,4 @@ Another factor in the decision making is my [long thoracic nerve damage](/long-t
 
 When I left North Carolina in 1999 to join the Air Force I never thought I would be living here again. As fortune would have it I've spent the past ten years living between Fayetteville and Raleigh. If you would have told me then that my future included Raleigh and Wake Forest I probably would have laughed you right out of the room. But, I have to say, despite all the turmoil of separating from the Air Force, changing jobs more frequently than I should have, and fighting the VA I am very glad to have lived here in the Triangle. I will miss the people and the community. I wish you all way more than luck.
 
-{{< adsense-matched >}}
+

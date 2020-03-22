@@ -388,4 +388,4 @@ I go and I wake up my ex-wife, I'm like, "Hey two planes just hit the World Trad
 
 Check back next week for North Carolina Veterans Oral History Part 2 where we talk about post-9/11 and Operation Iraqi Freedom.
 
-{{< adsense-matched >}}
+

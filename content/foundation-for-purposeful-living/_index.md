@@ -20,4 +20,4 @@ Foundation for Purposeful Living has done irreparable harm to several families a
 
 I welcome anyone willing to share their stories to contact me so that I may share (anonymously if you'd wish) your trials and tribulations with the Foundation for Purposeful Living with an ever growing group of individuals hurt by this cult. The objective of these writings is to inform the world about the activities of the cult known as Foundation for Purposeful Living.
 
-{{< adsense-matched >}}
+

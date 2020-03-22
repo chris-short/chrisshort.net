@@ -26,4 +26,4 @@ Fairly interesting research being done with a cell phone and computer by one per
 
 The question isn't a matter of if, but, when.  I'm thinking I should take her to get her ears pierced on June 12th or 13th.  That way, she's out of school (something new for third grade), the germ/clean freak (me) gets the first three to four days or so to get her in a rhythm of extreme cleanliness, and then when the studs have to come out, finally, she is with her mom who is much more compassionate about those in extreme pain (did I mention Aubree has zero tolerance for pain).  Oh… The life of a father.
 
-{{< adsense-matched >}}
+

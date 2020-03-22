@@ -57,4 +57,4 @@ Be mindful of how your quick hack has to be fed and cared for before rolling it 
 "The standard you walk past is the standard you accept."
 [David Morrison](https://en.wikiquote.org/wiki/David_Morrison), a former chief of the Australia Army, made a prolific statement when addressing unacceptable behavior: "The standard you walk past is the standard you accept." This holds true in life and in DevOps. If your coding practices or culture do not live up to the standards your organization has set for itself, correct it on the spot. Think of the concept of [Toyota's Andon Cord](https://itrevolution.com/kata/). It signals an issue and calls for swarming so quality issues can be corrected before being rolled out into a finished vehicle. The same should hold true for the tooling and people in an organization. Do not allow the bar to be lowered. Keep the standards high.
 
-{{< adsense-matched >}}
+
