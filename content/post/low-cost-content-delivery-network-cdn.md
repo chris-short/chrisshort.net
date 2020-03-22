@@ -80,4 +80,4 @@ Congrats! You are now running your low cost, high quality, branded CDN from Amaz
 
 [^n]: The cybersecurity professional in me would like to reiterate that by setting this S3 policy *every object you upload will be public by default*. If you want to set an object so that it is no longer public that is easily done on a file by file basis. However, you should manually upload the object so that the data is never exposed publicly.
 
-{{< adsense-matched >}}
+

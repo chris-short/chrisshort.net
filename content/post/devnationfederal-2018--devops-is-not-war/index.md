@@ -30,4 +30,4 @@ I was able to sync up with one of my Airmen from my time at Pope Air Force Base.
 
 {{< youtube bnyDETdyNfw >}}
 
-{{< adsense-matched >}}
+

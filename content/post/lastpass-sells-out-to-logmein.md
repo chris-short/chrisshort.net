@@ -38,4 +38,4 @@ Essentially, $15 million dollars is on the line based on LastPass retention targ
 
 The clock is likely ticking for LastPass users to find an alternative option. The chances of the product being the same great universal password management and security tool that it is today two years from now is pretty low if LogMeIn's track record has anything to say about it. I will be researching options this weekend and I've already pulled a backup out of LastPass for safe keeping.
 
-{{< adsense-matched >}}
+

@@ -68,4 +68,4 @@ If you are a voter in the US, please do me a favor this week. Reach out to your 
 
 Who wants Oracle getting $10 billion more in US taxpayer money anyway? You should call Congress based on that possibility alone.
 
-{{< adsense-matched >}}
+

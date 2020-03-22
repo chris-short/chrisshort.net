@@ -36,4 +36,4 @@ I shouldn't say no one supports Gina Elise's Pin Ups for Vets though, "If it wer
 
 I've already [ordered](http://pinupsforvets.mybigcommerce.com/) my [Pin Ups for Vets](http://www.pinupsforvets.com/) calendar and you should definitely buy one for yourself and send a few overseas. I'm positive no one will be disappointed.
 
-{{< adsense-matched >}}
+

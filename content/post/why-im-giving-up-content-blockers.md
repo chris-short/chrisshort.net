@@ -35,4 +35,4 @@ Given the rise of click bait and junk news, it is now more important than ever f
 
 Image courtesy [Joe The Goat Farmer](https://www.flickr.com/photos/132604339@N03/25381872413/)
 
-{{< adsense-matched >}}
+

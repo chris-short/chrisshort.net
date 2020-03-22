@@ -70,4 +70,4 @@ I floated out [a theory on Twitter](https://twitter.com/ChrisShort/status/946724
 
 > Japanese Translation: [Docker社は死んだ](http://itosho525.hatenablog.com/entry/2018/01/01/074358)
 
-{{< adsense-matched >}}
+

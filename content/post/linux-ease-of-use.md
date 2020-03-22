@@ -36,4 +36,4 @@ Implementation of ease of use often times sacrifices security. So many Windows u
 
 Linux wasn't designed to be easy to use. But, the beauty of Linux is that it can be made easier to use. The Linux community will make things as simple as possible, but Linux shouldn't be made simpler.
 
-{{< adsense-matched >}}
+

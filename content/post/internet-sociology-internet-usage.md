@@ -26,4 +26,4 @@ The Internet itself sees spikes and sags in usage globally but these events are 
 
 You can also see these trends on a more global scale as well. Typically, Internet usage in the US is at its peak during daytime hours and shortly after sunset. While other parts of the world will be experiencing a significant sag in Internet usage due to the fact a majority of that part of the world is in bed asleep. A great web site that analyzes global trends in Internet use is the [Internet Traffic Report](http://www.internettrafficreport.com/). Internet Traffic Report also breaks down usage by continent as well. Global trends have fewer spikes and sags. When put to a graph it usually looks like a set of rolling hills. It isn't till you look at specific time zones or networks until you see significant variations in trends.
 
-{{< adsense-matched >}}
+

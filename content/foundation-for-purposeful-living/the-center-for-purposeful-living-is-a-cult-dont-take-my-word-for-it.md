@@ -56,4 +56,4 @@ I'd like to thank Quincy and his father for sharing this story. I would also lik
 ![Derwyn Lackey (Derwin Lackey)](/center-for-purposeful-living/recent-derwin-lackey-derwyn.jpg)
 Derwyn Lackey, Supreme Ruler of the Center for Purposeful Living
 
-{{< adsense-matched >}}
+

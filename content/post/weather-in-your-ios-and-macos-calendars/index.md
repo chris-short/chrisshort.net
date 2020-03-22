@@ -41,4 +41,4 @@ If you want to see this calendar subscription on all your devices by sure to sel
 
 After clicking *OK*, the weather forecast of your choosing will be in all your devices calendars. Happy planning!
 
-{{< adsense-matched >}}
+

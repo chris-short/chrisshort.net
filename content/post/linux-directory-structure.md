@@ -53,4 +53,4 @@ aliases = [
 
 `/var` This directory contains variable data files such as logs (**/var/log**), mail (**/var/mail**), and spools (**/var/spool**) among other things.
 
-{{< adsense-matched >}}
+

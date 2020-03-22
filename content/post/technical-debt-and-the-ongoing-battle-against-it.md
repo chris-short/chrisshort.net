@@ -39,4 +39,4 @@ You must do things right; you should not be creating technical debt. Benjamin Fr
 
 Photo: [Twitter](https://twitter.com/Carnage4Life/status/585458646680670208)
 
-{{< adsense-matched >}}
+

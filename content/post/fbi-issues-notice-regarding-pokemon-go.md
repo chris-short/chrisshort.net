@@ -25,4 +25,3 @@ On the FBI probability scale "very likely" and "highly probable" indicate an 80%
 
 I have heard of people getting robbed, falling into pools, and walking off cliffs while playing Pokémon GO. Since when is it okay for a game to allow common sense to get thrown completely out the window?
 
-{{< adsense-matched >}}

@@ -42,4 +42,3 @@ So from that it seems that Mandrake Linux is more suited for the desktop. Mandra
 
 **Resources**: [DistroWatch](http://distrowatch.com/), [Linux Questions ISOs](http://iso.linuxquestions.org/), [Red Hat Network](https://rhn.redhat.com/), [SuSE](https://www.suse.com/)
 
-{{< adsense-matched >}}

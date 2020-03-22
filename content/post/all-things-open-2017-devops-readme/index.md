@@ -25,4 +25,4 @@ I had the opportunity to participate in [All Things Open](https://allthingsopen.
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/Ibnj-YZTypU" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
-{{< adsense-matched >}}
+

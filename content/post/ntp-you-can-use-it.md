@@ -32,4 +32,4 @@ Network Time Protocol related RFCs:
 
 [NTP.org](http://ntp.org/) - The official Network Time Protocol (NTP) site
 
-{{< adsense-matched >}}
+

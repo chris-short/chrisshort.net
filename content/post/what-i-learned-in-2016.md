@@ -38,4 +38,3 @@ Everyone has a story to tell. Learning how to align that story to the needs of a
 
 I am certain there is a great deal more I have learned this year but these three things are definitely the most noteworthy (despite how obvious they might seem). I wish you all the best in 2017 and beyond!
 
-{{< adsense-matched >}}

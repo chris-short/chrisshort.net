@@ -48,4 +48,4 @@ If you would like more information about orkut.com check out these other article
 * [Google debuts Friendster-clone Orkut](http://www.theregister.co.uk/2004/01/23/google_debuts_friendsterclone_orkut/) (The Register)
 * [Why Google needs Orkut](http://jeremy.zawodny.com/blog/archives/001504.html) (Jeremy Zawodny's blog)
 
-{{< adsense-matched >}}
+

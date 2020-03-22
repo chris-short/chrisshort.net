@@ -32,4 +32,4 @@ The absolutely majestic view was the perfect distraction as Julie had no idea wh
 
 We spent the next twenty minutes or so smiling at each other and calling Julie's family completely alone at the Statue of Diana which is now a place that will be forever etched into the fabric of Julie and I's relationship and memories.  Our engagement was celebrated by a quick stop in Antler Hill Village, dinner in The Dining Room at the Inn on Biltmore, dessert in our room, and milk and cookies brought to us at midnight (scheduled prior to our visit).  We could not have asked for a more perfect weekend and location to get engaged and are very thankful to all of the staff at Biltmore who played such a huge part in making this visit to the Biltmore Estate the most amazing one ever.
 
-{{< adsense-matched >}}
+
