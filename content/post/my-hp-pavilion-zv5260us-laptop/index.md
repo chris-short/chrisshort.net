@@ -45,4 +45,3 @@ What I've been doing with the wireless networking capabilities of the laptop wil
 
 I'm also looking forward to a new release of a 64-bit Windows XP from Microsoft so that I can take better advantage of the 64-bit processor in this laptop. There will be more on that in the not too distant future.
 
-{{< adsense-matched >}}

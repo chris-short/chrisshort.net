@@ -24,4 +24,4 @@ The push to create relevant content does some interesting things. It puts the ML
 
 Creating pages upon pages of content isn't necessary but it is recommended to create a few pages of content that a spider can crawl so that a web site is given more meaning and better results in search engines. You won't be the only one to benefit from this.
 
-{{< adsense-matched >}}
+

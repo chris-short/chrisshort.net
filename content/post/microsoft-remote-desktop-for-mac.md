@@ -22,4 +22,3 @@ An alternative is to use a [beta version of the Microsoft Remote Desktop for Mac
 
 If this beta version disappears off the web for whatever reason I have made it available: [Microsoft Remote Desktop for Mac version 8.2.22 (8.2.22.618) via chrisshort.net](https://cdn.chrisshort.net/Microsoft_Remote_Desktop_Beta.app.zip)
 
-{{< adsense-matched >}}

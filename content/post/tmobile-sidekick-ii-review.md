@@ -141,4 +141,4 @@ If you have more questions about the Sidekick II don't hesitate to leave a comme
 
 The [T-Mobile Sidekick II](https://en.wikipedia.org/wiki/Danger_Hiptop#Hiptop2/T-Mobile_Sidekick_2_(Danger/Sharp)) is designed by [Danger, Inc.](https://en.wikipedia.org/wiki/Danger_Inc.)
 
-{{< adsense-matched >}}
+

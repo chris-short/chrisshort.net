@@ -45,4 +45,4 @@ Could you imagine trying to manage your data buckets when everything in your hom
 
 Laying fiber is expensive and often times legally cumbersome compared to broadcasting wirelessly. But, the perception seems to fly in the face of the reality in the sense that the market should pay more for wireless than landline internet service.
 
-{{< adsense-matched >}}
+

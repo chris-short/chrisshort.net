@@ -97,4 +97,4 @@ This playbook took a while to run but once it was done we had consistent, well c
 
 UPDATE: Thanks to [pferde on Hacker News](https://news.ycombinator.com/item?id=12435809) for pointing out a flaw in my regex in insertafter for the Edit SSLProtocol task. It has been corrected.
 
-{{< adsense-matched >}}
+

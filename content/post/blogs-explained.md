@@ -32,4 +32,4 @@ However, blogs will still be a fad until the current generation of webloggers st
 
 Blogs are a natural evolution of communications that have a purpose on the World Wide Web. Weblogs provide quick, easy to use, low cost, interactive, global communication. However, that purpose has been stretched to encompass so many uses it has given weblogs a bad name. One can only hope the fad wears away into factual, meaningful, worthwhile mountains of content that would be available to the world.
 
-{{< adsense-matched >}}
+

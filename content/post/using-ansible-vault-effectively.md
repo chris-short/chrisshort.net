@@ -76,4 +76,4 @@ More on Ansible Vault at http://docs.ansible.com/ansible/playbooks_vault.html
 
 **avview**: Read-only view of an Ansible Vault file (less for Ansible Vaults)
 
-{{< adsense-matched >}}
+

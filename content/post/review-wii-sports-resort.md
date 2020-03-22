@@ -51,4 +51,4 @@ Overall, I really enjoy Wii Sports Resort, but, in small doses.  To accommodate 
 
 On a scale of 1 to 10 I give Wii Sports Resort a 7.
 
-{{< adsense-matched >}}
+

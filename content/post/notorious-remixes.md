@@ -70,4 +70,4 @@ If you know of other remixes that showcase the lyrics of Notorious B.I.G. and fe
 
 Photo: [Biggie smalls](https://www.flickr.com/photos/tombothetominator/5454864996/) by [Tom Check](https://www.flickr.com/people/7536455@N04)
 
-{{< adsense-matched >}}
+

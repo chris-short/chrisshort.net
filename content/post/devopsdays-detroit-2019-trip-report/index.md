@@ -39,4 +39,4 @@ The last two talks were about using data to drive decision making. [Daniel Saubl
 
 These two talks were probably the most important because it talked about data driving services adding up to improved business value. I had a long discussion with one attendee about how business leaders probably don't care too much about build time improvements and percentage increases in compute saturation. Businesses are generally measured by their investors. Public or private, there are things that the CEO, CTO/CIO/CISO/etc. care about that you're only going to see in business publications and CNBC. EBITDA, net revenue growth, profit growth, debt reduction, etc. All those things some of us glanced over in Econ suddenly matter again when you're trying to drive business through technological innovation. It might sound surprising to some but, I probably have to tell someone this at least once a month. You have to align your metrics to business metrics. Improvements in your metrics should correlate with improvements in business metrics.
 
-{{< adsense-matched >}}
+

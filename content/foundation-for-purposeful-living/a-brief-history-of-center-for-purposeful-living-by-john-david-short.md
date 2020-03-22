@@ -42,4 +42,4 @@ I left the group 15 years ago as I grew increasingly uncomfortable with the cont
 
 I will leave it to others to do their due diligence on this organization, just as I hope they would do with any organization they are considering investing time and money in. But CPL should acknowledge the spiritual rationale behind their work. To deny it is disingenuous and rightly raises suspicion of their motives.
 
-{{< adsense-matched >}}
+

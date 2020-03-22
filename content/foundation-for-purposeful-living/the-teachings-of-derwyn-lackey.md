@@ -115,4 +115,4 @@ They teach students that explanations are to be avoided because in so doing, the
 
 Derwyn Lackey, Supreme Ruler of the Center for Purposeful Living
 
-{{< adsense-matched >}}
+

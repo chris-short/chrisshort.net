@@ -29,4 +29,4 @@ I began to export DNS zone files from Cloudflare to push to Azure. When I went t
 
 I listened to Ben Thompson and James Allworth discuss Cloudflare's decision on [The Exponent Episode 121](http://exponent.fm/episode-121-the-uber-mutation/) and got a lot more of the back story than I originally had on the banning. Matthew Prince waking up in a bad mood and deciding to kick folks off the service he and his team built was something I did not see coming. His reluctance to do so and the explanation as to why doing it was actually a bad thing is well reasoned. For that reason, among many others (like their impeccable uptime record made possible by BGP), I am deciding to stay with Cloudflare. It wasn't an easy decision but time, bugs, unprecedented events, and reason all played a factor.
 
-{{< adsense-matched >}}
+

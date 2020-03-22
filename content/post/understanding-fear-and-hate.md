@@ -30,4 +30,3 @@ Much like when a new technology emerges, you cannot immediately discount it as a
 
 If there is one thing I hope that comes from the Orlando attack is for Americans to try to stop hating one thing or another. People hopefully will understand that they might hate something because of a fear. As humans we should never accept fear of something we do not understand. We must seek out understanding to better ourselves and our society.
 
-{{< adsense-matched >}}

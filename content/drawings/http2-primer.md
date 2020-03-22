@@ -38,4 +38,3 @@ The first thing to keep in mind is the primary reason for HTTP/2 even being a pr
 
 There are a lot of great things happening in HTTP/2 and I would encourage to consider implementing where you can as soon as you can. Find your favorite [code's implementation or web server](https://github.com/http2/http2-spec/wiki/Implementations) and get rolling with HTTP/2.
 
-{{< adsense-matched >}}

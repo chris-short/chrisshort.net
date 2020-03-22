@@ -61,4 +61,4 @@ Trigger point injections into two regions have been the go to relief option. How
 
 While deemed "experimental" by insurance companies due to overuse, pulsed radiofrequency lesioning has provided significant pain relief to me.
 
-{{< adsense-matched >}}
+

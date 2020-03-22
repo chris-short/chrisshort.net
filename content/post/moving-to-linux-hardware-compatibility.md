@@ -59,4 +59,4 @@ There will be some issues here and there getting some of my hardware working but
 
 [comp.os.linux](https://groups.google.com/forum/#!search/comp.os.linux), [Asus](http://www.asus.com/), [Linux Hardware Compatibility HOWTO](http://www.tldp.org/HOWTO/Hardware-HOWTO/), [ATI](http://www.amd.com/en-us/products/graphics), [XFree86](http://www.xfree86.org/), [Linksys](http://www.linksys.com/), [Lite-On](http://www.liteonit.com/), [Open Printing](http://www.openprinting.org/printers), [HP Linux Imaging and Printing](http://hplipopensource.com/hplip-web/index.html),  [SANE](http://www.sane-project.org/), [USB Scanners under Linux](http://www.buzzard.me.uk/jonathan/scanners-usb.html) by Jonathan Buzzard,  [Linux Driver for Quickcam USB cameras](http://qce-ga.sourceforge.net/), [Video 4 Linux](http://www.exploits.org/v4l/), [Linux1394](https://ieee1394.wiki.kernel.org/index.php/Main_Page)
 
-{{< adsense-matched >}}
+

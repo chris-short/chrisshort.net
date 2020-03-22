@@ -27,4 +27,3 @@ After a significant amount of testing and tweaking this morning we found a GitLa
 
 This is a minor annoyance. There is an issue filed to resolve it. But, we spent almost an hour trying to figure out what was going wrong so hopefully, you can benefit from our struggles.
 
-{{< adsense-matched >}}

@@ -29,4 +29,4 @@ Communicating the state of where things are and where they need to be going requ
 
 Part of a strategists' charge is, "Keep developers productive. Move hurdles before they become problems." When someone sees a future, and they feel they can guide folks towards it, that should register as a power as strong as software engineering. If someone understands both where the industry is going and how to move a project towards that point, they should be listened to intently. Find holes in the strategy and discuss them. Collaborate towards building a better approach but, do not think because you can write code you're an all-knowing savant (that fails more often than not). [There's a lot of "politics" in coding these days](/seth-vargo-says-hell-noputs-chef-on-ice/).
 
-{{< adsense-matched >}}
+

@@ -25,4 +25,3 @@ Moving to Linux won't be a cake walk but the people at Red Hat and MandrakeSoft 
 
 I'm not going to dive right in, of course. I'm going to do my homework so that I don't find the first web site I go to is a Linux support site. I'm going to make sure that once the install process starts there won't be any hurdles that would cause it to fail. I'll know what programs I want installed under Linux before moving to Linux. There are so many solutions out there that finding one won't be the problem. The problem will be narrowing the solutions down to the one that suits my needs and the needs of all the users in my household. **Look out Linux, here I come**.
 
-{{< adsense-matched >}}

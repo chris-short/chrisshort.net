@@ -44,4 +44,4 @@ I'm not quite sure why my mother would tell a Center for Purposeful Living recru
 
 Yet another person has been saved from certain doom by the Center of Purposeful Living simply because they did some research and a little communicating.
 
-{{< adsense-matched >}}
+

@@ -69,4 +69,4 @@ Reading newsletters cultivated by active community members (not product makers) 
 
 The [DevOps](https://devopsish.com/) journey is a combination of people, processes, and tools. The culmination of these is a team of allies pushing the envelope and never resting on their laurels. There is no such thing as a completed DevOps transition. Resting on your laurels is not a DevOps mindset. DevOps and its allies should be iterating and improving upon what they have learned daily. Building a team to do anything is no simple task. But, building a person that's willing to embrace cultures and methods is an easier task. Show them a path, help them go down it, and embrace their feedback.
 
-{{< adsense-matched >}}
+

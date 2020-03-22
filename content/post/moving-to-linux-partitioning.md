@@ -76,4 +76,4 @@ This overall partitioning scheme allows the most flexibility and best performanc
 * [Linux Partition HOWTO](http://www.tldp.org/HOWTO/Partition/index.html)
 * [comp.os.linux](https://groups.google.com/forum/#!search/comp.os.linux)
 
-{{< adsense-matched >}}
+

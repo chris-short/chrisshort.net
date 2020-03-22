@@ -46,4 +46,4 @@ Once the mixture is gently bubbling add the soups and milk. Incorporate all ingr
 
 You can take this recipe and go crazy with it.  Want a chowder?  Make a roux and add it after all steps with a bag of corn.  Want to make it in a south of the border manner?  Use chorizo (just make sure to drain it well or you'll be skimming fat off the top).  The possibilities are endless.
 
-{{< adsense-matched >}}
+

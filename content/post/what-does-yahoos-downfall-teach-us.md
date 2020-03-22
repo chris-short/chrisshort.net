@@ -46,4 +46,3 @@ Clearly the due diligence for this deal was not done for whatever reason. This w
 
 What does Yahoo's downfall teach us? That you must bring together a great team. The assembled players have to push people to build great features (the content will come, as exemplified by Medium, Snapchat, Facebook, etc.). That team must also do its due diligence in an effort to add value to the company. Now we all get to see [how Verizon will deal with Yahoo](https://yahoo.tumblr.com/post/147941303269/verizon-to-acquire-yahoos-operating-business) assuming that deal gets approved, of course.
 
-{{< adsense-matched >}}

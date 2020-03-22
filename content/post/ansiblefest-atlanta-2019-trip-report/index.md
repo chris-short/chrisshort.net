@@ -58,4 +58,4 @@ The reception to the workshop and its content was very positive. The team did a 
 
 All the artifacts from the Building Kubernetes Operators with Ansible Hands-on Workshop can be found at [http://workshop.coreostrain.me/](http://workshop.coreostrain.me/)
 
-{{< adsense-matched >}}
+

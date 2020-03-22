@@ -43,4 +43,4 @@ The news of Google setting up shop in the region is very good. A new, more stabl
 
 To apply for a job with Google go to [Google Jobs](https://careers.google.com/jobs).
 
-{{< adsense-matched >}}
+

@@ -19,4 +19,3 @@ I'm sure the United States will have numerous teams from different agencies anal
 
 This Microsoft program is probably loaded with restrictions but it will be interesting to see how many more holes or problems are found with Microsoft's products.
 
-{{< adsense-matched >}}

@@ -47,4 +47,4 @@ One thing I wanted to point out about Open Source 101 was the fact I felt like a
 
 I look forward to seeing what [Open Source 101 Columbia](http://opensource101.com) brings. I also have a feeling that All Things Open is going to be absolutely awesome this year too. There are still tickets available for the Open Source 101 event in Columbia, SC in April. Grab some tickets and come experience a truly unique phenomenon with me!
 
-{{< adsense-matched >}}
+

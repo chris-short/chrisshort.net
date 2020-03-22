@@ -44,4 +44,3 @@ Or...
 
 ![PHP Memory Relationships](/drawings/php-memory-relationships.png)
 
-{{< adsense-matched >}}

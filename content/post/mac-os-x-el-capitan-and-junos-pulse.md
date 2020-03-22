@@ -31,4 +31,4 @@ Hopefully this bug gets fixed very soon.
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr"><a href="https://twitter.com/JuniperNetworks?ref_src=twsrc%5Etfw">@JuniperNetworks</a> If you could fix Pulse bug in OS X El Capitan that&#39;d be great. Your downloads site is down too. <a href="http://t.co/b86KHpRtgG">pic.twitter.com/b86KHpRtgG</a></p>&mdash; Chris Short (@ChrisShort) <a href="https://twitter.com/ChrisShort/status/651417366992146437?ref_src=twsrc%5Etfw">October 6, 2015</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-{{< adsense-matched >}}
+

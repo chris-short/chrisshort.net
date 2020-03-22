@@ -33,4 +33,3 @@ It turns out that later in 2010 I found out I was going to be medically separate
 
 The photos I took from the day at Richard Childress Racing [can be found on Flickr](https://flic.kr/s/aHsjpxsFZ7)
 
-{{< adsense-matched >}}
