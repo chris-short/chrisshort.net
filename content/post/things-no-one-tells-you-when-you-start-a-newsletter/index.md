@@ -15,7 +15,9 @@ image = "/things-no-one-tells-you-when-you-start-a-newsletter/reading-the-news.j
 
 There were a lot of reasons I started writing a newsletter back in 2016. Having worked at a few organizations whose business was sending millions of emails a day, one thing is for sure: ***Mail is hard and not for the faint of heart***. Using a service that handles mail delivery is step one, in my opinion. After that, I figured a newsletter is, "sending an email every week." Anyone can do that, right?
 
-What I did not expect were styling problems, a stream of feedback and opinions, and a few other gotchas that are worth mentioning. But, it is by far the single most rewarding personal project I've ever taken on. Please [subscribe to DevOps'ish](https://devopsish.com/subscribe/) today to join me on this journey!
+What I did not expect were styling problems, a stream of feedback and opinions, and a few other gotchas that are worth mentioning. But, it is by far the single most rewarding personal project I've ever taken on.
+
+{{< mc >}}
 
 ## What do you mean IE 6?
 
@@ -68,4 +70,4 @@ Mattias noted, "It's super rewarding! More than I thought it would be. The feedb
 
 A newsletter is an instant icebreaker in a lot of circles, too, "Hi, I'm Chris Short. I write a newsletter about DevOps, cloud native tooling, and open source software." Even if they've never heard of DevOps'ish or me, they know what a newsletter is. If they connect with the topics of the newsletter, they inevitably ask questions or tell you what they do for a living. It gets folks to open up about what they do or like doing, and that is pretty cool. I like talking to folks that are excited about the things they're doing.
 
-{{< mc >}}
+Please [subscribe to DevOps'ish](https://devopsish.com/subscribe/) today to join me on this journey!
