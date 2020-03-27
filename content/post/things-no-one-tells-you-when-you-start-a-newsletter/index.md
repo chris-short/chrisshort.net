@@ -40,7 +40,7 @@ I've learned from a ton of experience delivering email en masse. Mail delivery o
 
 ![Neo from The Matrix saying, "I know DNS" instead of "I know Kung Fu."](/things-no-one-tells-you-when-you-start-a-newsletter/matrix-neo-i-know-dns.jpg)
 
-[mxtoolbox.com](https://mxtoolbox.com/) is going to become your friend as you learn about a whole bunch of DNS you never wanted to learn but now have to. If you want readers to be able to reply to your messages, you will need to set up mail infrastructure that enables folks to do so. Most newsletter writers want people to be able to respond directly. Quality feedback is in short supply. Enabling every avenue for feedback to come in is vital. Use a service, don't do any part of this you're comfortable with managing on your own.
+[mxtoolbox.com](https://mxtoolbox.com/) is going to become your friend as you learn about a whole bunch of DNS you never wanted to learn but now have to. If you want readers to be able to reply to your messages, you will need to set up mail infrastructure that enables folks to do so. Most newsletter writers want people to be able to respond directly. Quality feedback is in short supply. Enabling every avenue for feedback to come in is vital. Use a service, don't do any part of this you're uncomfortable  managing on your own.
 
 ## Be mindful of the word "weekly"
 
