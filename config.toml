@@ -19,8 +19,8 @@ paginate = 8
 
 [Params]
   homeTitle = "Chris Short" # Set a different text for the header on the home page
-  subtitle = "Kubernetes at Red Hat | Writes DevOps'ish & KubeWeekly | CNCF Ambassador | Disabled Veteran | He/Him/His | Views are solely mine"
-  logo = "img/chrisshort.net.png" # Expecting square dimensions
+  subtitle = "Kubernetes at Red Hat — Voice of Hybrid Cloud at openshift.tv — CNCF Ambassador and KubeWeekly contributor — Disabled Veteran — He/Him/His — Views are solely mine"
+  logo = "img/chrisshort.net.png" # Expecting square 1:1 dimensions
   favicon = "favicons/favicon.ico"
   dateFormat = "2006-01-02"
   commit = false
