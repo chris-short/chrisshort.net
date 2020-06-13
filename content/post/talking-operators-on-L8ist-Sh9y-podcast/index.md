@@ -13,7 +13,9 @@ image = "/talking-operators-on-l8ist-sh9y-podcast/talking-operators-on-l8ist-sh9
 
 <iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/810685114&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/user-410091210" title="L8ist Sh9y Podcast" target="_blank" style="color: #cccccc; text-decoration: none;">L8ist Sh9y Podcast</a> · <a href="https://soundcloud.com/user-410091210/chris-short-from-red-hat-talks-operators-and-kubernetes" title="Chris Short from Red Hat talks Operators and Kubernetes" target="_blank" style="color: #cccccc; text-decoration: none;">Chris Short from Red Hat talks Operators and Kubernetes</a></div>
 
-[![Operator Framework](/talking-operators-on-l8ist-sh9y-podcast/Operator-framework-logo-color.png)](https://github.com/Operator-framework)
+[![Operator Framework](/talking-operators-on-l8ist-sh9y-podcast/operator-framework-logo-color.png)](https://github.com/Operator-framework)
+
+{{< carbon >}}
 
 On May 2nd, I joined my friends over at L8ist Sh9y Podcast as [Rob Zehicle](https://twitter.com/zehicle) was trying to wrap his mind around [Kubernetes Operators](https://red.ht/operators/). I've created the [transcript](/talking-operators-on-L8ist-Sh9y-Podcast/whxmHvMw1QIi.128.txt) so folks can read it if they desire.
 
@@ -24,7 +26,7 @@ Hello everybody and welcome to another episode of the Latest Shiny. This is Rob 
 That's fine.
 
 **Rob:**
-Um. Uh, joining me today is Chris Short who, uh, I know mainly 'cause he's doing this amazing job with [DevOps'ish](https://devopsish.com), this newsletter, uh, Telegram group, this building a community around it. Um, that is just, you know, sincere and present and I have really been enjoying that. And you have a day job too with (laughs) doing [OpenShift](https://openshift.com/), um, the OpenShift team, which is actually why we called you up to get you on. Um, because I've been struggling with Operators and whether they're good, frankly whether they're a good idea or not. And so Chris, can you give us a little background and then, and then help enlighten me as to why everybody-
+Um. Uh, joining me today is Chris Short who, uh, I know mainly 'cause he's doing this amazing job with [DevOps'ish](https://DevOpsish.com), this newsletter, uh, Telegram group, this building a community around it. Um, that is just, you know, sincere and present and I have really been enjoying that. And you have a day job too with (laughs) doing [OpenShift](https://openshift.com/), um, the OpenShift team, which is actually why we called you up to get you on. Um, because I've been struggling with Operators and whether they're good, frankly whether they're a good idea or not. And so Chris, can you give us a little background and then, and then help enlighten me as to why everybody-
 
 **Chris:**
 Sure.
@@ -39,7 +41,7 @@ So, I mean not everyone should be writing operators but-
 (laughs)
 
 **Chris:**
-... um, if they make sense for you, you should definitely write it. But essentially, operators are, uh, like devops is like a culture and a pattern. Operators are based on a pattern. The Operator pattern was created by a Core LS before the Red Hat acquisition. Uh, and since the acquisition, we have embraced it wholeheartedly and have built, uh, hundreds of operators to run our Kubernetes platform, OpenShift, in, you know, pretty much any Cloud environment.
+... um, if they make sense for you, you should definitely write it. But essentially, operators are, uh, like DevOps is like a culture and a pattern. Operators are based on a pattern. The Operator pattern was created by a Core LS before the Red Hat acquisition. Uh, and since the acquisition, we have embraced it wholeheartedly and have built, uh, hundreds of operators to run our Kubernetes platform, OpenShift, in, you know, pretty much any Cloud environment.
 
 **Chris:**
 So, the idea behind an Operator is that you essentially write, uh, either as code and go or Python or Ansible or Bash, however you wanna write it. Um, a, a, uh, operational piece of logic that handles things like, installation, upgrades, backups, AJDR kind of things for any of your services or applications that might be running in a Kubernetes environment. So that obviously relies on CRDs, which just went GA a couple of releases ago in Kubernetes land. So it has really picked up momentum of late since CRDs have gone, uh, GA. And, uh, I am here to help you not struggle with it as much anymore, how about that?
@@ -714,10 +716,10 @@ They've been talking about it for a long, long time. So-
 2016, yeah. Long time.
 
 **Rob:**
-... this is, this is part of a, part of a big vision for how Core LS looked at Kubernetes, um, from the very, very early days. So this isn't, this isn't a, uh, a recent thing. This has gotten a lot of thought. And of course, if you're interested in something beyond operators, devops-ish, how do people get the newsletter? Right, you're [crosstalk 00:31:53]-
+... this is, this is part of a, part of a big vision for how Core LS looked at Kubernetes, um, from the very, very early days. So this isn't, this isn't a, uh, a recent thing. This has gotten a lot of thought. And of course, if you're interested in something beyond operators, [DevOps'ish](https://devopsish.com), how do people get the newsletter? Right, you're [crosstalk 00:31:53]-
 
 **Chris:**
-So yeah. The newsletter, yeah. So newsletter's going strong. Uh, I'm super happy with it, done some recent changes around privacy and, you know, simplifying the layout, making it easier for me to write and folks not have to worry about there data getting slurped up and all that fun stuff. So, yeah. Go to devops.com/subscribe and, you know, subscribe to the newsletter. You'll get it ever Sunday morning, you know, right when you're waking up hopefully. And, you know, you can digest it throughout the week and get up to date on all the devops and Cloud native and open source fun going on in the industry.
+So yeah. The newsletter, yeah. So newsletter's going strong. Uh, I'm super happy with it, done some recent changes around privacy and, you know, simplifying the layout, making it easier for me to write and folks not have to worry about there data getting slurped up and all that fun stuff. So, yeah. Go to [devopsish.com/subscribe/](https://devopsish.com/subscribe/) and, you know, subscribe to the newsletter. You'll get it ever Sunday morning, you know, right when you're waking up hopefully. And, you know, you can digest it throughout the week and get up to date on all the devops and Cloud native and open source fun going on in the industry.
 
 **Rob:**
 Awesome. Chris, thank you. This has been everything I was hoping, um. I feel smarter, which is always helpful for-
@@ -727,3 +729,5 @@ Good. I'm, I'm glad. Thank you very much for the opportunity.
 
 **Rob:**
 Thanks.
+
+An MP3 download of this episode is available on the [Interviews](/interviews/) page. Big Thanks to The L8ist Sh9y Podcast for allowing me to share this transcript with y'all.

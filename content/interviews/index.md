@@ -9,19 +9,39 @@ title = "Interviews"
 
 {{< speaker >}}
 
+## Carving out a Cloud Native Culture in Established Organizations
+
+Date: 2020-05-20  
+Source: [Podcast - Carving out a Cloud Native Culture in Established Organizations](https://www.weave.works/blog/podcast-carving-out-a-cloud-native-culture-in-established-organizations)  
+Download: [MP3](https://cdn.chrisshort.net/Carving-out-Cloud-Native-Culture-in-Established-Organizations.mp3)
+
+> Cornelia Davis, Chief Technology Officer at Weaveworks: "What I thought we'd talk about today is how organizations can get better at doing software. We want to get better at building it, releasing it and having more resilient systems and all of those things. One of the big categories is DevOps and it is one of the things that we're applying to make some progress on. Chris, you do a great deal in the DevOps arena. Can you give us a [definition of DevOps](https://devopsish.com/what-is-devops/)?"
+
+## Chris Short from Red Hat talks Operators and Kubernetes
+
+Date: 2020-05-02  
+Source: [L8istSh9y Podcast: Chris Short from Red Hat talks Operators and Kubernetes](https://l8istsh9y.com/2020/05/02/chris-short-from-red-hat-talks-operators-and-kubernetes/)  
+Blog Post: [Talking Operators on L8ist Sh9y Podcast](/talking-operators-on-l8ist-sh9y-podcast/)  
+Download: [MP3](https://cdn.chrisshort.net/L8istSh9y-Chris-Short-Red-Hat-talks-Operators-Kubernetes.mp3)
+
+<audio controls>
+  <source src="https://cdn.chrisshort.net/L8istSh9y-Chris-Short-Red-Hat-talks-Operators-Kubernetes.mp3" type="audio/mpeg">
+Your browser does not support the audio element but you can download it as an MP3 (right-click).
+</audio>
+
 ## Migrating applications to containers and Kubernetes: 5 best practices
 
 Date: 2020-03-04  
-Source: [Migrating applications to containers and Kubernetes: 5 best practices | The Enterprisers Project](https://enterprisersproject.com/article/2020/3/kubernetes-migrating-applications-containers-5-best-practices)
+Source: [Migrating applications to containers and Kubernetes: 5 best practices](https://enterprisersproject.com/article/2020/3/kubernetes-migrating-applications-containers-5-best-practices)
 
-> Let’s examine key considerations for migrating existing applications to containers and Kubernetes, according to experts
+> Let's examine key considerations for migrating existing applications to containers and Kubernetes, according to experts
 
 ## 7 best practices: Building applications for containers and Kubernetes
 
 Date: 2020-03-02  
 Source: [7 best practices: Building applications for containers and Kubernetes](https://enterprisersproject.com/article/2020/3/kubernetes-best-practices-building-applications-containers)
 
-> Let’s examine key considerations for building new applications specifically for containers and Kubernetes, according to cloud-native experts
+> Let's examine key considerations for building new applications specifically for containers and Kubernetes, according to cloud-native experts
 
 ## Red Hat's Chris Short On Redirecting A War Vet's Energy To Lifelong Learning & Technical Leadership
 
