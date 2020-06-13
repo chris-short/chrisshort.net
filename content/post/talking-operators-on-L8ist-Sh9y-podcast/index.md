@@ -1,6 +1,6 @@
 +++
 author = "Chris Short"
-categories = ["DevOps", "Newsletters"]
+categories = ["Interviews", "OpenShift", "Kubernetes", "Operators", "2020"]
 date = 2020-06-14T03:15:00Z
 description = "Chris Short from Red Hat talks Operators and Kubernetes"
 draft = false
