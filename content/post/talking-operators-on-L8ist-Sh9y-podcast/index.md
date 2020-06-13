@@ -4,14 +4,16 @@ categories = ["DevOps", "Newsletters"]
 date = 2020-06-14T03:15:00Z
 description = "Chris Short from Red Hat talks Operators and Kubernetes"
 draft = false
-slug = "talking-operators-on-L8ist-Sh9y-podcast"
+slug = "talking-operators-on-l8ist-sh9y-podcast"
 tags = []
 title = "Talking Operators on L8ist Sh9y Podcast"
-image = "/talking-operators-on-L8ist-Sh9y-Podcast/talking-operators-on-L8ist-Sh9y-podcast.png"
+image = "/talking-operators-on-l8ist-sh9y-podcast/talking-operators-on-l8ist-sh9y-podcast.png"
 
 +++
 
 <iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/810685114&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/user-410091210" title="L8ist Sh9y Podcast" target="_blank" style="color: #cccccc; text-decoration: none;">L8ist Sh9y Podcast</a> · <a href="https://soundcloud.com/user-410091210/chris-short-from-red-hat-talks-operators-and-kubernetes" title="Chris Short from Red Hat talks Operators and Kubernetes" target="_blank" style="color: #cccccc; text-decoration: none;">Chris Short from Red Hat talks Operators and Kubernetes</a></div>
+
+[![Operator Framework](/talking-operators-on-l8ist-sh9y-podcast/operator-framework-logo-color.png)](https://github.com/operator-framework)
 
 On May 2nd, I joined my friends over at L8ist Sh9y Podcast as [Rob Zehicle](https://twitter.com/zehicle) was trying to wrap his mind around [Kubernetes Operators](https://red.ht/operators/). I've created the [transcript](/talking-operators-on-L8ist-Sh9y-Podcast/whxmHvMw1QIi.128.txt) so folks can read it if they desire.
 
