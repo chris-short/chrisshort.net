@@ -1,7 +1,7 @@
 +++
 author = "Chris Short"
 categories = ["Interviews", "OpenShift", "Kubernetes", "Operators", "2020"]
-date = 2020-06-14T03:15:00Z
+date = 2020-06-15T03:00:00Z
 description = "Chris Short from Red Hat talks Operators and Kubernetes"
 draft = false
 slug = "talking-operators-on-l8ist-sh9y-podcast"
