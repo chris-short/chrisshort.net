@@ -6,19 +6,19 @@ description = "Chris Short from Red Hat talks Operators and Kubernetes with Rob 
 draft = false
 slug = "talking-operators-with-rob-zehicle"
 tags = ["Chris Short", "Rob Zehicle", "Operator", "Operators", "Kubernetes", "OpenShift", "CRD", "cluster", "application", "Operator pattern", "Ansible", "magic", "Red Hat", "clusters", "pods", "DevOps", "podcast", "Operator Framework"]
-title = "Talking Operators with Rob Zehicle"
-image = "/talking-operators-with-rob-zehicle/talking-operators-on-l8ist-sh9y-podcast.png"
+title = "Talking Operators with Rob Zehicle on L8ist Sh9y Podcast"
+image = "/talking-operators-with-rob-zehicle-on-l8ist-sh9y-podcast/talking-operators-on-l8ist-sh9y-podcast.png"
 aliases = ["talking-operators-on-l8ist-sh9y-podcast"]
 
 +++
 
 <iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/810685114&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/user-410091210" title="L8ist Sh9y Podcast" target="_blank" style="color: #cccccc; text-decoration: none;">L8ist Sh9y Podcast</a> · <a href="https://soundcloud.com/user-410091210/chris-short-from-red-hat-talks-operators-and-kubernetes" title="Chris Short from Red Hat talks Operators and Kubernetes" target="_blank" style="color: #cccccc; text-decoration: none;">Chris Short from Red Hat talks Operators and Kubernetes</a></div>
 
-[![Operator Framework](/talking-operators-with-rob-zehicle/operator-framework-logo-color.png)](https://github.com/Operator-framework)
+[![Operator Framework](https://cdn.chrisshort.net/operator-framework-logo-color.png)](https://github.com/Operator-framework)
+
+On May 2nd, I joined my friends over at L8ist Sh9y Podcast as [Rob Zehicle](https://twitter.com/zehicle) was trying to wrap his mind around [Kubernetes Operators](https://red.ht/operators/). I've created the [transcript](https://cdn.chrisshort.net/whxmHvMw1QIi.128.txt) so folks can read it if they desire.
 
 {{< carbon >}}
-
-On May 2nd, I joined my friends over at L8ist Sh9y Podcast as [Rob Zehicle](https://twitter.com/zehicle) was trying to wrap his mind around [Kubernetes Operators](https://red.ht/operators/). I've created the [transcript](/talking-operators-with-rob-zehicle/whxmHvMw1QIi.128.txt) so folks can read it if they desire.
 
 **Rob Zehicle:**
 Hello everybody and welcome to another episode of the Latest Shiny. This is Rob Zehicle. I am driving, uh, without my cohost so we'll probably take some more jigs and jags and I have to do my own timekeeping. Uh, so we'll figure that out as we go. Uh, somebody here will help me keep it short.
