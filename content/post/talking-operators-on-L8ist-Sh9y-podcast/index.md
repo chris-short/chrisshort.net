@@ -5,7 +5,7 @@ date = 2020-06-15T03:00:00Z
 description = "Chris Short from Red Hat talks Operators and Kubernetes"
 draft = false
 slug = "talking-operators-on-l8ist-sh9y-podcast"
-tags = ["Chris Short", "Rob Zehicle", "Operator", "Operators", "Kubernetes", "OpenShift", "CRD", "cluster", "application", "Operator pattern", "Ansible", "magic", "Red Hat", "clusters", "pods", "DevOps", "podcast"]
+tags = ["Chris Short", "Rob Zehicle", "Operator", "Operators", "Kubernetes", "OpenShift", "CRD", "cluster", "application", "Operator pattern", "Ansible", "magic", "Red Hat", "clusters", "pods", "DevOps", "podcast", "Operator Framework"]
 title = "Talking Operators on L8ist Sh9y Podcast"
 image = "/talking-operators-on-l8ist-sh9y-podcast/talking-operators-on-l8ist-sh9y-podcast.png"
 
