@@ -17,14 +17,14 @@ aliases = [
 
 Date: 2019-10-23  
 Event: [DevOpsDays Detroit 2019](https://devopsdays.org/events/2019-detroit/welcome/)  
-Slides: [DevOps is Not War — DevOpsDays Detroit 2019](https://speakerdeck.com/chrisshort/devops-is-not-war-df415c22-a29d-4cab-8689-143f9922c0f3)  
+Slides: [DevOps is Not War - DevOpsDays Detroit 2019](https://speakerdeck.com/chrisshort/devops-is-not-war-df415c22-a29d-4cab-8689-143f9922c0f3)  
 Blog post: [DevOpsDays Detroit 2019 Trip Report](/devopsdays-detroit-2019-trip-report/)
 
 ## DevOps is Not War
 
 Date: 2019-10-01  
 Event: Event: [DevOpsDays Raleigh 2019](https://devopsdays.org/events/2019-raleigh/welcome/)  
-Slides: [DevOps is Not War — DevOpsDays Raleigh 2019](https://speakerdeck.com/chrisshort/devops-is-not-war-df415c22-a29d-4cab-8689-143f9922c0f3)  
+Slides: [DevOps is Not War - DevOpsDays Raleigh 2019](https://speakerdeck.com/chrisshort/devops-is-not-war-df415c22-a29d-4cab-8689-143f9922c0f3)  
 YouTube: [DevOps is Not War - Chris Short](https://youtu.be/eKOGQKHOBNg)  
 Download: [MP4](https://cdn.chrisshort.net/DevOps-is-not-War-DOD-RDU.mp4)  
 Blog post: [DevOpsDays Raleigh 2019 Trip Report](https://chrisshort.net/devopsdays-raleigh-2019-trip-report/)
@@ -48,11 +48,11 @@ Event: [Red Hat Summit 2019](https://www.redhat.com/en/summit/2019)
 Slides: [How to Teach Old Apps New Tricks with Ansible-based Operators (Parts 1 & 2)](https://speakerdeck.com/chrisshort/how-to-teach-old-apps-new-tricks-with-ansible-based-operators-parts-1-and-2)  
 Blog Post: [How to Teach Old Apps New Tricks with Ansible-based Operators (Parts 1 & 2)](/how-to-teach-old-apps-new-tricks-with-ansible-based-operators-parts-1-2/)
 
-## Ansible and Red Hat Management — better...stronger...faster
+## Ansible and Red Hat Management - better...stronger...faster
 
 Date: 2018-11-14  
 Event: [Ansible Automates: Tampa](https://www.eventbrite.com/e/ansible-automates-tampa-registration-50228564990)  
-Video: [Ansible and Red Hat Management — better...stronger...faster](https://www.brighttalk.com/webinar/ansible-and-red-hat-management-better-stronger-faster?utm_source=RedHat)
+Video: [Ansible and Red Hat Management - better...stronger...faster](https://www.brighttalk.com/webinar/ansible-and-red-hat-management-better-stronger-faster?utm_source=RedHat)
 
 I also participated in the [Ansible Q&A Panel](https://www.brighttalk.com/webinar/qa-panel?utm_source=RedHat) at the end of this event.
 
@@ -60,8 +60,8 @@ I also participated in the [Ansible Q&A Panel](https://www.brighttalk.com/webina
 
 Date: 2018-10-17  
 Event: [All Day DevOps 2018](https://alldaydevops2018.sched.com/event/GEhz/devops-is-not-war)  
-Slides: [All Day DevOps — DevOps is Not a War](https://speakerdeck.com/chrisshort/all-day-devops-devops-is-not-a-war)  
-Video: [All Day DevOps 2018 — DevOps is Not a War](http://play.sonatype.com/watch/PbTS2zEEfXF7M8dbNrXEQN?)
+Slides: [All Day DevOps - DevOps is Not a War](https://speakerdeck.com/chrisshort/all-day-devops-devops-is-not-a-war)  
+Video: [All Day DevOps 2018 - DevOps is Not a War](http://play.sonatype.com/watch/PbTS2zEEfXF7M8dbNrXEQN?)
 
 ## DevOpsDays Columbus 2018: Kubernetes Cron Jobs
 
@@ -70,13 +70,13 @@ Event: [DevOpsDays Columbus 2018](https://www.devopsdays.org/events/2018-columbu
 Slides: [DevOpsDays Columbus 2018: Kubernetes Cron Jobs](https://speakerdeck.com/chrisshort/devopsdays-columbus-2018-kubernetes-cron-jobs)  
 YouTube: [Chris Short Ignite - Kubernetes Cron Jobs: Dreams Really Do Come True](https://youtu.be/75T_-YJ5Vag)
 
-## Grand Rapids RHUG — Using Ansible for DevOps
+## Grand Rapids RHUG - Using Ansible for DevOps
 
 Date: 0219-09-12  
 Event: [Grand Rapids RHUG Ansible, DevOps, and more!](https://www.meetup.com/Grand-Rapids-RHUG/events/253614873/)  
 Slides: [Using Ansible for DevOps](https://speakerdeck.com/chrisshort/using-ansible-for-devops)
 
-## Baltimore Go June Meeting — Go to the Rescue: Saving DevOps from TLS Turmoil
+## Baltimore Go June Meeting - Go to the Rescue: Saving DevOps from TLS Turmoil
 
 Date: 2018-06-05  
 Event: [Baltimore Go June Meeting](https://www.meetup.com/BaltimoreGolang/events/kxrjrpyxjbhb/)  
@@ -118,6 +118,7 @@ Date: 2018-04-19
 Event: [AWS Michigan](https://www.meetup.com/AWS-Michigan/events/248874167/)  
 Blog Post: [AWS Michigan: Heaven is Not a Cloud](/aws-michigan-heaven-is-not-a-cloud/)  
 YouTube: [AWS Michigan Meetup April 2018 - Heaven is Not a Cloud by Chris Short](https://youtu.be/_qx9d5JSRvw)
+Download: [MP4](https://cdn.chrisshort.net/AWS-Michigan-Meetup-April+2018-Heaven-is-Not-a-Cloud-by-Chris-Short.mp4)
 
 {{< youtube _qx9d5JSRvw >}}
 
@@ -163,7 +164,7 @@ YouTube: [DevOpsDays NYC 2018 d2 07 IG Chris Short](https://youtu.be/EImcYoyYId0
 Date: October 24, 2017  
 Event: [Lightning Talks - Hosted by opensource.com](https://allthingsopen.org/lightning-talks-hosted-by-opensource-com/)  
 Blog Post: [All Things Open 2017: DevOps README.md](/all-things-open-2017-devops-readme.md/)  
-YouTube: [DevOps README.md — Chris Short](https://youtu.be/Ibnj-YZTypU)
+YouTube: [DevOps README.md - Chris Short](https://youtu.be/Ibnj-YZTypU)
 
 {{< youtube Ibnj-YZTypU >}}
 

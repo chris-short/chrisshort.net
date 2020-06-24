@@ -9,6 +9,13 @@ title = "Interviews"
 
 {{< speaker >}}
 
+## The 20 Best Podcasts About All Things Tech
+
+Date: 2020-06-06  
+Source: [Popular Mechanics: The 20 Best Podcasts About All Things Tech](https://www.popularmechanics.com/technology/audio/g32699739/best-technology-podcasts/?slide=14)
+
+> The August 20, 2019 episode, "[The Infrastructure Effect: COBOL and GO](https://www.redhat.com/en/command-line-heroes/season-3/the-infrastructure-effect)" is not only fascinating, but it's relevant today. COBOL has been used for at least 60 years to support industries, and amid the COVID-19 pandemic, it became clear that hasn't changed. Chris Short describes how learning COBOL was seen as a safe long-term bet.
+
 ## Carving out a Cloud Native Culture in Established Organizations
 
 Date: 2020-05-20  
