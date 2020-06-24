@@ -32,4 +32,4 @@ I mention simplifying production because OBS is not for the faint of heart. Once
 
 I think the craziest and coolest thing about live streaming is that it's a somewhat untapped dimension of the social media landscape. Yes, webinars have been around forever but, there's just something a little different about live streaming. I freely admit we're not the first on the block to do this. We've learned from [some of the cool kids](https://www.twitch.tv/ibmdeveloper) that have been willing to share their knowledge with us. We're so thankful to them and the many others we've chatted and worked with along the way. We are going to be doing this for a while it sounds like too. I'm not expected to be in a Red Hat facility for the rest of the year. I do not intend to travel unless it is an emergency or a driving distance, long weekend vacation.
 
-Buckle up, folks! We're going to be [streaming and learning all the cloud native and Kubernetes](openshift.tv) together!
+Buckle up, folks! We're going to be [streaming and learning all the cloud native and Kubernetes](https://openshift.tv/) together!
