@@ -73,6 +73,7 @@ paginate = 8
 #  paypal = "username"
   telegram = "ChrisShort"
   keybase = "chrisshort"
+  twitch = "redhatopenshift"
 
 [[menu.main]]
     identifier = "menu"
