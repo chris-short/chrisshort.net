@@ -1,7 +1,7 @@
 baseurl = "https://chrisshort.net"
 DefaultContentLanguage = "en"
 title = "chrisshort.net"
-theme = "newsroom"
+theme = "beautifulhugo"
 metaDataFormat = "toml"
 pygmentsStyle = "trac"
 pygmentsUseClasses = true
