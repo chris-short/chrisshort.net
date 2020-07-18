@@ -5,7 +5,7 @@ command = "hugo --gc --minify"
 [context.production.environment]
 HUGO_VERSION = "0.56.3"
 HUGO_ENV = "production"
-HUGO_ENABLEGITINFO = "true"
+HUGO_ENABLEGITINFO = "false"
 
 [context.split1]
 command = "git submodule update --rebase --remote && hugo --gc --minify --enableGitInfo"
@@ -29,7 +29,7 @@ command = "git submodule update --rebase --remote && hugo -v --gc -DF -b $DEPLOY
 HUGO_VERSION = "0.56.3"
 
 [context.next.environment]
-HUGO_ENABLEGITINFO = "true"
+HUGO_ENABLEGITINFO = "false"
 
 # https://docs.netlify.com/configure-builds/file-based-configuration/#post-processing
 # If skip_processing = true, all other settings are ignored
