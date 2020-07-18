@@ -23,17 +23,19 @@ From the original [The Illustrated Children's Guide to Kubernetes](https://kuber
 
 ## The Illustrated Children's Guide to Kubernetes
 
-{{< speakerdeck cf618e05077149bfa85e5c1a381497c4 >}}
+<object data="/pdf/Illustrated-Childrens-Guide-to-Kubernetes.pdf" type="application/pdf" width="700px" height="700px">
+        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="/pdf/Illustrated-Childrens-Guide-to-Kubernetes.pdf">Download PDF</a>.</p>
+</object>
 
-If you're unable to few this embed, please [open the Illustrated Children's Guide PDF](/pdf/Illustrated-Childrens-Guide-to-Kubernetes.pdf).
+{{< mc >}}
 
 ## Phippy Goes to the Zoo
 
 Follow the tale of Phippy and her niece Zee as they take an educational trip to the Kubernetes Zoo.
 
-{{< speakerdeck fe011be572bb4ef1969f9d017e85da3e >}}
-
-If you're unable to few this embed, please [open the Phippy Goes to the Zoo PDF](/pdf/Phippy-Goes-To-The-Zoo.pdf).
+<object data="/pdf/Phippy-Goes-To-The-Zoo.pdf" type="application/pdf" width="700px" height="700px">
+        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="/pdf/Phippy-Goes-To-The-Zoo.pdf">Download PDF</a>.</p>
+</object>
 
 When I first got a copy of The Illustrated Children's Guide to Kubernetes at an event in 2016 I knew what Kubernetes was and that it was going to be a big deal. But, I hadn't quite grasp the understanding of all the various components. The Illustrated Children's Guide to Kubernetes helped me understand the basics of Kubernetes and where to dive in deeper. Also, it made my son, Max, giggle quite a bit when I read it to him.
 
