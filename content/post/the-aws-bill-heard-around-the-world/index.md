@@ -35,7 +35,4 @@ I immediately began having a panic attack. As I took steps the mental steps, to 
 
 ## Incident response
 
-Check the source of truth. What's diverged? How do we get things back to normal. I login to the AWS console hoping I got some output that was just off this month. The bill couldn't bill more 
-
-
-
+Check the source of truth. What's diverged? How do we get things back to normal. I login to the AWS console hoping I got some output that was just off this month. The bill couldn't bill more out of norm than ever. This AWS bill is more than our mortgage!
