@@ -67,3 +67,6 @@ node_modules/
 
 # Hugo public dir
 public/
+
+# VSCode
+.vscode/
