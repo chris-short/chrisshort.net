@@ -56,23 +56,27 @@ There it was... **$2,657.68**, staring at me. "This can't be legit." Drilling do
 
 ![S3 Activity](/the-aws-bill-heard-around-the-world/june-23-24-2020-s3-breakdown.png)
 
-**30.6 TB?!?!** how is that even possible??? $1,011.59 on 23 June 2020 and $1,639.07 on 24 June 2020. I immediately open a ticket with AWS Support frantically wondering what broke? How is this even possible? Did someone bypass Cloudflare? What the hell is Cloudflare saying?
+**30.6 TB?!?!** how is that even possible???  
+$1,011.59 on 23 June 2020.  
+$1,639.07 on 24 June 2020.
+
+I immediately open a ticket with AWS Support frantically wondering what broke? How is this even possible? Did someone bypass Cloudflare? What the hell is Cloudflare saying?
 
 ![Cloudflare 22 June 2020](/the-aws-bill-heard-around-the-world/cloudflare_june_22_2020.png)  
-Oh you're just going to let those 2,700 requests passthrough completely uncached?
+Oh cool, Cloudflare let those 2,700 requests passthrough completely uncached? How is that not anomaly detected as a DDoS??? How is it that barely of the fraction of the traffic is cached (more on that later)?
 
 ![Cloudflare 23 June 2020](/the-aws-bill-heard-around-the-world/cloudflare_june_23_2020.png)  
-Oh another 4,400 requests the next day... Sweet, baby Jesus.
+Oh another 4,400 requests the next day... Sweet, baby Jesus. Oh but you served 9 GB from cache. Thanks, Cloudflare.
 
 ## Help Arrives
 
-Apparently, when you tweet something crazy af, like a $2700 AWS bill, on a quiet holiday morning, it gets a lot of attention. So much attention in fact that the AWS Support Twitter account was on it before, [my friend](https://twitter.com/QuinnyPig/status/1186319925901586432) and [cloud economist](https://www.duckbillgroup.com/), Corey Quinn.
+Apparently, when you tweet something crazy af, like a $2700 AWS bill, on a quiet holiday morning, it gets a lot of attention. The tweet was seen by a quarter million people and a third of them interacted with it. This is so much attention that the AWS Support Twitter account was on it before, [my friend](https://twitter.com/QuinnyPig/status/1186319925901586432) and [cloud economist](https://www.duckbillgroup.com/), Corey Quinn.
 
 {{< tweet 1279424879566163970 >}}  
-Praise Twitter for at least its ability to draw attention to things
+Praise Twitter for at least its ability to draw attention to things. I am not sure this would've ended up as well as it did without it.
 
 {{< tweet 1279446759664611329 >}}  
-I forwarded the bill to Corey, when he was ready, Corey sent me a list of things (or I just created him a regular IAM account with the right perms 😉)
+I forwarded the bill to Corey almost immediately after seeing it at pre-dawn west coast time. I am forever thankful to Corey for his analysis. When he was ready, Corey sent me a list of things he needed to do an analysis (instead, I created him a regular IAM account with the proper perms 😉 and yes I cleaned up after).
 
 Corey Quinn's thread on the topic covers what happened on the AWS side pretty well:
 
@@ -80,4 +84,6 @@ Corey Quinn's thread on the topic covers what happened on the AWS side pretty we
 
 ## But, wait! There's more!
 
-The backchannel
+I had tickets in with Cloudflare (1918916) and AWS (7153956931). Cloudflare was the absolutely least helpful service I could have imagined. A long term user and on and off customer thinks they were attacked for two days and you don't life a finger? Hell. I might go spend money elsewhere just to not have to deal with Cloudflare support ever again. Matthew Prince, fix it. The industry knows your company is toxic af.
+
+The backchannel opens up. I've worked in a lot of different spaces. In government and private sector; intelligence to journalism. There are always backchannels. I want to make it very clear. These backchannels are rarely used things. But, they exist as the kryptonite for the bureaucratic bottleneck that is necessary to prevent access to the high-value assets in the backchannel. When the backchannel opens up you know.
