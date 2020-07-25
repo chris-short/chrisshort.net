@@ -25,8 +25,9 @@
                 </ul>
                 <p class="credits copyright text-muted">
                     {{ if .Site.Author.name }} {{ if .Site.Author.website }}
-                    <a href="{{ .Site.Author.website }}">{{ .Site.Author.name }}</a> {{ else }} {{ .Site.Author.name }} {{ end }} {{ end }} &nbsp;&bull;&nbsp;&copy; {{ if .Site.Params.since }} {{ .Site.Params.since }} - {{ .Site.LastChange.Format "2006"
-                    }} {{ else }} {{ .Site.LastChange.Format "2006" }} {{ end }} {{ if .Site.Title }} &nbsp;&bull;&nbsp;
+                    <a href="/copyright/">Some rights reserved</a> &nbsp;&bull;&nbsp; <a href="{{ .Site.Author.website }}">{{ .Site.Author.name }}</a>
+                  {{ else }}
+                    {{ .Site.Author.name }} {{ end }} {{ end }} &nbsp;&bull;&nbsp;&copy; {{ if .Site.Params.since }} {{ .Site.Params.since }} - {{ .Site.LastChange.Format "2006"}} {{ else }} {{ .Site.LastChange.Format "2006" }} {{ end }} {{ if .Site.Title }} &nbsp;&bull;&nbsp;
                     <a href="{{ " " | absLangURL }}">{{ .Site.Title }}</a> {{ end }}
                 </p>
             </div>
@@ -35,10 +36,10 @@
 </footer>
 
 {{- if .Site.Params.selfHosted -}}
-<script src="{{ " js/katex.min.js " | absURL }}"></script>
-<script src="{{ " js/auto-render.min.js " | absURL }}"></script>
-<script src="{{ " js/jquery.min.js " | absURL }}"></script>
-<script src="{{ " js/bootstrap.min.js " | absURL }}"></script>
+<script src="{{ "js/katex.min.js" | absURL }}"></script>
+<script src="{{ "js/auto-render.min.js" | absURL }}"></script>
+<script src="{{ "js/jquery.min.js" | absURL }}"></script>
+<script src="{{ "js/bootstrap.min.js" | absURL }}"></script>
 {{- else -}}
 <script src="https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.10.0/katex.min.js" integrity="sha384-K3vbOmF2BtaVai+Qk37uypf7VrgBubhQreNQe9aGsz9lB63dIFiQVlJbr92dw2Lx" crossorigin="anonymous"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.10.0/contrib/auto-render.min.js" integrity="sha384-kmZOZB5ObwgQnS/DuDg6TScgOiWWBiVt0plIRkZCmE6rDZGrEOQeHM5PcHi+nyqe" crossorigin="anonymous"></script>
@@ -46,11 +47,11 @@
 <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
 {{- end }}
 
-<script src="{{ " js/main.js " | absURL }}"></script>
+<script src="{{ "js/main.js" | absURL }}"></script>
 {{- if .Site.Params.staticman }}
-<script src="{{ " js/staticman.js " | absURL }}"></script>
+<script src="{{ "js/staticman.js" | absURL }}"></script>
 {{- end }} {{- if .Site.Params.useHLJS }}
-<script src="{{ " js/highlight.min.js " | absURL }}"></script>
+<script src="{{ "js/highlight.min.js" | absURL }}"></script>
 <script>
     hljs.initHighlightingOnLoad();
 </script>
@@ -65,13 +66,13 @@
 </script>
 
 {{- if .Site.Params.selfHosted -}}
-<script src="{{ " js/photoswipe.min.js " | absURL }}"></script>
-<script src="{{ " js/photoswipe-ui-default.min.js " | absURL }}"></script>
+<!-- <script src="{{ "js/photoswipe.min.js" | absURL }}"></script>
+<script src="{{ "js/photoswipe-ui-default.min.js" | absURL }}"></script> -->
 {{- else -}}
 <script src="https://cdnjs.cloudflare.com/ajax/libs/photoswipe/4.1.2/photoswipe.min.js" integrity="sha384-QELNnmcmU8IR9ZAykt67vGr9/rZJdHbiWi64V88fCPaOohUlHCqUD/unNN0BXSqy" crossorigin="anonymous"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/photoswipe/4.1.2/photoswipe-ui-default.min.js" integrity="sha384-m67o7SkQ1ALzKZIFh4CiTA8tmadaujiTa9Vu+nqPSwDOqHrDmxLezTdFln8077+q" crossorigin="anonymous"></script>
 {{- end -}}
-<script src="{{ " js/load-photoswipe.js " | absURL }}"></script>
+<script src="{{ "js/load-photoswipe.js" | absURL }}"></script>
 
 <!-- Google Custom Search Engine -->
 {{ if .Site.Params.gcse }}
