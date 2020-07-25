@@ -132,7 +132,7 @@ Source: [DevOps for doubters: How to deal with 9 kinds of people who push back](
 
 Date: 2019-06-19  
 Source: [Chris Short, Red Hat | JFrog SwampUp 2019 | Digital Anarchist](https://videopress.com/v/V3TIte3s)  
-Download: [MP4](https://cdn.chrisshort.net/chris-short-red-hat-jfrog-swampup-2019_hd.mp4) (H.264) | [MP4](https://cdn.chrisshort.net/chris-short-red-hat-jfrog-swampup-2019.mp4) (Original)
+Download: [MP4](https://cdn.chrisshort.net/chris-short-red-hat-jfrog-swampup-2019_hd.mp4) (H.264) | [MP4](https://archive.org/details/chris-short-red-hat-jfrog-swampup-2019) (Original)
 
 ## China, Huawei and the future of global technology
 
