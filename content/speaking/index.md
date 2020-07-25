@@ -13,6 +13,14 @@ aliases = [
 
 {{< speaker >}}
 
+## Short Talks: A Conversation with Kelsey Hightower - OpenShift Commons Briefing
+
+Date: 2019-12-18  
+Source: [Short Talks: A Conversation with Kelsey Hightower - OpenShift Commons Briefing](https://youtu.be/YYHp0oksor4)  
+Download: [MP3](https://cdn.chrisshort.net/Short-Talks-A-Conversation-with-Kelsey-Hightower-OpenShift-Commons-Briefing.mp3) | [M4A](https://cdn.chrisshort.net/Short-Talks-A-Conversation-with-Kelsey-Hightower-OpenShift-Commons-Briefing.m4a)
+
+{{< youtube YYHp0oksor4 >}}
+
 ## DevOps is Not War
 
 Date: 2019-10-23  
