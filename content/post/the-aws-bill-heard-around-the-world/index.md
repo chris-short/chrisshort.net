@@ -2,10 +2,10 @@
 author = "Chris Short"
 categories = ["AWS", "Cloud", "Cloudflare", "2020"]
 date = 2020-07-26T03:00:00Z
-description = "The tale of the July 4th surprise $2700 AWS bill. It is more nuanced than you think."
+description = "The tale of the July 4th surprise $2700 AWS bill. It is more nuanced than you think and might have exposed a bug."
 draft = true
 slug = "the-aws-bill-heard-around-the-world"
-tags = []
+tags = ["AWS", "AWS bill", "Cloudflare", "S3 bucket", "Corey Quinn", "CDN", "traffic", "file", "panic", "cloud", "GCP", "Twitter", "cache", "attack", "surprise"]
 title = "The AWS bill heard around the world"
 image = "/the-aws-bill-heard-around-the-world/june-2020-aws-bill-header.png"
 
