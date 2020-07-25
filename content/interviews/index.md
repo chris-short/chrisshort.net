@@ -24,6 +24,11 @@ Download: [MP3](https://cdn.chrisshort.net/Carving-out-Cloud-Native-Culture-in-E
 
 > Cornelia Davis, Chief Technology Officer at Weaveworks: "What I thought we'd talk about today is how organizations can get better at doing software. We want to get better at building it, releasing it and having more resilient systems and all of those things. One of the big categories is DevOps and it is one of the things that we're applying to make some progress on. Chris, you do a great deal in the DevOps arena. Can you give us a [definition of DevOps](https://devopsish.com/what-is-devops/)?"
 
+<audio controls>
+  <source src="https://cdn.chrisshort.net/Carving-out-Cloud-Native-Culture-in-Established-Organizations.mp3" type="audio/mpeg">
+Your browser does not support the audio element but you can download it as an MP3 (right-click, save as...).
+</audio>
+
 ## Chris Short from Red Hat talks Operators and Kubernetes
 
 Date: 2020-05-02  
@@ -33,8 +38,16 @@ Download: [MP3](https://cdn.chrisshort.net/L8istSh9y-Chris-Short-Red-Hat-talks-O
 
 <audio controls>
   <source src="https://cdn.chrisshort.net/L8istSh9y-Chris-Short-Red-Hat-talks-Operators-Kubernetes.mp3" type="audio/mpeg">
-Your browser does not support the audio element but you can download it as an MP3 (right-click).
+Your browser does not support the audio element but you can download it as an MP3 (right-click, save as...).
 </audio>
+
+## [DevOpsSpeakeasy Podcast] S01E07: Chris Short on Openshift, K8S Operators, and kubectl pronunciation
+
+Date: 2020-03-31  
+Source: [[DevOpsSpeakeasy Podcast] S01E07: Chris Short on Openshift, K8S Operators, and kubectl pronunciation](https://youtu.be/SYRAFc0h6a0)  
+Download: [MP3](https://cdn.chrisshort.net/devops-speakeasy-s01e01-chris-short-openshift-kubernetes-operators-+how-to-pronounce-kubectl.mp3)
+
+{{< youtube SYRAFc0h6a0 >}}
 
 ## Migrating applications to containers and Kubernetes: 5 best practices
 
@@ -71,7 +84,7 @@ Download: [MP4](https://cdn.chrisshort.net/DevOps-Speakeasy-Kubecon-San-Diego-20
 
 <audio controls>
   <source src="https://cdn.chrisshort.net/the-intersection-of-devops-and-kubernetes.mp3" type="audio/mpeg">
-Your browser does not support the audio element but you can download it as an MP3 (right-click).
+Your browser does not support the audio element but you can download it as an MP3 (right-click, save as...).
 </audio>
 
 Date: 2019-11-08  
@@ -98,7 +111,7 @@ Transcript: [PDF](https://cdn.chrisshort.net/Command_Line_Heroes_Season_3_The_In
 
 <audio controls>
   <source src="https://cdn.chrisshort.net/Command_Line_Heroes_S3_EP5_The_Infrastructure_Effect.mp3" type="audio/mpeg">
-Your browser does not support the audio element but you can download it as an MP3 (right-click).
+Your browser does not support the audio element but you can download it as an MP3 (right-click, save as...).
 </audio>
 
 ## CloudSkills.fm 030: Cloud Native Ops with Ansible and Kubernetes
@@ -111,7 +124,7 @@ Download: [MP3](https://cdn.chrisshort.net/CloudSkills_Episode_30.mp3)
 
 <audio controls>
   <source src="https://cdn.chrisshort.net/CloudSkills_Episode_30.mp3" type="audio/mpeg">
-Your browser does not support the audio element but you can download it as an MP3 (right-click).
+Your browser does not support the audio element but you can download it as an MP3 (right-click, save as...).
 </audio>
 
 ## DevOps for introverted people
@@ -143,7 +156,7 @@ Transcript: [PDF](https://cdn.chrisshort.net/Frontier-Podcast-China-Huawei-and-t
 
 <audio controls>
   <source src="https://cdn.chrisshort.net/CloudSkills_Episode_30.mp3" type="audio/mpeg">
-Your browser does not support the audio element but you can download it as an MP3 (right-click).
+Your browser does not support the audio element but you can download it as an MP3 (right-click, save as...).
 </audio>
 
 > How will Chinese companies like Huawei affect the future of cyber security? How does our relationship with China affect the open source community and the future of AI? These are big questions for big thinkers like Chris Short.
@@ -165,7 +178,7 @@ Download: [MP3](https://cdn.chrisshort.net/the-tim-show-s02e01.mp3)
 
 <audio controls>
   <source src="https://cdn.chrisshort.net/the-tim-show-s02e01.mp3" type="audio/mpeg">
-Your browser does not support the audio element but you can download it as an MP3 (right-click).
+Your browser does not support the audio element but you can download it as an MP3 (right-click, save as...).
 </audio>
 
 In the inaugural episode of the Newsletterers series, I sat down with [Tim Hildred](https://timhildred.com/) who runs the podcast, The Tim Show. We discussed the DevOps'ish newsletter, everything it takes to put it together, the challenges faced, and the 'why' behind [DevOps'ish](https://devopsish.com/).
@@ -178,7 +191,7 @@ Download: [MP3](https://cdn.chrisshort.net/tcp-episode-16-mix.mp3)
 
 <audio controls>
   <source src="https://cdn.chrisshort.net/tcp-episode-16-mix.mp3" type="audio/mpeg">
-Your browser does not support the audio element but you can download it as an MP3 (right-click).
+Your browser does not support the audio element but you can download it as an MP3 (right-click, save as...).
 </audio>
 
 > AWS Summit Season 2019 is officially underway. Justin, Peter and special guest Chris Short [@chrisshort](https://twitter.com/ChrisShort). Plus the famous lightning round.
@@ -200,7 +213,7 @@ Download: [MP3](https://cdn.chrisshort.net/oncallnightmares_2018-12-27T09_00_12-
 
 <audio controls>
   <source src="https://cdn.chrisshort.net/oncallnightmares_2018-12-27T09_00_12-08_00.mp3" type="audio/mpeg">
-Your browser does not support the audio element but you can download it as an MP3 (right-click).
+Your browser does not support the audio element but you can download it as an MP3 (right-click, save as...).
 </audio>
 
 ## Business Travel Life: Chris Short
@@ -221,7 +234,7 @@ Download: [MP3](https://cdn.chrisshort.net/FFS123.mp3)
 
 <audio controls>
   <source src="https://cdn.chrisshort.net/FFS123.mp3" type="audio/mpeg">
-Your browser does not support the audio element but you can download it as an MP3 (right-click).
+Your browser does not support the audio element but you can download it as an MP3 (right-click, save as...).
 </audio>
 
 ## Stand-up meetings: 5 reasons to kiss traditional meetings goodbye
@@ -237,7 +250,7 @@ Download: [MP3](https://cdn.chrisshort.net/tns-best-ci-cd-for-kubernetes-doesnt-
 
 <audio controls>
   <source src="https://cdn.chrisshort.net/tns-best-ci-cd-for-kubernetes-doesnt-exist.mp3" type="audio/mpeg">
-Your browser does not support the audio element but you can download it as an MP3 (right-click).
+Your browser does not support the audio element but you can download it as an MP3 (right-click, save as...).
 </audio>
 
 ## L8ist Sh9y Podcast: Chris Short on SRE, DevSecOps, Pipelines, Immutability, and Kubernetes
@@ -248,7 +261,7 @@ Download: [MP3](https://cdn.chrisshort.net/chris-short-on-sre-devsecops-pipeline
 
 <audio controls>
   <source src="https://cdn.chrisshort.net/chris-short-on-sre-devsecops-pipelines-immutability-and-kubernetes.mp3" type="audio/mpeg">
-Your browser does not support the audio element but you can download it as an MP3 (right-click).
+Your browser does not support the audio element but you can download it as an MP3 (right-click, save as...).
 </audio>
 
 ## DevOpsDays Toronto 2018 — What the military taught me about DevOps
@@ -267,7 +280,7 @@ Download: [MP3](https://cdn.chrisshort.net/2018-04-04_3d_podcast_recording_sessi
 
 <audio controls>
   <source src="https://cdn.chrisshort.net/2018-04-04_3d_podcast_recording_session_113_-_refactoring_giant_monoliths.mp3" type="audio/mpeg">
-Your browser does not support the audio element but you can download it as an MP3 (right-click).
+Your browser does not support the audio element but you can download it as an MP3 (right-click, save as...).
 </audio>
 
 ## Screaming in the Cloud: Episode 2
@@ -278,7 +291,7 @@ Download: [MP3](https://cdn.chrisshort.net/Episode-2-Shoving-a-SAN-into-us-east-
 
 <audio controls>
   <source src="https://cdn.chrisshort.net/Episode-2-Shoving-a-SAN-into-us-east-1.mp3" type="audio/mpeg">
-Your browser does not support the audio element but you can download it as an MP3 (right-click).
+Your browser does not support the audio element but you can download it as an MP3 (right-click, save as...).
 </audio>
 
 ## DevOps Perspectives from the Front Lines
@@ -290,7 +303,7 @@ Download: [MP3](https://cdn.chrisshort.net/the-cloudcast-277-devops-perspectives
 
 <audio controls>
   <source src="https://cdn.chrisshort.net/the-cloudcast-277-devops-perspectives-from-the-front-lines.mp3" type="audio/mpeg">
-Your browser does not support the audio element but you can download it as an MP3 (right-click).
+Your browser does not support the audio element but you can download it as an MP3 (right-click, save as...).
 </audio>
 
 ## North Carolina Veterans Oral History Interview Part 3

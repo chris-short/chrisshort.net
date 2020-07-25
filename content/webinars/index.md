@@ -9,23 +9,41 @@ title = "Webinars"
 
 {{< speaker >}}
 
+# The top 7 most useful Kubernetes APIs for comprehensive cloud native observability
+
+Date: 2020-07-09  
+Source: [CNCF Member Webinar: The top 7 most useful Kubernetes APIs for comprehensive cloud native observability](https://www.cncf.io/webinars/the-top-7-most-useful-kubernetes-apis-for-comprehensive-cloud-native-observability/)  
+YouTube: [The top 7 most useful Kubernetes APIs for comprehensive cloud native observability](https://youtu.be/5LjTApwydao)  
+Dowload: [MP4](https://cdn.chrisshort.net/The-top-7-most-useful-Kubernetes-APIs-for-comprehensive-cloud-native-observability.mp4)
+
+{{< youtube 5LjTApwydao >}}
+
+## Security at Cloud-native Speed On-Demand
+
+Date: 2020-01  
+Source [Security at Cloud-native Speed On-Demand](https://security.stackrox.com/2020_01-Sec-at-C-N-Speed-Webinar_.html)  
+YouTube: [Security at Cloud-native Speed](https://youtu.be/ff8WQ6GWoE8)  
+Download: [MP4](https://cdn.chrisshort.net/Security-at-Cloud-native-Speed.mp4)
+
+{{< youtube ff8WQ6GWoE8 >}}
+
 ## Contour – High performance ingress controller for Kubernetes
 
 Date: 2019-10-10  
-Source: [Contour – High performance ingress controller for Kubernetes — CNCF](https://www.cncf.io/webinars/contour-high-performance-ingress-controller-for-kubernetes/)  
-YouTube: [Contour - High Performance Ingress Controller for Kubernetes — CNCF](https://youtu.be/764YUk-wSa0)  
+Source: [Contour – High performance ingress controller for Kubernetes - CNCF](https://www.cncf.io/webinars/contour-high-performance-ingress-controller-for-kubernetes/)  
+YouTube: [Contour - High Performance Ingress Controller for Kubernetes - CNCF](https://youtu.be/764YUk-wSa0)  
 Download: [MP4](https://cdn.chrisshort.net/Contour-High-Performance-Ingress-Controller-for-Kubernetes.mp4)
 
 ## Building Kubernetes Operators in an Ansible-native way
 
 Date: 2019-10-09  
-Source: [Building Kubernetes Operators in an Ansible-native way — CNCF](https://www.cncf.io/webinars/building-kubernetes-operators-in-an-ansible-native-way/)  
+Source: [Building Kubernetes Operators in an Ansible-native way - CNCF](https://www.cncf.io/webinars/building-kubernetes-operators-in-an-ansible-native-way/)  
 YouTube: [Building Kubernetes Operators in an Ansible-native way](https://youtu.be/luRo0nJABNw)  
 Download: [MP4](https://cdn.chrisshort.net/Building-Kubernetes-Operators-in-an-Ansible-native-way.mp4), [MKV](https://cdn.chrisshort.net/Building-Kubernetes-Operators-in-an-Ansible-native-way.mkv)
 
 {{< youtube luRo0nJABNw >}}
 
-## KubeVirt — Beyond Containers: Coming full circle back to VMs!
+## KubeVirt - Beyond Containers: Coming full circle back to VMs!
 
 Date: 2019-09-12  
 Source: [KubeVirt - Beyond Containers: Coming full circle back to VMs! - Cloud Native Computing Foundation](https://www.cncf.io/webinars/kubevirt-beyond-containers-coming-full-circle-back-to-vms/)  
@@ -46,7 +64,7 @@ Download:  [MP4](https://cdn.chrisshort.net/Monitoring-Kubernetes-workloads-side
 ## The future of how Ansible content is handled
 
 Date: 2019-06-13  
-Source: [The future of how Ansible content is handled — On Demand Webinar](https://www.ansible.com/resources/webinars-training/collections-future-of-how-ansible-content-is-handled)  
+Source: [The future of how Ansible content is handled - On Demand Webinar](https://www.ansible.com/resources/webinars-training/collections-future-of-how-ansible-content-is-handled)  
 YouTube: [The future of how Ansible content is handled](https://youtu.be/CGjDarrqBjg)  
 Download: [MP4](https://cdn.chrisshort.net/2019-06-13 10.03-The-future-of-how-Ansible-content-is-handled.mp4)
 
