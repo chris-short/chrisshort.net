@@ -63,7 +63,7 @@ $1,639.07 on 24 June 2020.
 I immediately open a ticket with AWS Support frantically wondering what broke? How is this even possible? Did someone bypass Cloudflare? What the hell is Cloudflare saying?
 
 ![Cloudflare 22 June 2020](/the-aws-bill-heard-around-the-world/cloudflare_june_22_2020.png)  
-Oh cool, Cloudflare let those 2,700 requests passthrough completely uncached? How is that not anomaly detected as a DDoS??? How is it that barely of the fraction of the traffic is cached (more on that later)?
+Oh cool, Cloudflare let those 2,700 requests passthrough completely uncached? How is that not anomaly detected as a DDoS??? How is it that barely a fraction of the traffic is cached (more on that later)?
 
 ![Cloudflare 23 June 2020](/the-aws-bill-heard-around-the-world/cloudflare_june_23_2020.png)  
 Oh, another 4,400 requests the next day... Sweet, baby Jesus. Oh, but you served 9 GB from cache. Thanks, Cloudflare.
