@@ -151,7 +151,7 @@ Download: [MP4](https://cdn.chrisshort.net/chris-short-red-hat-jfrog-swampup-201
 
 Date: 2019-05-28  
 Source: [China, Huawei and the future of global technology — The Frontier Podcast — Episode 61](https://www.gun.io/frontier/2019/episode-61)  
-Download: [MP3](https://storage.googleapis.com/cdn.chrisshort.net/61-chris-short-final-bounce.mp3)  
+Download: [MP3](https://cdn.chrisshort.net/61-chris-short-final-bounce.mp3)  
 Transcript: [PDF](https://cdn.chrisshort.net/Frontier-Podcast-China-Huawei-and-the-future-of-global-technology.pdf)
 
 <audio controls>
