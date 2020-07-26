@@ -126,7 +126,7 @@ Date: 2018-04-19
 Event: [AWS Michigan](https://www.meetup.com/AWS-Michigan/events/248874167/)  
 Blog Post: [AWS Michigan: Heaven is Not a Cloud](/aws-michigan-heaven-is-not-a-cloud/)  
 YouTube: [AWS Michigan Meetup April 2018 - Heaven is Not a Cloud by Chris Short](https://youtu.be/_qx9d5JSRvw)
-Download: [MP4](https://cdn.chrisshort.net/AWS-Michigan-Meetup-April+2018-Heaven-is-Not-a-Cloud-by-Chris-Short.mp4)
+Download: [MP4](https://archive.org/details/aws-michigan-meetup-april-2018-heaven-is-not-a-cloud-by-chris-short)
 
 {{< youtube _qx9d5JSRvw >}}
 
