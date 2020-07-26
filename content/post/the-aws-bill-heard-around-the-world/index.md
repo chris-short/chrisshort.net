@@ -25,7 +25,7 @@ Along with that migration came the CDN for this web site (cdn.chrisshort.net). I
 
 ### The shock
 
-Not on this Saturday morning, nope. June 2020's AWS bill was a heart palpitation causing **$2,657.68** ([PDF](/pdf/invoice498711077_redacted.pdf)). I audibly gasped, "Keep your shit together." I thought to myself. Max was leaned up against me drinking his milk. I know he could tell something was wrong because he looked at the laptop screen. I only assume when he saw letters and numbers, he thought, "Adult stuff... These cartoons and this Cinnamon Toast Crunch tho." 2020 being the year that it is and my military history being what it is, I've been diagnosed with a panic disorder (on top of the PTSD and physical injuries).
+Not on this Saturday morning, nope. June 2020's AWS bill was a heart palpitation causing **$2,657.68** ([PDF](https://cdn.chrisshort.net/pdf/invoice498711077_redacted.pdf)). I audibly gasped, "Keep your shit together." I thought to myself. Max was leaned up against me drinking his milk. I know he could tell something was wrong because he looked at the laptop screen. I only assume when he saw letters and numbers, he thought, "Adult stuff... These cartoons and this Cinnamon Toast Crunch tho." 2020 being the year that it is and my military history being what it is, I've been diagnosed with a panic disorder (on top of the PTSD and physical injuries).
 
 ### The panic
 

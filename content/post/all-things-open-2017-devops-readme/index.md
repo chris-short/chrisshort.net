@@ -19,10 +19,11 @@ I had the opportunity to participate in [All Things Open](https://allthingsopen.
 
 ## Slides
 
-<embed src="/all-things-open-2017-devops-readme.md/DevOps_README.md_ATO2017.pdf" width="640" height="360" alt="pdf" />
+{{< speakerdeck 322dec59e1884ea88cb828f990f48487 >}}
+
+If you're unable to view this embed, please [All Things Open 2017 — DevOps README.md](https://cdn.chrisshort.net/pdf/DevOps_README.md_ATO2017.pdf).
 
 ## Video
 
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/Ibnj-YZTypU" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-
+{{< youtube Ibnj-YZTypU >}}
 
