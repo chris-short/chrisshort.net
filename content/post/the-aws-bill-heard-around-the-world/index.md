@@ -25,7 +25,7 @@ Along with that migration came the CDN for this web site (cdn.chrisshort.net). I
 
 ### The shock
 
-Not on this Saturday morning, nope. June 2020's AWS bill was a heart palpitation causing **$2,657.68** ([PDF](/pdf/invoice498711077_redacted.pdf)). I audibly gasped, "Keep your shit together." I thought to myself. Max was leaned up against me drinking his milk. I know he could tell something was wrong because he looked at the laptop screen. I only assume when he saw letters and numbers, he thought, "Adult stuff... These cartoons and this Cinnamon Toast Crunch tho." 2020 being the year that it is and my military history being what it is, I've been diagnosed with a panic disorder (on top of the PTSD and physical injuries).
+Not on this Saturday morning, nope. June 2020's AWS bill was a heart palpitation causing **$2,657.68** ([PDF](https://cdn.chrisshort.net/pdf/invoice498711077_redacted.pdf)). I audibly gasped, "Keep your shit together." I thought to myself. Max was leaned up against me drinking his milk. I know he could tell something was wrong because he looked at the laptop screen. I only assume when he saw letters and numbers, he thought, "Adult stuff... These cartoons and this Cinnamon Toast Crunch tho." 2020 being the year that it is and my military history being what it is, I've been diagnosed with a panic disorder (on top of the PTSD and physical injuries).
 
 ### The panic
 
@@ -63,7 +63,7 @@ $1,639.07 on 24 June 2020.
 I immediately open a ticket with AWS Support frantically wondering what broke? How is this even possible? Did someone bypass Cloudflare? What the hell is Cloudflare saying?
 
 ![Cloudflare 22 June 2020](/the-aws-bill-heard-around-the-world/cloudflare_june_22_2020.png)  
-Oh cool, Cloudflare let those 2,700 requests passthrough completely uncached? How is that not anomaly detected as a DDoS??? How is it that barely of the fraction of the traffic is cached (more on that later)?
+Oh cool, Cloudflare let those 2,700 requests passthrough completely uncached? How is that not anomaly detected as a DDoS??? How is it that barely a fraction of the traffic is cached (more on that later)?
 
 ![Cloudflare 23 June 2020](/the-aws-bill-heard-around-the-world/cloudflare_june_23_2020.png)  
 Oh, another 4,400 requests the next day... Sweet, baby Jesus. Oh, but you served 9 GB from cache. Thanks, Cloudflare.
