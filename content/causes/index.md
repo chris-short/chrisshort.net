@@ -23,11 +23,25 @@ Website: [Open Source Initiative](https://opensource.org/)
 
 > We are the stewards of the Open Source Definition (OSD) and the community-recognized body for reviewing and approving licenses as OSD-conformant.
 
+## Free Software Foundation
+
+Once they ditched Stallman they were deserving of my support even though they're a little more zealous than I am about open source.
+
+Website: [Free Software Foundation](https://www.fsf.org/)
+
+> Free software developers guarantee everyone equal rights to their programs; any user can study the source code, modify it, and share the program. By contrast, most software carries fine print that denies users these basic rights, leaving them susceptible to the whims of its owners and vulnerable to surveillance.
+
 ## Wikimedia Foundation
 
 Website: [Wikimedia Foundation](https://wikimediafoundation.org/)
 
 > The Wikimedia Foundation is the nonprofit that hosts Wikipedia and our other free knowledge projects. We want to make it easier for everyone to share what they know. To do this, we keep Wikipedia and Wikimedia sites fast, reliable, and available to all. We protect the values and policies that allow free knowledge to thrive. We build new features and tools to make it easy to read, edit, and share from the Wikimedia sites. Above all, we support the communities of volunteers around the world who edit, improve, and add knowledge across Wikimedia projects.
+
+## Internet Archive
+
+Website: [Internet Archive](https://archive.org/)
+
+> Internet Archive is a non-profit library of millions of free books, movies, software, music, websites, and more.
 
 ## Pin-Ups for Vets
 
