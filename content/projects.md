@@ -19,7 +19,7 @@ DevOps, Cloud Native, Open Source, and the ‘ish in between. A weekly newslette
 I strive, every week, to put together the best newsletter covering DevOps, Cloud Native, and Open Source Software. The three main sections of the newsletter are People, Process, and Tools. They are in that order for a reason: People implement Processes using Tools. These three components should be cared for in that order too.
 
 Newsletter: [DevOps'ish](https://devopsish.com)  
-Source: <https://github.com/chris-short/devopsish.com>
+Source: <https://github.com/chris-short/devopsish.com>  
 Analytics: <https://app.usefathom.com/share/acmuyzfw/devopsish.com>
 
 ## rak8s
@@ -58,21 +58,21 @@ DevOps Newsletters is an idea that sprung out of an opensource.com article: [16 
 
 > Continuous learning is a critical part of DevOps. Staying current is imperative. These are DevOps newsletters of note from several well regarded DevOps leaders.
 
-Source: <https://github.com/chris-short/devopsnewsletters.com>
+Source: <https://github.com/chris-short/devopsnewsletters.com>  
 Analytics: <https://app.usefathom.com/share/feqaqjah/devopsnewsletters.com>
 
 ## Kubernetes News
 
 Inspired by [DevOps Newsletters](https://devopsnewsletters.com/) and Peter Benjamin's [How do you keep up with Kubernetes?](https://dev.to/petermbenjamin/how-do-you-keep-up-with-kubernetes-2209), [Kubernetes News](https://kubenews.io/) intends to be a resource to help keep up with the wide ranging and rapidly evolving world of Kubernetes.
 
-Source: <https://github.com/chris-short/kubenews.io>
+Source: <https://github.com/chris-short/kubenews.io>  
 Analytics: <https://app.usefathom.com/share/nqaekcov/kubenews.io>
 
 ## No Medium
 
 [No Medium](https://nomedium.dev): Medium is Bad. Stop Using It.
 
-Source: <https://github.com/chris-short/nomedium.dev>
+Source: <https://github.com/chris-short/nomedium.dev>  
 Analytics: <https://app.usefathom.com/share/gkvngtda/nomedium.dev>
 
 ## What is DevOps
@@ -89,5 +89,5 @@ Analytics: <https://app.usefathom.com/share/acmuyzfw/devopsish.com>
 
 > Padbury Clock Screensaver, made by Robert Padbury, debuted on Product Hunt on 2015-03-26. It quickly rose to #3 Product of the Day. Rightfully so; Padbury Clock has been one of my favorite screensavers of all time since that day.
 
-Source: <https://github.com/chris-short/padbury.app>
+Source: <https://github.com/chris-short/padbury.app>  
 Analytics: <https://app.usefathom.com/share/pvppbtem/padbury.app>
