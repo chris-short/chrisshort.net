@@ -13,6 +13,26 @@ aliases = [
 
 {{< speaker >}}
 
+## Red Hat® Summit Virtual Experience: Open House - Building Kubernetes Operators with Ansible
+
+Date: 2020-07-15  
+Source: [Summit Lab - Building Kubernetes Operators with Ansible](https://youtu.be/6scP0L1oCP4?t=302)
+
+> The Ansible Operator SDK makes it easier to deploy and manage Kubernetes applications with native Ansible support. This workshop will take you into the operator-sdk and teach you how to build and manage Ansible Operators for Kubernetes.
+
+{{< youtube 6scP0L1oCP4 >}}
+
+## JFrog SwampUP 2020 - Lesson Learned From Cloud Migrations: Planning is Everything
+
+Date: 2020-06-24  
+Source: [Lesson Learned From Cloud Migrations: Planning is Everything](https://jfrog.com/user-conference/lesson-learned-from-cloud-migrations-planning-is-everything/)  
+YouTube: [Lesson Learned From Cloud Migrations: Planning is Everything - Chris Short](https://youtu.be/BQMu5m-oZe0)
+Download: [MP4](https://cdn.chrisshort.net/Lesson-Learned-From-Cloud-Migrations-Planning-is-Everything-Chris-Short.mp4)
+
+>“Migrating to the cloud saves money!” “Not running your own infrastructure reduces your bottom line!” “Lift and shift is a legitimate first step towards moving to the cloud!” These are all potential pitfalls if you’re not careful. Proper planning prevents piss poor performance. Using a real chaotic cloud migration as a guide, we’ll walk through the pitfalls of cloud migrations and how to avoid them and the terrifying vendor lock-in (when it makes sense).
+
+{{< youtube BQMu5m-oZe0 >}}
+
 ## Short Talks: A Conversation with Kelsey Hightower - OpenShift Commons Briefing
 
 Date: 2019-12-18  
