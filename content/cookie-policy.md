@@ -12,6 +12,8 @@ aliases = [
 
 +++
 
+{{< boring >}}
+
 This is the Cookie Policy for chrisshort.net, accessible from https://chrisshort.net
 
 ## What Are Cookies
