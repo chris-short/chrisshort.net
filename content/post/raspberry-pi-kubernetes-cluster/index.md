@@ -16,7 +16,7 @@ aliases = [
 
 For many months, I have wanted a **Kubernetes** cluster of my very own. One that I can tinker with, break, rebuild, and deploy services to. In the fall of 2017, I decided to stand up a three node cluster in Google Kubernetes Engine (GKE). It was nice and shiny and Googly but it wasn't cheap. Totaling almost $40/month to run I was envious of my friends who have virtually unlimited access to cloud compute.
 
-{{< mc >}}
+
 
 Once I [left Bankrate](/leaving-bankrate/), the GKE cluster was shuttered and a lower cost option was needed. I ran minikube for a while. I got annoyed when a laptop went to sleep and ruined minikube. I tried to run a single node cluster on an old 2010 MacBook Pro. But, it wasn't up to the task without [VT-x](https://en.wikipedia.org/wiki/X86_virtualization#Intel_virtualization_(VT-x)). I abandoned the idea for later on once I realized the four old Raspberry Pis I had weren't going to be able to handle but a handful of containers.
 
@@ -59,7 +59,7 @@ My setup is far from perfect but it's great for under $400. It's hard to beat a 
 
 While I highly recommend Kubernetes on Raspberry Pi, there are some trade-offs to running Kubernetes on ARM systems. A lot of the Kubernetes tools that people know and love don't support ARM (yet). But, after talking with some folks at Weave and Heptio there is a desire to get their tooling on ARM architecture. As a member of the Kubernetes community, I can help push ARM adoption along. I offered my help and access to my cluster should anyone want to work towards the goal of getting their tools on ARM-powered Kubernetes clusters.
 
-{{< mc >}}
+
 
 I am very happy with the progress I made in a handful of evenings on building and deploying a Raspberry Pi Kubernetes cluster. I'm hopeful that [rak8s](https://rak8s.io/) will turn into a full-blown project. Hopefully, it will allow others to learn and improve their skills while getting into Kubernetes on Raspberry Pi. PRs welcome and happy k8s'ing!
 

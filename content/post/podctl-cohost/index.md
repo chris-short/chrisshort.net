@@ -13,7 +13,7 @@ imagealt = "PodCTL - Enterprise Kubernetes"
 
 Three years ago, I sat down with Brian Gracely and Josh Atwell and [recorded a podcast](/devops-perspectives-from-the-front-lines/). I hadn't met  Brian before that, but it was obvious Brian knew what he was doing hosting a podcast. I walked into a conference with Brian, Josh, four mics, a TASCAM, and a laptop. This was a legit podcast production I was sitting down to record.
 
-{{< mc >}}
+
 
 For about a year or so, I've wanted to host or co-host a podcast. I have had some fits and starts over the years. I tried to get one going with Chris Bailey and then tried one on my own. Neither one seemed like something I could start from the ground up and sustain. I've learned that maintaining, editing, and recording podcasts requires a lot of work.
 

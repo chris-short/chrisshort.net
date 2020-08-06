@@ -15,7 +15,7 @@ I had the opportunity to participate in [All Things Open](https://allthingsopen.
 
 **This list is on [GitHub](https://github.com/chris-short/DevOps-README.md), pull requests are welcome.**
 
-{{< mc >}}
+
 
 ## Slides
 

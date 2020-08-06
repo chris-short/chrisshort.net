@@ -12,7 +12,7 @@ image = "/how-to-teach-old-apps-new-tricks-with-ansible-based-operators-parts-1-
 
 At Red Hat Summit this year, I had the task of explaining [Kubernetes Operators with Ansible](https://ansible.com/operators) in two, fifteen-minute talks, separated by three hours, in the middle of the busy Red Hat booth to anyone that walked up. I had to explain Kubernetes, the difference stateful and stateless apps, what a Kubernetes Operator is, how to write an operator with Ansible, and then demonstrate this capability. Use of video and sound was discouraged. Also, there wasn't going to be an ethernet cable available, meaning only conference show floor WiFi was available for a demo.
 
-{{< mc >}}
+
 
 ## Constraints are the devil
 

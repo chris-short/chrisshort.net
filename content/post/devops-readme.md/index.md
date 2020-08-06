@@ -18,7 +18,7 @@ Slides used at the genesis of this list are [available here](https://cdn.chrissh
 
 *Note: chrisshort.net may earn compensation for sales from links on this post through [affiliate programs](/terms/).*
 
-{{< mc >}}
+
 
 ## DevOps README.md
 
@@ -218,6 +218,6 @@ Slides used at the genesis of this list are [available here](https://cdn.chrissh
 
 "You are either building a learning organization or you will be losing to someone who is." --Andrew Clay Shafer
 
-{{< mc >}}
+
 
 

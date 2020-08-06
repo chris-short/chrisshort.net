@@ -127,6 +127,12 @@ paginate = 8
 
 [[menu.main]]
     parent = "menu"
+    name = "Kubernetes News"
+    url = "https://kubeweekly.io/"
+    weight = 11
+
+[[menu.main]]
+    parent = "menu"
     name = "What is DevOps"
     url = "https://devopsish.com/what-is-devops/"
     weight = 19

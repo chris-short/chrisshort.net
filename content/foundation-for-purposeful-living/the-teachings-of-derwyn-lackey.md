@@ -22,7 +22,7 @@ The following was originally posted on the FACTNet thread dedicated to Human Ser
 
 This happens only if the family or friend is in line with the student's decision to be at CPL or if the CPL is confident they can "manage" any such visitors. Family and friends who clearly disapprove of the organization and make it known are cast as "enablers", "detractors", "victims" who do not have the student's best interests.
 
-{{< mc >}}
+
 
 A note to the students from CPL's leader, Derwin Lackey, about a young teenager who decided to go home for Christmas is revealing:
 

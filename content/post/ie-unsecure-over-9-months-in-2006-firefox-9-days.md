@@ -17,7 +17,7 @@ aliases = [
 
 Most of us probably knew this already but Internet Explorer (IE) is one of the most unsecured browsers on the planet. Last year alone, it was unsecure for 284 according to a Washington Post article by Brian Krebs.
 
-{{< mc >}}
+
 
 [Washington Post: "Internet Explorer unsafe for 284 days in 2006"](https://arstechnica.com/information-technology/2007/01/6498/) (Ars Technica)
 

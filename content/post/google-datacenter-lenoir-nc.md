@@ -13,7 +13,7 @@ image = "https://cdn.chrisshort.net/Google_2007.png"
 
 Good news for the Unifour area of North Carolina (where I lived three years of my early adult life), Google is building a 210 job, $600 million dollar datacenter to help bolster its online offerings.
 
-{{< mc >}}
+
 
 [Google Taps North Carolina for New Datacenter Site](https://www.ecommercetimes.com/story/55266.html) (E-Commerce Times):
 

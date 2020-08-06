@@ -16,7 +16,7 @@ aliases = [
 
 Julie and I have been passholders to [Biltmore](http://www.biltmore.com/) since Labor Day weekend 2010.  The Biltmore Estate is a very special place for us because it seems every time we visit we somehow manage to fall deeper in love with each other.  I had decided several months prior that when the time was right I would propose to Julie somewhere on the Biltmore Estate.
 
-{{< mc >}}
+
 
 I made reservations at the [Inn on Biltmore](http://www.biltmore.com/stay/inn) for Saturday, January 29, 2011.  We arrived on the sprawling 8000-acre estate around 1:30 PM and stopped by the Bass Pond and Waterfall to see them since neither of us had been there before.  After trekking across a series of muddy paths for a half an hour or so we made our way up to the Inn on Biltmore.  The valet took my car and made sure our luggage was situated.  We checked into our room where a wonderful bottle of Biltmore Riesling sat on ice awaiting our arrival.  Our luggage was delivered promptly and Julie and I enjoyed a glass of wine.  I nervously waited for the absolutely perfect time to spring the ring that was neatly tucked away in my camera bag.
 

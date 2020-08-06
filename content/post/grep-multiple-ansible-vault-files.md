@@ -17,4 +17,4 @@ Here's a handy one-liner to grep multiple Ansible Vault files (like group_vars).
 ls -1 | while read N ; do echo -n $N: ; ansible-vault --vault-password-file ~/.ansible_vault view $N | grep <STRING> ; done
 {{< / highlight >}}
 
-{{< mc >}}
+

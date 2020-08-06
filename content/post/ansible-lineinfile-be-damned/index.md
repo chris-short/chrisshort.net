@@ -17,7 +17,7 @@ aliases = [
 
 The [Ansible](/tags/ansible/) [lineinfile](http://docs.ansible.com/ansible/lineinfile_module.html) module is designed to search a file for a line, and ensure that it is present or absent. lineinfile is very effective at that particular task. However, when the line has to be in a certain place or before or after a certain line, lineinfile becomes a hassle to manage.
 
-{{< mc >}}
+
 
 Most people on IRC (#ansible) tend to agree, lineinfile is not a very good module in practice. Even [Brain Coca says to avoid the lineinfile module](https://groups.google.com/d/msg/ansible-project/vjquGCRcLJc/QEgebch_DQAJ). But, there is one use case I have found where line in file really excels.
 
