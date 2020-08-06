@@ -14,7 +14,7 @@ imagecap = ""
 
 I was helping to staff the [Cloud Native Computing Foundation](https://cncf.io) booth at [ChefConf 2018](/tags/chefconf/) when the topic of encouraging folks to write articles about what they're doing with [Kubernetes](/tags/kubernetes/) came up. One common problem often encountered is convincing folks that what they're doing is interesting work. The next problem is convincing folks that writing is not too difficult.
 
-{{< mc >}}
+
 
 Breaking down the task of writing into three steps is helpful:
 

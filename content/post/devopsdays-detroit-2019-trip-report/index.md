@@ -17,7 +17,7 @@ I [spoke](https://speakerdeck.com/chrisshort/devops-is-not-war-df415c22-a29d-4ca
 
 The venue is awesome, in my opinion, because it puts systems thinkers in a venue space on top of an arts school overflowing with creative ideas. There is art around every corner. Attendees share the elevators with students going up to the event space. It's both humbling and inspiring. Detroit is a real-life Phoenix Project. Instead of an auto parts manufacturer, it's the 23rd most populous city in the US (and is ironically, The Motor City). But, the school is [putting its students' ideas to use to rebuild Detroit](https://www.collegeforcreativestudies.edu/experience/detroit). Detroit vs. Everybody.
 
-{{< mc >}}
+
 
 Overall, the event was done far better than in previous years. But, for whatever reason, things felt rushed. When you look at the [program](https://devopsdays.org/events/2019-detroit/program), it appeared the organizers were making more time for speakers and networking though. The talks covered [Site Reliability Engineering](https://landing.google.com/sre/books/) (SRE), disaster management and incident response, and using data to drive decisions that impact business goals. The only low light of the event is that I had to file a code of conduct complaint for the first time ever (for a speaker too). ***That sucked***.
 

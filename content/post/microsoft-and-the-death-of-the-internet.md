@@ -12,7 +12,7 @@ title = "Microsoft and the Death of the Internet"
 
 Microsoft and its products and services are slowly destroying the Internet or at the very least changing the dynamics of the Internet. There are three main reasons for this rift in the Internet. The first reason is Microsoft's standards. The second reason is the popularity of Microsoft software. The final reason is the security (or lack thereof) of Microsoft software. When you combine these three reasons together you get a potential Internet killer.
 
-{{< mc >}}
+
 
 Microsoft's standards and use of existing standards is shoddy, at best. Microsoft has a tendency to create standards to suit their needs as opposed to using an already established standard. Anyone in the tech industry long enough has seen this at least once. This is fine and dandy and it's great that Microsoft has the resources to accomplish these tasks. The problem comes in because, usually, Microsoft standards are closed, independently managed standards or protocols. This means that only Microsoft gets to tinker with the standard, manage it, produce it, and secure it. When there is a standard and the only entity that knows the standard in and out is a major corporation then something is wrong. Microsoft also has a tendency to take existing standards and modify them a little (or a lot in most cases) then re-badges the new standard as Microsoft [INSERT OLD STANDARD NAME HERE]. This process makes a fine, open standard become a closed standard with an open basis which really does no good. Then there are the other standards. Standards like civility, morals, and security. But, when was the last time a security conscious nice guy succeeded in the world of IT?
 

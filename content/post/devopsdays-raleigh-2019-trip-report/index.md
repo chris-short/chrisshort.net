@@ -34,7 +34,7 @@ One Business Analyst from Ashley Furniture pulled me aside for a solid twenty mi
 
 I'm doing this same talk at [DevOpsDays Detroit](https://devopsdays.org/events/2019-detroit/program) at the end of the month. If you're in the area, stop by and say hello!
 
-{{< mc >}}
+
 
 My favorite talk of the event though, had to be Daniel Oh's [Quarkus](https://quarkus.io/) talk. First, [Daniel Oh](https://twitter.com/danieloh30) is an excellent speaker. He is deliberate, clear, and concise. It is refreshing because that's such a hard thing to get to as a speaker. Quarkus is cool tech, we all kind of agree on that. But, when Daniel went through the compile, package, and execute steps in seconds, one person, a few rows behind me said, "Wow!” It wasn't a plant; straight up had their mind blown.
 

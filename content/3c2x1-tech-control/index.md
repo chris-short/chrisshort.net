@@ -19,7 +19,7 @@ A skill level replaces the "X" in 3C2X1. Skill levels should be viewed as one's 
 
 There is a lot involved in obtaining each skill level but essentially as a 1 and a 3 level you're in a constant state of training. This training could be technical school(s) (located at Keesler AFB, MS), On-the-Job Training (OJT), Computer Based Training (CBTs), and studying Career Development Courses (CDCs) all the while being certified on various tasks. When all objectives of training are complete and the right rank is held an Airman can be awarded the next skill level.
 
-{{< mc >}}
+
 
 ## airforce.com's take on a 3C2X1
 

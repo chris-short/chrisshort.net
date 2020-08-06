@@ -16,7 +16,7 @@ As part of a North Carolina State Archives initiative to obtain oral histories o
 
 The interview was well worth the time it took to coordinate and conduct it. I would encourage all North Carolina veterans to contact Matthew and provide their unique story for preservation.
 
-{{< mc >}}
+
 
 This picks up where my [NC State Archives Interview Part 1](https://cdn.chrisshort.net/nc-vets-oral-history-interview-1/) left off. I had just been cleared to return to Langley Air Force Base the days following 9/11 after one of my best friend's funeral.
 
