@@ -13,7 +13,7 @@ title = "Install VirtualBox Guest Additions via Command Line"
 
 I routinely spin up CentOS virtual machines in VirtualBox. Sometimes they are temporary and others might be around for months. These seemingly throw away VMs utilize the CentOS minimal install ISO for speed of setup (I really should just build a standard starting point VM and clone it as needed but I digress).
 
-{{< mc >}}
+
 
 I understand that installing the VirtualBox guest additions is a nicety for some so you probably rarely do it. But, when I do need to install them, I always seem to forget everything that is needed by the VirtualBox guest additions; I am documenting them here for everyone's benefit.
 

@@ -22,7 +22,7 @@ From the announcement:
 
 > After the rapid DNS update is implemented, the elapsed time from registrars' add or change operations to the visibility of those adds or changes in all 13 .com/.net authoritative name servers is expected to average less than five minutes.
 
-{{< mc >}}
+
 
 This is awesome because the number one complaint I get from folks is, "We just bought the domain name why can't I see the site?"
 

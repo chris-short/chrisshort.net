@@ -17,7 +17,7 @@ I was working on a new Ansible role last week and was having problems with [Test
 [WARNING]: - rsyslog was NOT installed successfully: - command git clone https://gitlab.logicnow.com/ansible-roles/rsyslog.git rsyslog failed in directory /tmp/tmpEaRVAA (rc=128)
 {{< / highlight >}}
 
-{{< mc >}}
+
 
 I realized that on our internal, private GitLab server a repo needed to be changed from Private to Public. I did not have rights on the repo so I pinged a co-worker who did. Once the repo was public, for some reason, Test Kitchen was still unable to pull in the role.
 

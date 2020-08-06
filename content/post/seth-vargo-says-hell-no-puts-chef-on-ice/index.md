@@ -19,7 +19,7 @@ Just when you thought a toxic, old, white guy with lousy hygiene was going to do
 
 Before we get into the reasoning, let's think about that for a second. A former employee (and current open source contributor) could bring an entire DevOps toolchain company to its knees. Sending it into a complete tailspin as it tried to restore production code it didn't have control over (or maybe even good backups for). Chef CEO, Barry Crist, [had to issue a statement](https://blog.chef.io/2019/09/19/chefs-position-on-customer-engagement-in-the-public-and-private-sectors/) damn near immediately.
 
-{{< mc >}}
+
 
 One person. One company. One policy. One decision. Global impact. If anyone wants to know why I care about technology's impact on humanity, and use [my newsletter](https://devopsish.com) as a platform for that position, this is it. As technologists, we have tremendous control over what we do. But, we have little to no control over how our outputs are used. If we are not incredibly thoughtful and deliberate with our decision making the impact could be globally catastrophic. In Seth's own words, "I'm not trying to make a political statement. As software engineers, we have to abide by some sort of moral compass. When I learned that my code was being used for purposes that I perceive as evil, I had to act."
 

@@ -13,7 +13,7 @@ title = "My Mac OS X Setup Guide"
 
 I happen to be someone that finds themselves setting up new systems for myself often. I have to remind myself there are tools that I need installed before the scenario in which I need to use them (on an airplane, during a crisis, etc.). I use a Mac so this list of software and setup is going to be very Mac OS X centric.
 
-{{< mc >}}
+
 
 **From the web:**
 

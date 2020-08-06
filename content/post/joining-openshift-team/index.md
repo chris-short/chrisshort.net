@@ -24,7 +24,7 @@ When I announced I was joining the Ansible team, I wrote, "[I'd like to work to 
 
 Last month, [I wrote about burnout in DevOps'ish](https://devopsish.com/137/), "Values mismatch is something I am struggling with right now in my own position. I highly value working in the Kubernetes community. One of my personal goals is to work full time on Kubernetes (or closer to the core of it). However, my job on the Ansible team doesn't directly benefit from this work. It does feel like I'm being stretched incredibly thin by the [#7 and #8 open source projects in the world](https://octoverse.github.com/projects.html). But, I also think that there are indirect benefits of this work. The problem is that it could lead to a perceived lack of fairness. I'm galavanting across the cloud native countryside some days while my co-workers are pushing the Ansible go to market strategy. Open source is weird."
 
-{{< mc >}}
+
 
 The past year on the Ansible team has been filled with ups and downs. Don't get me wrong, [the first few months working on the Ansible team were phenomenal](/the-importance-of-psychological-safety/). I won an award voted on by my peers and leadership, I was doing work, and getting great feedback. But, after [the IBM acquisition announcement](/one-fish-two-fish-blue-fish-sporting-new-red-hat/) and changes in my reporting chain, I wasn't getting what I needed anymore.
 

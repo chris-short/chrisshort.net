@@ -18,7 +18,7 @@ aliases = [
 
 I finally did it. I bought a laptop before I headed out to California. Not so much for the trip to California but for another PC in the house and some more horsepower (a lot more horsepower). I'm not a gamer but I can always use a powerful processor.
 
-{{< mc >}}
+
 
 I picked up the HP Pavilion zv5260us. Here are the specs of the system:
 

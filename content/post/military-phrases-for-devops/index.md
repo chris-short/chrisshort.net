@@ -20,7 +20,7 @@ The U.S. military is known for quite a few things, including its excessive and f
 
 > Definition: Military term; An evil mythical creature that whispers advice and ideas into the ears of military leadership, causing hundreds unnecessary changes and countless wasted man-hours every year. —[Urban Dictionary](https://www.urbandictionary.com/define.php?term=good%20idea%20fairy)
 
-{{< mc >}}
+
 
 I discussed the Good Idea Fairy in "[What the military taught me about DevOps](/what-the-military-taught-me-about-devops/)." The best example of the *Good Idea Fairy* in DevOps is when someone wants to use a new tool that offers no new functionality nor improvement. This happens more often than you realize. Sometimes new tools will result in new and improved functionality. But, if no one uses that functionality, what good is taking the time to implement it? DevOps is about getting the job done with the right tool now while being mindful of the future. If it's time to retool, do it. Otherwise, resist that "new DevOps tool" someone read about on [The Evil Orange Site](https://news.ycombinator.com/).
 

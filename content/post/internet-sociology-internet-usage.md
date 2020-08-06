@@ -12,7 +12,7 @@ title = "Internet Sociology and Internet Usage"
 
 For many years now I've had the belief that Internet sociology exists. The belief came to light during my tenure as the webmaster for SanTech Computer Services. Everyone has their own personality, patterns, tendencies and so forth, this also holds true for Internet usage. Everyone uses the Internet differently. For some, their Internet use revolves around their life. For others, their life revolves around their Internet use. Then for a very small percentage of Internet users, their life and their Internet use form a somewhat symbiotic relationship where the individual has actually gotten to the point of incorporating a lifestyle that includes Internet usage to improve upon that lifestyle. The Internet itself also has its own patterns. These patterns are more noticeable on a local level but global patterns can be identified as well.
 
-{{< mc >}}
+
 
 The majority of people that use the Internet are the ones where Internet usage is dictated by everything else they're doing. They are the ones that check their e-mail, get stock quotes, do research, etc. when time allots for it. They're the ones who have Internet accounts that rarely get used and seldom spend more than an hour online at any given time. These individuals make up the majority of Internet users and probably have the lowest amount of Internet usage of the three "classes" mentioned earlier. This class represents a rather necessary aspect of the Internet in the sense that the majority of the content on World Wide Web sites is driven towards them. Most successful web sites are designed to keep people on them as long as possible. These individuals do contribute some content to the Internet however and that makes them even more vital.
 
