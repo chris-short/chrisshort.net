@@ -20,7 +20,7 @@ paginate = 8
 [Params]
   homeTitle = "Chris Short" # Set a different text for the header on the home page
   mainSections = ["post","posts"]
-  subtitle = "Kubernetes at Red Hat — Voice of Hybrid Cloud at openshift.tv — CNCF Ambassador and KubeWeekly contributor — Disabled Veteran — He/Him/His — Views are solely mine"
+  subtitle = "Kubernetes at Red Hat | Voice of Hybrid Cloud openshift.tv | CNCF Ambassador + @KubeWeekly | devopsish.com | Disabled Veteran | He/Him/His | Views solely mine"
   logo = "img/chrisshort.net.png" # Expecting square 1:1 dimensions
   favicon = "favicons/favicon.ico"
   dateFormat = "2006-01-02"
@@ -129,7 +129,13 @@ paginate = 8
     parent = "menu"
     name = "Kubernetes News"
     url = "https://kubeweekly.io/"
-    weight = 11
+    weight = 12
+
+[[menu.main]]
+    parent = "menu"
+    name = "openshift.tv"
+    url = "https://openshift.tv/"
+    weight = 14
 
 [[menu.main]]
     parent = "menu"
