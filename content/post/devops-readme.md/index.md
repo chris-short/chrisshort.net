@@ -18,7 +18,7 @@ Slides used at the genesis of this list are [available here](https://cdn.chrissh
 
 *Note: chrisshort.net may earn compensation for sales from links on this post through [affiliate programs](/terms/).*
 
-
+This is available as a standalone website at <devopsreadme.xyz>
 
 ## DevOps README.md
 
