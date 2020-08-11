@@ -13,6 +13,8 @@ aliases = [
 
 {{< speaker >}}
 
+{{< sib >}}
+
 ## Red Hat® Summit Virtual Experience: Open House - Building Kubernetes Operators with Ansible
 
 Date: 2020-07-15  

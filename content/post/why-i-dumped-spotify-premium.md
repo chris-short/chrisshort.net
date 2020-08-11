@@ -13,7 +13,7 @@ title = "Why I Dumped Spotify Premium"
 
 Yesterday I was reading an article by [Steve Kovach](https://plus.google.com/102737788855280055354/) about [Spotify and its six month free (ad supported) listening period coming to an end](http://www.businessinsider.com/spotify-unlimited-streaming-ends-for-some-free-users-2012-1). There seemed to be quite a bit of buzz about this ploy to lure US users in my Flipboard too. I have to admit, I was a huge proponent of [Spotify](http://www.spotify.com/us/) but more importantly I was a huge supporter of streaming music.
 
-
+{{< sib >}}
 
 Pandora was great until it became ad laden and required me to manage a series of playlists/channels just so I could get the perfect experience for whatever it was I was doing. Grooveshark was fantastic but the licensing issues and potential legal battles they could face at any moment warded me off. Spotify seemed to be that shining beacon of streaming music services that I wanted. I went all in on Spotify and signed up for a Spotify Premium account.
 

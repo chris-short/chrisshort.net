@@ -14,7 +14,7 @@ imagecap = ""
 
 I was helping to staff the [Cloud Native Computing Foundation](https://cncf.io) booth at [ChefConf 2018](/tags/chefconf/) when the topic of encouraging folks to write articles about what they're doing with [Kubernetes](/tags/kubernetes/) came up. One common problem often encountered is convincing folks that what they're doing is interesting work. The next problem is convincing folks that writing is not too difficult.
 
-
+{{< sib >}}
 
 Breaking down the task of writing into three steps is helpful:
 
@@ -62,5 +62,3 @@ The last (and sometimes most important) thing to consider when writing a technic
 Both of these sites have a trending section that allows you to find some high-quality images to use quickly. The formatting, style guide, and metadata are important and often simple things to include in an article. Don't stress too much about it but, make sure to consider it when writing.
 
 In conclusion, the guidance can be boiled down to this: Think of three points to make in an article; add an introduction and conclusion to those three points. These five points become an outline. The three main points should have a few subpoints plugged in to help stay on topic. Once the outline is built, plug in the missing grammatically bits. Once you have that done align everything to whatever style guide may exist. Tack on the additional metadata and maybe an image then boom! You have a nice, well written technical article.
-
-

@@ -36,7 +36,7 @@ Automation Analytics gathers execution stats (pass/fail), module usage, and othe
 
 The capability to get metrics out of an organization's Ansible usage could be beneficial. At a high level, I can use the module usage stats to figure out what is automated in my organization. I can take that data and compare it to an outside inventory of equipment and software. This could allow an organization to see where success with automation is occurring and where more help might be needed.
 
-
+{{< sib >}}
 
 The overall reception was VERY positive. Immediately after the opening session, the Ansible booth was swamped. I spent Wednesday morning in the Ansible booth, answering questions from features to pricing to architecture to the roadmap. It was awesome to talk to so many people at different stages of their DevOps journey during AnsibleFest.
 
@@ -57,5 +57,3 @@ The reception to the workshop and its content was very positive. The team did a 
 {{< twitter 1177316355953102848 >}}
 
 All the artifacts from the Building Kubernetes Operators with Ansible Hands-on Workshop can be found at [http://workshop.coreostrain.me/](http://workshop.coreostrain.me/)
-
-

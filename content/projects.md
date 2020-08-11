@@ -18,6 +18,8 @@ DevOps, Cloud Native, Open Source, and the ‘ish in between. A weekly newslette
 
 I strive, every week, to put together the best newsletter covering DevOps, Cloud Native, and Open Source Software. The three main sections of the newsletter are People, Process, and Tools. They are in that order for a reason: People implement Processes using Tools. These three components should be cared for in that order too.
 
+{{< sib >}}
+
 Newsletter: [DevOps'ish](https://devopsish.com)  
 Source: <https://github.com/chris-short/devopsish.com>  
 Analytics: <https://app.usefathom.com/share/acmuyzfw/devopsish.com>
@@ -40,11 +42,12 @@ Source: [ssl-tester](https://github.com/chris-short/ssl-tester)
 
 ## DevOps README.md
 
-What to read to learn more about DevOps.
+[DevOps README.md](https://devopsreadme.xyz/): What to read to learn more about DevOps.
 
 {{< youtube Ibnj-YZTypU >}}
 
 Source: [DevOps-README.md](https://github.com/chris-short/DevOps-README.md)
+Analytics: <https://app.usefathom.com/share/ilzvzsfr/devopsreadme.xyz>
 
 ## DevOps Newsletters
 

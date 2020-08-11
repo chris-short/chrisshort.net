@@ -13,6 +13,8 @@ imagealt = "Three images that represent who Chris Short is"
 
 In November, I went down to Raleigh to meet my team for planning meetings and team building. For a few of my teammates, this is our first face to face interaction with each other ever. My boss wisely gave us a relatively simple assignment. Create a slide sharing what we've done this year and want to do next year (which I'll share to an extent in a later post). Create another slide listing three things that make us who we are (born in a unique place, grew up on a farm, etc.) and three things we're professionally known for. The assignment seemed simple enough, but it turned out to be way better than I thought it would be. It fostered a shared knowledge amongst the group about each other that I think others could benefit from using potentially.
 
+{{< carbon >}}
+
 First, the two slide limit felt constraining. I wanted to use a standard template because I legit loathe thinking about layouts, presentation, etc. I used that as an excuse to build two slides to describe who I was and what I was known for. Second, choosing three things that make me who I am was a lot harder than I thought it would be. Narrow what makes you uniquely you down to three things. Also, I implied the context that it would need to help coworkers understand who you were better.
 
 ![Three images that represent who Chris Short is](/a-getting-to-know-you-exercise/three-things-that-make-me-who-i-am.png)
@@ -66,4 +68,4 @@ The second slide contained three logos that I think a lot of folks reading this 
 
 Hopefully, this is useful for folks to use during their face to face or team meetings in the future. I got a lot out of creating my portion and way more out of listening to my coworkers.
 
-
+{{< sib >}}

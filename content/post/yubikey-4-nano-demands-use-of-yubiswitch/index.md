@@ -13,7 +13,7 @@ title = "Yubikey 4 Nano Demands Use of yubiswitch"
 
 As more and more security policies demand the use of multi-factor authentication the number of times a day you use a multi-factor token will increase. Hopefully that number will not increase to a level that throws the balance of security and convenience towards the annoyingly secure side of the scale. But, if that ever does happen hopefully you can use an [Yubikey](https://www.yubico.com/) as your token.
 
-
+{{< sib >}}
 
 There are various sizes and styles of Yubikey to suit your need but the Yubikey of choice with myself and my co-workers seems to be the FIDO U2F ready [Yubikey Nano 4](https://www.yubico.com/products/yubikey-hardware/yubikey4/).
 
@@ -40,4 +40,3 @@ The output will look something like this:
 {{< / highlight >}}
 
 Plug the value from `idProduct` into the YubiKey ProductID field in the yubiswitch preferences pane, click OK, and yubiswitch should be working. You should now be able to enable and disable the Yubikey with a shortcut key combo or mouse click so you don't get random Yubikey codes dumped into whatever you're working on.
-

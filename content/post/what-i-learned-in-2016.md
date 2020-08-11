@@ -12,7 +12,7 @@ title = "What I Learned in 2016"
 
 A former co-worker and now friend used to have a tagline, "Everyday is a school day." I remind myself of this fact nearly every time I learn something new. 2016 brought a lot of new knowledge and skill sets into my ever-expanding arsenal of tools.
 
-
+{{< sib >}}
 
 Surprisingly, 2016 brought a mix of both soft skills and technical skills. Let's review some of the things I picked up during this journey around the sun:
 

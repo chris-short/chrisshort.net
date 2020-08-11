@@ -9,6 +9,8 @@ title = "Webinars"
 
 {{< speaker >}}
 
+{{< sib >}}
+
 # The top 7 most useful Kubernetes APIs for comprehensive cloud native observability
 
 Date: 2020-07-09  

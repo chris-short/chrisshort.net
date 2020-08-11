@@ -35,7 +35,7 @@ A co-worker and I needed to remove all instances of a binary blob from one of ou
 
 Replace the centralized repo (aka REPO LOCATION) and any copies others might be using. Everyone should re-clone the newly replaced repo.
 
-
+{{< sib >}}
 
 ### Sources
 
