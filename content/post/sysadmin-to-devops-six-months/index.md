@@ -14,7 +14,7 @@ aliases = ["sysadmin-to-devops-six-months"]
 
 The other day my Vice President asked me a question, "What would it take to turn a good SysAdmin into a [DevOps](https://devopsish.com/) engineer?" He followed it up with, "Don't spend more than ten minutes thinking about it." He was not disappointed when I told him the next day I am spending way more than ten minutes on answering the question. This is a hard question for me to answer. This is a question that you won't know if your answer is right for at least six months.
 
-
+{{< sib >}}
 
 I had more than ten minutes worth of thoughts pop into my head within seconds of the question. A deluge of DevOps lessons learned washed over me. I realized that I needed to build a framework to help others embrace DevOps culture and thinking. It's not feasible to have a framework that does not define what you are trying to build.
 

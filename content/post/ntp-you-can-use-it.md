@@ -12,6 +12,8 @@ title = "NTP: You Can Use It"
 
 Network Time Protocol (NTP) is a very nice feature for networks that utilize multiple devices that have administrators who view logs on a regular basis, web sites that make financial transactions, and employee time clock management systems (these are just a few examples). NTP is designed to keep accurate local time keeping. Having four different times from four different devices for one event that happened once isn't a good thing. Having every device in your network set to the same time is highly recommended. Computers and routers by themselves use archaic methods for keeping time. NTP ensures the accuracy of time on all devices that use it. For example, the firewall I use at home will automatically e-mail me an alert when there has been an attempted attack or port scan. My home firewall uses NTP to synchronize its time. Therefore, I can then forward that alert to my ISP and the originating ISP. Upon reviewing the alert they can accurately tell by the time the attack/port scan took place and IP address used which one of their users was the perpetrator.
 
+{{< sib >}}
+
 NTP is defined in several RFCs. RFCs can be quite dry and boring to read but are a wealth of technical knowledge and are highly recommended reading. Links to two current, in use RFCs discussing NTP can be found at the bottom of this page. NTP is basically designed to decrease inaccuracies of previous timing standards and to ensure a time difference of a matter of milliseconds from the Network Time Protocol (NTP) server to the host. The amount of time difference from the NTP server to the device polling that server is dependent on a few factors.  Distance from the actual device is one thing. People in Maine should not use an NTP server in California to synchronize time; there is simply too much Internet to traverse. Another reason could be slow/bogged down Internet connectivity at either the NTP server or the device polling it. It all depends on the environment of the networks used to get from your network to the NTP server's network. A good rule of thumb is to use NTP servers in your time zone (or geographic region).  However, it's some times good to use a server not in your time zone as a third or fourth selection. This way if a major part of the Internet backbone in your time zone goes down and bandwidth between you and your typical NTP servers is limited your polls can head a different way to avoid the congestion and still get a reliable timing source. Keep in mind your clocks might be somewhat off when you go back to polling your primary servers (we're talking about a matter of seconds, but seconds are important to some people).
 
 {{< carbon >}}
@@ -31,5 +33,3 @@ Network Time Protocol related RFCs:
 * RFC 1305 - Network Time Protocol (Version 3)
 
 [NTP.org](http://ntp.org/) - The official Network Time Protocol (NTP) site
-
-

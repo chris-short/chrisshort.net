@@ -46,3 +46,5 @@ Chris is now working in the [open source](/tags/open-source/), [Linux](/tags/lin
 
 BFD23BF8 (expired)  
 Please [Signal](https://support.signal.org/hc/en-us/articles/360007060592-Invite-friends-to-join-Signal) or [Telegram](https://telegram.me/ChrisShort)
+
+{{< sib >}}

@@ -14,8 +14,6 @@ aliases = ["whats-wrong-with-microsoft-windows-10-marketing"]
 
 I was reading through Wired magazine and saw a Windows 10 ad. If you've turned on a TV the past month you've seen the ad I'm referring to, this is just the print edition of the TV ad.
 
-
-
 >She won't have to remember passwords.
 >
 > Or obsess about security.
@@ -34,3 +32,4 @@ I'm all for open hardware and being able to install whatever operating system yo
 
 I wish Microsoft at least thought about their advertising for those of us that are the IT departments for some of the most trying customers, ever... Our families.
 
+{{< sib >}}

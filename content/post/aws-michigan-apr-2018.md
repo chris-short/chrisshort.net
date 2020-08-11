@@ -17,7 +17,7 @@ I recently spoke at [AWS Michigan](https://www.meetup.com/AWS-Michigan/events/24
 
 I love doing local events. It allows me to form connections with folks that are nearby. Building those relationships are awesome both personally and professionally. There's also the bonus of sleeping in my own bed afterwards too. If you're in the Ann Arbor area and there is an [AWS Michigan](https://www.meetup.com/AWS-Michigan/) Meetup on the books, you should definitely go check it out!
 
-
+{{< sib >}}
 
 ## Slides
 

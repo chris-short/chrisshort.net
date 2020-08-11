@@ -46,6 +46,8 @@ What's diverged?
 
 How do we get things back to normal?
 
+{{< sib >}}
+
 I login to the AWS console, hoping I got some output that was uniquely off this month. Weirder stuff has happened (like [S3 going down](https://aws.amazon.com/message/41926/)). This bill couldn't be more out of the norm than ever. This AWS bill is several hundred dollars more than our mortgage! I hit the AWS Billing page and am deeply saddened by what I see:
 
 ![AWS Billing landing page showing a $2,657.68 balance](/the-aws-bill-heard-around-the-world/aws-bill-landing-page.png)
