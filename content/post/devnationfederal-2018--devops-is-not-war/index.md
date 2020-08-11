@@ -14,7 +14,7 @@ imagecap = "Photos Courtesy of [Derek Weeks](https://twitter.com/weekstweets)"
 
 Red Hat invited me to speak at [DevNationFederal](https://devnationfederal.org/). The organizers requested I present my DevOps is Not War talk to technologists in the Washington DC area. This crowd is a group of folks that are at varying points in their DevOps journeys. Many folks from government agencies and systems integrators were present.
 
-
+{{< sib >}}
 
 I was able to sync up with one of my Airmen from my time at Pope Air Force Base. He was fascinated by Ansible, Kubernetes, and showed particular interest in the concepts of [DevOps](https://devopsish.com). He works for a siloed systems integrator and was curious how he could help influence change from within. I gave him a ton of advice and offered to help him implement Ansible playbooks and roles in his workcenter. It was pretty damn cool.
 
@@ -29,5 +29,3 @@ I was able to sync up with one of my Airmen from my time at Pope Air Force Base.
 ## Video
 
 {{< youtube bnyDETdyNfw >}}
-
-

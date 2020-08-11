@@ -23,7 +23,7 @@ title = "Chris Short's Sausage Potato Soup"
 2-3 cups of Milk (depending on how much soup you want)
 Cheddar Cheese (for garnish)
 
-
+{{< sib >}}
 
 ## Directions
 

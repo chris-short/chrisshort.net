@@ -20,7 +20,7 @@ The U.S. military is known for quite a few things, including its excessive and f
 
 > Definition: Military term; An evil mythical creature that whispers advice and ideas into the ears of military leadership, causing hundreds unnecessary changes and countless wasted man-hours every year. —[Urban Dictionary](https://www.urbandictionary.com/define.php?term=good%20idea%20fairy)
 
-
+{{< sib >}}
 
 I discussed the Good Idea Fairy in "[What the military taught me about DevOps](/what-the-military-taught-me-about-devops/)." The best example of the *Good Idea Fairy* in DevOps is when someone wants to use a new tool that offers no new functionality nor improvement. This happens more often than you realize. Sometimes new tools will result in new and improved functionality. But, if no one uses that functionality, what good is taking the time to implement it? DevOps is about getting the job done with the right tool now while being mindful of the future. If it's time to retool, do it. Otherwise, resist that "new DevOps tool" someone read about on [The Evil Orange Site](https://news.ycombinator.com/).
 
@@ -56,5 +56,3 @@ Be mindful of how your quick hack has to be fed and cared for before rolling it 
 
 "The standard you walk past is the standard you accept."
 [David Morrison](https://en.wikiquote.org/wiki/David_Morrison), a former chief of the Australia Army, made a prolific statement when addressing unacceptable behavior: "The standard you walk past is the standard you accept." This holds true in life and in DevOps. If your coding practices or culture do not live up to the standards your organization has set for itself, correct it on the spot. Think of the concept of [Toyota's Andon Cord](https://itrevolution.com/kata/). It signals an issue and calls for swarming so quality issues can be corrected before being rolled out into a finished vehicle. The same should hold true for the tooling and people in an organization. Do not allow the bar to be lowered. Keep the standards high.
-
-

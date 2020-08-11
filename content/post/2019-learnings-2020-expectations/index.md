@@ -19,7 +19,7 @@ A former co-worker and now friend has a tagline, â€œEvery day is a school day.â€
 
 This will allow for the Kubernetes project, much like Linux to an extent, to fade into the background. It's no longer a matter of is an org or isn't an org using Linux. It's `yum`/`dnf` versus `apt`/`apt-get` or, "What package manager am I using here?" Much like how I stopped caring about which distro I'm using, Kubernetes is starting to get the tooling around it to allow folks using it to focus on what matters, business logic.
 
-
+{{< sib >}}
 
 ## DevOps
 

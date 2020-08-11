@@ -22,7 +22,7 @@ One thing that I don't recall being a thing until recently is veterans in civili
 
 Why render a salute as opposed to putting your hand over your heart? What's *your* reason for doing that? To self-identify as a veteran? Are you seeking recognition or special treatment? I didn't serve to be recognized for it. I joined because of the dot-com bubble burst. I continued serving because I wanted to make sure the perpetrators, planners, and networks behind the 9/11 attacks were brought to justice. If you feel like you deserve recognition or special treatment because you served it's quite possible you served for the wrong reasons.
 
-
+{{< sib >}}
 
 Another thing that irked me, I haven't quite been able to put my finger on why either, was at Aubree's graduation, all veterans were asked to stand up and be recognized. While I appreciated the thought, I did not stand up. That was neither the time nor the place to be recognized. It was a time to honor my daughter's tremendous accomplishments, not my own.
 
@@ -43,5 +43,3 @@ Have a meaningful moment with the veterans you encounter; not just a platitude. 
 Whatever you do, don't shout it out during a damn talk! You're taking the spotlight off a speaker that was invited to present based on their experiences and knowledge. The speaker is someone people are willing to listen to. By shouting out, "Thank you for your service," during a talk you're focusing attention on yourself. For what? So you can say words that everyone else in the room is probably already thinking? Want to thank me? Write a letter to Congress demanding a better VA.
 
 We're veterans, not pawns. We're humans, not robots. We're people, please treat us like people. Engage with veterans how you would engage with everyone else. The fact we're veterans should be the start of a conversation not the end of one. We might have issues, we might need extra help with things, but what we don't need is to be made anonymous through those five words.
-
-

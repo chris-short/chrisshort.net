@@ -12,7 +12,7 @@ title = "Ansible Role for Papertrail"
 
 I have written my first publicly reusable Ansible role. It is freely available for use via Ansible Galaxy at [**chris-short.ansible-role-papertrail**](https://galaxy.ansible.com/chris-short/ansible-role-papertrail/) and helps you get Papertrail up and running.
 
-
+{{< sib >}}
 
 What is [Papertrail](https://papertrailapp.com/)? A hosted log management tool that, in my opinion, can bridge the gap between your terminal and a full blown ELK stack. It is no frills streaming log aggregation and search.
 

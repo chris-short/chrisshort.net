@@ -16,7 +16,7 @@ I've been messing around with [Tiny Tiny RSS](http://tt-rss.org/) today. Upon di
 
 I opted, at the advice of those in the community, to setup Tiny Tiny RSS on RedHat's [OpenShift](https://www.openshift.com/) and was pleasantly surprised by how the product RedHat created. I even [tweeted to the OpenShift Architect](https://twitter.com/Michael_McGrath/status/340987380628586497) about it. All around a nice experience with RedHat's OpenShift. Optimally, if I could get Tiny Tiny RSS to place nice on OpenShift I'd probably bring more hardware into the house for the sole purpose of running it on dedicated, non-AWS hardware.
 
-
+{{< sib >}}
 
 I had some issues getting Tiny Tiny RSS installed on OpenShift but eventually got it up and running. I went to enable some plugins and noticed the updater was behaving oddly. I went over to their forums to see if there were any posts that might be helpful and was just blown away by one of the devs and some of his responses to questions and suggestions.
 
