@@ -42,11 +42,11 @@ Source: [ssl-tester](https://github.com/chris-short/ssl-tester)
 
 ## DevOps README.md
 
-[DevOps README.md](https://devopsreadme.xyz/): What to read to learn more about DevOps.
+[DevOps README.md](https://devopsreadme.xyz/): What books 📚 to read to learn more about DevOps.
 
 {{< youtube Ibnj-YZTypU >}}
 
-Source: [DevOps-README.md](https://github.com/chris-short/DevOps-README.md)
+Source: [DevOps-README.md](https://github.com/chris-short/devopsreadme.xyz)
 Analytics: <https://app.usefathom.com/share/ilzvzsfr/devopsreadme.xyz>
 
 ## DevOps Newsletters
