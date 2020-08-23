@@ -66,10 +66,10 @@ Analytics: <https://app.usefathom.com/share/feqaqjah/devopsnewsletters.com>
 
 ## Kubernetes News
 
-Inspired by [DevOps Newsletters](https://devopsnewsletters.com/) and Peter Benjamin's [How do you keep up with Kubernetes?](https://dev.to/petermbenjamin/how-do-you-keep-up-with-kubernetes-2209), [Kubernetes News](https://kubenews.io/) intends to be a resource to help keep up with the wide ranging and rapidly evolving world of Kubernetes.
+Inspired by [DevOps Newsletters](https://devopsnewsletters.com/) and Peter Benjamin's [How do you keep up with Kubernetes?](https://dev.to/petermbenjamin/how-do-you-keep-up-with-kubernetes-2209), [**Kubernetes News**](https://kubenews.net/) intends to be a resource to help keep up with the wide ranging and rapidly evolving world of Kubernetes.
 
-Source: <https://github.com/chris-short/kubenews.io>  
-Analytics: <https://app.usefathom.com/share/nqaekcov/kubenews.io>
+Source: <https://github.com/chris-short/kubenews.net>  
+Analytics: <https://app.usefathom.com/share/bjbntbho/kubenews.net>
 
 ## No Medium
 
