@@ -9,12 +9,26 @@ title = "Interviews"
 
 {{< speaker >}}
 
+## Security, Open Links and BIG AW$ Bills [Chris Short, Aug 11]
+
+Date: 2020-08-11  
+Source: [Security, Open Links and BIG AW$ Bills [Chris Short, Aug 11]](https://youtu.be/asTE7JbNRXw)  
+Download: [MP4](https://cdn.chrisshort.net/Security-Open-Links-and-BIG-AWS-Bills-Chris-Short-20200811.mp4)
+
+> Discussion about how a series of issues including leaving large files publicly accessible lead to over $2500 in AWS charges in 24 hours!  We discuss how it happened and what you can do to prevent it.
+
+{{< youtube asTE7JbNRXw >}}
+
 ## The 20 Best Podcasts About All Things Tech
+
+"As mentioned in Popular Mechanics"
 
 Date: 2020-06-06  
 Source: [Popular Mechanics: The 20 Best Podcasts About All Things Tech](https://www.popularmechanics.com/technology/audio/g32699739/best-technology-podcasts/?slide=14)
 
-> The August 20, 2019 episode, "[The Infrastructure Effect: COBOL and GO](https://www.redhat.com/en/command-line-heroes/season-3/the-infrastructure-effect)" is not only fascinating, but it's relevant today. COBOL has been used for at least 60 years to support industries, and amid the COVID-19 pandemic, it became clear that hasn't changed. Chris Short describes how learning COBOL was seen as a safe long-term bet.
+> The August 20, 2019 episode, "[The Infrastructure Effect: COBOL and GO](https://www.redhat.com/en/command-line-heroes/season-3/the-infrastructure-effect)" is not only fascinating, but it's relevant today. COBOL has been used for at least 60 years to support industries, and amid the COVID-19 pandemic, it became clear that hasn't changed. **Chris Short** describes how learning COBOL was seen as a safe long-term bet.
+
+*NOTE: Emphasis mine*
 
 ## Carving out a Cloud Native Culture in Established Organizations
 

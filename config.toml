@@ -66,7 +66,7 @@ paginate = 5
 
 [[menu.main]]
     identifier = "menu"
-    name = "Menu"
+    name = "Main Menu"
     weight = 999
 
 [[menu.main]]

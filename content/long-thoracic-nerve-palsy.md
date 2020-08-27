@@ -7,7 +7,12 @@ draft = false
 slug = "long-thoracic-nerve-palsy"
 tags = ["long thoracic nerve", "long thoracic nerve palsy", "winged scapula", "nerve damage"]
 title = "Long Thoracic Nerve Palsy"
-aliases = ["long-thoracic-nerve-palsy-winging-scapula"]
+aliases = [
+    "long-thoracic-nerve-palsy-winging-scapula",
+    "ltn",
+    "disability",
+    "disabled-veteran"
+]
 
 +++
 
