@@ -34,12 +34,6 @@ Also, it's cheaper than a year of GKE. Plus, why not run Kubernetes in your home
 
 Source: [rak8s](https://github.com/rak8s/)
 
-## ssl-tester
-
-A small Go app designed specifically to help troubleshoot certificate chains. A detailed use case that prompted the creation of this code was [featured on opensource.com](https://opensource.com/article/17/4/testing-certificate-chains-34-line-go-program). I highly recommend reading it.
-
-Source: [ssl-tester](https://github.com/chris-short/ssl-tester)
-
 ## DevOps README.md
 
 [DevOps README.md](https://devopsreadme.xyz/): What books 📚 to read to learn more about DevOps.
@@ -94,3 +88,9 @@ Analytics: <https://app.usefathom.com/share/acmuyzfw/devopsish.com>
 
 Source: <https://github.com/chris-short/padbury.app>  
 Analytics: <https://app.usefathom.com/share/pvppbtem/padbury.app>
+
+## ssl-tester
+
+A small Go app designed specifically to help troubleshoot certificate chains. A detailed use case that prompted the creation of this code was [featured on opensource.com](https://opensource.com/article/17/4/testing-certificate-chains-34-line-go-program). I highly recommend reading it.
+
+Source: [ssl-tester](https://github.com/chris-short/ssl-tester)
