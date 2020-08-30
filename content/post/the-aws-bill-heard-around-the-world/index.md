@@ -5,11 +5,20 @@ date = 2020-07-26T03:00:00Z
 description = "The tale of the July 4th surprise $2700 AWS bill. It is more nuanced than you think and might have exposed a bug."
 draft = false
 slug = "the-aws-bill-heard-around-the-world"
-tags = ["AWS", "AWS bill", "Cloudflare", "S3 bucket", "Corey Quinn", "CDN", "traffic", "file", "panic", "cloud", "GCP", "Twitter", "cache", "attack", "surprise"]
+tags = ["Amazon Web Services", "AWS", "AWS bill", "Cloudflare", "S3 bucket", "Corey Quinn", "CDN", "traffic", "file", "panic", "cloud", "GCP", "Twitter", "cache", "attack", "surprise"]
 title = "The AWS bill heard around the world"
 image = "/the-aws-bill-heard-around-the-world/june-2020-aws-bill-header.png"
+aliases = [
+    "aws-bill"
+]
 
 +++
+
+## Update
+
+I joined Rob Hirschfeld on the [The 2030 Cloud](https://at.the2030.cloud) where we discussed some additional behind the scenes investigatory work that went on by a nameless Amazon Web Services (AWS) employee.
+
+{{< youtube asTE7JbNRXw >}}
 
 ## Scene
 
