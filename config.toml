@@ -121,6 +121,12 @@ paginate = 5
 
 [[menu.main]]
     parent = "menu"
+    name = "Advised by Short"
+    url = "https://advisedbyshort.com/"
+    weight = 5
+
+[[menu.main]]
+    parent = "menu"
     name = "DevOps News"
     url = "https://devopsish.com/"
     weight = 11
