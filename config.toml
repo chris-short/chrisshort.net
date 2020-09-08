@@ -61,7 +61,7 @@ paginate = 5
 #  vk = "username"
 #  paypal = "username"
   telegram = "ChrisShort"
-  keybase = "chrisshort"
+#  keybase = "chrisshort"
   twitch = "redhatopenshift"
 
 [[menu.main]]
