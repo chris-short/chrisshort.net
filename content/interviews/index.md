@@ -9,6 +9,12 @@ title = "Interviews"
 
 {{< speaker >}}
 
+## Chris Short: K8s Release Team - Cloud Native Computing Foundation - NVIDIA to buy Arm for $40B - Oracle and TikTok - OpenShift TV - Walmart Brings Back Gateway Computers
+
+Date: 2020-09-14  
+Source: [Tech Breakfast Podcast - Chris Short](https://anchor.fm/techbreakfast/episodes/Chris-Short-K8s-Release-Team---Cloud-Native-Computing-Foundation---NVIDIA-to-buy-Arm-for-40B---Oracle-and-TikTok---OpenShift-TV---Walmart-Brings-Back-Gateway-Computers-ejk8n1)  
+Download: [MP4](https://cdn.chrisshort.net/Tech-Breakfast-Podcast_Chris-Short_20200914.mp4)
+
 ## Security, Open Links and BIG AW$ Bills [Chris Short, Aug 11]
 
 Date: 2020-08-11  
