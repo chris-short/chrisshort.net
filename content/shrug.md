@@ -10,15 +10,15 @@ title = "Shrug"
 
 +++
 
-## Normal Shrug
+## Normal Shrug (sup son)
 
 ¯\\\_(ツ)\_/¯
 
-## Markdown Shrug
+## Markdown Shrug (sup son)
 
 `¯\\\_(ツ)\_/¯`
 
-## Emoji Shrug
+## Emoji Shrug (sup son)
 
 # 🤷‍♀️ 🤷‍♂️
 
