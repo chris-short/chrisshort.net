@@ -139,6 +139,12 @@ paginate = 5
 
 [[menu.main]]
     parent = "menu"
+    name = "DevOps README"
+    url = "https://devopsreadme.xyz/"
+    weight = 13
+
+[[menu.main]]
+    parent = "menu"
     name = "openshift.tv"
     url = "https://openshift.tv/"
     weight = 14
