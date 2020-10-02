@@ -20,7 +20,7 @@ paginate = 5
 [Params]
   homeTitle = "Chris Short" # Set a different text for the header on the home page
   mainSections = ["post","posts"]
-  subtitle = "Kubernetes at Red Hat | Voice of Hybrid Cloud openshift.tv | CNCF Ambassador + @KubeWeekly | devopsish.com | Disabled Veteran | He/Him/His | Views solely mine"
+  subtitle = "Kubernetes | Voice of Hybrid Cloud on openshift.tv, Red Hat | CNCF Ambassador + @KubeWeekly | devopsish.com | Disabled Veteran | He/Him/His | Views solely mine"
   logo = "img/chrisshort.net.png" # Expecting square 1:1 dimensions
   favicon = "favicons/favicon.ico"
   dateFormat = "2006-01-02"
