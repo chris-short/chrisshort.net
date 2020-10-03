@@ -15,11 +15,21 @@ Date: 2020-09-30
 Source: [Learning Streaming from the Experts](https://www.thecloudcast.net/2020/09/learning-streaming-from-experts.html)  
 Download: [MP3](https://cache.chrisshort.net/file/cache-chrisshort-net/learn-streaming-from-the-experts.mp3)
 
+<audio controls>
+  <source src="https://cache.chrisshort.net/file/cache-chrisshort-net/learn-streaming-from-the-experts.mp3" type="audio/mpeg">
+Your browser does not support the audio element but you can download it as an MP3 (right-click, save as...).
+</audio>
+
 ## Devchat.tv DevOps 049: DevOps, Open Source, and OpenShift with Chris Short
 
 Date: 2020-09-25  
 Source: [DevOps 049: DevOps, Open Source, and OpenShift with Chris Short](https://devchat.tv/adventures-in-devops/devops-049-devops-open-source-and-openshift-with-chris-short/)  
 Download: [MP3](https://cache.chrisshort.net/file/cache-chrisshort-net/ADO_049_DevOps_Open_Source_OpenShift_and_OpenShift_tv_with_Chris_Short.mp3)
+
+<audio controls>
+  <source src="https://cache.chrisshort.net/file/cache-chrisshort-net/ADO_049_DevOps_Open_Source_OpenShift_and_OpenShift_tv_with_Chris_Short.mp3" type="audio/mpeg">
+Your browser does not support the audio element but you can download it as an MP3 (right-click, save as...).
+</audio>
 
 ## Chris Short: K8s Release Team - Cloud Native Computing Foundation - NVIDIA to buy Arm for $40B - Oracle and TikTok - OpenShift TV - Walmart Brings Back Gateway Computers
 
