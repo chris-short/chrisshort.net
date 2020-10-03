@@ -75,3 +75,7 @@ As of late, I've been dealing with more nerve pain than muscular. After trials o
 For whatever reason, Lyrica puts me excessively on edge and makes me very irritable. This has been consistent over two stints with the medication.
 
 As a result of all this, we've flipped to superscapular nerve blocks. This is an injection of lidocaine and a steroid that floods the area in the superscapular region where the long thoracic nerve ventures further down into the body. I can get them as frequently as once a quarter, but they should last longer than that in theory.
+
+{{< sib >}}
+
+{{< amazon >}}

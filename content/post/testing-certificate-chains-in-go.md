@@ -13,6 +13,7 @@ title = "Testing Certificate Chains in Go"
 This talk was derived from an opensource.com article I wrote in April 2017, [Golang to the rescue: Saving DevOps from TLS turmoil](https://opensource.com/article/17/4/testing-certificate-chains-34-line-go-program). Presented at [GopherCon 2017](https://gophercon.com/) as a Lightning Talk. Source for the talk is available on [GitHub](https://github.com/chris-short/testing-certificate-chains-in-go).
 
 ### **Introduction**
+
 Chris Short
 
 * Manager of DevOps at [Bankrate](http://www.bankrate.com/)
@@ -32,13 +33,17 @@ Notes:
 * I run a DevOps Newsletter called DevOps'ish if you're into those please check it out
 * This talk was derived from an opensource.com article I wrote in April 2017
 
+{{< carbon >}}
+
 ### **But Most Importantly**
+
 ![Chris Short in Gopher Form](https://cache.chrisshort.net/file/cache-chrisshort-net/testing-certificate-chains-in-go/gopherize-me-chris-short.png)
 
 I'm many things
 But Most Importantly, I'm a **Gopher**
 
 ### **Not Too Long Ago in a Place of Work Far, Far Away...**
+
 ![Star Wars Scroll Y'all](https://cache.chrisshort.net/file/cache-chrisshort-net/testing-certificate-chains-in-go/backstory.png)
 
 * My team of merry DevOps'ers inherited an application
@@ -48,6 +53,7 @@ But Most Importantly, I'm a **Gopher**
 * The certificates were about to expire!
 
 ### ...
+
 ![This Sound Familiar?](https://cache.chrisshort.net/file/cache-chrisshort-net/testing-certificate-chains-in-go/bill-murray-toaster.gif)
 
 * Oh!
@@ -56,6 +62,7 @@ But Most Importantly, I'm a **Gopher**
 * And it was a pet project of someone in senior leadership
 
 ### **Let's Talk Certificate Chains**
+
 ![This Sound Familiar?](https://cache.chrisshort.net/file/cache-chrisshort-net/testing-certificate-chains-in-go/2-chainz-tell-em.png)
 2 Chainz (we can talk rap music later)
 
@@ -67,6 +74,7 @@ But Most Importantly, I'm a **Gopher**
 * The Internets are watching
 
 ### **This is the Goal**
+
 ![This is the Goal](https://cache.chrisshort.net/file/cache-chrisshort-net/testing-certificate-chains-in-go/chrisshort_net-qualys.png)
 
 * This is the goal
@@ -80,6 +88,7 @@ But Most Importantly, I'm a **Gopher**
 * The certificate arrives but usually doesn't have an intermediate key in chain because... vendors be vendoring
 
 ### **NBD ... OMG**
+
 ![This is the Goal](https://cache.chrisshort.net/file/cache-chrisshort-net/testing-certificate-chains-in-go/ssl-vendors-suck.png)
 
 * No big deal
@@ -90,6 +99,7 @@ But Most Importantly, I'm a **Gopher**
 * Cryptography is hard but implementing cryptographic best practices might be even harder
 
 ### ...
+
 ![Dispicable](https://cache.chrisshort.net/file/cache-chrisshort-net/testing-certificate-chains-in-go/mj-annoyed.gif)
 : What do we do?
 : Look at statistical probabilities and start shuffling keys around?
@@ -97,6 +107,7 @@ But Most Importantly, I'm a **Gopher**
 : Do you know how hard this is to explain to people?
 
 ### **So What Does Any Good Engineer Do?**
+
 ![Go Build by Ashley McNamara](https://cache.chrisshort.net/file/cache-chrisshort-net/testing-certificate-chains-in-go/go_build.png)
 
 * We needed a tool that would fail if the certificate chain provided was incorrect
@@ -107,6 +118,7 @@ But Most Importantly, I'm a **Gopher**
 * With Go of course!
 
 ### **Three Go Packages: log**
+
 * The go [`log`](https://golang.org/pkg/log/) package is pretty self-explanatory
 * Package that enables logging
 * Needed a spectacular failure at the sign of trouble
@@ -120,6 +132,7 @@ But Most Importantly, I'm a **Gopher**
 * Using `fatal` to break the app and log to `stderr` if something isn't right is great!
 
 ### **Three Go Packages: crypto/tls**
+
 * The Go[`crypto/tls`](https://golang.org/pkg/crypto/tls/) package partially implements TLS 1.2, as specified in [RFC 5246](https://tools.ietf.org/html/rfc5246)
 * Package configures usable SSL/TLS versions
 * Identifies preferred cipher suites and elliptic curves used during handshakes
@@ -131,6 +144,7 @@ But Most Importantly, I'm a **Gopher**
 * "It just works."
 
 ### **Three Go Packages: net/http**
+
 * Go implementation of HTTP
 * [`net/http`](https://golang.org/pkg/net/http/) has a function called `ListenAndServeTLS`
 * ListenAndServeTLS provides the desired certificate checking functionality
@@ -143,6 +157,7 @@ But Most Importantly, I'm a **Gopher**
 * It helps us Gophers out immensely by enforcing best practices
 
 ### **main: mux, cfg, srv**
+
 - Code creates a `mux`, short for HTTP request multiplexer
 - I ❤️ multiplexers (it's a long story that involves analog signals)
 - `mux` has a function that creates an HTTP server with headers and content (Hello World!)
@@ -151,6 +166,7 @@ But Most Importantly, I'm a **Gopher**
 ![Gopher Share by Ashley McNamara](https://cache.chrisshort.net/file/cache-chrisshort-net/testing-certificate-chains-in-go/GOPHER_SHARE.png)
 
 ### **Fail Spectacularly**
+
 * I ❤️ DevOps
 * I embrace failure
 * `log.Fatal(srv.ListenAndServeTLS("/etc/ssl-tester/tls.crt",` `"/etc/ssl-tester/tls.key"))`
@@ -165,6 +181,7 @@ But Most Importantly, I'm a **Gopher**
 * Stuff in the standard library JUST WORKS
 
 ### **It's Open Source!**
+
 ![ssl-tester on GitHub](https://cache.chrisshort.net/file/cache-chrisshort-net/testing-certificate-chains-in-go/ssl-tester.png)
 [https://github.com/chris-short/ssl-tester](https://github.com/chris-short/ssl-tester)
 
@@ -173,6 +190,7 @@ But Most Importantly, I'm a **Gopher**
 * Throw a star my way if you feel like it
 
 ### **It Works!**
+
 ![ssl-tester Output](https://cache.chrisshort.net/file/cache-chrisshort-net/testing-certificate-chains-in-go/ssl-tester-output.png)
 
 * Yes it Works
@@ -181,11 +199,13 @@ But Most Importantly, I'm a **Gopher**
 
 
 ### **No. It Really Works!**
+
 ![ssl-tester Output](https://cache.chrisshort.net/file/cache-chrisshort-net/testing-certificate-chains-in-go/ssltest-ssl-tester-chrisshort-net.png)
 
 * You can even scan it with external tools!
 
 ### **Conclusion**
+
 * The Go code does exactly what I need it to do and nothing more
 * About 40 lines of code!!! I ❤️ Go!
 * Binary is a self-contained web server

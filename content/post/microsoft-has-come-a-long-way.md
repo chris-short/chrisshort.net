@@ -41,4 +41,4 @@ Microsoft has come a very long way since then. They haven't won back my desktop 
 
 I hope that history shows us the Balmer years at Microsoft were its time lost in the woods. The highest praise I can ever give Microsoft is saying it's a place I would consider working if the offer ever came. We have reached that point and that says more about Microsoft's journey than this story ever could.
 
-
+{{< amazon >}}

@@ -734,3 +734,5 @@ Good. I'm, I'm glad. Thank you very much for the opportunity.
 Thanks.
 
 An MP3 download of this episode is available on the [Interviews](/interviews/) page. Big Thanks to The L8ist Sh9y Podcast for allowing me to share this transcript with y'all.
+
+{{< amazon >}}

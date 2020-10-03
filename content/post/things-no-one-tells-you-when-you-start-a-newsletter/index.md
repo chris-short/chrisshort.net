@@ -71,3 +71,5 @@ Mattias noted, "It's super rewarding! More than I thought it would be. The feedb
 A newsletter is an instant icebreaker in a lot of circles, too, "Hi, I'm Chris Short. I write a newsletter about DevOps, cloud native tooling, and open source software." Even if they've never heard of DevOps'ish or me, they know what a newsletter is. If they connect with the topics of the newsletter, they inevitably ask questions or tell you what they do for a living. It gets folks to open up about what they do or like doing, and that is pretty cool. I like talking to folks that are excited about the things they're doing.
 
 Please [subscribe to DevOps'ish](https://devopsish.com/subscribe/) today to join me on this journey!
+
+{{< amazon >}}

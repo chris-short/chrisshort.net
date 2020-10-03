@@ -13,7 +13,7 @@ image = "/kubernetes-getting-started/kubernetes-getting-started.png"
 
 Getting Started with [Kubernetes](https://kubernetes.io/) sounds like quite a daunting feat. How do you get started with "an open-source system for automating deployment, scaling, and management of containerized applications"? Let's examine Kubernetes' beginning. Containers have been in use for a very long time in the Unix world. Linux containers are popular thanks to projects like Docker. Google created Process Containers in 2006 and later realized they needed a way to maintain all these containers. Borg was born as an internal Google project and many tools sprang from its users. Omega was then built iterating on Borg. Omega maintained cluster state separate from the cluster members thus breaking Borg's monolith. Finally, Kubernetes sprung from Google. Kubernetes is now maintained by [Cloud Native Computing Foundation's](https://www.cncf.io/) members and contributors.
 
-
+{{< sib >}}
 
 ## ELI5
 
@@ -37,4 +37,4 @@ After kicking the tires on minikube if you feel like it is missing a few compone
 
 Regardless of how you get started learning Kubernetes now is the time to start. There are so many places to deploy Kubernetes now it doesn't make sense to not kick the tires now before determining if it is a great fit for your use cases. Before you deploy to AWS, Google Cloud, or Azure make sure you're not wasting your time.
 
-
+{{< amazon >}}
