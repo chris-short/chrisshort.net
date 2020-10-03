@@ -7,11 +7,11 @@ draft = false
 slug = "tmobile-sidekick-2-review"
 tags = ["hardware", "yahoo"]
 title = "T-Mobile Sidekick II Review"
-image = "https://cache.chrisshort.net/file/cache-chrisshort-net/sidekick-II-open.jpg"
+image = "/img/posts/sidekick-II-open.jpg"
 aliases = [
     "/archives/2004/09/tmobile-sidekick-ii-review.php",
-    "tmobile-sidekick-ii-review.php"
-    ]
+    "/tmobile-sidekick-ii-review.php"
+]
 
 +++
 

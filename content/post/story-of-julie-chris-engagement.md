@@ -7,7 +7,7 @@ draft = false
 slug = "story-of-julie-chris-engagement"
 tags = ["life"]
 title = "The Story of Julie and Chris' Engagement"
-image = "https://cache.chrisshort.net/file/cache-chrisshort-net/diana-biltmore-estate.jpg"
+image = "/img/posts/diana-biltmore-estate.jpg"
 aliases = [
     "/post/16711219859/the-story-of-julie-and-chriss-engagement"
 ]

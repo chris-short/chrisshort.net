@@ -4,7 +4,7 @@ categories = ["DevOps"]
 date = 2017-03-10T12:02:00Z
 description = ""
 draft = false
-image = "https://cache.chrisshort.net/file/cache-chrisshort-net/dagobah-cave.jpg"
+image = "/img/posts/dagobah-cave.jpg"
 slug = "the-dark-side-of-devops"
 tags = ["DevOps"]
 title = "The Dark Side of DevOps"
@@ -13,17 +13,17 @@ title = "The Dark Side of DevOps"
 
 **Disclaimer:** These are real world experiences I have had within organizations that I have been employed by. Identifying information is intentionally anonymous. If you think you are in one of these organizations please consider keeping that to yourself for the sake of others.
 
-{{< sib >}}
-
 A lot of people think that [DevOps](https://devopsish.com/), [Cloud Native](https://pivotal.io/cloud-native), [Agile](http://agilemanifesto.org/), [GROWS](http://growsmethod.com/), etc. are all rainbows and roses. You start small and work your way up to full blown operations or you decide as an organizational unit to change. These are the two patterns associated with a Jedi-type maturation process of DevOps. What if I told you that, like in Star Wars, DevOps has a dark side? I have seen the light side everyone thinks of and have carried the red lightsaber as well. Let's walk into the cave on Dagobah together.
 
-{{< carbon >}}
+{{< sib >}}
 
 ### The Ops Mutiny
 
 A former employer of mine had a serious issue. They needed to change to stay competitive and the IT team that needed changing was resisting. Development teams had started to speed up on a flagship product. Meanwhile, the traditional IT team was not evolving. As a matter of fact, the IT team was actively resisting the transition towards a DevOps workflow. There was a mutiny and the majority of the IT team left the company en masse.
 
 With the IT team already lagging behind there were now fewer people to do the work regardless of process. The fact that institutional knowledge and control rested with the two IT members that stayed made matters worse. It was obvious the company was not on a good path so they needed people fast. This is where I came in as an operations lead.
+
+{{< carbon >}}
 
 I joined the team and immediately realized they had no formal processes. I changed desks halfway through the second day, I had a loaner laptop, and never had a work phone number while I worked there. I spent my first week working on compliance training I did not need to do. I did not have access to what I needed to complete the goals my developer turned manager laid out for me. Then the architecture review happened.
 
@@ -55,4 +55,4 @@ What these experiences have taught me is the need for allies at all levels of th
 
 The DevOps journey is a combination of people, processes, and tooling. The culmination of these is a team of allies pushing the envelope and never resting on their laurels. There is no such thing as a completed DevOps transition. Resting on your laurels is not a DevOps mindset. DevOps and its allies should be iterating and improving upon what they have learned daily.
 
-
+{{< amazon >}}

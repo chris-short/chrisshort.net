@@ -7,7 +7,7 @@ draft = false
 slug = "video-devopsdays-raleigh-2017"
 tags = ["devops", "devopsdays", "talks"]
 title = "Video: DevOpsDays Raleigh 2017"
-image = "https://cache.chrisshort.net/file/cache-chrisshort-net/Dark_Side_of_DevOps_DevOpsDays_Raleigh_2017.jpg"
+image = "/img/posts/Dark_Side_of_DevOps_DevOpsDays_Raleigh_2017.jpg"
 
 +++
 
@@ -25,4 +25,6 @@ The first video is from my Dark Side of DevOps talk. The second video is from Ig
 
 {{< youtube Pz2r2eDCR74 >}}
 
+{{< carbon >}}
 
+{{< amazon >}}

@@ -7,6 +7,7 @@ draft = false
 slug = "link-popularity"
 tags = ["link popularity"]
 title = "Link Popularity"
+tags = ["search", "web", "link", "links", "search engine", "popularity", "link popularity", "keywords", "search engine rankings", "search engine results", "relevant", "niche", "genre", "SEO", "targeted", "inbound links"]
 aliases = [
     "/archives/2005/01/link-popularity.php"
 ]
@@ -17,9 +18,13 @@ aliases = [
 
 Link popularity is a key to improving search engine rankings of any web site. One of the hardest parts of search engine optimization (SEO) is improving the visibility of a web site by increasing link popularity. But, link popularity is the most effective way of SEO. Every search engine's algorithm factors link popularity into its placement of web sites in its search engine results pages (SERPs). This document will detail a very effective way to improve a web site's link popularity thus helping that web site's rankings in search engines.
 
+{{< carbon >}}
+
 ### Getting Links
 
 There are numerous ways of obtaining relevant, non-spam inbound links to a web site. The most effective method of obtaining relevant links will be to ask other webmasters whose web sites share the same niche or genre as the web site being optimized. This method is sometimes painful, slow and can result in a relatively low number of links to your site. Not to mention finding similar web sites that will link to one you're maintaining can be difficult at times. But, help is here.
+
+{{< sib >}}
 
 ### Search Engines
 
@@ -78,3 +83,5 @@ This method is a little more involved than the first method but it's a tad more 
 If you attack your link popularity campaign using the suggestions discussed in this document you will be on the road to sustained, increasing traffic from month to month in no time.
 
 > This page contains information mentioned by members of WebmasterWorld in "[It's time to get some new links!](https://www.webmasterworld.com/forum12/785.htm)". I'd like to thank the members who posted in that thread and allowed me to use their advice and ideas here.
+
+{{< amazon >}}

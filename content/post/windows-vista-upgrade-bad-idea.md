@@ -7,7 +7,7 @@ draft = false
 slug = "windows-vista-upgrade-bad-idea"
 tags = ["microsoft", "windows", "vista", "windows xp"]
 title = "Windows Vista: Upgrading Seems Like a Really Bad Idea"
-image = "https://cache.chrisshort.net/file/cache-chrisshort-net/windows-vista.png"
+image = "/img/posts/windows-vista.png"
 aliases = [
     "windows-vista-upgrading-seems-like-a-really-bad-idea"
     ]
@@ -28,3 +28,5 @@ I've come to the conclusion that upgrading to Windows Vista would be a horrible 
 4. Mac and Linux:  Of course, the competition is a great reason not to upgrade.  You can nab OS X from Apple on a Mac and get all that Windows Vista 3D GUI magic pretty cheap.  Oh, and OS X has been around for years (not days).  However, Linux is starting to look like an even better reason to not upgrade to Windows Vista.  Get an Ubuntu install running with Crossover Office and I'd be willing to bet money you'll never look back.
 
 In a nutshell, it's not smart to upgrade to Windows Vista, at this time.  The day may come when you actually force yourself to upgrade but running out and upgrading to the latest and greatest operating system isn't going to do anything but give you headaches.  Hold off for now folks, your next PC will be running Vista anyways.  Besides, hardware needs to catch up with the software.
+
+{{< amazon >}}
