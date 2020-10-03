@@ -7,7 +7,7 @@ draft = false
 slug = "devops-hiring-guide"
 tags = ["DevOps", "job", "hiring"]
 title = "DevOps Hiring Guide"
-image = "https://cache.chrisshort.net/file/cache-chrisshort-net/devops_hiring_guide_lead_image.png"
+image = "/img/posts/devops_hiring_guide_lead_image.png"
 
 +++
 

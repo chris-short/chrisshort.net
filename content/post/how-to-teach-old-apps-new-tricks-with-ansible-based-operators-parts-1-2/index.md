@@ -10,7 +10,7 @@ image = "/how-to-teach-old-apps-new-tricks-with-ansible-based-operators-parts-1-
 
 +++
 
-At Red Hat Summit this year, I had the task of explaining [Kubernetes Operators with Ansible](https://ansible.com/operators) in two, fifteen-minute talks, separated by three hours, in the middle of the busy Red Hat booth to anyone that walked up. I had to explain Kubernetes, the difference stateful and stateless apps, what a Kubernetes Operator is, how to write an operator with Ansible, and then demonstrate this capability. Use of video and sound was discouraged. Also, there wasn't going to be an ethernet cable available, meaning only conference show floor WiFi was available for a demo.
+At Red Hat Summit this year, I had the task of explaining [Kubernetes Operators with Ansible](https://ansible.com/operators) in two, fifteen-minute talks, separated by three hours, in the middle of the busy Red Hat booth to anyone that walked up. I had to explain Kubernetes, the difference stateful and stateless apps, what a Kubernetes Operator is, how to write an operator with Ansible, and then demonstrate this capability. Use of video and sound was discouraged. Also, there wasn't going to be an ethernet cable available, meaning only conference show floor WiFi was available for a demo.
 
 
 
@@ -26,7 +26,7 @@ The last thing I wanted was someone taking an operator I wrote for this talk int
 
 ## Slides
 
-With all these parameters in place, I took to making talk titled, "How to Teach Old Apps New Tricks with Ansible-based Operators (Parts 1 & 2)" [PDF](https://cache.chrisshort.net/file/cache-chrisshort-net/pdf/how-to-teach-old-apps-new-tricks-with-ansible-based-operators-parts-1-2-chris-short.pdf)
+With all these parameters in place, I took to making talk titled, "How to Teach Old Apps New Tricks with Ansible-based Operators (Parts 1 & 2)" [PDF](https://files.speakerdeck.com/presentations/4ddcd10b6a4a4b1e981e62376003b176/how-to-teach-old-apps-new-tricks-with-ansible-based-operators-parts-1-2-chris-short.pdf)
 
 {{< speakerdeck 4ddcd10b6a4a4b1e981e62376003b176 >}}
 

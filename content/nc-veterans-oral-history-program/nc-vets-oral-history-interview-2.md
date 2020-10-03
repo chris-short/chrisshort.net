@@ -422,6 +422,4 @@ So he'd fly in on a Blackhawk, these guys would show up in their suburban's, or 
 
 **CS:** Yeah, I ran into him, literally.
 
-Check back next week for [North Carolina Veterans Oral History Part 3](https://cache.chrisshort.net/file/cache-chrisshort-net/nc-vets-oral-history-interview-3/) where we discuss coming home, my long thoracic nerve injury, transitioning out of the military, and the Department of Veterans Affairs.
-
-
+Check back next week for [North Carolina Veterans Oral History Part 3](/nc-vets-oral-history-interview-3/) where we discuss coming home, my long thoracic nerve injury, transitioning out of the military, and the Department of Veterans Affairs.
