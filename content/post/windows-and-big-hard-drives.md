@@ -4,16 +4,15 @@ categories = ["Microsoft"]
 date = 2005-01-05T04:16:00Z
 description = ""
 draft = false
-image = "https://cache.chrisshort.net/file/cache-chrisshort-net/Windows_XP_Logo.png"
+image = "/img/posts/Windows_XP_Logo.png"
 slug = "windows-and-big-hard-drives"
 tags = ["microsoft", "windows xp"]
 title = "Windows XP and Big Hard Drives"
 aliases = [
-    "windows-and-big-hard-drives",
     "/archives/2005/01/windows-and-big-hard-drives.php",
-    "windows-and-big-hard-drives.php",
+    "/windows-and-big-hard-drives.php",
     "/windows-xp-and-"
-    ]
+]
 
 +++
 
@@ -40,3 +39,4 @@ Once that you have verified that your controller card and BIOS can support 48-bi
 
 **Windows 2000 users that have this problem** should read [48-Bit LBA Support for ATAPI Disk Drives in Windows 2000](https://support.microsoft.com/en-us/kb/305098) for more detailed assistance.
 
+{{< amazon >}}

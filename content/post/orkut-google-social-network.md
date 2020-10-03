@@ -7,7 +7,7 @@ draft = false
 slug = "orkut-google-social-network"
 tags = ["social media", "google"]
 title = "orkut.com - Google's Social Network"
-image = "https://cache.chrisshort.net/file/cache-chrisshort-net/Orkut_2004.png"
+image = "/img/posts/Orkut_2004.png"
 
 +++
 

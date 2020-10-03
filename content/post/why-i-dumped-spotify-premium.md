@@ -4,7 +4,7 @@ categories = ["Music"]
 date = 2012-01-07T19:06:00Z
 description = ""
 draft = false
-image = "https://cache.chrisshort.net/file/cache-chrisshort-net/spotify.png"
+image = "/img/posts/spotify.png"
 slug = "why-i-dumped-spotify-premium"
 tags = ["spotify", "streaming music"]
 title = "Why I Dumped Spotify Premium"
@@ -31,3 +31,4 @@ The other Spotify killer was [iTunes Match](http://www.apple.com/itunes/itunes-m
 
 I'm not trying to convince you not to drop $10 and try Spotify Premium once your free trial ends, I'm just letting you know why I loved and then decided to fall out of love with Spotify. If anything you should try it out and see how well you like it. But, for me it's time to run the Spotify uninstaller.
 
+{{< amazon >}}
