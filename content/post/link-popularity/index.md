@@ -5,7 +5,6 @@ date = 2005-01-05T03:00:00Z
 description = ""
 draft = false
 slug = "link-popularity"
-tags = ["link popularity"]
 title = "Link Popularity"
 tags = ["search", "web", "link", "links", "search engine", "popularity", "link popularity", "keywords", "search engine rankings", "search engine results", "relevant", "niche", "genre", "SEO", "targeted", "inbound links"]
 aliases = [
