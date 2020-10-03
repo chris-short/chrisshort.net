@@ -7,7 +7,7 @@ draft = false
 slug = "orchestructure-jan-2018"
 tags = ["open source", "devops", "go", "golang", "talks", "security", "orchestructure"]
 title = "Orchestructure January 2018 Meetup"
-image = "https://cdn.chrisshort.net/orchestruture-jan-2018.jpg"
+image = "https://cache.chrisshort.net/file/cache-chrisshort-net/orchestruture-jan-2018.jpg"
 
 +++
 
@@ -19,7 +19,7 @@ I created a new Go talk for this group. I hope to reuse it to enlighten people o
 
 {{< carbon >}}
 
-If the second half of this talk looks familiar it's because it's from my [*Golang to the rescue: Saving DevOps from TLS turmoil*](https://chrisshort.net/gophercon-2017-lightning-talk-video/) talk. I feel like telling the whole story of Go provides significantly better context to the DevOps use cases for Go. PDFs of the talk are available; one [with speaker notes](https://cdn.chrisshort.net/Go-Enabling-DevOps-to-Go-Faster-Notes.pdf) and the other [without notes](https://cdn.chrisshort.net/Go-Enabling-DevOps-to-Go-Faster.pdf).
+If the second half of this talk looks familiar it's because it's from my [*Golang to the rescue: Saving DevOps from TLS turmoil*](https://chrisshort.net/gophercon-2017-lightning-talk-video/) talk. I feel like telling the whole story of Go provides significantly better context to the DevOps use cases for Go. PDFs of the talk are available; one [with speaker notes](https://cache.chrisshort.net/file/cache-chrisshort-net/Go-Enabling-DevOps-to-Go-Faster-Notes.pdf) and the other [without notes](https://cache.chrisshort.net/file/cache-chrisshort-net/Go-Enabling-DevOps-to-Go-Faster.pdf).
 
 {{< speakerdeck 99e8a3462b364c0982e6287d5a86ccac >}}
 

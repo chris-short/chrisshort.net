@@ -7,7 +7,7 @@ draft = false
 slug = "aws-michigan-apr-2018"
 tags = ["devops", "AWS", "Michigan", "talks", "cloud"]
 title = "AWS Michigan: Heaven is Not a Cloud"
-image = "https://cdn.chrisshort.net/aws-michigan-april-2018.jpg"
+image = "https://cache.chrisshort.net/file/cache-chrisshort-net/aws-michigan-april-2018.jpg"
 
 +++
 

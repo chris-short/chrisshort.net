@@ -7,7 +7,7 @@ draft = false
 slug = "windows-vista-upgrade-bad-idea"
 tags = ["microsoft", "windows", "vista", "windows xp"]
 title = "Windows Vista: Upgrading Seems Like a Really Bad Idea"
-image = "https://cdn.chrisshort.net/windows-vista.png"
+image = "https://cache.chrisshort.net/file/cache-chrisshort-net/windows-vista.png"
 aliases = [
     "windows-vista-upgrading-seems-like-a-really-bad-idea"
     ]

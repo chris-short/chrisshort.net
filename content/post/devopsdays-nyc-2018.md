@@ -7,7 +7,7 @@ draft = false
 slug = "devopsdays-nyc-2018"
 tags = ["open source", "devops", "go", "golang", "talks", "security"]
 title = "DevOpsDays NYC 2018 Ignite Talk on Golang"
-image = "https://cdn.chrisshort.net/chris-short-sj-technologies-devopsdays-nyc.jpg"
+image = "https://cache.chrisshort.net/file/cache-chrisshort-net/chris-short-sj-technologies-devopsdays-nyc.jpg"
 aliases = [
     "devopsdays-nyc-2018",
     "devopsdays-2018-ignite-talk-on-golang"

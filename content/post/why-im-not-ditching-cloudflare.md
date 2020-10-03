@@ -7,7 +7,7 @@ draft = false
 slug = "why-im-not-ditching-cloudflare"
 tags = ["internet", "cloudflare", "hate", "diversity", "bgp"]
 title = "Why I'm Not Ditching Cloudflare"
-image = "https://cdn.chrisshort.net/cf-logo-v-rgb.png"
+image = "https://cache.chrisshort.net/file/cache-chrisshort-net/cf-logo-v-rgb.png"
 
 +++
 

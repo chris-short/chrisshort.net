@@ -14,7 +14,7 @@ After [DevOpsDays Raleigh 2017](https://www.devopsdays.org/events/2017-raleigh/w
 
 **This list is on [GitHub](https://github.com/chris-short/DevOps-README.md), pull requests are welcome.**
 
-Slides used at the genesis of this list are [available here](https://cdn.chrisshort.net/pdf/DevOps%20README.md.pdf).
+Slides used at the genesis of this list are [available here](https://cache.chrisshort.net/file/cache-chrisshort-net/pdf/DevOps%20README.md.pdf).
 
 *Note: chrisshort.net may earn compensation for sales from links on this post through [affiliate programs](/terms/).*
 
@@ -177,7 +177,7 @@ This is available as a standalone website at <devopsreadme.xyz>
 * Pros: Makes case that RCA isn't a solid process
 * Cons: None given the scope
 * Quip: You're human so you're the problem.
-* URL: [How Complex Systems Fail (Being a Short Treatise on the Nature of Failure; How Failure is Evaluated; How Failure is Attributed to Proximate Cause; and the Resulting New Understanding of Patient Safety)](https://cdn.chrisshort.net/pdf/How-Complex-Systems-Fail.pdf?utm_source=devops-readme.md&utm_medium=chrisshort.net)
+* URL: [How Complex Systems Fail (Being a Short Treatise on the Nature of Failure; How Failure is Evaluated; How Failure is Attributed to Proximate Cause; and the Resulting New Understanding of Patient Safety)](https://cache.chrisshort.net/file/cache-chrisshort-net/pdf/How-Complex-Systems-Fail.pdf?utm_source=devops-readme.md&utm_medium=chrisshort.net)
 
 ## In Search of Certainty
 
