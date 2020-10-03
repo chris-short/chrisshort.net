@@ -4,7 +4,7 @@ categories = ["Security"]
 date = 2016-02-27T18:40:10Z
 description = ""
 draft = false
-image = "https://cdn.chrisshort.net/yubikey-nano.png"
+image = "https://cache.chrisshort.net/file/cache-chrisshort-net/yubikey-nano.png"
 slug = "yubikey-4-nano-demands-use-of-yubiswitch"
 tags = ["yubikey", "mac os x", "macos"]
 title = "Yubikey 4 Nano Demands Use of yubiswitch"
@@ -25,7 +25,7 @@ The Yubikey Nano 4 inputs the access code into whatever field is in use when it 
 
 Install yubiswitch, run it, and open the Yubiswitch Preferences pane:
 
-![YubiSwitch Preferences](https://cdn.chrisshort.net/YubiSwitch_Preferences.png)
+![YubiSwitch Preferences](https://cache.chrisshort.net/file/cache-chrisshort-net/YubiSwitch_Preferences.png)
 
 The YubiKey ProductID in the Preferences field needs to be set correctly or yubiswitch simply won't work. Open a Terminal and run the following command:
 

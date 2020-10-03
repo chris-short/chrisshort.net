@@ -18,13 +18,13 @@ As part of a North Carolina State Archives initiative to obtain oral histories o
 
 The interview was well worth the time it took to coordinate and conduct it. I would encourage all North Carolina veterans to contact Matthew and provide their unique story for preservation.
 
-This picks up where [North Carolina Veterans Oral History Interview Part 2](https://cdn.chrisshort.net/nc-vets-oral-history-interview-2/) left off. I was in the throes of Operation Iraqi Freedom at the Central Command Forward Headquarters in Qatar and the major combat operations are winding down.
+This picks up where [North Carolina Veterans Oral History Interview Part 2](https://cache.chrisshort.net/file/cache-chrisshort-net/nc-vets-oral-history-interview-2/) left off. I was in the throes of Operation Iraqi Freedom at the Central Command Forward Headquarters in Qatar and the major combat operations are winding down.
 
 <audio controls>
-  <source src="https://cdn.chrisshort.net/nc-veterans-oral-history-interview-3.mp3" type="audio/mpeg">
+  <source src="https://cache.chrisshort.net/file/cache-chrisshort-net/nc-veterans-oral-history-interview-3.mp3" type="audio/mpeg">
 Your browser does not support the audio element but you can download it as an MP3.
 </audio>
-Also available as an [MP3 download](https://cdn.chrisshort.net/nc-veterans-oral-history-interview-3.mp3)
+Also available as an [MP3 download](https://cache.chrisshort.net/file/cache-chrisshort-net/nc-veterans-oral-history-interview-3.mp3)
 
 {{< carbon >}}
 

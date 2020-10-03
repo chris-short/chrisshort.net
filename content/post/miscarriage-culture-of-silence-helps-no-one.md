@@ -7,7 +7,7 @@ draft = false
 slug = "miscarriage-culture-of-silence-helps-no-one"
 tags = ["life", "miscarriage", "pregnancy", "culture"]
 title = "Miscarriage: A Culture of Silence Helps No One"
-image = "https://cdn.chrisshort.net/grief.jpg"
+image = "https://cache.chrisshort.net/file/cache-chrisshort-net/grief.jpg"
 
 +++
 

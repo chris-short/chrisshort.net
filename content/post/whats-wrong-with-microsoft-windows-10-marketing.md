@@ -4,7 +4,7 @@ categories = ["Microsoft"]
 date = 2015-10-06T04:13:00Z
 description = ""
 draft = false
-image = "https://cdn.chrisshort.net/win10_ad.jpg"
+image = "https://cache.chrisshort.net/file/cache-chrisshort-net/win10_ad.jpg"
 slug = "whats-wrong-with-microsoft-windows-10-marketing"
 tags = ["microsoft", "windows 10", "marketing"]
 title = "What's Wrong with Microsoft's Windows 10 Marketing"
@@ -22,9 +22,9 @@ I was reading through Wired magazine and saw a Windows 10 ad. If you've turned o
 
 {{< carbon >}}
 
-And so on... ([here's the full ad if you really want to see it](https://cdn.chrisshort.net/win10_ad.jpg)). But, there is one big thing wrong with this marketing approach and Microsoft actually says it right on the ad:
+And so on... ([here's the full ad if you really want to see it](https://cache.chrisshort.net/file/cache-chrisshort-net/win10_ad.jpg)). But, there is one big thing wrong with this marketing approach and Microsoft actually says it right on the ad:
 
-![The Fine Print](https://cdn.chrisshort.net/win10_ad_zoom_optimized.png)
+![The Fine Print](https://cache.chrisshort.net/file/cache-chrisshort-net/win10_ad_zoom_optimized.png)
 
 The problem with Windows 10 is that Microsoft can't really guarantee every screen is a touch screen (or whether or note your touchscreen is supported). Microsoft can't say definitively that every device Windows 10 is installed on has a webcam or fingerprint reader to help replace your passwords. It's just not possible for Microsoft, hence the fine print.
 
