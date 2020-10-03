@@ -33,6 +33,4 @@ Another reason for stopping the use of ad blockers is that to do so, to some ext
 
 Given the rise of click bait and junk news, it is now more important than ever for good news sources to deliver good content. Most of the time, the only way sites can afford to produce quality content is to deliver it along with an ad network. Hopefully, the rise in utilization of content blockers will send a message to content providers. Content providers should ease up on the number of services their sites are foisting on users. I do not have the time to build and maintain a whitelist of good content sources to input into a content blocker. In an attempt to support the good content providers I will go without content blockers altogether on my iPhone and iPad.
 
-Image courtesy [Joe The Goat Farmer](https://www.flickr.com/photos/132604339@N03/25381872413/)
-
-
+Image courtesy Joe The Goat Farmer

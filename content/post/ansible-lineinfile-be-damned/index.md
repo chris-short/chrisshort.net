@@ -15,13 +15,13 @@ aliases = [
 
 +++
 
-The [Ansible](/tags/ansible/) [lineinfile](http://docs.ansible.com/ansible/lineinfile_module.html) module is designed to search a file for a line, and ensure that it is present or absent. lineinfile is very effective at that particular task. However, when the line has to be in a certain place or before or after a certain line, lineinfile becomes a hassle to manage.
+The [Ansible](/tags/ansible/) [lineinfile](https://docs.ansible.com/ansible/latest/collections/ansible/builtin/lineinfile_module.html) module is designed to search a file for a line, and ensure that it is present or absent. lineinfile is very effective at that particular task. However, when the line has to be in a certain place or before or after a certain line, lineinfile becomes a hassle to manage.
 
 {{< sib >}}
 
 Most people on IRC (#ansible) tend to agree, lineinfile is not a very good module in practice. Even [Brain Coca says to avoid the lineinfile module](https://groups.google.com/d/msg/ansible-project/vjquGCRcLJc/QEgebch_DQAJ). But, there is one use case I have found where line in file really excels.
 
-If you are not using the [Mozilla SSL Configuration Generator](https://mozilla.github.io/server-side-tls/ssl-config-generator/) you are really missing out. It is a great tool that is super easy to use to maintain [recommended SSL/TLS configurations](https://wiki.mozilla.org/Security/Server_Side_TLS#Recommended_configurations) on all your HTTP endpoints.
+If you are not using the [Mozilla SSL Configuration Generator](https://ssl-config.mozilla.org/) you are really missing out. It is a great tool that is super easy to use to maintain [recommended SSL/TLS configurations](https://wiki.mozilla.org/Security/Server_Side_TLS#Recommended_configurations) on all your HTTP endpoints.
 
 {{< carbon >}}
 
@@ -36,7 +36,7 @@ There are only a handful of lines in the Apache configs that we needed to worry 
 * SSLHonorCipherOrder (absent)
 * Header always set Strict-Transport-Security (absent)
 
-I should also add that we have some configurations for endpoints that do not require encryption. Not only did we have to find and replace and add lines to the configs but we had to identify configs that only had configurations for port 443. Finding the files with the port 443 configurations is easy enough with the [Ansible find module](http://docs.ansible.com/ansible/find_module.html).
+I should also add that we have some configurations for endpoints that do not require encryption. Not only did we have to find and replace and add lines to the configs but we had to identify configs that only had configurations for port 443. Finding the files with the port 443 configurations is easy enough with the [Ansible find module](https://docs.ansible.com/ansible/latest/collections/ansible/builtin/find_module.html#ansible-collections-ansible-builtin-find-module).
 
 Here is the Ansible Playbook:
 
@@ -89,7 +89,7 @@ Here is the Ansible Playbook:
 
 There are a few bits I would like to expound on:
 
-The Ansible find module has some [unique return values](http://docs.ansible.com/ansible/find_module.html#return-values); one of these values is files. The register of conf_files is all the output of the find module. The item `{{ conf_files.files }}` is the *files* array from the find module output. The `{{ item.path }}` is the *path* object from the *files* array. It is a little wonky but it grabs the full path for all files matching the options given to the find module which is exactly what we need.
+The Ansible find module has some [unique return values](https://docs.ansible.com/ansible/latest/collections/ansible/builtin/find_module.html#return-values); one of these values is files. The register of conf_files is all the output of the find module. The item `{{ conf_files.files }}` is the *files* array from the find module output. The `{{ item.path }}` is the *path* object from the *files* array. It is a little wonky but it grabs the full path for all files matching the options given to the find module which is exactly what we need.
 
 The Ansible lineinfile module usage in this playbook is intense; `insertafter`, `insertbefore`, and `regexp` are used in every step. The matching of spaces and/or tabs is handled by the `[ \t]` regex throughout the playbook. The `regexp` option in the lineinfile module makes sure lines that match the expression are replaced. The `insertafter` and `insertbefore` options allow for putting the lines where they need to be.
 

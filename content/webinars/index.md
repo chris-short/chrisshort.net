@@ -57,7 +57,7 @@ Download: [MP4](https://cache.chrisshort.net/file/cache-chrisshort-net/KubeVirt-
 ## Monitoring Kubernetes Workloads: The Sidecar Pattern
 
 Date: 2019-06-13  
-Source: [Monitoring Kubernetes Workloads: The Sidecar Pattern - Cloud Native Computing Foundation](https://www.cncf.io/webinars/monitoring-k8s-workloads-sidecar-pattern/)  
+Source: [Monitoring Kubernetes Workloads: The Sidecar Pattern - Cloud Native Computing Foundation](https://www.cncf.io/webinars/monitoring-kubernetes-workloads-the-sidecar-pattern/)  
 YouTube: [Monitoring Kubernetes workloads: the sidecar pattern - CNCF](https://youtu.be/X14nPCoNUg0)  
 Download:  [MP4](https://cache.chrisshort.net/file/cache-chrisshort-net/Monitoring-Kubernetes-workloads-sidecar-pattern.mp4)
 
