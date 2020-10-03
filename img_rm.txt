@@ -66,4 +66,5 @@ cf-logo-v-rgb.png
 Windows_XP_Logo.png
 windows-xp.jpg
 windows-vista.png
+2017.jpg
 
