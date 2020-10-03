@@ -4,7 +4,7 @@ categories = ["Air Force"]
 date = 2016-05-27T23:16:56Z
 description = ""
 draft = false
-image = "https://cdn.chrisshort.net/richard-childress-racing-visit-2010.jpg"
+image = "https://cache.chrisshort.net/file/cache-chrisshort-net/richard-childress-racing-visit-2010.jpg"
 slug = "the-hall-of-famer-and-i"
 tags = ["richard childress", "richard childress racing", "air force", "nascar", "rcr", "hall of fame", "usaf"]
 title = "The Hall of Famer and I"
@@ -23,13 +23,13 @@ We were then led upstairs to a large open room where numerous tables and chairs 
 
 Mr. Childress had a grin on his face that said it all.  You could tell he was very happy to be there. He introduced himself and gave us a speech about freedom and how important we were to him and the folks there at RCR. What he did next was quite impressive. He was given a handful of Sharpies while some RCR staff members got us up to form a line. He signed everyone's hero cards and he even signed a couple of diecasts a friend of mine had brought with him. I was beside myself, here was a very busy man running a multi-million dollar operational carving out a big part of his own and his staffs' time to treat us like royalty. I could not thank Mr. Childress enough when I got the opportunity to meet him.
 
-![Chris Short and Richard Childress](https://cdn.chrisshort.net/chris-short-richard-childress-01.jpg)
+![Chris Short and Richard Childress](https://cache.chrisshort.net/file/cache-chrisshort-net/chris-short-richard-childress-01.jpg)
 
 The NASCAR Hall of Fame [announced its 2017 inductees](https://www.nascar.com/news-media/2016/02/24/nascar-reveals-nominees-for-2017-hall-of-fame-class/) this week. While I am sure some people will argue the timing of Mr. Childress's induction against the other eligible people, there is no doubt in my mind that it is very well deserved. Mr. Childress has done amazing things in NASCAR and for our nation's servicemen and women.
 
 It turns out that later in 2010 I found out I was going to be medically separated from the US Air Force. The trip to Richard Childress Racing is one of the coolest things I ever had the opportunity to do during my time at Pope Air Force Base. I often think back on that day.
 
-![Chris Short and Richard Childress](https://cdn.chrisshort.net/chris-short-richard-childress-02.jpg)
+![Chris Short and Richard Childress](https://cache.chrisshort.net/file/cache-chrisshort-net/chris-short-richard-childress-02.jpg)
 
 The photos I took from the day at Richard Childress Racing [can be found on Flickr](https://flic.kr/s/aHsjpxsFZ7)
 

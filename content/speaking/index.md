@@ -29,7 +29,7 @@ Source: [Summit Lab - Building Kubernetes Operators with Ansible](https://youtu.
 Date: 2020-06-24  
 Source: [Lesson Learned From Cloud Migrations: Planning is Everything](https://jfrog.com/user-conference/lesson-learned-from-cloud-migrations-planning-is-everything/)  
 YouTube: [Lesson Learned From Cloud Migrations: Planning is Everything - Chris Short](https://youtu.be/BQMu5m-oZe0)
-Download: [MP4](https://cdn.chrisshort.net/Lesson-Learned-From-Cloud-Migrations-Planning-is-Everything-Chris-Short.mp4)
+Download: [MP4](https://cache.chrisshort.net/file/cache-chrisshort-net/Lesson-Learned-From-Cloud-Migrations-Planning-is-Everything-Chris-Short.mp4)
 
 >“Migrating to the cloud saves money!” “Not running your own infrastructure reduces your bottom line!” “Lift and shift is a legitimate first step towards moving to the cloud!” These are all potential pitfalls if you’re not careful. Proper planning prevents piss poor performance. Using a real chaotic cloud migration as a guide, we’ll walk through the pitfalls of cloud migrations and how to avoid them and the terrifying vendor lock-in (when it makes sense).
 
@@ -39,7 +39,7 @@ Download: [MP4](https://cdn.chrisshort.net/Lesson-Learned-From-Cloud-Migrations-
 
 Date: 2019-12-18  
 Source: [Short Talks: A Conversation with Kelsey Hightower - OpenShift Commons Briefing](https://youtu.be/YYHp0oksor4)  
-Download: [MP3](https://cdn.chrisshort.net/Short-Talks-A-Conversation-with-Kelsey-Hightower-OpenShift-Commons-Briefing.mp3) | [M4A](https://cdn.chrisshort.net/Short-Talks-A-Conversation-with-Kelsey-Hightower-OpenShift-Commons-Briefing.m4a)
+Download: [MP3](https://cache.chrisshort.net/file/cache-chrisshort-net/Short-Talks-A-Conversation-with-Kelsey-Hightower-OpenShift-Commons-Briefing.mp3) | [M4A](https://cache.chrisshort.net/file/cache-chrisshort-net/Short-Talks-A-Conversation-with-Kelsey-Hightower-OpenShift-Commons-Briefing.m4a)
 
 {{< youtube YYHp0oksor4 >}}
 
@@ -56,7 +56,7 @@ Date: 2019-10-01
 Event: Event: [DevOpsDays Raleigh 2019](https://devopsdays.org/events/2019-raleigh/welcome/)  
 Slides: [DevOps is Not War - DevOpsDays Raleigh 2019](https://speakerdeck.com/chrisshort/devops-is-not-war-df415c22-a29d-4cab-8689-143f9922c0f3)  
 YouTube: [DevOps is Not War - Chris Short](https://youtu.be/eKOGQKHOBNg)  
-Download: [MP4](https://cdn.chrisshort.net/DevOps-is-not-War-DOD-RDU.mp4)  
+Download: [MP4](https://cache.chrisshort.net/file/cache-chrisshort-net/DevOps-is-not-War-DOD-RDU.mp4)  
 Blog post: [DevOpsDays Raleigh 2019 Trip Report](https://chrisshort.net/devopsdays-raleigh-2019-trip-report/)
 
 {{< youtube eKOGQKHOBNg >}}
@@ -67,7 +67,7 @@ Date: 2019-06-19
 Event: [JFrog swampUP 2019](https://swampup.jfrog.com/)  
 Slides: [The Dark Side of DevOps](https://speakerdeck.com/chrisshort/the-dark-side-of-devops)  
 YouTube: [The Dark Side of DevOps - Chris Short - swampUP 2019](https://youtu.be/gi-i5NvxVLM)  
-Download: [MP4](https://cdn.chrisshort.net/The_Dark_Side_of_DevOps-Chris_Short-JFrog_SwampUP_2019.mp4)
+Download: [MP4](https://cache.chrisshort.net/file/cache-chrisshort-net/The_Dark_Side_of_DevOps-Chris_Short-JFrog_SwampUP_2019.mp4)
 
 {{< youtube gi-i5NvxVLM >}}
 

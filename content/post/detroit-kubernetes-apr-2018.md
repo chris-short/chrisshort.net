@@ -7,7 +7,7 @@ draft = false
 slug = "detroit-kubernetes-apr-2018"
 tags = ["kubernetes", "Michigan", "talks", "Detroit", "cron", "cron jobs"]
 title = "Detroit Kubernetes:  Kubernetes Cron Jobs"
-image = "https://cdn.chrisshort.net/detroit-kubernetes-apr-2018-cron-jobs.png"
+image = "https://cache.chrisshort.net/file/cache-chrisshort-net/detroit-kubernetes-apr-2018-cron-jobs.png"
 aliases = [
     "detroit-kubernetes--kubernetes-cron-jobs"
 ]
@@ -18,7 +18,7 @@ I spoke at [Detroit Kubernetes, Docker & all related things](https://www.meetup.
 
 {{< carbon >}}
 
-The talk and corresponding demo is based on the article I wrote back in February, [*Kubernetes: Cron Jobs*](/kubernetes-cron-jobs/). I had Pushover notifications setup too so every time the cron job ran in minikube my Apple Watch would ping. It added a nice, albeit unintended, effect that I'll try to make use of during future demos for sure. You can view the slides below or [download the version with notes](https://cdn.chrisshort.net/Kubernetes-Cron-Jobs-Notes.pdf).
+The talk and corresponding demo is based on the article I wrote back in February, [*Kubernetes: Cron Jobs*](/kubernetes-cron-jobs/). I had Pushover notifications setup too so every time the cron job ran in minikube my Apple Watch would ping. It added a nice, albeit unintended, effect that I'll try to make use of during future demos for sure. You can view the slides below or [download the version with notes](https://cache.chrisshort.net/file/cache-chrisshort-net/Kubernetes-Cron-Jobs-Notes.pdf).
 
 {{< sib >}}
 

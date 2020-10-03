@@ -7,7 +7,7 @@ draft = false
 slug = "open-source-101-raleigh-2018"
 tags = ["open source", "diversity", "devops", "talks", "culture"]
 title = "Open Source 101 Raleigh 2018"
-image = "https://cdn.chrisshort.net/jason-chris-open-source-101-2018.jpg"
+image = "https://cache.chrisshort.net/file/cache-chrisshort-net/jason-chris-open-source-101-2018.jpg"
 imagealt = "Jason Hibbets and Chris Short Talking DevOps at Open Source Raleigh 101"
 imagecap = "Photo Credit: [VM (Vicky) Brasseur](https://www.vmbrasseur.com/services/) (CC-BY)"
 
@@ -33,9 +33,9 @@ Touching on my favorite topic, failure, we mentioned, "If it fails in production
 
 The last part of the talk we point people to some tips and tricks to help them on their DevOps journeys. It is hard to prepare a person or organization to facilitate a DevOps transition in a thirty-minute talk. One thing to keep in mind is, "You're not Netflix, but you could be one day."
 
-[Slides](https://cdn.chrisshort.net/avoiding-the-DevOps-pit-of-misery_Tips-from-the-trenches.pdf) and [video](https://cdn.chrisshort.net/jason-hibbets-chris-short-open-source-101-raleigh-2018.mp4) of the talk are available:
+[Slides](https://cache.chrisshort.net/file/cache-chrisshort-net/avoiding-the-DevOps-pit-of-misery_Tips-from-the-trenches.pdf) and [video](https://cache.chrisshort.net/file/cache-chrisshort-net/jason-hibbets-chris-short-open-source-101-raleigh-2018.mp4) of the talk are available:
 
-<embed src="https://cdn.chrisshort.net/avoiding-the-DevOps-pit-of-misery_Tips-from-the-trenches.pdf" width="100%" alt="pdf" />
+<embed src="https://cache.chrisshort.net/file/cache-chrisshort-net/avoiding-the-DevOps-pit-of-misery_Tips-from-the-trenches.pdf" width="100%" alt="pdf" />
 
 <iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fjhibbets%2Fvideos%2F10215153138403454%2F&show_text=0&width=267" width="267" height="476" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allowFullScreen="true"></iframe>
 

@@ -23,7 +23,7 @@ This is also available at [devopsreadme.xyz](https://devopsreadme.xyz/)
 
 {{< speakerdeck 322dec59e1884ea88cb828f990f48487 >}}
 
-If you're unable to view this embed, please [All Things Open 2017 — DevOps README.md](https://cdn.chrisshort.net/pdf/DevOps_README.md_ATO2017.pdf).
+If you're unable to view this embed, please [All Things Open 2017 — DevOps README.md](https://cache.chrisshort.net/file/cache-chrisshort-net/pdf/DevOps_README.md_ATO2017.pdf).
 
 ## Video
 

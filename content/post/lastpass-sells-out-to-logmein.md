@@ -4,7 +4,7 @@ categories = ["Security"]
 date = 2015-10-09T23:03:30Z
 description = ""
 draft = false
-image = "https://cdn.chrisshort.net/lp_blog.png"
+image = "https://cache.chrisshort.net/file/cache-chrisshort-net/lp_blog.png"
 slug = "lastpass-sells-out-to-logmein"
 tags = ["lastpass", "logmein", "acquisition", "security"]
 title = "LastPass Sells Out to LogMeIn"
@@ -23,7 +23,7 @@ Given the LastPass business model (free to consumers, [premium](https://lastpass
 
 The response from LastPass has been a lot of damage control it would seem. But, their [comment on LinkedIn](https://www.linkedin.com/company/lastpass?trk=tyah&trkInfo=clickedVertical%3Acompany%2CclickedEntityId%3A644776%2Cidx%3A2-2-9%2CtarId%3A1444412280222%2Ctas%3Alast) really sums up the LastPass response:
 
-![LastPass Comment on LinkedIn](https://cdn.chrisshort.net/LastPass-LinkedIn.png)
+![LastPass Comment on LinkedIn](https://cache.chrisshort.net/file/cache-chrisshort-net/LastPass-LinkedIn.png)
 
 >We appreciate and are proud of the passion of our community. We hope you'll stick with us to let us prove that there are only better things to come. We will not compromise when it comes to our commitment to you, your privacy and your trust. -LastPass
 

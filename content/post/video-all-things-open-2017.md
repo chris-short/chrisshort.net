@@ -7,7 +7,7 @@ draft = false
 slug = "video-all-things-open-2017"
 tags = ["devops", "talks"]
 title = "Video: All Things Open 2017"
-image = "https://cdn.chrisshort.net/chris-short-ato-2017.jpg"
+image = "https://cache.chrisshort.net/file/cache-chrisshort-net/chris-short-ato-2017.jpg"
 
 +++
 

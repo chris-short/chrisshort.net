@@ -7,7 +7,7 @@ draft = false
 slug = "google-datacenter-lenoir-nc"
 tags = ["google"]
 title = "Google Building New Datacenter in Lenoir, NC"
-image = "https://cdn.chrisshort.net/Google_2007.png"
+image = "https://cache.chrisshort.net/file/cache-chrisshort-net/Google_2007.png"
 
 +++
 
