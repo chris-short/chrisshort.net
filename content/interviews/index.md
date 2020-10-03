@@ -131,7 +131,7 @@ Your browser does not support the audio element but you can download it as an MP
 </audio>
 
 Date: 2019-11-08  
-Source: [The Intersection of DevOps and Kubernetes](http://podcast.podctl.com/110399/2024361-the-intersection-of-devops-and-kubernetes)  
+Source: [The Intersection of DevOps and Kubernetes](https://podcasts.apple.com/gb/podcast/the-intersection-of-devops-and-kubernetes/id1270983443?i=1000456263929)  
 Download: [MP3](https://cache.chrisshort.net/file/cache-chrisshort-net/the-intersection-of-devops-and-kubernetes.mp3)
 
 ## How to explain DevOps in plain English

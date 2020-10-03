@@ -26,7 +26,7 @@ The first thing to keep in mind is the primary reason for HTTP/2 even being a pr
 
 {{< carbon >}}
 
-* HTTP/2 **compresses headers** by default with a newly built compression algorithm called [HPACK](https://http2.github.io/http2-spec/compression.html). Compressing headers will allow more data to flow faster by getting headers down into the manageable realm of a packet or two as opposed several round trips.
+* HTTP/2 **compresses headers** by default with a newly built compression algorithm called [HPACK](https://httpwg.github.io/specs/rfc7541.html). Compressing headers will allow more data to flow faster by getting headers down into the manageable realm of a packet or two as opposed several round trips.
 
 * HTTP/2 is a **binary** protocol unlike HTTP which is plaintext. In my opinion, this is good and bad but I am okay with HTTP/2 being binary. It is good in the sense that it will potentially reduce errors and ease machine parsing (not having to deal with special characters, white space, etc.). However, with it not being plaintext that means you won't be able to easily manipulate an HTTP/2 server with a tool like telnet. Fear not, [Wireshark has some support for HTTP/2](https://wiki.wireshark.org/HTTP2) and it is improving and [curl supports HTTP/2](https://curl.haxx.se/docs/http2.html).
 
@@ -36,5 +36,5 @@ The first thing to keep in mind is the primary reason for HTTP/2 even being a pr
 
 * There is one thing that is not changing in HTTP/2 and that is **status codes**. 200 is still OK, 404 is still not found, and 451 is still Unavailable For Legal Reasons. There will be no need to memorize new codes (and I will still ask you to define at least three codes during an interview).
 
-There are a lot of great things happening in HTTP/2 and I would encourage to consider implementing where you can as soon as you can. Find your favorite [code's implementation or web server](https://github.com/http2/http2-spec/wiki/Implementations) and get rolling with HTTP/2.
+There are a lot of great things happening in HTTP/2 and I would encourage to consider implementing where you can as soon as you can. Find your favorite [code's implementation or web server](https://github.com/httpwg/http2-spec/wiki/Implementations) and get rolling with HTTP/2.
 
