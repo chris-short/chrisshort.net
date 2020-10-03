@@ -7,7 +7,7 @@ draft = false
 slug = "microsoft-opens-up-kina"
 tags = ["Microsoft", "open source", "nsa"]
 title = "Microsoft Opens Up Kinda"
-image = "https://cache.chrisshort.net/file/cache-chrisshort-net/Office03.png"
+image = "/img/posts/Office03.png"
 
 +++
 

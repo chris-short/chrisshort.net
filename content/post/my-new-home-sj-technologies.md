@@ -7,7 +7,7 @@ draft = false
 slug = "my-new-home-sj-technologies"
 tags = ["job", "DevOps", "life", "impostor syndrome"]
 title = "My New Home is SJ Technologies"
-image = "https://cache.chrisshort.net/file/cache-chrisshort-net/sj-technologies.jpg"
+image = "/img/posts/sj-technologies.jpg"
 
 +++
 

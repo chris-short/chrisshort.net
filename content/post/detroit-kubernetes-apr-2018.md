@@ -7,7 +7,7 @@ draft = false
 slug = "detroit-kubernetes-apr-2018"
 tags = ["kubernetes", "Michigan", "talks", "Detroit", "cron", "cron jobs"]
 title = "Detroit Kubernetes:  Kubernetes Cron Jobs"
-image = "https://cache.chrisshort.net/file/cache-chrisshort-net/detroit-kubernetes-apr-2018-cron-jobs.png"
+image = "/img/posts/detroit-kubernetes-apr-2018-cron-jobs.png"
 aliases = [
     "detroit-kubernetes--kubernetes-cron-jobs"
 ]

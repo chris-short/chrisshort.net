@@ -7,7 +7,7 @@ draft = false
 slug = "linux-ease-of-use"
 tags = ["linux", "Microsoft", "open source"]
 title = "Linux and Ease of Use"
-image = "https://cache.chrisshort.net/file/cache-chrisshort-net/Tux.png"
+image = "/img/posts/Tux.png"
 aliases = [
     "/archives/2005/01/linux-and-ease-of-use.php",
     "linux-and-ease-of-use.php"

@@ -4,7 +4,7 @@ categories = ["Apple"]
 date = 2015-10-06T20:54:19Z
 description = ""
 draft = false
-image = "https://cache.chrisshort.net/file/cache-chrisshort-net/Pulse-Secure-Logo-Medium_optimized.png"
+image = "/img/posts/Pulse-Secure-Logo-Medium_optimized.png"
 slug = "mac-os-x-el-capitan-and-junos-pulse"
 tags = ["junos pulse", "apple keychain", "mac os x", "el capitan", "apple", "macos"]
 title = "Mac OS X El Capitan and Junos Pulse"
@@ -30,5 +30,3 @@ The workaround is to not save passwords in the Junos Pulse client (even in the s
 Hopefully this bug gets fixed very soon.
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr"><a href="https://twitter.com/JuniperNetworks?ref_src=twsrc%5Etfw">@JuniperNetworks</a> If you could fix Pulse bug in OS X El Capitan that&#39;d be great. Your downloads site is down too. <a href="http://t.co/b86KHpRtgG">pic.twitter.com/b86KHpRtgG</a></p>&mdash; Chris Short (@ChrisShort) <a href="https://twitter.com/ChrisShort/status/651417366992146437?ref_src=twsrc%5Etfw">October 6, 2015</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-

@@ -7,7 +7,7 @@ draft = false
 slug = "open-source-101-raleigh-2018"
 tags = ["open source", "diversity", "devops", "talks", "culture"]
 title = "Open Source 101 Raleigh 2018"
-image = "https://cache.chrisshort.net/file/cache-chrisshort-net/jason-chris-open-source-101-2018.jpg"
+image = "/img/posts/jason-chris-open-source-101-2018.jpg"
 imagealt = "Jason Hibbets and Chris Short Talking DevOps at Open Source Raleigh 101"
 imagecap = "Photo Credit: [VM (Vicky) Brasseur](https://www.vmbrasseur.com/services/) (CC-BY)"
 

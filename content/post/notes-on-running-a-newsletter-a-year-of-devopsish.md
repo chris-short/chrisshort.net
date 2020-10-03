@@ -7,7 +7,7 @@ draft = false
 slug = "notes-on-running-a-newsletter-a-year-of-devopsish"
 tags = ["DevOps"] 
 title = "Notes on Running a Newsletter: A Year of DevOps'ish"
-image = "https://cache.chrisshort.net/file/cache-chrisshort-net/devopsish-growth-chart.png"
+image = "/img/posts/devopsish-growth-chart.png"
 
 +++
 

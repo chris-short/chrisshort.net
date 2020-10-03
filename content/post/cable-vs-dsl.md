@@ -7,7 +7,7 @@ draft = false
 slug = "cable-vs-dsl"
 tags = ["internet", "networking"]
 title = "Cable vs. DSL"
-image = "https://cache.chrisshort.net/file/cache-chrisshort-net/network-cables.jpg"
+image = "/img/posts/network-cables.jpg"
 
 +++
 

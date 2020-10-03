@@ -7,7 +7,7 @@ draft = false
 slug = "what-i-learned-in-2017"
 tags = ["philosophy", "life", "kubernetes", "devops", "job", "Michigan"]
 title = "What I Learned in 2017"
-image = "https://cache.chrisshort.net/file/cache-chrisshort-net/2017.jpg"
+image = "/img/posts/2017.jpg"
 
 +++
 

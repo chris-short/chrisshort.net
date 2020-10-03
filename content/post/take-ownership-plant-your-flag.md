@@ -4,7 +4,7 @@ categories = ["Philosophy"]
 date = 2016-06-28T17:11:49Z
 description = ""
 draft = false
-image = "https://cache.chrisshort.net/file/cache-chrisshort-net/plant-flag.jpg"
+image = "/img/posts/plant-flag.jpg"
 slug = "take-ownership-plant-your-flag"
 tags = ["ownership", "philosophy"]
 title = "Take Ownership; \"Plant Your Flag\""
@@ -33,4 +33,4 @@ Take ownership; be decisive. PLEASE, take control of your systems, processes, an
 
 Plant your flag!
 
-
+{{< amazon >}}
