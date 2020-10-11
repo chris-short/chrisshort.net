@@ -9,7 +9,8 @@ slug = "firefox-hits-the-ny-times"
 tags = ["firefox"]
 title = "Firefox Hits the NY Times"
 aliases = [
-    "/firefox-finally-hits-the-ny-times/"
+    "/firefox-finally-hits-the-ny-times/",
+    "/archives/2004/10/firefox-gets-ready-for-ad-splash.php"
 ]
 
 +++
