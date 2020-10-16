@@ -52,7 +52,6 @@ In 2017, I asked for another story for DevOps to tell outside of the automotive 
 
 This means there will be a ripe environment for new, niche buzzwords. We are already getting buzzword fatigue. For example, the definition-fuzzy [serverless](https://www.serverlessops.io/), the difficult nature of [observability](https://www.honeycomb.io/), and the culmination of whatever sidecars, service mesh, and Istio end up getting labeled. In 2019 be extra wary of folks trying to go above and beyond in their marketing to attract sales
 
-
 [Goldratt](https://en.wikipedia.org/wiki/Eliyahu_M._Goldratt), [Deming](https://en.wikipedia.org/wiki/W._Edwards_Deming), etc. are as important now as they ever were. The core tenets of DevOps matter WAY more than whatever the term DevOps means to folks this week. Smaller batches of work, releasing more often, and reducing the cost of change are all good things if they improve business outcomes. The culture changes and retooling needed to make this happen will almost always be worth it to the business.
 
 The good news is some in the DevOps community have adapted to this new world. People like [Nicole Forsgren](http://nicolefv.com/) are charging to the helm armed with data. I learned more about DevOps and how to talk to people about it from [**Accelerate: The Science of Lean Software and DevOps: Building and Scaling High Performing Technology Organizations**](https://amzn.to/2BFXzLU) than a lot of other books I've read. Real world experiences and real outcomes are what's going to win in the long run. Buy the book, read it.
@@ -87,7 +86,7 @@ In 2018, I learned a lot from folks about privilege and how lucky I truly am (de
 
 [![XKCD: Impostor Syndrome](/2018-learnings-2019-expectations/impostor_syndrome.png)](https://xkcd.com/1954/)
 
-[Impostor Syndrome](/cfp/managing-impostor-syndrome/) is something most people struggle with at some point. I might be lucky enough to have less of a challenge than most getting over my confidence issues. But, no one wants to hear from me about impostor syndrome. Make no mistake, impostor syndrome is a real thing and people *really* struggle with it. I would like to help some folks get over their impostor syndrome issues (assuming they're ready to).
+Impostor Syndrome is something most people struggle with at some point. I might be lucky enough to have less of a challenge than most getting over my confidence issues. But, no one wants to hear from me about impostor syndrome. Make no mistake, impostor syndrome is a real thing and people *really* struggle with it. I would like to help some folks get over their impostor syndrome issues (assuming they're ready to).
 
 ### KubeKhan {#KubeKhan}
 

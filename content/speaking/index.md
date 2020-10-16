@@ -192,7 +192,7 @@ YouTube: [DevOpsDays NYC 2018 d2 07 IG Chris Short](https://youtu.be/EImcYoyYId0
 ## All Things Open 2017: DevOps README.md
 
 Date: October 24, 2017  
-Event: [Lightning Talks - Hosted by opensource.com](https://allthingsopen.org/lightning-talks-hosted-by-opensource-com/)  
+Event: All Thing Open - Lightning Talks - Hosted by opensource.com  
 Blog Post: [All Things Open 2017: DevOps README.md](/all-things-open-2017-devops-readme.md/)  
 YouTube: [DevOps README.md - Chris Short](https://youtu.be/Ibnj-YZTypU)
 
