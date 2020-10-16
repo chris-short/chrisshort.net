@@ -18,7 +18,7 @@ The interview was well worth the time it took to coordinate and conduct it. I wo
 
 
 
-This picks up where my [NC State Archives Interview Part 1](https://cache.chrisshort.net/file/cache-chrisshort-net/nc-vets-oral-history-interview-1/) left off. I had just been cleared to return to Langley Air Force Base the days following 9/11 after one of my best friend's funeral.
+This picks up where my [NC State Archives Interview Part 1](/nc-veterans-oral-history-program/nc-vets-oral-history-interview-1/) left off. I had just been cleared to return to Langley Air Force Base the days following 9/11 after one of my best friend's funeral.
 
 <audio controls>
   <source src="https://cache.chrisshort.net/file/cache-chrisshort-net/nc-veterans-oral-history-interview-2.mp3" type="audio/mpeg">
