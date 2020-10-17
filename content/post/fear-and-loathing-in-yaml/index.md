@@ -1,17 +1,18 @@
 +++
 author = "Chris Short"
-categories = ["DevOps", "Kubernetes", "2020"]
+categories = ["DevOps", "Kubernetes", "Open Source", "2020"]
 date = 2020-10-21T07:00:00Z
-description = ""
+description = "Learning YAML might be table stakes, but we still need to strive for a better solution. One that's more human friendly."
 draft = false
 slug = "fear-and-loathing-in-yaml"
-tags = ["YAML", "DevOps", "markup", "Puppet", "CFEngine", "human-readable", "machine-readable", ""]
+tags = ["YAML", "DevOps", "markup", "Puppet", "CFEngine", "Kubernetes", "human-readable", "machine-readable", "code", "YAML spec", "language", "XML", "JSON", "systems", "infrastructure", "yq", "syntax", "git", "open source"]
 title = "Fear and Loathing in YAML"
 image = "/img/posts/pexels-christina-morillo-1181325.jpg"
 
 +++
 
 > This post was originally written as the introduction to [DevOps'ish 188](https://devopsish.com/188/) and deemed worthy to share as its own blog post.
+>  
 > Photo by [Christina Morillo](https://twitter.com/wocintechchat) from [Pexels](https://www.pexels.com/photo/adult-computer-eyewear-female-1181325/)
 
 [We kinda went down a rabbit hole](https://twitter.com/brunoborges/status/1315230767207784450) the other day when I suggested folks check out [*yq*](https://dev.to/vikcodes/yq-a-command-line-tool-that-will-help-you-handle-your-yaml-resources-better-8j9), "The aim of the project is to be the jq or sed of yaml files." First, there's nothing wrong with this project. I like it, I find the tool useful, and that's that. But the great debate started over our lord and savior, [YAML](https://yaml.org/). Yeah, I know, XML vs. JSON vs. YAML vs. TOML vs. the next thing is a tired and old debate.
