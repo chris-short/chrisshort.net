@@ -5,7 +5,7 @@ date = 2020-10-21T07:00:00Z
 description = ""
 draft = false
 slug = "fear-and-loathing-in-yaml"
-tags = []
+tags = ["YAML", "DevOps", "markup", "Puppet", "CFEngine", "human-readable", "machine-readable", ""]
 title = "Fear and Loathing in YAML"
 image = "/img/posts/pexels-christina-morillo-1181325.jpg"
 
@@ -39,5 +39,7 @@ Close to ten years later, I see YAML in the same somewhat offputting light. It's
 I hope that a drop in replacement is possible. The fact that we need tools like [yq](https://github.com/mikefarah/yq/) does show that there is some work to be done when it comes to wrangling the YAML beast at scale. In 2009, when the latest version of the YAML spec was written, no one thought of applying pod security policies to massive Kubernetes deployments spread out across data centers the world over. Something better will come along and I hope adopting it isn't as painful as adopting YAML is.
 
 Remember, comparing things relatively to like something (YAML vs. XML or YAML vs. JSON) completely throws out the beginner's journey. Start from the newb and go forward from there. YAML doesn't. Git doesn't. Incrementally, YAML is better than XML but, it sucks compared to something like HTML or Markdown (which I can teach to execs and children alike). Yes, balancing machine and human readability is hard. The compromises suck, but, at some point, there's enough compute to run a process to take in something 100% human-readable and make it 100% machine-readable. In the same sense that compute has become so readily available that we gzip and encrypt almost all HTTP traffic today, I hope we can do the same with systems configuration languages. Move the complexity from the human to code. Computers are better at remembering things and syntax-semantics than humans could ever hope to be.
+
+There's always a happy medium between human and machine readability. However, I'd much rather see a human first, [80/20](https://en.wikipedia.org/wiki/Pareto_efficiency) approach here where entry-level skills can solve 80% of the markup language's use cases. That's the true nirvana, in my opinion. There will always be complexity and a need to understand the tool you're using. But, YAML gives us an example that there can and should be better things.
 
 {{< amazon >}}
