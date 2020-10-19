@@ -11,7 +11,7 @@ image = "/img/posts/pexels-christina-morillo-1181325.jpg"
 
 +++
 
-> This post was originally written as the introduction to [DevOps'ish 188](https://devopsish.com/188/) and deemed worthy to share as its own blog post.
+> This post was originally written as the introduction to [DevOps'ish 188](https://devopsish.com/188/), has been modified based on feedback, and deemed worthy to share as its own blog post.
 >  
 > Photo by [Christina Morillo](https://twitter.com/wocintechchat) from [Pexels](https://www.pexels.com/photo/adult-computer-eyewear-female-1181325/)
 
@@ -27,7 +27,7 @@ In 2012, I worked at McClatchy Interactive (before the really dark times) and en
 
 But, as you can imagine, even with all the automation in place, it was still a throw over the wall kind of scenario. When Puppet needed system packages installed because of modifications to the codebase (requiring a newer version of Perl, for example) or new services coming online using different OS packages, Puppet now had to do the task CFEngine was doing; systems management. The idea was to build an overarching WebOps team that was cross-functional, spirited, and deeply technical. The first edict laid down to the team by the DevOps lead was, "read the [YAML spec](https://yaml.org/spec/1.2/spec.html)." We were all jumping into the Puppet pool to help integrate our processes and procedures better.
 
-"Ugh..." I thought to myself. "I have to read this horribly written spec." It was not an RFC, which I am fond of reading, but something about the YAML spec made me sad and frustrated. Syntax *really* mattered. Whitespace *really* mattered. My days in the military (which I was a mere two years removed from) taught me that rote memorization and getting humans to see the absence of something were incredibly difficult tasks. I exploited these things in my day-to-day work in the military to defeat US enemies and train US allies on how to be harder targets. I was not too fond of this non-markup language for these reasons.
+"Ugh..." I thought to myself. "I have to read this horribly written spec." It was not an RFC, which I am fond of reading, but something about the YAML spec made me sad and frustrated. Syntax *really* mattered. Whitespace *really* mattered. My experiences have taught me that rote memorization and getting humans to see the absence of something were incredibly difficult tasks. These are things that most hackers take advantage of when infiltrating systems. Humans aren't as good as computers at finding the absence of something or memorizing things. I was not too fond of this non-markup language for these reasons.
 
 It irked me that the YAML creators laid out goal #1 as "YAML is easily readable by humans." It is human-readable because you see the human-readable words in the scalars and structures, but there was something off-putting about YAML. It was a markup language claiming not to be a markup language. I held the firm belief that markup languages are supposed to make things simpler for humans, not harder (XML is the antithesis of markup languages, in my opinion).
 
