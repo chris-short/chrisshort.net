@@ -40,7 +40,7 @@ Source: [rak8s](https://github.com/rak8s/)
 
 {{< youtube Ibnj-YZTypU >}}
 
-Source: [DevOps-README.md](https://github.com/chris-short/devopsreadme.xyz)
+Source: [DevOps-README.md](https://github.com/chris-short/devopsreadme.xyz)  
 Analytics: <https://app.usefathom.com/share/ilzvzsfr/devopsreadme.xyz>
 
 ## DevOps Newsletters
