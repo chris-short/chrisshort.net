@@ -7,6 +7,9 @@ draft = true
 slug = "burnout++"
 tags = ["burnout"]
 title = "burnout++ (What Happens When Burnout Occurs with Other Problems)"
+aliases = [
+    "/cfp/burnout++/"
+]
 
 +++
 

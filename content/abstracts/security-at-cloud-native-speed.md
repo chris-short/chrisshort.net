@@ -7,6 +7,9 @@ draft = false
 slug = "security-at-cloud-native-speed"
 tags = ["security", "cloud native", "cfp"]
 title = "Security at Cloud Native Speed"
+aliases =[
+    "/cfp/security-at-cloud-native-speed/"
+]
 
 +++
 

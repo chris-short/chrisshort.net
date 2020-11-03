@@ -7,6 +7,9 @@ draft = false
 slug = "go-to-the-rescue-saving-devops-from-tls-turmoil"
 tags = ["open source", "devops", "go", "golang", "security", "cfp"]
 title = "Go to the rescue: Saving DevOps from TLS turmoil"
+aliases = [
+    "/cfp/go-to-the-rescue-saving-devops-from-tls-turmoil/"
+]
 
 +++
 

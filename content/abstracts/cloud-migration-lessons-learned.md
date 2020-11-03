@@ -7,6 +7,9 @@ draft = false
 slug = "cloud-migration-lessons-learned"
 tags = ["devops", "cfp", "cloud"]
 title = "Lessons Learned from Cloud Migrations: Planning is Everything"
+aliases = [
+    "/cfp/cloud-migration-lessons-learned/"
+]
 
 +++
 

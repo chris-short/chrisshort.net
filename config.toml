@@ -109,8 +109,8 @@ paginate = 5
 
 [[menu.main]]
     parent = "speaking"
-    name = "CFPs"
-    url = "/cfp/"
+    name = "Abstracts"
+    url = "/abstracts/"
     weight = 898
 
 [[menu.main]]
