@@ -15,6 +15,13 @@ aliases = [
 
 {{< sib >}}
 
+## CNCF Eastern Canadian Meetup: October 2020
+
+Date: 2020-10-23  
+Source: [CNCF Eastern Canadian Meetup: October 2020](https://youtu.be/l_EEZV1P15U?t=1233)  
+
+{{< youtube l_EEZV1P15U >}}
+
 ## Red Hat® Summit Virtual Experience: Open House - Building Kubernetes Operators with Ansible
 
 Date: 2020-07-15  
