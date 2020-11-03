@@ -7,8 +7,12 @@ draft = false
 slug = "devops-101"
 tags = ["devops", "job", "career", "culture", "the three ways", "people", "process", "tools", "cfp"]
 title = "DevOps 101"
-
+aliases = [
+    "/cfp/devops-101/"
+]
 +++
+
+*This talk has been deprecated and remains for reference*
 
 # Abstract
 

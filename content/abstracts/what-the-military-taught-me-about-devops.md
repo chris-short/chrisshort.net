@@ -7,6 +7,9 @@ draft = false
 slug = "what-the-military-taught-me-about-devops"
 tags = ["devops", "culture", "career", "job", "cfp"]
 title = "What the Military Taught Me About DevOps"
+aliases = [
+    "/cfp/what-the-military-taught-me-about-devops/"
+]
 
 +++
 

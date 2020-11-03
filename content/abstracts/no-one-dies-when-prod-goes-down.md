@@ -8,6 +8,7 @@ slug = "no-one-dies-when-prod-goes-down"
 tags = ["devops", "culture", "cfp"]
 title = "DevOps is Not War: No One Dies When Prod Goes Down"
 aliases =[
+    "/cfp/no-one-dies-when-prod-goes-down/",
     "devops-is-not-war-no-one-dies-when-prod-goes-down"
 ]
 

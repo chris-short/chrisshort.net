@@ -7,6 +7,9 @@ draft = true
 slug = "five-laws-aspiring-devops-folks"
 tags = ["devops", "job", "career", "culture", "technical debt", "rtfm", "cfp"]
 title = "Five Laws for Aspiring DevOps Folks"
+aliases = [
+    "/cfp/five-laws-aspiring-devops-folks/"
+]
 
 +++
 
