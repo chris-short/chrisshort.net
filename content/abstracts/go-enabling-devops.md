@@ -7,6 +7,9 @@ draft = false
 slug = "go-enabling-devops"
 tags = ["open source", "devops", "go", "golang", "security", "cfp"]
 title = "Go: Enabling DevOps to Go Faster"
+aliases = [
+    "/cfp/go-enabling-devops/"
+]
 
 +++
 

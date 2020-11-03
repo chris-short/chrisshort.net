@@ -7,6 +7,9 @@ draft = true
 slug = "teaching-people-life-lessons-aka-devops"
 tags = ["devops", "culture", "cfp"]
 title = "Teaching People Life Lessons aka DevOps"
+aliases =[
+    "/cfp/teaching-people-life-lessons-aka-devops/"
+]
 
 +++
 

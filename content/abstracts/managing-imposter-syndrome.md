@@ -7,6 +7,9 @@ draft = true
 slug = "managing-impostor-syndrome"
 tags = ["devops", "culture", "career", "job", "impostor syndrome", "continuous improvement", "cfp"]
 title = "Managing Imposter Syndrome"
+aliases = [
+    "/cfp/managing-impostor-syndrome/"
+]
 
 +++
 

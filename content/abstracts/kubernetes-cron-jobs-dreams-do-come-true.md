@@ -7,6 +7,9 @@ draft = false
 slug = "kubernetes-cron-jobs-dreams-do-come-true"
 tags = ["devops", "kubernetes", "cfp"]
 title = "Kubernetes Cron Jobs: Dreams Really Do Come True"
+aliases = [
+    "/cfp/kubernetes-cron-jobs-dreams-do-come-true/"
+]
 
 +++
 

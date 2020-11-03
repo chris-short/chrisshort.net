@@ -7,6 +7,9 @@ draft = true
 slug = "letting-perfect-defeat-good"
 tags = ["devops", "culture", "thucydides", "thucydides trap", "cfp"]
 title = "Letting Perfection Defeat Good"
+aliases = [
+    "/cfp/letting-perfect-defeat-good/"
+]
 
 +++
 
