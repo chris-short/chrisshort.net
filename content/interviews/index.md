@@ -14,14 +14,14 @@ title = "Interviews"
 Date: 2020-10-12  
 Source: [CI/CD with Chris Short (2/2)](https://youtu.be/gvCNHeSnglY)
 
-{{ youtube gvCNHeSnglY }}
+{{< youtube gvCNHeSnglY >}}
 
 ## Roaring Elephant: CI/CD with Chris Short (1/2)
 
 Date: 2020-10-12  
 Source: [CI/CD with Chris Short (1/2)](https://youtu.be/3dGESuSggW0)
 
-{{ youtube 3dGESuSggW0 }}
+{{< youtube 3dGESuSggW0 >}}
 
 ## The CloudCast: Learning Streaming from the Experts
 
