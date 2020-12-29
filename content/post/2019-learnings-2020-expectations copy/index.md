@@ -5,7 +5,7 @@ date = 2020-12-30T07:00:00Z
 description = "Chris Short looks back at 2020 and looks ahead to 2021."
 draft = false
 slug = "2020-learnings-2021-expectations"
-tags = []
+tags = ["developer", "live streaming", "Kubernetes", "cloud native", "GitOps", "DevOps", "ARM", "data", "perfection", "speaking", "developer experience", "platform", "events", "global pandemic", "assumptions", "Edge", "5G", "infrastructure", "marketing", "Kubernetes release team", "chronic pain", "disability", "disabled", "release", "CFP", "open source", "exponential advancement", "automation", "systems", "OpenShift.tv", "software", "code", "joy", "Ford", "Detroit", "distributed systems", "management", "Ansible", "Kat Cosgrove", "ArgoCD", "Flux", "Weaveworks", "DevOps'ish", "conferences", "public speaking", "Christian Hernandez"]
 title = "2020 Learnings, 2021 Expectations"
 image = "/2020-learnings-2021-expectations/hope.jpg"
 
