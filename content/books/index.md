@@ -11,6 +11,14 @@ tags = ["books"]
 
 > If you'd like to talk to me about writing for your upcoming project please send me a DM on Twitter ([@ChrisShort](https://twitter.com/ChrisShort)) or [e-mail](mailto:chris@chrisshort.net). Thanks!
 
+## 97 Things Every Cloud Engineer Should Know: Collective Wisdom from the Experts
+
+> If you create, manage, operate, or configure systems running in the cloud, you're a cloud engineer--even if you work as a system administrator, software developer, data scientist, or site reliability engineer. With this book, professionals from around the world provide valuable insight into today's cloud engineering role.
+>
+> These concise articles explore the entire cloud computing experience, including fundamentals, architecture, and migration. You'll delve into security and compliance, operations and reliability, and software development. And examine networking, organizational culture, and more. You're sure to find 1, 2, or 97 things that inspire you to dig deeper and expand your own career.
+
+[![97 Things Every Cloud Engineer Should Know: Collective Wisdom from the Experts](/books/97-things-every-cloud-engineer-should-know.jpg)](https://amzn.to/3n3g8iU)
+
 ## Ansible Automation for SysAdmins: A quickstart guide to Ansible
 
 The Ansible Automation for SysAdmins guide is a primer to help you get started using Ansible to give you a better understanding of the capabilities and show you how to automate everyday sysadmin tasks.
