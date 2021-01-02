@@ -85,6 +85,11 @@ paginate = 5
 #    weight = 25
 
 [[menu.main]]
+    name = "Sponsor"
+    url = "https://github.com/sponsors/chris-short"
+    weight = 29
+
+[[menu.main]]
     identifier = "speaking"
     name = "Speaking"
     weight = 888
