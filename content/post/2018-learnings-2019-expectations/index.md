@@ -56,7 +56,7 @@ This means there will be a ripe environment for new, niche buzzwords. We are alr
 
 The good news is some in the DevOps community have adapted to this new world. People like [Nicole Forsgren](http://nicolefv.com/) are charging to the helm armed with data. I learned more about DevOps and how to talk to people about it from [**Accelerate: The Science of Lean Software and DevOps: Building and Scaling High Performing Technology Organizations**](https://amzn.to/2BFXzLU) than a lot of other books I've read. Real world experiences and real outcomes are what's going to win in the long run. Buy the book, read it.
 
-*Note: chrisshort.net may earn compensation for sales from links on this post through [affiliate programs](/terms/).*
+*Note: chrisshort.net may earn compensation for sales from links on this post through [affiliate programs](/terms#affiliate-link-policy).*
 
 ### A Note on Site Reliability Engineering
 

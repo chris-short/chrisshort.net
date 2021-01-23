@@ -53,7 +53,7 @@ Some articles on chrisshort.net contain links to products available from online 
 
 The same rigor and standards of objectivity are applied to these articles as is the rest of chrisshort.net. In most cases, posts with affiliate links will also include an individual disclaimer located near the link or "buy" button for that product.
 
-*Note: chrisshort.net may earn compensation for sales from links on this post through [affiliate programs](/terms/).*
+*Note: chrisshort.net may earn compensation for sales from links on this post through [affiliate programs](/terms#affiliate-link-policy).*
 
 ## Modifications
 

@@ -91,7 +91,7 @@ UPDATE 10 JULY 2005: I have a few more tidbits of information for those that sti
 
 Discoveries of the Inquiring Mind can be found on [Amazon](https://amzn.to/2FxTcHW)
 
-*Note: chrisshort.net may earn compensation for sales from links on this post through [affiliate programs](/terms/).*
+*Note: chrisshort.net may earn compensation for sales from links on this post through [affiliate programs](/terms#affiliate-link-policy).*
 
 2) Also, a lot of people have been making comments about Derwyn Lackey; allow me to put a face with the name:
 
