@@ -19,9 +19,15 @@ I've wanted to write this article since last October. But, things hadn't stabili
 
 *Note: chrisshort.net may earn compensation for sales from links on this post through [affiliate programs](/terms#affiliate-link-policy).*
 
-I'll explain the reasoning for each purchase and any accessories that I found necessary as well. I will also mention neat bonuses that I added to make things more functional.
+I'll explain the reasoning for each purchase and any accessories that I found necessary as well. I will also mention neat bonuses that I added to make things more functional. A friend of mine at Red Hat and in the Kubernetes community reminded me yesterday, "Don't bury the lede" so we'll start with the number one question I get the most.
 
-Let's start from the foundation up!
+## Camera
+
+In the mid-00s, I picked up photography as a hobby. I learned a lot about photography from my good friend [Jonathan Jackson](https://www.mountainmultimedia.net/) too. Hence, I've always been a fan of external cameras for home/office use. I picked up a [Logitech C920S HD Pro Webcam](https://amzn.to/3a1xYhy) in early February. That worked very well until a show I did featured someone with an amazing DSLR setup. I looked like I had a tinker toy in comparison and I wanted to up my game.
+
+In August, I set off to eBay to pick up a used Sony A6000. With some advice from [Jeff Geerling](https://www.jeffgeerling.com/), I picked up the things that made the best use of that A6000 frame. First was the [Elgato Cam Link 4K](https://amzn.to/3iGvxoG). Trust me on this one, don't skimp here. I tried a generic version of one of these (because there was a shortage of these in 2020) and it was an immediate fail. I lucked into one at Best Buy when I went in to get something else. [They're cheaper now](https://camelcamelcamel.com/product/B07K3FN5MR) than they were then.
+
+The next and potential most important
 
 ## Desk
 
