@@ -2,10 +2,10 @@
 author = "Chris Short"
 categories = ["Life", "Hardware", "Reviews"]
 date = 2021-01-31T16:30:00Z
-description = ""
+description = "Chris Short's desk setup for live streaming circa January 2021"
 draft = false
 slug = "desk-setup-jan-2021"
-tags = []
+tags = ["desk", "mic", "camera", "Focusrite Scarlett", "Shure", "Fully Jarvis", "lighting", "monopods", "Sigma", "Logitech", "live streaming", "mic arm", "Heil", ""]
 title = "Desk Setup, January 2021"
 image = "/img/posts/chris-short-desk-setup-jan-2021.jpg"
 
