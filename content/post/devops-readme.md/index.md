@@ -16,7 +16,7 @@ After [DevOpsDays Raleigh 2017](https://www.devopsdays.org/events/2017-raleigh/w
 
 Slides used at the genesis of this list are [available here](https://cache.chrisshort.net/file/cache-chrisshort-net/pdf/DevOps%20README.md.pdf).
 
-*Note: chrisshort.net may earn compensation for sales from links on this post through [affiliate programs](/terms/).*
+*Note: chrisshort.net may earn compensation for sales from links on this post through [affiliate programs](/terms#affiliate-link-policy).*
 
 This is available as a standalone website at <devopsreadme.xyz>
 

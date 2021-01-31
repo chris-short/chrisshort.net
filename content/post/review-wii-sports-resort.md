@@ -12,7 +12,7 @@ title = "Review: Wii Sports Resort"
 
 I have to say that I was not too enthusiastic about [Wii Sports Resort](https://amzn.to/2Zb2oGO) when its release was announced. What intrigued me, obviously, was the addition of the Wii MotionPlus functionality. Wii Sports Resort is essentially Wii Sports 2 with a resort/spa theme.
 
-*Note: chrisshort.net may earn compensation for sales from links on this post through [affiliate programs](/terms/).*
+*Note: chrisshort.net may earn compensation for sales from links on this post through [affiliate programs](/terms#affiliate-link-policy).*
 
 {{< sib >}}
 

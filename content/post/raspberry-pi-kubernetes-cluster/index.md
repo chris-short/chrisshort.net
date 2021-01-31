@@ -39,7 +39,7 @@ After having lunch one day in Ann Arbor with Ed Vielmetti of [Packet](https://ww
 * One [AmazonBasics 6-Port USB Wall Charger (60-Watt) - Black](https://amzn.to/2z43dGP)
 * One [GeauxRobot Raspberry Pi 3 Model B 6-layer Dog Bone Stack Clear Case Box Enclosure also for Pi 2B B+ A+ B A](https://amzn.to/2DxXb4N)
 
-*Note: chrisshort.net may earn compensation for sales from links on this post through [affiliate programs](/terms/).*
+*Note: chrisshort.net may earn compensation for sales from links on this post through [affiliate programs](/terms#affiliate-link-policy).*
 
 I also ordered [USB wifi adapters](https://amzn.to/2Bp0qdj) but that was a mistake given the performance of the Raspberry Pi 3 onboard wifi. It was time to assemble and test everything. While copying [Raspbian Lite](https://www.raspberrypi.org/downloads/raspbian/) to six microSD cards I began putting all the pieces together. The GeauxRobot case assembly is not intuitive. After a few reads of the instructions, I realized they looked a lot like a sandwich or lasagna recipe. The bottom and top layers were a little different but everything in the middle fit together nicely. Once the Raspberry Pis were racked and microSD cards were inserted I tested each one to make sure it would boot. Raspbian Lite booted without issue on all six boards. I did the bare minimum OS configuration on each system then I was ready to go. It was time to install Kubernetes.
 
