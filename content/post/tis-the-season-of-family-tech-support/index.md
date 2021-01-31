@@ -38,7 +38,7 @@ Since both homes are going with Comcast it made fiscal sense to buy a modem outr
 
 I saw an [Arris SURFboard SB6190](https://amzn.to/2DOhzzt) is compatible. The price on Amazon was better than Target and both homes wanted it this week. Target will happily price match Amazon and give Red Card customers 5% off on top of that. Chances are your local big box store carries a few modems for use with your local providers. They'll probably all price match each other too. Shop smartly.
 
-*Note: chrisshort.net may earn compensation for sales from links on this post through [affiliate programs](/terms/).*
+*Note: chrisshort.net may earn compensation for sales from links on this post through [affiliate programs](/terms#affiliate-link-policy).*
 
 ## Router and WiFi Access Points
 
