@@ -25,6 +25,8 @@ I'll explain the reasoning for each purchase and any accessories that I found ne
 
 In the mid-00s, I picked up photography as a hobby. I learned a lot about photography from my good friend [Jonathan Jackson](https://www.mountainmultimedia.net/) too. Hence, I've always been a fan of external cameras for home/office use. I picked up a [Logitech C920S HD Pro Webcam](https://amzn.to/3a1xYhy) in early February. That worked very well until a show I did featured someone with a fantastic DSLR setup. I looked like I had a tinker toy in comparison and I wanted to up my game.
 
+{{< carbon >}}
+
 In August, I set off to eBay to pick up a used Sony A6000. With some advice from [Jeff Geerling](https://www.jeffgeerling.com/), I picked up the things that made the best use of that A6000 frame. First was the [Sigma 30mm lens](https://amzn.to/3oBiq9J) (if you're in tight quarters, get the [Sigma 16mm lens](https://amzn.to/3r8BGwK)). This provides an excellent, close shot with all the [bokeh](https://en.wikipedia.org/wiki/Bokeh) you could ever ask for.
 
 Next up the [Elgato Cam Link 4K](https://amzn.to/3iGvxoG). Trust me on this one, don't skimp here. I tried a generic version of one of these (because there was a shortage of these in 2020), it was an immediate fail. I lucked into one at Best Buy when I went in to get something else. [They're cheaper now](https://camelcamelcamel.com/product/B07K3FN5MR) than they were then thankfully. Also, don't forget the [battery replacement](https://amzn.to/3cvPAVJ) and [Micro HDMI to HDMI Cable](https://amzn.to/3r6dRWl). These all put together to make the camera an absolute live streaming tank of a camera.
@@ -36,6 +38,8 @@ Lighting is imperative to a quality picture. There is no point in having that su
 ## Audio
 
 After doing an interview with Kelsey Hightower in late 2019, where he was testing out his [Shure SM7B Cardioid Dynamic Microphone](https://amzn.to/36sF2Tk), I decided to get one a few months later. This is a studio-grade microphone and probably overkill for almost all situations. But, nothing else came close to providing as close to real sound and quality as this mic. If my voice was a key part of my work duties, I wanted the best possible experience to get my voice out to the world. There are many more options for home use and live streaming from Shure these days. You can't really go wrong with Shure.
+
+{{< sib >}}
 
 But, the Shure SM7B being a studio mic, uses XLR interfaces. This is awesome, but you can’t plug that into your laptop. To tackle this task, I needed a Focusrite Scarlett device. I ended up getting the [Focusrite Scarlett Solo](https://amzn.to/36scwl2), but I’d probably have gotten a [Focusrite Scarlett 2i2](https://amzn.to/3crbKZf) as it has more capabilities if I had it all to do over again. The need to have backups for everything might mean I do get the 2i2 at some point.
 
