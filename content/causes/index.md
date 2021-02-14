@@ -43,7 +43,19 @@ Website: [Internet Archive](https://archive.org/)
 
 > Internet Archive is a non-profit library of millions of free books, movies, software, music, websites, and more.
 
-## Pin-Ups for Vets
+## Global Zero
+
+Website: [Global Zero](https://www.globalzero.org/)
+
+> Nuclear weapons threaten every city on the planet with staggering humanitarian, environmental and economic loss. So long as they exist we will never be safe.
+> 
+> 30 years ago, there were 70,300 nuclear weapons on the planet. Today, an estimated 13,410 nuclear weapons remain. By 2030, we could remove all nuclear weapons from military service and consign them to the dustbin of history.
+> 
+> Working with political leaders, senior military commanders and national security experts from across the political spectrum and in every nuclear-armed region of the world, we are working to achieve historic Global Zero Accords that would ensure that all nuclear weapons are permanently dismantled.
+
+## Previously Supported Charities
+
+### Pin-Ups for Vets
 
 Website: [Pin-Ups For Vets](https://www.pinupsforvets.com/)
 
@@ -55,7 +67,7 @@ Website: [Pin-Ups For Vets](https://www.pinupsforvets.com/)
 > 2. The calendars would be delivered as gifts to our ill and injured Veterans with messages of appreciation from the donors.
 > 3. The calendars would be sent to our deployed troops to help boost morale and to let them know that Americans back home are thinking of them.
 
-## K2 Challenge via The Cloudcast
+### K2 Challenge via The Cloudcast
 
 Website: [The Cloudcast](http://www.thecloudcast.net/)
 
