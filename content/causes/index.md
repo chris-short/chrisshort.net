@@ -53,6 +53,12 @@ Website: [Global Zero](https://www.globalzero.org/)
 > 
 > Working with political leaders, senior military commanders and national security experts from across the political spectrum and in every nuclear-armed region of the world, we are working to achieve historic Global Zero Accords that would ensure that all nuclear weapons are permanently dismantled.
 
+## National Center for Transgender Equality
+
+Website: [National Center for Transgender Equality](https://transequality.org/)
+
+> The National Center for Transgender Equality advocates to change policies and society to increase understanding and acceptance of transgender people. In the nation’s capital and throughout the country, NCTE works to replace disrespect, discrimination, and violence with empathy, opportunity, and justice.
+
 ## Previously Supported Charities
 
 ### Pin-Ups for Vets
