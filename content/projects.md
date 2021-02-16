@@ -24,15 +24,9 @@ Newsletter: [DevOps'ish](https://devopsish.com)
 Source: <https://github.com/chris-short/devopsish.com>  
 Analytics: <https://app.usefathom.com/share/acmuyzfw/devopsish.com>
 
-## rak8s
+## Kubernetes README
 
-*Stand up a Raspberry Pi based Kubernetes cluster with Ansible*
-
-ARM is going to be the datacenter and home computing platform of the future. It makes a lot of sense to start getting used to working in its unique environment.
-
-Also, it's cheaper than a year of GKE. Plus, why not run Kubernetes in your home?
-
-Source: [rak8s](https://github.com/rak8s/)
+[Kubernetes README](https://kubernetesreadme.com/): What books 📚 to read to learn more about Kubernetes.
 
 ## DevOps README.md
 
@@ -94,3 +88,13 @@ Analytics: <https://app.usefathom.com/share/pvppbtem/padbury.app>
 A small Go app designed specifically to help troubleshoot certificate chains. A detailed use case that prompted the creation of this code was [featured on opensource.com](https://opensource.com/article/17/4/testing-certificate-chains-34-line-go-program). I highly recommend reading it.
 
 Source: [ssl-tester](https://github.com/chris-short/ssl-tester)
+
+## rak8s
+
+*Stand up a Raspberry Pi based Kubernetes cluster with Ansible*
+
+ARM is going to be the datacenter and home computing platform of the future. It makes a lot of sense to start getting used to working in its unique environment.
+
+Also, it's cheaper than a year of GKE. Plus, why not run Kubernetes in your home?
+
+Source: [rak8s](https://github.com/rak8s/)
