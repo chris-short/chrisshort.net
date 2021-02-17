@@ -28,6 +28,9 @@ Analytics: <https://app.usefathom.com/share/acmuyzfw/devopsish.com>
 
 [Kubernetes README](https://kubernetesreadme.com/): What books 📚 to read to learn more about Kubernetes.
 
+Source: <https://github.com/chris-short/kubernetesreadme.com>
+Analytics: <https://app.usefathom.com/share/zoibslyn/kubernetesreadme.com>
+
 ## DevOps README.md
 
 [DevOps README.md](https://devopsreadme.xyz/): What books 📚 to read to learn more about DevOps.
