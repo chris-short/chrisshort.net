@@ -16,7 +16,7 @@ I have recently been added on to a PagerDuty rotation. I am sure numerous on-cal
 * Can I add my on-call rotation to my Google Calendar or Mac Calendar app?
 * What number is going to call me in the middle of the night to wake me up?
 
-{{< sib >}}
+{{< eo >}}
 
 The answer to both those questions is an astounding, "YES!" PagerDuty provides iCalendar files and WebCal feeds for each schedule. Go to your On-Call Schedules page and by each schedule you will find an **Export** menu where you export yours or everyone's schedule in your preferred format.
 

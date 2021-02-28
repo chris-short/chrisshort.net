@@ -13,7 +13,7 @@ aliases = [
 
 {{< speaker >}}
 
-{{< sib >}}
+{{< eo >}}
 
 ## CNCF Eastern Canadian Meetup: October 2020
 

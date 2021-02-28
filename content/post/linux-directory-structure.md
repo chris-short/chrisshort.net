@@ -17,7 +17,7 @@ aliases = [
 
 ![Tux Directory Tree](https://cache.chrisshort.net/file/cache-chrisshort-net/tux-tree.gif) For more information about the Linux directory structure see the [Filesystem Hierarchy Standard (FHS)](http://www.pathname.com/fhs/) which is part of the [Linux Standard Base (LSB)](http://www.linuxbase.org/) which is a workgroup of the [Free Standards Group](http://www.freestandards.org/).
 
-{{< sib >}}
+{{< eo >}}
 
 `/` **The root directory** (not to be concerned with the root account) is similar to a drive letter in Windows (C:\, D:\, etc.) except that in the Linux directory structure there is only one root directory and everything falls under it (including other filesystems and partitions). The root directory is the directory that contains all other directories. When a directory structure is displayed as a tree, the root directory is at the top. Typically no files or programs are stored directly under root.
 

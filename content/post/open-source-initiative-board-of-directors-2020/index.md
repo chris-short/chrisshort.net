@@ -46,4 +46,4 @@ Let's face it; if this platform got more specific, I could get locked into deliv
 
 If you would like to read about my journey through life in open source, [please review my candidate profile](https://wiki.opensource.org/bin/Main/OSI+Board+of+Directors/Board+Member+Elections/2020+Individual+and+Affiliate+Elections/Short2020).
 
-{{< sib >}}
+{{< eo >}}

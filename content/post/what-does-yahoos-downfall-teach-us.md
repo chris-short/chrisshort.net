@@ -13,7 +13,7 @@ title = "What Does Yahoo's Downfall Teach Us?"
 
 If you have not heard, [Verizon announced they are going to acquire Yahoo](https://www.verizon.com/about/news/verizon-acquire-yahoos-operating-business). This ends a very long, drawn out bidding process in what has been the very long death of Yahoo. Yahoo, the brand, probably will not disappear in this deal (much like how AOL is still a brand after its acquisition by Verizon). AOL and Yahoo have benefitted greatly from their once high times. AOL's story is well known (technological advances eroding their user base). But Yahoo's downfall has taken significantly longer. The end of Yahoo was pretty much inevitable the day they said they could no longer compete with Google ([back in the early 2000s](http://www.cnet.com/news/yahoo-sheds-inktomi-for-new-search-technology/)). What can we learn from Yahoo's downfall?
 
-{{< sib >}}
+{{< eo >}}
 
 ## Features Over Content
 
