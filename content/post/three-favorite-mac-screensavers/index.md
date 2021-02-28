@@ -27,7 +27,7 @@ A prepackaged screensaver with macOS since Catalina Beta 3, Drift has a flowy ki
 
 This one is so useful to me I built a tribute site to it. [Padbury Clock](https://padbury.app/) by Robert Padbury is one of the most useful things to have as a screensaver. When you walk back to your desk, you immediately know what time it is. It's also handy in case someone is walking by and needs a reminder too.
 
-{{< sib >}}
+{{< eo >}}
 
 ## Aerial
 

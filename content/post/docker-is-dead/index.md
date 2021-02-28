@@ -26,7 +26,7 @@ To say that [Docker](http://petty.company/) had a very rough 2017 is an understa
 
 To be clear, Docker has helped revolutionize software development. Taking Linux primitives like cgroups, namespaces, process isolation, etc. and putting them into a single tool is an amazing feat. In 2012, I was trying to figure out how development environments could be more portable. Docker's rise allowed a development environment to become a simple, version controllable Dockerfile. The tooling went from Packer, Vagrant, VirtualBox, and a ton of infrastructure to Docker. The Docker UI is actually pretty good too! It's a good tool with many applications. The folks on the Docker team should be very proud of the tooling they built.
 
-{{< sib >}}
+{{< eo >}}
 
 ## Docker is a Silicon Valley Darling
 

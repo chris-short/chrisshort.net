@@ -24,4 +24,4 @@ CentOS is more of a clone than a downstream of RHEL, but it could be simplified 
 
 The expectation with upstream work is that it's community governed, managed, and supported. People build downstream products to sell by adding value to them like services or support. Now, open source vs. open core is a topic for another day.
 
-{{< sib >}}
+{{< eo >}}

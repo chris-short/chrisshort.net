@@ -139,4 +139,4 @@ Results-producing, passionate DevOps professional turned Technical Marketer and 
 
 Global Knowledge Network Security I & II, UNIX/LINUX Security Course, Defense Information Systems Agency CONUS Telecom Seminar, Information Technology Infrastructure Library (ITIL) Foundation Workshop, USAF Communications-Computer Systems Control Apprentice & Craftsman Courses, REDCOM Theory and Application Training Course in Distributed Digital Switching, Microsoft Learning Course 5927A: Microsoft Office Project 2007, Managing Projects, RHCSA Rapid Track Course, Enterasys Switching NMS, Puppet Fundamentals Training, Pentaho Business Analytics User Console Training, Pragmatic Marketing Certified Level II (PMC-II; Foundations and Focus), Automation with Ansible I (DO407)
 
-{{< sib >}}
+{{< eo >}}

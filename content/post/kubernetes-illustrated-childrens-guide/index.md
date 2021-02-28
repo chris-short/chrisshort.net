@@ -41,6 +41,6 @@ When I first got a copy of The Illustrated Children's Guide to Kubernetes at an 
 
 Head over to [phippy.io](http://phippy.io/) for shenanigans with Phippy and Friends.
 
-{{< sib >}}
+{{< eo >}}
 
 {{< amazon >}}

@@ -10,7 +10,7 @@ title = "Newsletter"
 
 [**DevOps'ish**](https://devopsish.com/) is a weekly newsletter covering DevOps, Cloud Native, Open Source, and the 'ish in between by open source contributor, DevOps veteran, and CNCF Ambassador Chris Short.
 
-{{< sib >}}
+{{< eo >}}
 
 #### Grateful to have readers from across the globe and companies such as
 
