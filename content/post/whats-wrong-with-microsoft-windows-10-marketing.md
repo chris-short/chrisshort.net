@@ -32,4 +32,4 @@ I'm all for open hardware and being able to install whatever operating system yo
 
 I wish Microsoft at least thought about their advertising for those of us that are the IT departments for some of the most trying customers, ever... Our families.
 
-{{< sib >}}
+{{< eo >}}

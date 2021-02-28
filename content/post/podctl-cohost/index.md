@@ -29,4 +29,4 @@ Brian's focus will be Red Hat OpenShift and Red Hat's service offerings. My focu
 
 Send me an e-mail or DM if you want to talk about what you're doing with containers, Kubernetes, or cloud native tooling!
 
-{{< sib >}}
+{{< eo >}}

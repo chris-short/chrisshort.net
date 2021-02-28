@@ -16,7 +16,7 @@ aliases = [
 
 A former co-worker and now friend used to have a tagline, “Everyday is a school day.” I remind myself of this fact nearly every time I learn something new. Overall, 2018 was great for me professionally. I'd like to share some things I picked up on this most recent journey around the sun we call 2018. I'll make some predictions about 2019 in the process too.
 
-{{< sib >}}
+{{< eo >}}
 
 ## Kubernetes Will Get Easier
 

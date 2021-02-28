@@ -17,7 +17,7 @@ aliases = [
 
 I had an amazing experience at DevOpsDays NYC 2018. The organizers put together an all-star lineup. You can tell this meant a lot to the organizers by the quality of the event itself; it was top notch. Being a part of the [DevOps](https://devopsish.com) community is absolutely amazing. I am always thrilled to get invites to DevOpsDays events; they're so well done.
 
-{{< sib >}}
+{{< eo >}}
 
 I was able to speak about Go and how I used it to save my DevOps ass at Solarwinds MSP. My team of merry DevOps'ers inherited an application. A third-party built the app a few years before we inherited it. The app had been in maintenance mode for quite some time. Before we could do any re-engineering work, we had to resolve a critical issue. The certificates were about to expire!
 
