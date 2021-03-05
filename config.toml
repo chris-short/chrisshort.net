@@ -85,8 +85,8 @@ paginate = 5
 #    weight = 25
 
 [[menu.main]]
-    name = "Sponsor"
-    url = "https://github.com/sponsors/chris-short"
+    name = "Newsletter"
+    url = "https://devopsish.com"
     weight = 29
 
 [[menu.main]]
