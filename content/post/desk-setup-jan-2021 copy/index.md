@@ -3,8 +3,8 @@ author = "Chris Short"
 categories = ["Life", "Kubernetes", "Analysts", "Cloud"]
 date = 2021-03-11T07:07:00Z
 description = "Chris Short is accidentally named Red Hat CEO but also a Key Opinion Leader and  Kubernetes Influencer"
-draft = true
-tags = ["Kubernetes", "Onalytica"]
+draft = false
+tags = ["Kubernetes", "Onalytica", "report", "Red Hat", "influencer"]
 title = "Named Key Opinion Leader, Kubernetes Influencer, and (accidentally) Red Hat CEO by Onalytica"
 image = "/img/posts/whos-who-in-hybrid-cloud.webp"
 
