@@ -23,13 +23,17 @@ Website: [Open Source Initiative](https://opensource.org/)
 
 > We are the stewards of the Open Source Definition (OSD) and the community-recognized body for reviewing and approving licenses as OSD-conformant.
 
-## Free Software Foundation
+## Software Freedom Conservancy
 
-Once they ditched Stallman they were deserving of my support even though they're a little more zealous than I am about open source.
+Website: [Software Freedom Conservancy](https://sfconservancy.org/)
 
-Website: [Free Software Foundation](https://www.fsf.org/)
+> Software Freedom Conservancy is a not-for-profit charity that helps promote, improve, develop, and defend Free, Libre, and Open Source Software (FLOSS) projects. Conservancy provides a non-profit home and infrastructure for FLOSS projects. This allows FLOSS developers to focus on what they do best — writing and improving FLOSS for the general public — while Conservancy takes care of the projects' needs that do not relate directly to software development and documentation.
 
-> Free software developers guarantee everyone equal rights to their programs; any user can study the source code, modify it, and share the program. By contrast, most software carries fine print that denies users these basic rights, leaving them susceptible to the whims of its owners and vulnerable to surveillance.
+## Outreachy
+
+Website: [Outreachy](https://www.outreachy.org/)
+
+> Outreachy internships are remote, paid ($6,000), and last three months. Outreachy supports diversity in free and open source software! Outreachy internships run from May to August and December to March. Applications open in January and August: <https://www.outreachy.org/apply/>
 
 ## Wikimedia Foundation
 
@@ -78,3 +82,7 @@ Website: [Pin-Ups For Vets](https://www.pinupsforvets.com/)
 Website: [The Cloudcast](http://www.thecloudcast.net/)
 
 > Since 2013, our community has raised over $27,000 to help the UNC Children's Hospital. We hope to continue that tradition in a big way again this year. Every little bit helps! Please join us through a donation, or come run the race with us!
+
+### Free Software Foundation
+
+Once they ditched Stallman they were deserving of my support even though they're a little more zealous than I am about open source. Now that [Stallman is back](https://arstechnica.com/tech-policy/2021/03/richard-stallman-returns-to-fsf-18-months-after-controversial-rape-comments/), I've rescinded all support for FSF.
