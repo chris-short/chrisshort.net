@@ -35,6 +35,12 @@ Website: [Outreachy](https://www.outreachy.org/)
 
 > Outreachy internships are remote, paid ($6,000), and last three months. Outreachy supports diversity in free and open source software! Outreachy internships run from May to August and December to March. Applications open in January and August: <https://www.outreachy.org/apply/>
 
+## /dev/color
+
+Website: [/dev/color](https://www.devcolor.org/)
+
+> We believe the world is a better place when we get the most out of each individual. Software engineers are uniquely positioned to improve the world—one programmer can design products that change millions of lives. Black software engineers have historically faced challenges in reaching their full potential. We ensure Black engineers fulfill the promise of their talents, transform the industry, and use their resulting skills and position to give back to their communities.
+
 ## Wikimedia Foundation
 
 Website: [Wikimedia Foundation](https://wikimediafoundation.org/)
