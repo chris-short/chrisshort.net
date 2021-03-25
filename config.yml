@@ -81,6 +81,8 @@ menu:
     main:
         - name: Search
           url: search
+        - name: Archive
+          url: archive
 
 # for search to work
 outputs:
