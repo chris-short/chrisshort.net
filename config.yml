@@ -17,6 +17,26 @@ Params:
             Ambassador + @KubeWeekly | devopsish.com | Disabled Veteran | He/Him/His |
             Views solely mine
 
+    socialIcons:
+        - name: email
+          url: mailto:chris@chrisshort.net
+        - name: github
+          url: https://github.com/chris-short
+        - name: twitter
+          url: https://twitter.com/ChrisShort
+        - name: reddit
+          url: https://reddit.com/u/oaf357
+        - name: linkedin
+          url: https://www.linkedin.com/in/thechrisshort
+        - name: youtube
+          url: https://www.youtube.com/channel/UC8jhUEJ-K_QfDWbmpmwi4XA
+        - name: telegram
+          url: https://telegram.me/ChrisShort
+        - name: twitch
+          url: https://twitch.tv/redhatopenshift
+        - name: rss
+          url: https://chrisshort.net/index.xml
+
     homeTitle: Chris Short
     mainSections:
         - post
