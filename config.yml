@@ -44,6 +44,7 @@ Params:
     comments: false
     gcse: "partner-pub-8972983586873269:7437701092"
     selfHosted: true
+    ShowReadingTime: true
 Author:
     name: Chris Short
     website: "https://chrisshort.net"
