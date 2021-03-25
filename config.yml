@@ -10,6 +10,13 @@ paginate: 5
 permalinks:
     post: ":title/"
 Params:
+    homeInfoParams:
+        Title: Chris Short
+        Content: >
+            Kubernetes | Voice of Hybrid Cloud on OpenShift.tv, Red Hat | CNCF
+            Ambassador + @KubeWeekly | devopsish.com | Disabled Veteran | He/Him/His |
+            Views solely mine
+
     homeTitle: Chris Short
     mainSections:
         - post
