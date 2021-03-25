@@ -2,7 +2,6 @@ baseurl: "https://chrisshort.net"
 DefaultContentLanguage: en
 title: chrisshort.net
 theme: PaperMod
-metaDataFormat: toml
 pygmentsStyle: trac
 pygmentsUseClasses: true
 pygmentsCodeFences: true
@@ -46,103 +45,7 @@ Author:
     youtube: channel/UC8jhUEJ-K_QfDWbmpmwi4XA
     telegram: ChrisShort
     twitch: redhatopenshift
-menu:
-    main:
-        - identifier: menu
-          name: Main Menu
-          weight: 999
-        - name: Home
-          url: /
-          weight: 1
-        - name: About
-          url: /about/
-          weight: 20
-        - name: Newsletter
-          url: "https://devopsish.com"
-          weight: 29
-        - identifier: speaking
-          name: Speaking
-          weight: 888
-        - parent: speaking
-          name: Talks Given
-          url: /speaking/
-          weight: 890
-        - parent: speaking
-          name: Interviews
-          url: /interviews/
-          weight: 891
-        - parent: speaking
-          name: Webinars
-          url: /webinars/
-          weight: 897
-        - parent: speaking
-          name: Abstracts
-          url: /abstracts/
-          weight: 898
-        - parent: speaking
-          name: NC Veterans Oral History Interview
-          url: /nc-veterans-oral-history-program/
-          weight: 899
-        - parent: menu
-          name: DevOps News
-          url: "https://devopsish.com/"
-          weight: 11
-        - parent: menu
-          name: Kubernetes News
-          url: "https://kubeweekly.io/"
-          weight: 12
-        - parent: menu
-          name: DevOps README
-          url: "https://devopsreadme.xyz/"
-          weight: 13
-        - parent: menu
-          name: What is DevOps
-          url: "https://devopsish.com/what-is-devops/"
-          weight: 19
-        - parent: menu
-          name: Books
-          url: /books/
-          weight: 60
-        - parent: menu
-          name: Publications
-          url: /publications/
-          weight: 70
-        - parent: menu
-          name: Drawings
-          url: /drawings/
-          weight: 80
-        - parent: menu
-          name: Causes
-          url: /causes/
-          weight: 90
-        - parent: menu
-          name: Projects
-          url: /projects/
-          weight: 99
-        - parent: menu
-          name: Long Thoracic Nerve Palsy
-          url: /long-thoracic-nerve-palsy/
-          weight: 100
-        - parent: menu
-          name: Foundation for Purposeful Living
-          url: /foundation-for-purposeful-living/
-          weight: 110
-        - parent: menu
-          name: Amazon Wishlist
-          url: "https://smile.amazon.com/hz/wishlist/ls/35NMKHR0A10N4"
-          weight: 118
-        - parent: menu
-          name: Patreon
-          url: "https://www.patreon.com/devopsish"
-          weight: 119
-        - parent: menu
-          name: Categories
-          url: /categories/
-          weight: 120
-        - parent: menu
-          name: Tags
-          url: /tags/
-          weight: 130
+
 privacy:
     disqus:
         disable: true
