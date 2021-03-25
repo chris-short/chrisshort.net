@@ -4,11 +4,12 @@ categories = ["Air Force", "Interviews"]
 date = 2016-08-23T12:00:00Z
 description = ""
 draft = false
-image = "/nc-veterans-oral-history-program/chris-short-qatar-firing-range.jpg"
 slug = "nc-vets-oral-history-interview-2"
 tags = ["war", "communications", "iraq", "afghanistan", "veterans", "air force", "north carolina", "central command", "interviews", "veteran", "usaf"]
 title = "North Carolina Veterans Oral History Interview Part 2"
 aliases = ["nc-vets-oral-history-interview-2"]
+[cover]
+image = "/nc-veterans-oral-history-program/chris-short-qatar-firing-range.jpg"
 
 +++
 
@@ -24,6 +25,7 @@ This picks up where my [NC State Archives Interview Part 1](/nc-veterans-oral-hi
   <source src="https://cache.chrisshort.net/file/cache-chrisshort-net/nc-veterans-oral-history-interview-2.mp3" type="audio/mpeg">
 Your browser does not support the audio element but you can download it as an MP3.
 </audio>
+
 Also available as an [MP3 download](https://cache.chrisshort.net/file/cache-chrisshort-net/nc-veterans-oral-history-interview-2.mp3)
 
 {{< carbon >}}
