@@ -7,10 +7,11 @@ draft = false
 slug = "2018-learnings-2019-expectations"
 tags = ["philosophy", "life", "kubernetes", "devops", "site reliability engineering", "sre", "Impostor Syndrome", "kubekhan", "people", "folks"]
 title = "2018 Learnings, 2019 Expectations"
-image = "/2018-learnings-2019-expectations/happy-new-year.jpg"
 aliases = [
     "/what-i-learned-in-2018/"
 ]
+[cover]
+image = "/2018-learnings-2019-expectations/happy-new-year.jpg"
 
 +++
 
@@ -84,7 +85,7 @@ In 2018, I learned a lot from folks about privilege and how lucky I truly am (de
 
 ### Impostor Syndrome
 
-[![XKCD: Impostor Syndrome](/2018-learnings-2019-expectations/impostor_syndrome.png)](https://xkcd.com/1954/)
+[![XKCD: Impostor Syndrome](/2018-learnings-2019-expectations/impostor_syndrome.png#center)](https://xkcd.com/1954/)
 
 Impostor Syndrome is something most people struggle with at some point. I might be lucky enough to have less of a challenge than most getting over my confidence issues. But, no one wants to hear from me about impostor syndrome. Make no mistake, impostor syndrome is a real thing and people *really* struggle with it. I would like to help some folks get over their impostor syndrome issues (assuming they're ready to).
 
@@ -94,11 +95,11 @@ Impostor Syndrome is something most people struggle with at some point. I might 
 
 I tried to set the record straight early on but was asked to delete this tweet (there's always a tweet):
 
-![Screenshot of original tweet assigning credit to folks for KubeKhan NA 2018](/2018-learnings-2019-expectations/original-credit-tweet.png)
+![Screenshot of original tweet assigning credit to folks for KubeKhan NA 2018](/2018-learnings-2019-expectations/original-credit-tweet.png#center)
 
 **Kim McMahon** and I were talking before KubeCon trying to set up dinner, lunch, drinks, or something while in Seattle. But, then a meeting popped up that required me to leave Seattle at noon on Wednesday. I told Kim and asked how can we ever have time to catch up with everyone we want to see at KubeCon? She had an idea a few hours later:
 
-![iMessage thread between Kim McMahon and Chris Short prior to KubeCon NA 2018](/2018-learnings-2019-expectations/kim-mcmahon-one-to-many.png)
+![iMessage thread between Kim McMahon and Chris Short prior to KubeCon NA 2018](/2018-learnings-2019-expectations/kim-mcmahon-one-to-many.png#center)
 
 > [W]e just hang in the Sheraton lobby bar Sunday night and see how many people we can talk with. We'll see some and they will see us.
 
@@ -112,7 +113,7 @@ I added my tweet tagging a few people to let them know what was going on...
 
 Then things took on a life of their own. I grabbed my phone at one point and it was obvious it had restarted. Opening Twitter at one point made my iPhone Xs Max hot. If you don't think it blew up a few peoples' phones, check out this [tree of the Twitter thread](https://treeverse.app/view/rFWfcpbY):
 
-[![Interactive view of the #KubeKhan Twitter Thread](/2018-learnings-2019-expectations/kubekhan-thread-spidered.png)](https://treeverse.app/view/rFWfcpbY)
+[![Interactive view of the #KubeKhan Twitter Thread](/2018-learnings-2019-expectations/kubekhan-thread-spidered.png#center)](https://treeverse.app/view/rFWfcpbY)
 
 [Jaice Singer DuMars](https://twitter.com/jaydumars/status/1071185111025049601) named it [#KubeKhan](https://twitter.com/search?l=&q=%23kubekhan). Although spelled incorrectly at first, like any good thread in tech someone acknowledged the misspelling and fixed it. Words are hard, y'all!
 
@@ -134,7 +135,7 @@ I am also immensely thankful to Jaice, Swarna, Bob, and Vallery. But, more impor
 
 In conclusion, 2018 was a mostly up and but somewhat down year.
 
-Up: Work, personal, and industry accomplishments  
+Up: Work, personal, and industry accomplishments
 Down: The toll it takes on health and personal life
 
 The lesson to learn here is to keep balance. Knowing [when and how to say no](https://opensource.com/article/18/5/art-saying-no-devops) is still important. I've forgotten how much emphasis the military put on taking care of the home front. This enabled folks going down range to focus on the difficult tasks of warfighting knowing there was a safety net at home for their family. Your physical and mental health is important too. Make sure your foundations are solid. This will enable you to be the best possible version of yourself you can be.
@@ -148,5 +149,3 @@ Oh and [5G](https://www.wired.com/story/wired-guide-5g/) (lulz... kinda).
 * [Kubernetes Future: VMs, Containers, or Hypervisor?](https://www.infoq.com/news/2019/05/kubernetes-future/)
 * [Containers in 2019: They're Calling it a [Hypervisor] Comeback](https://www.infoq.com/articles/containers-hypervisors-2019/)
 * [OpenStack Provider for Virtual Kubelet: A Nodeless Approach for Kubernetes (PDF)](https://object-storage-ca-ymq-1.vexxhost.net/swift/v1/6e4619c416ff4bd19e1c087f27a43eea/www-assets-prod/summits/27/presentations/23991/slides/OpenStack-Provider-for-Virtual-Kubelet-A-Nodeless-Approach-for-Kubernetes2.pdf) ([cached](https://cache.chrisshort.net/file/cache-chrisshort-net/pdf/OpenStack-Provider-for-Virtual-Kubelet-A-Nodeless-Approach-for-Kubernetes2.pdf))
-
-

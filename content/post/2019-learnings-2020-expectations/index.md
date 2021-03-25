@@ -7,6 +7,7 @@ draft = false
 slug = "2019-learnings-2020-expectations"
 tags = ["DevOps", "developer", "open source", "Kubernetes", "developer experience", "security", "code", "health care", "China", "Docker", "GitOps", "Red Hat", "IBM", "cloud", "cloud native", "API", "WebAssembly", "Wasm", "community", "infrastructure", "AWS", "InfoSec", "software", "chronic pain", "velocity", "medically separated"]
 title = "2019 Learnings, 2020 Expectations"
+[cover]
 image = "/2019-learnings-2020-expectations/happy-new-year-gold.jpg"
 
 +++
@@ -126,5 +127,3 @@ I have created a [1:1 event](https://calendly.com/chrisshort/1-1) so that folks 
 ## Conclusion
 
 I am hopeful that whatever economic upheaval we face as a society in 2020 is limited. In 2019, we saw equity retract somewhat and unicorn growth slow. But, the public markets grew. Hopefully, everything remains good. But, in case it isn't and times get hard for you, don't hesitate to reach out for help (especially if you are still at Docker).
-
-
