@@ -89,10 +89,18 @@ privacy:
 
 menu:
     main:
-        - name: Search
-          url: search
+        - name: About
+          url: about
+          weight: 1
+        - name: Speaking
+          url: speaking
+          weight: 2
         - name: Archive
           url: archive
+          weight: 3
+        - name: Search
+          url: search
+          weight: 4
 
 # for search to work
 outputs:
