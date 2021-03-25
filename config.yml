@@ -37,28 +37,12 @@ Params:
         - name: rss
           url: https://chrisshort.net/index.xml
 
-    homeTitle: Chris Short
     mainSections:
         - post
         - posts
-    subtitle: >-
-        Kubernetes | Voice of Hybrid Cloud on OpenShift.tv, Red Hat | CNCF
-        Ambassador + @KubeWeekly | devopsish.com | Disabled Veteran | He/Him/His |
-        Views solely mine
-    logo: img/chrisshort.net.png
-    favicon: favicons/favicon.ico
-    dateFormat: "2006-01-02"
-    commit: false
-    rss: true
+
     comments: false
-    readingTime: true
-    wordCount: true
-    useHLJS: false
-    socialShare: true
-    delayDisqus: true
-    showRelatedPosts: true
     gcse: "partner-pub-8972983586873269:7437701092"
-    since: "2003"
     selfHosted: true
 Author:
     name: Chris Short
