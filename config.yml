@@ -75,3 +75,15 @@ privacy:
     youtube:
         disable: false
         privacyEnhanced: true
+
+menu:
+    main:
+        - name: Search
+          url: search
+
+# for search to work
+outputs:
+    home:
+        - HTML
+        - RSS
+        - JSON # is necessary
