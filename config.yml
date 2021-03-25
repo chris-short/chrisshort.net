@@ -108,3 +108,8 @@ outputs:
         - HTML
         - RSS
         - JSON # is necessary
+
+markup:
+    goldmark:
+        renderer:
+            unsafe: true
