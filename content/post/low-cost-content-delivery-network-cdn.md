@@ -4,10 +4,11 @@ categories = ["DevOps"]
 date = 2016-06-14T17:18:30Z
 description = ""
 draft = false
-image = "/img/posts/cloudflare-s3-cdn.png"
 slug = "low-cost-content-delivery-network-cdn"
 tags = ["CDN", "Content Delivery Network", "CloudFlare", "Amazon", "S3", "AWS"]
 title = "Low Cost Content Delivery Network (CDN)"
+[cover]
+image = "/img/posts/cloudflare-s3-cdn.png"
 
 +++
 
@@ -79,5 +80,3 @@ If this is the first time an object has evert been accessed or after the Edge Ca
 Congrats! You are now running your low cost, high quality, branded CDN from Amazon S3 and CloudFlare. Bask in the greatness that is improved responsiveness and decreased bandwidth costs.
 
 [^n]: The cybersecurity professional in me would like to reiterate that by setting this S3 policy *every object you upload will be public by default*. If you want to set an object so that it is no longer public that is easily done on a file by file basis. However, you should manually upload the object so that the data is never exposed publicly.
-
-

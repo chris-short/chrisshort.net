@@ -7,10 +7,11 @@ draft = false
 slug = "the-aws-bill-heard-around-the-world"
 tags = ["Amazon Web Services", "AWS", "AWS bill", "Cloudflare", "S3 bucket", "Corey Quinn", "CDN", "traffic", "file", "panic", "cloud", "GCP", "Twitter", "cache", "attack", "surprise"]
 title = "The AWS bill heard around the world"
-image = "/the-aws-bill-heard-around-the-world/june-2020-aws-bill-header.png"
 aliases = [
     "aws-bill"
 ]
+[cover]
+image = "/the-aws-bill-heard-around-the-world/june-2020-aws-bill-header.png"
 
 +++
 
@@ -42,7 +43,7 @@ Not on this Saturday morning, nope. June 2020's AWS bill was a heart palpitation
 
 I immediately began having a panic attack. As I took the mental steps to mitigate the onset of the panic attack, I started forming a battle plan. Yes, I can switch back to emergency mode, like back in the old days, when something would go bang or boom, and I'd run towards it (it's not helpful overall, trust me).
 
-First, Max: Maslow's Hierarchy of Needs? Check.  
+First, Max: Maslow's Hierarchy of Needs? Check.
 Next, me: As if it was destined, my alert for morning medications went off.
 
 "Daddy's gotta grab his meds, bud." Instinctively, Max leans off me (wow... okay... he's used to hearing that reminder and statement shortly after that; my brain is now in overdrive). I take everything I need to conquer this while still being able to function cognitively. I refill my coffee and grab a laptop charger.
@@ -67,26 +68,26 @@ There it was. **$2,657.68**, staring at me. "This can't be legit." Drilling down
 
 ![S3 Activity](/the-aws-bill-heard-around-the-world/june-23-24-2020-s3-breakdown.png)
 
-**30.6 TB?!?!** how is that even possible???  
-$1,011.59 on 23 June 2020.  
+**30.6 TB?!?!** how is that even possible???
+$1,011.59 on 23 June 2020.
 $1,639.07 on 24 June 2020.
 
 I immediately open a ticket with AWS Support frantically wondering what broke? How is this even possible? Did someone bypass Cloudflare? What the hell is Cloudflare saying?
 
-![Cloudflare 22 June 2020](/the-aws-bill-heard-around-the-world/cloudflare_june_22_2020.png)  
+![Cloudflare 22 June 2020](/the-aws-bill-heard-around-the-world/cloudflare_june_22_2020.png)
 Oh cool, Cloudflare let those 2,700 requests passthrough completely uncached? How is that not anomaly detected as a DDoS??? How is it that barely a fraction of the traffic is cached (more on that later)?
 
-![Cloudflare 23 June 2020](/the-aws-bill-heard-around-the-world/cloudflare_june_23_2020.png)  
+![Cloudflare 23 June 2020](/the-aws-bill-heard-around-the-world/cloudflare_june_23_2020.png)
 Oh, another 4,400 requests the next day... Sweet, baby Jesus. Oh, but you served 9 GB from cache. Thanks, Cloudflare.
 
 ## Help Arrives
 
 Apparently, when you tweet something crazy af, like a $2700 AWS bill, it gets a lot of attention on a quiet holiday morning. A quarter-million people saw the tweet and a third of them interacted with it. It was enough attention that the AWS Support Twitter account was on it before, [my friend](https://twitter.com/QuinnyPig/status/1186319925901586432) and [cloud economist](https://www.duckbillgroup.com/), Corey Quinn.
 
-{{< tweet 1279424879566163970 >}}  
+{{< tweet 1279424879566163970 >}}
 Praise Twitter for at least its ability to draw attention to things. I am not sure this would've ended up as well as it did without it.
 
-{{< tweet 1279446759664611329 >}}  
+{{< tweet 1279446759664611329 >}}
 I forwarded the bill to Corey almost immediately after seeing it at pre-dawn west coast time. I am forever thankful to Corey for his analysis. When he was ready, Corey sent me a list of things he needed to do an analysis (instead, I created him a regular IAM account with the proper perms 😉 and yes I cleaned up after).
 
 Corey encouraged me to apply a bucket policy that would only allow Cloudflare IP addresses to access anything from the bucket. The theory here is that someone could have been bypassing Cloudflare somehow. But, thankfully, [Cloudflare publishes their IP blocks](https://www.cloudflare.com/ips/) and they don't change all that often. The Cloudflare support article, [Configuring an Amazon Web Services static site to use Cloudflare](https://support.cloudflare.com/hc/en-us/articles/360037983412-Configuring-an-Amazon-Web-Services-static-site-to-use-Cloudflare#77nNxWyQf69T1a78gPlCi9) gives you an example bucket policy to do exactly that. This should become a standard practice for folks. However, it wouldn't have mattered in this case; more on that later.

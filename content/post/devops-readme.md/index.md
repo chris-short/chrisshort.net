@@ -110,7 +110,7 @@ This is available as a standalone website at <devopsreadme.xyz>
 * Pros: Free; solid examples of how to do things
 * Cons: You are not Google; embrace with caution
 * Quip: Google SRE is proof setting a pile of money on fire is a viable solution to engineering problems.
-* URL: [Site Reliability Engineering: How Google Runs Production Systems](https://landing.google.com/sre/?utm_source=devops-readme.md&utm_medium=github.com)
+* URL: [Site Reliability Engineering: How Google Runs Production Systems](https://sre.google/books/?utm_source=devops-readme.md&utm_medium=github.com)
 
 ## The Art of Monitoring
 

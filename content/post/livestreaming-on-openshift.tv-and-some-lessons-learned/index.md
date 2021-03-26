@@ -7,6 +7,7 @@ draft = false
 slug = "live-streaming-on-openshift.tv-and-some-lessons-learned"
 tags = ["live streaming", "streaming", "learned", "openshift.tv", "Red Hat OpenShift", "OpenShift", "CNCF", "Kubernetes", "cloud native", "community", "Cloud Native Computing Foundation", "OBS", "open source"]
 title = "Live streaming on openshift.tv and some lessons learned"
+[cover]
 image = "/live-streaming-on-openshift.tv-and-some-lessons-learned/openshift.tv.png"
 
 +++

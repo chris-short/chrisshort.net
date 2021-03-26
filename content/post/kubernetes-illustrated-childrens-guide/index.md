@@ -7,11 +7,12 @@ draft = false
 slug = "kubernetes-illustrated-childrens-guide"
 tags = ["Kubernetes", "Illustrated", "Guide", "Phippy"]
 title = "Kubernetes Illustrated Children's Guide"
-image = "/kubernetes-illustrated-childrens-guide/The-Illustrated-Childrens-Guide-to-Kubernetes.png"
 aliases = [
   "/kubernetes-getting-started/The-Illustrated-Childrens-Guide-to-Kubernetes.pdf",
   "The-Illustrated-Childrens-Guide-to-Kubernetes.pdf"
 ]
+[cover]
+image = "/kubernetes-illustrated-childrens-guide/The-Illustrated-Childrens-Guide-to-Kubernetes.png"
 
 +++
 

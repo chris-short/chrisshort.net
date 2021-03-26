@@ -7,8 +7,9 @@ draft = false
 slug = "military-phrases-for-devops"
 tags = ["devops", "military"]
 title = "Military Phrases For Use in DevOps"
+[cover]
 image = "/military-phrases-for-use-in-devops/low-crawl.jpg"
-imagecap = "Parental Discretion is Advised"
+caption = "Parental Discretion is Advised"
 
 +++
 

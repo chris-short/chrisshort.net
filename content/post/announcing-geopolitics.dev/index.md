@@ -6,8 +6,9 @@ description = "Chris Short is launching geopolitics.dev to to help technologists
 draft = true
 tags = []
 title = "Announcing geopolitics.dev"
+[cover]
 image = "/announcing-geopolitics.dev/geopolitics.dev-logo.png"
-imagealt = "geopolitics.dev — Ethics. Policy. Tech."
+alt = "geopolitics.dev — Ethics. Policy. Tech."
 
 +++
 
@@ -17,4 +18,4 @@ After running a [weekly DevOps and Cloud Native newsletter](https://devopsish.co
 
 It is my distinct pleasure to introduce [**geopolitics.dev**](https://geopolitics.dev), a newsletter to help technologists, nerds, journalists, and politicians understand where their worlds intersect. I worked in the US Air Force, doing things that I would later learn were called DevOps. I worked in the communications and intelligence spaces. Things I was helping keep an eye on before getting out in 2010 are problems for the world now. The world we live in is incredibly interconnected, whether you want to admit it or not. In the wake of the Snowden leaks and Huawei trade issues, I have been told I have a view of the world that a lot of others don't. I invite you to join me as I highlight important news items every week. [Subscribe today](https://geopolitics.dev/subscribe/)!
 
-[![geopolitics.dev — Ethics. Policy. Tech.](/announcing-geopolitics.dev/geopolitics.dev-logo.png)](https://geopolitics.dev)
+<!-- [![geopolitics.dev — Ethics. Policy. Tech.](/announcing-geopolitics.dev/geopolitics.dev-logo.png)](https://geopolitics.dev) -->

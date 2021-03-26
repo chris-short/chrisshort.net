@@ -4,10 +4,11 @@ categories = ["Apple"]
 date = 2017-02-09T12:02:00Z
 description = ""
 draft = false
-image = "/img/posts/content-blocker.png"
 slug = "why-im-giving-up-content-blockers"
 tags = ["content blockers"]
 title = "Why I'm Giving Up Content Blockers"
+[cover]
+image = "/img/posts/content-blocker.png"
 
 +++
 

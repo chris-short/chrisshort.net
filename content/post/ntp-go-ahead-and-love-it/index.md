@@ -4,19 +4,20 @@ categories = ["NTP"]
 date = 2016-11-02T11:00:00Z
 description = ""
 draft = false
-image = "/ntp-i-need-you-to-go-ahead-and-love-it/Trento-Mercatino_dei_Gaudenti-alarm_clocks.jpg"
 slug = "ntp-i-need-you-to-go-ahead-and-love-it"
 tags = ["ntp", "stratum", "time", "clock", "jitter"]
 title = "NTP: I Need You to Go Ahead and Love It"
 aliases = [
      "ntp-go-ahead-and-love-it"
 ]
+[cover]
+image = "/ntp-i-need-you-to-go-ahead-and-love-it/Trento-Mercatino_dei_Gaudenti-alarm_clocks.jpg"
 
 +++
 
 It's 2016 (almost 2017) why is the time off on your system clocks? It became apparent to me that there are some folks out there that do not realize their clocks are off for a reason. [Julia Evans](https://twitter.com/b0rk) recently made a graphic about [distributed systems](https://twitter.com/b0rk/status/793288477060263936) that mentioned clock issues and it made me really sad.
 
-![Clocks Lie](/ntp-i-need-you-to-go-ahead-and-love-it/clocks-lie.jpg)  
+![Clocks Lie](/ntp-i-need-you-to-go-ahead-and-love-it/clocks-lie.jpg#center)
 Photo Credit: [Julia Evans](http://jvns.ca/)
 
 We had a saying when I was in the Air Force, "*Timing is everything.*" We lugged around GPS receivers that hooked up to our bulk and circuit encryption devices so that they would have accurate, consistent time with other encryption devices around the world.
@@ -105,7 +106,7 @@ But what are those symbols on the far left of the results table? The dashes (-),
 It is trivial to setup NTP these days thanks to the [NTP Pool Project](http://www.pool.ntp.org/). What is an NTP Pool?
 
 >The pool.ntp.org project is a big virtual cluster of timeservers providing reliable easy to use NTP service for millions of clients.
-> 
+>
 >The pool is being used by millions or tens of millions of systems around the world. It's the default "time server" for most of the major Linux distributions and many networked appliances (see information for vendors).
 
 If you are running a popular Linux distro or supported AWS AMI chances are when you install an NTP daemon (if it is not setup with one already) it will come pre-configured with NTP pool servers by default. This completely takes the guess work out of determining quality NTP servers.
@@ -117,7 +118,7 @@ I run an NTP pool server from my house. If you are using the pool in the US ther
 I have personally seen in far too many places where the number of NTP sources has been set too low. I have also argued with co-workers about the "right" number of NTP sources to use in your NTP configuration. My recommendation to folks new to NTP is to use the [NTP pool servers](http://www.pool.ntp.org/). However, according to [ntp.org](http://support.ntp.org/bin/view/Support/SelectingOffsiteNTPServers#Section_5.3.3.), you should have an **absolute minimum of four NTP sources** on your systems:
 
 > With three servers, you have the minimum number of time sources needed to allow ntpd to detect if one time source is a "falseticker". However ntpd will then be in the position of choosing from the two remaining sources.This configuration provides no redundancy.
-> 
+>
 > With at least four upstream servers, one (or more) can be a "falseticker", or just unreachable, and ntpd will have a sufficient number of sources to choose from.
 
 Not one, not two, not even three NTP sources is technically good enough. Use an absolute minimum of four, period. I encourage you to use more if you can but do not go overboard. ntp.chrisshort.net (the output from its `ntpq -p` is used above) is intentionally using a higher number of servers and peers to keep timing consistent on somewhat less than great hardware.
@@ -125,5 +126,3 @@ Not one, not two, not even three NTP sources is technically good enough. Use an 
 There is so much more that I could write about NTP. It is a truly fascinating protocol that has such a rich history. I encourage you to be aware of NTP and time in your day-to-day work. I also highly recommend researching more about NTP while I work on a follow-up to this piece.
 
 Banner Photo Credit: [Matteo Ianeselli](https://commons.wikimedia.org/wiki/User:Ianezz) via [Wikimedia Commons](http://commons.wikimedia.org/)
-
-

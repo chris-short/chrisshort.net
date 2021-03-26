@@ -7,13 +7,14 @@ draft = false
 slug = "docker-is-dead"
 tags = ["Docker", "Docker, Inc", "Kubernetes", "Moby", "open source", "DevOps", "container", "Docker Swarm", "rise of Kubernetes", "cloud native", "Silicon Valley", "early success", "community", "funding", "investors", "partners", "capital", "leadership", "orchestrator"]
 title = "Docker, Inc is Dead"
-image = "/docker-inc-is-dead/docker-is-dead.png"
 aliases = [
     "/docker-is-dead/",
     "/docker-is-dead",
     "/docker-inc.-is-dead",
     "/docker-inc.-is-dead/"
 ]
+[cover]
+image = "/docker-inc-is-dead/docker-is-dead.png"
 +++
 
 > **DISCLAIMER**: The views expressed in this article are solely mine. They do not reflect the opinion of Cloud Native Computing Foundation (I'm a [CNCF Ambassador](/chris-short-named-cloud-native-ambassador/)), nor Red Hat, nor that of any group I am affiliated with, sponsored by, or employed by.

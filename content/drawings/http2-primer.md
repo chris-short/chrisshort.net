@@ -4,7 +4,6 @@ categories = ["HTTP2"]
 date = 2016-11-16T13:15:00Z
 description = ""
 draft = false
-image = "/drawings/chrome-devtools-h2.png"
 slug = "http2-primer"
 tags = ["HTTP2", "drawing"]
 title = "HTTP/2 Primer"
@@ -13,6 +12,8 @@ aliases = [
     "/http-2-primer-and-drawing/",
     "/http/2-primer/"
 ]
+[cover]
+image = "/drawings/chrome-devtools-h2.png"
 
 +++
 
@@ -37,4 +38,3 @@ The first thing to keep in mind is the primary reason for HTTP/2 even being a pr
 * There is one thing that is not changing in HTTP/2 and that is **status codes**. 200 is still OK, 404 is still not found, and 451 is still Unavailable For Legal Reasons. There will be no need to memorize new codes (and I will still ask you to define at least three codes during an interview).
 
 There are a lot of great things happening in HTTP/2 and I would encourage to consider implementing where you can as soon as you can. Find your favorite [code's implementation or web server](https://github.com/httpwg/http2-spec/wiki/Implementations) and get rolling with HTTP/2.
-

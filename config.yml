@@ -1,0 +1,105 @@
+baseurl: "https://chrisshort.net"
+DefaultContentLanguage: en
+title: chrisshort.net
+theme: PaperMod
+pygmentsStyle: trac
+pygmentsUseClasses: true
+pygmentsCodeFences: true
+pygmentsCodefencesGuessSyntax: true
+paginate: 5
+Copyright: "[Some rights reserved](https://chrisshort.net/copyright/) • [Chris Short](https://chrisshort.net/) • © 2003 - 2021 • [chrisshort.net](https://chrisshort.net/)"
+permalinks:
+    post: ":title/"
+Params:
+    # https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#enable-social-metadata-and-seo
+    env: production
+    label:
+        icon: /favicons/favicon-32x32.png
+        favicon16x16: /favicons/favicon-16x16.png
+        favicon32x32: /favicons/favicon-32x32.png
+        apple_touch_icon: /favicons/apple_icon.png
+        safari_pinned_tab: /favicons/safari_pinned_tab.svg
+
+    homeInfoParams:
+        Title: Chris Short
+        Content: >
+            Kubernetes | Voice of Hybrid Cloud on OpenShift.tv, Red Hat | CNCF
+            Ambassador + @KubeWeekly | devopsish.com | Disabled Veteran | He/Him/His |
+            Views solely mine
+
+    socialIcons:
+        - name: email
+          url: mailto:chris@chrisshort.net
+        - name: github
+          url: https://github.com/chris-short
+        - name: twitter
+          url: https://twitter.com/ChrisShort
+        - name: reddit
+          url: https://reddit.com/u/oaf357
+        - name: linkedin
+          url: https://www.linkedin.com/in/thechrisshort
+        - name: youtube
+          url: https://www.youtube.com/channel/UC8jhUEJ-K_QfDWbmpmwi4XA
+        - name: telegram
+          url: https://telegram.me/ChrisShort
+        - name: twitch
+          url: https://twitch.tv/redhatopenshift
+        - name: rss
+          url: https://chrisshort.net/index.xml
+
+    mainSections:
+        - post
+        - posts
+
+    gcse: "partner-pub-8972983586873269:7437701092"
+    ShowReadingTime: true
+    ShowShareButtons: true
+    ShowToc: true
+    ShowBreadCrumbs: true
+    ShowPostNavLinks: true
+
+privacy:
+    disqus:
+        disable: true
+    googleAnalytics:
+        disable: true
+    instagram:
+        disable: false
+        simple: false
+    twitter:
+        disable: false
+        enableDNT: true
+        simple: false
+    vimeo:
+        disable: false
+        simple: false
+    youtube:
+        disable: false
+        privacyEnhanced: true
+
+menu:
+    main:
+        - name: About
+          url: about
+          weight: 1
+        - name: Speaking
+          url: speaking
+          weight: 2
+        - name: Archive
+          url: archive
+          weight: 3
+        - name: Search
+          url: search
+          weight: 4
+
+# for search to work
+outputs:
+    home:
+        - HTML
+        - RSS
+        - JSON # is necessary
+
+markup:
+    goldmark:
+        renderer:
+            unsafe: true

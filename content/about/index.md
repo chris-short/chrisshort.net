@@ -1,7 +1,7 @@
 +++
 author = "Chris Short"
 date = 2016-04-17T18:00:00Z
-description = "About"
+summary = "About"
 draft = false
 title = "About"
 aliases = [
@@ -28,7 +28,7 @@ Chris is now working in the [open source](https://chrisshort.net/tags/open-sourc
 
 ## Headshot
 
-[Sept-2020-Profile-Pic.jpeg](Sept-2020-Profile-Pic.jpeg)
+[Sept-2020-Profile-Pic.jpeg](/about/Sept-2020-Profile-Pic.jpeg)
 
 ## Sponsor
 
@@ -50,7 +50,7 @@ Chris is now working in the [open source](https://chrisshort.net/tags/open-sourc
 
 ### PGP Public Key
 
-BFD23BF8 (expired)  
+BFD23BF8 (expired)
 Please [Signal](https://support.signal.org/hc/en-us/articles/360007060592-Invite-friends-to-join-Signal) or [Telegram](https://telegram.me/ChrisShort)
 
 {{< eo >}}

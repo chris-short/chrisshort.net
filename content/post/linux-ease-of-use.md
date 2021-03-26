@@ -7,11 +7,12 @@ draft = false
 slug = "linux-ease-of-use"
 tags = ["linux", "Microsoft", "open source"]
 title = "Linux and Ease of Use"
-image = "/img/posts/Tux.png"
 aliases = [
     "/archives/2005/01/linux-and-ease-of-use.php",
     "linux-and-ease-of-use.php"
     ]
+[cover]
+image = "/img/posts/Tux.png"
 
 +++
 
@@ -35,5 +36,3 @@ Linux system integrators and distribution makers are making a huge push in the e
 Implementation of ease of use often times sacrifices security. So many Windows users have easy to use, insecure environments. Linux is security oriented and Linux users enjoy that inherent security. The Linux community should not even think of sacrificing the security of Linux operating systems to make them easier to use. This has been done already in Windows and Windows users and system administrators around the world feel the pain of that ease of use implementation more and more everyday. The biggest hurdle in making Linux easy to use will be to make it easy to use and secure at the same time.
 
 Linux wasn't designed to be easy to use. But, the beauty of Linux is that it can be made easier to use. The Linux community will make things as simple as possible, but Linux shouldn't be made simpler.
-
-

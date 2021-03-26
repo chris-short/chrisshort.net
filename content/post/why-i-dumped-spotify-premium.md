@@ -4,10 +4,11 @@ categories = ["Music"]
 date = 2012-01-07T19:06:00Z
 description = ""
 draft = false
-image = "/img/posts/spotify.png"
 slug = "why-i-dumped-spotify-premium"
 tags = ["spotify", "streaming music"]
 title = "Why I Dumped Spotify Premium"
+[cover]
+image = "/img/posts/spotify.png"
 
 +++
 

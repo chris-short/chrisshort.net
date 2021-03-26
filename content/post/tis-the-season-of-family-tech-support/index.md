@@ -7,8 +7,9 @@ draft = false
 slug = "tis-the-season-of-family-tech-support"
 tags = ["life", "hardware", "tech support", "home", "wifi", "house", "family", "internet", "support", "modem", "Google WiFi", "comcast", "wireless"]
 title = "'Tis the Season of Family Tech Support"
+[cover]
 image = "/tis-the-season-of-family-tech-support/vcr.jpg"
-imagecap = "Be helpful. But, this isn't your day job."
+caption = "Be helpful. But, this isn't your day job."
 
 +++
 
@@ -75,5 +76,3 @@ Be thankful. Regardless of the outcome, be thankful. If your buddy in tech isn't
 ### Don't Be a Dick
 
 If your tech buddy takes time to give you advice and explains their reasoning, question them considerately. Try not to save five bucks here and ten bucks there. Don't take a considerable amount of time asking them for advice just to throw it all away and do your own thing. If you do end up doing that. Don't be the asshole that asks that same buddy in tech to help fix it either. That REALLY says more about you than them.
-
-

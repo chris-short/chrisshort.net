@@ -4,10 +4,11 @@ categories = ["Apple"]
 date = 2016-07-10T20:51:00Z
 description = ""
 draft = false
-image = "/weather-in-your-ios-and-macos-calendars/macos-calender-weather.png"
 slug = "weather-in-your-ios-and-macos-calendars"
 tags = ["weather", "ios", "macos", "calendar"]
 title = "Weather in your iOS and macOS Calendars"
+[cover]
+image = "/weather-in-your-ios-and-macos-calendars/macos-calender-weather.png"
 
 +++
 
@@ -40,5 +41,3 @@ In the dialog box, paste the URL of the proper ICS file for the weather in the l
 If you want to see this calendar subscription on all your devices by sure to select a Location that you have on all devices. I chose iCloud as I do not really use the iCloud Calendar for anything and it is on all my Apple devices. I recommend updating the calendar frequently to ensure you have the most up to date weather data (every hour is probably sufficient). I also recommend removing attachments and alerts.
 
 After clicking *OK*, the weather forecast of your choosing will be in all your devices calendars. Happy planning!
-
-

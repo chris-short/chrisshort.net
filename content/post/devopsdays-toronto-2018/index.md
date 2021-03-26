@@ -7,8 +7,9 @@ draft = false
 slug = "devopsdays-toronto-2018"
 tags = ["speaking", "talks", "devops", "devopsdays", "toronto", "military"]
 title = "DevOpsDays Toronto 2018: What the Military Taught Me About DevOps"
+[cover]
 image = "/devopsdays-toronto-2018-what-the-military-taught-me-about-devops/chris-short-devopsdays-toronto-2018.jpg"
-imagecap = "Photo Courtesy of [Arthur Maltson](https://twitter.com/amaltson)"
+caption = "Photo Courtesy of [Arthur Maltson](https://twitter.com/amaltson)"
 
 +++
 
@@ -33,4 +34,3 @@ One thing I did need to mention was the fact that freedom of speech is great but
 ## Video
 
 {{< youtube TIE1rKkJWyY >}}
-

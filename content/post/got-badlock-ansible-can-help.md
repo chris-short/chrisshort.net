@@ -4,10 +4,11 @@ categories = ["Ansible", "Red Hat", "Open Source"]
 date = 2016-04-12T04:57:53Z
 description = ""
 draft = false
-image = "/img/posts/badlock.png"
 slug = "got-badlock-ansible-can-help"
 tags = ["ansible", "samba", "badlock", "yum", "apt", "dpkg", "security"]
 title = "Got Badlock? Ansible Can Help"
+[cover]
+image = "/img/posts/badlock.png"
 
 +++
 
@@ -51,5 +52,3 @@ A similar Ansible Playbook for a Debian based system would look something like t
 {{< / highlight >}}
 
 Your bad nightmares about Badlock will be a not so bad memory in no time.
-
-

@@ -4,10 +4,11 @@ categories = ["Failure"]
 date = 2016-07-26T16:06:31Z
 description = ""
 draft = false
-image = "/img/posts/yahoo.jpg"
 slug = "what-does-yahoos-downfall-teach-us"
 tags = ["Yahoo", "Tumblr", "Marissa Meyer", "Verizon"]
 title = "What Does Yahoo's Downfall Teach Us?"
+[cover]
+image = "/img/posts/yahoo.jpg"
 
 +++
 
@@ -45,4 +46,3 @@ The [botched Alibaba spinoff](http://www.cnbc.com/2015/12/09/why-yahoo-decided-n
 Clearly the due diligence for this deal was not done for whatever reason. This was either a leadership failure or flat out negligence. Either way, Yahoo did not do its homework in regards to the Alibaba spinoff. Now Yahoo is spinning off its "core business" instead.
 
 What does Yahoo's downfall teach us? That you must bring together a great team. The assembled players have to push people to build great features (the content will come, as exemplified by Medium, Snapchat, Facebook, etc.). That team must also do its due diligence in an effort to add value to the company. Now we all get to see [how Verizon will deal with Yahoo](https://yahoo.tumblr.com/post/147941303269/verizon-to-acquire-yahoos-operating-business) assuming that deal gets approved, of course.
-

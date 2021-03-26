@@ -7,11 +7,12 @@ draft = false
 slug = "announcing-detroit-go-meetup"
 tags = ["go", "golang"]
 title = "Announcing Detroit Go Meetup"
+[cover]
 image = "/announcing-detroit-go-meetup/gopher_detroit_twitter_400x400.png"
 
 +++
 
-While I was at [GopherCon 2017](/gophercon-2017-lightning-talk-video/), it became clear to me that there was no Go Meetup group in the Detroit Metro area. When I returned from Denver, after obtaining sponsorship from Bankrate, [Detroit Go Meetup](https://www.meetup.com/DetroitGolang/) came to life.
+While I was at [GopherCon 2017](/gophercon-2017-lightning-talk-video/), it became clear to me that there was no Go Meetup group in the Detroit Metro area. When I returned from Denver, after obtaining sponsorship from Bankrate, Detroit Go Meetup came to life.
 
 {{< eo >}}
 
@@ -19,6 +20,6 @@ Immediately after launching, [Steve Marsh](https://github.com/Swampy821) reached
 
 {{< carbon >}}
 
-[Detroit Go Meetup will have its first meeting at Bankrate in Downtown Detroit on Tuesday, August 29, 2017 at 7:00 PM ET](https://www.meetup.com/DetroitGolang/events/242260260/). We are pleased to welcome none other than Sam Boyer! Sam will be giving a talk titled, "Dep Deep Dive!" This talk dives into [github.com/golang/dep](https://github.com/golang/dep), the "official experiment" and precursor to a new approach to dependency management in the go toolchain itself. To help you get the most out of dep, Sam will cover both the essential workflows, and dep's core design principles.
+Detroit Go Meetup will have its first meeting at Bankrate in Downtown Detroit on Tuesday, August 29, 2017 at 7:00 PM ET. We are pleased to welcome none other than Sam Boyer! Sam will be giving a talk titled, "Dep Deep Dive!" This talk dives into [github.com/golang/dep](https://github.com/golang/dep), the "official experiment" and precursor to a new approach to dependency management in the go toolchain itself. To help you get the most out of dep, Sam will cover both the essential workflows, and dep's core design principles.
 
 Please join us if you are interested in learning more about Go, actively writing Go, or are looking for Go use cases. It is shaping up to be a fantastic night!

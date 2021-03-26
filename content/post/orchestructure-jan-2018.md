@@ -7,6 +7,7 @@ draft = false
 slug = "orchestructure-jan-2018"
 tags = ["open source", "devops", "go", "golang", "talks", "security", "orchestructure"]
 title = "Orchestructure January 2018 Meetup"
+[cover]
 image = "/img/posts/orchestruture-jan-2018.jpg"
 
 +++

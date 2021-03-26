@@ -4,11 +4,12 @@ categories = ["Air Force", "Interviews"]
 date = 2016-08-30T17:17:00Z
 description = ""
 draft = false
-image = "/nc-veterans-oral-history-program/chris-short-cyber-transport.jpg"
 slug = "nc-vets-oral-history-interview-3"
 tags = ["military", "mission", "war", "north carolina", "air force", "us air force", "north carolina veterans", "interviews", "veteran", "usaf"]
 title = "North Carolina Veterans Oral History Interview Part 3"
 aliases = ["nc-vets-oral-history-interview-3"]
+[cover]
+image = "/nc-veterans-oral-history-program/chris-short-cyber-transport.jpg"
 
 +++
 
@@ -24,6 +25,7 @@ This picks up where [North Carolina Veterans Oral History Interview Part 2](/nc-
   <source src="https://cache.chrisshort.net/file/cache-chrisshort-net/nc-veterans-oral-history-interview-3.mp3" type="audio/mpeg">
 Your browser does not support the audio element but you can download it as an MP3.
 </audio>
+
 Also available as an [MP3 download](https://cache.chrisshort.net/file/cache-chrisshort-net/nc-veterans-oral-history-interview-3.mp3)
 
 {{< carbon >}}
@@ -433,5 +435,3 @@ And at that point, I knew I'm not going to appeal this. And I remember walking b
 **MP:** And thank you for your service.
 
 **CS:** No problem. Any time.
-
-

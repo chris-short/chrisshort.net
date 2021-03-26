@@ -6,11 +6,12 @@ description = "认证 @ashleymcnamara — Verify Ashley McNamara"
 draft = false
 tags = ["Twitter", "verified account program", "verified", "Ashley McNamara"]
 title = "Verify @ashleymcnamara"
+[cover]
 image = "/verify-ashleymcnamara/verify-ashleymcnamara.png"
 
 +++
 
-**认证 @ashleymcnamara** is a form of peaceful protest to have [Ashley McNamara](https://twitter.com/ashleymcnamara) verified on Twitter. Please consider doing something similar with your own Twitter profile. 
+**认证 @ashleymcnamara** is a form of peaceful protest to have [Ashley McNamara](https://twitter.com/ashleymcnamara) verified on Twitter. Please consider doing something similar with your own Twitter profile.
 
 The how and the why follows.
 

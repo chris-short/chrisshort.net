@@ -7,6 +7,7 @@ draft = false
 slug = "2020-learnings-2021-expectations"
 tags = ["developer", "live streaming", "Kubernetes", "cloud native", "GitOps", "DevOps", "ARM", "data", "perfection", "speaking", "developer experience", "platform", "events", "global pandemic", "assumptions", "Edge", "5G", "infrastructure", "marketing", "Kubernetes release team", "chronic pain", "disability", "disabled", "release", "CFP", "open source", "exponential advancement", "automation", "systems", "OpenShift.tv", "software", "code", "joy", "Ford", "Detroit", "distributed systems", "management", "Ansible", "Kat Cosgrove", "ArgoCD", "Flux", "Weaveworks", "DevOps'ish", "conferences", "public speaking", "Christian Hernandez"]
 title = "2020 Learnings, 2021 Expectations"
+[cover]
 image = "/2020-learnings-2021-expectations/hope.jpg"
 
 +++
@@ -113,4 +114,4 @@ In the last [[SIG ContribEx] Weekly Marketing Meeting of 2020](https://youtu.be/
 
 ## Conclusion
 
-Whatever fresh hell faces us in 2021, we'll be doing it together. Never forget that working as a team, together, will always trump working as an individual. We can do more by working in an open manner than we even think possible. 
+Whatever fresh hell faces us in 2021, we'll be doing it together. Never forget that working as a team, together, will always trump working as an individual. We can do more by working in an open manner than we even think possible.

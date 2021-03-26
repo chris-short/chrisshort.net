@@ -4,10 +4,11 @@ categories = ["Life"]
 date = 2017-11-13T10:00:00Z
 description = "An open e-mail about why I am deciding to leave Bankrate now"
 draft = false
-image = "/img/posts/leaving.jpg"
 slug = "leaving-bankrate"
 tags = ["job", "work", "life", "balance", "acquisition"]
 title = "Leaving Bankrate"
+[cover]
+image = "/img/posts/leaving.jpg"
 
 +++
 
@@ -29,7 +30,7 @@ My last day will be on or about Friday, December 1, 2017. I do not know when I w
 
 Respectfully,
 
-Chris Short  
+Chris Short
 Manager, DevOps | Bankrate.com
 
 ### Update as explained on Twitter

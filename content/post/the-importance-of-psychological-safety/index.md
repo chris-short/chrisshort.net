@@ -7,8 +7,9 @@ draft = false
 slug = "the-importance-of-psychological-safety"
 tags = ["psychology", "psychological safety", "culture", "job", "life"]
 title = "The Importance of Psychological Safety"
+[cover]
 image = "/the-importance-of-psychological-safety/project-aristotle.png"
-imagecap = "Image from [rework.withgoogle.com](https://rework.withgoogle.com/print/guides/5721312655835136/)"
+caption = "Image from [rework.withgoogle.com](https://rework.withgoogle.com/print/guides/5721312655835136/)"
 
 +++
 
@@ -33,5 +34,3 @@ I was nervous. In the past, people have found my story hard to comprehend becaus
 I've never felt more comfortable telling an employer, even a person for that matter, all the things that are going on with me. I know that my boss has my back. She might not understand every nuanced detail but she is willing to learn without prying. She's willing to ask how things are going. To make sure I'm mentally ready to tackle the things we're trying to take on. She's there if I need her. I've never felt more secure in a position than I do right now. Psychological safety matters a lot. I finally have it in my work life. For that, I am truly thankful.
 
 If you don't want to take mine or Google's word on the importance of psychological safety, take Jay-Z's verse from NICE on the blockbuster album EVERYTHING IS LOVE, "What would you do, you knew you couldn't fail? I have no fear of anything, do everything well." Safety breeds success when you're not "looking over your shoulder" trying to figure out what is about to bite you.
-
-

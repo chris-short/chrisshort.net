@@ -7,11 +7,12 @@ draft = false
 slug = "tmobile-sidekick-2-review"
 tags = ["hardware", "yahoo"]
 title = "T-Mobile Sidekick II Review"
-image = "/img/posts/sidekick-II-open.jpg"
 aliases = [
     "/archives/2004/09/tmobile-sidekick-ii-review.php",
     "/tmobile-sidekick-ii-review.php"
 ]
+[cover]
+image = "/img/posts/sidekick-II-open.jpg"
 
 +++
 
@@ -140,5 +141,3 @@ Overall the Sidekick II is a vast improvement over the Sidekick. It smokes simil
 If you have more questions about the Sidekick II don't hesitate to leave a comment or send me an e-mail (chris -AT- chrisshort -DOT- net).
 
 The [T-Mobile Sidekick II](https://en.wikipedia.org/wiki/Danger_Hiptop#Hiptop2/T-Mobile_Sidekick_2_(Danger/Sharp)) is designed by [Danger, Inc.](https://en.wikipedia.org/wiki/Danger_Inc.)
-
-

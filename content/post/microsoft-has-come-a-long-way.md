@@ -7,6 +7,7 @@ draft = false
 slug = "microsoft-has-come-a-long-way"
 tags = ["open source", "Microsoft", "Windows", "linux", "Commodore 64", "security", "nmap"]
 title = "Microsoft Has Come a Long Way"
+[cover]
 image = "/img/posts/romel-velasco-561901-unsplash.jpg"
 
 +++
@@ -40,5 +41,3 @@ Windows 8 prebuilds began rolling out. I spun up a VM running locally one night 
 Microsoft has come a very long way since then. They haven't won back my desktop (and they likely won't). They will likely never win me over on servers. Their cloud offering, Azure, isn't good enough (yet) but, it's coming along. The fact they were at [All Things Open](https://allthingsopen.org/) all those years ago speaks volumes. With a booth in a prominent location and speaking on stage about how much Microsoft loves Linux; it was a breath of fresh air. Marketing folks were reaching out to people like me to figure out how best to rebuild Microsoft's brand reputation. The fact Microsoft recognizes they messed up and are doing things to fix it says a lot.
 
 I hope that history shows us the Balmer years at Microsoft were its time lost in the woods. The highest praise I can ever give Microsoft is saying it's a place I would consider working if the offer ever came. We have reached that point and that says more about Microsoft's journey than this story ever could.
-
-

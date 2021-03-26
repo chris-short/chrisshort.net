@@ -7,6 +7,7 @@ draft = false
 slug = "cable-vs-dsl"
 tags = ["internet", "networking"]
 title = "Cable vs. DSL"
+[cover]
 image = "/img/posts/network-cables.jpg"
 
 +++
@@ -24,5 +25,3 @@ Cable Internet services are limited only by the providers' use of frequencies. T
 Cable versus DSL is a tough one. For a long time DSL was a more reliable option because of the guaranteed data rates. But there were limiting factors like distance from your local Telco and price. Cable clearly became a better option even though it was a shared technology (which helped drive the price down) because of its flexibility in delivering Internet access to entire areas in one fail swoop. Cable providers have also adhered to standards (Data Over Cable Service Interface Specification or DOCSIS) thus simplifying development of networks unlike DSL's flavor craze, which runs off unknowing users in my opinion. Cable for the moment is significantly cheaper for what you get in terms of bandwidth even though that bandwidth is dependent upon so many factors (population, time of day, etc.). Based on price alone cable seems to be a better overall option if both cable and DSL are available in your area. I'm partial to cable myself because I've never had a real problem with it (and I did go through the @Home bankruptcy). I've never once met a happy DSL customer.
 
 DSL providers market things such as "dedicated" which is true in the sense that from the Telco to you wall jack it is a dedicated circuit. But, from the Telco to the Internet you still share the bandwidth with everyone else connecting to that Telco (which could easily be more than "your neighborhood"). At least cable providers acknowledge the fact that their users share bandwidth and build their networks so that each user has the best possible experience. Verizon has actually gone as far as saying (on their web site) that you can't, "Use the same phone line for phone or fax and Internet" with cable. This is a very moot point because cable Internet doesn't use a phone line. DSL providers typically require a contract (12 months or more) to be signed for any service. Cable providers typically don't require this because no matter what if cable Internet is available in your area your house is getting it's just being filtered out. When setting up DSL for your phone line typically, someone actually has to do physical labor at the Telco to provide you with service so a contract is to be expected so that the labor charged to your provider can be reimbursed somehow. There are numerous other things to look at when you're making a decision about broadband and typically it is area specific but if both DSL and cable Internet access are available to you my advice is to go with cable.
-
-

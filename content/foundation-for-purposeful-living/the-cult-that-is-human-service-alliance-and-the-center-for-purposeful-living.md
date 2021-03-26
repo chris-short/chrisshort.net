@@ -8,7 +8,7 @@ slug = "the-cult-that-is-human-service-alliance-and-the-center-for-purposeful-li
 tags = ["center for purposeful living", "human service alliance", "hsa", "foundation for purposeful living", "derwyn lackey"]
 title = "The Cult that is Human Service Alliance and the Center for Purposeful Living"
 aliases = [
-    "the-cult-that-is-human-service-alliance-and-the-center-for-purposeful-living-2", 
+    "the-cult-that-is-human-service-alliance-and-the-center-for-purposeful-living-2",
     "/post/65745344/the-cult-that-is-human-service-alliance-and-the-center",
     "/the-cult-that-is-human-service-alliance-and-the-center-for-purposeful-living-2",
     "/center-for-purposeful-living/the-cult-that-is-human-service-alliance-and-the-center-for-purposeful-living/"
@@ -95,7 +95,5 @@ Discoveries of the Inquiring Mind can be found on [Amazon](https://amzn.to/2FxTc
 
 2) Also, a lot of people have been making comments about Derwyn Lackey; allow me to put a face with the name:
 
-![Derwyn Lackey (Derwin Lackey)](/center-for-purposeful-living/derwin-lackey-derwyn-lackey.jpg)
+![Derwyn Lackey (Derwin Lackey)](/foundation-for-purposeful-living/derwin-lackey-derwyn-lackey.jpg#center)
 Derwyn Lackey, Supreme Ruler of the Center for Purposeful Living
-
-

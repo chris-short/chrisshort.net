@@ -7,6 +7,7 @@ draft = false
 slug = "my-new-home-sj-technologies"
 tags = ["job", "DevOps", "life", "impostor syndrome"]
 title = "My New Home is SJ Technologies"
+[cover]
 image = "/img/posts/sj-technologies.jpg"
 
 +++
@@ -17,7 +18,7 @@ I am very happy to announce that I have a new job. I am now a **Senior DevOps Ad
 
 You might ask, "Why SJ Technologies, Chris?" I'm glad you asked! As I mentioned in my 2017 recap, my job hunting was done through established or even loosely established connections. As an organizer for DevOpsDays Raleigh, I had the opportunity to meet [John Willis](https://www.linkedin.com/in/johnwillisatlanta/) who had recently started at SJ Technologies. John had nice things to say about SJ Technologies and the work he was doing. After my [Dark Side of DevOps](/the-dark-side-of-devops/) talk, John flagged me down to let me know how much he appreciated it. I to quote the text to my wife, Julie, after John's feedback:
 
-![O... M... G... I just got flagged down by John Willis and he told me my talk was great. He loved it! I got goosebumps.](https://cache.chrisshort.net/file/cache-chrisshort-net/john-willis-imessage-to-juile.png)
+![O... M... G... I just got flagged down by John Willis and he told me my talk was great. He loved it! I got goosebumps.](https://cache.chrisshort.net/file/cache-chrisshort-net/john-willis-imessage-to-juile.png#center)
 
 I looked into SJ Technologies after getting back to Detroit and added it to my short list of places I would consider working should the opportunity arise.
 
@@ -25,7 +26,7 @@ I looked into SJ Technologies after getting back to Detroit and added it to my s
 
 Fast forward to DevOpsDays Detroit, where John and I met again. After my [DevOps README.md](/devops-readme.md/) lightning talk, [Barbara Bouldin](https://www.devopsdays.org/events/2017-detroit/speakers/barbara-bouldin/) approached me, gave me a glowing review, and asked for a copy of the slide deck. I was flattered given the fantastic talk Barbara gave during DevOpsDays Detroit. To quote another text to Julie:
 
-![Barbara Boudin of SJ Technologies ran me down to ask for my slides.](https://cache.chrisshort.net/file/cache-chrisshort-net/barbara-bouldin-imessage-to-julie.png)
+![Barbara Boudin of SJ Technologies ran me down to ask for my slides.](https://cache.chrisshort.net/file/cache-chrisshort-net/barbara-bouldin-imessage-to-julie.png#center)
 
 I took down Barbara's e-mail address and sent off a copy immediately. John Willis also had very kind things to say about working with Barbara during DevOpsDays Detroit. If John says nice things about you, my ears are going to perk up for sure.
 
@@ -39,4 +40,3 @@ Then I was asked to spend some time talking to John Willis. If you ever want to 
 * "Fearing change."
 
 The discussion was like many I had before with folks trying to latch on to DevOps in their own environments except there were answers. The call made me realize SJ Technologies would be an amazing opportunity. I look forward to doing great things!
-

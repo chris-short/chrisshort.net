@@ -7,10 +7,11 @@ draft = false
 slug = "interview-gina-elise-pin-ups-for-vets"
 tags = ["interview", "veteran"]
 title = "Interview with Gina Elise of Pin Ups for Vets"
-image = "/img/posts/pin-ups-for-vets.jpg"
 aliases = [
     "/interview-with-gina-elise-of-pin-ups-for-vets/"
     ]
+[cover]
+image = "/img/posts/pin-ups-for-vets.jpg"
 
 +++
 
@@ -35,5 +36,3 @@ When I asked how many calendars Gina had sold through Pin Ups for Vets I was a l
 I shouldn't say no one supports Gina Elise's Pin Ups for Vets though, "If it weren't for bloggers and the blog readers the project would not have been as successful. This is where I received the majority of support and sales. I want to thank all of them."
 
 I've already [ordered](http://pinupsforvets.mybigcommerce.com/) my [Pin Ups for Vets](http://www.pinupsforvets.com/) calendar and you should definitely buy one for yourself and send a few overseas. I'm positive no one will be disappointed.
-
-
