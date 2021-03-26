@@ -4,13 +4,14 @@ categories = ["Air Force", "Interviews"]
 date = 2016-08-17T13:05:00Z
 description = ""
 draft = false
-image = "/nc-veterans-oral-history-program/handy_recorder.jpg"
 slug = "nc-vets-oral-history-interview-1"
 tags = ["air force", "us air force", "internet", "military", "linux", "google", "interviews", "veteran", "usaf"]
 title = "North Carolina Veterans Oral History Interview Part 1"
 aliases = [
   "/nc-vets-oral-history-interview-1"
 ]
+[cover]
+image = "/nc-veterans-oral-history-program/handy_recorder.jpg"
 
 +++
 
@@ -24,6 +25,7 @@ The interview was well worth the time it took to coordinate and conduct it. I wo
   <source src="https://cache.chrisshort.net/file/cache-chrisshort-net/nc-veterans-oral-history-interview-1.mp3" type="audio/mpeg">
 Your browser does not support the audio element but you can download it as an MP3.
 </audio>
+
 Also available as an [MP3 download](https://cache.chrisshort.net/file/cache-chrisshort-net/nc-veterans-oral-history-interview-1.mp3)
 
 {{< carbon >}}

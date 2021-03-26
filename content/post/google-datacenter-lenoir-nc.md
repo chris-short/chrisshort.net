@@ -7,6 +7,7 @@ draft = false
 slug = "google-datacenter-lenoir-nc"
 tags = ["google"]
 title = "Google Building New Datacenter in Lenoir, NC"
+[cover]
 image = "/img/posts/Google_2007.png"
 
 +++
@@ -42,5 +43,3 @@ I for one can attest to the severe hurt the loss of the furniture and textile in
 The news of Google setting up shop in the region is very good. A new, more stable technology boom is exactly what that region needs. A major blue chip tech leader will significantly help North Carolina highlight what the region has to offer as far as infrastructure and work force.
 
 To apply for a job with Google go to [Google Jobs](https://careers.google.com/jobs).
-
-

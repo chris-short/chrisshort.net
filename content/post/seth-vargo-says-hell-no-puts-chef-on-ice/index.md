@@ -6,10 +6,11 @@ description = "Seth Vargo, a former Chef employee, learned something he wasn't c
 draft = false
 tags = ["DevOps", "Chef", "Seth Vargo", "Open Source", "impact"]
 title = "Seth Vargo says hell no—puts Chef on ICE"
-image = "/seth-vargo-says-hell-noputs-chef-on-ice/balance-stacked-stones-2171464.jpg"
 aliases = [
   "/seth-vargo-says-hell-no-puts-chef-on-ice/"
 ]
+[cover]
+image = "/seth-vargo-says-hell-noputs-chef-on-ice/balance-stacked-stones-2171464.jpg"
 
 +++
 
@@ -26,5 +27,3 @@ One person. One company. One policy. One decision. Global impact. If anyone want
 Seth continues, "Chef's decision to remain silent on the issue, and their decision to restore an older version of the code, removing me as an author from the metadata, however, speaks volumes to their own moral and ethical standards." Chef has since put Seth's name back on the chef-sugar codebase.
 
 In my opinion, Chef is as culpable as Seth is in all this. The fact someone not at their company anymore could have an impact like this shows an apparent lack of software supply chain controls and safeties. The fact [their timeline shows over a day of unavailability](https://blog.chef.io/2019/09/20/an-update-to-the-chef-community-regarding-current-events/) for some components leads me to believe that Chef's footing is even shakier than I suspected. Perhaps we should all look in the mirror and ask if our codebases are safe and our decisions are sound, moral, and ethical.
-
-

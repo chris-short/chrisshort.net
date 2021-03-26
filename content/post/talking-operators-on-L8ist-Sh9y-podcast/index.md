@@ -7,8 +7,9 @@ draft = false
 slug = "talking-operators-with-rob-zehicle"
 tags = ["Chris Short", "Rob Zehicle", "Operator", "Operators", "Kubernetes", "OpenShift", "CRD", "cluster", "application", "Operator pattern", "Ansible", "magic", "Red Hat", "clusters", "pods", "DevOps", "podcast", "Operator Framework"]
 title = "Talking Operators with Rob Zehicle on L8ist Sh9y Podcast"
-image = "/talking-operators-with-rob-zehicle-on-l8ist-sh9y-podcast/talking-operators-on-l8ist-sh9y-podcast.png"
 aliases = ["talking-operators-on-l8ist-sh9y-podcast"]
+[cover]
+image = "/talking-operators-with-rob-zehicle-on-l8ist-sh9y-podcast/talking-operators-on-L8ist-Sh9y-podcast.png"
 
 +++
 

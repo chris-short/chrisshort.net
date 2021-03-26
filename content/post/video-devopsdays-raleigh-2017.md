@@ -7,6 +7,7 @@ draft = false
 slug = "video-devopsdays-raleigh-2017"
 tags = ["devops", "devopsdays", "talks"]
 title = "Video: DevOpsDays Raleigh 2017"
+[cover]
 image = "/img/posts/Dark_Side_of_DevOps_DevOpsDays_Raleigh_2017.jpg"
 
 +++

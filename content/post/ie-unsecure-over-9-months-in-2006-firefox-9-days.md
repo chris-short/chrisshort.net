@@ -7,11 +7,12 @@ draft = false
 slug = "ie-unsecure-over-9-months-in-2006-firefox-9-days"
 tags = ["firefox", "microsoft", "security", "open source"]
 title = "IE Unsecure for Over 9 Months in 2006, Firefox, Nine Days"
-image = "/img/posts/ie7-vs-firefox.png"
 aliases = [
     "/ie-unsecure-for-over-9-months-in-2006-firefox-nine-days",
     "/ie-unsecure-for-over-9-months-in-2006-firefox-9-days"
 ]
+[cover]
+image = "/img/posts/ie7-vs-firefox.png"
 
 +++
 

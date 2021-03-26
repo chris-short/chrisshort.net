@@ -4,7 +4,6 @@ categories = ["Microsoft"]
 date = 2005-01-05T04:16:00Z
 description = ""
 draft = false
-image = "/img/posts/Windows_XP_Logo.png"
 slug = "windows-and-big-hard-drives"
 tags = ["microsoft", "windows xp"]
 title = "Windows XP and Big Hard Drives"
@@ -13,6 +12,8 @@ aliases = [
     "/windows-and-big-hard-drives.php",
     "/windows-xp-and-"
 ]
+[cover]
+image = "/img/posts/Windows_XP_Logo.png"
 
 +++
 

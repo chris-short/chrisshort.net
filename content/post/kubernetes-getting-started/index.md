@@ -7,6 +7,7 @@ draft = false
 slug = "kubernetes-getting-started"
 tags = ["DevOps", "kubernetes", "minishift", "minikube", "coreos", "tectonic", "cloud native"]
 title = "Kubernetes: Getting Started"
+[cover]
 image = "/kubernetes-getting-started/kubernetes-getting-started.png"
 
 +++
@@ -36,5 +37,3 @@ After kicking the tires on minikube if you feel like it is missing a few compone
 ## Conclusion
 
 Regardless of how you get started learning Kubernetes now is the time to start. There are so many places to deploy Kubernetes now it doesn't make sense to not kick the tires now before determining if it is a great fit for your use cases. Before you deploy to AWS, Google Cloud, or Azure make sure you're not wasting your time.
-
-

@@ -7,6 +7,7 @@ draft = false
 slug = "desk-setup-jan-2021"
 tags = ["desk", "mic", "camera", "Focusrite Scarlett", "Shure", "Fully Jarvis", "lighting", "monopods", "Sigma", "Logitech", "live streaming", "mic arm", "Heil"]
 title = "Desk Setup, January 2021"
+[cover]
 image = "/img/posts/chris-short-desk-setup-jan-2021.jpg"
 
 +++
@@ -51,7 +52,7 @@ I have destroyed half a dozen mic arms to find one that works finally. I broke s
 
 ## Desk
 
-[Fully Jarvis Powdercoated Standing Desk (72")](https://www.fully.com/standing-desks.html)  
+[Fully Jarvis Powdercoated Standing Desk (72")](https://www.fully.com/standing-desks.html)
 Why Fully? They're a [certified B-Corp](https://www.fully.com/b-corp). The powder coated top that I have isn't available anymore; I understand why. It's a brittle finish. If exposed to heat (from a fresh carafe of coffee, for example), the surface bubbles **permanently**. It scratches easily too. But, that is easily hidden with a [Sharpie](https://amzn.to/3661IZM). I bought a [desk pad](https://amzn.to/3c2wx55) and [silicon pot holders](https://amzn.to/3oaSIZw) to protect the desk's surface. The top's material and width should be something you decide on for yourself based on your needs. I bought the 72" wide version (an enormous desk length) because I have a 78" wingspan. I have room for a ton of gear, as evidenced in the picture in the [tweet](https://twitter.com/ChrisShort/status/1352290404239101953).
 
 Bonus: I bought wheels and a [wire management kit](https://www.fully.com/accessories/wire-management-kit.html) from Fully for the desk to make it easy to move. When I was in the unfinished basement on a concrete floor, I could wheel the desk to any position or spot in the basement to make for a better experience (or make coffee). You never saw this on OpenShift.tv, but you better believe I've made coffee during meetings or put myself in front of the windows to soak in some sunlight during internal or community meetings. Couple the wheels with an [APC Surge Protector with Extension Cord](https://amzn.to/3qDgS0i), and you have a lot of possible configurations if you have a big enough space. One thing to keep in mind is that this means you need to have everything attached to or on the desk itself. I used to have my subwoofer on the floor; I couldn't wheel the desk around much then.

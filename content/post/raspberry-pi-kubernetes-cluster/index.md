@@ -7,10 +7,11 @@ draft = false
 slug = "raspberry-pi-kubernetes-cluster"
 tags = ["open source", "ansible", "containers", "kubernetes", "raspberry pi", "ARM", "k8s", "cluster"]
 title = "Raspberry Pi Kubernetes Cluster"
-image = "/raspberry-pi-kubernetes-cluster/building-raspberry-pi-kubernetes-cluster.jpg"
 aliases = [
      "my-raspberry-pi-kubernetes-cluster"
 ]
+[cover]
+image = "/raspberry-pi-kubernetes-cluster/building-raspberry-pi-kubernetes-cluster.jpg"
 
 +++
 
@@ -47,7 +48,7 @@ One thing I learned in the late 90s was that rebuilding Linux boxes was somethin
 
 If you know me, you know my automation tool of choice is **[Ansible](/tags/ansible/)**. The only time I want to manually SSH into these systems is to fix something very abnormal. There is [kubespray](https://kubespray.io/) but it doesn't address ARM. Kubespray is also overkill for what I'm trying to do. It's also a little heavy for the Raspberry Pi platform itself. I decided to set off and build my own Ansible automation.
 
-rak8s is born. [**rak8s**](https://rak8s.io/) (pronounced rackets) is an Ansible playbook to deploy Kubernetes to Raspberry Pis. The idea of rak8s is two-fold, automate and educate:
+rak8s is born. [**rak8s**](https://github.com/rak8s/rak8s) (pronounced rackets) is an Ansible playbook to deploy Kubernetes to Raspberry Pis. The idea of rak8s is two-fold, automate and educate:
 
 * Help automate Kubernetes cluster management on Raspberry Pi ([lowering the barrier to entry of Kubernetes](/kubernetes-getting-started/))
 * Help others who aren't sure where to get started with Kubernetes deployments
@@ -61,6 +62,4 @@ While I highly recommend Kubernetes on Raspberry Pi, there are some trade-offs t
 
 
 
-I am very happy with the progress I made in a handful of evenings on building and deploying a Raspberry Pi Kubernetes cluster. I'm hopeful that [rak8s](https://rak8s.io/) will turn into a full-blown project. Hopefully, it will allow others to learn and improve their skills while getting into Kubernetes on Raspberry Pi. PRs welcome and happy k8s'ing!
-
-
+I am very happy with the progress I made in a handful of evenings on building and deploying a Raspberry Pi Kubernetes cluster. I'm hopeful that [rak8s](https://github.com/rak8s/rak8s) will turn into a full-blown project. Hopefully, it will allow others to learn and improve their skills while getting into Kubernetes on Raspberry Pi. PRs welcome and happy k8s'ing!

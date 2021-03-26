@@ -27,7 +27,7 @@ Quincy conveyed to me a great many oddities that were noticed about the Center f
 
 Allow me to point out that the Center for Purposeful Living no longer cares for the terminally ill. I'm not quite sure the real reason why they stopped the only noble cause that Human Service Alliance (fka University for Human Goodness, aka Center for Purposeful Living) had.
 
-    
+
 
     As he got more involved with HSA and eventually became engaged to the well-educated woman, he gave his time to HSA and mobilized other business folks to support the perceived purpose of caring for terminally ill people. He later began to realize that there was much below the waterline that wasn't easily discernible by most people. My father came to realize HSA was a cult and that Derwyn Lackey was the head witch doctor.
 
@@ -41,7 +41,7 @@ Allow me to point out that the Center for Purposeful Living no longer cares for 
 
 The screening of Internet activities by those within the organization is something that was conveyed to me during my research for [my previous article about the Center for Purposeful Living](/center-for-purposeful-living/the-cult-that-is-human-service-alliance-and-the-center-for-purposeful-living/). This lends more credibility to those that informed me of this activity.
 
-    
+
 
     My dad asked me in late 1999 if I might consider helping in the renovation of a defunct Red Lobster that was to be turned into a business called, California Fresh Buffet, since my firm provides that kind of service to commercial contractors. During my work there I met Derwyn [Lackey] and some of the other control types.
 
@@ -53,7 +53,5 @@ The ability for these people to judge and condemn others is not "spiritual" or "
 
 I'd like to thank Quincy and his father for sharing this story. I would also like to reiterate the fact that I'm willing to anonymously tell other's stories if they so wish for me to publish them.
 
-![Derwyn Lackey (Derwin Lackey)](/center-for-purposeful-living/recent-derwin-lackey-derwyn.jpg)
+![Derwyn Lackey (Derwin Lackey)](/foundation-for-purposeful-living/recent-derwin-lackey-derwyn.jpg#center)
 Derwyn Lackey, Supreme Ruler of the Center for Purposeful Living
-
-

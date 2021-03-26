@@ -6,8 +6,9 @@ description = "I spoke, sponsored, and worked from DevOpsDays Detroit 2019 this 
 draft = false
 tags = ["DevOps", "DevOpsDays", "Detroit", "Site Reliability Engineering", "SRE", "Conway's Law", "business", "metrics", "data", "vendor pitch", "red hat", "engineering"]
 title = "DevOpsDays Detroit 2019 Trip Report"
+[cover]
 image = "/devopsdays-detroit-2019-trip-report/chris-short-devopsdays-detroit-2019.jpg"
-imagealt = "Photo used with permission from [Brandon Dimcheff](https://twitter.com/bdimcheff)"
+caption = "Photo used with permission from [Brandon Dimcheff](https://twitter.com/bdimcheff)"
 
 +++
 
@@ -38,5 +39,3 @@ There was a talk from Codefresh that was a flat out vendor pitch in which the sp
 The last two talks were about using data to drive decision making. [Daniel Sauble](https://twitter.com/djsauble), npm, talked about what they've been doing to improve ecosystem security and npm's [Security Insights API](https://blog.npmjs.org/post/188385634100/npm-security-insights-api-preview-part-2-malware) (GraphGL-based). npm does have a very unique dataset that it's using to provide users with a more secure ecosystem. It's thought-provoking given the metrics Daniel and team have found to be useful for package distribution security concerns. [Steve Ross](https://twitter.com/stevewritescode), Elastic, had an excellent talk (although borderline vendor pitch). One point Steve made about prioritizing self-service when building data-oriented tooling struck home with me — democratizing access to compute resources and more creates competitive advantages within organizations.
 
 These two talks were probably the most important because it talked about data driving services adding up to improved business value. I had a long discussion with one attendee about how business leaders probably don't care too much about build time improvements and percentage increases in compute saturation. Businesses are generally measured by their investors. Public or private, there are things that the CEO, CTO/CIO/CISO/etc. care about that you're only going to see in business publications and CNBC. EBITDA, net revenue growth, profit growth, debt reduction, etc. All those things some of us glanced over in Econ suddenly matter again when you're trying to drive business through technological innovation. It might sound surprising to some but, I probably have to tell someone this at least once a month. You have to align your metrics to business metrics. Improvements in your metrics should correlate with improvements in business metrics.
-
-

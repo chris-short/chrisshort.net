@@ -17,7 +17,7 @@ I've told you about the cult known as the Center for Purposeful Living, another 
 The following was originally posted on the FACTNet thread dedicated to Human Service Alliance and the Center for Purposeful Living by someone referring to themselves as marcusrevelus and is being republished here because it is so incredibly powerful and remarkably true:
 
     CPL differs from a cult in at least five significant ways:
-    
+
     1) "Family members, parents and friends of students are encouraged to visit the campus both before and during the student's attendance. The campus atmosphere is open and honest. In cults, family members are definitely not welcome."
 
 This happens only if the family or friend is in line with the student's decision to be at CPL or if the CPL is confident they can "manage" any such visitors. Family and friends who clearly disapprove of the organization and make it known are cast as "enablers", "detractors", "victims" who do not have the student's best interests.
@@ -38,7 +38,7 @@ The choice factor becomes increasingly bounded as the student is indoctrinated i
 
 Here's a message from the guru that went out to students after a one-year student departed without receiving a graduation:
 
-    
+
 
     Let us glimpse an apparent less than "happy" conclusion of the one year's experience, just for its own lesson. A few weeks ago a student completed her year. She had not earned a graduation, for reasons which TG kept her apprised of for most of her one year. So no one ends their year here without having a clear sense of how they are doing. Then the wisdom of TG's decision is made clearer several weeks after this former student's departure (not a negative departure, just not a graduation), an email was received from that former student. I believe it was generally copied to the rest of us. The lady's message fortified TG's decision. She did not express negativity towards UfHG. Those who read her email saw a personality still living in abundant victim. It showed a cynicism about life in general, about her ex-boyfriend and about her life in particular, past, present and future. This was the same pathetic attitude (not the person, but the attitude) that came here.
 
@@ -64,7 +64,7 @@ Note the catch-22 nature of this directive, especially if there are issues regar
 
 It's the leadership that holds the answers as to what is "soulful", and if a student's choice or thoughts differ, it is automatically labeled as the "personality choice" (the lesser or wrong one). This creates the tension… essentially, "our way/thoughts/ideas are right, if you choose yours, it's wrong, but hey, it's your choice!" Then if you choose your way, they put on increasingly unpleasant pressure; hold increasingly unpleasant mentoring sessions, begin to broadcast teaching sessions to all, either named or usually thinly disguised. These letters and sessions are designed to single out your issues until you yield or bolt. This mind-control/brainwashing process paralyzes some because most people want to do the right thing; want to make more soulful choices, (and are increasingly indoctrinated that CPL IS that way and no other choice). Conversely, they don't want to be labeled as quitters or losers. The CPL leadership place themselves as the soul experts, and this can begin to erode self trust and certainly has nothing to do with learning to listen to one's OWN inner wisdom,(unless of course it happens to agree with the way they see it).
 
-    
+
 
     4) Leadership is diffused at CPL, not centralized around a single individual.
 
@@ -109,10 +109,8 @@ As for the money, with hundreds of dollars pouring into the restaurant every nig
 
 They teach students that explanations are to be avoided because in so doing, the lesson isn't learned, yet I attended teaching session after teaching session where their leaders EXPLAINED and wrote about why they were not a cult. Looking around at the audience, I did not see thinking people "humming" as they say, but instead glassy eyes ready to worship whatever The Mentor said. That's why I decided to finally read up on cults, and discovered that many of these cult books could have been written about Center for Purposeful Living as the model. That's scary. A cult profile, a leader who is worshipped (with other leaders to worship in training), never wrong or never questioned and obvious mind control techniques going on… this group is NOT what they say they are, and I had to eat humble pie with friends and family and acknowledge they were right. I am so grateful to be out and thinking clearly again and am glad to report that service and "soulfulness" did not begin nor end with CPL.
 
-![Derwyn Lackey (Derwin Lackey)](/center-for-purposeful-living/recent-derwin-lackey-derwyn.jpg)
+![Derwyn Lackey (Derwin Lackey)](/foundation-for-purposeful-living/recent-derwin-lackey-derwyn.jpg#center)
 
-![Derwyn Lackey (Derwin Lackey)](/center-for-purposeful-living/derwin-lackey-derwyn-lackey.jpg)
+![Derwyn Lackey (Derwin Lackey)](/foundation-for-purposeful-living/derwin-lackey-derwyn-lackey.jpg#center)
 
 Derwyn Lackey, Supreme Ruler of the Center for Purposeful Living
-
-

@@ -4,10 +4,11 @@ categories = ["Linux", "Open Source"]
 date = 2013-05-03T18:18:00Z
 description = ""
 draft = false
-image = "/img/posts/Virtualbox_logo.png"
 slug = "install-virtualbox-guest-additions-via-command-line"
 tags = ["virtualbox", "centos"]
 title = "Install VirtualBox Guest Additions via Command Line"
+[cover]
+image = "/img/posts/Virtualbox_logo.png"
 
 +++
 

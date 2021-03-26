@@ -4,10 +4,11 @@ categories = ["Git"]
 date = 2016-06-25T17:06:05Z
 description = "Distributed version control isn't designed to allow folks to delete every instance of a file. But, if you run into a case where you need to expunge a file in git, here is how we did it."
 draft = false
-image = "/img/posts/git-logo.png"
 slug = "permanently-remove-any-record-of-a-file-from-git"
 tags = ["git", "remove", "scm", "vcs", "repo", "cloud"]
 title = "Permanently Remove Any Record of a File From git"
+[cover]
+image = "/img/posts/git-logo.png"
 
 +++
 
@@ -42,6 +43,6 @@ Replace the centralized repo (aka REPO LOCATION) and any copies (cloud or otherw
 
 There are several guides and HOWTOs that we stumbled across to do this; those might work better for your use case (Google is your friend). But, this five step process worked very well for us.
 
-* [http://stackoverflow.com/questions/9224754/how-to-remove-origin-from-git-repository](http://stackoverflow.com/questions/9224754/how-to-remove-origin-from-git-repository)  
-* [http://git-scm.com/docs/git-filter-branch](http://git-scm.com/docs/git-filter-branch)  
+* [http://stackoverflow.com/questions/9224754/how-to-remove-origin-from-git-repository](http://stackoverflow.com/questions/9224754/how-to-remove-origin-from-git-repository)
+* [http://git-scm.com/docs/git-filter-branch](http://git-scm.com/docs/git-filter-branch)
 * [https://rtyley.github.io/bfg-repo-cleaner/](https://rtyley.github.io/bfg-repo-cleaner/)

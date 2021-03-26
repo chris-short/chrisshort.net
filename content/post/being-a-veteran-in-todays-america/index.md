@@ -7,8 +7,9 @@ draft = false
 slug = "being-a-veteran-in-todays-america"
 tags = ["veteran", "veterans", "America", "rank", "recognition"]
 title = "Being a Veteran in Today's America"
+[cover]
 image = "/being-a-veteran-in-todays-america/steve-harvey-330899-unsplash.jpg"
-imagecap = "The Incredibly Few, The Mostly Proud: The Anonymous Veterans of Today's America"
+caption = "The Incredibly Few, The Mostly Proud: The Anonymous Veterans of Today's America"
 
 +++
 

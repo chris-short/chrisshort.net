@@ -15,7 +15,7 @@ aliases = [
 
 +++
 
-![Tux Directory Tree](https://cache.chrisshort.net/file/cache-chrisshort-net/tux-tree.gif) For more information about the Linux directory structure see the [Filesystem Hierarchy Standard (FHS)](http://www.pathname.com/fhs/) which is part of the [Linux Standard Base (LSB)](http://www.linuxbase.org/) which is a workgroup of the [Free Standards Group](http://www.freestandards.org/).
+![Tux Directory Tree](https://cache.chrisshort.net/file/cache-chrisshort-net/tux-tree.gif#center) For more information about the Linux directory structure see the [Filesystem Hierarchy Standard (FHS)](http://www.pathname.com/fhs/) which is part of the [Linux Standard Base (LSB)](http://www.linuxbase.org/) which is a workgroup of the [Free Standards Group](http://www.freestandards.org/).
 
 {{< eo >}}
 
@@ -52,5 +52,3 @@ aliases = [
 `/usr` Typically a shareable, read-only directory. Contains user applications and supporting files for those applications. **/usr/X11R6** is used by the X Window System. **/usr/bin** contains user accessible commands. **/usr/doc** holds documentation for /usr applications. **/usr/include** this directory contains header files for the C compiler. **/usr/include/g++** contains header files for the C++ compiler. **/usr/lib** libraries, binaries, and object files that aren't usually executed directly by users. **/usr/local** used for installing software locally that needs to be safe from being overwritten when system software updates occur. **/usr/man** is where the manual pages are kept. **/usr/share** is for read-only independent data files. **/usr/src** is used for storing source code of applications installed and kernel sources and headers.
 
 `/var` This directory contains variable data files such as logs (**/var/log**), mail (**/var/mail**), and spools (**/var/spool**) among other things.
-
-

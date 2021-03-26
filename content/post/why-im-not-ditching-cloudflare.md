@@ -7,6 +7,7 @@ draft = false
 slug = "why-im-not-ditching-cloudflare"
 tags = ["internet", "cloudflare", "hate", "diversity", "bgp"]
 title = "Why I'm Not Ditching Cloudflare"
+[cover]
 image = "/img/posts/cf-logo-v-rgb.png"
 
 +++
@@ -28,5 +29,3 @@ It's important to recognize that Cloudflare has historically not caved into pres
 I began to export DNS zone files from Cloudflare to push to Azure. When I went to use the Azure CLI tool something broke when importing the zone files. [I reached out to Kris Nova](https://twitter.com/Kris__Nova/status/897946854477910016) for help and after some bandying about we concluded [I found a bug in the Azure CLI tool](https://github.com/Azure/azure-cli/issues/4245). I decided it was worth waiting for the bug to get fixed to migrate away from Cloudflare. Then something happened; [Cloudflare banned the neo-Nazis from their service](https://blog.cloudflare.com/why-we-terminated-daily-stormer/).
 
 I listened to Ben Thompson and James Allworth discuss Cloudflare's decision on [The Exponent Episode 121](http://exponent.fm/episode-121-the-uber-mutation/) and got a lot more of the back story than I originally had on the banning. Matthew Prince waking up in a bad mood and deciding to kick folks off the service he and his team built was something I did not see coming. His reluctance to do so and the explanation as to why doing it was actually a bad thing is well reasoned. For that reason, among many others (like their impeccable uptime record made possible by BGP), I am deciding to stay with Cloudflare. It wasn't an easy decision but time, bugs, unprecedented events, and reason all played a factor.
-
-

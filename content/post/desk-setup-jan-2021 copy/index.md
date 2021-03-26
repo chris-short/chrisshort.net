@@ -6,6 +6,7 @@ description = "Chris Short is accidentally named Red Hat CEO but also a Key Opin
 draft = false
 tags = ["Kubernetes", "Onalytica", "report", "Red Hat", "influencer"]
 title = "Named Key Opinion Leader, Kubernetes Influencer, and (accidentally) Red Hat CEO by Onalytica"
+[cover]
 image = "/img/posts/whos-who-in-hybrid-cloud.webp"
 
 +++

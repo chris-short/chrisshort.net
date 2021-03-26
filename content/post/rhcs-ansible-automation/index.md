@@ -7,11 +7,12 @@ draft = false
 slug = "rhcs-ansible-automation"
 tags = ["red hat", "ansible", "product", "marketing", "automation"]
 title = "I'm a Red Hat Certified Specialist: Ansible Automation"
+[cover]
 image = "/im-a-red-hat-certified-specialist-ansible-automation/rhcs-ansible-automation-chris-short.png"
 
 +++
 
-The last week of November 2018, I made a trip to the Red Hat office in Westford, MA. I was enrolled in [Automation with Ansible I (DO407)](https://www.redhat.com/en/services/training/do407-automation-ansible-i) with [exam (EX407)](https://www.redhat.com/en/services/training/ex407-red-hat-certified-specialist-in-ansible-automation-exam) class. One of my co-workers scoffed when I told him I was going. He didn't seem to quite understand why I wanted a certification I don't need (I do work for Ansible now after all). I hope to address that and why Product and Marketing people should get certified (not only Ops).
+The last week of November 2018, I made a trip to the Red Hat office in Westford, MA. I was enrolled in [Automation with Ansible I (DO407)](https://www.redhat.com/en/services/certification/rhcs-ansible-automation) with [exam (EX407)](https://www.redhat.com/en/services/training/ex407-retired-red-hat-certified-specialist-in-ansible-automation-exam) class. One of my co-workers scoffed when I told him I was going. He didn't seem to quite understand why I wanted a certification I don't need (I do work for Ansible now after all). I hope to address that and why Product and Marketing people should get certified (not only Ops).
 
 ## Why did I feel the need to do this?
 

@@ -7,6 +7,7 @@ draft = false
 slug = "joining-ansible-team-at-red-hat"
 tags = ["red hat", "ansible", "linux", "devops", "usaf"]
 title = "Joining Ansible Team at Red Hat"
+[cover]
 image = "/joining-ansible-team-at-red-hat/joining-ansible-team.png"
 imagecap = ""
 
@@ -49,5 +50,3 @@ Most importantly, I want to facilitate more collaboration between all the projec
 ## Conclusion
 
 I would like to thank Karen Lawton and John Willis of [SJ Technologies](http://sjtechcorp.com). They brought me on board to help a few clients and I feel like I was able to accomplish that in six short months. Thank you to the DevOps community for embracing me in a way that few other communities have. I might not be as active on the DevOpsDays speaking circuit but, I'll definitely be around (and will still be submitting [Abstracts](/abstracts/) as appropriate). Most importantly, thank you to Justin Nemmers and all my new colleagues at Red Hat. I am looking forward to working with you all. I think this is a fantastic fit!
-
-

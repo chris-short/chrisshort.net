@@ -4,11 +4,12 @@ categories = ["Internet", "Google", "Failure"]
 date = 2016-10-30T11:00:00Z
 description = "There is movement around how consumers will be gaining access to the Internet. Your future Internet connection will not be a physical connection at all."
 draft = false
-image = "/img/posts/twc-power-utility-house-connection.jpg"
 slug = "demise-of-google-fiber-and-internet-under-dirt"
 tags = ["internet", "google", "fiber", "wireless", "Verizon"]
 title = "The Demise of Google Fiber and Internet Under Dirt"
 aliases = ["demise-of-google-fiber-and-internet-under-dirt"]
+[cover]
+image = "/img/posts/twc-power-utility-house-connection.jpg"
 
 +++
 
@@ -44,5 +45,3 @@ Notice who is missing? Google, Apple, Facebook. These companies didn't get in on
 Could you imagine trying to manage your data buckets when everything in your home is connected to your wireless plan? I guarantee your smart TV and Nest camera are going to annihilate your wireless plan if AT&T, Verizon, Sprint, etc. are allowed to carry their current business models into the future.
 
 Laying fiber is expensive and often times legally cumbersome compared to broadcasting wirelessly. But, the perception seems to fly in the face of the reality in the sense that the market should pay more for wireless than landline internet service.
-
-

@@ -4,10 +4,11 @@ categories = ["Diversity", "Civics"]
 date = 2016-06-21T05:44:00Z
 description = ""
 draft = false
-image = "/img/posts/lgbt-usa-map.png"
 slug = "understanding-fear-and-hate"
 tags = ["hate", "fear", "lgbt", "lgbtq", "culture", "philosophy"]
 title = "Understanding, Fear, and Hate"
+[cover]
+image = "/img/posts/lgbt-usa-map.png"
 
 +++
 
@@ -29,4 +30,3 @@ The liberal left in this country has been historically anti-gun. To which I ask 
 Much like when a new technology emerges, you cannot immediately discount it as a fad. You should look at its value and assess whether the technology is worth investing in or at the very least seeing where it goes. You should never discredit someone for their beliefs if you do not understand them. To understand what someone believes you have to talk to them without trying to sway their opinion. Simply saying Technology X is working for us right now is not going to motivate people to try new things and innovate. Much like not talking to people to gain an understanding will not change what people think is wrong in the United States.
 
 If there is one thing I hope that comes from the Orlando attack is for Americans to try to stop hating one thing or another. People hopefully will understand that they might hate something because of a fear. As humans we should never accept fear of something we do not understand. We must seek out understanding to better ourselves and our society.
-

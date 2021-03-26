@@ -4,10 +4,11 @@ categories = ["DevOps", "Newsletters"]
 date = 2017-02-03T13:03:00Z
 description = ""
 draft = false
-image = "/img/posts/success.jpg"
 slug = "recent-accomplishments"
 tags = ["DevOps", "open source"]
 title = "Recent Accomplishments"
+[cover]
+image = "/img/posts/success.jpg"
 
 +++
 

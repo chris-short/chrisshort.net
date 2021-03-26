@@ -2,7 +2,7 @@
 author = "Chris Short"
 categories = ["Air Force"]
 date = 2005-08-05T17:33:00Z
-description = ""
+summary = ""
 draft = false
 tags = ["tech control", "technical controller", "us air force", "usaf"]
 title = "3C2X1: Communications - Computer Systems Controller"
@@ -47,5 +47,3 @@ There is really no limit to what kind of communications a tech controller will d
 * Test Equipment
 
 The Tech Control career field was converted to [3D1X2 Cyber Transport Systems](https://www.airforce.com/careers/detail/cyber-transport-systems) in 2009.
-
-

@@ -4,11 +4,12 @@ categories = ["DevOps", "Talks"]
 date = 2017-05-30T22:46:35Z
 description = ""
 draft = false
-image = "/img/posts/a-night-of-devops.jpg"
 slug = "night-of-devops-open-source-sc"
 tags = ["DevOps", "cloud native", "talks"]
 title = "A Night of DevOps at Open Source South Carolina"
 aliases = ["night-of-devops-open-source-sc"]
+[cover]
+image = "/img/posts/a-night-of-devops.jpg"
 
 +++
 

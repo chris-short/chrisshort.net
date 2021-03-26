@@ -7,10 +7,11 @@ draft = false
 slug = "windows-vista-upgrade-bad-idea"
 tags = ["microsoft", "windows", "vista", "windows xp"]
 title = "Windows Vista: Upgrading Seems Like a Really Bad Idea"
-image = "/img/posts/windows-vista.png"
 aliases = [
     "windows-vista-upgrading-seems-like-a-really-bad-idea"
     ]
+[cover]
+image = "/img/posts/windows-vista.png"
 
 +++
 I've come to the conclusion that upgrading to Windows Vista would be a horrible decision; allow me to explain why.

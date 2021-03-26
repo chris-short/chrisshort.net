@@ -4,10 +4,11 @@ categories = ["DevOps"]
 date = 2017-01-26T21:37:04Z
 description = ""
 draft = false
-image = "/img/posts/aws.jpg"
 slug = "find-ec2-instances-that-are-missing-tags"
 tags = ["EC2", "AWS", "jq", "DevOps"]
 title = "Find EC2 Instances That Are Missing Tags"
+[cover]
+image = "/img/posts/aws.jpg"
 
 +++
 

@@ -4,10 +4,11 @@ categories = ["DevOps"]
 date = 2016-10-05T20:56:00Z
 description = ""
 draft = false
-image = "/img/posts/PagerDuty-logo-green.png"
 slug = "notes-on-pagerduty"
 tags = ["pagerduty", "oncall"]
 title = "Notes on PagerDuty"
+[cover]
+image = "/img/posts/PagerDuty-logo-green.png"
 
 +++
 
@@ -22,6 +23,6 @@ The answer to both those questions is an astounding, "YES!" PagerDuty provides i
 
 {{< carbon >}}
 
-![PagerDuty - On Call Schedules](https://cache.chrisshort.net/file/cache-chrisshort-net/On_Call_Schedules_-_PagerDuty.png)
+![PagerDuty - On Call Schedules](https://cache.chrisshort.net/file/cache-chrisshort-net/On_Call_Schedules_-_PagerDuty.png#center)
 
 The "What number is going to call me?" question was a little harder to solve but there was an obvious answer. PagerDuty has a [Phone numbers notifications are sent from](https://support.pagerduty.com/hc/en-us/articles/202828870-Phone-numbers-notifications-are-sent-from) support document and the list of phone numbers is rather long. PagerDuty has also created a [PagerDuty vCard](https://support.pagerduty.com/hc/en-us/article_attachments/205629327/PagerDuty_Outgoing_Numbers.vcf) so that you can quickly add all their numbers to your address book.

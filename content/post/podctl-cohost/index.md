@@ -6,8 +6,9 @@ description = "Chris Short added as co-host on Red Hat's Kubernetes podcast: Pod
 draft = true
 tags = ["PodCTL", "Kubernetes", "podcast"]
 title = "PodCTL Co-host"
+[cover]
 image = "/podctl-co-host/PodCTL-Logo-KubernetesFromRedHat-June2019.png"
-imagealt = "PodCTL - Enterprise Kubernetes"
+alt = "PodCTL - Enterprise Kubernetes"
 
 +++
 

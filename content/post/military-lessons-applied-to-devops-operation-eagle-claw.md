@@ -4,10 +4,11 @@ categories = ["DevOps"]
 date = 2017-01-18T15:05:00Z
 description = ""
 draft = false
-image = "/img/posts/operation-eagle-claw.png"
 slug = "military-lessons-applied-to-devops-operation-eagle-claw"
 tags = ["DevOps", "military"]
 title = "Military Lessons Applied to DevOps: Operation Eagle Claw"
+[cover]
+image = "/img/posts/operation-eagle-claw.png"
 
 +++
 
