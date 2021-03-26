@@ -57,7 +57,7 @@ My next all-hands was with my business unit leadership. They were very open, hon
 >
 > Please keep in mind, IBM has been building, for a decade or more, negative thoughts in peoples minds. Their own actions have affected friends and family negatively. I know companies exist to deliver value to investors. But, we live in a very different world. Red Hat was this shining beacon of hope for people. Peoples' hopes and dreams are on uncertain footing now.
 >
-> Some of us now have this fear of an IBM blue washing of Red Hat. Google has shown for years that, psychological safety is important to effective teams (https://rework.withgoogle.com/blog/five-keys-to-a-successful-google-team/). Being as psychologically safe at a company as I am at Red Hat has never happened to me before. It has been liberating. I don't feel safe being as open as I was last week and this is the first twelve hours. Please help folks try to feel safe through this acquisition.
+> Some of us now have this fear of an IBM blue washing of Red Hat. Google has shown for years that, psychological safety is important to effective teams (<https://rework.withgoogle.com/blog/five-keys-to-a-successful-google-team/>). Being as psychologically safe at a company as I am at Red Hat has never happened to me before. It has been liberating. I don't feel safe being as open as I was last week and this is the first twelve hours. Please help folks try to feel safe through this acquisition.
 >
 > Last week, I told a friend I finally found a place to call home in Red Hat. That friend is now trying to recruit me away from Red Hat. As I'm sure you're painfully aware, the industry moves way faster than this acquisition ever will. Please keep that in mind
 >

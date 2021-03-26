@@ -164,7 +164,6 @@ Download: [MP4](https://archive.org/details/aws-michigan-meetup-april-2018-heave
 Date: 2018-04-18  
 Event: [DevOpsDays Atlanta 2018](https://www.devopsdays.org/events/2018-atlanta/program/chris-short/)  
 Blog Post: [DevOpsDays Atlanta 2018: DevOps is Not War](/devopsdays-atlanta-2018-devops-is-not-war/)  
-YouTube: [DevopsdaysATL2018 - Day 2](https://www.youtube.com/watch?v=_VzVOSiXnNM&t=22m22s)
 
 ## DevOpsDays Charlotte 2018 - Golang to the Rescue: Saving DevOps from TLS Turmoil
 
