@@ -114,11 +114,9 @@
     max-width: 400px;
     padding: 8px 12px;
     box-sizing: border-box;
-    border: 1px solid #ccc;
+    border: 1px solid var(--secondary);
 }
 .emailoctopus-form-centered .emailoctopus-form-row-subscribe button {
-    background-color: #e0e0e0;
-    color: #000;
     display: block;
     margin: 0 auto 12px;
     width: 100%;
@@ -129,6 +127,8 @@
     border-radius: 5px;
     font-family: inherit;
     font-weight: 700;
+    color: currentColor;
+    background: var(--tertiary);
 }
 .emailoctopus-form-centered .emailoctopus-form-row-consent {
     margin-bottom: 15px;
@@ -140,4 +140,12 @@
 
 input {
     color: currentColor;
+    border-radius: var(--radius);
+    padding: 0.4em;
+}
+
+.newsletter {
+    background: var(--code-bg);
+    padding: 2px 10px;
+    border-radius: 8px;
 }
