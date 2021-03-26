@@ -96,6 +96,7 @@
     width: 100%;
     max-width: 400px;
     text-align: center;
+    margin: auto;
 }
 .emailoctopus-form-centered.emailoctopus-form-wrapper h2 {
     margin: 15px 0;
@@ -135,4 +136,8 @@
 .emailoctopus-form-centered .emailoctopus-referral,
 .emailoctopus-form-centered .emailoctopus-rewards {
     margin-top: 1.2em;
+}
+
+input {
+    color: currentColor;
 }
