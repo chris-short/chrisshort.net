@@ -11,6 +11,8 @@ Copyright: "[Some rights reserved](https://chrisshort.net/copyright/) • [Chris
 permalinks:
     post: ":title/"
 Params:
+    # https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#enable-social-metadata-and-seo
+    env: production
     label:
         icon: /favicons/favicon-32x32.png
 
