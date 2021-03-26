@@ -8,14 +8,14 @@ HUGO_ENV = "production"
 HUGO_ENABLEGITINFO = "false"
 
 [context.split1]
-command = "curl -L https://emailoctopus.com/bundles/emailoctopuslist/js/1.6/form-recaptcha.js -o assets/js/form-recaptcha.js && curl -L https://emailoctopus.com/bundles/emailoctopuslist/js/1.6/form-embed.js -o assets/js/form-embed.js && hugo --gc --minify --enableGitInfo"
+command = "curl -L https://emailoctopus.com/bundles/emailoctopuslist/js/1.6/form-recaptcha.js -o assets/js/extended/form-recaptcha.js && curl -L https://emailoctopus.com/bundles/emailoctopuslist/js/1.6/form-embed.js -o assets/js/form-embed.js && hugo --gc --minify --enableGitInfo"
 
 [context.split1.environment]
 HUGO_VERSION = "0.82.0"
 HUGO_ENV = "production"
 
 [context.deploy-preview]
-command = "curl -L https://emailoctopus.com/bundles/emailoctopuslist/js/1.6/form-recaptcha.js -o assets/js/form-recaptcha.js && curl -L https://emailoctopus.com/bundles/emailoctopuslist/js/1.6/form-embed.js -o assets/js/form-embed.js && hugo --gc -DF -b $DEPLOY_PRIME_URL"
+command = "curl -L https://emailoctopus.com/bundles/emailoctopuslist/js/1.6/form-recaptcha.js -o assets/js/extended/form-recaptcha.js && curl -L https://emailoctopus.com/bundles/emailoctopuslist/js/1.6/form-embed.js -o assets/js/form-embed.js && hugo --gc -DF -b $DEPLOY_PRIME_URL"
 [context.deploy-preview.environment]
 HUGO_VERSION = "0.82.0"
 # Skip all post processing in deploy previews,
@@ -24,7 +24,7 @@ HUGO_VERSION = "0.82.0"
   skip_processing = true
 
 [context.branch-deploy]
-command = "curl -L https://emailoctopus.com/bundles/emailoctopuslist/js/1.6/form-recaptcha.js -o assets/js/form-recaptcha.js && curl -L https://emailoctopus.com/bundles/emailoctopuslist/js/1.6/form-embed.js -o assets/js/form-embed.js && hugo --gc -DF -b $DEPLOY_PRIME_URL"
+command = "curl -L https://emailoctopus.com/bundles/emailoctopuslist/js/1.6/form-recaptcha.js -o assets/js/extended/form-recaptcha.js && curl -L https://emailoctopus.com/bundles/emailoctopuslist/js/1.6/form-embed.js -o assets/js/form-embed.js && hugo --gc -DF -b $DEPLOY_PRIME_URL"
 [context.branch-deploy.environment]
 HUGO_VERSION = "0.82.0"
 
