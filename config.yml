@@ -15,6 +15,10 @@ Params:
     env: production
     label:
         icon: /favicons/favicon-32x32.png
+        favicon16x16: /favicons/favicon-16x16.png
+        favicon32x32: /favicons/favicon-32x32.png
+        apple_touch_icon: /favicons/apple_icon.png
+        safari_pinned_tab: /favicons/safari_pinned_tab.svg
 
     homeInfoParams:
         Title: Chris Short
