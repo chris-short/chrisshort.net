@@ -7,6 +7,7 @@ draft = false
 slug = "all-things-open-2017-devops-readme.md"
 tags = ["DevOps", "books", "culture", "talks"]
 title = "All Things Open 2017: DevOps README.md"
+[cover]
 image = "/all-things-open-2017-devops-readme.md/chris-short-all-things-open-devops-readme.jpg"
 
 +++

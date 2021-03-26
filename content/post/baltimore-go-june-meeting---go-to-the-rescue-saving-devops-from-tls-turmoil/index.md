@@ -7,12 +7,12 @@ draft = false
 slug = "baltimore-go-june-meeting---go-to-the-rescue-saving-devops-from-tls-turmoil"
 tags = ["speaking", "talks", "devops", "go", "golang", "baltimore", "tls"]
 title = "Baltimore Go June Meeting - Go to the Rescue: Saving DevOps from TLS Turmoil"
-image = "/baltimore-go-june-meeting-go-to-the-rescue-saving-devops-from-tls-turmoil/This_is_Fine_Gopher.png"
-imagecap = "Gopher Art Always Courtesy of [Ashley McNamara](https://github.com/ashleymcnamara/gophers)"
 aliases = [
      "baltimore-go-june-meeting---go-to-the-rescue-saving-devops-from-tls-turmoil"
 ]
-
+[cover]
+image = "/baltimore-go-june-meeting-go-to-the-rescue-saving-devops-from-tls-turmoil/This_is_Fine_Gopher.png"
+caption = "Gopher Art Always Courtesy of [Ashley McNamara](https://github.com/ashleymcnamara/gophers)"
 +++
 
 I was in the DC metro area when I received an e-mail about the [Baltimore Go Meetup](https://www.meetup.com/BaltimoreGolang/) happening on June 5th. Since I was nearby, I decided to go ahead and RSVP to the event. I mentioned this on Twitter and shortly thereafter [Johnny Boursiquot wondered if I could speak](https://twitter.com/jboursiquot/status/1003733156871237633).
