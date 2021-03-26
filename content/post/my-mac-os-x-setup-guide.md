@@ -4,10 +4,11 @@ categories = ["Apple"]
 date = 2016-06-08T19:58:34Z
 description = ""
 draft = false
-image = "/img/posts/macbook.jpg"
 slug = "my-mac-os-x-setup-guide"
 tags = ["mac os x", "macos", "virtualbox", "tools"]
 title = "My Mac OS X Setup Guide"
+[cover]
+image = "/img/posts/macbook.jpg"
 
 +++
 

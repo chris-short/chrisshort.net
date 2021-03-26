@@ -4,10 +4,11 @@ categories = ["Music"]
 date = 2016-09-14T17:00:00Z
 description = "The Notorious B.I.G. was one of the best rappers ever. This is the definitive collection of the best Notorious B.I.G. remixes and mashups ever created."
 draft = false
-image = "/img/posts/The_Notorious_B.I.G._graffiti.jpg"
 slug = "notorious-remixes"
 tags = ["notorious big", "mashup", "remix", "hip hop"]
 title = "Notorious Remixes"
+[cover]
+image = "/img/posts/The_Notorious_B.I.G._graffiti.jpg"
 
 +++
 
@@ -33,7 +34,7 @@ Produced by [Jaymee Franchina](https://soundcloud.com/jaymeefranchina) and Jerem
 
 Life After Death Star is a mashup of Star Wars scores and The Notorious B.I.G. Life After Death Star is a very well put together remix that reminds you how good both Star Wars theme music and sound effects are. [Solar Slim and Richie Branson put Life After Death Star](http://lifeafterdeathstar.net/) together. It is a truly fantastic mashup! Download [**Life After Death Star**](http://lifeafterdeathstar.net/) directly, grab a [torrent](https://cache.chrisshort.net/file/cache-chrisshort-net/life_after_death_star_(2015).torrent), or stream it
 
-<iframe width="565" height="450" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/169656164&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=true"></iframe>
+<iframe width="100%" height="450" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/169656164&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=true"></iframe>
 
 The [instrumentals for Life After Death Star](https://cache.chrisshort.net/file/cache-chrisshort-net/LADS%20Instrumentals%20-%20TEAMBACKPACK.zip) are also available.
 
@@ -41,7 +42,7 @@ The [instrumentals for Life After Death Star](https://cache.chrisshort.net/file/
 
 A tribute to two of New York's greatest exports (Frank Sinatra and The Notorious B.I.G.), Blue Eyes Meets Bed-Stuy is a mashup of epic proportions. Released in 2004 by [dj cappel](https://soundcloud.com/djcappel), Blue Eyes Meets Bed-Stuy does not disappoint. You can [download Blue Eyes Meets Bed Stuy](https://cache.chrisshort.net/file/cache-chrisshort-net/Blue%20Eyes%20Meets%20Bed%20Stuy.zip) is available for download or you can stream it
 
-<iframe width="565" height="450" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/1061143&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
+<iframe width="100%" height="450" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/1061143&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
 
 **Watching OVER The Throne**
 

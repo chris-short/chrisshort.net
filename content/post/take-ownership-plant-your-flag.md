@@ -4,10 +4,11 @@ categories = ["Philosophy"]
 date = 2016-06-28T17:11:49Z
 description = ""
 draft = false
-image = "/img/posts/plant-flag.jpg"
 slug = "take-ownership-plant-your-flag"
 tags = ["ownership", "philosophy"]
 title = "Take Ownership; \"Plant Your Flag\""
+[cover]
+image = "/img/posts/plant-flag.jpg"
 
 +++
 

@@ -4,10 +4,11 @@ categories = ["DevOps"]
 date = 2016-05-23T21:44:50Z
 description = ""
 draft = false
-image = "/img/posts/broken-heart.jpg"
 slug = "poorly-documented-dependencies"
 tags = ["ansible", "new relic", "nodejs", "npm", "yum", "dependency", "dependencies", "tools"]
 title = "Poorly Documented Dependencies"
+[cover]
+image = "/img/posts/broken-heart.jpg"
 
 +++
 

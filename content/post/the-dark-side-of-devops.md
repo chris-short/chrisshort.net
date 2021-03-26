@@ -4,10 +4,11 @@ categories = ["DevOps"]
 date = 2017-03-10T12:02:00Z
 description = ""
 draft = false
-image = "/img/posts/dagobah-cave.jpg"
 slug = "the-dark-side-of-devops"
 tags = ["DevOps"]
 title = "The Dark Side of DevOps"
+[cover]
+image = "/img/posts/dagobah-cave.jpg"
 
 +++
 

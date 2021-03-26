@@ -7,6 +7,7 @@ draft = false
 slug = "devops-hiring-guide"
 tags = ["DevOps", "job", "hiring"]
 title = "DevOps Hiring Guide"
+[cover]
 image = "/img/posts/devops_hiring_guide_lead_image.png"
 
 +++
@@ -17,5 +18,5 @@ To discuss attracting talent I brough in a fantastic recruiter to bounce questio
 
 {{< eo >}}
 
-I'm proud of this piece of work. Please check it out and let me know what you think:  
+I'm proud of this piece of work. Please check it out and let me know what you think:
 [**The DevOps Hiring Guide**](https://opensource.com/downloads/devops-hiring-guide/toc)

@@ -14,7 +14,7 @@ On June 1, 2016, Microsoft released an update to it's Remote Desktop client for 
 
 {{< eo >}}
 
-![Microsoft Remote Desktop Connection Reset by Peer](https://cache.chrisshort.net/file/cache-chrisshort-net/microsoft-remote-desktop-connection-reset-by-peer.png)
+![Microsoft Remote Desktop Connection Reset by Peer](https://cache.chrisshort.net/file/cache-chrisshort-net/microsoft-remote-desktop-connection-reset-by-peer.png#center)
 
 Sadly, unless you have a Time Machine backup to grab the old version from you are likely going to have to find an alternative. If you do happen to have an older version that isn't broken let me know and I will gladly host it for all to get here.
 

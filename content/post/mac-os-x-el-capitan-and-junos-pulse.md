@@ -4,10 +4,11 @@ categories = ["Apple"]
 date = 2015-10-06T20:54:19Z
 description = ""
 draft = false
-image = "/img/posts/Pulse-Secure-Logo-Medium_optimized.png"
 slug = "mac-os-x-el-capitan-and-junos-pulse"
 tags = ["junos pulse", "apple keychain", "mac os x", "el capitan", "apple", "macos"]
 title = "Mac OS X El Capitan and Junos Pulse"
+[cover]
+image = "/img/posts/Pulse-Secure-Logo-Medium_optimized.png"
 
 +++
 

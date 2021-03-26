@@ -7,6 +7,7 @@ draft = false
 slug = "orkut-google-social-network"
 tags = ["social media", "google"]
 title = "orkut.com - Google's Social Network"
+[cover]
 image = "/img/posts/Orkut_2004.png"
 
 +++
@@ -47,5 +48,3 @@ If you would like more information about orkut.com check out these other article
 * [Google Releases Orkut Social Networking Service](https://searchenginewatch.com/sew/news/2066827/google-releases-orkut-social-networking-service) (SearchEngineWatch.com)
 * [Google debuts Friendster-clone Orkut](http://www.theregister.co.uk/2004/01/23/google_debuts_friendsterclone_orkut/) (The Register)
 * [Why Google needs Orkut](http://jeremy.zawodny.com/blog/archives/001504.html) (Jeremy Zawodny's blog)
-
-

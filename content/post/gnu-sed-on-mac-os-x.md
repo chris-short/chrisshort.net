@@ -4,10 +4,11 @@ categories = ["Apple"]
 date = 2016-06-01T16:44:00Z
 description = ""
 draft = false
-image = "/img/posts/hexley-darwin-vs-heckert-gnu.png"
 slug = "gnu-sed-on-mac-os-x"
 tags = ["sed", "gnu", "bsd", "mac os x", "apple", "system integrity protection", "sip", "macos", "tools"]
 title = "GNU sed on Mac OS X"
+[cover]
+image = "/img/posts/hexley-darwin-vs-heckert-gnu.png"
 
 +++
 
@@ -53,5 +54,3 @@ Footnotes:
 [^n]: If you want to leave System Integrity Protection on you can install GNU sed to /usr/local and call GNU sed by the full path (/usr/local/bin/sed-gnu).
 [^n]: If you decided to not disable System Integrity Protection you should run this instead: ./configure --prefix=/usr/local/ --program-suffix=-gnu and you can skip steps 9 through 11.
 [^n]: You can change the number of jobs here if you desire; see MAKE(1).
-
-

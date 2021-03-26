@@ -7,6 +7,7 @@ draft = false
 slug = "windows-evolution"
 tags = ["windows", "microsoft", "windows xp"]
 title = "Evolution of Windows"
+[cover]
 image = "/img/posts/windows-xp.jpg"
 
 +++

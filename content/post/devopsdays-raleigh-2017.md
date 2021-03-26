@@ -7,6 +7,7 @@ draft = false
 slug = "devopsdays-raleigh-2017-dark-side-of-devops"
 tags = ["devops", "talks", "devopsdays"]
 title = "DevOpsDays Raleigh 2017: The Dark Side of DevOps"
+[cover]
 image = "https:///cdn.chrisshort.net/dark-side-of-devops-raleigh-2017.jpg"
 
 +++
@@ -25,6 +26,6 @@ Something I learned by giving this talk is that discussing personal experiences 
 
 ## Slides
 
-<embed src="https://cache.chrisshort.net/file/cache-chrisshort-net/The%20Dark%20Side%20of%20DevOps.pdf" width="640" height="360" alt="pdf" />
+<embed src="https://cache.chrisshort.net/file/cache-chrisshort-net/The%20Dark%20Side%20of%20DevOps.pdf" width="100%" height="480" alt="pdf" />
 
 These slides are also available on [Speaker Deck](https://speakerdeck.com/chrisshort/the-dark-side-of-devops) and [video is also available](/video-devopsdays-raleigh-2017/).
