@@ -14,8 +14,6 @@ image = "/kubernetes-cron-jobs/kubernetes-wall-clock.jpg"
 
 One of the reasons I stood up a [Kubernetes cluster on Raspberry Pis](/my-raspberry-pi-kubernetes-cluster/) in my house was because of the savings I wanted to gain by not running high-available, redundant infrastructure in the cloud. Kubernetes provides high-availability by design. It's pretty awesome the possibilities that exist given this capability. Need a web server to constantly run? Build a container and throw it in the Kubernetes cluster. Need a service available all the time? Package it and ship it to the Kubernetes cluster.
 
-
-
 ## Legacy Systems
 
 I have four old Raspberry Pi boxes doing various things here in the office for me. They do a single task fine, but I have over-extended one of the first-generation Raspberry Pis. I'd like to deprecate the older Raspberry Pis as they are no longer effective boxes. To do that, I need to move the workloads (like a cloud migration). One thing I have no shortage of running on these Raspberry Pi boxes are cron jobs. I have a cron for almost everything I do. Monitoring, updating web apps, detecting changes in domain name configurations, etc.
@@ -28,7 +26,7 @@ Kubernetes has the concept of *Jobs*. To quote the official [Jobs documentation]
 
 [Kubernetes *Cron Jobs*](https://kubernetes.io/docs/concepts/workloads/controllers/cron-jobs/) are a relatively new thing. But, I am ecstatic that this is a standard feature in modern Kubernetes clusters. This means that I can tell the cluster one time that I want a job to run at certain times. Since Cron Jobs build on top of the existing Job functionality, I know that the job will be run to completion. The job will run on one of the six nodes I have in my Kubernetes cluster. Even if a pod is destroyed mid-job, it will spin up on another node and run there. High-available cron jobs have been a beast I've tried to slay many times. This is now a solved problem and all I have to do is implement it.
 
-The implementation of Kubernetes *Cron Jobs* is like many other things with Kubernetes: YAML. There are a few projects to help with wrangling your YAML ([ksonnet](https://ksonnet.io/) for example) but, that is a discussion for another article. For now, let's get a Dockerfile and Kubernetes configuration file put together.
+The implementation of Kubernetes *Cron Jobs* is like many other things with Kubernetes: YAML. There are a few projects to help with wrangling your YAML ([ksonnet](https://github.com/ksonnet/ksonnet) for example) but, that is a discussion for another article. For now, let's get a Dockerfile and Kubernetes configuration file put together.
 
 ## Use Case
 
