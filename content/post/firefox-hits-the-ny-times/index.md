@@ -4,7 +4,6 @@ categories = ["Internet"]
 date = 2004-12-17T06:06:00Z
 description = "Firefox has taken out a two-page ad in the New York Times! According to Firefox this is the, 'largest open source fundraising campaign in history'"
 draft = false
-image = "/firefox-hits-the-ny-times/nyt_ad_2004.png"
 slug = "firefox-hits-the-ny-times"
 tags = ["firefox"]
 title = "Firefox Hits the NY Times"
@@ -12,6 +11,8 @@ aliases = [
     "/firefox-finally-hits-the-ny-times/",
     "/archives/2004/10/firefox-gets-ready-for-ad-splash.php"
 ]
+[cover]
+image = "/firefox-hits-the-ny-times/nyt_ad_2004.png"
 
 +++
 

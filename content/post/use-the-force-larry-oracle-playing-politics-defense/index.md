@@ -6,6 +6,7 @@ description = "Oracle has been pitching a Larry Ellison sized fit over JEDI, the
 draft = false
 tags = ["Oracle", "JEDI", "AWS", "cloud", "DoD", "Interoperability Clearinghouse", "China", "Larry Ellison"]
 title = "Use The Force, Larry: Oracle Playing Politics with Nation's Defense"
+[cover]
 image = "/use-the-force-larry-oracle-playing-politics-with-nations-defense/jedi-oracle-yoda.jpg"
 
 +++
@@ -67,5 +68,3 @@ If you are a voter in the US, please do me a favor this week. Reach out to your 
 ### Bonus
 
 Who wants Oracle getting $10 billion more in US taxpayer money anyway? You should call Congress based on that possibility alone.
-
-

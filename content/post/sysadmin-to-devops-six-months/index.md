@@ -4,11 +4,12 @@ categories = ["DevOps"]
 date = 2017-05-11T12:04:00Z
 description = ""
 draft = false
-image = "/img/posts/gears-galore.jpg"
 slug = "sysadmin-to-devops-six-months"
 tags = ["DevOps", "tools"]
 title = "\"Good SysAdmin to DevOps Engineer in Six Months\""
 aliases = ["sysadmin-to-devops-six-months"]
+[cover]
+image = "/img/posts/gears-galore.jpg"
 
 +++
 
@@ -38,7 +39,7 @@ A sure-fire way to kill any chance of developing empathy is to throw an engineer
 
 ### Processes
 
-How do you teach someone a process that they don't know and they aren't practicing? Example is the best thing. Sometimes good examples of DevOps best practices are hard to find in your own environment. The first process that should go in place is production work must happen through automation. Nothing should change or go out into production without being peer reviewed, tested, and logged. This is a difficult process to put in place. A common objection to the automation first mindset will be, "How do you automate something that isn't built yet?" The tooling matters to an extent in this case. But, the mentality of an automation-first process is what is most important. 
+How do you teach someone a process that they don't know and they aren't practicing? Example is the best thing. Sometimes good examples of DevOps best practices are hard to find in your own environment. The first process that should go in place is production work must happen through automation. Nothing should change or go out into production without being peer reviewed, tested, and logged. This is a difficult process to put in place. A common objection to the automation first mindset will be, "How do you automate something that isn't built yet?" The tooling matters to an extent in this case. But, the mentality of an automation-first process is what is most important.
 
 Implementing the automation-first process is hard when development and test environments don't exist. The only solution to that problem is to build them. The environments must be as close to production as possible. Humans are very fallible and slow. This only increases the importance of automation being baked in as a process and a way of thinking. If something is being done it deserves to use the automation frameworks you have implemented, period. One-off changes cannot exist and should be mitigated during the automation framework rollout. There is no chicken, no egg; only automation.
 
@@ -68,5 +69,3 @@ Reading newsletters cultivated by active community members (not product makers) 
 ## Conclusion
 
 The [DevOps](https://devopsish.com/) journey is a combination of people, processes, and tools. The culmination of these is a team of allies pushing the envelope and never resting on their laurels. There is no such thing as a completed DevOps transition. Resting on your laurels is not a DevOps mindset. DevOps and its allies should be iterating and improving upon what they have learned daily. Building a team to do anything is no simple task. But, building a person that's willing to embrace cultures and methods is an easier task. Show them a path, help them go down it, and embrace their feedback.
-
-

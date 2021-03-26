@@ -7,10 +7,11 @@ draft = false
 slug = "my-kubecon-cloudnativecon-na-2018-recap"
 tags = ["kubernetes", "cloud native", "kubekhan", "kubecon", "mentorship", "contributor", "experience", "community", "cloudnativecon", "summit", "BoF", "birds of a feather", "CNCF", "people", "seattle", "volunteering"]
 title = "My KubeCon + CloudNativeCon NA 2018 Recap"
-image = "/my-kubecon-cloudnativecon-na-2018-recap/kubecon-cloudnativecon-2018.jpg"
 aliases = [
     "kubecon-cloudnativecon-na-2018"
 ]
+[cover]
+image = "/my-kubecon-cloudnativecon-na-2018-recap/kubecon-cloudnativecon-2018.jpg"
 
 +++
 
@@ -111,7 +112,3 @@ After the Networking & Mentoring Sessions, I went around and said a few goodbyes
 > Kubernetes is everything and everything is Kubernetes: This goes without saying at KubeCon but, there were 8,000 attendees in Seattle (more online) and next year in San Diego there is capacity for 12,000+. I'd estimate around 11-12K attendees next year. The growth here is huge. —Chris Short to Colleagues
 
 I'm very much looking forward to my next KubeCon (and KubeKhan). To say the community is amazing would be an understatement. I feel very much at home in the Kubernetes world and have plans to deepen my involvement in it.
-
-
-
-

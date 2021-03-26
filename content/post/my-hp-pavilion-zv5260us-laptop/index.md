@@ -7,12 +7,13 @@ draft = false
 slug = "my-hp-pavilion-zv5260us-laptop"
 tags = ["hardware", "laptop"]
 title = "My HP Pavilion zv5260us Laptop"
-image = "/my-hp-pavilion-zv5260us-laptop/hp-pavilion-zv5260us-01.jpg"
 aliases = [
     "/archives/2004/08/chriss-new-hp-pavilion-zv5260us-laptop.php",
     "/chriss-new-hp-pavilion-zv5260us-laptop/",
     "/my-new-hp-pavilion-zv5260us-laptop/"
 ]
+[cover]
+image = "/my-hp-pavilion-zv5260us-laptop/hp-pavilion-zv5260us-01.jpg"
 
 +++
 
@@ -44,4 +45,3 @@ The thing I love most about the laptop is the speed but after that I thoroughly 
 What I've been doing with the wireless networking capabilities of the laptop will be discussed later this week.
 
 I'm also looking forward to a new release of a 64-bit Windows XP from Microsoft so that I can take better advantage of the 64-bit processor in this laptop. There will be more on that in the not too distant future.
-

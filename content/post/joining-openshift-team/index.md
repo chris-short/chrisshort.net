@@ -6,6 +6,7 @@ description = "This Monday (2019-08-19) will be my first day as Principal Techni
 draft = false
 tags = ["OpenShift", "Red Hat", "Kubernetes", "Ansible", "Operators", "Cloud Native"]
 title = "Joining forces with OpenShift"
+[cover]
 image = "/joining-forces-with-openshift/ansible-to-openshift.png"
 
 +++
@@ -34,7 +35,7 @@ I was still able to do good work, but it was harder to be passionate about Ansib
 
 I still [managed to do quite a bit](/resume/) in the fourteen months on the Ansible team as a product marketer:
 
-[![Twitter thread on Ben Cotton and I's One Year Red Hat Anniversaries](red-hat-anniversary-tweet.png)](https://twitter.com/FunnelFiasco/status/1143476930425102336)
+[![Twitter thread on Ben Cotton and I's One Year Red Hat Anniversaries](red-hat-anniversary-tweet.png#center)](https://twitter.com/FunnelFiasco/status/1143476930425102336)
 
 One unique opportunity was being part of a group of folks that helped adopt [Molecule](https://github.com/ansible/molecule) as an Ansible project. Seeing how that worked and played out; the intricate wordsmithing and between the line reading skills needed are next to mastery. But, one thing I helped drive home was that clearer communications are less on words and more about substance.
 
@@ -50,8 +51,6 @@ I started to work on what I thought would be a relatively simple project: a glob
 
 Thank you to the Ansible team and especially my Ansible marketing teammates. You've brought me into Red Hat, welcomed me with open arms, and shared your knowledge (and your dogs) with me. You have all been wonderful teammates! I look forward to continuing to work together more as Red Hatters in the very near future (which is tomorrow).
 
-![Ansible has already won](ansible-has-already-won.png)
+![Ansible has already won](ansible-has-already-won.png#center)
 
-[![Ansible](Ansible-Mark-Large-RGB-Mango.png)](https://www.ansible.com/)
-
-
+[![Ansible](Ansible-Mark-Large-RGB-Mango.png#center)](https://www.ansible.com/)

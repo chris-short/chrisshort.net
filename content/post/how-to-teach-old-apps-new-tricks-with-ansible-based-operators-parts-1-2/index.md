@@ -6,6 +6,7 @@ description = "Operators help simplify deployment & operations of stateful appli
 draft = false
 tags = ["Kubernetes", "Operator", "Ansible", "operators", "talk", "app"]
 title = "How to Teach Old Apps New Tricks with Ansible-based Operators (Parts 1 & 2)"
+[cover]
 image = "/how-to-teach-old-apps-new-tricks-with-ansible-based-operators-parts-1-2/how-to-teach-old-apps-new-tricks-with-ansible-based-operators-parts-1-2.png"
 
 +++

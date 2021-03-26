@@ -4,10 +4,11 @@ categories = ["DevOps", "Open Source"]
 date = 2017-06-06T12:00:00Z
 description = ""
 draft = false
-image = "/the-open-organization-guide-to-it-culture-change/theopenorg_guidetoITculturechange_1_0_cover_final.png"
 slug = "the-open-organization-guide-to-it-culture-change"
 tags = ["open source", "culture", "DevOps"]
 title = "The Open Organization Guide to IT Culture Change"
+[cover]
+image = "/the-open-organization-guide-to-it-culture-change/theopenorg_guidetoITculturechange_1_0_cover_final.png"
 
 +++
 

@@ -7,6 +7,7 @@ draft = false
 slug = "rhcs-ansible-automation"
 tags = ["red hat", "ansible", "product", "marketing", "automation"]
 title = "I'm a Red Hat Certified Specialist: Ansible Automation"
+[cover]
 image = "/im-a-red-hat-certified-specialist-ansible-automation/rhcs-ansible-automation-chris-short.png"
 
 +++

@@ -7,6 +7,7 @@ draft = false
 slug = "kubernetes-cron-jobs"
 tags = ["kubernetes", "kubernetes cluster", "k8s", "cloud native", "cron", "cron job", "cronjob", "cronjobs", "cron jobs", "raspberry pi", "docker", "docker build", "docker registry", "google container registry"]
 title = "Kubernetes: Cron Jobs"
+[cover]
 image = "/kubernetes-cron-jobs/kubernetes-wall-clock.jpg"
 
 +++
@@ -160,7 +161,3 @@ devopsish-netlify-cronjob   1 2-14 * * 0-1,5-6   False     0         8h         
 {{< /highlight >}}
 
 Now go celebrate your high-availability, damn near guaranteed to run every time Kubernetes Cron Job! Congratulations!
-
-
-
-

@@ -6,6 +6,7 @@ description = "The differences between upstream and downstream"
 draft = false
 tags = ["open source", "upstream", "downstream"]
 title = "Upstream vs Downstream"
+[cover]
 image = "/upstream-vs-downstream/stream.jpg"
 
 +++
@@ -16,10 +17,10 @@ I was working on things for work (as one does) when it dawned on me. Very few fo
 
 Upstream vs. Downstream is confusing at times. But, for the bigger Red Hat projects this holds true:
 
-AWX Project is upstream of Ansible Tower  
-Kubernetes is upstream of OKD  
-OKD is the upstream of Red Hat OpenShift  
-Fedora is the upstream of Red Hat Enterprise Linux  
+AWX Project is upstream of Ansible Tower
+Kubernetes is upstream of OKD
+OKD is the upstream of Red Hat OpenShift
+Fedora is the upstream of Red Hat Enterprise Linux
 CentOS is more of a clone than a downstream of RHEL, but it could be simplified to RHEL is upstream of CentOS.
 
 The expectation with upstream work is that it's community governed, managed, and supported. People build downstream products to sell by adding value to them like services or support. Now, open source vs. open core is a topic for another day.

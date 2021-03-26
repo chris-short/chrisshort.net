@@ -7,6 +7,7 @@ draft = false
 slug = "open-source-initiative-board-of-directors-2020"
 tags = ["open source", "OSI", "Open Source Initiative", "Board of Directors", "licenses", "election"]
 title = "Open Source Initiative Board of Directors 2020"
+[cover]
 image = "/open-source-initiative-board-of-directors-2020/neon-open.jpg"
 
 +++

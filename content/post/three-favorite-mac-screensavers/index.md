@@ -7,6 +7,7 @@ draft = false
 slug = "three-favorie-macos-screensavers"
 tags = []
 title = "My three favorite macOS screensavers"
+[cover]
 image = "/img/posts/dmitry-chernyshov-mP7aPSUm7aE-unsplash.jpg"
 
 +++
@@ -23,7 +24,7 @@ A prepackaged screensaver with macOS since Catalina Beta 3, Drift has a flowy ki
 
 ## Padbury Clock
 
-![Padbury Clock](/img/posts/padbury-clock-screen-saver.png)
+![Padbury Clock](/img/posts/padbury-clock-screen-saver.png#center)
 
 This one is so useful to me I built a tribute site to it. [Padbury Clock](https://padbury.app/) by Robert Padbury is one of the most useful things to have as a screensaver. When you walk back to your desk, you immediately know what time it is. It's also handy in case someone is walking by and needs a reminder too.
 
@@ -31,10 +32,10 @@ This one is so useful to me I built a tribute site to it. [Padbury Clock](https:
 
 ## Aerial
 
-![Aerial](/img/posts/aerial-screensaver.gif)
+![Aerial](/img/posts/aerial-screensaver.gif#center)
 
 >[Aerial](https://github.com/JohnCoates/Aerial) is a Mac screensaver based on the new Apple TV screensaver that displays the Aerial movies Apple shot over New York, San Francisco, Hawaii, China, etc. Starting with version 2.0.0, it also includes videos shared by Joshua Michaels & Hal Bergman!
->  
+>
 >Aerial is completely open source, so feel free to contribute to its development.
 
 This screensaver is cool af. For years, the Apple TV came with these beautiful flyover screensavers that were just wonderful. Finally, someone came along and grabbed them out of the Apple TV Developers Kit and made them available on GitHub for everyone to enjoy.

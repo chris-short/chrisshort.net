@@ -6,6 +6,7 @@ description = "Our voices generate so much knowledge yet transmit so little data
 draft = false
 tags = ["imposter syndrome", "metadata", "privacy"]
 title = "Your 39 bps matters more than you think"
+[cover]
 image = "/your-39-bps-matters-more-than-you-think/sine-wave.jpg"
 
 +++

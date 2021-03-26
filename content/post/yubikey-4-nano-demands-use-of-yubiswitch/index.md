@@ -4,10 +4,11 @@ categories = ["Security"]
 date = 2016-02-27T18:40:10Z
 description = ""
 draft = false
-image = "/img/posts/yubikey-nano.png"
 slug = "yubikey-4-nano-demands-use-of-yubiswitch"
 tags = ["yubikey", "mac os x", "macos"]
 title = "Yubikey 4 Nano Demands Use of yubiswitch"
+[cover]
+image = "/img/posts/yubikey-nano.png"
 
 +++
 

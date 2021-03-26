@@ -7,10 +7,11 @@ draft = false
 slug = "raspberry-pi-kubernetes-cluster"
 tags = ["open source", "ansible", "containers", "kubernetes", "raspberry pi", "ARM", "k8s", "cluster"]
 title = "Raspberry Pi Kubernetes Cluster"
-image = "/raspberry-pi-kubernetes-cluster/building-raspberry-pi-kubernetes-cluster.jpg"
 aliases = [
      "my-raspberry-pi-kubernetes-cluster"
 ]
+[cover]
+image = "/raspberry-pi-kubernetes-cluster/building-raspberry-pi-kubernetes-cluster.jpg"
 
 +++
 
@@ -62,5 +63,3 @@ While I highly recommend Kubernetes on Raspberry Pi, there are some trade-offs t
 
 
 I am very happy with the progress I made in a handful of evenings on building and deploying a Raspberry Pi Kubernetes cluster. I'm hopeful that [rak8s](https://rak8s.io/) will turn into a full-blown project. Hopefully, it will allow others to learn and improve their skills while getting into Kubernetes on Raspberry Pi. PRs welcome and happy k8s'ing!
-
-

@@ -6,6 +6,7 @@ description = "Tactical efficiency does not replace strategic efficacy. Work tow
 draft = false
 tags = ["tactical", "strategic", "efficacy", "efficiency", "strategy"]
 title = "Tactical efficiency does not replace strategic efficacy"
+[cover]
 image = "/tactical-efficiency-does-not-replace-strategic-efficacy/chris-short-thinking.jpg"
 
 +++
