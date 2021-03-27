@@ -35,7 +35,7 @@ Being in outside of Detroit we have to deal with one of two monopolies: AT&T and
 
 ## Modem
 
-Since both homes are going with Comcast it made fiscal sense to buy a modem outright as opposed to paying a perpetual rental fee to Comcast. We have had two Arris modems now and have had no issues with them. I went to the [XFINITY My New Modem](http://mynewmodem.xfinity.com/) site to find a recommended modem.
+Since both homes are going with Comcast it made fiscal sense to buy a modem outright as opposed to paying a perpetual rental fee to Comcast. We have had two Arris modems now and have had no issues with them. I went to the XFINITY My New Modem site to find a recommended modem.
 
 I saw an [Arris SURFboard SB6190](https://amzn.to/2DOhzzt) is compatible. The price on Amazon was better than Target and both homes wanted it this week. Target will happily price match Amazon and give Red Card customers 5% off on top of that. Chances are your local big box store carries a few modems for use with your local providers. They'll probably all price match each other too. Shop smartly.
 
