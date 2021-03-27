@@ -1,6 +1,6 @@
 baseurl: "https://chrisshort.net"
 DefaultContentLanguage: en
-title: chrisshort.net
+title: ChrisShort.net
 theme: PaperMod
 pygmentsStyle: trac
 pygmentsUseClasses: true
