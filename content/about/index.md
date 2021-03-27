@@ -39,7 +39,7 @@ Chris is now working in the [open source](https://chrisshort.net/tags/open-sourc
 ## Appearances Elsewhere
 
 * [DevOps'ish](https://devopsish.com)
-* [openshift.tv](https://openshift.tv)
+* [OpenShift.tv](https://openshift.tv)
 * [KubeWeekly](https://kubeweekly.io)
 * [Projects](/projects/)
 * [Newsletter](/newsletter/)
