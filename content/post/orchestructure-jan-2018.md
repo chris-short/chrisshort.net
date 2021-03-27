@@ -12,7 +12,7 @@ image = "/img/posts/orchestruture-jan-2018.jpg"
 
 +++
 
-I spoke at the first [Orchestructure](http://orchestructure.io) Meetup of 2018. I have to admit, this is probably the smoothest run Meetup I've been a part of for quite some time. That's not to say other Meetups weren't well organized. But, Mario, Bob, and Jorge have their poop in a group. Orchestructure is one great Meetup. If you're in Michigan, you're missing out if you haven't attended.
+I spoke at the first [Orchestructure](https://www.meetup.com/orchestructure/events/246812066/) Meetup of 2018. I have to admit, this is probably the smoothest run Meetup I've been a part of for quite some time. That's not to say other Meetups weren't well organized. But, Mario, Bob, and Jorge have their poop in a group. Orchestructure is one great Meetup. If you're in Michigan, you're missing out if you haven't attended.
 
 {{< eo >}}
 
