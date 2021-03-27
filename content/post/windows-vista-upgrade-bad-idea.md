@@ -30,4 +30,4 @@ I've come to the conclusion that upgrading to Windows Vista would be a horrible 
 
 In a nutshell, it's not smart to upgrade to Windows Vista, at this time.  The day may come when you actually force yourself to upgrade but running out and upgrading to the latest and greatest operating system isn't going to do anything but give you headaches.  Hold off for now folks, your next PC will be running Vista anyways.  Besides, hardware needs to catch up with the software.
 
-{{< amazon >}}
+

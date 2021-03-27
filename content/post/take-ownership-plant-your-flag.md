@@ -34,4 +34,4 @@ Take ownership; be decisive. PLEASE, take control of your systems, processes, an
 
 Plant your flag!
 
-{{< amazon >}}
+

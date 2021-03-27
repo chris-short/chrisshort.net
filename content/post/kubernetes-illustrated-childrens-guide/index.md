@@ -44,4 +44,4 @@ Head over to [phippy.io](http://phippy.io/) for shenanigans with Phippy and Frie
 
 {{< eo >}}
 
-{{< amazon >}}
+

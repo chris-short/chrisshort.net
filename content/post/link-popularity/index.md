@@ -83,4 +83,3 @@ If you attack your link popularity campaign using the suggestions discussed in t
 
 > This page contains information mentioned by members of WebmasterWorld in "[It's time to get some new links!](https://www.webmasterworld.com/forum12/785.htm)". I'd like to thank the members who posted in that thread and allowed me to use their advice and ideas here.
 
-{{< amazon >}}
