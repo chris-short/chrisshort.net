@@ -98,4 +98,4 @@ A huge thanks to all the wonderful people I've talked to this week. You've made 
 
 Make no mistake, this is a historic moment. Whether it's the beginning or the end of a history is the big question.
 
-{{< amazon >}}
+

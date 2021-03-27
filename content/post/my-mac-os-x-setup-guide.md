@@ -72,4 +72,4 @@ The majority of my time is spent in iTerm and Google Chrome. Google Chrome backs
 
 I spend a lot of time in vim as well. As a result, I update my .vimrc file accordingly. I have an Ansible Playbook to update vim settings as I like a specific color scheme. I try to stray from defaults as little as possible but it happens.
 
-{{< amazon >}}
+

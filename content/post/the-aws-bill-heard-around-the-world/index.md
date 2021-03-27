@@ -132,4 +132,4 @@ Long term, I won't want to store files in multiple places. I don’t feel like a
 
 In the end, AWS did refund all but about $40 of the $2,657.68 original bill. I wonder if I had been with any other provider (CDN included) if I had gotten a refund at all. I suspect smaller vendors wouldn't have been as forgiving, especially given the global economic climate.
 
-{{< amazon >}}
+

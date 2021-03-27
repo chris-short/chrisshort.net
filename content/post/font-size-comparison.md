@@ -124,4 +124,3 @@ If this isn't what you were looking for please click your back button or go to [
 
 {{< eo >}}
 
-{{< amazon >}}

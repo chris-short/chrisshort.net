@@ -55,4 +55,4 @@ Please see the [Google Photos album for videos and photos](https://photos.app.go
 
 {{< carbon >}}
 
-{{< amazon >}}
+

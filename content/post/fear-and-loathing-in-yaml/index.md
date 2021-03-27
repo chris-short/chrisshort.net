@@ -44,4 +44,4 @@ Remember, comparing things relatively to like something (YAML vs. XML or YAML vs
 
 There's always a happy medium between human and machine readability. However, I'd much rather see a human first, [80-20](https://en.wikipedia.org/wiki/Pareto_efficiency) approach here where entry-level skills can solve 80% of the markup language's use cases. That's the true nirvana, in my opinion. There will always be complexity and a need to understand the tool you're using. But, YAML gives us an example that there can and should be better things.
 
-{{< amazon >}}
+

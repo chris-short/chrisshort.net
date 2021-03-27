@@ -26,4 +26,4 @@ The chaos that ensued was tremendous. People were scurrying away from exploding 
 
 Operation Eagle Claw is an astounding example of an overseas military operation going catastrophically wrong. It was an embarrassment to the nation and the special forces community. The loss of life was tragic and unneccessary. But, in every mistake there is an opportunity to learn. And in every failure there is an opportunity to prevent it from happening again.
 
-{{< amazon >}}
+

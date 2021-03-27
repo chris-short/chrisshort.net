@@ -36,4 +36,4 @@ Then along came the laughing stock and bastard child of operating systems, Windo
 
 Then the highly anticipated answer to everyone's wants finally broke out in the Windows XP series of operating systems in October of 2001. It addressed the home users want for ease of use and stability, the power users want for greater hardware compatibility, and the newbie need for a kinder, gentler GUI. It was the Windows 2000 for everybody.  Initially offered in two forms, Home which a stripped down version of Professional, it made everyone happy, from the laptop to the desktop.  Windows XP Professional is the version I use today. It's really probably the best release of a Windows operating system ever. Only time can tell what Microsoft will release next.
 
-{{< amazon >}}
+
