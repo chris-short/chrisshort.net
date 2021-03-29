@@ -1,14 +1,14 @@
 +++
 author = "Chris Short"
 date = 2018-01-01T16:00:00Z
-description = "Subscribe to DevOps'ish for updates on DevOps, Cloud Native, and Open Source news."
+description = "Subscribe to DevOps'ish for updates on DevOps, Cloud Native, Hybrid Cloud, Open Source, industry news, culture, and the 'ish between."
 draft = false
 slug = "newsletter"
 title = "Newsletter"
 
 +++
 
-[**DevOps'ish**](https://devopsish.com/) is a weekly newsletter covering DevOps, Cloud Native, Open Source, and the 'ish in between by open source contributor, DevOps veteran, and CNCF Ambassador Chris Short.
+[**DevOps'ish**](https://devopsish.com/) is a weekly newsletter covering DevOps, Cloud Native, Hybrid Cloud, Open Source, industry news, culture, and the 'ish between by open source contributor, DevOps veteran, and CNCF Ambassador Chris Short.
 
 {{< eo >}}
 
