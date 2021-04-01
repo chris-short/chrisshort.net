@@ -7,7 +7,7 @@ pygmentsUseClasses: true
 pygmentsCodeFences: true
 pygmentsCodefencesGuessSyntax: true
 paginate: 5
-Copyright: "[Some rights reserved](https://chrisshort.net/copyright/) • [Chris Short](https://chrisshort.net/) • © 2003 - 2021"
+Copyright: "[Some rights reserved](https://chrisshort.net/copyright/) • [Chris Short](https://linktr.ee/TheChrisShort) • © 2003 - 2021"
 permalinks:
     post: ":title/"
 Params:
