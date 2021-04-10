@@ -36,6 +36,8 @@ Follow the tale of Phippy and her niece Zee as they take an educational trip to 
 
 If you're unable to few this embed, please [open the Phippy Goes to the Zoo PDF](https://cache.chrisshort.net/file/cache-chrisshort-net/pdf/Phippy-Goes-To-The-Zoo.pdf).
 
+## Reading it to Max
+
 When I first got a copy of The Illustrated Children's Guide to Kubernetes at an event in 2016 I knew what Kubernetes was and that it was going to be a big deal. But, I hadn't quite grasp the understanding of all the various components. The Illustrated Children's Guide to Kubernetes helped me understand the basics of Kubernetes and where to dive in deeper. Also, it made my son, Max, giggle quite a bit when I read it to him.
 
 {{< youtube j4IB1WMRvJg >}}
