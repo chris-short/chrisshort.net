@@ -1,6 +1,6 @@
 +++
 author = "Chris Short"
-categories = ["Life", "Hardware", "Reviews"]
+categories = ["Life", "Hardware", "Reviews", "2021"]
 date = 2021-01-31T16:30:00Z
 description = "Chris Short's desk setup for live streaming circa January 2021"
 draft = false
