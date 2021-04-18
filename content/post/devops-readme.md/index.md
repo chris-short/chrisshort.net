@@ -177,7 +177,7 @@ This is available as a standalone website at <devopsreadme.xyz>
 * Pros: Makes case that RCA isn't a solid process
 * Cons: None given the scope
 * Quip: You're human so you're the problem.
-* URL: [How Complex Systems Fail (Being a Short Treatise on the Nature of Failure; How Failure is Evaluated; How Failure is Attributed to Proximate Cause; and the Resulting New Understanding of Patient Safety)](https://cache.chrisshort.net/file/cache-chrisshort-net/pdf/How-Complex-Systems-Fail.pdf?utm_source=devops-readme.md&utm_medium=chrisshort.net)
+* URL: [How Complex Systems Fail (Being a Short Treatise on the Nature of Failure; How Failure is Evaluated; How Failure is Attributed to Proximate Cause; and the Resulting New Understanding of Patient Safety)](https://www.adaptivecapacitylabs.com/HowComplexSystemsFail.pdf)
 
 ## In Search of Certainty
 
