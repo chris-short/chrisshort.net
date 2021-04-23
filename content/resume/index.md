@@ -43,7 +43,7 @@ Results-producing, passionate DevOps professional turned Technical Marketer and 
 ### Cloud Native Ambassador, Cloud Native Computing Foundation (CNCF) — Detroit, MI — Jan 2018 to Present
 
 * Evangelizes Kubernetes ecosystem through independent newsletter [DevOps'ish](https://devopsish.com/); concentration on open source, cloud native, and DevOps; 3300+ subscribers, 48%+ open rate, 22%+ click rate since Dec 2016
-* [KubeWeekly](https://kubeweekly.io/) curator, Kubernetes YouTube channel admin, Contributor Summit workshop facilitator, Community Meeting and webinar moderator, and SIG-ContribEx member
+* [KubeWeekly](https://www.cncf.io/kubeweekly//) curator, Kubernetes YouTube channel admin, Contributor Summit workshop facilitator, Community Meeting and webinar moderator, and SIG-ContribEx member
 * Advocating for [Kubernetes Operators with Ansible](https://ansible.com/operators/) both within Red Hat as well as evangelizing their use externally through targeted conversations and wider content strategy
 * Built [rak8s](https://github.com/rak8s/rak8s/): A usable, open source project to demonstrate Ansible being used to stand up a Raspberry Pi Kubernetes cluster
 * With the help of other Kubernetes community members, created the first ever [#KubeKhan](https://chrisshort.net/2018-learnings-2019-expectations/#kubekhan) at KubeCon Seattle 2018; brought together community members in a come as you are environment
