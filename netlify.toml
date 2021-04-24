@@ -59,7 +59,7 @@ HUGO_ENABLEGITINFO = "false"
     X-XSS-Protection = "1; mode=block"
     Referrer-Policy = "no-referrer, strict-origin-when-cross-origin"
     X-Content-Type-Options = "nosniff"
-    Permissions-Policy = "geolocation=(); midi=(); sync-xhr=(); microphone=(); camera=(); magnetometer=(); gyroscope=(); speaker=(); fullscreen=(); payment=()"
+    Permissions-Policy = 'fullscreen=(self "https://chrisshort.net"), geolocation=(), camera=(), microphone=()'
 #    Content-Security-Policy-Report-Only = "default-src 'none'; form-action 'none'; frame-ancestors 'none'; report-uri https://chrisshort.report-uri.com/r/d/csp/wizard"
     Report-To = '{"group":"default","max_age":31536000,"endpoints":[{"url":"https://chrisshort.report-uri.com/a/d/g"}],"include_subdomains":true}'
     NEL = '{"report_to":"default","max_age":31536000,"include_subdomains":true}'
