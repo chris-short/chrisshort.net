@@ -4,7 +4,7 @@ categories = ["Search Engine Optimization", "SEO", "2003"]
 date = 2003-12-20T07:00:00Z
 description = ""
 draft = false
-tags = ["SEO"]
+tags = ["master template", "search engine", "search engine optimization", "SEO", "keyword phrases", "keyword", "theme", "template", "optimized", "targeted keywords", "meta description tag"]
 title = "Construction of an Optimized Web Page"
 ShowToc = false
 [cover]
