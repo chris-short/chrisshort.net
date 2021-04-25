@@ -50,7 +50,7 @@ If your aspiring engineer needs a nudge in the right direction on processes, enc
 * [The Phoenix Project: A Novel about IT, DevOps, and Helping Your Business Win](https://amzn.to/2DBVoM3)
 * [The DevOps Handbook: How to Create World-Class Agility, Reliability, and Security in Technology Organizations](https://amzn.to/2DBARXO)
 
-*Note: chrisshort.net may earn compensation for sales from links on this post through [affiliate programs](/terms#affiliate-link-policy).*
+*Note: ChrisShort.net may earn compensation for sales from links on this post through [affiliate programs](/terms#affiliate-link-policy).*
 
 People learn in different ways. These two books provide a story and a guide in different, digestible formats. This will expose them to the concepts and thought processes required to embrace everyday DevOps processes. Concepts like tracking and automating work, making smaller changes more often, tightening feedback loops, and continuous learning are processes that are best explained by a third party.
 

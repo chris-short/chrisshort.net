@@ -18,7 +18,7 @@ I've wanted to write this article since last October. But, things hadn't stabili
 
 {{< tweet 1352290404239101953 >}}
 
-*Note: chrisshort.net may earn compensation for sales from links on this post through [affiliate programs](/terms#affiliate-link-policy).*
+*Note: ChrisShort.net may earn compensation for sales from links on this post through [affiliate programs](/terms#affiliate-link-policy).*
 
 I'll explain the reasoning for each purchase and any accessories that I found necessary as well. I will also mention neat bonuses that I added to make things more functional. A friend of mine at Red Hat and in the Kubernetes community reminded me yesterday, "Don't bury the lede," so we'll start with the number one question I get the most.
 
