@@ -86,7 +86,7 @@ Something I've had to work on quite a bit this year is understanding perfection 
 
 ### The work I'm putting in is paying off
 
-One thing I’ve always wanted a platform. Now I have two and a voice that can be heard. I never thought **[chrisshort.net](https://chrisshort.net/)** would get mentioned on other sites as much as it has in 2020. **[DevOps'ish](https://devopsish.com/)** (after a brief hiatus as I refigured out life during a pandemic; aka filtering the ever-loving bejesus out of my news feeds), is recognized as a valuable learning resource for others in our industry. A goal for DevOps'ish in 2021 is trying to make more newsletters with fewer large media outlets as sources. I want more blogs from engineers, technicians, and non-code contributors that are doing good in the world.
+One thing I’ve always wanted a platform. Now I have two and a voice that can be heard. I never thought **[ChrisShort.net](https://chrisshort.net/)** would get mentioned on other sites as much as it has in 2020. **[DevOps'ish](https://devopsish.com/)** (after a brief hiatus as I refigured out life during a pandemic; aka filtering the ever-loving bejesus out of my news feeds), is recognized as a valuable learning resource for others in our industry. A goal for DevOps'ish in 2021 is trying to make more newsletters with fewer large media outlets as sources. I want more blogs from engineers, technicians, and non-code contributors that are doing good in the world.
 
 I appreciate both of these projects, the folks reading them, and even more, the folks sharing them. Writing has always brought me joy. Others enjoying that writing brings me even more joy.
 

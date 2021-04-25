@@ -1,11 +1,12 @@
 +++
 author = "Chris Short"
-categories = ["Internet"]
+categories = ["Internet", "Search Engine Optimization", "SEO", "2003"]
 date = 2003-06-08T16:00:00Z
 description = "The Internet, web sites, web surfers, web developers, and search engine optimizers and promoters should all be focused on creating good content that benefits everyone."
 draft = false
+ShowToc = false
 slug = "content-is-king"
-tags = ["internet", "search engine optimization", "content", "marketing", "search engines", "keywords", "developers", "webmasters"]
+tags = ["internet", "search engine optimization", "SEO", "content", "marketing", "search engines", "keywords", "developers", "webmasters"]
 title = "Content is King"
 
 +++

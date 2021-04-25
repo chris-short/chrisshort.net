@@ -62,7 +62,7 @@ SOURCE: [https://en.wikipedia.org/wiki/Graham_T._Allison](https://en.wikipedia.o
 
 Source: [Destined for War: Can America and China Escape Thucydides's Trap?](https://amzn.to/2S0UbBM)
 
-*Note: chrisshort.net may earn compensation for sales from links on this post through [affiliate programs](/terms#affiliate-link-policy).*
+*Note: ChrisShort.net may earn compensation for sales from links on this post through [affiliate programs](/terms#affiliate-link-policy).*
 
 ### 12 of 16 Overview
 

@@ -20,7 +20,7 @@ Chris Short
 * Contributed to [The Open Organization Guide to IT Culture Change](https://opensource.com/open-organization/resources/culture-change)
 * [DevOpsDays](https://www.devopsdays.org/) Speaker and Organizer
 * [DevOps'ish](https://devopsish.com/)
-* [chrisshort.net](https://chrisshort.net)
+* [ChrisShort.net](https://chrisshort.net)
 * [@ChrisShort](https://twitter.com/ChrisShort)
 
 Notes:

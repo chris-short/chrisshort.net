@@ -2,7 +2,7 @@
 
 author = "Chris Short"
 date = 2016-12-11T00:00:00Z
-description = "chrisshort.net Privacy Policy"
+description = "ChrisShort.net Privacy Policy"
 draft = false
 slug = "privacy"
 title = "Privacy Policy"
@@ -14,7 +14,7 @@ aliases = [
 
 {{< boring >}}
 
-Your privacy is important to us. It is chrisshort.net's policy to respect your privacy regarding any information we may collect from you across our website, [https://chrisshort.net](/), and other sites we own and operate.
+Your privacy is important to us. It is ChrisShort.net's policy to respect your privacy regarding any information we may collect from you across our website, [https://chrisshort.net](/), and other sites we own and operate.
 
 ## Information we collect
 
@@ -108,7 +108,7 @@ At our discretion, we may change our privacy policy to reflect current acceptabl
 
 If we make a significant change to this privacy policy, for example changing a lawful basis on which we process your personal information, we will ask you to re-consent to the amended privacy policy.
 
-chrisshort.net Data Controller  
+ChrisShort.net Data Controller  
 Chris Short  
 chris@chrisshort.net
 
