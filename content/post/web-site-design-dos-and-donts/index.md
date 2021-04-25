@@ -1,10 +1,10 @@
 +++
 author = "Chris Short"
-categories = ["SEO", "2005"]
+categories = ["Search Engine Optimization", "SEO", "2005"]
 date = 2005-01-05T07:00:00Z
 description = "A list of search engine optimization best practices when embarking on building a web site optimized for search"
 draft = false
-tags = ["search", "search engine", "search engine rankings", "search engine optimization", "meta tag", "web page", "load time", "domain name", "links", "keywords", "content"]
+tags = ["search", "search engine", "search engine rankings", "search engine optimization", "meta tag", "web page", "load time", "domain name", "links", "keywords", "content", "SEO"]
 title = "Web Site Design Do's and Don'ts"
 ShowToc = true
 [cover]

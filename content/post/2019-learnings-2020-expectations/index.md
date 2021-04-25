@@ -34,7 +34,7 @@ This isn't to say that someone is wrong and I'm right. Let me be crystal clear, 
 
 The good news this year is that DevOps has faded into the background a little bit much like how I think Kubernetes will eventually. It's no longer if you have or haven't picked up some DevOps practices. It's which DevOps practices has an organization started iterating on and how they're being applied. Believe it or not, you're doing some aspects of DevOps whether you realize it or not when using Kubernetes in prod.
 
-*Note: chrisshort.net may earn compensation for sales from links on this post through [affiliate programs](/terms#affiliate-link-policy).*
+*Note: ChrisShort.net may earn compensation for sales from links on this post through [affiliate programs](/terms#affiliate-link-policy).*
 
 ## Developer Experience
 

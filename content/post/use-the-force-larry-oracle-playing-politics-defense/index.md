@@ -51,7 +51,7 @@ JEDI gives the Department of Defense's cloud budget to another company to do the
 
 The US is starting to lose its footing as the #1 economy and military in the world. Don't believe me? You should watch my [Thucydides Trap talk](/chefconf-2018-devops-is-not-war/). When you're done there, [read the book that research came from](https://amzn.to/30ZqLZd). China is setting itself up to be [the world's leading economy sooner rather than later](https://www.cfr.org/backgrounder/chinas-massive-belt-and-road-initiative). Meanwhile, some folks in the US are still calling China an emerging market. 🤦‍♂️🙀🤯
 
-*Note: chrisshort.net may earn compensation for sales from links on this post through [affiliate programs](/terms#affiliate-link-policy).*
+*Note: ChrisShort.net may earn compensation for sales from links on this post through [affiliate programs](/terms#affiliate-link-policy).*
 
 Do you think China, Russia, or any US adversary for that matter, has this problem? Probably not. China is technologically and politically adept enough to have all this sorted out. Look at the [entity list](https://www.bis.doc.gov/index.php/policy-guidance/lists-of-parties-of-concern/entity-list) and the speed and effectiveness of the Chinese response. Politically, [China has worked to make getting waivers](https://www.reuters.com/article/us-huawei-tech-usa-ross/us-will-deal-with-huawei-waiver-applications-within-weeks-ross-idUSKCN1UI27I) to avoid the ban a probability. Now, [China is focusing on US allies](https://www.scmp.com/tech/gear/article/2176968/huawei-agrees-uk-security-steps-avoid-5g-ban-report) all the while [bringing more of their technology onshore](https://technode.com/2019/07/24/chinas-chipmakers-risc-v-sanctions/).
 

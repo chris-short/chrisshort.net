@@ -16,7 +16,7 @@ aliases = [
 
 ## Brief Bio
 
-**Chris Short** has been a proponent of open source solutions throughout his over two decades in various IT disciplines including systems, security, networks, and DevOps engineering and advocacy across the public and private sectors. He currently works at Red Hat. Chris is a [disabled US Air Force veteran](https://chrisshort.net/ltn) living with his wife and son in Greater Metro Detroit. Chris writes about DevOps and other topics at [chrisshort.net](https://chrisshort.net). He also runs the DevOps, Cloud Native, Hybrid Cloud, Open Source, industry news, and culture focused newsletter [DevOps'ish](https://devopsish.com).
+**Chris Short** has been a proponent of open source solutions throughout his over two decades in various IT disciplines including systems, security, networks, and DevOps engineering and advocacy across the public and private sectors. He currently works at Red Hat. Chris is a [disabled US Air Force veteran](https://chrisshort.net/ltn) living with his wife and son in Greater Metro Detroit. Chris writes about DevOps and other topics at [ChrisShort.net](https://chrisshort.net). He also runs the DevOps, Cloud Native, Hybrid Cloud, Open Source, industry news, and culture focused newsletter [DevOps'ish](https://devopsish.com).
 
 ## Extended Bio
 
