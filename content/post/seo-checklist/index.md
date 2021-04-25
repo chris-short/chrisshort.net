@@ -4,7 +4,7 @@ categories = ["Search Engine Optimization", "SEO", "2005"]
 date = 2005-01-05T07:00:00Z
 description = "A simple, yet powerful search engine optimization (SEO) checklist"
 draft = false
-tags = ["SEO"]
+tags = ["search engine", "search engine optimization", "SEO", "SEO checklist", "meta tag", "domain name", "content", "keyword", "link", "title attribute", "keyword meta tag"]
 title = "SEO Checklist"
 ShowToc = true
 [cover]
@@ -13,6 +13,8 @@ caption = "A simple, yet powerful search engine optimization (SEO) checklist"
 +++
 
 This SEO Checklist is one of many that can be found on the Internet. What makes this SEO checklist different than everyone elses is that it's accurate and simple. It's a listing of all the search engine optimization used across various web sites I own or manage. This list has been developed using suggestions from just about every major SEO checklist on the World Wide Web. All of the checklists on the web are different, this one will be to, however, this is a well thought out checklist using the best recommendations from all over the Internet including a few recommendations of my own.
+
+{{< carbon >}}
 
 ### Uptime, uptime, uptime
 
@@ -112,7 +114,7 @@ This is a touchy topic among web developers and search engine optimizers. Some s
 
 ### Build It, Put It Online
 
-Your site should be built and in "update mode" once it's uploaded to your web server. Don't add a page at a time to your web server when you're first building your web site. Build your web site first then upload it. Add new content as needed.
+Your site should be built and in "update mode" once it's uploaded to your web server. Don't add a page at a time to your web server when you're first building your web site. Build your web site first then upload it. Add new content regularly. [Content is king](/content-is-king/).
 
 ### Use a robots.txt File
 
@@ -141,3 +143,5 @@ Don't use frames, ever.
 ### NO BROKEN LINKS
 
 Linking to pages that don't exist is a very bad thing. Search engines and people alike hate that.
+
+{{< eo >}}
