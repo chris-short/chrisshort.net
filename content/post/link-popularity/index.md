@@ -1,6 +1,6 @@
 +++
 author = "Chris Short"
-categories = ["Search Engine Optimization", "SEO"]
+categories = ["Search Engine Optimization", "SEO", "2005"]
 date = 2005-01-05T03:00:00Z
 description = ""
 draft = false

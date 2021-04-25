@@ -2,7 +2,7 @@
 
 author = "Chris Short"
 date = 2016-12-11T00:00:00Z
-description = "chrisshort.net Cookie Policy"
+description = "ChrisShort.net Cookie Policy"
 draft = false
 slug = "cookie-policy"
 title = "Cookie Policy"
@@ -14,7 +14,7 @@ aliases = [
 
 {{< boring >}}
 
-This is the Cookie Policy for chrisshort.net, accessible from https://chrisshort.net
+This is the Cookie Policy for ChrisShort.net, accessible from https://chrisshort.net
 
 ## What Are Cookies
 
