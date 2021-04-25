@@ -2,9 +2,9 @@
 author = "Chris Short"
 categories = ["SEO", "2003"]
 date = 2003-03-15T07:00:00Z
-description = ""
+description = "Maintain a simplistic design and keep web sites easy to use and maintain so that you can focus on content."
 draft = false
-tags = []
+tags = ["web site", "content", "simple", "graphics", "design", "search", "HTML", "users", "clean", "search", "search engine", "search engine optimization", "Google", "Microsoft", ""]
 title = "Simple is a Good Thing"
 ShowToc = false
 [cover]
