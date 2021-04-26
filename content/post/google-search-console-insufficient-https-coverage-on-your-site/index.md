@@ -1,10 +1,10 @@
 +++
 author = "Chris Short"
 categories = ["SEO", "2021"]
-date = 2021-04-27T07:00:00Z
+date = 2021-04-26T07:00:00Z
 description = "Jumping back into Search Engine Optimization because I felt forced to by Google Search Console"
 draft = false
-tags = ["search", "search engine", "search engine optimization", "SEO", "Google Search Console", "Google", "HTTPS", "error", "header", "permissions policy", "experience", "coverage"]
+tags = ["search", "search engine", "search engine optimization", "SEO", "Google Search Console", "Google", "HTTPS", "error", "header", "permissions policy", "experience", "coverage", "Google"]
 title = "Google Search Console: Insufficient HTTPS coverage on your site"
 ShowToc = true
 [cover]
