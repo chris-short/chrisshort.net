@@ -38,7 +38,7 @@ I was at a loss and assumed something was indeed wrong (I doubt Google would be 
 
 ### Permissions Policy (tl;dr here)
 
-Then I saw this tiny, miny error. Something was wrong with my  [Permissions Policy](https://developer.chrome.com/blog/new-in-chrome-90/#permission-policy) header. I [fixed that error due to a syntax error in my implementation of the header Permissions Policy header](https://github.com/chris-short/devopsish.com/pull/168/files). Like magic, before I could even go to check, the Google Search Console was reporting good HTTPS for ChrisShort.net.
+Then I saw this tiny, one-line error message. Something was wrong with my  [Permissions Policy](https://developer.chrome.com/blog/new-in-chrome-90/#permission-policy) header. I [fixed that error due to a syntax error in my implementation of the header Permissions Policy header](https://github.com/chris-short/devopsish.com/pull/168/files). Like magic, before I could even go to check, the Google Search Console was reporting good HTTPS for ChrisShort.net.
 
 ![Your site just started using HTTPS according to Google. Congrats?](/img/posts/your-site-uses-https.jpg "While the outcome was successful, I would have liked this to be a little better experience for folks.")
 
