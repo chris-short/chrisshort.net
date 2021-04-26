@@ -2,11 +2,11 @@
 author = "Chris Short"
 categories = ["SEO", "2021"]
 date = 2021-04-27T07:00:00Z
-description = ""
+description = "Jumping back into Search Engine Optimization because I felt forced to by Google Search Console"
 draft = false
-tags = ["search", "search engine", "search engine optimization", "SEO", "Google Search Console"]
+tags = ["search", "search engine", "search engine optimization", "SEO", "Google Search Console", "Google", "HTTPS", "error", "header", "permissions policy", "experience", "coverage"]
 title = "Google Search Console: Insufficient HTTPS coverage on your site"
-ShowToc = false
+ShowToc = true
 [cover]
 image = "/img/posts/your-site-has-no-urls-with-good-page-experience.webp"
 caption = "Your site has no URLs with HTTPS but, it actually does"
@@ -16,7 +16,7 @@ caption = "Your site has no URLs with HTTPS but, it actually does"
 
 In the early 2000s, the work I did around [Search Engine Optimization](/categories/seo/) (SEO). I'd help clients with their search engine rankings. Back then, folks cared about all the search engines. Nowadays, there's only one search engine people care enough to write about, Google.
 
-As [Matthew Broberg so eloquently put on Twitter](https://twitter.com/mbbroberg/status/1385987372223979521), "Google is both the monopoly and trend setter. It's a good target either way you look at it." If you own a website and you care about it enough that you want people to look at it, do some SEO basics and [add your site](https://support.google.com/webmasters/answer/34592?hl=en) to the [Google Search Console](https://search.google.com/search-console).
+As [Matthew Broberg so eloquently put on Twitter](https://twitter.com/mbbroberg/status/1385987372223979521) the other day, "Google is both the monopoly and trend setter. It's a good target either way you look at it." If you own a website and you care about it enough that you want people to look at it, do some SEO basics and [add your site](https://support.google.com/webmasters/answer/34592?hl=en) to the [Google Search Console](https://search.google.com/search-console).
 
 {{< carbon >}}
 
@@ -36,7 +36,7 @@ The **LEARN MORE** that I was naively hopeful would provide an answer was indeed
 
 I was at a loss and assumed something was indeed wrong (I doubt Google would be secretive about this). I did what every frontend developer I know would do. I opened the [Developer Tools in my browser](https://developer.mozilla.org/en-US/docs/Tools). I had many errors in the Console due to a poorly implemented CSP reporting HTTP header—that needed fixing. Then I had some fingerprinting issues due to Netlify consolidating assets and serving across their vast CDN. I had to ultimately remove the fingerprinting of these assets as it was breaking [site search](/search), and there was no other reasonable fix (not using the Netlify CDN is not an option).
 
-#### Permissions Policy
+#### Permissions Policy (tl;dr here)
 
 Then I saw this tiny, miny error. Something was wrong with my  [Permissions Policy](https://developer.chrome.com/blog/new-in-chrome-90/#permission-policy) header. I [fixed that error due to a syntax error in my implementation of the header Permissions Policy header](https://github.com/chris-short/devopsish.com/pull/168/files). Like magic, before I could even go to check, the Google Search Console was reporting good HTTPS for ChrisShort.net.
 
