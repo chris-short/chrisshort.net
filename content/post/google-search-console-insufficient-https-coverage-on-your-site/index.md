@@ -2,14 +2,17 @@
 author = "Chris Short"
 categories = ["SEO", "2021"]
 date = 2021-04-26T07:00:00Z
-description = "Jumping back into Search Engine Optimization because I felt forced to by Google Search Console"
+description = "Jumping back into Search Engine Optimization because I felt forced to by Google Search Console after hours of troubleshooting why it was reporting HTTPS issues"
 draft = false
 tags = ["search", "search engine", "search engine optimization", "SEO", "Google Search Console", "Google", "HTTPS", "error", "header", "permissions policy", "experience", "coverage", "Google"]
-title = "Google Search Console: Insufficient HTTPS coverage on your site"
+title = "Insufficient HTTPS coverage on your site: What does that mean?"
 ShowToc = true
 [cover]
 image = "/img/posts/your-site-has-no-urls-with-good-page-experience.webp"
-caption = "Your site has no URLs with HTTPS but, it actually does"
+caption = "Google says a site has no URLs with HTTPS but, according to testing tools like Qualys SSL Labs, HTTPS is fine"
+aliases = [
+    "/google-search-console-insufficient-https-coverage-on-your-site"
+    ]
 +++
 
 ## History
@@ -30,7 +33,7 @@ If you're not serving your site over [HTTPS](https://developers.google.com/searc
 
 ![HTTPS is vitally important for good search engine results](/img/posts/page-experience-signals-https-failing.webp "HTTPS is vitally important for good search engine results. But, this warning is not helpful.")
 
-The **LEARN MORE** that I was naively hopeful would provide an answer was indeed worthless. All pages on ChrisShort.net are being served over HTTPS and have been for *years*. There was no obvious answer to this problem. Google documentation left a lot to be desired. Even [the discussion matching the error message, "Insufficient HTTPS coverage on your site"](https://support.google.com/webmasters/thread/106824024?hl=en) featured questions from others in an equal state of confusion as I.
+The **LEARN MORE** that I was naively hopeful would provide an answer was indeed worthless. All pages on [ChrisShort.net are being served over HTTPS](https://www.ssllabs.com/ssltest/analyze.html?d=chrisshort.net&hideResults=on&ignoreMismatch=on&latest) and have been for *years*. There was no obvious answer to this problem. Google documentation left a lot to be desired. Even [the discussion matching the error message, "Insufficient HTTPS coverage on your site"](https://support.google.com/webmasters/thread/106824024?hl=en) featured questions from others in an equal state of confusion as I.
 
 ## Oh, there are some other non-HTTPS related errors here
 
