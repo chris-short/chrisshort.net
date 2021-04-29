@@ -1,8 +1,8 @@
 User-Agent: *
+Sitemap: https://chrisshort.net/sitemap.xml
 Disallow: https://chrisshort.net/cc-by-sa-4.0/
 Disallow: https://chrisshort.net/creative-commons-attribution-sharealike-4.0-international-cc-by-sa-4.0-license/
 Disallow: https://chrisshort.net/copyright/
 Disallow: https://chrisshort.net/terms/
 Disallow: https://chrisshort.net/privacy/
 Disallow: https://chrisshort.net/cookie-policy/
-Sitemap: https://chrisshort.net/sitemap.xml
