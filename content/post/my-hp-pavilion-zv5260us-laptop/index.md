@@ -1,6 +1,6 @@
 +++
 author = "Chris Short"
-categories = ["Hardware"]
+categories = ["Hardware", "2004"]
 date = 2004-08-17T22:30:00Z
 description = "I finally did it. I bought a laptop before I headed out to California. Not so much for the trip to California but for another PC in the house and some more horsepower (a lot more horsepower)."
 draft = false

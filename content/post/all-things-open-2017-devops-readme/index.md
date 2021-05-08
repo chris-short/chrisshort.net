@@ -1,6 +1,6 @@
 +++
 author = "Chris Short"
-categories = ["DevOps", "Talks"]
+categories = ["DevOps", "Talks", "2017"]
 date = 2017-10-27T22:30:00Z
 description = "A curated list of things to read to level up your DevOps skills and knowledge."
 draft = false

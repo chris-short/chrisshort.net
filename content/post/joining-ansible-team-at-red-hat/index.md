@@ -1,6 +1,6 @@
 +++
 author = "Chris Short"
-categories = ["Ansible", "Life"]
+categories = ["Ansible", "Life", "2018"]
 date = 2018-06-25T14:00:00Z
 description = "It is with great pleasure that I announce I am joining the Ansible team at Red Hat as Principal Product Marketing Manager."
 draft = false

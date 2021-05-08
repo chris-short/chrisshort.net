@@ -1,6 +1,6 @@
 +++
 author = "Chris Short"
-categories = ["Air Force"]
+categories = ["Air Force", "2016"]
 date = 2016-05-27T23:16:56Z
 description = ""
 draft = false

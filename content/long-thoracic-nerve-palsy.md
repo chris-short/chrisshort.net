@@ -1,6 +1,6 @@
 +++
 author = "Chris Short"
-categories = ["Long Thoracic Nerve Palsy"]
+categories = ["Long Thoracic Nerve Palsy", "2015"]
 date = 2015-10-03T09:57:51Z
 description = ""
 draft = false

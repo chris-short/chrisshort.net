@@ -1,6 +1,6 @@
 +++
 author = "Chris Short"
-categories = ["Internet", "Google", "Failure"]
+categories = ["Internet", "Google", "Failure", "2016"]
 date = 2016-10-30T11:00:00Z
 description = "There is movement around how consumers will be gaining access to the Internet. Your future Internet connection will not be a physical connection at all."
 draft = false

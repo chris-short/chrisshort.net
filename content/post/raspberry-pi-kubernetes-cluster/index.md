@@ -1,6 +1,6 @@
 +++
 author = "Chris Short"
-categories = ["Kubernetes"]
+categories = ["Kubernetes", "2018"]
 date = 2018-01-17T16:35:00Z
 description = ""
 draft = false
