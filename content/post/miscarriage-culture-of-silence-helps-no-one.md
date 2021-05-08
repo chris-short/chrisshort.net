@@ -1,6 +1,6 @@
 +++
 author = "Chris Short"
-categories = ["Life", "Culture", "2017"]
+categories = ["Life", "Culture", "Kids", "2017"]
 date = 2017-12-23T10:30:00Z
 description = "A culture of silence around miscarriage helps absolutely no one."
 draft = false

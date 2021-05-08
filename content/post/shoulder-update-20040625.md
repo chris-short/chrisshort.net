@@ -1,6 +1,6 @@
 +++
 author = "Chris Short"
-categories = ["Long Thoracic Nerve Palsy"]
+categories = ["Long Thoracic Nerve Palsy", "2004"]
 date = 2004-06-25T09:00:00Z
 description = "Chris Short suffers from Long Thoracic Nerve Palsy with Winging of the Scapula"
 draft = false

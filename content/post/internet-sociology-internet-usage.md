@@ -1,6 +1,6 @@
 +++
 author = "Chris Short"
-categories = ["Internet"]
+categories = ["Internet", "2003"]
 date = 2003-03-20T16:00:00Z
 description = "Everyone has their own personality, patterns, tendencies and so forth, this also holds true for Internet usage"
 draft = false
