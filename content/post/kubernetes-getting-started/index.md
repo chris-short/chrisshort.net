@@ -1,6 +1,6 @@
 +++
 author = "Chris Short"
-categories = ["Kubernetes"]
+categories = ["Kubernetes", "2017"]
 date = 2017-11-30T20:50:00Z
 description = "How do you get started with 'an open-source system for automating deployment, scaling, and management of containerized applications'?"
 draft = false
@@ -13,8 +13,6 @@ image = "/kubernetes-getting-started/kubernetes-getting-started.png"
 +++
 
 Getting Started with [Kubernetes](https://kubernetes.io/) sounds like quite a daunting feat. How do you get started with "an open-source system for automating deployment, scaling, and management of containerized applications"? Let's examine Kubernetes' beginning. Containers have been in use for a very long time in the Unix world. Linux containers are popular thanks to projects like Docker. Google created Process Containers in 2006 and later realized they needed a way to maintain all these containers. Borg was born as an internal Google project and many tools sprang from its users. Omega was then built iterating on Borg. Omega maintained cluster state separate from the cluster members thus breaking Borg's monolith. Finally, Kubernetes sprung from Google. Kubernetes is now maintained by [Cloud Native Computing Foundation's](https://www.cncf.io/) members and contributors.
-
-
 
 ## ELI5
 
@@ -34,6 +32,13 @@ If you want to get started with deploying containerized apps to Kubernetes then 
 
 After kicking the tires on minikube if you feel like it is missing a few components then I would recommend [minishift](https://github.com/MiniShift/minishift) or CoreOS Tectonic. minishift is the minikube of Red Hat OpenShift. OpenShift has a fantastic UI and many features that make Kubernetes a little better. [CoreOS Tectonic](https://coreos.com/tectonic/) is a more opinionated Enterprise-ready Kubernetes. Luckily, CoreOS Tectonic has a free sandbox version. The nice thing about CoreOS Tectonic is the networking and monitoring that come baked into this iteration of Kubernetes. CoreOS has been very thoughtful about the decisions made in Tectonic and it shows.
 
+{{< eo >}}
+
 ## Conclusion
 
 Regardless of how you get started learning Kubernetes now is the time to start. There are so many places to deploy Kubernetes now it doesn't make sense to not kick the tires now before determining if it is a great fit for your use cases. Before you deploy to AWS, Google Cloud, or Azure make sure you're not wasting your time.
+
+### Resources
+
+* [Kubernetes README](https://kubernetesreadme.com/)
+* [Kubernetes News](https://kubenews.net/)
