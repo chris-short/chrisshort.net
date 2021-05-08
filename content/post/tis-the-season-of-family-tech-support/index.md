@@ -1,6 +1,6 @@
 +++
 author = "Chris Short"
-categories = ["Life", "Hardware"]
+categories = ["Life", "Hardware", "2018"]
 date = 2018-11-20T07:00:00Z
 description = "The time of year when everyone gets together with family or friends they haven't seen in forever and they get to ask those pressing tech support questions."
 draft = false

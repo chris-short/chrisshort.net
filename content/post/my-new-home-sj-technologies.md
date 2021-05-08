@@ -1,6 +1,6 @@
 +++
 author = "Chris Short"
-categories = ["Life"]
+categories = ["Life", "2018"]
 date = 2018-01-09T08:45:00Z
 description = "I am very happy to announce that I have a new job. I am now a Senior DevOps Consultant with the esteemed SJ Technologies, Inc."
 draft = false
