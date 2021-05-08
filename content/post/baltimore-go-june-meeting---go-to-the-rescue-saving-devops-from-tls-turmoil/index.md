@@ -1,6 +1,6 @@
 +++
 author = "Chris Short"
-categories = ["Go", "DevOps", "Talks"]
+categories = ["Go", "DevOps", "Talks", "2018"]
 date = 2018-06-08T01:22:00Z
 description = "The Baltimore Go Meetup is top notch. Hosted at the Under Armour headquarters, they really left nothing to be desired from my perspective."
 draft = false

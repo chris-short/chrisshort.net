@@ -131,5 +131,3 @@ As I mentioned, I've removed the multiple gigabyte files from the bucket the day
 Long term, I won't want to store files in multiple places. I don’t feel like archive.org should be my site’s dumping ground since it can turn a profit if it gets popular. archive.org is a stop-gap for two files for the time being. But, I could do some cleanup of that bucket now that I have proper logging enabled (oh and AWS Budget Alerts). I will also be researching user-friendly alternatives to Cloudflare even if it will cost me a few bucks a month. I will also never co-mingle work and personal file sharing EVER again.
 
 In the end, AWS did refund all but about $40 of the $2,657.68 original bill. I wonder if I had been with any other provider (CDN included) if I had gotten a refund at all. I suspect smaller vendors wouldn't have been as forgiving, especially given the global economic climate.
-
-

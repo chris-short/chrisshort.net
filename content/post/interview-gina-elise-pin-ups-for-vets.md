@@ -1,6 +1,6 @@
 +++
 author = "Chris Short"
-categories = ["Interviews"]
+categories = ["Interviews", "2007"]
 date = 2007-02-12T05:29:00Z
 description = "If you've never heard of Gina Elise and her project Pin Ups for Vets prepare to become very informed and amazed."
 draft = false

@@ -1,6 +1,6 @@
 +++
 author = "Chris Short"
-categories = ["Git"]
+categories = ["Git", "2016"]
 date = 2016-06-25T17:06:05Z
 description = "Distributed version control isn't designed to allow folks to delete every instance of a file. But, if you run into a case where you need to expunge a file in git, here is how we did it."
 draft = false

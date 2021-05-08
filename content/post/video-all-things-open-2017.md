@@ -1,6 +1,6 @@
 +++
 author = "Chris Short"
-categories = ["DevOps", "Talks"]
+categories = ["DevOps", "Talks", "2017"]
 date = 2017-11-15T16:00:00Z
 description = "Video of Chris Short during Lightning Talks Sponsored by opensource.com at All Things Open 2017"
 draft = false

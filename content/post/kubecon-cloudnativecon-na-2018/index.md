@@ -1,6 +1,6 @@
 +++
 author = "Chris Short"
-categories = ["Kubernetes"]
+categories = ["Kubernetes", "2018"]
 date = 2018-12-21T17:00:00Z
 description = "A recap of what I did at KubeCon + CloudNativeCon North America 2018"
 draft = false

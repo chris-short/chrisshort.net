@@ -1,6 +1,6 @@
 +++
 author = "Chris Short"
-categories = ["Ansible", "Red Hat"]
+categories = ["Ansible", "Red Hat", "2015"]
 date = 2015-10-17T07:53:00Z
 description = ""
 draft = false

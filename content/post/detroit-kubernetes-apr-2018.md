@@ -1,12 +1,12 @@
 +++
 author = "Chris Short"
-categories = ["Talks"]
+categories = ["Talks", "2018"]
 date = 2018-04-30T18:00:00Z
 description = ""
 draft = false
 slug = "detroit-kubernetes-apr-2018"
 tags = ["kubernetes", "Michigan", "talks", "Detroit", "cron", "cron jobs"]
-title = "Detroit Kubernetes:  Kubernetes Cron Jobs"
+title = "Detroit Kubernetes: Kubernetes Cron Jobs"
 aliases = [
     "detroit-kubernetes--kubernetes-cron-jobs"
 ]

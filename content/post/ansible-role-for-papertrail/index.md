@@ -1,6 +1,6 @@
 +++
 author = "Chris Short"
-categories = ["Ansible"]
+categories = ["Ansible", "2016"]
 date = 2016-12-09T13:35:00Z
 description = "Setup Papertrail with a role for Ansible Galaxy"
 draft = false
