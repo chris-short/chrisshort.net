@@ -16,6 +16,10 @@ image = "/kubernetes-illustrated-childrens-guide/The-Illustrated-Childrens-Guide
 
 +++
 
+There are a lot of ways to get started with Kubernetes. But, I've maintained that there's two paths to [getting started with Kubernetes](/kubernetes-getting-started/): maintaining Kubernetes of consuming Kubernetes. They're distinctly different but, you have to understand consuming Kubernetes before maintaining Kubernetes, in my opinion.
+
+Either way, as surprising as it may sound, I feel like these illustrated children's guides are a good step towards understanding Kubernetes.
+
 From the original [The Illustrated Children's Guide to Kubernetes](https://kubernetes.io/blog/2016/06/illustrated-childrens-guide-to-kubernetes/) blog post:
 
 > Meet Phippy–the intrepid little PHP app–and her journey to Kubernetes. What better way to talk to your parents, friends, and co-workers about this Kubernetes thing you keep going on about, than a little story time. We give to you The Illustrated Children's Guide to Kubernetes, conceived of and narrated by our own Matt Butcher and lovingly illustrated by Bailey Beougher.
@@ -45,5 +49,3 @@ When I first got a copy of The Illustrated Children's Guide to Kubernetes at an 
 Head over to [phippy.io](http://phippy.io/) for shenanigans with Phippy and Friends.
 
 {{< eo >}}
-
-
