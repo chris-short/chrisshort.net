@@ -16,7 +16,7 @@ image = "/kubernetes-illustrated-childrens-guide/The-Illustrated-Childrens-Guide
 
 +++
 
-There are a lot of ways to get started with Kubernetes. But, I've maintained that there's two paths to [getting started with Kubernetes](/kubernetes-getting-started/): maintaining Kubernetes of consuming Kubernetes. They're distinctly different but, you have to understand consuming Kubernetes before maintaining Kubernetes, in my opinion.
+There are a lot of ways to get started with Kubernetes. But, I've long said there are two paths to [getting started with Kubernetes](/kubernetes-getting-started/): maintaining Kubernetes or consuming Kubernetes. They're distinctly different but, you have to understand consuming Kubernetes before maintaining Kubernetes, in my opinion.
 
 Either way, as surprising as it may sound, I feel like these illustrated children's guides are a good step towards understanding Kubernetes.
 
