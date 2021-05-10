@@ -13,6 +13,8 @@ aliases = [
 
 {{< speaker >}}
 
+{{< twitch redhatopenshift >}}
+
 {{< eo >}}
 
 ## CNCF Eastern Canadian Meetup: October 2020
