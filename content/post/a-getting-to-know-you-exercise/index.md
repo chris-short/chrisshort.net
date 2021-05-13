@@ -4,8 +4,10 @@ categories = ["Long Thoracic Nerve Palsy", "Culture", "Life", "2019"]
 date = 2019-12-20T07:00:00Z
 description = "At a team meeting last month I took part in a getting to know you exercise that I found helpful. I feel it's worth putting out there for others."
 draft = false
-tags = ["Ansible", "Linux", "Kubernetes", "team building"]
+tags = ["Ansible", "Linux", "Kubernetes", "team building", "psychological safety", "culture", "job", "life"]
 title = "A getting to know you exercise"
+ShowToc = false
+[cover]
 image = "/a-getting-to-know-you-exercise/three-things-that-make-me-who-i-am.png"
 imagealt = "Three images that represent who Chris Short is"
 
