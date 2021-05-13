@@ -4,6 +4,7 @@ categories = ["Kids", "2009"]
 date = 2009-05-26T20:00:00Z
 description = ""
 draft = false
+ShowTOC = false
 slug = "ear-piercing-analysis-average-age-and-additional-data"
 tags = ["ear piercing", "kids"]
 title = "Ear Piercing Analysis: Average Age and Additional Data"

@@ -4,6 +4,7 @@ categories = ["Ansible", "2016"]
 date = 2016-09-06T16:30:00Z
 description = "Ansible lineinfile module is a cumbersome one to work. Here is a use case and examples of how to utilize Ansible lineinfile"
 draft = false
+ShowToc = false
 image = "/ansible-lineinfile-be-damned/Ansible-Mark-Large-RGB-Black.png"
 slug = "ansible-lineinfile-be-damned"
 tags = ["ansible", "lineinfile", "module", "security"]

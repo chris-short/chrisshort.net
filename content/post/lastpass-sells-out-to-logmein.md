@@ -4,6 +4,7 @@ categories = ["Security", "2015"]
 date = 2015-10-09T23:03:30Z
 description = ""
 draft = false
+ShowTOC = false
 slug = "lastpass-sells-out-to-logmein"
 tags = ["lastpass", "logmein", "acquisition", "security"]
 title = "LastPass Sells Out to LogMeIn"

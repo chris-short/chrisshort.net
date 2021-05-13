@@ -1,9 +1,10 @@
 +++
 author = "Chris Short"
-categories = ["DevOps", "Newsletters"]
+categories = ["DevOps", "Newsletters", "2020"]
 date = 2020-03-24T13:15:00Z
 description = ""
 draft = false
+ShowTOC = true
 slug = "things-no-one-tells-you-when-you-start-a-newsletter"
 tags = ["newsletter", "mail", "Gareth Rushgrove", "Mattias Geniar", "DevOps", "writing", "open source", "email", "template", "rewarding", "VScode", "DNS", "MJML"]
 title = "Things no one tells you when you start a newsletter"

@@ -4,6 +4,7 @@ categories = ["Music", "2012"]
 date = 2012-01-07T19:06:00Z
 description = ""
 draft = false
+ShowTOC = false
 slug = "why-i-dumped-spotify-premium"
 tags = ["spotify", "streaming music"]
 title = "Why I Dumped Spotify Premium"
@@ -31,5 +32,3 @@ After getting married you look at expenses, especially entertainment dollars. I 
 The other Spotify killer was [iTunes Match](http://www.apple.com/itunes/itunes-match/); $25 a year and I could create my own 25,000 song streaming music library that would stream to any device that could run Apple software. Plus, as a bonus, it completely legitimized my music library (not that I had an illegitimate library but, to be honest, I couldn't tell you where any of the CDs I once owned are any more). Sure, iTunes Match is by no means a perfect streaming music or cloud based storage service but when you compare the cost and features of it to Spotify then you have a real competitor.
 
 I'm not trying to convince you not to drop $10 and try Spotify Premium once your free trial ends, I'm just letting you know why I loved and then decided to fall out of love with Spotify. If anything you should try it out and see how well you like it. But, for me it's time to run the Spotify uninstaller.
-
-

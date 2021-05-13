@@ -4,6 +4,7 @@ categories = ["Life", "Kids", "2017"]
 date = 2017-06-01T19:07:21Z
 description = ""
 draft = false
+ShowTOC = false
 slug = "leaving-north-carolina"
 title = "Leaving North Carolina"
 tags = ["job", "work", "life", "balance", "north carolina", "Michigan"]

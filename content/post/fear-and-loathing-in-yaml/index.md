@@ -4,6 +4,7 @@ categories = ["DevOps", "Kubernetes", "Open Source", "2020"]
 date = 2020-10-21T07:00:00Z
 description = "Learning YAML might be table stakes, but we still need to strive for a better solution. One that's more human friendly."
 draft = false
+ShowTOC = false
 slug = "fear-and-loathing-in-yaml"
 tags = ["YAML", "DevOps", "markup", "Puppet", "CFEngine", "Kubernetes", "human-readable", "machine-readable", "code", "YAML spec", "language", "XML", "JSON", "systems", "infrastructure", "yq", "syntax", "git", "open source"]
 title = "Fear and Loathing in YAML"
@@ -43,5 +44,3 @@ I hope that a drop in replacement is possible. The fact that we need tools like 
 Remember, comparing things relatively to like something (YAML vs. XML or YAML vs. JSON) completely throws out the beginner's journey. Start from the newb and go forward from there. YAML doesn't. Git doesn't. Incrementally, YAML is better than XML but, it sucks compared to something like HTML or Markdown (which I can teach to execs and children alike). Yes, balancing machine and human readability is hard. The compromises suck, but, at some point, there's enough compute to run a process to take in something 100% human-readable and make it 100% machine-readable. In the same sense that compute has become so readily available that we gzip and encrypt almost all HTTP traffic today, I hope we can do the same with systems configuration languages. Move the complexity from the human to code. Computers are better at remembering things and syntax-semantics than humans could ever hope to be.
 
 There's always a happy medium between human and machine readability. However, I'd much rather see a human first, [80-20](https://en.wikipedia.org/wiki/Pareto_efficiency) approach here where entry-level skills can solve 80% of the markup language's use cases. That's the true nirvana, in my opinion. There will always be complexity and a need to understand the tool you're using. But, YAML gives us an example that there can and should be better things.
-
-

@@ -4,6 +4,7 @@ categories = ["NTP", "2003"]
 date = 2003-04-23T16:00:00Z
 description = "NTP is designed to keep accurate local time keeping."
 draft = false
+ShowTOC = false
 slug = "ntp-you-can-use-it"
 tags = ["ntp", "time", "clock"]
 title = "NTP: You Can Use It"

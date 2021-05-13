@@ -4,6 +4,7 @@ categories = ["Microsoft", "2015"]
 date = 2015-10-06T04:13:00Z
 description = ""
 draft = false
+ShowTOC = false
 slug = "whats-wrong-with-microsoft-windows-10-marketing"
 tags = ["microsoft", "windows 10", "marketing"]
 title = "What's Wrong with Microsoft's Windows 10 Marketing"

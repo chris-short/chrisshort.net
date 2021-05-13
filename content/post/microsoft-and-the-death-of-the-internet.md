@@ -4,6 +4,7 @@ categories = ["Microsoft", "2003"]
 date = 2003-10-09T02:30:00Z
 description = ""
 draft = false
+ShowTOC = false
 slug = "microsoft-and-the-death-of-the-internet"
 tags = ["microsoft", "internet", "windows xp"]
 title = "Microsoft and the Death of the Internet"

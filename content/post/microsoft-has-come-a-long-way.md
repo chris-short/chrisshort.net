@@ -4,6 +4,7 @@ categories = ["Microsoft", "Open Source", "2018"]
 date = 2018-04-16T15:30:00Z
 description = ""
 draft = false
+ShowTOC = false
 slug = "microsoft-has-come-a-long-way"
 tags = ["open source", "Microsoft", "Windows", "linux", "Commodore 64", "security", "nmap"]
 title = "Microsoft Has Come a Long Way"

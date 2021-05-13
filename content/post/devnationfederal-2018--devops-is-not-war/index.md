@@ -4,6 +4,7 @@ categories = ["DevOps", "Talks", "2018"]
 date = 2018-06-07T22:20:00Z
 description = "Red Hat invited me to speak at DevNationFederal. The organizers requested I present my DevOps is Not War talk to technologists in the Washington DC area."
 draft = false
+ShowTOC = false
 slug = "devnationfederal-2018-devops-is-not-war"
 tags = ["speaking", "talks", "devops", "devnationfederal", "war", "cloud", "red hat"]
 title = "DevNationFederal 2018: DevOps is Not War"

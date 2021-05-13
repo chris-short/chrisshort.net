@@ -4,6 +4,7 @@ categories = ["DevOps", "Open Source", "2017"]
 date = 2017-06-06T12:00:00Z
 description = ""
 draft = false
+ShowTOC = false
 slug = "the-open-organization-guide-to-it-culture-change"
 tags = ["open source", "culture", "DevOps"]
 title = "The Open Organization Guide to IT Culture Change"

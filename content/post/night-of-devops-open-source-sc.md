@@ -4,6 +4,7 @@ categories = ["DevOps", "Talks", "2017"]
 date = 2017-05-30T22:46:35Z
 description = ""
 draft = false
+ShowTOC = false
 slug = "night-of-devops-open-source-sc"
 tags = ["DevOps", "cloud native", "talks"]
 title = "A Night of DevOps at Open Source South Carolina"

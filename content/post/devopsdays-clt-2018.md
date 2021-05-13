@@ -4,6 +4,7 @@ categories = ["Talks", "2018"]
 date = 2018-02-28T20:45:00Z
 description = "This talk walks through the use case of having to apply new certificates to an unfamiliar application. I built a 50-line Go tool to test and audit certifcate chains and web server configurations."
 draft = false
+ShowTOC = false
 slug = "devopsdays-clt-2018"
 tags = ["open source", "devops", "go", "golang", "talks", "security"]
 title = "DevOpsDays Charlotte 2018 Ignite Talk on Go"

@@ -16,8 +16,6 @@ Like a lot of systems folks I use sed, a lot. It is probably an unhealthy amount
 
 The differences are relatively subtle between BSD sed and GNU sed. However, most of my work is done through iTerm (a literal black box). I frequently find myself diving down rabbit holes and I really do not want to have to remember the differences between BSD and GNU sed. I want the same sed everywhere so I compile GNU sed on Mac OS X:
 
-
-
 1. [Disable Mac OS X System Integrity Protection](/disabling-mac-os-x-el-capitan-system-integrity-protection/) (aka rootless). This is a new-ish step thanks to Mac OS X El Capitan (10.11) and Apple's System Integrity Protection but if you are going to have GNU sed as your default sed this is a requirement[^n].
 
 2. Install Xcode (via Mac App Store)
@@ -54,3 +52,5 @@ Footnotes:
 [^n]: If you want to leave System Integrity Protection on you can install GNU sed to /usr/local and call GNU sed by the full path (/usr/local/bin/sed-gnu).
 [^n]: If you decided to not disable System Integrity Protection you should run this instead: ./configure --prefix=/usr/local/ --program-suffix=-gnu and you can skip steps 9 through 11.
 [^n]: You can change the number of jobs here if you desire; see MAKE(1).
+
+{{< eo >}}

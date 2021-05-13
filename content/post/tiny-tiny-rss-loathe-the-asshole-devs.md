@@ -4,6 +4,7 @@ categories = ["Culture", "2013"]
 date = 2013-06-01T20:00:00Z
 description = ""
 draft = false
+ShowTOC = false
 slug = "tiny-tiny-rss-loathe-the-asshole-devs"
 tags = ["development", "culture"]
 title = "Tiny Tiny RSS: Loathe the Asshole Devs"

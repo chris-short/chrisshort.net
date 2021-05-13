@@ -4,6 +4,7 @@ categories = ["Life", "Community", "2020"]
 date = 2020-11-07T12:35:00Z
 description = "2020 has taken Dan Kohn from us. This whole year has no chill."
 draft = false
+ShowTOC = false
 slug = "on-the-passing-of-dan-kohn"
 tags = ["Dan Kohn", "CNCF", "Cloud Native Computing Foundation", "cloud native", "community"]
 title = "On the Passing of Dan Kohn"
