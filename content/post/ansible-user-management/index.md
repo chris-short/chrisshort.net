@@ -1,5 +1,5 @@
 +++
-ShowToc = false
+
 author = "Chris Short"
 categories = ["Ansible", "2016"]
 date = 2016-09-27T16:15:00Z
