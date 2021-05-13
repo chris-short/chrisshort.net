@@ -4,6 +4,7 @@ categories = ["DevOps", "2017"]
 date = 2017-01-18T15:05:00Z
 description = ""
 draft = false
+ShowTOC = false
 slug = "military-lessons-applied-to-devops-operation-eagle-claw"
 tags = ["DevOps", "military"]
 title = "Military Lessons Applied to DevOps: Operation Eagle Claw"

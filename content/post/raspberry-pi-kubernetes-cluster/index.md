@@ -4,6 +4,7 @@ categories = ["Kubernetes", "2018"]
 date = 2018-01-17T16:35:00Z
 description = ""
 draft = false
+ShowTOC = false
 slug = "raspberry-pi-kubernetes-cluster"
 tags = ["open source", "ansible", "containers", "kubernetes", "raspberry pi", "ARM", "k8s", "cluster"]
 title = "Raspberry Pi Kubernetes Cluster"

@@ -4,6 +4,7 @@ categories = ["Linux", "Open Source", "2005"]
 date = 2005-01-05T01:53:00Z
 description = ""
 draft = false
+ShowTOC = false
 slug = "linux-directory-structure"
 tags = ["linux", "open source"]
 title = "Linux Directory Structure"

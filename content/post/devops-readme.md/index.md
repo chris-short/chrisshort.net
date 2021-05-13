@@ -32,7 +32,7 @@ This is available as a standalone website at <devopsreadme.xyz>
 * Pros: Valiant effort with feedback from a few well know DevOps professionals
 * Cons: It only defines the principle of DevOps, it does not show how it is done
 * Quip: It's better than nothing
-* URL: [What is DevOps](https://devopsish.com/what-is-devops/?utm_source=devops-readme.md&utm_medium=github.com)
+* URL: [What is DevOps](https://devopsish.com/what-is-devops/)
 
 ## The Phoenix Project
 

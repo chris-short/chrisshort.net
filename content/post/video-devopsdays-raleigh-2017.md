@@ -4,6 +4,7 @@ categories = ["DevOps", "Talks", "2017"]
 date = 2017-10-11T07:30:00Z
 description = "Video of Chris Short during two DevOpsDays Raleigh 2017 Events"
 draft = false
+ShowTOC = false
 slug = "video-devopsdays-raleigh-2017"
 tags = ["devops", "devopsdays", "talks"]
 title = "Video: DevOpsDays Raleigh 2017"
@@ -27,5 +28,3 @@ The first video is from my Dark Side of DevOps talk. The second video is from Ig
 {{< youtube Pz2r2eDCR74 >}}
 
 {{< carbon >}}
-
-

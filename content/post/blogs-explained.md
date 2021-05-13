@@ -4,6 +4,7 @@ categories = ["Internet", "2003"]
 date = 2003-06-24T16:00:00Z
 description = "Blogs are essentially evolution of Internet communications. E-mail, instant messaging, newsgroups and forums are all great forms of communication but a weblog or blog offers unique, personal communication on a global scale."
 draft = false
+ShowTOC = false
 slug = "blogs-explained"
 tags = ["internet", "writing"]
 title = "Blogs Explained"
@@ -31,5 +32,3 @@ With all that being said, blogs and weblogs do have a very unique capability to 
 However, blogs will still be a fad until the current generation of webloggers starts blogging about topics that matter to a larger number of people or until more professional blogs are created. Weblogs fill a certain niche in the Internet community if they are very specific about their subject. When a weblog covers too many topics their worth is lowered to a certain extent. A web site with multiple sections and subdomains can easily be broken up into manageable, searchable pieces. A blog, by nature, is difficult to break up so posting a blurb about French-American relations followed by a post regarding the death of Apple Computers isn't advised because a niche becomes difficult to establish.
 
 Blogs are a natural evolution of communications that have a purpose on the World Wide Web. Weblogs provide quick, easy to use, low cost, interactive, global communication. However, that purpose has been stretched to encompass so many uses it has given weblogs a bad name. One can only hope the fad wears away into factual, meaningful, worthwhile mountains of content that would be available to the world.
-
-

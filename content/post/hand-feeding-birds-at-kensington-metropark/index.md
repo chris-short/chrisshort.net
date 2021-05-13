@@ -4,6 +4,7 @@ categories = ["Kids", "Life", "Michigan", "2020"]
 date = 2020-10-11T18:27:00Z
 description = "Chris, Julie, and Max venture out to Kensington Metropark to hand feed the local birds"
 draft = false
+ShowTOC = false
 slug = "does-this-make-max-and-i-disney-princesses"
 tags = ["Kensington Metropark"]
 title = "Does this make Max and I Disney Princesses?"
@@ -54,5 +55,3 @@ Please see the [Google Photos album for videos and photos](https://photos.app.go
 {{< eo >}}
 
 {{< carbon >}}
-
-

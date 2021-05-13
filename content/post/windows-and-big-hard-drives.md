@@ -4,6 +4,7 @@ categories = ["Microsoft", "2005"]
 date = 2005-01-05T04:16:00Z
 description = ""
 draft = false
+ShowTOC = false
 slug = "windows-and-big-hard-drives"
 tags = ["microsoft", "windows xp"]
 title = "Windows XP and Big Hard Drives"

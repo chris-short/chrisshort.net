@@ -4,6 +4,7 @@ categories = ["DevOps", "2017"]
 date = 2017-03-10T12:02:00Z
 description = ""
 draft = false
+ShowTOC = false
 slug = "the-dark-side-of-devops"
 tags = ["DevOps"]
 title = "The Dark Side of DevOps"

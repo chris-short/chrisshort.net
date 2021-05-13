@@ -4,6 +4,7 @@ categories = ["Linux", "Open Source", "2003"]
 date = 2003-09-28T02:12:00Z
 description = ""
 draft = false
+ShowTOC = false
 slug = "moving-to-linux-linux-hopes-dashed"
 tags = ["linux", "open source", "windows xp"]
 title = "Moving to Linux - Linux Hopes Dashed"

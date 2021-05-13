@@ -4,6 +4,7 @@ categories = ["DevOps", "Interviews", "2016"]
 date = 2016-10-31T12:00:00Z
 description = ""
 draft = false
+ShowTOC = false
 slug = "devops-perspectives-from-the-front-lines"
 tags = ["DevOps", "podcast", "interviews"]
 title = "DevOps Perspectives from the Front Lines"

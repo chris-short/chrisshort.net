@@ -4,6 +4,7 @@ categories = ["Apple", "2016"]
 date = 2016-07-10T20:51:00Z
 description = ""
 draft = false
+ShowTOC = false
 slug = "weather-in-your-ios-and-macos-calendars"
 tags = ["weather", "ios", "macos", "calendar"]
 title = "Weather in your iOS and macOS Calendars"

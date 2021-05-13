@@ -4,6 +4,7 @@ categories = ["Internet", "Cloud", "Diversity", "2017"]
 date = 2017-08-31T12:00:00Z
 description = "Time, bugs, unprecedented events, and reason all played a factor in deciding to stick with Cloudflare"
 draft = false
+ShowTOC = false
 slug = "why-im-not-ditching-cloudflare"
 tags = ["internet", "cloudflare", "hate", "diversity", "bgp"]
 title = "Why I'm Not Ditching Cloudflare"

@@ -4,6 +4,7 @@ categories = ["Community", "2018"]
 date = 2018-05-25T22:43:00Z
 description = "Pick three points, add an introduction and conclusion and you have the beginnings of a great article."
 draft = false
+ShowTOC = false
 slug = "writing-technical-articles"
 tags = ["writing", "article", "outline", "proofreading"]
 title = "Writing Technical Articles"

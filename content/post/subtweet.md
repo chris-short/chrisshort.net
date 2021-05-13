@@ -4,6 +4,7 @@ author = "Chris Short"
 date = 2019-01-19T00:05:00Z
 description = "subtweet"
 draft = false
+ShowTOC = false
 slug = "subtweet"
 tags = ["subtweet", "twitter"]
 title = "subtweet"

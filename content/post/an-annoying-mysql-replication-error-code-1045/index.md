@@ -4,6 +4,7 @@ categories = ["Databases", "2015"]
 date = 2015-10-05T16:53:18Z
 description = ""
 draft = false
+ShowToc = false
 slug = "an-annoying-mysql-replication-error-code-1045"
 tags = ["mysql", "replication"]
 title = "An Annoying MySQL Replication Error Code: 1045"

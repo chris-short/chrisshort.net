@@ -4,6 +4,7 @@ categories = ["Ansible", "Red Hat", "Open Source", "2015"]
 date = 2015-09-22T23:56:00Z
 description = ""
 draft = false
+ShowTOC = false
 image = "/img/posts/ansible_circleA_blue.png"
 slug = "grep-multiple-ansible-vault-files"
 tags = ["ansible", "ansible-vault", "grep"]

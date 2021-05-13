@@ -4,6 +4,7 @@ categories = ["Microsoft", "2007"]
 date = 2007-02-01T05:14:00Z
 description = "Four reasons why upgrading to Windows Vista is a REALLY bad idea."
 draft = false
+ShowTOC = false
 slug = "windows-vista-upgrade-bad-idea"
 tags = ["microsoft", "windows", "vista", "windows xp"]
 title = "Windows Vista: Upgrading Seems Like a Really Bad Idea"

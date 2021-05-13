@@ -19,8 +19,6 @@ A skill level replaces the "X" in 3C2X1. Skill levels should be viewed as one's 
 
 There is a lot involved in obtaining each skill level but essentially as a 1 and a 3 level you're in a constant state of training. This training could be technical school(s) (located at Keesler AFB, MS), On-the-Job Training (OJT), Computer Based Training (CBTs), and studying Career Development Courses (CDCs) all the while being certified on various tasks. When all objectives of training are complete and the right rank is held an Airman can be awarded the next skill level.
 
-
-
 ## airforce.com's take on a 3C2X1
 
 In this day and age, it is important to establish reliable communications links for military personnel, the Joint Chiefs of Staff and the president. As a communications/Computer Systems Control Apprentice, you will ensure quality service for military information systems worldwide. You will be involved in controlling all types of communications circuitry and information systems - voice, data and computer systems used for both local and long distance information exchange.
@@ -47,3 +45,5 @@ There is really no limit to what kind of communications a tech controller will d
 * Test Equipment
 
 The Tech Control career field was converted to [3D1X2 Cyber Transport Systems](https://www.airforce.com/careers/detail/cyber-transport-systems) in 2009.
+
+{{< eo >}}

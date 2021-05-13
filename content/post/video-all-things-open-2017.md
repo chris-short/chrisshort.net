@@ -4,6 +4,7 @@ categories = ["DevOps", "Talks", "2017"]
 date = 2017-11-15T16:00:00Z
 description = "Video of Chris Short during Lightning Talks Sponsored by opensource.com at All Things Open 2017"
 draft = false
+ShowTOC = false
 slug = "video-all-things-open-2017"
 tags = ["devops", "talks"]
 title = "Video: All Things Open 2017"

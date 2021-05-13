@@ -4,6 +4,7 @@ categories = ["Talks", "2018"]
 date = 2018-04-19T16:45:00Z
 description = "History can help prevent conflict when driving change. This talk analyzes historical data to show how to prevent conflict during your DevOps journey."
 draft = false
+ShowTOC = false
 slug = "devopsdays-clt-2018"
 tags = ["open source", "devops", "thucydides", "thucydides trap", "talks", "culture", "war", "history", "empathy"]
 title = "DevOpsDays Atlanta 2018: DevOps is Not War"

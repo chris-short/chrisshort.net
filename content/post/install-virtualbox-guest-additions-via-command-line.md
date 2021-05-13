@@ -4,6 +4,7 @@ categories = ["Linux", "Open Source", "2013"]
 date = 2013-05-03T18:18:00Z
 description = ""
 draft = false
+ShowTOC = false
 slug = "install-virtualbox-guest-additions-via-command-line"
 tags = ["virtualbox", "centos"]
 title = "Install VirtualBox Guest Additions via Command Line"

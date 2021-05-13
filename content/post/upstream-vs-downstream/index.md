@@ -4,6 +4,7 @@ categories = ["Open Source", "2019"]
 date = 2019-06-25T13:19:00Z
 description = "The differences between upstream and downstream"
 draft = false
+ShowTOC = false
 tags = ["open source", "upstream", "downstream"]
 title = "Upstream vs Downstream"
 [cover]

@@ -4,6 +4,7 @@ categories = ["DevOps", "Newsletters", "2017"]
 date = 2017-02-03T13:03:00Z
 description = ""
 draft = false
+ShowTOC = false
 slug = "recent-accomplishments"
 tags = ["DevOps", "open source"]
 title = "Recent Accomplishments"

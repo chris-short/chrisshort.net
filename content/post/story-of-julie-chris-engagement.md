@@ -4,6 +4,7 @@ categories = ["Life", "2011"]
 date = 2011-01-29T09:00:00Z
 description = "The Biltmore Estate is a special place to Chris and Julie. Chris decided months prior that when the time was right he'd propose to Julie on Biltmore Estate."
 draft = false
+ShowTOC = false
 slug = "story-of-julie-chris-engagement"
 tags = ["life"]
 title = "The Story of Julie and Chris' Engagement"

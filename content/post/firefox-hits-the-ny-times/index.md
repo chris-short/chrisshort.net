@@ -4,6 +4,7 @@ categories = ["Internet", "2004"]
 date = 2004-12-17T06:06:00Z
 description = "Firefox has taken out a two-page ad in the New York Times! According to Firefox this is the, 'largest open source fundraising campaign in history'"
 draft = false
+ShowTOC = false
 slug = "firefox-hits-the-ny-times"
 tags = ["firefox"]
 title = "Firefox Hits the NY Times"

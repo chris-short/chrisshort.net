@@ -4,6 +4,7 @@ categories = ["DevOps", "Newsletters", "2017"]
 date = 2017-12-02T10:00:00Z
 description = "After fifty-two weeks of uninterrupted DevOps newsletters, I have some things to share about the experience."
 draft = false
+ShowTOC = false
 slug = "notes-on-running-a-newsletter-a-year-of-devopsish"
 tags = ["DevOps"]
 title = "Notes on Running a Newsletter: A Year of DevOps'ish"

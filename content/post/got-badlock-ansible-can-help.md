@@ -4,6 +4,7 @@ categories = ["Ansible", "Red Hat", "Open Source", "2016"]
 date = 2016-04-12T04:57:53Z
 description = ""
 draft = false
+ShowTOC = false
 slug = "got-badlock-ansible-can-help"
 tags = ["ansible", "samba", "badlock", "yum", "apt", "dpkg", "security"]
 title = "Got Badlock? Ansible Can Help"

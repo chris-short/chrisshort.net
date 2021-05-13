@@ -4,6 +4,7 @@ categories = ["Talks", "2017"]
 date = 2017-10-05T07:30:00Z
 description = "I have seen the light side everyone thinks of in DevOps and have carried the red lightsaber as well. Let's walk into the cave on Dagobah together."
 draft = false
+ShowTOC = false
 slug = "devopsdays-raleigh-2017-dark-side-of-devops"
 tags = ["devops", "talks", "devopsdays"]
 title = "DevOpsDays Raleigh 2017: The Dark Side of DevOps"

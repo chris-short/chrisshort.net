@@ -4,6 +4,7 @@ categories = ["Microsoft", "2003"]
 date = 2003-03-03T16:00:00Z
 description = "This is not a complete history of the series of Microsoft Windows."
 draft = false
+ShowTOC = false
 slug = "windows-evolution"
 tags = ["windows", "microsoft", "windows xp"]
 title = "Evolution of Windows"

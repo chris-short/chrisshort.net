@@ -4,6 +4,7 @@ categories = ["Air Force", "2016"]
 date = 2016-05-27T23:16:56Z
 description = ""
 draft = false
+ShowTOC = false
 slug = "the-hall-of-famer-and-i"
 tags = ["richard childress", "richard childress racing", "air force", "nascar", "rcr", "hall of fame", "usaf"]
 title = "The Hall of Famer and I"

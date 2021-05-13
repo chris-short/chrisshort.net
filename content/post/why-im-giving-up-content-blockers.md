@@ -4,6 +4,7 @@ categories = ["Apple", "2017"]
 date = 2017-02-09T12:02:00Z
 description = ""
 draft = false
+ShowTOC = false
 slug = "why-im-giving-up-content-blockers"
 tags = ["content blockers"]
 title = "Why I'm Giving Up Content Blockers"
