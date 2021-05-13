@@ -4,6 +4,7 @@ categories = ["Security", "2007"]
 date = 2007-01-18T05:26:00Z
 description = "Internet Explorer (IE) is one of the most unsecured browsers on the planet. In 2006, IE was unsecure for 284 according to Brian Krebs."
 draft = false
+ShowTOC = false
 slug = "ie-unsecure-over-9-months-in-2006-firefox-9-days"
 tags = ["firefox", "microsoft", "security", "open source"]
 title = "IE Unsecure for Over 9 Months in 2006, Firefox, Nine Days"

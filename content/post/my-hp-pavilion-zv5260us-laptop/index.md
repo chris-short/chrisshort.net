@@ -4,6 +4,7 @@ categories = ["Hardware", "2004"]
 date = 2004-08-17T22:30:00Z
 description = "I finally did it. I bought a laptop before I headed out to California. Not so much for the trip to California but for another PC in the house and some more horsepower (a lot more horsepower)."
 draft = false
+ShowTOC = false
 slug = "my-hp-pavilion-zv5260us-laptop"
 tags = ["hardware", "laptop"]
 title = "My HP Pavilion zv5260us Laptop"
@@ -18,8 +19,6 @@ image = "/my-hp-pavilion-zv5260us-laptop/hp-pavilion-zv5260us-01.jpg"
 +++
 
 I finally did it. I bought a laptop before I headed out to California. Not so much for the trip to California but for another PC in the house and some more horsepower (a lot more horsepower). I'm not a gamer but I can always use a powerful processor.
-
-
 
 I picked up the HP Pavilion zv5260us. Here are the specs of the system:
 
@@ -45,3 +44,5 @@ The thing I love most about the laptop is the speed but after that I thoroughly 
 What I've been doing with the wireless networking capabilities of the laptop will be discussed later this week.
 
 I'm also looking forward to a new release of a 64-bit Windows XP from Microsoft so that I can take better advantage of the 64-bit processor in this laptop. There will be more on that in the not too distant future.
+
+{{< eo >}}

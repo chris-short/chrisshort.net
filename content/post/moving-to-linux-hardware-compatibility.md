@@ -4,6 +4,7 @@ categories = ["Linux", "Open Source", "2003"]
 date = 2003-04-29T23:08:00Z
 description = ""
 draft = false
+ShowTOC = false
 slug = "moving-to-linux-hardware-compatibility"
 tags = ["linux", "hardware", "open source"]
 title = "Moving to Linux - Hardware Compatibility"

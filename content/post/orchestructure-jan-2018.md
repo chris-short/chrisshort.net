@@ -4,6 +4,7 @@ categories = ["Talks", "2018"]
 date = 2018-02-01T16:00:00Z
 description = "I created a new Go talk for this group. I hope to reuse it to enlighten people on the awesomeness of Go. This talk is title Go: Enabling DevOps To Go Faster."
 draft = false
+ShowTOC = false
 slug = "orchestructure-jan-2018"
 tags = ["open source", "devops", "go", "golang", "talks", "security", "orchestructure"]
 title = "Orchestructure January 2018 Meetup"

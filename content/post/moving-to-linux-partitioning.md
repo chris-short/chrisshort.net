@@ -4,6 +4,7 @@ categories = ["Linux", "Open Source", "2003"]
 date = 2003-05-11T23:45:00Z
 description = ""
 draft = false
+ShowTOC = false
 slug = "moving-to-linux-partitioning"
 tags = ["linux", "open source", ]
 title = "Moving to Linux - Partitioning"

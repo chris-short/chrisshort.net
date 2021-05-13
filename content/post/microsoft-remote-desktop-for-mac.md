@@ -4,6 +4,7 @@ categories = ["Apple", "Microsoft", "2016"]
 date = 2016-06-09T22:24:02Z
 description = ""
 draft = false
+ShowTOC = false
 slug = "microsoft-remote-desktop-for-mac"
 tags = ["mac os x", "microsoft", "macos"]
 title = "Microsoft Remote Desktop for Mac"

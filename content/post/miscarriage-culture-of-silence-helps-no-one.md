@@ -4,6 +4,7 @@ categories = ["Life", "Culture", "Kids", "2017"]
 date = 2017-12-23T10:30:00Z
 description = "A culture of silence around miscarriage helps absolutely no one."
 draft = false
+ShowTOC = false
 slug = "miscarriage-culture-of-silence-helps-no-one"
 tags = ["life", "miscarriage", "pregnancy", "culture"]
 title = "Miscarriage: A Culture of Silence Helps No One"

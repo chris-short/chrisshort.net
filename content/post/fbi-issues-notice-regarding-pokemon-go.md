@@ -4,6 +4,7 @@ categories = ["Security", "2016"]
 date = 2016-07-20T14:34:00Z
 description = ""
 draft = false
+ShowTOC = false
 image = "/img/posts/fbi-hearts-pokemon-go.png"
 slug = "fbi-issues-notice-regarding-pokemon-go"
 tags = ["niantic", "FBI"]
@@ -24,4 +25,3 @@ The Note makes several mentions of Pokémon GO developer Niantic, Inc. and their
 On the FBI probability scale "very likely" and "highly probable" indicate an 80% to 95% chance of "players attempting to access restricted areas." 
 
 I have heard of people getting robbed, falling into pools, and walking off cliffs while playing Pokémon GO. Since when is it okay for a game to allow common sense to get thrown completely out the window?
-

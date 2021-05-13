@@ -4,6 +4,7 @@ categories = ["Kubernetes", "Red Hat OpenShift", "Live Streaming", "2020"]
 date = 2020-06-24T03:00:00Z
 description = "Sharing what it's like to be live streaming on OpenShift.tv and some lessons learned along the way"
 draft = false
+ShowTOC = false
 slug = "live-streaming-on-openshift.tv-and-some-lessons-learned"
 tags = ["live streaming", "streaming", "learned", "OpenShift.tv", "Red Hat OpenShift", "OpenShift", "CNCF", "Kubernetes", "cloud native", "community", "Cloud Native Computing Foundation", "OBS", "open source"]
 title = "Live streaming on OpenShift.tv and some lessons learned"

@@ -4,6 +4,7 @@ categories = ["DevOps", "Talks", "2016"]
 date = 2016-10-13T19:00:00Z
 description = ""
 draft = false
+ShowTOC = false
 slug = "what-the-military-taught-me-about-devops"
 tags = ["DevOps", "DevOpsDays", "talks"]
 title = "What The Military Taught Me About DevOps"

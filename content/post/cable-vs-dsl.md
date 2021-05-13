@@ -4,6 +4,7 @@ categories = ["Internet", "2003"]
 date = 2003-05-03T22:30:00Z
 description = "DSL and cable broadband both have their advantages and disadvantages but DSL seems to be the one lacking in quite a few areas and their marketing shows it."
 draft = false
+ShowTOC = false
 slug = "cable-vs-dsl"
 tags = ["internet", "networking"]
 title = "Cable vs. DSL"

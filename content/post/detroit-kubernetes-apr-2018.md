@@ -4,6 +4,7 @@ categories = ["Talks", "2018"]
 date = 2018-04-30T18:00:00Z
 description = ""
 draft = false
+ShowTOC = false
 slug = "detroit-kubernetes-apr-2018"
 tags = ["kubernetes", "Michigan", "talks", "Detroit", "cron", "cron jobs"]
 title = "Detroit Kubernetes: Kubernetes Cron Jobs"

@@ -4,6 +4,7 @@ categories = ["Talks", "AWS", "2018"]
 date = 2018-04-30T16:00:00Z
 description = "I recently spoke at AWS Michigan about cloud migrations. The talk wasn't AWS specific. We did talk about it. From defining cloud to prioritization to cost overruns..."
 draft = false
+ShowTOC = false
 slug = "aws-michigan-apr-2018"
 tags = ["devops", "AWS", "Michigan", "talks", "cloud"]
 title = "AWS Michigan: Heaven is Not a Cloud"

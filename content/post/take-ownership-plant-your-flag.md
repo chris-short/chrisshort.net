@@ -4,6 +4,7 @@ categories = ["Philosophy", "2016"]
 date = 2016-06-28T17:11:49Z
 description = ""
 draft = false
+ShowTOC = false
 slug = "take-ownership-plant-your-flag"
 tags = ["ownership", "philosophy"]
 title = "Take Ownership; \"Plant Your Flag\""

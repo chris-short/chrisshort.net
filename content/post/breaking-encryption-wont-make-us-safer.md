@@ -4,6 +4,7 @@ categories = ["Security", "Civics", "2017"]
 date = 2017-06-05T22:26:47Z
 description = ""
 draft = false
+ShowTOC = false
 slug = "breaking-encryption-wont-make-us-safer"
 tags = ["security", "encryption", "nsa"]
 title = "Breaking Encryption Won't Make Us Safer"

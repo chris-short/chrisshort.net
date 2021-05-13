@@ -1,8 +1,10 @@
 +++
+ShowToc = false
 author = "Chris Short"
 categories = ["Ansible", "2016"]
 date = 2016-09-27T16:15:00Z
 description = "Puppet was too cumbersome for simple user management. Ansible came in to save the day in less than half an hour."
+ShowToc = false
 draft = false
 image = "/user-management-with-ansible/ansible_circleA_blue.png"
 slug = "ansible-user-management"

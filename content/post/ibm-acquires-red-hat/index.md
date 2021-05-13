@@ -97,5 +97,3 @@ In the short term (six to eighteen months), I'm likely not going anywhere. There
 A huge thanks to all the wonderful people I've talked to this week. You've made a jarring change easier for me to manage mentally. I am forever grateful.
 
 Make no mistake, this is a historic moment. Whether it's the beginning or the end of a history is the big question.
-
-

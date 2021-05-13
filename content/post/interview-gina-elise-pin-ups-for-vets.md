@@ -4,6 +4,7 @@ categories = ["Interviews", "2007"]
 date = 2007-02-12T05:29:00Z
 description = "If you've never heard of Gina Elise and her project Pin Ups for Vets prepare to become very informed and amazed."
 draft = false
+ShowTOC = false
 slug = "interview-gina-elise-pin-ups-for-vets"
 tags = ["interview", "veteran"]
 title = "Interview with Gina Elise of Pin Ups for Vets"

@@ -4,6 +4,7 @@ categories = ["Internet", "DNS", "2004"]
 date = 2004-11-06T22:30:00Z
 description = "Verisign switches to near real-time DNS updates on September 8, 2004"
 draft = false
+ShowTOC = false
 slug = "verisign-rapid-dns-updates"
 tags = ["internet", "DNS"]
 title = "VeriSign's rapid DNS updates in .com and .net"

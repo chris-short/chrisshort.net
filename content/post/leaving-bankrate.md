@@ -4,6 +4,7 @@ categories = ["Life", "2017"]
 date = 2017-11-13T10:00:00Z
 description = "An open e-mail about why I am deciding to leave Bankrate now"
 draft = false
+ShowTOC = false
 slug = "leaving-bankrate"
 tags = ["job", "work", "life", "balance", "acquisition"]
 title = "Leaving Bankrate"

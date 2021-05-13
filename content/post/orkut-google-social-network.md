@@ -4,6 +4,7 @@ categories = ["Social Media", "Google", "2004"]
 date = 2004-01-31T22:30:00Z
 description = "orkut.com is a social networking service developed in association with Google."
 draft = false
+ShowTOC = false
 slug = "orkut-google-social-network"
 tags = ["social media", "google"]
 title = "orkut.com - Google's Social Network"

@@ -4,6 +4,7 @@ categories = ["Newsletters", "2019"]
 date = 2019-12-07T15:00:00Z
 description = "Chris Short is launching geopolitics.dev to to help technologists, nerds, journalists, and politicians understand where their worlds intersect."
 draft = true
+ShowToc = false
 tags = []
 title = "Announcing geopolitics.dev"
 [cover]

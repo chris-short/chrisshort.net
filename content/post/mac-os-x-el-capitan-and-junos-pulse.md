@@ -4,6 +4,7 @@ categories = ["Apple", "2015"]
 date = 2015-10-06T20:54:19Z
 description = ""
 draft = false
+ShowTOC = false
 slug = "mac-os-x-el-capitan-and-junos-pulse"
 tags = ["junos pulse", "apple keychain", "mac os x", "el capitan", "apple", "macos"]
 title = "Mac OS X El Capitan and Junos Pulse"
@@ -17,6 +18,7 @@ I had some [Apple Keychain issues after upgrading to Mac OS X El Capitan](/mac-o
 {{< eo >}}
 
 The behavior went something like this:
+
 1. Save a password for a VPN connection in Junos Pulse VPN client
 2. The first use of the VPN connection will be fine
 3. Disconnect VPN connection

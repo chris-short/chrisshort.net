@@ -4,6 +4,7 @@ categories = ["DevOps", "2017"]
 date = 2017-01-23T22:03:02Z
 description = ""
 draft = false
+ShowTOC = false
 slug = "gitlab-annoyance-private-to-public-repos"
 tags = ["gitlab", "git", "test kitchen", "ansible", "DevOps", "vcs"]
 title = "GitLab Annoyance: Private to Public Repos"

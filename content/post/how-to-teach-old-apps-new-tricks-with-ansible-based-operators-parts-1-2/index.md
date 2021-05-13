@@ -13,7 +13,7 @@ image = "/how-to-teach-old-apps-new-tricks-with-ansible-based-operators-parts-1-
 
 At Red Hat Summit this year, I had the task of explaining [Kubernetes Operators with Ansible](https://ansible.com/operators) in two, fifteen-minute talks, separated by three hours, in the middle of the busy Red Hat booth to anyone that walked up. I had to explain Kubernetes, the difference stateful and stateless apps, what a Kubernetes Operator is, how to write an operator with Ansible, and then demonstrate this capability. Use of video and sound was discouraged. Also, there wasn't going to be an ethernet cable available, meaning only conference show floor WiFi was available for a demo.
 
-
+{{< carbon >}}
 
 ## Constraints are the devil
 
@@ -42,3 +42,5 @@ If you want to actually see the monstrosity I built...
 <https://galaxy.ansible.com/chris-short/ansible_role_motd>: Ansible Role available from Ansible Galaxy
 
 <https://github.com/chris-short/motd-operator>: Ansible-based Kubernetes Operator Using ansible_role_motd from Ansible Galaxy as an example from managing state in a Kubernetes cluster
+
+{{< eo >}}

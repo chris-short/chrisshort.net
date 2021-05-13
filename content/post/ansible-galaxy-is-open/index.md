@@ -4,6 +4,7 @@ categories = ["Ansible", "2016"]
 date = 2016-10-11T17:45:00Z
 description = ""
 draft = false
+ShowToc = false
 slug = "ansible-galaxy-is-open"
 tags = ["ansible"]
 title = "Ansible Galaxy is Open"

@@ -4,6 +4,7 @@ categories = ["Interviews", "OpenShift", "Kubernetes", "Operators", "2020"]
 date = 2020-06-15T03:00:00Z
 description = "Chris Short from Red Hat talks Operators and Kubernetes with Rob Zehicle"
 draft = false
+ShowTOC = false
 slug = "talking-operators-with-rob-zehicle"
 tags = ["Chris Short", "Rob Zehicle", "Operator", "Operators", "Kubernetes", "OpenShift", "CRD", "cluster", "application", "Operator pattern", "Ansible", "magic", "Red Hat", "clusters", "pods", "DevOps", "podcast", "Operator Framework"]
 title = "Talking Operators with Rob Zehicle on L8ist Sh9y Podcast"

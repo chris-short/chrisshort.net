@@ -4,6 +4,7 @@ categories = ["Community", "2018"]
 date = 2018-01-25T16:15:00Z
 description = "I was a mentor at LinkedIn Mentor Monday Detroit. I was able to talk to younger folks and gauge what they are thinking and where they see their careers heading."
 draft = false
+ShowTOC = false
 slug = "linkedin-mentor-monday-detroit"
 tags = ["detroit", "mentor", "linkedin", "mentorship", "volunteering"]
 title = "LinkedIn Mentor Monday Detroit"

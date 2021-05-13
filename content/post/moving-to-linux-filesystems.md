@@ -4,6 +4,7 @@ categories = ["Linux", "Open Source", "2003"]
 date = 2003-05-15T01:41:00Z
 description = ""
 draft = false
+ShowTOC = false
 slug = "moving-to-linux-filesystems"
 tags = ["linux", "xfs", "ext2", "ext3", "filesystems", "open source"]
 title = "Moving to Linux - Filesystems"
