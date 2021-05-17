@@ -13,11 +13,13 @@ tags = ["books"]
 
 ## What is DevOps
 
-> DevOps was intentionally left undefined (or loosely defined) at the first DevOpsDays event held in Ghent, Belgium. There are many good reasons for leaving it undefined. Back in 2009 in Ghent, no one could be sure how DevOps would impact the industry. But, the lack of a definition has left it available to be defined by anyone (myself included). This means a product can be DevOps and a business process can be DevOps. Neither of these is "wrong" but, one adheres to the spirit of DevOps more than the other. 
+> DevOps was intentionally left undefined (or loosely defined) at the first DevOpsDays event held in Ghent, Belgium. There are many good reasons for leaving it undefined. Back in 2009 in Ghent, no one could be sure how DevOps would impact the industry. But, the lack of a definition has left it available to be defined by anyone (myself included). This means a product can be DevOps and a business process can be DevOps. Neither of these is "wrong" but, one adheres to the spirit of DevOps more than the other.
 >
 > DevOps leader Chris Short defines DevOps and helps organizations focus on implementation. It's more than just tooling.
 
 [![What is DevOps](/books/What-is-DevOps-eBook.webp#center)](https://devopsish.com/what-is-devops/?utm_source=chrisshort.net&utm_medium=books)
+
+[![App Icon Apple Books](/img/standard.webp#center)](https://books.apple.com/us/book/what-is-devops/id1567673806?itscg=30200&amp;itsct=books_box_appicon&amp;ct=books_what_is_dev_ops&amp;ls=1)
 
 ## 97 Things Every Cloud Engineer Should Know: Collective Wisdom from the Experts
 
