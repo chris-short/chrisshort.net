@@ -8,6 +8,9 @@ ShowTOC = false
 slug = "ear-piercing-analysis-average-age-and-additional-data"
 tags = ["ear piercing", "kids"]
 title = "Ear Piercing Analysis: Average Age and Additional Data"
+aliases = [
+    "/post/113534254/ear-piercing-analysis-average-age-and-additional-data"
+]
 
 +++
 
