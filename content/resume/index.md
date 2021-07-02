@@ -19,15 +19,18 @@ aliases = [
 
 ## Professional Summary
 
-Results-producing, passionate DevOps professional turned Technical Marketer and community advocate. Cloud Native Computing Foundation Ambassador, Kubernetes SIG-ContribEx member, public speaker, personal and professional blogger/writer, founder of [DevOps'ish](https://devopsish.com/), and believer in open source principles bettering interactions and promoting conversations. Technology exists to improve human existence.
+Results producing DevOps profession turned Technical Marketer and community advocate. Cloud Native Computing Foundation Ambassador, Kubernetes Contributor and upstream marketing team member. Public speaker and live streamer, personal and professional blogger/writer, founder of the popular newsletter, [DevOps'ish](http://devopsish.com/). Open Source advocate. Technology exists to improve human existence.
 
 ## Professional Experience
 
 ### Principal Technical Marketing Manager, Red Hat — Detroit, MI — Aug 2019 to Present
 
+* OpenShift.TV Executive Producer: in charge of finding content, talent, showrunning, marketing, growth, and facilitating technical components of live productions
+* Training others in how to make use of the infrastructure in place for OpenShift.TV to grow the channel's bench of hosts and producers across the globe.
+* Hosted and/or produced over 600 hours of content with over 700 days of live watch time.
 * Primary community interface as a CNCF Ambassador who is also focused on Operators and their usage for operations teams; led Ansible Operator workshops at AnsibleFest and Red Hat Summit
 * Acted as a liaison between an Infosec team and a product team after a critical vulnerability was discovered; facilitated responsible disclosure of the vulnerability
-* Built workshops, Katacoda, and other instructional materials to enabling field to be informed about Red Hat's cloud native offerings plus, competitive intelligence to position products in the market
+* Built workshops, Katacoda, and other instructional materials to enabling the field to be informed about Red Hat's cloud native offerings plus competitive intelligence to position products in the market
 * Worked with Red Hat D+I, Events teams to make inclusive, constructive learning spaces at events
 * Evangelized Red Hat and many other open source offerings through official CNCF communications
 * Gave five talks in three days for IBM FastStart 2020; taught sellers and partners on the advantages of OpenShift for AI/ML workloads, monitoring capabilities of Prometheus, and technical roadmaps
