@@ -7,6 +7,12 @@ slug = "publications"
 title = "Publications"
 +++
 
+## [How to choose a SIG as a non-code Kubernetes contributor](https://www.kubernetes.dev/blog/2021/07/09/how-to-choose-a-sig-as-a-non-code-kubernetes-contributor/)
+
+> My first work in the cloud native world was working with the SIG Docs team. I helped review some documentation and learned some of their processes. I wasn’t there long before I found out about another great SIG: Contributor Experience. Contributor Experience is all about improving the workflow, removing bottlenecks, and generally making Kubernetes a great project to contribute your time and effort. I knew ContribEx (as it’s called) is where I could make an impact.
+
+## Ansible
+
 > Chris Short's ansible.com blog posts are available here: <https://www.ansible.com/blog/author/chris-short>
 
 ## [Ansible Operators October 2019 Update](https://blog.openshift.com/ansible-operators-october-2019-update/)
