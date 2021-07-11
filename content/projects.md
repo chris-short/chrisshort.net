@@ -101,3 +101,7 @@ ARM is going to be the datacenter and home computing platform of the future. It 
 Also, it's cheaper than a year of GKE. Plus, why not run Kubernetes in your home?
 
 Source: [rak8s](https://github.com/rak8s/)
+
+## Status Page
+
+Like every good service provider, I maintain a status page for my projects: <https://status.chrisshort.net/>
