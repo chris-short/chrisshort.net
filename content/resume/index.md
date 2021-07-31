@@ -19,15 +19,16 @@ aliases = [
 
 ## Professional Summary
 
-Results producing DevOps profession turned Technical Marketer and community advocate. Cloud Native Computing Foundation Ambassador, Kubernetes Contributor and upstream marketing team member. Public speaker and live streamer, personal and professional blogger/writer, founder of the popular newsletter, [DevOps'ish](http://devopsish.com/). Open Source advocate. Technology exists to improve human existence.
+Results producing DevOps profession turned Technical Marketer and community advocate. Cloud Native Computing Foundation Ambassador, Kubernetes Contributor and Kubernetes upstream marketing team member. Public speaker and live streamer, personal and professional blogger/writer, founder of the popular newsletter, [DevOps'ish](http://devopsish.com/). Open Source advocate. Technology exists to improve human existence.
 
 ## Professional Experience
 
 ### Principal Technical Marketing Manager, Red Hat — Detroit, MI — Aug 2019 to Present
 
 * OpenShift.TV Executive Producer: in charge of finding content, talent, showrunning, marketing, growth, and facilitating technical components of live productions
-* Training others in how to make use of the infrastructure in place for OpenShift.TV to grow the channel's bench of hosts and producers across the globe.
-* Hosted and/or produced over 600 hours of content with over 700 days of live watch time.
+* Training others in how to make use of the infrastructure in place for OpenShift.TV to grow the channel's bench of hosts and producers across the globe
+* Turned OpenShift.TV into a Red Hat corporate branded product: [Red Hat Livestreaming](https://www.redhat.com/en/livestreaming)
+* Hosted and/or produced over 700 hours of content with over 2 years of live watch time.
 * Primary community interface as a CNCF Ambassador who is also focused on Operators and their usage for operations teams; led Ansible Operator workshops at AnsibleFest and Red Hat Summit
 * Acted as a liaison between an Infosec team and a product team after a critical vulnerability was discovered; facilitated responsible disclosure of the vulnerability
 * Built workshops, Katacoda, and other instructional materials to enabling the field to be informed about Red Hat's cloud native offerings plus competitive intelligence to position products in the market
