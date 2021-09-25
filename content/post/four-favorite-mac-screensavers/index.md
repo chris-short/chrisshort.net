@@ -5,7 +5,7 @@ date = 2021-09-25T07:00:00Z
 description = "Chris Short's four favorite macOS screensavers"
 draft = false
 slug = "four-favorite-macos-screensavers"
-tags = ["macOS", "screensaver"]
+tags = ["macOS", "screensaver", "Aerial", "Apple", "screensavers", "fliqlo", "padbury", "clock", "time", "drift", "favorite"]
 title = "Updated: My four favorite macOS screensavers"
 [cover]
 image = "/img/posts/dmitry-chernyshov-mP7aPSUm7aE-unsplash.jpg"

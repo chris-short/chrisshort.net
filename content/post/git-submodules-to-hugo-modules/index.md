@@ -5,7 +5,7 @@ date = 2021-09-27T07:00:00Z
 description = "How to switch from git submodules to Hugo Modules"
 draft = false
 slug = "git-submodules-to-hugo-modules"
-tags = []
+tags = ["git", "hugo", "modules", "submodules", "theme", "submodule", "Netlify", "branch", "mod"]
 title = "From git submodule to Hugo Modules using Netlify"
 [cover]
 image = "/img/posts/hugo-logo-wide.svg"
