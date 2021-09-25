@@ -1,3 +1,6 @@
+# OS crap
+.DS_Store
+
 # Logs
 logs
 *.log
