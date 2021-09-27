@@ -58,7 +58,7 @@ Next run these commands (I know these seem a little redundant but, I don't think
 Disabling post processing in netlify.toml is a good idea. This will prevent Netlify from breaking your site (SRI hashes).
 
     [build.processing]
-    skip_processing = true
+        skip_processing = true
 
 Commit, watch your build for errors, address any as they come up (I'd be interested in learning more if you have errors), and... PROFIT. Goodbye git submodules. We never liked you anyway.
 
