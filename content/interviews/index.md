@@ -9,8 +9,6 @@ title = "Interviews"
 
 {{< speaker >}}
 
-{{< twitch redhatopenshift >}}
-
 {{< eo >}}
 
 ## Roaring Elephant: CI/CD with Chris Short (2/2)
