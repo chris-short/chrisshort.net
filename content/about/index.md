@@ -28,7 +28,7 @@ Chris is now working in the [open source](https://chrisshort.net/tags/open-sourc
 
 ## Headshot
 
-[Sept-2020-Profile-Pic.jpeg](/about/Sept-2020-Profile-Pic.jpeg)
+[Chris-Short-Sept-2021-Profile-Pic.jpg](/about/Chris-Short-Sept-2021-Profile-Pic.jpg)
 
 ## Sponsor
 
