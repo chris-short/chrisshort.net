@@ -23,7 +23,6 @@ Security needs to be a step in every part of the software development lifecycle.
 
 ### whoami
 
-* Red Hat
 * Cloud Native Ambassador
 * DevOps'ish
 * KubeWeekly

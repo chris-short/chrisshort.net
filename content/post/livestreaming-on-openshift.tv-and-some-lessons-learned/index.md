@@ -15,8 +15,6 @@ image = "/live-streaming-on-openshift.tv-and-some-lessons-learned/openshift.tv.p
 
 This post intends to share what I’ve been up to the past couple of months. Also, what it's like to be live streaming on [OpenShift.tv](https://openshift.tv). We've been in a startup mode for over two months now. We've been on air for a almost two months. I've learned so much. I want to share some lessons learned along the way.
 
-{{< twitch redhatopenshift >}}
-
 Live streaming is a hot topic these days due to the COVID-19 pandemic. The topic has been so hot in fact that Cloud Native Computing Foundation (CNCF) has done two webinars on about live streaming and using [Open Broadcaster Software](https://obsproject.com/) (OBS):
 
 * [CNCF Community Webinar: How to Conduct a GREAT Live Stream](https://www.cncf.io/webinars/cncf-community-webinar-how-to-conduct-a-great-live-stream/): There's a whole backstory on how this came together. Long story short, huge shoutout to [Jorge Castro](https://twitter.com/castrojo) and [Alex Lustenberg](https://www.linkedin.com/in/alustenberg/).
