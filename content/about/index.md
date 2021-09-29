@@ -12,7 +12,7 @@ aliases = [
 
 ## Tagline
 
-[Kubernetes](https://kubernetes.dev) | [CNCF Ambassador](https://www.cncf.io/people/ambassadors/) + [KubeWeekly](https://www.cncf.io/kubeweekly/) | [Red Hat Livestreaming](https://www.redhat.com/en/livestreaming) | [devopsish.com](https://devopsish.com/) | [Disabled Veteran](/long-thoracic-nerve-palsy/) | [He/Him/His](https://pronoun.is/he) | [Views solely mine](https://chrisshort.net/terms/#disclaimer)
+[Kubernetes](https://kubernetes.dev) | [CNCF Ambassador](https://www.cncf.io/people/ambassadors/) + [KubeWeekly](https://www.cncf.io/kubeweekly/) | [devopsish.com](https://devopsish.com/) | [Disabled Veteran](/long-thoracic-nerve-palsy/) | [He/Him/His](https://pronoun.is/he) | [Views solely mine](https://chrisshort.net/terms/#disclaimer)
 
 ## Brief Bio
 
@@ -39,7 +39,6 @@ Chris is now working in the [open source](https://chrisshort.net/tags/open-sourc
 ## Appearances Elsewhere
 
 * [DevOps'ish](https://devopsish.com)
-* [Red Hat Livestreaming](https://www.redhat.com/en/livestreaming)
 * [KubeWeekly](https://www.cncf.io/kubeweekly/)
 * [Projects](/projects/)
 * [Newsletter](/newsletter/)

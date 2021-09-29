@@ -9,8 +9,6 @@ title = "Webinars"
 
 {{< speaker >}}
 
-{{< twitch redhatopenshift >}}
-
 {{< eo >}}
 
 # The top 7 most useful Kubernetes APIs for comprehensive cloud native observability
