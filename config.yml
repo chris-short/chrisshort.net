@@ -39,11 +39,9 @@ Params:
         - name: linkedin
           url: https://www.linkedin.com/in/thechrisshort
         - name: youtube
-          url: https://www.youtube.com/channel/UC8jhUEJ-K_QfDWbmpmwi4XA
+          url: https://www.youtube.com/channel/UCMzMqbKmCmUZWAmV8jr8Daw
         - name: telegram
           url: https://telegram.me/ChrisShort
-        - name: twitch
-          url: https://twitch.tv/redhatopenshift
         - name: rss
           url: https://chrisshort.net/index.xml
 
