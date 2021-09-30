@@ -1,6 +1,6 @@
 +++
 author = "Chris Short"
-categories = ["Hugo", "Git", "Go"]
+categories = ["2021", "Hugo", "Git", "Go"]
 date = 2021-09-27T07:00:00Z
 description = "How to switch from git submodules to Hugo Modules"
 draft = false
