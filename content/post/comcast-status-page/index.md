@@ -2,17 +2,17 @@
 author = "Chris Short"
 categories = ["2021", "Internet", "Life"]
 date = 2021-10-05T07:00:00Z
-description = ""
+description = "Comcast had a local area issue that they didn't resolve until I proved there was a widespread issue"
 draft = false
 slug = "comcast-status-page"
-tags = []
+tags = ["Comcast", "Comcast Business", "Xfinity", "status page", "internet", "house", "home", "network", "tech", "forced", "outage", "outages", "problem", "modem", "blame", "area", "connectivity", "wifi", "replace"]
 title = "Having a status page forced Comcast to fix my internet"
 [cover]
 image = "/img/posts/UptimeRobot_Home.png"
 
 +++
 
-TL;DR: Comcast had a local area issue. I set up a status page for my house after many outages. The status page actively monitoring connectivity forced Comcast to look outside our home for a fix after several visits.
+TL;DR: Comcast had a local area issue. I set up a [status page for my house](https://status.chrisshort.net/788638365) after many outages. The status page actively monitoring connectivity forced Comcast to look outside our home for a fix after several visits.
 
 ## Forced switch to Comcast Business
 
