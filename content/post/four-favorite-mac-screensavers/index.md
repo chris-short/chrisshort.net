@@ -1,6 +1,6 @@
 +++
 author = "Chris Short"
-categories = ["Apple", "2020"]
+categories = ["Apple", "2020", "2021"]
 date = 2021-09-25T07:00:00Z
 description = "Chris Short's four favorite macOS screensavers"
 draft = false
