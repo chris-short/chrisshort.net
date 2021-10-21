@@ -11,6 +11,8 @@ title = "Shrug"
 
 +++
 
+{{< carbon >}}
+
 ## Normal Shrug (sup son)
 
 ¯\\\_(ツ)\_/¯

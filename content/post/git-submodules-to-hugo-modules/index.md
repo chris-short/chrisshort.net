@@ -12,6 +12,8 @@ image = "/img/posts/hugo-logo-wide.svg"
 
 +++
 
+{{< eo >}}
+
 {{< tweet 1441773641276919822 >}}
 
 Git submodules are cumbersome to manage. In my opinion, git submodules are a sort of anti-pattern for [**Hugo**](https://gohugo.io/) (I know many themes suggest using git submodules). There's a better way to manage your Hugo site's theme: [Hugo Modules](https://gohugo.io/hugo-modules/).
@@ -68,3 +70,5 @@ References:
 <https://github.com/theNewDynamic/gohugo-theme-ananke#installation>  
 <https://gohugo.io/hugo-modules/configuration/>  
 <https://gohugo.io/hugo-modules/use-modules/>
+
+{{< eo >}}

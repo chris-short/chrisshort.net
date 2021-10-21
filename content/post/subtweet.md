@@ -11,6 +11,8 @@ title = "subtweet"
 
 +++
 
+{{< carbon >}}
+
 A subtweet is such a common thing that it has entered the English lexicon. The term itself has a very specific meaning according to [Oxford Living Dictionaries](https://en.oxforddictionaries.com/definition/subtweet):
 
 > (on the social media application Twitter) a post that refers to a particular user without directly mentioning them, typically as a form of furtive mockery or criticism.
