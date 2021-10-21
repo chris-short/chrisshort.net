@@ -14,6 +14,8 @@ caption = "COVID-19 is more than just a pandemic"
 
 *This article first appeared in [DevOps'ish 210](https://devopsish.com/210/) and was 100% inspired by [K Rain Leander](https://twitter.com/rainleander/status/1373299864902246400)*
 
+{{< carbon >}}
+
 The idea for the subject of this article came from [K Rain Leander](https://twitter.com/rainleander/status/1373299864902246400). Rain asks...
 
 > "The past year has been one of lockdowns, increased security and decreased travel. DevOps became DevSecOps became DevSecOpsBiz. And the world embraced the work / life balance culture of DevOps. What are your favourite cultural shifts from the last year? What do you want to let go of forever? As we take a look at the latest updates in the DevOps world, also take a look at you and yours and let us know how you’re doing. And if we can help, let us know how."
@@ -33,3 +35,5 @@ I'll never forget the first internal phishing campaign I ever ran. I used the fi
 As far as, "take a look at you and yours and let us know how you're doing. And if we can help, let us know how." I'd say my number one indicator of stress, pain, and how well I'm doing is how much facial hair I'm sporting that day. The longer the facial hair, the more patience I need. But, it's hard to explain to people that not shaving that morning saves resources for that last live stream or meeting of the day (think spoon theory). Psychological safety is good but, everything else piles up sometimes.
 
 Nevertheless, don't worry about me. My support system is solid. Others are not as fortunate. They're punished for being born. Because of where they come from, the color of their skin, or because of how they feel. These are the people that need to be lifted and normalized. [Stop the hate](https://www.redhat.com/en/blog/red-hat-stands-asian-community-and-condemns-recent-violence). [Stop it now](https://blacklivesmatter.com/). That still won't create a level playing field. But, it's a step in a better direction. These aren't political statements. They are most certainly not. They might require a political solution but, I'm asking for humans to treat each other nicely. That shouldn't be such a loaded statement.
+
+{{< eo >}}

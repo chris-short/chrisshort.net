@@ -14,6 +14,8 @@ image = "/img/posts/UptimeRobot_Home.png"
 
 TL;DR: Comcast had a local area issue. I set up a [status page for my house](https://status.chrisshort.net/788638365) after many outages. The status page actively monitoring connectivity forced Comcast to look outside our home for a fix after several visits.
 
+{{< carbon >}}
+
 ## Forced switch to Comcast Business
 
 The pandemic hit, and our lives became 100% "virtual" last year. As a family that "cut the cord" years ago and I've been working from home for quite some time, our internet consumption was pretty high. Our neighborhood is only serviced by one provider, Xfinity (aka Comcast, one of the worst providers of them all). We were ever mindful of our Xfinity usage. The 50% emails before the halfway mark in our billing period made for some dining room table conversations about peak usage and devices. Once I fired up Red Hat Livestreaming, Xfinity's data caps would be smoked within the first fifteen days of the month. We had no choice but to make the switch to Comcast Business to remove those caps.
@@ -57,3 +59,5 @@ Another outage, another Xfinity tech dispatched. They came in and cleared all th
 Comcast finally had to admit there was a more significant problem in the area. That's right! Comcast took the blame. I had concrete evidence their service was not meeting their standards. I got a case number and a phone number to call to check up on things whenever I wanted. Comcast was monitoring connectivity to my home now after their many outages in my area. The status page ultimately forced a fix to the multi-neighborhood impacting issue. 
 
 A few days later, I looked at the status page and noticed more green than average. I joked about the number of nines I had (one, then two, then three). I think we had one more outage after Comcast took the blame. Since then, it has been pretty steady (minus during heavy summer storms and subsequent power outages). The moral of the story is, speak softly and carry a status page when dealing with Comcast connectivity issues. Bring your hard evidence to the table, and Comcast will bend over backward.
+
+{{< eo >}}
