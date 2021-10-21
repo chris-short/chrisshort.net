@@ -49,7 +49,7 @@ Note the lack of https:// in the path. Also, the single quotes are important.
 
 Next run these commands (I know these seem a little redundant but, I don't think there's harm in running them all):
 
-    hugo mod init github.com/<USERNAME>/<THEME>
+    hugo mod init github.com/<YOUR_USERNAME>/<YOUR_PROJECT>
     hugo mod get -u
     go mod tidy
 
