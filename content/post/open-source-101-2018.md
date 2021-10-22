@@ -16,7 +16,7 @@ caption = "Photo Credit: [VM (Vicky) Brasseur](https://www.vmbrasseur.com/) (CC-
 
 I had the opportunity to attend and speak at [Open Source 101](http://opensource101.com/) at NC State's McKimmon Center for Extension & Continuing Education this past weekend. It's always nice to visit Raleigh, NC and Red Hat Tower. I met several awesome attendees and speakers while I was in town too. The All Things Open team did an absolutely fantastic job at every facet of this conference. If you have the opportunity to attend one of these events you most definitely should!
 
-{{< eo >}}
+{{< eo_text >}}
 
 ## What is Open Source 101?
 

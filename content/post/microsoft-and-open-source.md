@@ -13,7 +13,7 @@ title = "Microsoft and Open Source"
 
 For the past year or so Microsoft has repeatedly said no to Open Source and more recently after numerous attempts to say no has opened up some of its source code to various businesses and governments. Imagine a world where Microsoft Windows and Office were totally open. That's not likely; so let's imagine a world where Microsoft made its products a little more open.
 
-{{< eo >}}
+{{< eo_text >}}
 
 What do you think would happen if Microsoft kept its kernel under wraps and released just its GUI out to the world as Open Source? Once the major code heads cleaned out all the crap, I imagine a Redhat or a Mandrake would quickly come out with its combo of Linux with the Windows GUI. Similar attempts have been made in the past to make a Windows-like GUI but now it seems that the Linux community is looking at Gnome and KDE to "bridge the gap" between Windows and Linux users. Why would Microsoft do this? Well, control of course. If the majority of users were using a Microsoft-based GUI then most of the people in world would feel more inclined to use these operating systems as opposed to learning a new one. Think about it, the power of Unix with the ease of Windows. Another thing is money. Microsoft could charge a small lump some for the GUI to individuals and corporations or (the more likely of the two) charge a small fee for every copy of the Windows GUIed operating system sold. This would take away from the freeness of Linux but I'd bet money IBM would jump all over it. Consumers would as well. But, if you made Linux and Unix as easy as Windows then the market share of Windows would begin to slip a little. Linux and Unix would still need a competitive productivity suite.
 

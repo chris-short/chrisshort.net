@@ -31,6 +31,6 @@ Error: 1045 SQLSTATE: 28000 (ER_ACCESS_DENIED_ERROR)
 
 That's not helpful. After some additional testing I realized the password might be too long. Sure enough, the [CHANGE MASTER TO syntax guide](https://dev.mysql.com/doc/refman/5.6/en/change-master-to.html) states MASTER_PASSWORD has a maximum length of 32 characters (despite the MySQL client having a longer limit).
 
-{{< eo >}}
+{{< eo_text >}}
 
 It's annoying that this limit exists and the error 1045 message isn't clearer about it. Hopefully you found this very early on in your search for an answer.

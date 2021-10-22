@@ -12,7 +12,7 @@ image = "/img/posts/hugo-logo-wide.svg"
 
 +++
 
-{{< eo >}}
+{{< carbon >}}
 
 {{< tweet 1441773641276919822 >}}
 
@@ -71,4 +71,4 @@ References:
 <https://gohugo.io/hugo-modules/configuration/>  
 <https://gohugo.io/hugo-modules/use-modules/>
 
-{{< eo >}}
+{{< eo_text >}}

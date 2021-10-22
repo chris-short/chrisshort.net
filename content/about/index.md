@@ -52,4 +52,4 @@ Chris is now working in the [open source](https://chrisshort.net/tags/open-sourc
 BFD23BF8 (expired)
 Please [Signal](https://support.signal.org/hc/en-us/articles/360007060592-Invite-friends-to-join-Signal) or [Telegram](https://telegram.me/ChrisShort)
 
-{{< eo >}}
+{{< eo_text >}}

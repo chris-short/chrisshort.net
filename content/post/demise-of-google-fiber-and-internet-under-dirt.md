@@ -16,7 +16,7 @@ image = "/img/posts/twc-power-utility-house-connection.jpg"
 
 If you have not heard the news, [Google Fiber is no longer expanding](http://www.usatoday.com/story/tech/news/2016/10/25/google-fiber-halts-rollout-ceo-leaves/92746288/) its installation in the 10 markets they service and the head of Google Access (the Google Fiber overlord company), Craig Barratt, is stepping down.
 
-{{< eo >}}
+{{< eo_text >}}
 
 Also in the news, was a [little-publicized statement from AT&T's chief executive, Randall Stephenson](http://www.nytimes.com/2016/10/24/business/making-sense-of-atts-bid-for-time-warner.html), where he said, "I will be sorely disappointed if we are not going head-to-head" with cable companies by 2021.
 
