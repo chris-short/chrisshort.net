@@ -50,6 +50,6 @@ Chris is now working in the [open source](https://chrisshort.net/tags/open-sourc
 ### PGP Public Key
 
 BFD23BF8 (expired)
-Please [Signal](https://support.signal.org/hc/en-us/articles/360007060592-Invite-friends-to-join-Signal) or [Telegram](https://telegram.me/ChrisShort)
+Please [Signal](https://support.signal.org/hc/en-us/articles/360007060592-Invite-friends-to-join-Signal), [Telegram](https://telegram.me/ChrisShort), or [Keybase](https://keybase.io/chrisshort)
 
-{{< eo_text >}}
+{{< eo_signup >}}
