@@ -17,7 +17,7 @@ As part of preparing for my talk at [DevOpsDays Detroit](/what-the-military-taug
 
 In the case of Operation Eagle Claw, you can draw a comparison to the old IT silo mentality of Dev and Ops being two different teams with very different objectives. The mission planners (Developers in this example) failed to consider a solid delivery process to production (deployment of operators into combat). The Developers assumed Operations would do things a certain way without much testing prior to deployment. The Operations team (special operations forces) demonstrated that the assumptions made by the Developers (mission planners) were not rooted in reality.
 
-{{< eo >}}
+{{< eo_text >}}
 
 One helicopter had a hydraulic issue, another got lost in a dust storm, and a third had a cracked rotor and was subsequently scuttled. This is like three of eight services failing to launch in production. The mission (deployment) was aborted per the parameters agreed upon prior to deployment; that is when the real catastrophe occurred. As one of the operators guided a helicopter off the ground to return to base he shielded himself from the dust storm under the wing of a C-130 that was refueling the helicopters at a makeshift base in the Iranian desert. The helicopter pilot was in a very low visibility situation. He honed in on the only thing he could make out through the rotor created dust storm; the operator guiding him. The helicopter pilot could not assess that the operator had moved under the wing of the C-130. With no warning the helicopter's rotors struck the C-130 and crashed into the cockpit of the C-130 that had just refueled the helicopter.
 

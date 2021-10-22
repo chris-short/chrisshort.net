@@ -36,7 +36,7 @@ I sat up front on the way to Seattle. What it costs me monetarily more than paid
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Arrived! <a href="https://twitter.com/hashtag/KubeCon?src=hash&amp;ref_src=twsrc%5Etfw">#KubeCon</a> <a href="https://t.co/7swGZmtLPn">pic.twitter.com/7swGZmtLPn</a></p>&mdash; Chuck Svoboda (@Chuckernetes) <a href="https://twitter.com/Chuckernetes/status/1071947239596019712?ref_src=twsrc%5Etfw">December 10, 2018</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-{{< eo >}}
+{{< eo_text >}}
 
 ## KubeKhan
 

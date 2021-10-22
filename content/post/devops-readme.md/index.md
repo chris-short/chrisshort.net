@@ -218,4 +218,4 @@ This is available as a standalone website at <devopsreadme.xyz>
 
 "You are either building a learning organization or you will be losing to someone who is." --Andrew Clay Shafer
 
-{{< eo >}}
+{{< eo_text >}}
