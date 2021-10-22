@@ -19,7 +19,7 @@ It's the most wonderful time of year! When everyone gets together with family or
 
 Luckily, despite having not worked on anything other than Mac and Linux the past seven years, I don't get too many wild questions from family. I'll sit down with Grandma and help her with an iPhone issue from time to time. My mother-in-law has some legacy e-mail stuff all filtered in her Gmail. Sometimes AT&T changes something and it breaks. These things happen. Complex systems are hard enough. No sense in me being an asshole about it (although I will get frustrated from time to time).
 
-{{< eo >}}
+{{< eo_text >}}
 
 I'm also lucky that most of my family follows my lead on technology. This means my wonderful wife can answer a lot of the questions too. It took some hard lessons to get to this point. They understand that and are happy to learn from our household's experiences (and my profession of twenty some years helps too).
 

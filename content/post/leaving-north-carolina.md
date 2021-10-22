@@ -13,7 +13,7 @@ tags = ["job", "work", "life", "balance", "north carolina", "Michigan"]
 
 I have accepted the position as Manager, Infrastructure & Operations at [Bankrate](http://www.bankrate.com/) in Detroit. Julie, Max, Sunny, and I will begin moving to Michigan in mid-June! I will be leading [DevOps](https://devopsish.com/) efforts as the Bankrate team transitions software stacks and moves from on-premise data centers to the cloud. I am beyond excited about the position and the work I will be doing.
 
-{{< eo >}}
+{{< eo_text >}}
 
 Making the decision to leave North Carolina did not come easily. Julie and I have TONS of our history here in NC. We met here, first kiss here, engaged near where I was born here in NC, Max's first home was here. Max's name is on the studs in his room under the drywall! We built this house here for us to live in for a long, long time. Some things don't work out how you expect them to. This opportunity is definitely one of those cases.
 

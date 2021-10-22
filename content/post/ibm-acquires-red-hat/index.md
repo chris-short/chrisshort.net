@@ -17,7 +17,7 @@ Since Sunday afternoon, I've been in a whirlwind of meetings, discussions, and c
 
 I would like to point out that I have updated [my **disclaimer** and this site's terms](/terms/). My views do not reflect those of my employer or entities I'm affiliated with. Names are withheld for obvious reasons.
 
-{{< eo >}}
+{{< eo_text >}}
 
 ## "At least it wasn't Oracle"
 

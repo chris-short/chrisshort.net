@@ -16,4 +16,4 @@ Tim Tebow was observed working out on a USC baseball field recently. Tebow's thr
 
 {{< youtube gZ2qy-UP8Lc >}}
 
-{{< eo >}}
+{{< eo_text >}}

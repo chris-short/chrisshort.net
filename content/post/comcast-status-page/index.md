@@ -60,4 +60,4 @@ Comcast finally had to admit there was a more significant problem in the area. T
 
 A few days later, I looked at the status page and noticed more green than average. I joked about the number of nines I had (one, then two, then three). I think we had one more outage after Comcast took the blame. Since then, it has been pretty steady (minus during heavy summer storms and subsequent power outages). The moral of the story is, speak softly and carry a status page when dealing with Comcast connectivity issues. Bring your hard evidence to the table, and Comcast will bend over backward.
 
-{{< eo >}}
+{{< eo_text >}}

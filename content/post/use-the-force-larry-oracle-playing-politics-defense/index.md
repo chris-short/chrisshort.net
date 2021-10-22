@@ -15,7 +15,7 @@ image = "/use-the-force-larry-oracle-playing-politics-with-nations-defense/jedi-
 
 Let's talk about JEDI. Not the lightsaber wielding type; it's US Department of Defense's [Joint Enterprise Defense Infrastructure (JEDI)](https://devopsish.com/tags/jedi/). JEDI is a $10 billion, single-award, indefinite delivery, indefinite quantity contract for the largest department in the United States' government's cloud business. The process started in late 2017 and has had all sorts of twists and turns. The competition for the contract had come down to two suitable companies: [Amazon Web Services (AWS) and Microsoft Azure](https://www.onmsft.com/news/microsoft-and-amazon-now-the-last-two-companies-in-the-race-for-pentagons-jedi-contract). But, Oracle has been pitching a Larry Ellison sized fit over the process. Specifically, [Oracle has protested JEDI's selection process](https://www.washingtonpost.com/business/2018/11/14/gao-strikes-down-oracles-bid-protest-clearing-way-pentagons-billion-cloud-effort/) since last November.
 
-{{< eo >}}
+{{< eo_text >}}
 
 ## Interoperability Clearinghouse: Is this a joke?
 

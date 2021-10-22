@@ -52,6 +52,6 @@ Please see the [Google Photos album for videos and photos](https://photos.app.go
   <object data="https://lh3.googleusercontent.com/3yH3YbOrDEhavKd5pcxPRlPDfGeQFDA0UzmTIsfDDZxJ5M4neCo168DuoSQnLYSq6NWnL3Qmy88Qr06IdGZF5wHaSGyfRxGv8XBh2G3FFEmEaPIn0KBJwwpabTTNkXY1DOyNZhGHOVM=w1920-h1080"></object>
 </div>
 
-{{< eo >}}
+{{< eo_text >}}
 
 {{< carbon >}}

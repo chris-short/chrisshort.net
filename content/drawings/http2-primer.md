@@ -31,10 +31,10 @@ The first thing to keep in mind is the primary reason for HTTP/2 even being a pr
 
 * HTTP/2 is a **binary** protocol unlike HTTP which is plaintext. In my opinion, this is good and bad but I am okay with HTTP/2 being binary. It is good in the sense that it will potentially reduce errors and ease machine parsing (not having to deal with special characters, white space, etc.). However, with it not being plaintext that means you won't be able to easily manipulate an HTTP/2 server with a tool like telnet. Fear not, [Wireshark has some support for HTTP/2](https://wiki.wireshark.org/HTTP2) and it is improving and [curl supports HTTP/2](https://curl.haxx.se/docs/http2.html).
 
-
-
 * HTTP/2 is built for performance. Some thought was put into forcing the protocol to require encryption. Ultimately, it is not an explicit requirement of HTTP/2. But, several implementations do require TLS for HTTP/2. One good thing the working group did decide was that the **lowest TLS version supported by HTTP/2 is TLS 1.2**. There is also a ciphersuite blacklist as part of the protocol. While this is not going far enough to some this is a great improvement! No more SSL v3 configs lingering around and no more TLS implementations with poor ciphersuites.
 
 * There is one thing that is not changing in HTTP/2 and that is **status codes**. 200 is still OK, 404 is still not found, and 451 is still Unavailable For Legal Reasons. There will be no need to memorize new codes (and I will still ask you to define at least three codes during an interview).
 
 There are a lot of great things happening in HTTP/2 and I would encourage to consider implementing where you can as soon as you can. Find your favorite [code's implementation or web server](https://github.com/httpwg/http2-spec/wiki/Implementations) and get rolling with HTTP/2.
+
+{{ eo_text }}

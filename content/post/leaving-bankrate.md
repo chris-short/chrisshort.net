@@ -38,4 +38,4 @@ Manager, DevOps | Bankrate.com
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">My boss suggested I maximize time with family and offered to turn my last day from December 1 to tomorrow (Nov 17). Slightly suspicious but I&#39;m not going to complain. Tomorrow is my last day at <a href="https://twitter.com/Bankrate?ref_src=twsrc%5Etfw">@Bankrate</a>.</p>&mdash; Chris Short (@ChrisShort) <a href="https://twitter.com/ChrisShort/status/931169601148407809?ref_src=twsrc%5Etfw">November 16, 2017</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-{{< eo >}}
+{{< eo_text >}}

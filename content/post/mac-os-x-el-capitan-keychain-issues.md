@@ -13,7 +13,7 @@ title = "Mac OS X El Capitan: Keychain Issues"
 
 I started having some Apple Keychain issues after upgrading to Mac OS X El Capitan. At random, I would be asked to sign back into accounts that I am logged into through Internet Accounts in System Preferences.
 
-{{< eo >}}
+{{< eo_text >}}
 
 I thought it a minor issue but it became unavoidable though once El Capitan told me it couldn't find my login Apple Keychain after logging in:
 

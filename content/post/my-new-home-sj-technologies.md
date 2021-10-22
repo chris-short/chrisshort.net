@@ -15,7 +15,7 @@ image = "/img/posts/sj-technologies.jpg"
 
 I am very happy to announce that I have a new job. I am now a **Senior DevOps Advocate** with the esteemed [SJ Technologies, Inc.](http://sjtechcorp.com/) The great job search of 2017 actually ended in 2017. The good folks at SJ Technologies put together my offer letter in the last week of 2017. This allowed me to take a deep breath over the New Year's weekend and decompress. I am truly thankful to everyone for getting the offer together in what was likely your down time. It means a lot to me and my family.
 
-{{< eo >}}
+{{< eo_text >}}
 
 You might ask, "Why SJ Technologies, Chris?" I'm glad you asked! As I mentioned in my 2017 recap, my job hunting was done through established or even loosely established connections. As an organizer for DevOpsDays Raleigh, I had the opportunity to meet [John Willis](https://www.linkedin.com/in/johnwillisatlanta/) who had recently started at SJ Technologies. John had nice things to say about SJ Technologies and the work he was doing. After my [Dark Side of DevOps](/the-dark-side-of-devops/) talk, John flagged me down to let me know how much he appreciated it. I to quote the text to my wife, Julie, after John's feedback:
 

@@ -19,7 +19,7 @@ The last week of November 2018, I made a trip to the Red Hat office in Westford,
 
 The one thing I wanted most from this class was a skills assessment. The longer someone uses a tool the less they tend to pick up new features of that tool. People develop habits; it's natural. I wanted to know how many of my habits were legacy. I know assumptions are enemies of effective engineers; how accurate are my assumptions. I also wanted to show a working knowledge of the product I'm working with daily. Getting certified shows that while I was off learning Kubernetes, I was still keeping up with Ansible.
 
-{{< eo >}}
+{{< eo_text >}}
 
 ## Marketing Connection?
 
