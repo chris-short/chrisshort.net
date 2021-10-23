@@ -15,7 +15,7 @@ image = "/announcing-detroit-go-meetup/gopher_detroit_twitter_400x400.png"
 
 While I was at [GopherCon 2017](/gophercon-2017-lightning-talk-video/), it became clear to me that there was no Go Meetup group in the Detroit Metro area. When I returned from Denver, after obtaining sponsorship from Bankrate, Detroit Go Meetup came to life.
 
-{{< eo_text >}}
+{{< eo_signup >}}
 
 Immediately after launching, [Steve Marsh](https://github.com/Swampy821) reached out to me about helping co-organize the meetup. Within a day, Detroit Go Meetup had another organizer and corporate sponsor in [StockX](https://stockx.com/). Within the first forty-eight hours, our first meeting and speaker announcement came out. Within days, the talented [Marcus Olsson](https://marcus.se.net/) finalized an official [Detroit Go Meetup](https://detroitgolang.com/) logo.
 

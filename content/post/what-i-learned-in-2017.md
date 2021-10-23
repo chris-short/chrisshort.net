@@ -14,7 +14,7 @@ image = "/img/posts/2017.jpg"
 
 A former co-worker and now friend used to have a tagline, "Everyday is a school day." I remind myself of this fact nearly every time I learn something new. 2017 was arduous and mentally challenging. But, I did pull out some golden nuggets while reflecting back these past few weeks. I'd like to share some things I picked up on on this most recent journey around the sun we call 2017.
 
-{{< eo_text >}}
+{{< eo_signup >}}
 
 ### Kubernetes Will Find Its Way in 2018
 

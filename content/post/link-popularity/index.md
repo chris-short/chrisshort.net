@@ -23,7 +23,7 @@ Link popularity is a key to improving search engine rankings of any web site. On
 
 There are numerous ways of obtaining relevant, non-spam inbound links to a web site. The most effective method of obtaining relevant links will be to ask other webmasters whose web sites share the same niche or genre as the web site being optimized. This method is sometimes painful, slow and can result in a relatively low number of links to your site. Not to mention finding similar web sites that will link to one you're maintaining can be difficult at times. But, help is here.
 
-{{< eo_text >}}
+{{< eo_signup >}}
 
 ### Search Engines
 

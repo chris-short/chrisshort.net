@@ -13,7 +13,7 @@ aliases = [
 
 {{< speaker >}}
 
-{{< eo_text >}}
+{{< eo_signup >}}
 
 ## KubeCon + CloudNativeCon EU 2021: How You Can Tell Your Kubernetes Contributor Story with These Tips - Matt Broberg & Chris Short, Red Hat; Kaslin Fields, Google; Peeyush Gupta, DigitalOcean
 
