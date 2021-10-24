@@ -23,4 +23,4 @@ Hats off to the organizers for getting these videos up so quickly. It feels like
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">An excellent talk on <a href="https://twitter.com/hashtag/DevOps?src=hash&amp;ref_src=twsrc%5Etfw">#DevOps</a> by our very own <a href="https://twitter.com/ChrisShort?ref_src=twsrc%5Etfw">@ChrisShort</a> <a href="https://t.co/EHiPXmgygs">https://t.co/EHiPXmgygs</a></p>&mdash; Bankrate (@Bankrate) <a href="https://twitter.com/Bankrate/status/890993539257180161?ref_src=twsrc%5Etfw">July 28, 2017</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-{{< eo_text >}}
+{{< eo_signup >}}

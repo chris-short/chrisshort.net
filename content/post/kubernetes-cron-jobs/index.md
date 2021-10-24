@@ -160,4 +160,4 @@ devopsish-netlify-cronjob   1 2-14 * * 0-1,5-6   False     0         8h         
 
 Now go celebrate your high-availability, damn near guaranteed to run every time Kubernetes Cron Job! Congratulations!
 
-{{< eo_text >}}
+{{< eo_signup >}}

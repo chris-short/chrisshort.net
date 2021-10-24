@@ -24,4 +24,4 @@ DNS is awesome because it allows you to have a full blown CDN for next to nothin
 
 If you are interested in monitoring your DNS records I would highly recommend [dnsspy.io](https://dnsspy.io/).
 
-{{< eo_text >}}
+{{< eo_signup >}}

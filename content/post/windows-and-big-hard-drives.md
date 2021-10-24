@@ -20,7 +20,7 @@ image = "/img/posts/Windows_XP_Logo.png"
 
 After having issues with a Western Digital 200 GB hard drive and Windows XP I thought it would be beneficial to put my notes into some sort of guide for other people that might have a problem with Windows and drives that are bigger than 137 GB (128 GB binary).
 
-{{< eo_text >}}
+{{< eo_signup >}}
 
 Windows XP Service Pack 1 eliminates the 137 GB (128 GB binary) barrier (Windows XP SP1 includes 48-bit LBA support for ATAPI disk drives). The Microsoft Knowledge Base Article: [How to Enable 48-bit Logical Block Addressing Support for ATAPI Disk Drives in Windows XP](https://support.microsoft.com/en-us/kb/303013) is something everyone should read if they are having the problem of a large hard drive not being completely recognized. This Knowledge Base Article could help you solve your problem quickly but if it doesn't then continue reading. Do bare in mind that you MUST have Windows XP SP1 to use a hard disk that has a capacity that is greater than 137 GB.
 

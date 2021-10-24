@@ -9,7 +9,7 @@ title = "Interviews"
 
 {{< speaker >}}
 
-{{< eo_text >}}
+{{< eo_signup >}}
 
 ## Roaring Elephant: CI/CD with Chris Short (2/2)
 

@@ -28,7 +28,7 @@ Gina Elise is supported by American Legion Post 360 in Lake Arrowhead, CA and ma
 
 Gina Elise has a member of the Greatest Generation in her family. Her grandfather took up arms during another tumultuous time in America's great history, World War II. Gina has sent her calendars to, "MANY APO addresses. Iraq, Afghanistan, United Arab Emirates, Australia, Denmark, Canada, the list goes on and on," supporting our nation's current generation which is trying to rid the world of terrorism. "I am working with a couple that sends 200 care packages a month to Iraq. When someone specifies on the order that they want it to go to a deployed soldier, that's how I get it out there. It's just a matter of people choosing that option. Lately, everyone has been buying a calendar for themselves! Of course, the proceeds go to the VA." But, Gina doesn't sit back, model, and go to the post office she visits injured vets too.
 
-{{< eo_text >}}
+{{< eo_signup >}}
 
 "I have made deliveries to the VA. I've had an incredible response from soldiers and the vets in the hospitals love the calendar. It's SO special delivering the donated calendars to them." Gina told me during our interview, "Over the last month, I have been corresponding with a Marine Captain from San Diego who invited me to a medical holding platoon. My goal was to get fifty-five donated calendars for the 55 Wounded Warriors there. I JUST reached that goal so I am going to deliver those calendars."
 

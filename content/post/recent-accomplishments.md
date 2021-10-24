@@ -23,4 +23,4 @@ In other news, I recently received an e-mail from [Jason Hibbets](https://openso
 
 Last but not least, I have a new project! [DevOps'ish](https://devopsish.com/) launched as a Medium publication and newsletter in December. Every week I provide a categorized take on the news, tools, and events in the [**DevOps**](https://devopsish.com/) arena. After eight weeks, I can say it's nice to have an outlet to share my thoughts surrounding tech news again. [Please sign up for the DevOps'ish newsletter](/newsletter/). I would like for DevOps'ish to be big enough to support itself some day.
 
-{{< eo_text >}}
+{{< eo_signup >}}

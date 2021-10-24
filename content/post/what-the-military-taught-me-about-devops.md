@@ -21,4 +21,4 @@ I was invited to speak at [DevOpsDays Detroit 2016](https://www.devopsdays.org/e
 
 Photo: [Bridget Kromhout](http://bridgetkromhout.com/)
 
-{{< eo_text >}}
+{{< eo_signup >}}
