@@ -45,4 +45,4 @@ Or...
 
 ![PHP Memory Relationships](/drawings/php-memory-relationships.png)
 
-{{< eo_text >}}
+{{< eo_signup >}}

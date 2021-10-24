@@ -29,4 +29,4 @@ But, even the Washington Post believes subtweets are terrible, [*Study confirms 
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">I love this community. I think in two of my past three trips to Raleigh I&#39;ve managed to leave something expensive behind and someone has always been there to find the thing and send it to me. Thank y&#39;all! I&#39;ll try and keep up with my shit better.</p>&mdash; Chris Short (@ChrisShort) <a href="https://twitter.com/ChrisShort/status/1101491470819823618?ref_src=twsrc%5Etfw">March 1, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-{{< eo_text >}}
+{{< eo_signup >}}

@@ -42,7 +42,7 @@ This one is so useful to me I built a tribute site to it. [Padbury Clock](https:
 
 Note: As this is older software that hasn't been updated in *years*, I'm not sure if it's still functional on modern versions of macOS.
 
-{{< eo_text >}}
+{{< eo_signup >}}
 
 ## Aerial
 

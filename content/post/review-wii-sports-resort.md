@@ -15,7 +15,7 @@ I have to say that I was not too enthusiastic about [Wii Sports Resort](https://
 
 *Note: ChrisShort.net may earn compensation for sales from links on this post through [affiliate programs](/terms#affiliate-link-policy).*
 
-{{< eo_text >}}
+{{< eo_signup >}}
 
 All sports activities take place on an island which is explorable by plane (which I do enjoy).  The added gyroscopes and spatial awareness added by the Wii MotionPlus accessory is pretty awesome.
 

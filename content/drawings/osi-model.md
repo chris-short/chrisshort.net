@@ -22,4 +22,4 @@ It is an incredibly handy tool for troubleshooting as it reminds you to check th
 
 ![The OSI Model by Chris Short](/drawings/OSI-Model.png)
 
-{{< eo_text >}}
+{{< eo_signup >}}

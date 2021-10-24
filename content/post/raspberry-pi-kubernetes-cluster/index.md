@@ -18,7 +18,7 @@ image = "/raspberry-pi-kubernetes-cluster/building-raspberry-pi-kubernetes-clust
 
 For many months, I have wanted a **Kubernetes** cluster of my very own. One that I can tinker with, break, rebuild, and deploy services to. In the fall of 2017, I decided to stand up a three node cluster in Google Kubernetes Engine (GKE). It was nice and shiny and Googly but it wasn't cheap. Totaling almost $40/month to run I was envious of my friends who have virtually unlimited access to cloud compute.
 
-{{< eo_text >}}
+{{< eo_signup >}}
 
 Once I [left Bankrate](/leaving-bankrate/), the GKE cluster was shuttered and a lower cost option was needed. I ran minikube for a while. I got annoyed when a laptop went to sleep and ruined minikube. I tried to run a single node cluster on an old 2010 MacBook Pro. But, it wasn't up to the task without [VT-x](https://en.wikipedia.org/wiki/X86_virtualization#Intel_virtualization_(VT-x)). I abandoned the idea for later on once I realized the four old Raspberry Pis I had weren't going to be able to handle but a handful of containers.
 

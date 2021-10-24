@@ -123,5 +123,5 @@ If this isn't what you were looking for please click your back button or go to [
 <div style="font-size:45%">This line is 45 percent.</div>
 <div style="font-size:.45em">This line is .45 em.</div>
 
-{{< eo_text >}}
+{{< eo_signup >}}
 

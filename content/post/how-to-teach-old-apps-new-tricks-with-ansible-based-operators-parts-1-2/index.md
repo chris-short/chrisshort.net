@@ -43,4 +43,4 @@ If you want to actually see the monstrosity I built...
 
 <https://github.com/chris-short/motd-operator>: Ansible-based Kubernetes Operator Using ansible_role_motd from Ansible Galaxy as an example from managing state in a Kubernetes cluster
 
-{{< eo_text >}}
+{{< eo_signup >}}
