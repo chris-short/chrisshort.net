@@ -47,9 +47,14 @@ Chris is now working in the [open source](https://chrisshort.net/tags/open-sourc
 * [Books](/books/)
 * [Publications](/publications/)
 
-### PGP Public Key
+## PGP Public Key
 
-BFD23BF8 (expired)
-Please [Signal](https://support.signal.org/hc/en-us/articles/360007060592-Invite-friends-to-join-Signal), [Telegram](https://telegram.me/ChrisShort), or [Keybase](https://keybase.io/chrisshort)
+[98C3B412F8866E56](https://keys.openpgp.org/search?q=98C3B412F8866E56)
+
+I'm also available via these other channels:
+
+* [Signal](https://support.signal.org/hc/en-us/articles/360007060592-Invite-friends-to-join-Signal)
+* [Telegram](https://telegram.me/ChrisShort)
+* [Keybase](https://keybase.io/chrisshort)
 
 {{< eo_signup >}}
