@@ -23,7 +23,9 @@ Results producing DevOps profession turned Technical Marketer and community advo
 
 ## Professional Experience
 
-### Principal Technical Marketing Manager, Red Hat — Detroit, MI — Aug 2019 to Present
+### Senior Developer Advocate, Amazon Elastic Kubernetes Service — Detroit, MI — Oct 2021 to Present
+
+### Principal Technical Marketing Manager, Red Hat — Detroit, MI — Aug 2019 to Oct 2021
 
 * OpenShift.TV Executive Producer: in charge of finding content, talent, showrunning, marketing, growth, and facilitating technical components of live productions
 * Training others in how to make use of the infrastructure in place for OpenShift.TV to grow the channel's bench of hosts and producers across the globe
