@@ -1,7 +1,7 @@
 +++
 author = "Chris Short"
 categories = ["2021", "AWS", "Life"]
-date = 2021-10-26T07:00:00Z
+date = 2021-10-25T07:00:00Z
 description = "Chris Short is happy to announce that he is joining the Amazon Elastic Kubernetes Service (Amazon EKS) team as a developer advocate"
 draft = false
 slug = "joining-amazon-eks"
@@ -18,7 +18,7 @@ I've always liked the color orange. Baptized as a child in chants of Orange and 
 
 I'm happy to announce I'm joining the Amazon Elastic Kubernetes Service team as a Developer Advocate.
 
-## Developer Advocate
+## Senior Developer Advocate
 
 Developer Advocacy is right in line with [a statement I've had on my resume](/resume/) since I've had a resume: "Technology exists to improve human existence." I've thought this since before I started in tech. I used this mantra when helping folks at my first IT job in the summer of 1995 when I was fifteen years old (it was called MIS back then). In a very forward-leaning environment, all summer long, my team kept throwing problem after problem at me, and I'd solve them to the best of my ability. If it was a [PEBKAC](https://www.computerhope.com/jargon/p/pebkac.htm), I made sure that, for example, the solution to their problem was a double click away on their Windows 3.11 desktop. A Windows shortcut to a batch script could solve a lot of issues back then in enterprises.
 
@@ -53,7 +53,7 @@ exposed a bug between S3 and Cloudflare too. This led to many conversations with
 
 ## I'm delighted
 
-I'm off to be what I've wanted to be since the day I realized Developers need help getting their solutions into production. I can be a Developer Advocate for the number one cloud provider on the planet's Kubernetes service (EKS).
+I'm off to be what I've wanted to be since the day I realized Developers need help getting their solutions into production. I can be a Senior Developer Advocate for the number one cloud provider on the planet's Kubernetes service (EKS).
 
 I've had Amazon in my sights for a while now. My first interview at Amazon was a total flop in 2012 (but I did get to see Seattle, so that was nice). Amazon has improved its pre-interview process to get candidates ready for their upcoming interviews. It was still pretty grueling. I hit a wall about ten to fifteen minutes into the last interviewer.
 
