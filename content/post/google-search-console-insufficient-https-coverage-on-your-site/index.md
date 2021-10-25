@@ -51,4 +51,4 @@ Then I saw this tiny, one-line error message. Something was wrong with my  [Perm
 
 What does this mean? Well, if you have implemented headers and happen to make a simple syntax error, it will impact Google’s interpretation of your website’s HTTPS configuration. The TLS encryption itself was NOT compromised or even made weaker by the poorly implemented Permissions Policy header. But, because it was an improper header, Google penalized the entire site by showing the HTTPS as somehow broken. Google can and should do better than this when it comes to the Google Search Console. It’s a vital tool for businesses across the planet. At the end of the day, “A page must be served over HTTPS to be eligible for Good page experience status.” It shouldn’t error on HTTPS when that wasn’t the actual issue, though.
 
-{{< eo >}}
+{{< eo_signup >}}

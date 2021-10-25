@@ -12,6 +12,8 @@ image = "/img/posts/constrution-of-an-optimized-web-page.jpg"
 caption = "Construction of an Optimized Web Page"
 +++
 
+{{< carbon >}}
+
 This article is designed to help individuals build web pages that are search engine optimized as well as human friendly. It will focus intently on the process used to develop web pages for this web site and how pages are optimized before being published on this web site.
 
 Any good web developer or webmaster will tell you that your site should be themed. This means your site should have the same look and feel across all of its pages. Colors, layout, navigation, positioning, and numerous other elements fall into creating a good theme for a web site. However, developing a site theme mainly deals with the content of the web site itself. A site's theme is essentially the topic of the site and that site's content should relate to the topic or theme. However, this article isn't about creating themes for a web site it's about building an optimized, user friendly web page to include in a site that's already themed.

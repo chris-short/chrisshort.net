@@ -19,7 +19,7 @@ I try to keep the content tech related around here but some times an event trigg
 
 If the event just was a tour of the museum and facilities it would had been well worth it. The museum tour was quite impressive. Vehicles from Mr. Childress, through Dale Earnhardt, and up to their current NASCAR drivers were there to see and touch. The RCR team members took us in the fabrication shop, the Earnhardt Childress Racing engine shop, and several other shops showing us the flow of operations there at RCR.
 
-{{< eo >}}
+{{< eo_signup >}}
 
 We were then led upstairs to a large open room where numerous tables and chairs were setup. We all sat down and waited a little bit. Then in comes a smorgasbord of [world renowned Lexington, NC barbecue](https://en.wikipedia.org/wiki/Lexington_Barbecue_Festival). We were fed quite well and treated with an unprecedented level of respect. An RCR staff member came around and handed out holographic Kevin Harvick hero cards. The hero card was a nice piece of memorabilia from the day. A door opens off to the side of the room and in walks Richard Childress himself.
 

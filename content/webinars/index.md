@@ -9,7 +9,7 @@ title = "Webinars"
 
 {{< speaker >}}
 
-{{< eo >}}
+{{< eo_signup >}}
 
 # The top 7 most useful Kubernetes APIs for comprehensive cloud native observability
 

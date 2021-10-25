@@ -16,7 +16,7 @@ caption = "Image from [rework.withgoogle.com](https://rework.withgoogle.com/prin
 
 I have mentioned this a few times in various [talks](https://chrisshort.net/speaking/), on social media, and in my [newsletter](https://devopsish.com/087/); the importance of **psychological safety** in creating effective teams is often overlooked. Google did an enormous amount of research to determine, "the secrets of effective teams at Google." Code-named [Project Aristotle](https://rework.withgoogle.com/print/guides/5721312655835136/), Google wanted to nail down, once and for all, what factors contributed to team effectiveness.
 
-{{< eo >}}
+{{< eo_signup >}}
 
 The number one contributor to team effectiveness at Google was surprising at the time; *psychological safety*. "Psychological safety refers to an individual's perception of the consequences of taking an interpersonal risk." This is a mind bending idea but, it has real impact on a team's ability to perform and innovate. Let's analyze an example in my own work life of creating this psychological safety.
 

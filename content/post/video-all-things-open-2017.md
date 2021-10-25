@@ -19,4 +19,4 @@ As previously mentioned, [I spoke at All Things Open](/all-things-open-2017-devo
 
 {{< youtube Ibnj-YZTypU >}}
 
-{{< eo >}}
+{{< eo_signup >}}

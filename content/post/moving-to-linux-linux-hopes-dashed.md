@@ -19,7 +19,7 @@ This will be the final article in the "[Moving to Linux](/moving-to-linux/)" ser
 
 The Moving to Linux plan had been going along as it should. My Western Digital 200 GB hard drive arrived and I was ready and waiting with a freshly burned copy of Red Hat 9. All the research I had previously done indicated that there shouldn't be any major issues because of all the key components in my computer being compatible with Linux.
 
-{{< eo >}}
+{{< eo_signup >}}
 
 The problems started to arise during the first attempt of my Red Hat Linux install. The install would either remain idle for hours or would actually let me know that something bad has happened and that I should restart the installation or correct the problem (of course Red Hat didn't tell me what the problem was). So after three attempts to install Red Hat Linux with all three attempts dying at the exact same place and the media already been verified as good I started to check for bad blocks on the new hard drive. Sure enough, there were bad blocks and I started an RMA process with MWave.com. I mention MWave.com specifically due to the overwhelmingly difficult time I had with them. I never did get a replacement hard drive from them but I did get my money back after a week and a half.
 

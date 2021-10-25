@@ -16,13 +16,13 @@ image = "/drawings/php-logo-large-white.png"
 
 +++
 
+{{< carbon >}}
+
 I recently had to templatize PHP configurations using Ansible and Jinja2. I had to do some research to ensure that the memory directives that were being defined were actually valid. The three directives I was tinkering with were:
 
 1. [memory_limit](http://docs.php.net/manual/en/ini.core.php#ini.memory-limit)
 2. [upload\_max\_filesize](http://php.net/manual/en/ini.core.php#ini.upload-max-filesize)
 3. [post\_max\_size](http://php.net/manual/en/ini.core.php#ini.post-max-size)
-
-
 
 These three directives values' are actually tied together. **memory\_limit** is the max amount of memory that a script can consume. **upload\_max\_filesize** defines the largest size a file upload can be. **post\_max\_size** limits the max size of post data.
 
@@ -44,3 +44,5 @@ memory\_limit > post\_max\_size > upload\_max\_filesize
 Or...
 
 ![PHP Memory Relationships](/drawings/php-memory-relationships.png)
+
+{{< eo_signup >}}

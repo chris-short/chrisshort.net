@@ -16,7 +16,7 @@ image = "/img/posts/a-night-of-devops.jpg"
 
 On Tuesday, May 23, 2017, I did a DevOps talk at [Open Source South Carolina](https://www.meetup.com/Open-Source-South-Carolina/events/239747095/). The talk was a DevOps 101-styled deep dive into DevOps. Since the number one question I get when talking about DevOps, in general, is "where do I start?" I added my "[The Three Things](https://speakerdeck.com/chrisshort/a-night-of-devops?slide=21)" to the already well known "[Three Ways](http://itrevolution.com/the-three-ways-principles-underpinning-devops/)". This provided both the holistic view while guiding people needed an extra nudge down the DevOps path.
 
-{{< eo >}}
+{{< eo_signup >}}
 
 ## Slides
 

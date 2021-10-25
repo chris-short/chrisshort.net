@@ -16,7 +16,7 @@ aliases = [
 
 My daughter, Aubree, laid into me hard today about getting her ears pierced.  Aubree, her mother and I had a fairly long conversation about it this afternoon.  Which ended with me having to consider it; not think about it but, honestly consider it.
 
-{{< eo >}}
+{{< eo_signup >}}
 
 All decisions I make require some data.  I posed a question on Twitter and Facebook asking, "Ladies: How old were you when you got your ears pierced?"  I also sent a text message to ten personal friends asking the same question (the responses to which immediately crashed my phone).  After my phone got some rest I made a few phone calls to ensure a wide swath of demographics were covered.
 

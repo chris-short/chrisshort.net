@@ -12,9 +12,11 @@ image = "/img/posts/hugo-logo-wide.svg"
 
 +++
 
+{{< carbon >}}
+
 {{< tweet 1441773641276919822 >}}
 
-Git submodules are cumbersome to manage. In my opinion, git submodules are a sort of anti-pattern for [**Hugo**](https://gohugo.io/ (I know many themes suggest using git submodules). There's a better way to manage your Hugo site's theme: [Hugo Modules](https://gohugo.io/hugo-modules/).
+Git submodules are cumbersome to manage. In my opinion, git submodules are a sort of anti-pattern for [**Hugo**](https://gohugo.io/) (I know many themes suggest using git submodules). There's a better way to manage your Hugo site's theme: [Hugo Modules](https://gohugo.io/hugo-modules/).
 
 Suppose you have a Hugo site and use a theme that supports Hugo Modules. I think the theme would need to require a minimum of Hugo v0.55.0. But, more features are available in later versions. Regardless, your mileage may vary:
 
@@ -49,7 +51,7 @@ Note the lack of https:// in the path. Also, the single quotes are important.
 
 Next run these commands (I know these seem a little redundant but, I don't think there's harm in running them all):
 
-    hugo mod init github.com/<USERNAME>/<THEME>
+    hugo mod init github.com/<YOUR_USERNAME>/<YOUR_PROJECT>
     hugo mod get -u
     go mod tidy
 
@@ -68,3 +70,5 @@ References:
 <https://github.com/theNewDynamic/gohugo-theme-ananke#installation>  
 <https://gohugo.io/hugo-modules/configuration/>  
 <https://gohugo.io/hugo-modules/use-modules/>
+
+{{< eo_signup >}}
