@@ -8,7 +8,7 @@ tags = ["resume", "cv"]
 slug = "curriculum-vitae"
 title = "Curriculum Vitae"
 aliases = [
-    "/cv/"
+    "/cv/",
     "/resume/",
     "/resume-cv/",
     "/categories/resume"
