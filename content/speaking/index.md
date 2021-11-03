@@ -19,6 +19,7 @@ aliases = [
 
 Date: 2021-10-23  
 Source: [Panel Discussion: Marketing as Code: How to Rock Out with Non-Code Contributions](https://youtu.be/rbBmbN3dTHY)
+Download [MP4](https://cache.chrisshort.net/file/cache-chrisshort-net/Panel_Discussion-Marketing_as_Code-How_to_Rock_Out_with_Non-Code_Contributions.mp4)
 
 {{< youtube rbBmbN3dTHY >}}
 
