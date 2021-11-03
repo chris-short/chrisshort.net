@@ -15,6 +15,14 @@ aliases = [
 
 {{< eo_signup >}}
 
+## KubeCon + CloudNativeCon NA 2021 — Panel Discussion: Marketing as Code: How to Rock Out with Non-Code Contributions
+
+Date: 2021-10-23  
+Source: [Panel Discussion: Marketing as Code: How to Rock Out with Non-Code Contributions](https://youtu.be/rbBmbN3dTHY)
+Download [MP4](https://cache.chrisshort.net/file/cache-chrisshort-net/Panel_Discussion-Marketing_as_Code-How_to_Rock_Out_with_Non-Code_Contributions.mp4)
+
+{{< youtube rbBmbN3dTHY >}}
+
 ## KubeCon + CloudNativeCon EU 2021: How You Can Tell Your Kubernetes Contributor Story with These Tips - Matt Broberg & Chris Short, Red Hat; Kaslin Fields, Google; Peeyush Gupta, DigitalOcean
 
 Date: 2021-05-07  
