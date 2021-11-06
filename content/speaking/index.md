@@ -70,7 +70,7 @@ Event: [DevOpsDays Detroit 2019](https://devopsdays.org/events/2019-detroit/welc
 Date: 2019-10-01  
 [**Watch Now**](/videos/devops-not-war-raleigh/)
 
-> Over the past 500 years, there have been 16 cases of a rising power threatening to displace a ruling power. 75% of those cases resulted in war. Although your organizational transformation probably won't lead to war, it could be contentious. History can help prevent conflict when driving change. This talk will analyze human tendencies, historical data, and provide real-world examples of how to avoid conflict during your DevOps journey.
+> DevOps needs to focus on more than Dev and Ops to be truly transformative for an organization. What about your security folks? What about your network team? We’ll introduce the work of Thucydides and the concept of Thucydides’s Trap, a political scientist’s take on how rising and established powers are destined for conflict. Transformations can often be contentious and sometimes rebellious. History can actually help us avoid failure in our transformations. The more the merrier along this journey!
 
 Event: [DevOpsDays Raleigh 2019](https://devopsdays.org/events/2019-raleigh/welcome/)  
 
@@ -112,7 +112,7 @@ Video: [All Day DevOps 2018 - DevOps is Not a War](http://play.sonatype.com/watc
 ## Kubernetes Cron Jobs — DevOpsDays Columbus 2018
 
 Date: 2018-09-19  
-[**Watch Now**](/video/kubernetes-cron-jobs-devopsdays-columbus-2018/)
+[**Watch Now**](/videos/kubernetes-cron-jobs-devopsdays-columbus-2018/)
 
 > I worked for a large company with several hundred cron jobs running on two systems. Managing these jobs was cumbersome. Resource use during peak times brought things to a halt. Imagine what is was like when if systems were down! In this talk, we discuss Kubernetes' killer feature: Cron Jobs.
 
@@ -124,64 +124,69 @@ Date: 0219-09-12
 Event: [Grand Rapids RHUG Ansible, DevOps, and more!](https://www.meetup.com/Grand-Rapids-RHUG/events/253614873/)  
 Slides: [Using Ansible for DevOps](https://speakerdeck.com/chrisshort/using-ansible-for-devops)
 
-## Baltimore Go June Meeting - Go to the Rescue: Saving DevOps from TLS Turmoil
+## Go to the Rescue: Saving DevOps from TLS Turmoil — Baltimore Go June Meeting
 
 Date: 2018-06-05  
 Event: [Baltimore Go June Meeting](https://www.meetup.com/BaltimoreGolang/events/kxrjrpyxjbhb/)  
 Blog Post: [Baltimore Go June Meeting - Go to the Rescue: Saving DevOps from TLS Turmoil](/baltimore-go-june-meeting---go-to-the-rescue-saving-devops-from-tls-turmoil/)
 
-## DevNationFederal 2018: DevOps is Not War
+## DevOps is Not War — DevNationFederal 2018
 
 Date: 2018-06-05  
-Event: [DevNationFederal](https://devnationfederal.org/)  
-Blog Post: [DevNationFederal 2018: DevOps is Not War](/devnationfederal-2018-devops-is-not-war/)  
-Video: [DevNation Federal 2018 - DevOps is Not War](https://youtu.be/bnyDETdyNfw)
+[**Watch Now**](/videos/devops-not-war-devnation-federal-2018/)
 
-## DevOpsDays Toronto 2018: What the Military Taught Me About DevOps
+> Over the past 500 years, there have been 16 cases of a rising power threatening to displace a ruling power. 75% of those cases resulted in war. Although your organizational transformation probably won’t lead to war, it could be contentious. History can help prevent conflict when driving change. This talk will analyze human tendencies, historical data, and provide real-world examples of how to avoid conflict during your DevOps journey.
+
+Event: [DevNationFederal](https://devnationfederal.org/)  
+
+## What the Military Taught Me About DevOps — DevOpsDays Toronto 2018
 
 Date: 2018-05-30  
+[**Watch Now**](/videos/what-the-military-taught-me-about-devops-toronto/)
+
+> Before DevOps was coined an entire branch of the US military was living by its core fundamentals. Visualizing work, flow, diversity, failing fast are all things that I practiced in the Air Force from 1999 to 2010. I’d like to share my lessons learned serving during this time. This talk will broaden people’s view of how DevOps can be implemented, why diversity matters in DevOps, and how fortunate we all are to have the problems we have today.
+
 Event: [DevOpsDays Toronto 2018](https://www.devopsdays.org/events/2018-toronto/program/chris-short/)  
-Blog Post: [DevOpsDays Toronto 2018: What the Military Taught Me About DevOps](/devopsdays-toronto-2018-what-the-military-taught-me-about-devops/)  
-Video: [Chris Short - What the Military Taught Me about DevOps](https://youtu.be/TIE1rKkJWyY)
 
-{{< youtube TIE1rKkJWyY >}}
-
-## ChefConf 2018: DevOps is Not War
+## DevOps is Not War — ChefConf 2018
 
 Date: 2018-05-24  
-Event: [ChefConf](https://chefconf.chef.io/)  
-Blog Post: [ChefConf 2018: DevOps is Not War](/chefconf-2018-devops-is-not-war/)  
-YouTube: [ChefConf 2018 Session: DevOps is Not a War
-](https://youtu.be/MDu6wL1DWY4)
+[**Watch Now**](/videos/devops-not-war-chefconf-2018/)
 
-## Detroit Kubernetes, Docker & all related things - Kubernetes Cron Jobs: Highly-Available, Distributed Cron Jobs are Awesome
+> Over the past 500 years, there have been 16 cases of a rising power threatening to displace a ruling power. 75% of those cases resulted in war. Although your organizational transformation probably won’t lead to war, it could be contentious. History can help prevent conflict when driving change. This talk will analyze human tendencies, historical data, and provide real-world examples of how to avoid conflict during your DevOps journey.
+
+Event: [ChefConf](https://chefconf.chef.io/)  
+
+## Kubernetes Cron Jobs: Highly-Available, Distributed Cron Jobs are Awesome — Detroit Kubernetes, Docker & all related things
 
 Date: 2018-04-20  
 Event: [Detroit Kubernetes, Docker & all related things](https://www.meetup.com/Detroit-Kubernetes-Docker-all-things-Cloud-Native/events/249593802/)  
 Blog Post: [Detroit Kubernetes: Kubernetes Cron Job](/detroit-kubernetes--kubernetes-cron-jobs/)
+Slides: [Detroit Kubernetes: Kubernetes Cron Jobs](https://speakerdeck.com/chrisshort/detroit-kubernetes-kubernetes-cron-jobs)
 
-## AWS Michigan: Heaven is Not a Cloud
+## Heaven is Not a Cloud — AWS Michigan
 
 Date: 2018-04-19  
+[**Watch Now**](/videos/heaven-is-not-a-cloud/)
+
+> "Migrating to the cloud saves money!” “Not running your own infrastructure reduces your bottom line!” “Lift and shift is a legitimate first step towards moving to the cloud!” These are all potential pitfalls if you’re not careful. Proper planning prevents piss poor performance. Using a real chaotic cloud migration as a guide, we’ll walk through the pitfalls of cloud migrations and how to avoid vendor lock-in (when it makes sense).
+
 Event: [AWS Michigan](https://www.meetup.com/AWS-Michigan/events/248874167/)  
-Blog Post: [AWS Michigan: Heaven is Not a Cloud](/aws-michigan-heaven-is-not-a-cloud/)  
-YouTube: [AWS Michigan Meetup April 2018 - Heaven is Not a Cloud by Chris Short](https://youtu.be/_qx9d5JSRvw)
-Download: [MP4](https://archive.org/details/aws-michigan-meetup-april-2018-heaven-is-not-a-cloud-by-chris-short)
 
-{{< youtube _qx9d5JSRvw >}}
-
-## DevOpsDays Atlanta 2018: DevOps is Not War
+## DevOps is Not War — DevOpsDays Atlanta 2018
 
 Date: 2018-04-18  
 Event: [DevOpsDays Atlanta 2018](https://www.devopsdays.org/events/2018-atlanta/program/chris-short/)  
 Blog Post: [DevOpsDays Atlanta 2018: DevOps is Not War](/devopsdays-atlanta-2018-devops-is-not-war/)  
 
-## DevOpsDays Charlotte 2018 - Golang to the Rescue: Saving DevOps from TLS Turmoil
+## Golang to the Rescue: Saving DevOps from TLS Turmoil — DevOpsDays Charlotte 2018
 
 Date: 2018-02-22  
-Event: [DevOpsDays Charlotte 2018](https://devopsdayscharlotte2018.sched.com/event/DIiJ/golang-to-the-rescue-saving-devops-from-tls-turmoil)  
-Blog Post: [DevOpsDays Charlotte 2018 Ignite Talk on Golang](/devopsdays-charlotte-2018-ignite-talk-on-go/)  
-YouTube: [Golang to the rescue: Saving DevOps from TLS turmoil](https://youtu.be/-jg_SyoIIsA)
+[**Watch Now**](/videos/go-to-the-rescue-devopsdays-charlotte-2018/)
+
+> Find out about a use case that created a need for testing certificate chains, appropriate web server security settings, and the Go code used for testing.
+
+Event: [DevOpsDays Charlotte 2018](https://devopsdayscharlotte2018.sched.com/event/DIiJ/golang-to-the-rescue-saving-devops-from-tls-turmoil)
 
 ## Open Source 101 Raleigh - Avoiding the DevOps pit of misery: Tips from the trenches
 
@@ -190,73 +195,86 @@ Event: [Open Source 101 Raleigh](https://opensource101.com/)
 Blog Post: [Open Source 101 Raleigh 2018](/open-source-101-raleigh-2018/)  
 Video: [Avoiding the #DevOps pit of misery: Tips from the trenches with Jason Hibbets and Chris Short #opensource101](https://www.facebook.com/jhibbets/videos/10215153138403454/)
 
-## Orchestructure January 2018 Meetup - Go: Enabling DevOps To Go Faster
+## Go: Enabling DevOps To Go Faster — Orchestructure January 2018 Meetup
 
 Date: 2018-01-31  
-Event: [Orchestructure January 2018 Meetup](https://www.meetup.com/orchestructure/events/246812066/)  
-Blog Post: [Orchestructure January 2018 Meetup](/orchestructure-january-2018-meetup/)  
-YouTube: [Go: Enabling DevOps to Go Faster - Chris Short (January 2018)](https://youtu.be/fC_fmN5tXkQ)
+[**Watch Now**](/videos/go-enabling-devops-to-go-faster/)
 
-## DevOpsDays New York City 2018 - Golang to the Rescue: Saving DevOps from TLS Turmoil
+Event: [Orchestructure January 2018 Meetup](https://www.meetup.com/orchestructure/events/246812066/)
+
+## Golang to the Rescue: Saving DevOps from TLS Turmoil — DevOpsDays New York City 2018
 
 Date: 2018-01-19  
-Event: [DevOpsDays New York City 2018](https://www.devopsdays.org/events/2018-new-york-city/program/chris-short/)  
-Blog Post: [DevOpsDays NYC 2018 Ignite Talk on Golang](/devopsdays-nyc-2018-ignite-talk-on-golang/)  
-YouTube: [DevOpsDays NYC 2018 d2 07 IG Chris Short](https://youtu.be/EImcYoyYId0)
+[**Watch Now**](/videos/go-to-the-rescue-devopsdays-nyc-2018/)
 
-{{< youtube EImcYoyYId0 >}}
+> If you ever need to validate certificates or certificate chains before deploying them, Golang provides a near foolproof test method.
+>
+> A 3rd party developed a tool that was then handed off to our DevOps team to manage and maintain. Before I could do any re-engineering work, I had to resolve a critical issue—the certificates on the ELBs were about to expire and needed updating.
+>
+> I assumed that if the ELB, NGINX, or httpd started, it was a good sign. This was a false assumption on my part and I ended up serving a bad chain for a few minutes. This did not break the site, but it was definitely not the way I wanted things to remain.
+>
+> I needed a tool that would fail if the certificate chain provided was incorrect. I wanted a lightweight tool that could be publicly accessible. Conducting a third-party analysis of the certificates and configuration was a requirement. There were no tools that I could find meeting this need, so I decided to build my own. I turned to the open source language, Golang.
+>
+> A detailed breakdown of how I built a tiny web server to fit my needs along with what each package is doing as detailed in the article linked above.
+
+Event: [DevOpsDays New York City 2018](https://www.devopsdays.org/events/2018-new-york-city/program/chris-short/)  
 
 ## All Things Open 2017: DevOps README.md
 
 Date: October 24, 2017  
-Event: All Thing Open - Lightning Talks - Hosted by opensource.com  
-Blog Post: [All Things Open 2017: DevOps README.md](/all-things-open-2017-devops-readme.md/)  
-YouTube: [DevOps README.md - Chris Short](https://youtu.be/Ibnj-YZTypU)
+[**Watch Now**](/videos/devops_readme.md-ato-2017/)
 
-{{< youtube Ibnj-YZTypU >}}
+> A curated list of things to read to level up your DevOps skills and knowledge.
+
+Event: All Thing Open - Lightning Talks - Hosted by opensource.com  
 
 ## DevOpsDays Raleigh 2017 Ignite Karoke (Part 2)
 
-Date: September 8, 2017  
+Date: 2017-09-08  
+[**Watch Now**](/videos/devopsdays-raleigh-2017-ignite-karaoke-part-2/)
+
+> Ignite talks are a special talk format: 5 minute talks consisting of 20 slides which auto advance every 15 seconds. It's a really neat talk format.
+>
+> In Ignite Karaoke, the slides auto advance, but there are only 5 slides per talk, except you have no idea what your slides will look like! It leads to some pretty funny improv.
+
 Event: [DevOpsDays Raleigh 2017](https://dodral2017.busyconf.com/schedule#day_597f51db67de73d3e8000210)  
-YouTube: [DevOpsDays Raleigh 2017 Ignite Karoke (Part 2)](https://youtu.be/Pz2r2eDCR74)
 
-{{< youtube Pz2r2eDCR74 >}}
+## The Dark Side of DevOps — DevOpsDays Raleigh 2017
 
-## DevOpsDays Raleigh 2017: The Dark Side of DevOps
+Date: 2017-09-08
+[**Watch Now**](/videos/devops-dark-side-devopsdays-raleigh-2017/))
 
-Date: September 8, 2017  
 Event: [DevOpsDays Raleigh 2017](https://dodral2017.busyconf.com/schedule#day_597f51db67de73d3e8000210)  
-Blog Post: [DevOpsDays Raleigh 2017: The Dark Side of DevOps](/devopsdays-raleigh-2017-the-dark-side-of-devops/)  
-Video: [DevOpsDays Raleigh 2017](/video-devopsdays-raleigh-2017/)
 
-## DevOpsDays Detroit 2017: DevOps README.md
+## DevOps README.md — DevOpsDays Detroit 2017
 
-Date: September 27, 2017  
-Event: [DevOpsDays Detroit 2017](https://www.devopsdays.org/events/2017-detroit/program/continous-learning/)  
-Blog Post: [DevOps README.md](/devops-readme.md/)  
-YouTube: [DevOpsDays Detroit 2017](https://youtu.be/hJDp6CLvTAQ?t=16m47s)
+Date: 2017-09-27  
+[**Watch Now**](/videos/devops_readme.md-devopsdays-detroit-2017)
 
-## GopherCon 2017 - Golang to the rescue: Saving DevOps from TLS turmoil
+> A curated list of things to read to level up your DevOps skills and knowledge.
 
-Date: July 12, 2017  
+Event: [DevOpsDays Detroit 2017](https://www.devopsdays.org/events/2017-detroit/program/continous-learning/)
+
+## Golang to the rescue: Saving DevOps from TLS turmoil — GopherCon 2017
+
+Date: 2017-07-12  
 Event: [GopherCon 2017](https://gophercon.com)  
 Blog Post: [GopherCon 2017 Lightning Talk Video](/gophercon-2017-lightning-talk-video/)
 
 ## A Night of DevOps at Open Source South Carolina
 
-Date: May 23, 2017  
+Date: 2017-05-23  
 Event: [Open Source South Carolina](https://www.meetup.com/Open-Source-South-Carolina/events/239747095/)  
 Blog Post: [A Night of DevOps at Open Source South Carolina](/a-night-of-devops-at-open-source-south-carolina/)
 
-## Triangle DevOps: What The Military Taught Me About DevOps
+## What The Military Taught Me About DevOps — Triangle DevOps
 
-Date: November 30, 2016  
+Date: 2016-11-30  
 Event: [Triangle DevOps](https://www.meetup.com/Triangle-DevOps/events/235751024/)  
 Blog Post: [What The Military Taught Me About DevOps](/triangle-devops-what-the-military-taught-me-about-devops/)
 
-## DevOpsDays Detroit 2016: What The Military Taught Me About DevOps
+## What The Military Taught Me About DevOps — DevOpsDays Detroit 2016
 
-Date: October 12, 2016  
+Date: 2016-10-12  
 Event: [DevOpsDays Detroit 2016](https://www.devopsdays.org/events/2016-detroit/program/what-the-military-taught-me/)  
 Blog Post: [What The Military Taught Me About DevOps](/what-the-military-taught-me-about-devops/)

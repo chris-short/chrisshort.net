@@ -15,7 +15,7 @@ image = "/all-things-open-2017-devops-readme.md/chris-short-all-things-open-devo
 
 I had the opportunity to participate in [All Things Open](https://allthingsopen.org/) this week. It was quite an experience. 3300+ people who are all part of the open source software community all in one place is truly moving. Even better they let me take a mic on one of the main stages to give a modified version of my [DevOps README.md](/devops-readme.md/) talk. I can't thank the opensource.com crew enough for the opportunity.
 
-**This list is on [GitHub](https://github.com/chris-short/DevOps-README.md), pull requests are welcome.**
+**This list is on [GitHub](https://github.com/chris-short/devopsreadme.xyz), pull requests are welcome.**
 
 This is also available at [devopsreadme.xyz](https://devopsreadme.xyz/)
 
@@ -29,6 +29,6 @@ If you're unable to view this embed, please [All Things Open 2017 — DevOps RE
 
 ## Video
 
-{{< youtube Ibnj-YZTypU >}}
+[**Watch Now**](/videos/devops_readme.md-ato-2017/)
 
 {{< eo_signup >}}
