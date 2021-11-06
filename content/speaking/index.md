@@ -15,86 +15,77 @@ aliases = [
 
 {{< eo_signup >}}
 
-## KubeCon + CloudNativeCon NA 2021 — Panel Discussion: Marketing as Code: How to Rock Out with Non-Code Contributions
+## Panel Discussion: Marketing as Code: How to Rock Out with Non-Code Contributions — KubeCon + CloudNativeCon NA 2021
 
 Date: 2021-10-23  
-Source: [Panel Discussion: Marketing as Code: How to Rock Out with Non-Code Contributions](https://youtu.be/rbBmbN3dTHY)
-Download [MP4](https://cache.chrisshort.net/file/cache-chrisshort-net/Panel_Discussion-Marketing_as_Code-How_to_Rock_Out_with_Non-Code_Contributions.mp4)
+[**Watch Now**](/videos/kcna-2021-panel/)
 
-{{< youtube rbBmbN3dTHY >}}
+> For new folks in the CNCF space, becoming a contributor may sound daunting, and even overwhelming. But guess what? There are tons of ways to contribute apart from code. 5 members of the Contibex Marketing working group (Kunal, Bart, Chris, Kaslin, and Matt) are all participating and contributing through positive attitudes, documentation, networking, videos, drawings, and even raps. They want to share the welcoming spirit of the CNCF where no contribution is too small, and everyone will have something to share. Contributors' stories must be heard, and that's where the upstream marketing team comes in. (This proposal is for the Students' track)
 
-## KubeCon + CloudNativeCon EU 2021: How You Can Tell Your Kubernetes Contributor Story with These Tips - Matt Broberg & Chris Short, Red Hat; Kaslin Fields, Google; Peeyush Gupta, DigitalOcean
+## How You Can Tell Your Kubernetes Contributor Story with These Tips - Matt Broberg & Chris Short, Red Hat; Kaslin Fields, Google; Peeyush Gupta, DigitalOcean — KubeCon + CloudNativeCon EU 2021
 
 Date: 2021-05-07  
-Source: [How You Can Tell Your Kubernetes Contributor Story with These Tips - Matt Broberg, Chris Short, Kaslin Fields, Peeyush Gupta](https://youtu.be/Y9Umfsig6WQ)  
-Download: [MP4](https://cache.chrisshort.net/file/cache-chrisshort-net/How_You_Can_Tell_Your_Kubernetes_Contributor_Story_with_These_Tips.mp4)
+[**Watch Now**](/videos/kceu-2021-panel/)
 
->The Upstream Marketing Working Group began as a vision to connect contributors. It has grown into a set of practices, channels, and bots that unite us all across the Kubernetes community. In this talk, contributors will walk through their experience of learning to tell their own contributor story. In doing so, we will walk through how anyone can write a great story, including key takeaways around narrative, call to action (CTA), structure, and available channels. Along the way, we'll highlight tips to publish a blog, including collaboration with the Blog team, asking for reviewers from Upstream Marketing, and a brief look at relevant SEO practices. Attendees will leave with a formula by which they can share their story of contributing to Kubernetes and encourage others to share their unique and personal experience. Our goal is to inspire the next generation of open source contributors through a broad range of perspectives on what it means to contribute.
+> The Upstream Marketing Working Group began as a vision to connect contributors. It has grown into a set of practices, channels, and bots that unite us all across the Kubernetes community. In this talk, contributors will walk through their experience of learning to tell their own contributor story. In doing so, we will walk through how anyone can write a great story, including key takeaways around narrative, call to action (CTA), structure, and available channels. Along the way, we'll highlight tips to publish a blog, including collaboration with the Blog team, asking for reviewers from Upstream Marketing, and a brief look at relevant SEO practices. Attendees will leave with a formula by which they can share their story of contributing to Kubernetes and encourage others to share their unique and personal experience. Our goal is to inspire the next generation of open source contributors through a broad range of perspectives on what it means to contribute.
 
-{{< youtube Y9Umfsig6WQ >}}
-
-## CNCF Eastern Canadian Meetup: October 2020
+## Security at Cloud Native Speed — CNCF Eastern Canadian Meetup: October 2020
 
 Date: 2020-10-23  
-Source: [CNCF Eastern Canadian Meetup: October 2020](https://youtu.be/l_EEZV1P15U?t=1233)  
+[**Watch Now**](/videos/security-cloud-native-speed-cncf-eastern-canada-meetup-oct-2020)
 
-{{< youtube l_EEZV1P15U >}}
+> Cloud native technologies are increasingly used by organizations to gain a competitive advantage. Containers jumpstart developer productivity, but they could increase security teams' workloads. This talk analyzed tendencies and provides tips improving security postures in environments. Security needs to be a step in every part of the software development lifecycle. But, the tools, libraries, platforms, and attack surface never seems to shrink. When teams adopt Kubernetes and cloud native tooling, applications become ephemeral and infrastructure becomes elastic. Baking security tooling into the pipeline is critical. Mandating rigid boundaries around decoupled components is key. Embracing speed and collaboration are crucial to security teams in today's cloud native landscape. The more the merrier along this journey!
 
-## Red Hat® Summit Virtual Experience: Open House - Building Kubernetes Operators with Ansible
+## Building Kubernetes Operators with Ansible — Red Hat® Summit Virtual Experience: Open House
 
 Date: 2020-07-15  
-Source: [Summit Lab - Building Kubernetes Operators with Ansible](https://youtu.be/6scP0L1oCP4?t=302)
+[**Watch Now**](/videos/building-kubernetes-operators-with-ansible/)
 
 > The Ansible Operator SDK makes it easier to deploy and manage Kubernetes applications with native Ansible support. This workshop will take you into the operator-sdk and teach you how to build and manage Ansible Operators for Kubernetes.
 
-{{< youtube 6scP0L1oCP4 >}}
-
-## JFrog SwampUP 2020 - Lesson Learned From Cloud Migrations: Planning is Everything
+## Lesson Learned From Cloud Migrations: Planning is Everything — JFrog SwampUP 2020
 
 Date: 2020-06-24  
-Source: [Lesson Learned From Cloud Migrations: Planning is Everything](https://jfrog.com/user-conference/lesson-learned-from-cloud-migrations-planning-is-everything/)  
-YouTube: [Lesson Learned From Cloud Migrations: Planning is Everything - Chris Short](https://youtu.be/BQMu5m-oZe0)
-Download: [MP4](https://cache.chrisshort.net/file/cache-chrisshort-net/Lesson-Learned-From-Cloud-Migrations-Planning-is-Everything-Chris-Short.mp4)
-
->“Migrating to the cloud saves money!” “Not running your own infrastructure reduces your bottom line!” “Lift and shift is a legitimate first step towards moving to the cloud!” These are all potential pitfalls if you’re not careful. Proper planning prevents piss poor performance. Using a real chaotic cloud migration as a guide, we’ll walk through the pitfalls of cloud migrations and how to avoid them and the terrifying vendor lock-in (when it makes sense).
-
-{{< youtube BQMu5m-oZe0 >}}
+YouTube: [Lesson Learned From Cloud Migrations: Planning is Everything - Chris Short](https://youtu.be/BQMu5m-oZe0)  
+[**Watch Now**](/videos/cloud-migrations-jfrog-swampup-2020/)
 
 ## Short Talks: A Conversation with Kelsey Hightower - OpenShift Commons Briefing
 
 Date: 2019-12-18  
-Source: [Short Talks: A Conversation with Kelsey Hightower - OpenShift Commons Briefing](https://youtu.be/YYHp0oksor4)  
-Download: [MP3](https://cache.chrisshort.net/file/cache-chrisshort-net/Short-Talks-A-Conversation-with-Kelsey-Hightower-OpenShift-Commons-Briefing.mp3) | [M4A](https://cache.chrisshort.net/file/cache-chrisshort-net/Short-Talks-A-Conversation-with-Kelsey-Hightower-OpenShift-Commons-Briefing.m4a)
+[**Watch Now**](/videos/short-talks-kelsey-hightower/)
 
-{{< youtube YYHp0oksor4 >}}
+> Chris Short, Principal Technical Marketing Manager, OpenShift at Red Hat and CNCF Ambassador sits down with Staff Developer Advocate at Google, Kelsey Hightower to discuss Kubernetes. The conversation covers Kubernetes The Hard Way (which Kelsey created) and the rise of curated Kubernetes distributions like OpenShift and OKD.
 
-## DevOps is Not War
+## DevOps is Not War — DevOpsDays Detroit 2019
 
 Date: 2019-10-23  
-Event: [DevOpsDays Detroit 2019](https://devopsdays.org/events/2019-detroit/welcome/)  
-Slides: [DevOps is Not War - DevOpsDays Detroit 2019](https://speakerdeck.com/chrisshort/devops-is-not-war-df415c22-a29d-4cab-8689-143f9922c0f3)  
-Blog post: [DevOpsDays Detroit 2019 Trip Report](/devopsdays-detroit-2019-trip-report/)
+[**Watch Now**](/videos/devops-not-war-detroit/)
 
-## DevOps is Not War
+> Over the past 500 years, there have been 16 cases of a rising power threatening to displace a ruling power. 75% of those cases resulted in war. Although your organizational transformation probably won't lead to war, it could be contentious. History can help prevent conflict when driving change. This talk will analyze human tendencies, historical data, and provide real-world examples of how to avoid conflict during your DevOps journey.
+
+Event: [DevOpsDays Detroit 2019](https://devopsdays.org/events/2019-detroit/welcome/)  
+
+## DevOps is Not War — DevOpsDays Raleigh 2019
 
 Date: 2019-10-01  
-Event: Event: [DevOpsDays Raleigh 2019](https://devopsdays.org/events/2019-raleigh/welcome/)  
-Slides: [DevOps is Not War - DevOpsDays Raleigh 2019](https://speakerdeck.com/chrisshort/devops-is-not-war-df415c22-a29d-4cab-8689-143f9922c0f3)  
-YouTube: [DevOps is Not War - Chris Short](https://youtu.be/eKOGQKHOBNg)  
-Download: [MP4](https://cache.chrisshort.net/file/cache-chrisshort-net/DevOps-is-not-War-DOD-RDU.mp4)  
-Blog post: [DevOpsDays Raleigh 2019 Trip Report](https://chrisshort.net/devopsdays-raleigh-2019-trip-report/)
+[**Watch Now**](/videos/devops-not-war-raleigh/)
 
-{{< youtube eKOGQKHOBNg >}}
+> Over the past 500 years, there have been 16 cases of a rising power threatening to displace a ruling power. 75% of those cases resulted in war. Although your organizational transformation probably won't lead to war, it could be contentious. History can help prevent conflict when driving change. This talk will analyze human tendencies, historical data, and provide real-world examples of how to avoid conflict during your DevOps journey.
 
-## The Dark Side of DevOps
+Event: [DevOpsDays Raleigh 2019](https://devopsdays.org/events/2019-raleigh/welcome/)  
+
+## The Dark Side of DevOps — JFrog swampUP 2019
 
 Date: 2019-06-19  
-Event: [JFrog swampUP 2019](https://swampup.jfrog.com/)  
-Slides: [The Dark Side of DevOps](https://speakerdeck.com/chrisshort/the-dark-side-of-devops)  
-YouTube: [The Dark Side of DevOps - Chris Short - swampUP 2019](https://youtu.be/gi-i5NvxVLM)  
-Download: [MP4](https://cache.chrisshort.net/file/cache-chrisshort-net/The_Dark_Side_of_DevOps-Chris_Short-JFrog_SwampUP_2019.mp4)
+[**Watch Now**](/videos/dark-side-of-devops-jfrog-swampup-2019/)
 
-{{< youtube gi-i5NvxVLM >}}
+> People think that DevOps, Cloud Native, Agile, GROWS, etc. are all rainbows and roses. You start small, work your way up or you decide as an organizational unit to change.
+>
+> These are two patterns associated with a Jedi-type maturation process of DevOps. Like in Star Wars, DevOps has a dark side.
+>
+> This talk by Chris Short of Red Hat provides examples of successful and failed DevOps transformations, as well as some lessons learned along the way.
+
+Event: [JFrog swampUP 2019](https://swampup.jfrog.com/)  
 
 ## How to Teach Old Apps New Tricks with Ansible-based Operators (Parts 1 & 2)
 
@@ -118,12 +109,14 @@ Event: [All Day DevOps 2018](https://alldaydevops2018.sched.com/event/GEhz/devop
 Slides: [All Day DevOps - DevOps is Not a War](https://speakerdeck.com/chrisshort/all-day-devops-devops-is-not-a-war)  
 Video: [All Day DevOps 2018 - DevOps is Not a War](http://play.sonatype.com/watch/PbTS2zEEfXF7M8dbNrXEQN?)
 
-## DevOpsDays Columbus 2018: Kubernetes Cron Jobs
+## Kubernetes Cron Jobs — DevOpsDays Columbus 2018
 
 Date: 2018-09-19  
-Event: [DevOpsDays Columbus 2018](https://www.devopsdays.org/events/2018-columbus/program/chris-short/)  
-Slides: [DevOpsDays Columbus 2018: Kubernetes Cron Jobs](https://speakerdeck.com/chrisshort/devopsdays-columbus-2018-kubernetes-cron-jobs)  
-YouTube: [Chris Short Ignite - Kubernetes Cron Jobs: Dreams Really Do Come True](https://youtu.be/75T_-YJ5Vag)
+[**Watch Now**](/video/kubernetes-cron-jobs-devopsdays-columbus-2018/)
+
+> I worked for a large company with several hundred cron jobs running on two systems. Managing these jobs was cumbersome. Resource use during peak times brought things to a halt. Imagine what is was like when if systems were down! In this talk, we discuss Kubernetes' killer feature: Cron Jobs.
+
+Event: [DevOpsDays Columbus 2018](https://www.devopsdays.org/events/2018-columbus/program/chris-short/)
 
 ## Grand Rapids RHUG - Using Ansible for DevOps
 

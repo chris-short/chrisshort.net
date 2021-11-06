@@ -12,6 +12,8 @@ aliases = [
 ]
 +++
 
+{{< carbon >}}
+
 I've told you about the cult known as the Center for Purposeful Living, another person has shared their experiences with the [Center for Purposeful Living](/center-for-purposeful-living/the-cult-that-is-human-service-alliance-and-the-center-for-purposeful-living/), and now another individual has come out denouncing the [Center for Purposeful Living](/center-for-purposeful-living/the-cult-that-is-human-service-alliance-and-the-center-for-purposeful-living/) which is also known as Human Service Alliance.
 
 The following was originally posted on the FACTNet thread dedicated to Human Service Alliance and the Center for Purposeful Living by someone referring to themselves as marcusrevelus and is being republished here because it is so incredibly powerful and remarkably true:
@@ -21,8 +23,6 @@ The following was originally posted on the FACTNet thread dedicated to Human Ser
     1) "Family members, parents and friends of students are encouraged to visit the campus both before and during the student's attendance. The campus atmosphere is open and honest. In cults, family members are definitely not welcome."
 
 This happens only if the family or friend is in line with the student's decision to be at CPL or if the CPL is confident they can "manage" any such visitors. Family and friends who clearly disapprove of the organization and make it known are cast as "enablers", "detractors", "victims" who do not have the student's best interests.
-
-
 
 A note to the students from CPL's leader, Derwin Lackey, about a young teenager who decided to go home for Christmas is revealing:
 

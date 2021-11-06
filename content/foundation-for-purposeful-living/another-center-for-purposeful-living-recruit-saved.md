@@ -14,15 +14,11 @@ aliases = [
 
 Yesterday, I had an incredibly healthy exchange with a divorced mother who had toured the Center for Purposeful Living and decided it might be worth her time. She even enlisted to join the Center for Purposeful Living after her tour.
 
-
-
 However, for whatever reason Joanna White, my estranged biological mother, from the Center for Purposeful Living advised this person to see the thread over at FACTNet. The divorced mother noticed my posts on the subject and decided to contact me directly via this web site's contact form. She asked me to, "… share your experience with me before I make this leap of faith."
 
 {{< carbon >}}
 
 I assumed that she had read the FACTNet thread and the posts here before contacting me so I wrote her this reply:
-
-    
 
     If you contacted me via this method then you've probably read mine and others articles on this subject. The articles on my site combined with the posts on FACTNet should be ample information on the subject for you to make a fairly certain determination as to what you should do.
 
