@@ -9,7 +9,7 @@ tags = ["technical debt", "DevOps", "systemd", "AWS"]
 title = "Technical Debt and the Ongoing Battle Against It"
 [cover]
 image = "/img/posts/technical-debt.jpg"
-
+caption = "Photo: [Twitter](https://twitter.com/Carnage4Life/status/585458646680670208)"
 +++
 
 I have been trying to fit a lot of square pegs into round holes lately. Eliminating technical debt with modern day [**DevOps**](https://devopsish.com/) practices to reduce costs is seldom fun or glamorous but is very often beneficial. Reducing costs should be the mindset of IT and one surefire way to do that is to spend the right amount of time on a task to complete it successfully. Finding that balance is definitely tricky especially when a lot of us are human time division multiplexers now. But, that right combination of good work and adequate time spent is definitely out there.
@@ -37,5 +37,3 @@ A lot of time could be spent making this whole solution feature complete but the
 ### The Takeaway
 
 You must do things right; you should not be creating technical debt. Benjamin Franklin once said, "Don't put off until tomorrow what you can do today." The same should hold true when it comes to your work. One thing to keep in mind though is that there is no such thing as perfect in a DevOps environment. Use the tools you can to create the processes you need to get the job done right. Do not throw together a crap solution and expect others to appreciate it. There can be some well-documented limitations in your solutions but they must be communicated effectively. Do not let the perfect be the enemy of the good. You will never finish a task if the expected outcome is perfection.
-
-Photo: [Twitter](https://twitter.com/Carnage4Life/status/585458646680670208)

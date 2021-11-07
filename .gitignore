@@ -69,6 +69,7 @@ node_modules/
 .env
 
 # Hugo public dir
+.hugo_build.lock
 public/
 
 # VSCode
