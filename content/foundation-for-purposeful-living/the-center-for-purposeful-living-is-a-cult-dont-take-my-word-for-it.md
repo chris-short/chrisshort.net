@@ -23,8 +23,6 @@ Quincy conveyed to me a great many oddities that were noticed about the Center f
 
     My father dated a woman who had been heavily involved in [Human Service Alliance] for several years. They came to meet about a year after my dad began volunteer care for terminally ill people at HSA. His effort was to give a small payback for gifts of time and care given to our family during my grandfather's cancer journey in 1997. [Human Service Alliance] seemed like a match for that need.
 
-
-
 Allow me to point out that the Center for Purposeful Living no longer cares for the terminally ill. I'm not quite sure the real reason why they stopped the only noble cause that Human Service Alliance (fka University for Human Goodness, aka Center for Purposeful Living) had.
 
 
