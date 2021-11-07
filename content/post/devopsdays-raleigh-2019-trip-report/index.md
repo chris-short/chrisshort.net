@@ -24,7 +24,7 @@ Note: If you are not familiar with [DevOpsDays](https://devopsdays.org/), please
 
 I did an ignite karaoke talk (one minute, four random slides; [example deck](https://docs.google.com/file/d/1EHttdpUfmZnkyhZ_pXPY1mgvEAu3d1sh/edit?usp=docslist_api&filetype=mspresentation)) about how Kubernetes is as complicated as you make it, "It's just a shitload of YAML and some APIs." The premise was to start slow and build skills iteratively (like with DevOps). It came together when a picture of Jeff Goldblum attempting to outrace some vicious dinosaur from a Jurassic Park movie. I said something along the lines of, "[T. Rex was clocked at 34 MPH.](https://books.google.com/books?id=gSBdDwAAQBAJ&pg=PA250&lpg=PA250&dq=jurassic+park+tyrannosaurus+rex+clocked+at+34+mph&source=bl&ots=jR6tHY2qxD&sig=ACfU3U1AiFB7fUbVhk2s_VO9xmuIdHBy4g&hl=en&sa=X&ved=2ahUKEwiTyIfI_qDlAhUDOH0KHUgMCXEQ6AEwF3oECAkQAQ#v=onepage&q=jurassic%20park%20tyrannosaurus%20rex%20clocked%20at%2034%20mph&f=false) You don't need 25 nodes. Start small."
 
- > You can watch the talk here: [Video — DevOps is Not War - DevOpsDays Raleigh 2019](/videos/devops-not-war-raleigh/)
+ > You can watch the talk here: [Video — DevOps is Not War - DevOpsDays Raleigh 2019](/video/devops-not-war-raleigh/)
 
 This one minute talk resulted in two folks asking how to [get started contributing to Kubernetes](https://github.com/kubernetes/community/tree/master/contributors/guide). I introduced another speaker to [SIG-Docs' Zach Corleissen](https://github.com/kubernetes/community/tree/master/sig-docs). They were really interested in making the docs easier for their spouse to consume and learn for career advancement.
 

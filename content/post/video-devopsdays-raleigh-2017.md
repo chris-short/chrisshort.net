@@ -21,10 +21,10 @@ The first video is from my Dark Side of DevOps talk. The second video is from Ig
 
 ## The Dark Side of DevOps - Chris Short
 
-Watch Now: [The Dark Side of DevOps — DevOpsDays Raleigh 2017](/videos/devops-dark-side-devopsdays-raleigh-2017/)
+Watch Now: [The Dark Side of DevOps — DevOpsDays Raleigh 2017](/video/devops-dark-side-devopsdays-raleigh-2017/)
 
 ## DevOpsDays Raleigh 2017 Ignite Karoke (Part 2)
 
-Watch Now: [DevOpsDays Raleigh 2017 Ignite Karoke (Part 2)](/videos/devopsdays-raleigh-2017-ignite-karaoke-part-2/)
+Watch Now: [DevOpsDays Raleigh 2017 Ignite Karoke (Part 2)](/video/devopsdays-raleigh-2017-ignite-karaoke-part-2/)
 
 {{< carbon >}}
