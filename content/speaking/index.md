@@ -1,9 +1,9 @@
 +++
 author = "Chris Short"
-date = 2018-10-24T00:53:00Z
-description = "Talks, interviews, and webinars Chris Short has done"
+date = 2020-11-07T00:00:01Z
+description = "Talks Chris Short has give"
 draft = false
-tags = ["talks", "speaking" "public speaking", "interviews", "webinar"]
+tags = ["talks", "speaking", "public speaking"]
 title = "Talks Given"
 aliases = [
     "talks",
