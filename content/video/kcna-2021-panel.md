@@ -20,4 +20,6 @@ Download as [MP4](https://cache.chrisshort.net/file/cache-chrisshort-net/Panel_D
 
 Source: [Panel Discussion: Marketing as Code: How to Rock Out with Non-Code Contributions](https://youtu.be/rbBmbN3dTHY)
 
+{{< speaker >}}
+
 {{< eo_signup >}}

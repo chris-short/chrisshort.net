@@ -22,4 +22,6 @@ Source: [The Dark Side of DevOps - Chris Short](https://youtu.be/P6Wvt5GUvlU)
 
 Download as [MP4](https://cache.chrisshort.net/file/cache-chrisshort-net/The-Dark-Side-of-DevOps-Chris-Short.mp4)
 
+{{< speaker >}}
+
 {{< eo_signup >}}

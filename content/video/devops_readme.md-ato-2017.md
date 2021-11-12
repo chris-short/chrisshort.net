@@ -31,4 +31,6 @@ Source: [DevOps README.md—Chris Short](https://youtu.be/Ibnj-YZTypU)
 
 Download as [MP4](https://cache.chrisshort.net/file/cache-chrisshort-net/DevOps-README.md-Chris-Short.mp4)
 
+{{< speaker >}}
+
 {{< eo_signup >}}

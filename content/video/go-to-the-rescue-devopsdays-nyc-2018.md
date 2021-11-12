@@ -26,4 +26,6 @@ Source: [DevOpsDays NYC 2018 d2 07 IG Chris Short](https://youtu.be/EImcYoyYId0)
 
 Download as [MP4](https://cache.chrisshort.net/file/cache-chrisshort-net/Chris-Short-DevOpsDays-NYC-2018-ignite.mp4)
 
+{{< speaker >}}
+
 {{< eo_signup >}}

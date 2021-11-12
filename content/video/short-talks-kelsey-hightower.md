@@ -20,4 +20,6 @@ Download as [MP3](https://cache.chrisshort.net/file/cache-chrisshort-net/Short-T
 
 Source: [Short Talks: A Conversation with Kelsey Hightower - OpenShift Commons Briefing](https://youtu.be/YYHp0oksor4)  
 
+{{< speaker >}}
+
 {{< eo_signup >}}

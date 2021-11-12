@@ -24,4 +24,6 @@ Download as [MP4](https://cache.chrisshort.net/file/cache-chrisshort-net/DevNati
 
 Source: [DevNation Federal 2018 - DevOps is Not War](https://youtu.be/bnyDETdyNfw)
 
+{{< speaker >}}
+
 {{< eo_signup >}}

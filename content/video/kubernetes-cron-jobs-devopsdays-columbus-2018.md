@@ -22,4 +22,6 @@ Download as [MP4](https://cache.chrisshort.net/file/cache-chrisshort-net/kuberne
 
 Source: [Chris Short Ignite - Kubernetes Cron Jobs: Dreams Really Do Come True](https://youtu.be/75T_-YJ5Vag)
 
+{{< speaker >}}
+
 {{< eo_signup >}}

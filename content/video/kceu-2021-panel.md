@@ -20,4 +20,6 @@ Download as [MP4](https://cache.chrisshort.net/file/cache-chrisshort-net/How_You
 
 Source: [How You Can Tell Your Kubernetes Contributor Story with These Tips - Matt Broberg, Chris Short, Kaslin Fields, Peeyush Gupta](https://youtu.be/Y9Umfsig6WQ)
 
+{{< speaker >}}
+
 {{< eo_signup >}}
