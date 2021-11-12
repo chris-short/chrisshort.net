@@ -23,4 +23,6 @@ Blog Post: [Orchestructure January 2018 Meetup](/orchestructure-january-2018-mee
 
 Source: [Go: Enabling DevOps to Go Faster - Chris Short (January 2018)](https://youtu.be/fC_fmN5tXkQ)
 
+{{< speaker >}}
+
 {{< eo_signup >}}

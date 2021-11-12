@@ -29,4 +29,6 @@ Source: [DevOpsDays Detroit 2017](https://youtu.be/hJDp6CLvTAQ?t=16m47s)
 
 Download as [MP4](https://cache.chrisshort.net/file/cache-chrisshort-net/DevOps-README.md-Chris-Short.mp4)
 
+{{< speaker >}}
+
 {{< eo_signup >}}

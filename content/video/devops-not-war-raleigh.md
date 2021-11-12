@@ -24,4 +24,6 @@ Download as [MP4](https://cache.chrisshort.net/file/cache-chrisshort-net/DevOps-
 
 Source: [DevOps is Not War - Chris Short](https://youtu.be/eKOGQKHOBNg)
 
+{{< speaker >}}
+
 {{< eo_signup >}}

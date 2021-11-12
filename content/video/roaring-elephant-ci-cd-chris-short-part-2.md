@@ -20,4 +20,6 @@ Download as [MP4](https://cache.chrisshort.net/file/cache-chrisshort-net/CI_CD-w
 
 Source: [CI/CD with Chris Short (2/2)](https://youtu.be/gvCNHeSnglY)
 
+{{< speaker >}}
+
 {{< eo_signup >}}

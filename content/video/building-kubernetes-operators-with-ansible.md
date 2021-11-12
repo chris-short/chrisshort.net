@@ -18,4 +18,6 @@ ShowTOC = false
 
 Source: [Summit Lab - Building Kubernetes Operators with Ansible](https://youtu.be/6scP0L1oCP4?t=302)
 
+{{< speaker >}}
+
 {{< eo_signup >}}
