@@ -22,4 +22,6 @@ Download as [MP4](https://archive.org/details/aws-michigan-meetup-april-2018-hea
 
 Source: [AWS Michigan Meetup April 2018 - Heaven is Not a Cloud by Chris Short](https://youtu.be/_qx9d5JSRvw)
 
+{{< speaker >}}
+
 {{< eo_signup >}}

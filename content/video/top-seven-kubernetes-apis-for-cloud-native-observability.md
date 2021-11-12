@@ -1,0 +1,27 @@
++++
+author = "Chris Short"
+categories = ["Video", "Kubernetes"]
+date = 2020-07-09T07:00:00Z
+description = "An important early step (just after 'Orchestration & Application Definition' in the CNCF trail map) in starting your cloud-native journey is picking solutions for observability, including monitoring, logging, and tracing."
+draft = false
+slug = "top-seven-kubernetes-apis-for-cloud-native-observability"
+tags = ["talks", "speaking", "videos", "public speaking", "webinar"]
+title = "Webinar: The top 7 most useful Kubernetes APIs for comprehensive cloud native observability"
+ShowTOC = false
++++
+
+{{< carbon >}}
+
+{{< youtube 5LjTApwydao >}}
+
+> An important early step (just after "Orchestration & Application Definition" in the CNCF trail map) in starting your cloud-native journey is picking solutions for observability, including monitoring, logging, and tracing. All of these observability tools leverage data available from Kubernetes' comprehensive APIs. Those APIs provide insights into the events that are occurring inside of the Kubernetes platform, including answers to questions like: "What's running in my Kubernetes cluster?"
+>
+> In this webinar, Sensu Co-founder & CEO Caleb Hailey will walk through the various Kubernetes APIs that are necessary for complete visibility into your Kubernetes platform, with examples from open source observability tools like Prometheus and Sensu. You'll gain a deeper understanding of how Kubernetes works, with a behind-the-scenes look at cloud-native observability.
+
+Download as [MP4](https://cache.chrisshort.net/file/cache-chrisshort-net/The-top-7-most-useful-Kubernetes-APIs-for-comprehensive-cloud-native-observability.mp4)
+
+Source: [CNCF Member Webinar: The top 7 most useful Kubernetes APIs for comprehensive cloud native observability](https://www.cncf.io/online-programs/the-top-7-most-useful-kubernetes-apis-for-comprehensive-cloud-native-observability)
+
+{{< speaker >}}
+
+{{< eo_signup >}}

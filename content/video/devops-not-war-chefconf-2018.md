@@ -22,4 +22,6 @@ Download as [MP4](https://cache.chrisshort.net/file/cache-chrisshort-net/DevOps_
 
 Source: [ChefConf 2018 Session: DevOps is Not a War](https://youtu.be/MDu6wL1DWY4)
 
+{{< speaker >}}
+
 {{< eo_signup >}}

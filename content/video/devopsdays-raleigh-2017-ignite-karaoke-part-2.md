@@ -22,4 +22,6 @@ Source: [DevOpsDays Raleigh 2017 Ignite Karoke (Part 2)](https://youtu.be/Pz2r2e
 
 Download as [MP4](https://cache.chrisshort.net/file/cache-chrisshort-net/DevOpsDays-Raleigh-2017-Ignite-Karaoke-Part-2.mp4)
 
+{{< speaker >}}
+
 {{< eo_signup >}}

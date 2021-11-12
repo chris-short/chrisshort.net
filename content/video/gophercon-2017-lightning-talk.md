@@ -18,12 +18,12 @@ Video of all the GopherCon 2017 talks are now available. Fifty-eight videos in a
 
 My lightning talk, [Golang to the rescue: Saving DevOps from TLS turmoil](https://youtu.be/nIlM_HUfyw0?list=PL2ntRZ1ySWBfhRZj3BDOrKdHzoafHsKHU), is also available. Give it a watch when you have a moment. It's not my best work but, the only way to get better is to keep at it.
 
-## Video
-
 {{< youtube nIlM_HUfyw0 >}}
 
 Hats off to the organizers for getting these videos up so quickly. It feels like I just got back from Denver. The quality of the videos and the speed at which they were made available lends great credit to all involved in the production efforts.
 
 {{< tweet 890993539257180161 >}}
+
+{{< speaker >}}
 
 {{< eo_signup >}}

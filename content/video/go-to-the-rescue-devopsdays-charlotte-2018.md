@@ -24,4 +24,6 @@ Blog Post: [DevOpsDays Charlotte 2018 Ignite Talk on Golang](/devopsdays-charlot
 
 Source: [Golang to the rescue: Saving DevOps from TLS turmoil](https://youtu.be/-jg_SyoIIsA)
 
+{{< speaker >}}
+
 {{< eo_signup >}}

@@ -26,4 +26,6 @@ Download as [MP4](https://cache.chrisshort.net/file/cache-chrisshort-net/The_Dar
 
 Source: [The Dark Side of DevOps - Chris Short - JFrog swampUP 2019](https://youtu.be/gi-i5NvxVLM)
 
+{{< speaker >}}
+
 {{< eo_signup >}}

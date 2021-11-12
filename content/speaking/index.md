@@ -1,13 +1,15 @@
 +++
 author = "Chris Short"
 date = 2020-11-07T00:00:01Z
-description = "Talks Chris Short has give"
+description = "Talks Chris Short has given"
 draft = false
-tags = ["talks", "speaking", "public speaking"]
+tags = ["talks", "speaking", "public speaking", "webinar"]
 title = "Talks Given"
 aliases = [
     "talks",
-    "talk"
+    "talk",
+    "webinar",
+    "webinars"
 ]
 +++
 
@@ -76,7 +78,7 @@ Event: [DevOpsDays Detroit 2019](https://devopsdays.org/events/2019-detroit/welc
 Date: 2019-10-01  
 [**Watch Now**](/video/devops-not-war-raleigh/)
 
-> DevOps needs to focus on more than Dev and Ops to be truly transformative for an organization. What about your security folks? What about your network team? We’ll introduce the work of Thucydides and the concept of Thucydides’s Trap, a political scientist’s take on how rising and established powers are destined for conflict. Transformations can often be contentious and sometimes rebellious. History can actually help us avoid failure in our transformations. The more the merrier along this journey!
+> DevOps needs to focus on more than Dev and Ops to be truly transformative for an organization. What about your security folks? What about your network team? We'll introduce the work of Thucydides and the concept of Thucydides's Trap, a political scientist's take on how rising and established powers are destined for conflict. Transformations can often be contentious and sometimes rebellious. History can actually help us avoid failure in our transformations. The more the merrier along this journey!
 
 Event: [DevOpsDays Raleigh 2019](https://devopsdays.org/events/2019-raleigh/welcome/)  
 
@@ -141,7 +143,7 @@ Blog Post: [Baltimore Go June Meeting - Go to the Rescue: Saving DevOps from TLS
 Date: 2018-06-05  
 [**Watch Now**](/video/devops-not-war-devnation-federal-2018/)
 
-> Over the past 500 years, there have been 16 cases of a rising power threatening to displace a ruling power. 75% of those cases resulted in war. Although your organizational transformation probably won’t lead to war, it could be contentious. History can help prevent conflict when driving change. This talk will analyze human tendencies, historical data, and provide real-world examples of how to avoid conflict during your DevOps journey.
+> Over the past 500 years, there have been 16 cases of a rising power threatening to displace a ruling power. 75% of those cases resulted in war. Although your organizational transformation probably won't lead to war, it could be contentious. History can help prevent conflict when driving change. This talk will analyze human tendencies, historical data, and provide real-world examples of how to avoid conflict during your DevOps journey.
 
 Event: [DevNationFederal](https://devnationfederal.org/)  
 
@@ -150,7 +152,7 @@ Event: [DevNationFederal](https://devnationfederal.org/)
 Date: 2018-05-30  
 [**Watch Now**](/video/what-the-military-taught-me-about-devops-toronto/)
 
-> Before DevOps was coined an entire branch of the US military was living by its core fundamentals. Visualizing work, flow, diversity, failing fast are all things that I practiced in the Air Force from 1999 to 2010. I’d like to share my lessons learned serving during this time. This talk will broaden people’s view of how DevOps can be implemented, why diversity matters in DevOps, and how fortunate we all are to have the problems we have today.
+> Before DevOps was coined an entire branch of the US military was living by its core fundamentals. Visualizing work, flow, diversity, failing fast are all things that I practiced in the Air Force from 1999 to 2010. I'd like to share my lessons learned serving during this time. This talk will broaden people's view of how DevOps can be implemented, why diversity matters in DevOps, and how fortunate we all are to have the problems we have today.
 
 Event: [DevOpsDays Toronto 2018](https://www.devopsdays.org/events/2018-toronto/program/chris-short/)  
 
@@ -159,7 +161,7 @@ Event: [DevOpsDays Toronto 2018](https://www.devopsdays.org/events/2018-toronto/
 Date: 2018-05-24  
 [**Watch Now**](/video/devops-not-war-chefconf-2018/)
 
-> Over the past 500 years, there have been 16 cases of a rising power threatening to displace a ruling power. 75% of those cases resulted in war. Although your organizational transformation probably won’t lead to war, it could be contentious. History can help prevent conflict when driving change. This talk will analyze human tendencies, historical data, and provide real-world examples of how to avoid conflict during your DevOps journey.
+> Over the past 500 years, there have been 16 cases of a rising power threatening to displace a ruling power. 75% of those cases resulted in war. Although your organizational transformation probably won't lead to war, it could be contentious. History can help prevent conflict when driving change. This talk will analyze human tendencies, historical data, and provide real-world examples of how to avoid conflict during your DevOps journey.
 
 Event: [ChefConf](https://chefconf.chef.io/)  
 
@@ -175,7 +177,7 @@ Slides: [Detroit Kubernetes: Kubernetes Cron Jobs](https://speakerdeck.com/chris
 Date: 2018-04-19  
 [**Watch Now**](/video/heaven-is-not-a-cloud/)
 
-> "Migrating to the cloud saves money!” “Not running your own infrastructure reduces your bottom line!” “Lift and shift is a legitimate first step towards moving to the cloud!” These are all potential pitfalls if you’re not careful. Proper planning prevents piss poor performance. Using a real chaotic cloud migration as a guide, we’ll walk through the pitfalls of cloud migrations and how to avoid vendor lock-in (when it makes sense).
+> "Migrating to the cloud saves money!" "Not running your own infrastructure reduces your bottom line!" "Lift and shift is a legitimate first step towards moving to the cloud!" These are all potential pitfalls if you're not careful. Proper planning prevents piss poor performance. Using a real chaotic cloud migration as a guide, we'll walk through the pitfalls of cloud migrations and how to avoid vendor lock-in (when it makes sense).
 
 Event: [AWS Michigan](https://www.meetup.com/AWS-Michigan/events/248874167/)  
 
@@ -289,3 +291,75 @@ Blog Post: [What The Military Taught Me About DevOps](/what-the-military-taught-
 ## Webinars
 
 If you're looking for podcasts or webinars I've took part in, please head over to the [**Webinars**](/webinars/) page.
+
+### Webinar: The top 7 most useful Kubernetes APIs for comprehensive cloud native observability
+
+Date: 2020-07-09  
+[**Watch Now**](/video/top-seven-kubernetes-apis-for-cloud-native-observability/)
+
+> An important early step (just after "Orchestration & Application Definition" in the CNCF trail map) in starting your cloud-native journey is picking solutions for observability, including monitoring, logging, and tracing. All of these observability tools leverage data available from Kubernetes' comprehensive APIs. Those APIs provide insights into the events that are occurring inside of the Kubernetes platform, including answers to questions like: "What's running in my Kubernetes cluster?"
+>
+> In this webinar, Sensu Co-founder & CEO Caleb Hailey will walk through the various Kubernetes APIs that are necessary for complete visibility into your Kubernetes platform, with examples from open source observability tools like Prometheus and Sensu. You'll gain a deeper understanding of how Kubernetes works, with a behind-the-scenes look at cloud-native observability.
+
+### Webinar: Security at Cloud-native Speed On-Demand
+
+Date: 2020-01-09  
+[**Watch Now**](/video/security-at-cloud-native-speed-on-demand/)
+
+> Join us for this on-demand webinar where our speaker, Chris Short, draws on his experience as a principal technical marketing manager for Red Hat, CNCF Ambassador, and editor of KubeWeekly and DevOps'ish to share best practices on:
+>
+> * applying gates during CI/CD
+> * the critical features for container security
+> * tapping the power of native controls in Kubernetes
+> * leveraging automation to retain velocity
+
+### Webinar: Contour – High performance ingress controller for Kubernetes
+
+Date: 2019-10-10  
+[**Watch Now**](/video/contour-high-performance-ingress-controller-for-kubernetes/)
+
+> Contour is an open source Kubernetes ingress controller providing the control plane for the Envoy edge and service proxy.​ Contour supports dynamic configuration updates and multi-team ingress delegation out of the box while maintaining a lightweight profile.
+>
+> Using Contour you can quickly deploy cloud native applications, update Envoy configurations on the fly, and safely delegate ingress configuration to protect service access on multi-team Kubernetes clusters.
+>
+> In this webinar, Steve Sloka, Sr. Member of Technical Staff at VMware, will share how to use Contour and Envoy efficiently in your Kubernetes clusters.
+
+### Webinar: Building Kubernetes Operators in an Ansible-native way
+
+Date: 2019-10-09  
+[**Watch Now**](/video/building-kubernetes-operators-ansible-native-way/)
+
+> Operators simplify management of complex applications on Kubernetes. They are usually written in Go and require expertise with the internals of Kubernetes. But, there's an alternative to that with a lower barrier to entry. Ansible is a first-class citizen in the Operator SDK. Using Ansible frees up application engineers, maximizes time to automate and orchestrate your applications, and doing it across new & existing platforms with one simple language. Here we see how.
+
+### Webinar: KubeVirt - Beyond Containers: Coming full circle back to VMs!
+
+Date: 2019-09-12  
+[**Watch Now**](/video/kubevirt-beyond-containers-coming-full-circle-back-to-vm/)
+
+> In this webinar we will introduce KubeVirt and what VMs with K8s mean for you.
+>
+> We'll explore:
+>
+> 1. The architecture of KubeVirt
+> 1. Key use cases where you can already take advantage of Kubevirt to manage legacy applications – Windows apps included! – alongside Kubernetes
+> 1. ‘Gotchas', tricks and things to be aware of for different implementations
+> 1. How KubeVirt compares with other virtualization frameworks
+> 1. Future of KubeVirt, related projects, and where to start
+>
+> We will show a demo of an application that is comprised of VMs, Containers, an RDBMS and a LoadBalancer-type Service. We'll show how HA scenarios for legacy components are automatically handled by Kubernetes and KubeVirt, along with a couple cool surprises!
+
+### Webinar: Monitoring Kubernetes Workloads: The Sidecar Pattern
+
+Date: 2019-06-13  
+[**Watch Now**](/video/monitoring-kubernetes-workloads-sidecar-pattern/)
+
+> Kubernetes has entirely changed the way we build our infrastructure, enabling organizations to ship more changes faster. But, with all that speed comes challenges — containers introduce a non-trivial level of complexity when it comes to maintaining visibility into your infrastructure. Just as Kubernetes has required us to rethink how we build and deploy our applications, so too must we rethink the traditional approach to monitoring.
+>
+> In this webinar, Sensu CEO and co-founder Caleb Hailey will review some of the existing and popular patterns for monitoring Kubernetes (like Prometheus), and what gaps remain outstanding, especially when it comes to monitoring the applications running on Kubernetes. He'll go over best practices for monitoring workloads on K8s, including the sidecar pattern for monitoring.
+
+### Webinar: The future of how Ansible content is handled
+
+Date: 2019-06-13  
+[**Watch Now**](/video/future-of-how-ansible-content-is-handled/)
+
+> Currently, the official Ansible Engine release process is the only way for users to utilize or consume new content easily. The Ansible community has begun the journey of providing our users with more flexibility to create and consume content. In this webinar, we'll discuss where this journey started, where we are currently, and where we would like some feedback.

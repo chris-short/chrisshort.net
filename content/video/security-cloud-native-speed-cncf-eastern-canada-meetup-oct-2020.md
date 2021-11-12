@@ -18,4 +18,6 @@ ShowTOC = false
 
 Source: [CNCF Eastern Canadian Meetup: October 2020](https://youtu.be/l_EEZV1P15U?t=1233)
 
+{{< speaker >}}
+
 {{< eo_signup >}}
