@@ -107,7 +107,7 @@ But Most Importantly, I'm a **Gopher**
 * With Go of course!
 
 ### **Three Go Packages: log**
-* The go [`log`](https://golang.org/pkg/log/) package is pretty self-explanatory
+* The go [`log`](https://pkg.go.dev/log/) package is pretty self-explanatory
 * Package that enables logging
 * Needed a spectacular failure at the sign of trouble
 * `log` has three helper functions: `print`, `fatal`, and `panic`
@@ -120,7 +120,7 @@ But Most Importantly, I'm a **Gopher**
 * Using `fatal` to break the app and log to `stderr` if something isn't right is great!
 
 ### **Three Go Packages: crypto/tls**
-* The Go[`crypto/tls`](https://golang.org/pkg/crypto/tls/) package partially implements TLS 1.2, as specified in [RFC 5246](https://tools.ietf.org/html/rfc5246)
+* The Go[`crypto/tls`](https://pkg.go.dev/crypto/tls/) package partially implements TLS 1.2, as specified in [RFC 5246](https://tools.ietf.org/html/rfc5246)
 * Package configures usable SSL/TLS versions
 * Identifies preferred cipher suites and elliptic curves used during handshakes
 * This is the package that handles connections securely
@@ -132,7 +132,7 @@ But Most Importantly, I'm a **Gopher**
 
 ### **Three Go Packages: net/http**
 * Go implementation of HTTP
-* [`net/http`](https://golang.org/pkg/net/http/) has a function called `ListenAndServeTLS`
+* [`net/http`](https://pkg.go.dev/net/http/) has a function called `ListenAndServeTLS`
 * ListenAndServeTLS provides the desired certificate checking functionality
 * "If the certificate is signed by a certificate authority, the certFile should be the concatenation of the server's certificate, any intermediates, and the CA's certificate."
 

@@ -85,7 +85,7 @@ If you're trying to get better rankings in search engines check out my [SEO Chec
 
 ### Other Notes
 
-* Track web site traffic ([Webalizer](http://www.webalizer.org/) is a great, free, and highly customizable tool for Unix or Linux and Win32 systems).
+* Track web site traffic ([Webalizer](https://ostermiller.org/webalizer/) is a great, free, and highly customizable tool for Unix or Linux and Win32 systems).
 * Spell Check, spell check, spell check! Misspelled words are becoming a thing of the past on the world wide web. There are dozens of tools that can spell check your web pages so there is no excuse for poor spelling.
 * Not all search engines can index multimedia files (Flash, PDFs, etc.) or the content within those files.
 * No search engine can index text within images or graphics files
