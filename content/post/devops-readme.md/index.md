@@ -20,7 +20,7 @@ Slides used at the genesis of this list are [available here](https://cache.chris
 
 An up to date version of the contents of this talk are now available at [devopsreadme.xyz](https://devopsreadme.xyz)
 
-**Watch Now**: [DevOps README.md — All Things Open 2017](/video/devops_readme.md-ato-2017/)
+**Watch Now**: [DevOps README.md — All Things Open 2017](/video/devops_readme_md-ato-2017/)
 
 "You are either building a learning organization or you will be losing to someone who is." --Andrew Clay Shafer
 

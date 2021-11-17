@@ -29,6 +29,6 @@ If you're unable to view this embed, please [All Things Open 2017 — DevOps RE
 
 ## Video
 
-[**Watch Now**](/video/devops_readme.md-ato-2017/)
+[**Watch Now**](/video/devops_readme_md-ato-2017/)
 
 {{< eo_signup >}}
