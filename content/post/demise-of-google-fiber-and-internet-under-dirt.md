@@ -28,7 +28,7 @@ In 2015, [Verizon halted its FiOS expansion](http://arstechnica.com/business/201
 
 Needless to say, there is a lot of movement around how consumers will be gaining access to the internet. These most recent moves point to a future where your internet connection is not a physical connection at all. Within five years it seems wireless high-speed internet connectivity will be a new normal as opposed to buried in dirt internet connections.
 
-But, what does that mean for you the consumer? Chances are the 5G network providers will be your internet provider in the future. Who owns those frequency bands? There is an [FCC tool to help you determine who owns rights to frequencies](http://reboot.fcc.gov/reform/systems/spectrum-dashboard) but more than likely it is one of these companies:
+But, what does that mean for you the consumer? Chances are the 5G network providers will be your internet provider in the future. Who owns those frequency bands? There is an [FCC tool to help you determine who owns rights to frequencies](http://reboot.fcc.gov/spectrumdashboard/searchMap.seam) but more than likely it is one of these companies:
 
 * AT&T
 * Clearwire ([owned by Sprint](https://en.wikipedia.org/wiki/Clearwire))
