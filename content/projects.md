@@ -92,7 +92,7 @@ A small Go app designed specifically to help troubleshoot certificate chains. A 
 
 Source: [ssl-tester](https://github.com/chris-short/ssl-tester)
 
-## rak8s
+## rak8s (Public archive)
 
 *Stand up a Raspberry Pi based Kubernetes cluster with Ansible*
 
@@ -100,8 +100,10 @@ ARM is going to be the datacenter and home computing platform of the future. It 
 
 Also, it's cheaper than a year of GKE. Plus, why not run Kubernetes in your home?
 
-Source: [rak8s](https://github.com/rak8s/)
+Source: [rak8s](https://github.com/chris-short/rak8s)
 
 ## Status Page
 
 Like every good service provider, I maintain a status page for my projects: <https://status.chrisshort.net/>
+
+This also comes in handy when [trying to convince Comcast Business there's an issue in their network](/having-a-status-page-forced-comcast-to-fix-my-internet/).

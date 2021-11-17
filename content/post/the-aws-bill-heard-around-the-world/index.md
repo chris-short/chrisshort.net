@@ -17,7 +17,7 @@ image = "/the-aws-bill-heard-around-the-world/june-2020-aws-bill-header.png"
 
 ## Update
 
-I joined Rob Hirschfeld on the [The 2030 Cloud](https://at.the2030.cloud) where we discussed some additional behind the scenes investigatory work that went on by a nameless Amazon Web Services (AWS) employee.
+I joined Rob Hirschfeld on the [The 2030 Cloud](https://the2030.cloud/2021/07/19/security-open-links-and-big-aw-bills-w-chris-short-distance-devops-16/) where we discussed some additional behind the scenes investigatory work that went on by a nameless Amazon Web Services (AWS) employee.
 
 {{< youtube asTE7JbNRXw >}}
 

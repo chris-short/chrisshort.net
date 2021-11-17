@@ -201,7 +201,6 @@ Event: [DevOpsDays Charlotte 2018](https://devopsdayscharlotte2018.sched.com/eve
 Date: 2018-02-17  
 Event: [Open Source 101 Raleigh](https://opensource101.com/)  
 Blog Post: [Open Source 101 Raleigh 2018](/open-source-101-raleigh-2018/)  
-Video: [Avoiding the #DevOps pit of misery: Tips from the trenches with Jason Hibbets and Chris Short #opensource101](https://www.facebook.com/jhibbets/video/10215153138403454/)
 
 ### Go: Enabling DevOps To Go Faster — Orchestructure January 2018 Meetup
 
@@ -230,7 +229,7 @@ Event: [DevOpsDays New York City 2018](https://www.devopsdays.org/events/2018-ne
 ### All Things Open 2017: DevOps README.md
 
 Date: October 24, 2017  
-[**Watch Now**](/video/devops_readme.md-ato-2017/)
+[**Watch Now**](/video/devops_readme_md-ato-2017/)
 
 > A curated list of things to read to level up your DevOps skills and knowledge.
 
