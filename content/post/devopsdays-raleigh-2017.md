@@ -9,7 +9,7 @@ slug = "devopsdays-raleigh-2017-dark-side-of-devops"
 tags = ["devops", "talks", "devopsdays"]
 title = "DevOpsDays Raleigh 2017: The Dark Side of DevOps"
 [cover]
-image = "https:///cdn.chrisshort.net/dark-side-of-devops-raleigh-2017.jpg"
+image = "https://cache.chrisshort.net/file/cache-chrisshort-net/dark-side-of-devops-raleigh-2017.jpg"
 
 +++
 

@@ -40,5 +40,5 @@ Regardless of how you get started learning Kubernetes now is the time to start. 
 
 ### Resources
 
-* [Kubernetes README](https://kubernetesreadme.com/)
+* [Kubernetes README](https://kubereadme.com/)
 * [Kubernetes News](https://kubenews.net/)
