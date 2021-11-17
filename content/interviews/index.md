@@ -334,7 +334,7 @@ Download: [MP4](https://cache.chrisshort.net/file/cache-chrisshort-net/devopsday
 ## Discussing DevOps Details aka The 3D Podcast: Episode 113
 
 Date: 2018-04-04  
-Source: [Discussing DevOps Details Episode 113: Refactoring Giant Monoliths](http://techtowntraining.com/podcastgen/?name=2018-04-04_3d_podcast_recording_session_113_-_refactoring_giant_monoliths.mp3)  
+Source: [Discussing DevOps Details Episode 113: Refactoring Giant Monoliths](https://podtail.com/podcast/discussing-devops-details/episode-113-refactoring-giant-monoliths/)  
 Download: [MP3](https://cache.chrisshort.net/file/cache-chrisshort-net/2018-04-04_3d_podcast_recording_session_113_-_refactoring_giant_monoliths.mp3)
 
 <audio controls>
@@ -370,18 +370,18 @@ Your browser does not support the audio element but you can download it as an MP
 Date: 2016-05-21  
 Source: [Christopher B. Short Interview, 2016-05-21](https://archive.org/details/MilCollOH1103Short)  
 Blog Post: [North Carolina Veterans Oral History Interview Part 3](/nc-veterans-oral-history-program/nc-vets-oral-history-interview-3/)  
-Download: [MP3](/nc-veterans-oral-history-program/nc-veterans-oral-history-interview-3.mp3)
+Download: [MP3](https://cache.chrisshort.net/file/cache-chrisshort-net/nc-veterans-oral-history-interview-3.mp3)
 
 ## North Carolina Veterans Oral History Interview Part 2
 
 Date: 2016-05-21  
 Source: [Christopher B. Short Interview, 2016-05-21](https://archive.org/details/MilCollOH1103Short)  
 Blog Post: [North Carolina Veterans Oral History Interview Part 2](/nc-veterans-oral-history-program/nc-vets-oral-history-interview-2/)  
-Download: [MP3](/nc-veterans-oral-history-program/nc-veterans-oral-history-interview-2.mp3)
+Download: [MP3](https://cache.chrisshort.net/file/cache-chrisshort-net/nc-veterans-oral-history-interview-2.mp3)
 
 ## North Carolina Veterans Oral History Interview Part 1
 
 Date: 2016-05-21  
 Source: [Christopher B. Short Interview, 2016-05-21](https://archive.org/details/MilCollOH1103Short)  
 Blog Post: [North Carolina Veterans Oral History Interview Part 1](/nc-veterans-oral-history-program/nc-vets-oral-history-interview-1/)  
-Download: [MP3](/nc-veterans-oral-history-program/nc-veterans-oral-history-interview-1.mp3)
+Download: [MP3](https://cache.chrisshort.net/file/cache-chrisshort-net/nc-veterans-oral-history-interview-1.mp3)
