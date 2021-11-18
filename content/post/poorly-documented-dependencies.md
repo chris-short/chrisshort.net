@@ -21,7 +21,7 @@ Consider this a running list of tools and their often not well documented depend
 
 **Ansible**
 
-Ansible is one of my favorite tools has many installation options. I tend to need the latest features so I end up [using pip to install Ansible](http://docs.ansible.com/ansible/intro_installation.html#latest-releases-via-pip). On CentOS 7 and Red Hat 7 the Ansible dependency chain has been growing lately:
+Ansible is one of my favorite tools has many installation options. I tend to need the latest features so I end up [using pip to install Ansible](https://docs.ansible.com/ansible/latest/installation_guide/intro_installation.html#installing-and-upgrading-ansible-with-pip). On CentOS 7 and Red Hat 7 the Ansible dependency chain has been growing lately:
 
 `sudo yum install gcc libffi-devel openssl-devel python-devel python-setuptools`
 

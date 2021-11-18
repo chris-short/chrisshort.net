@@ -13,7 +13,7 @@ image = "/announcing-detroit-go-meetup/gopher_detroit_twitter_400x400.png"
 
 +++
 
-While I was at [GopherCon 2017](/gophercon-2017-lightning-talk-video/), it became clear to me that there was no Go Meetup group in the Detroit Metro area. When I returned from Denver, after obtaining sponsorship from Bankrate, Detroit Go Meetup came to life.
+While I was at [GopherCon 2017](/video/gophercon-2017-lightning-talk/), it became clear to me that there was no Go Meetup group in the Detroit Metro area. When I returned from Denver, after obtaining sponsorship from Bankrate, Detroit Go Meetup came to life.
 
 {{< eo_signup >}}
 
