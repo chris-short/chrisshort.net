@@ -33,6 +33,6 @@ A detailed breakdown of how I built a tiny web server to fit my needs along with
 
 ## Presented to
 
-1. [Gophercon 2017](/gophercon-2017-lightning-talk-video/)
+1. [Gophercon 2017](/video/gophercon-2017-lightning-talk/)
 2. [DevOpsDays NYC 2018 Ignite Talk on Golang](/devopsdays-nyc-2018-ignite-talk-on-golang/)
 3. [DevOpsDays Charlotte 2018 Ignite Talk on Go](/devopsdays-clt-2018-ignite-talk-on-go/)

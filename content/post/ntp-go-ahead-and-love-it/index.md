@@ -12,7 +12,7 @@ aliases = [
 ]
 [cover]
 image = "/ntp-i-need-you-to-go-ahead-and-love-it/Trento-Mercatino_dei_Gaudenti-alarm_clocks.jpg"
-
+caption = "Photo Credit: [Matteo Ianeselli](https://commons.wikimedia.org/wiki/User:Ianezz) via [Wikimedia Commons](http://commons.wikimedia.org/)"
 +++
 
 It's 2016 (almost 2017) why is the time off on your system clocks? It became apparent to me that there are some folks out there that do not realize their clocks are off for a reason. [Julia Evans](https://twitter.com/b0rk) recently made a graphic about [distributed systems](https://twitter.com/b0rk/status/793288477060263936) that mentioned clock issues and it made me really sad.
@@ -90,7 +90,7 @@ In the output of `ntpq -p` there is a header row and then details about each tim
 * **offset**: Shows the difference between the client (your system) and the remote (in milliseconds).
 * **jitter**: Jitter is by far the weirdest metric here. According to the [RFC](http://www.ietf.org/rfc/rfc5905.txt), "jitter is a valuable indicator of fundamental timekeeping performance and network congestion state." [ntp.org](http://www.ntp.org/ntpfaq/NTP-s-sw-clocks-quality.htm) states, "When repeatedly reading the time, the difference may vary almost randomly. The difference of these differences (second derivation) is called jitter."
 
-But what are those symbols on the far left of the results table? The dashes (-), asterisks (*), and pluses (+) all represent something important as well. These are called **tally codes** and live in the left margin (the following is straight from the [ntpq man page](http://doc.ntp.org/4.2.4/ntpq.html)):
+But what are those symbols on the far left of the results table? The dashes (-), asterisks (*), and pluses (+) all represent something important as well. These are called **tally codes** and live in the left margin (the following is straight from the [ntpq man page](https://linux.die.net/man/8/ntpq)):
 
 * `space reject`: The peer is discarded as unreachable, synchronized to this server (synch loop) or outrageous synchronization distance.
 * `x falsetick`: The peer is discarded by the intersection algorithm as a falseticker.
@@ -124,5 +124,3 @@ I have personally seen in far too many places where the number of NTP sources ha
 Not one, not two, not even three NTP sources is technically good enough. Use an absolute minimum of four, period. I encourage you to use more if you can but do not go overboard. ntp.chrisshort.net (the output from its `ntpq -p` is used above) is intentionally using a higher number of servers and peers to keep timing consistent on somewhat less than great hardware.
 
 There is so much more that I could write about NTP. It is a truly fascinating protocol that has such a rich history. I encourage you to be aware of NTP and time in your day-to-day work. I also highly recommend researching more about NTP while I work on a follow-up to this piece.
-
-Banner Photo Credit: [Matteo Ianeselli](https://commons.wikimedia.org/wiki/User:Ianezz) via [Wikimedia Commons](http://commons.wikimedia.org/)

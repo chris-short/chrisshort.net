@@ -37,7 +37,7 @@ I happen to be someone that finds themselves setting up new systems for myself o
 * [Postman](https://www.getpostman.com/)
 * [Mercurial](https://www.mercurial-scm.org/)
 * [VirtualBox](https://www.virtualbox.org/wiki/Downloads)
-* [Vagrant](https://www.vagrantup.com/downloads.html)
+* [Vagrant](https://www.vagrantup.com/downloads)
 * [SourceTree](https://www.sourcetreeapp.com/) - I am using this less and less these days but still want it around
 * [Firefox](https://www.mozilla.org/en-US/firefox/new/)
 * [Chrome Canary](https://www.google.com/chrome/browser/canary.html)
@@ -63,7 +63,7 @@ I happen to be someone that finds themselves setting up new systems for myself o
 
 **From the CLI:**
 
-* [Ansible](http://docs.ansible.com/ansible/intro_installation.html#latest-releases-via-pip)
+* [Ansible](https://docs.ansible.com/ansible/latest/installation_guide/intro_installation.html#installing-and-upgrading-ansible-with-pip)
 * [csshx](https://github.com/brockgr/csshx) - Need to open twenty SSH sessions at once and execute the same commands in all of them?
 * [nmap](https://nmap.org/book/install.html#inst-svn)
 * [openssl](https://www.openssl.org/source/)

@@ -13,22 +13,17 @@ image = "/nc-veterans-oral-history-program/chris-short-qatar-firing-range.jpg"
 
 +++
 
+{{< carbon >}}
+
 As part of a North Carolina State Archives initiative to obtain oral histories of veterans I volunteered to be interviewed for the [North Carolina Veterans Oral History Collection](https://archives.ncdcr.gov/researchers/collections/military-collections/veterans-oral-history-program). I was interviewed by Matthew Peek, Military Collection Archivist for the North Carolina Department of Natural and Cultural Resources (later referred to as **MP**).
 
 The interview was well worth the time it took to coordinate and conduct it. I would encourage all North Carolina veterans to contact Matthew and provide their unique story for preservation.
 
-
-
 This picks up where my [NC State Archives Interview Part 1](/nc-veterans-oral-history-program/nc-vets-oral-history-interview-1/) left off. I had just been cleared to return to Langley Air Force Base the days following 9/11 after one of my best friend's funeral.
 
-<audio controls>
-  <source src="https://cache.chrisshort.net/file/cache-chrisshort-net/nc-veterans-oral-history-interview-2.mp3" type="audio/mpeg">
-Your browser does not support the audio element but you can download it as an MP3.
-</audio>
+{{< audio nc-veterans-oral-history-interview-2.mp3 >}}
 
 Also available as an [MP3 download](https://cache.chrisshort.net/file/cache-chrisshort-net/nc-veterans-oral-history-interview-2.mp3)
-
-{{< carbon >}}
 
 **MP:** So you get on base.
 
@@ -424,4 +419,4 @@ So he'd fly in on a Blackhawk, these guys would show up in their suburban's, or 
 
 **CS:** Yeah, I ran into him, literally.
 
-Check back next week for [North Carolina Veterans Oral History Part 3](/nc-vets-oral-history-interview-3/) where we discuss coming home, my long thoracic nerve injury, transitioning out of the military, and the Department of Veterans Affairs.
+Check back next week for [North Carolina Veterans Oral History Part 3](/nc-veterans-oral-history-program/nc-vets-oral-history-interview-3/) where we discuss coming home, my long thoracic nerve injury, transitioning out of the military, and the Department of Veterans Affairs.

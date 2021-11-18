@@ -24,7 +24,7 @@ I was reading through Wired magazine and saw a Windows 10 ad. If you've turned o
 
 {{< carbon >}}
 
-And so on... ([here's the full ad if you really want to see it](https://cache.chrisshort.net/file/cache-chrisshort-net/win10_ad.jpg)). But, there is one big thing wrong with this marketing approach and Microsoft actually says it right on the ad:
+And so on... ([here's the full ad if you really want to see it](/img/posts/win10_ad.jpg)). But, there is one big thing wrong with this marketing approach and Microsoft actually says it right on the ad:
 
 ![The Fine Print](https://cache.chrisshort.net/file/cache-chrisshort-net/win10_ad_zoom_optimized.png#center)
 
