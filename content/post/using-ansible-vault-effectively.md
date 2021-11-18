@@ -48,13 +48,13 @@ Previously, I've given a one-liner on how to [Grep Multiple Ansible Vault Files]
 
 Ansible Vault files, at first blush, seem a little cumbersome to work with. But, the good folks at Ansible gave us `vault_password_file`.
 
-> [**vault\_password\_file**](http://docs.ansible.com/ansible/intro_configuration.html#vault-password-file) Configures the path to the Vault password file as an alternative to specifying --vault-password-file on the command line
+> [**vault\_password\_file**](https://docs.ansible.com/ansible/latest/reference_appendices/config.html#default-vault-password-file) Configures the path to the Vault password file as an alternative to specifying --vault-password-file on the command line
 
 vault\_password\_file is a file with your Ansible Vault password in it. For example: `~/.vault` is a valid place for a vault\_password\_file. **Your vault\_password\_file should be outside of any public repository and only readable/writable by you**. You can specify vault\_password\_file as a command line argument:
 
 `ansible-vault edit --vault-password-file ~/.vault BARF.yml`
 
-You can define vault\_password\_file in your [Ansible Configuration file](http://docs.ansible.com/ansible/intro_configuration.html) and never have to use `--vault-password-file` nor be prompted for the password on the CLI (you will see an error if the vault\_password\_file does not exist).
+You can define vault\_password\_file in your [Ansible Configuration file](https://docs.ansible.com/ansible/latest/reference_appendices/config.html) and never have to use `--vault-password-file` nor be prompted for the password on the CLI (you will see an error if the vault\_password\_file does not exist).
 
 I have taken this a step further and created some helper scripts so the various Ansible Vault commands can be run quickly and easily. You can find the [ansible-vault-helpers on Github](https://github.com/chris-short/ansible-vault-helpers) or [download them as a zip file](https://github.com/chris-short/ansible-vault-helpers/archive/master.zip).
 

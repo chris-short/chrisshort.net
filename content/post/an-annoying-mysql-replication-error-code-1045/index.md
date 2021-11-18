@@ -22,7 +22,7 @@ Last_IO_Error: error connecting to master 'repl@blah.local:3306' - retry-time: 6
 
 {{< carbon >}}
 
-Let me look up [MySQL error code 1045](https://dev.mysql.com/doc/refman/5.6/en/error-messages-server.html#error_er_access_denied_error):
+Let me look up [MySQL error code 1045](https://web.archive.org/web/20161118213427/https://dev.mysql.com/doc/refman/5.6/en/error-messages-server.html#error_er_access_denied_error):
 
 {{< highlight bash >}}
 Error: 1045 SQLSTATE: 28000 (ER_ACCESS_DENIED_ERROR)

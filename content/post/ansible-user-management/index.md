@@ -72,7 +72,7 @@ The Ansible tasks are fairly simple but there was one user (snowflake) that did 
 
 {{< carbon >}}
 
-**SECURITY NOTE**: Best practice would be to set all these accounts to have random passwords and force the users to change them upon login. However, the assumption was made that the users we were speaking of for this use case were setting their passwords the instant they logged in. Please reference "[How do I generate crypted passwords for the user module?](http://docs.ansible.com/ansible/faq.html#how-do-i-generate-crypted-passwords-for-the-user-module)" for details on creating passwords for use with Ansible.
+**SECURITY NOTE**: Best practice would be to set all these accounts to have random passwords and force the users to change them upon login. However, the assumption was made that the users we were speaking of for this use case were setting their passwords the instant they logged in. Please reference "[How do I generate crypted passwords for the user module?](https://docs.ansible.com/ansible/latest/reference_appendices/faq.html#how-do-i-generate-encrypted-passwords-for-the-user-module)" for details on creating passwords for use with Ansible.
 
 {{< highlight yaml >}}
 ---

@@ -13,22 +13,17 @@ image = "/nc-veterans-oral-history-program/chris-short-cyber-transport.jpg"
 
 +++
 
+{{< carbon >}}
+
 As part of a North Carolina State Archives initiative to obtain oral histories of veterans I volunteered to be interviewed for the [North Carolina Veterans Oral History Collection](https://archives.ncdcr.gov/researchers/collections/military-collections/veterans-oral-history-program). I was interviewed by Matthew Peek, Military Collection Archivist for the North Carolina Department of Natural and Cultural Resources (later referred to as **MP**).
-
-
 
 The interview was well worth the time it took to coordinate and conduct it. I would encourage all North Carolina veterans to contact Matthew and provide their unique story for preservation.
 
 This picks up where [North Carolina Veterans Oral History Interview Part 2](/nc-veterans-oral-history-program/nc-vets-oral-history-interview-2/) left off. I was in the throes of Operation Iraqi Freedom at the Central Command Forward Headquarters in Qatar and the major combat operations are winding down.
 
-<audio controls>
-  <source src="https://cache.chrisshort.net/file/cache-chrisshort-net/nc-veterans-oral-history-interview-3.mp3" type="audio/mpeg">
-Your browser does not support the audio element but you can download it as an MP3.
-</audio>
+{{< audio nc-veterans-oral-history-interview-3.mp3 >}}
 
 Also available as an [MP3 download](https://cache.chrisshort.net/file/cache-chrisshort-net/nc-veterans-oral-history-interview-3.mp3)
-
-{{< carbon >}}
 
 **CS:** So... Yeah, we're... You know, we go through this whole war effort and they get to the point where it's like, all right, the major combat operations are over, we're still there, you know, at some point in time we're talking about sustaining the mission. And that's not what our unit was designed to do. Our unit was designed to come in, set up stuff, pull out. We knew this was an unusual circumstance and this was going to be a little longer than normal, but we still needed to go back and become the national command authority asset that we were. So, there was a lot of talk of, well, you have to hit these certain benchmarks, and we have to do this, we have to do that, we have to bring people in – hire people, like contractors, to come do this job. So that obviously takes time.
 
