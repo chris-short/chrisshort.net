@@ -14,6 +14,6 @@ As part of a North Carolina State Archives initiative to obtain oral histories o
 
 The interview was well worth the time it took to coordinate and conduct it. I would encourage all North Carolina veterans to contact the North Carolina Historian and provide their unique story for preservation.
 
-{{< audio https://cache.chrisshort.net/file/cache-chrisshort-net/MilColl_OH_1103_Christopher_B_Short_Interview.mp3 >}}
+{{< audio MilColl_OH_1103_Christopher_B_Short_Interview.mp3 >}}
 
 Also available as an [MP3 download](https://cache.chrisshort.net/file/cache-chrisshort-net/MilColl_OH_1103_Christopher_B_Short_Interview.mp3). The entire 2.5 hour interview is broken up into three parts below complete with transcripts.
