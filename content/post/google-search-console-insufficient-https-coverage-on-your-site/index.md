@@ -31,7 +31,7 @@ I've been reading more SEO-related content lately as I've been trying to grow th
 
 ## "A page **must** be served over HTTPS to be eligible for Good page experience status"
 
-If you're not serving your site over [HTTPS](https://developers.google.com/search/docs/advanced/security/https), you're going to have a harder time getting good results on Google Search Results Pages (SERPs). Everyone wants to be on the front page of Google. There are [many jokes about how the second page of Google search results is akin to being thrown into an abyss](https://knowyourmeme.com/memes/google-page-two). I could make a joke about how SEO content is nothing but a series of links to pages with a series of additional links to other pages, all of which you must consume and apply to get to the first page of Google.
+If you're not serving your site over [HTTPS](https://developers.google.com/search/docs/advanced/security/https), you're going to have a harder time getting good results on Google Search Results Pages (SERPs). Everyone wants to be on the front page of Google. There are many jokes about how the second page of Google search results is akin to being thrown into an abyss. I could make a joke about how SEO content is nothing but a series of links to pages with a series of additional links to other pages, all of which you must consume and apply to get to the first page of Google.
 
 ![HTTPS is vitally important for good search engine results](/img/posts/page-experience-signals-https-failing.webp "HTTPS is vitally important for good search engine results. But, this warning is not helpful.")
 
