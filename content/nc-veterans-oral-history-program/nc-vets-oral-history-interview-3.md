@@ -430,3 +430,5 @@ And at that point, I knew I'm not going to appeal this. And I remember walking b
 **MP:** And thank you for your service.
 
 **CS:** No problem. Any time.
+
+The entire series is linked here: [North Carolina Veterans Oral History Program](nc-veterans-oral-history-program/)
