@@ -387,6 +387,4 @@ I go and I wake up my ex-wife, I'm like, "Hey two planes just hit the World Trad
 
 **CS:** Yeah, I mean, given my rank, they... People needed experts to solve problems quickly. I'm not going to say I was an expert at the time, but I could solve problems quickly. So...
 
-Check back next week for North Carolina Veterans Oral History Part 2 where we talk about post-9/11 and Operation Iraqi Freedom.
-
-Check back next week for [North Carolina Veterans Oral History Part 3](/nc-vets-oral-history-interview-2/) where we discuss coming home, my long thoracic nerve injury, transitioning out of the military, and the Department of Veterans Affairs.
+Check back next week for [North Carolina Veterans Oral History Part 2](/nc-veterans-oral-history-program/nc-vets-oral-history-interview-2/) where we talk about post-9/11 and Operation Iraqi Freedom.
