@@ -23,9 +23,9 @@ This list has grown significantly since this talk. Find the latest version at [d
 
 This site does take [pull requests](https://github.com/chris-short/devopsreadme.xyz).
 
-Slides: [DevOps README.MD](https://speakerdeck.com/chrisshort/devops-readme-dot-md)
+Slides: [DevOps README](https://speakerdeck.com/chrisshort/devops-readme-dot-md)
 
-Blog Post: [All Things Open 2017: DevOps README.md](/all-things-open-2017-devops-readme/)
+Blog Post: [All Things Open 2017: DevOps README](/all-things-open-2017-devops-readme/)
 
 Source: [DevOps README.md—Chris Short](https://youtu.be/Ibnj-YZTypU)
 

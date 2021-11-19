@@ -10,7 +10,7 @@ title = "North Carolina Veterans Oral History Interview Part 3"
 aliases = ["nc-vets-oral-history-interview-3"]
 [cover]
 image = "/nc-veterans-oral-history-program/chris-short-cyber-transport.jpg"
-
+caption = "Talking with Airmen at Pope AFB"
 +++
 
 {{< carbon >}}
