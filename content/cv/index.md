@@ -24,7 +24,15 @@ Results producing DevOps profession turned developer and community advocate. Clo
 
 ## Professional Experience
 
-### Senior Developer Advocate, Amazon Elastic Kubernetes Service — Detroit, MI — Oct 2021 to Present
+### Senior Developer Advocate, Amazon Web Services Kubernetes — Detroit, MI — Oct 2021 to Present
+
+### Cloud Native Ambassador, Cloud Native Computing Foundation (CNCF) — Detroit, MI — Jan 2018 to Present
+
+* [GitOpsCon NA 2021 Program Committee member](https://www.credly.com/badges/734ed249-c1ed-460a-9cae-bd36c1b6a5e7/public_url), multiple times speaking at CloudNativeCon + KubeCon, and countless talks at DevOps, Kubernetes, and Cloud Native events
+* Stood up Kubernetes Upstream Marketing team, an approver of tweets from K8sContributors, acquired hardware for streaming community meetings to lessen the load on others
+* [KubeWeekly](https://www.cncf.io/kubeweekly/) curator, Kubernetes YouTube channel admin, Contributor Summit workshop facilitator, Community Meeting and webinar moderator, and SIG-Contributor Experience member
+* Advocates for Kubernetes and the cloud native ecosystem through the acclaimed and independent newsletter, [DevOps'ish](https://devopsish.com/). Grown subscriber base to 5600+ subscribers since Dec 2016
+* With the help of other Kubernetes community members, created the first-ever [#KubeKhan](https://chrisshort.net/2018-learnings-2019-expectations/#kubekhan) at KubeCon Seattle 2018; brought together community members in a come as you are environment
 
 ### Principal Technical Marketing Manager, Red Hat — Detroit, MI — Aug 2019 to Oct 2021
 
@@ -46,14 +54,6 @@ Results producing DevOps profession turned developer and community advocate. Clo
 * Speaker and content creator for multiple public and private Red Hat events over the globe; enabled field to sell and market Ansible to customers intelligently
 * Instrumental in bringing community projects into the Red Hat Ansible Automation suite of tools; helped establish standards for testing and acceptance as well as scoring of Ansible content
 * Selected by leadership, peers as Red Hat Product Marketing Awards — Best New Red Hatter 2019
-
-### Cloud Native Ambassador, Cloud Native Computing Foundation (CNCF) — Detroit, MI — Jan 2018 to Present
-
-* Evangelizes Kubernetes ecosystem through independent newsletter [DevOps'ish](https://devopsish.com/); concentration on open source, cloud native, and DevOps; 3300+ subscribers, 48%+ open rate, 22%+ click rate since Dec 2016
-* [KubeWeekly](https://www.cncf.io/kubeweekly//) curator, Kubernetes YouTube channel admin, Contributor Summit workshop facilitator, Community Meeting and webinar moderator, and SIG-ContribEx member
-* Advocating for [Kubernetes Operators with Ansible](https://ansible.com/operators/) both within Red Hat as well as evangelizing their use externally through targeted conversations and wider content strategy
-* Built [rak8s](https://github.com/rak8s/rak8s/): A usable, open source project to demonstrate Ansible being used to stand up a Raspberry Pi Kubernetes cluster
-* With the help of other Kubernetes community members, created the first ever [#KubeKhan](https://chrisshort.net/2018-learnings-2019-expectations/#kubekhan) at KubeCon Seattle 2018; brought together community members in a come as you are environment
 
 ### Senior DevOps Advocate, SJ Technologies — Detroit, MI — Jan 2018 to Jun 2018
 
