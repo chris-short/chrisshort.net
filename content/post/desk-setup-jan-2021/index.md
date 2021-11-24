@@ -16,7 +16,7 @@ There’s a metaphor out there that you should write about it if you say, are as
 
 I've wanted to write this article since last October. But, things hadn't stabilized. For example, I've broken about half a dozen mic arms since May 2020 (of ALL price ranges). I also knew I would be moving operations from our unfinished basement up two stories to our guest bedroom (now my office). I wanted to make sure the setup was durable. I've proven it's portable as I've helped produce remote meetings for my son Max's school. But now is the time to write this up. Why? Because I tweeted last week.
 
-{{< tweet 1352290404239101953 >}}
+{{< tweet user="ChrisShort" id="1352290404239101953" >}}
 
 *Note: ChrisShort.net may earn compensation for sales from links on this post through [affiliate programs](/terms#affiliate-link-policy).*
 
