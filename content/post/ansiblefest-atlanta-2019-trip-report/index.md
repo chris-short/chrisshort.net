@@ -12,7 +12,7 @@ image = "/ansiblefest-atlanta-2019-trip-report/AnsibleFest-2019.png"
 
 Background: I started using Ansible in 2014 at a datacenter company. I implemented Ansible to deploy our customer portal, which contained hundreds of war files, load balancer changes, database schema changes, etc. I've used Ansible at every position since. I joined Red Hat as part of the Ansible team in [June 2018](/joining-ansible-team-at-red-hat/). I moved over to the OpenShift team in [June 2019](/joining-forces-with-openshift/). I'm a long time Ansible user, advocate, and fan. I work for Red Hat, [these views and opinions are solely](/terms/) though.
 
-{{< twitter 1176478273691443201 >}}
+{{< tweet user="ChrisShort" id="1176478273691443201" >}}
 
 I attended AnsibleFest Atlanta this year. It was a fantastic event. The Ansible team made the Atlanta Hilton into a living and breathing Ansible experience. From the lobby as attendees walked into the hotel to the Open Lounge (showroom floor). It was a very Ansible event.
 
@@ -46,7 +46,7 @@ The overall reception was VERY positive. Immediately after the opening session, 
 
 The largest single workshop held at AnsibleFest this year was: Building Kubernetes Operators with Ansible Hands On Workshop. This is the output of a lot of folks' work. Matt, Melvin, Michael, and I took a room full of Ansible folks and brought them up to speed on [Kubernetes Operators](https://kubernetes.io/docs/concepts/extend-kubernetes/operator/) and writing [Operators with Ansible](https://ansible.com/operators/).
 
-{{< twitter 1177242933415895042 >}}
+{{< tweet user="ChrisShort" id="1177242933415895042" >}}
 
 The room was packed! We had 100 folks register and some extra space for some late registrants. From "show of hands" polling of the room, 25% of the room had used Kubernetes in some capacity. Four of those folks were OpenShift customers. Another four had written Go before. The entire room had familiarity with Ansible (as expected).
 
@@ -54,6 +54,6 @@ The joy of watching eyes light up and lightbulbs come on when explaining that a 
 
 The reception to the workshop and its content was very positive. The team did a truly wonderful job! This tweet made my day.
 
-{{< twitter 1177316355953102848 >}}
+{{< tweet user="LeMatty" id="1177316355953102848" >}}
 
 All the artifacts from the Building Kubernetes Operators with Ansible Hands-on Workshop can be found at [http://workshop.coreostrain.me/](http://workshop.coreostrain.me/)
