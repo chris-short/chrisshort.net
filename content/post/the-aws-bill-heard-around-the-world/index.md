@@ -39,7 +39,7 @@ Not on this Saturday morning, nope. June 2020's AWS bill was a heart palpitation
 
 ### The panic
 
-{{< tweet 1279406322837082114 >}}
+{{< tweet user="ChrisShort" id="1279406322837082114" >}}
 
 I immediately began having a panic attack. As I took the mental steps to mitigate the onset of the panic attack, I started forming a battle plan. Yes, I can switch back to emergency mode, like back in the old days, when something would go bang or boom, and I'd run towards it (it's not helpful overall, trust me).
 
@@ -84,17 +84,17 @@ Oh, another 4,400 requests the next day... Sweet, baby Jesus. Oh, but you served
 
 Apparently, when you tweet something crazy af, like a $2700 AWS bill, it gets a lot of attention on a quiet holiday morning. A quarter-million people saw the tweet and a third of them interacted with it. It was enough attention that the AWS Support Twitter account was on it before, [my friend](https://twitter.com/QuinnyPig/status/1186319925901586432) and [cloud economist](https://www.duckbillgroup.com/), Corey Quinn.
 
-{{< tweet 1279424879566163970 >}}
+{{< tweet user="ChrisShort" id="1279424879566163970" >}}
 Praise Twitter for at least its ability to draw attention to things. I am not sure this would've ended up as well as it did without it.
 
-{{< tweet 1279446759664611329 >}}
+{{< tweet user="ChrisShort" id="1279446759664611329" >}}
 I forwarded the bill to Corey almost immediately after seeing it at pre-dawn west coast time. I am forever thankful to Corey for his analysis. When he was ready, Corey sent me a list of things he needed to do an analysis (instead, I created him a regular IAM account with the proper perms 😉 and yes I cleaned up after).
 
 Corey encouraged me to apply a bucket policy that would only allow Cloudflare IP addresses to access anything from the bucket. The theory here is that someone could have been bypassing Cloudflare somehow. But, thankfully, [Cloudflare publishes their IP blocks](https://www.cloudflare.com/ips/) and they don't change all that often. The Cloudflare support article, [Configuring an Amazon Web Services static site to use Cloudflare](https://support.cloudflare.com/hc/en-us/articles/360037983412-Configuring-an-Amazon-Web-Services-static-site-to-use-Cloudflare#77nNxWyQf69T1a78gPlCi9) gives you an example bucket policy to do exactly that. This should become a standard practice for folks. However, it wouldn't have mattered in this case; more on that later.
 
 Corey Quinn's thread on the topic covers what happened on the AWS side pretty well:
 
-{{< tweet 1280280727133642753 >}}
+{{< tweet user="QuinnyPig" id="1280280727133642753" >}}
 
 * "...it's almost entirely due to us-east-2 data transfer out..."
 * "Now, what caused this? Nobody knows!"

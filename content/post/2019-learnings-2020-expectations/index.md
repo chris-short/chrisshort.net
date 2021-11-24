@@ -94,7 +94,7 @@ I'm not looking to move to a new company any time soon. But, IBM's acquisition o
 
 Nothing hurt as bad as the VA telling me there was nothing else they could do for me. I altogether jettisoned VA care in all forms immediately after that. It was clear to me I was going to end up a statistic of the worst kind had I not. This was a hard fought lesson and decision though. I had many friends reach out to help. But, few were as impactful as a Kubernetes community member walking me through Red Hat's mental health care coverage. They likely saved my life. With that being said, I'm fearful of the eventual merging of IBM and Red Hat benefits. Once that happens, I will likely need to seek an enormous pay raise or find better health care elsewhere. It's an impossible situation I will find myself in until health care policy in the US changes. But, I come from the VA system, so I don't know if a national health care system would be better than what we have now. That's the kind of shit that makes me have to take meds to sleep at night.
 
-{{< tweet 1212189481849303041 >}}
+{{< tweet user="ChrisShort" id="1212189481849303041" >}}
 
 ## DevOps'ish
 
