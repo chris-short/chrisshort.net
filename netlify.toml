@@ -8,7 +8,7 @@ HUGO_ENV = "production"
 HUGO_ENABLEGITINFO = "false"
 
 [context.split1]
-command = "curl -L 'https://cdn.carbonads.com/carbon.js?serve=CK7D52QU&placement=chrisshortnet' -o assets/js/extended/carbon.js || hugo --minify --enableGitInfo"
+command = "curl -L 'https://cdn.carbonads.com/carbon.js?serve=CK7D52QU&placement=chrisshortnet' -o assets/js/extended/carbon.js || hugo --gc --minify --enableGitInfo"
 
 [context.split1.environment]
 HUGO_VERSION = "0.89.3"
