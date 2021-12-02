@@ -30,6 +30,13 @@ Date: 2021-10-23
 
 > For new folks in the CNCF space, becoming a contributor may sound daunting, and even overwhelming. But guess what? There are tons of ways to contribute apart from code. 5 members of the Contibex Marketing working group (Kunal, Bart, Chris, Kaslin, and Matt) are all participating and contributing through positive attitudes, documentation, networking, videos, drawings, and even raps. They want to share the welcoming spirit of the CNCF where no contribution is too small, and everyone will have something to share. Contributors' stories must be heard, and that's where the upstream marketing team comes in. (This proposal is for the Students' track)
 
+## KubeCon + CloudNativeCon Daily Wrap Up: Tuesday — KubeCon + CloudNativeCon NA 2021
+
+Date: 2021-10-12  
+[**Watch Now**](/video/kcna-2021-tuesday-wrap-up/)
+
+> The CNCF's definitive interactive media experience for anyone wanting to learn, grow, and collaborate with others in the Cloud Native community from anywhere in the world. CloudNative.tv is currently community run shows live streaming on Twitch with a variety of hosts show casing different aspects of the cloud native community.
+
 ### How You Can Tell Your Kubernetes Contributor Story with These Tips - Matt Broberg & Chris Short, Red Hat; Kaslin Fields, Google; Peeyush Gupta, DigitalOcean — KubeCon + CloudNativeCon EU 2021
 
 Date: 2021-05-07  
