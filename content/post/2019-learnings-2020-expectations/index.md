@@ -1,6 +1,6 @@
 +++
 author = "Chris Short"
-categories = ["Philosophy", "2019", "2020"]
+categories = ["Philosophy", "GitOps", "2019", "2020"]
 date = 2020-01-01T07:00:00Z
 description = "Chris Short looks back at 2019 and looks ahead to 2020."
 draft = false
