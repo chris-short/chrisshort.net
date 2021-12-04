@@ -19,7 +19,7 @@ aliases = [
 
 ## History
 
-In the early 2000s, the work I did around [Search Engine Optimization](/categories/seo/) (SEO). I'd help clients with their search engine rankings. Back then, folks cared about all the search engines. Nowadays, there's only one search engine people care enough to write about, Google.
+In the early 2000s, I did a lot of side hustle work around [Search Engine Optimization](/categories/seo/) (SEO). I'd help clients with their search engine rankings. Back then, folks cared about all the search engines. Nowadays, there's only one search engine people care enough to write about, Google.
 
 As [Matthew Broberg so eloquently put on Twitter](https://twitter.com/mbbroberg/status/1385987372223979521) the other day, "Google is both the monopoly and trend setter. It's a good target either way you look at it." If you own a website and you care about it enough that you want people to look at it, do some SEO basics and [add your site](https://support.google.com/webmasters/answer/34592?hl=en) to the [Google Search Console](https://search.google.com/search-console).
 
