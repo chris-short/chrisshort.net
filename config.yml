@@ -22,7 +22,7 @@ Params:
     homeInfoParams:
         Title: Chris Short
         Content: >
-            Kubernetes | Sr. Dev 🥑 AWS Kubernetes | CNCF Ambassador + KubeWeekly | devopsish.com | Disabled Veteran | He/Him/His | Views solely mine
+            Kubernetes | Senior Dev Advocate, AWS Kubernetes and GitOps | CNCF Ambassador + KubeWeekly | devopsish.com | Disabled Veteran | He/Him/His | Views solely mine
 
     socialIcons:
         - name: email
