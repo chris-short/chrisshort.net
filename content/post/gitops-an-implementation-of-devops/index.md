@@ -2,7 +2,7 @@
 author = "Chris Short"
 categories = ["2021", "GitOps"]
 date = 2021-10-25T07:00:00Z
-description = ""
+description = "GitOps is a prescriptive way of implementing DevOps. You will not succeed in using GitOps if you haven't embraced some DevOps philosophies along the way."
 draft = false
 slug = "gitops-an-implementation-of-devops"
 tags = []
