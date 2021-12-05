@@ -26,7 +26,7 @@ The second-ever [GitOpsCon](https://events.linuxfoundation.org/gitopscon-north-a
 
 {{< eo_signup >}}
 
-[OpenGitOps](https://opengitops.dev/), a group I'm a part of, guided by the [GitOps Working Group](https://github.com/gitops-working-group/gitops-working-group) (also part of), recently published version 1 of the [GitOps Principles](https://opengitops.dev/#principles). I want to frame those principles in how DevOps-oriented teams work under the premise of GitOps. If you want to talk about how multi-discipline DevOps is, the GitOps Working Group falls [CNCF TAG App-Delivery](https://github.com/cncf/tag-app-delivery). I'll probably write something about that later.
+[OpenGitOps](https://opengitops.dev/), a group I'm a part of, guided by the [GitOps Working Group](https://github.com/gitops-working-group/gitops-working-group) (also part of), recently published version 1 of the [**GitOps Principles**](https://opengitops.dev/#principles). I want to frame those principles in how DevOps-oriented teams work under the premise of GitOps. If you want to talk about how multi-discipline DevOps is, the GitOps Working Group falls [CNCF TAG App-Delivery](https://github.com/cncf/tag-app-delivery). I'll probably write something about that later.
 
 > Declarative: A system managed by GitOps must have its desired state expressed declaratively.
 
