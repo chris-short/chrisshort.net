@@ -74,3 +74,6 @@ public/
 
 # VSCode
 .vscode/
+
+# Local Netlify folder
+.netlify
