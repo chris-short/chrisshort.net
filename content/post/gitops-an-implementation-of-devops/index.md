@@ -15,7 +15,7 @@ imagealt = "Open GitOps logo"
 
 {{< carbon >}}
 
-*This post does not reflect the views of OpenGitOps or the GitOps Working Group. These are my opinions from year of experience in DevOps.*
+*This post does not reflect the views of OpenGitOps or the GitOps Working Group. These are my opinions from years of experience in DevOps and in working with GitOps.*
 
 I realized the other day; I talk a lot about [GitOps](https://devopsish.com/tags/gitops/) in my newsletter, [DevOps'ish](https://devopsish.com/). But I haven't written much at all about it here or anywhere else. [There's a reason for that](https://www.youtube.com/playlist?list=PLaR6Rq6Z4IqfGCkI28cUMbNhPhsnj4nq3). But now is time to put some words on this site about GitOps and how I view it in relation to [DevOps](https://devopsish.com/what-is-devops/).
 
@@ -43,7 +43,7 @@ Most importantly, though, is the immutability of your system. No more logging in
 
 GitOps plays no games. It will pull the defined state from the source as soon as changes are detected. Pulled automatically means that you'll have code running on your systems, watching for changes to your repositories, and applying those changes once merged into the specified branch. The pull model is imperative in GitOps. Your approvals happen as part of the commit process. Deploys occur immediately once merged into the trunk. If the system is out of whack and in distress, you can safely roll back to the last known good state.
 
-Enabling a sole source of truth for approvals, change management, and automation is a compelling benefit of GitOps. Pulling automatically allows the change management process to exist as a part of the approvals leading up to the system being placed into the declared state. This function also forces teams to think about safeties that need to exist for good deployment practices for their environments.
+Enabling a sole source of truth for approvals, change management, and automation is a compelling benefit of GitOps. Pulling automatically allows the change management process to exist as a part of the approvals leading to the system being placed into the declared state. This function also forces teams to think about safeties that need to exist for good deployment practices for their environments.
 
 > Continuously Reconciled: Software agents continuously observe actual system state and attempt to apply the desired state.
 
