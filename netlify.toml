@@ -15,7 +15,7 @@ HUGO_VERSION = "0.89.3"
 HUGO_ENV = "production"
 
 [context.deploy-preview]
-command = "curl -L 'https://cdn.carbonads.com/carbon.js?serve=CK7D52QU&placement=chrisshortnet' -o assets/js/extended/carbon.js || hugo -DF -b $DEPLOY_PRIME_URL"
+command = "hugo -DF -b $DEPLOY_PRIME_URL"
 [context.deploy-preview.environment]
 HUGO_VERSION = "0.89.3"
 # Skip all post processing in deploy previews,
@@ -24,7 +24,7 @@ HUGO_VERSION = "0.89.3"
   skip_processing = true
 
 [context.branch-deploy]
-command = "curl -L 'https://cdn.carbonads.com/carbon.js?serve=CK7D52QU&placement=chrisshortnet' -o assets/js/extended/carbon.js || hugo -DF -b $DEPLOY_PRIME_URL"
+command = "hugo -DF -b $DEPLOY_PRIME_URL"
 [context.branch-deploy.environment]
 HUGO_VERSION = "0.89.3"
 
