@@ -50,8 +50,12 @@ Enabling a sole source of truth for approvals, change management, and automation
 
 Continuous reconciliation goes hand-in-hand with pulling automatically. For over a decade now, we've known that [continuous deployment](https://en.wikipedia.org/wiki/Continuous_deployment) (CD) is the place we all want to be or get to on our DevOps journeys. Our systems do the heavy lifting for us once changes merge. This fully automatic functionality allows for the speed and agility DevOps groups desire. It intends to ensure that changes are iterative on the more extensive system. This often leads to more frequent, smaller, and more manageable changes occurring in the system. Increasing feature velocity while decreasing the potential risk of changes to the system is a DevOps lesson learned.
 
+### Change Challenge
+
 This automation is often where we find the most resistance in DevOps. Letting go of manual deploys, "we've always done it this way," and changing processes is often met with a lot of resistance. People resist change by nature. But, last I checked, there's a talent shortage, especially in the tech sector. A continuous ask is to do more with less. This necessitates tried and true automation practices.
 
 Building a GitOps pipeline will help organizations scale up quicker. You must build safeties into the process. Those safeties are what will help you build trust in automation. We cannot afford to have artisanal, hand-crafted deployments anymore. As an industry, we must reduce toil and improve our ability to be nimble.
 
-GitOps, as an implementation of DevOps, will take you to something near DevOps nirvana rather quickly. The more you use it, the more folks will tap into it. Thus, creating this beautiful flywheel of automation. This flywheel will increase automation adoption with proper care and feeding in your environments, which will allow your teams to focus on more problems as they arise in the future. Then automate them away.
+## Conclusion
+
+[GitOps](https://opengitops.dev/), as an implementation of DevOps, will take you to something near DevOps nirvana rather quickly. The more you use it, the more folks will tap into it. Thus, creating this beautiful flywheel of automation. This flywheel will increase automation adoption with proper care and feeding in your environments, which will allow your teams to focus on more problems as they arise in the future. Then automate them away.
