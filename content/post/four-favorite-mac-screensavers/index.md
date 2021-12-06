@@ -20,7 +20,7 @@ Screensavers, you say? They’re more art than function these days. But, why not
 
 ## fliqlo
 
-![Fliqlo](/img/posts/fliqlo.png#center)
+![Fliqlo](/img/posts/fliqlo.webp#center)
 
 Fliqlo is my new, go-to screensaver of choice for macOS. fliqlo is a simple yet elegant screensaver, Fashioned after old-school flip clocks, that will keep you updated continuously.
 
