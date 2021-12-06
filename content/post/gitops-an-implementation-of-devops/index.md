@@ -58,4 +58,4 @@ Building a GitOps pipeline will help organizations scale up quicker. You must bu
 
 ## Conclusion
 
-[GitOps](https://opengitops.dev/), as an implementation of DevOps, will take you to something near DevOps nirvana rather quickly. The more you use it, the more folks will tap into it. Thus, creating this beautiful flywheel of automation. This flywheel will increase automation adoption with proper care and feeding in your environments, which will allow your teams to focus on more problems as they arise in the future. Then automate them away.
+[GitOps](https://opengitops.dev/), as an implementation of [DevOps](https://devopsish.com/), will take you to something near DevOps nirvana rather quickly. The more you use it, the more folks will tap into it. Thus, creating this beautiful flywheel of automation. This flywheel will increase automation adoption with proper care and feeding in your environments, which will allow your teams to focus on more problems as they arise in the future. Then automate them away.

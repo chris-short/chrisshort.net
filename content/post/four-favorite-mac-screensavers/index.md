@@ -20,7 +20,7 @@ Screensavers, you say? They’re more art than function these days. But, why not
 
 ## fliqlo
 
-![Fliqlo](/img/posts/fliqlo.png#center)
+![Fliqlo](/img/posts/fliqlo.webp#center)
 
 Fliqlo is my new, go-to screensaver of choice for macOS. fliqlo is a simple yet elegant screensaver, Fashioned after old-school flip clocks, that will keep you updated continuously.
 
@@ -48,12 +48,12 @@ Note: As this is older software that hasn't been updated in *years*, I'm not sur
 
 ![Aerial](/img/posts/aerial-screensaver.gif#center)
 
->[Aerial](https://github.com/JohnCoates/Aerial) is a Mac screensaver based on the new Apple TV screensaver that displays the Aerial movies Apple shot over New York, San Francisco, Hawaii, China, etc. Starting with version 2.0.0, it also includes videos shared by Joshua Michaels & Hal Bergman!
+>[Aerial](https://aerialscreensaver.github.io/) is a Mac screensaver based on the new Apple TV screensaver that displays the Aerial movies Apple shot over New York, San Francisco, Hawaii, China, etc. Starting with version 2.0.0, it also includes videos shared by Joshua Michaels & Hal Bergman!
 >
 >Aerial is completely open source, so feel free to contribute to its development.
 
 This screensaver is cool af. For years, the Apple TV came with these beautiful flyover screensavers that were just wonderful. Finally, someone came along and grabbed them out of the Apple TV Developers Kit and made them available on GitHub for everyone to enjoy.
 
-[Aerial](https://github.com/JohnCoates/Aerial) is a wonderfully maintained and curated collection of Apple created, extravagant flyovers of places and dives through things. There is even a [Linux port of Aerial](https://github.com/graysky2/xscreensaver-aerial/). It's a real delight to have it on the Apple TV I use to monitor [OpenShift.tv](https://openshift.tv). It's a friendly reminder that there's a much bigger world out there.
+[Aerial](https://aerialscreensaver.github.io/) is a wonderfully maintained and curated collection of Apple created, extravagant flyovers of places and dives through things. There is even a [Linux port of Aerial](https://github.com/graysky2/xscreensaver-aerial/). It's a real delight to have it on the Apple TV I use to monitor [OpenShift.tv](https://openshift.tv). It's a friendly reminder that there's a much bigger world out there.
 
 But, a gentle reminder that if you don't have a graphics card, you're going to be eating a lot of CPU with your screensaver.
