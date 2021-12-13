@@ -1,6 +1,6 @@
 +++
 author = "Chris Short"
-categories = ["SEO", "2021"]
+categories = ["Search Engine Optimization", "SEO", "2021"]
 date = 2021-04-26T07:00:00Z
 description = "Jumping back into Search Engine Optimization because I felt forced to by Google Search Console after hours of troubleshooting why it was reporting HTTPS issues"
 draft = false
