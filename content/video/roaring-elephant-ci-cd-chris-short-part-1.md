@@ -1,6 +1,6 @@
 +++
 author = "Chris Short"
-categories = ["Video", "Interview", "DevOps"]
+categories = ["Video", "Interviews", "DevOps"]
 date = 2019-10-12T07:00:00Z
 description = "Roaring Elephant Podcast: Chris Short from Red Hat to discuss Continuous Integration and Continuous Deployment."
 draft = false
