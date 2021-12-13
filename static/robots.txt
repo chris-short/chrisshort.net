@@ -1,2 +1,6 @@
 User-Agent: *
 Sitemap: https://chrisshort.net/sitemap.xml
+Disallow: /copyright/
+Disallow: /terms/
+Disallow: /privacy/
+Disallow: /cookie-policy/
