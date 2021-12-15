@@ -11,6 +11,11 @@ title = "Interviews"
 
 {{< eo_signup >}}
 
+## ✨#adventcado of the day✨
+
+Date: 2021-12-15  
+Source: [Developer Avocados - Chris Short](https://avocados.dev/adventcado/2021/12/15/chris-short/)
+
 ## Roaring Elephant: CI/CD with Chris Short (2/2)
 
 Date: 2020-10-12  
