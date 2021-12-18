@@ -13,7 +13,7 @@ aliases = [
 
 ## Tagline
 
-[Kubernetes](https://kubernetes.dev) | Sr. Dev 🥑 [AWS Kubernetes](https://aws.amazon.com/eks/) | [CNCF Ambassador](https://www.cncf.io/people/ambassadors/) + [KubeWeekly](https://www.cncf.io/kubeweekly/) | [devopsish.com](https://devopsish.com/) | [Disabled Veteran](/long-thoracic-nerve-palsy/) | [He/Him/His](https://pronoun.is/he) | [Views solely mine](https://chrisshort.net/terms/#disclaimer)
+[Kubernetes](https://kubernetes.dev) | Senior Dev Advocate, [AWS Kubernetes](https://aws.amazon.com/eks/) and GitOps | [CNCF Ambassador](https://www.cncf.io/people/ambassadors/) + [KubeWeekly](https://www.cncf.io/kubeweekly/) | [devopsish.com](https://devopsish.com/) | [Disabled Veteran](/long-thoracic-nerve-palsy/) | [He/Him/His](https://pronoun.is/he) | [Views solely mine](https://chrisshort.net/terms/#disclaimer)
 
 ## Brief Bio
 
