@@ -7,7 +7,9 @@ draft = false
 slug = "privacy"
 title = "Privacy Policy"
 aliases = [
-    "privacy"
+    "privacy",
+    "cookie-policy",
+    "cookies"
 ]
 
 +++
@@ -89,10 +91,6 @@ Where we transfer personal information from a non-EEA country to another country
 **Complaints**: If you believe that we have breached a relevant data protection law and wish to make a complaint, please contact us using the details below and provide us with full details of the alleged breach. We will promptly investigate your complaint and respond to you, in writing, setting out the outcome of our investigation and the steps we will take to deal with your complaint. You also have the right to contact a regulatory body or data protection authority in relation to your complaint.
 
 **Unsubscribe**: To unsubscribe from our e-mail database or opt-out of communications (including marketing communications), please contact us using the details below or opt-out using the opt-out facilities provided in the communication.
-
-## Cookies
-
-We use "cookies" to collect information about you and your activity across our site. A cookie is a small piece of data that our website stores on your computer, and accesses each time you visit, so we can understand how you use our site. This helps us serve you content based on preferences you have specified. Please refer to our [Cookie Policy](/cookie-policy/) for more information.
 
 ## Business transfers
 
