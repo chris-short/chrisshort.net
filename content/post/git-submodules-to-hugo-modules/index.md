@@ -33,6 +33,8 @@ Open your existing Hugo project that's using a git submodule. Create a new branc
     rm .gitmodules
     rm -rf theme*
 
+Note: You'll need to clear out the submodule from `.git/config` as well.
+
 ## Step Two: Change Theme in config.toml
 
 This section assumes you're using TOML. If you're using YAML, reference the Hugo docs for the right syntax. TOML users, your theme line should look like this:
@@ -54,6 +56,8 @@ Next run these commands (I know these seem a little redundant but, I don't think
     hugo mod init github.com/<YOUR_USERNAME>/<YOUR_PROJECT>
     hugo mod get -u
     go mod tidy
+
+NOTE: This is YOUR git repos URI
 
 ## Last Step: Disable Post Processing in netlify.toml
 
