@@ -53,6 +53,14 @@ Params:
     ShowBreadCrumbs: true
     ShowPostNavLinks: true
 
+imaging:
+  resampleFilter: box
+  anchor: smart
+  bgColor: '#ffffff'
+  disableLatLong: true
+  exif:
+    includeFields: ''
+
 privacy:
     disqus:
         disable: true
