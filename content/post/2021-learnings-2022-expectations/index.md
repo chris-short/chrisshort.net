@@ -1,7 +1,7 @@
 +++
 author = "Chris Short"
 categories = ["Philosophy", "2021", "2022"]
-date = 2021-01-08T07:00:00Z
+date = 2022-01-08T07:00:00Z
 description = "Chris Short looks back at 2021 and looks ahead to 2022."
 draft = false
 slug = "2021-learnings-2022-expectations"
