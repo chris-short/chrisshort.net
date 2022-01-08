@@ -5,7 +5,7 @@ date = 2022-01-08T07:00:00Z
 description = "Chris Short looks back at 2021 and looks ahead to 2022."
 draft = false
 slug = "2021-learnings-2022-expectations"
-tags = []
+tags = ["live streaming", "open source", "Arm", "serverless", "privacy", "Kubernetes", "Open Source Surety", "containers", "supply chain", "community", "AWS", "Facebook", "cluster", "Artifact Hub", "pandemic", "working from home", "CNCF", "Intel", "compute", "developer", "Docker", "Los Angeles", "Kabul", "infrastructure", "DevOps", "code", "chips", "COVID-19", "nuclear", "iPhone", "Nvidia", "Restream", "Streamyard"]
 title = "2021 Learnings, 2022 Expectations"
 [cover]
 image = "/2021-learnings-2022-expectations/hopefully.jpg"
