@@ -13,20 +13,11 @@ title = "Testing Certificate Chains in Go"
 This talk was derived from an opensource.com article I wrote in April 2017, [Golang to the rescue: Saving DevOps from TLS turmoil](https://opensource.com/article/17/4/testing-certificate-chains-34-line-go-program). Presented at [GopherCon 2017](https://gophercon.com/) as a Lightning Talk. Source for the talk is available on [GitHub](https://github.com/chris-short/testing-certificate-chains-in-go).
 
 ### **Introduction**
-Chris Short
-
-* Manager of DevOps at [Bankrate](http://www.bankrate.com/)
-* [opensource.com](https://opensource.com/users/chrisshort) and [DZone](https://dzone.com/users/2868764/chrisshort.html) Contributor
-* Contributed to [The Open Organization Guide to IT Culture Change](https://opensource.com/open-organization/resources/culture-change)
-* [DevOpsDays](https://www.devopsdays.org/) Speaker and Organizer
-* [DevOps'ish](https://devopsish.com/)
-* [ChrisShort.net](https://chrisshort.net)
-* [@ChrisShort](https://twitter.com/ChrisShort)
 
 Notes:
 
 * Hi! I'm Chris!
-* I manage DevOps activities at Bankrate (we're hiring)
+* I manage do X at Y (we're hiring)
 * I work in the DevOps space
 * I contribute content a few places
 * I run a DevOps Newsletter called DevOps'ish if you're into those please check it out

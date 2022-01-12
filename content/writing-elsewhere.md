@@ -1,11 +1,20 @@
 +++
 author = "Chris Short"
 date = 2018-08-14T21:25:00Z
-description = "Publications Chris Short has Contributed to or written for others"
+description = "Writing that Chris Short has done outside of his own web properties"
 draft = false
-slug = "publications"
-title = "Publications"
+slug = "writing-elsewhere"
+title = "Writing Elsewhere"
+aliases = [
+    "publications"
+]
 +++
+
+## [Kubernetes is Moving on From Dockershim: Commitments and Next Steps](https://kubernetes.io/blog/2022/01/07/kubernetes-is-moving-on-from-dockershim/)
+
+**Authors**: Sergey Kanzhelev (Google), Jim Angel (Google), Davanum Srinivas (VMware), Shannon Kularathna (Google), Chris Short (AWS), Dawn Chen (Google)
+
+> Kubernetes is removing dockershim in the upcoming v1.24 release. We're excited to reaffirm our community values by supporting open source container runtimes, enabling a smaller kubelet, and increasing engineering velocity for teams using Kubernetes...
 
 ## [How to choose a SIG as a non-code Kubernetes contributor](https://www.kubernetes.dev/blog/2021/07/09/how-to-choose-a-sig-as-a-non-code-kubernetes-contributor/)
 
@@ -59,17 +68,9 @@ Find a better way to run your scheduled tasks efficiently and reliably.
 
 These inspiring technology leaders are creating positive change and making a difference in the industry every day.
 
-## [Docker (Inc.) Is Dead](https://dzone.com/articles/docker-is-dead)
-
-2017 was a great year for containers, but the future is grim for the company that made them popular. See what happened to Docker last year and what's in store for 2018.
-
 ## [Tips and resources for learning Kubernetes](https://opensource.com/article/17/12/resources-learning-kubernetes)
 
 Regardless of how you decide to begin, it's time to start learning Kubernetes.
-
-## [Kubernetes: Getting Started](https://dzone.com/articles/kubernetes-getting-started)
-
-Getting started with Kubernetes might seem a bit daunting at first. Fortunately, this collection of guides, tips, and advice will help out.
 
 ## [Who drives culture in DevOps?](https://opensource.com/article/17/12/who-drives-culture-devops)
 
@@ -83,54 +84,14 @@ Whether you're building up your DevOps team or just starting your organization's
 
 Announcing Dear DevOps and a focus on the intersection of open source and the DevOps community
 
-## [Testing Certificate Chains in Go](https://dzone.com/articles/testing-certificate-chains-in-go)
-
-After seeing how Go helps test certificate chains, you might just be a Gopher too! Read about the benefits, then check out the open source code on GitHub.
-
 ## [5 laws every aspiring DevOps engineer should know](https://opensource.com/open-organization/17/5/5-devops-laws)
 
 Good engineers become great engineers when they follow these rules.
-
-## [Good SysAdmin to DevOps Engineer in Six Months](https://dzone.com/articles/quotgood-sysadmin-to-devops-engineer-in-six-months)
-
-How does a SysAdmin transition to DevOps engineer in under a year? These types of questions aren't easy, so let's dive right in.
 
 ## [Golang to the rescue: Saving DevOps from TLS turmoil](https://opensource.com/article/17/4/testing-certificate-chains-34-line-go-program)
 
 Find out about a use case that created a need for testing certificate chains, appropriate web server security settings, and the Go code used for testing.
 
-## [The Dark Side of DevOps](https://dzone.com/articles/the-dark-side-of-devops)
-
-The Dark Side doesn't just exist in Star Wars. In this post, we take a look at a rarely-visited side of the DevOps world — no breathing apparatus needed.
-
-## [What the Military Taught Me About DevOps](https://dzone.com/articles/what-the-military-taught-me-about-devops)
-
-Failing fast isn't unique to DevOps but it's an incredibly important strategy. Practicing failures and mitigating resulting issues is a standard function of DevOps teams.
-
-## [How to Find EC2 Instances That Are Missing Tags](https://dzone.com/articles/find-ec2-instances-that-are-missing-tags)
-
-jq is a lightweight and flexible command-line JSON processor. Yeah, I know..another third-party tool. However, it is well worth it.
-
 ## [Improve your DevOps security game with Ansible Vault](https://opensource.com/article/16/12/devops-security-ansible-vault)
-
-## [Empathy: The Emerging Art in DevOps](https://dzone.com/articles/empathy-the-emerging-art-in-devops-1)
-
-According to Chris Short, the business will not believe in DevOps unless DevOps believes in the business. DevOps must empathize with the business.
-
-## [NTP: I Need You to Go Ahead and Love It](https://dzone.com/articles/ntp-i-need-you-to-go-ahead-and-love-it)
-
-It's about time we show NTP some love. This handy protocol has been around for quite a long while and is essential for synchronizing clocks across your network.
-
-## [The Demise of Google Fiber and Internet Under Dirt](https://dzone.com/articles/the-demise-of-google-fiber-and-internet-under-dirt)
-
-Google Fiber is no longer expanding its installation in the 10 markets they service.
-
-## [User Management With Ansible](https://dzone.com/articles/user-management-with-ansible)
-
-For the quick and dirty requirement to add specific (and intelligent) users, Chris Short believes that this Ansible role is a good approach.
-
-## [Technical Debt and the Ongoing Battle Against It](https://dzone.com/articles/technical-debt-and-the-ongoing-battle-against-it)
-
-Chris Short explains how to find a balance between good work and adequate time spent in order to successfully reduce costs.
 
 ## [Tangible Intangibles: Questions to Ask While Being Interviewed](https://medium.com/@chrisshort/tangible-intangibles-questions-to-ask-while-being-interviewed-c13887bb9854)
