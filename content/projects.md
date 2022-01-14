@@ -33,7 +33,7 @@ Analytics: <https://app.usefathom.com/share/acmuyzfw/devopsish.com>
 {{< eksnews >}}
 
 Newsletter: [EKS News](https://eks.news)  
-Source: <https://github.com/chris-short/eks.news>  
+Source: <https://github.com/aws/eks.news>  
 Analytics: <https://app.usefathom.com/share/tthzhbss/eks.news>
 
 ## Kubernetes README
