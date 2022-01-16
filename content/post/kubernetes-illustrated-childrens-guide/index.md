@@ -30,7 +30,7 @@ From the original [The Illustrated Children's Guide to Kubernetes](https://kuber
 
 {{< speakerdeck cf618e05077149bfa85e5c1a381497c4 >}}
 
-If you're unable to few this embed, please [open the Illustrated Children's Guide PDF](https://cache.chrisshort.net/file/cache-chrisshort-net/pdf/Illustrated-Childrens-Guide-to-Kubernetes.pdf).
+If you're unable to few this embed, please [open the Illustrated Children's Guide PDF](https://cdn.chrisshort.net/file/chrisshort/pdf/Illustrated-Childrens-Guide-to-Kubernetes.pdf).
 
 ## Phippy Goes to the Zoo
 
@@ -38,7 +38,7 @@ Follow the tale of Phippy and her niece Zee as they take an educational trip to 
 
 {{< speakerdeck fe011be572bb4ef1969f9d017e85da3e >}}
 
-If you're unable to few this embed, please [open the Phippy Goes to the Zoo PDF](https://cache.chrisshort.net/file/cache-chrisshort-net/pdf/Phippy-Goes-To-The-Zoo.pdf).
+If you're unable to few this embed, please [open the Phippy Goes to the Zoo PDF](https://cdn.chrisshort.net/file/chrisshort/pdf/Phippy-Goes-To-The-Zoo.pdf).
 
 ## Reading it to Max
 

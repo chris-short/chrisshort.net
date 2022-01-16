@@ -24,13 +24,13 @@ Notes:
 * This talk was derived from an opensource.com article I wrote in April 2017
 
 ### **But Most Importantly**
-![Chris Short in Gopher Form](https://cache.chrisshort.net/file/cache-chrisshort-net/testing-certificate-chains-in-go/gopherize-me-chris-short.png#center)
+![Chris Short in Gopher Form](https://cdn.chrisshort.net/file/chrisshort/testing-certificate-chains-in-go/gopherize-me-chris-short.png#center)
 
 I'm many things
 But Most Importantly, I'm a **Gopher**
 
 ### **Not Too Long Ago in a Place of Work Far, Far Away...**
-![Star Wars Scroll Y'all](https://cache.chrisshort.net/file/cache-chrisshort-net/testing-certificate-chains-in-go/backstory.png#center)
+![Star Wars Scroll Y'all](https://cdn.chrisshort.net/file/chrisshort/testing-certificate-chains-in-go/backstory.png#center)
 
 * My team of merry DevOps'ers inherited an application
 * A third-party built the app a few years ago
@@ -39,7 +39,7 @@ But Most Importantly, I'm a **Gopher**
 * The certificates were about to expire!
 
 ### ...
-![This Sound Familiar?](https://cache.chrisshort.net/file/cache-chrisshort-net/testing-certificate-chains-in-go/bill-murray-toaster.gif#center)
+![This Sound Familiar?](https://cdn.chrisshort.net/file/chrisshort/testing-certificate-chains-in-go/bill-murray-toaster.gif#center)
 
 * Oh!
 * And the only environment this application was in was production
@@ -47,7 +47,7 @@ But Most Importantly, I'm a **Gopher**
 * And it was a pet project of someone in senior leadership
 
 ### **Let's Talk Certificate Chains**
-![This Sound Familiar?](https://cache.chrisshort.net/file/cache-chrisshort-net/testing-certificate-chains-in-go/2-chainz-tell-em.png#center)
+![This Sound Familiar?](https://cdn.chrisshort.net/file/chrisshort/testing-certificate-chains-in-go/2-chainz-tell-em.png#center)
 2 Chainz (we can talk rap music later)
 
 * Let's Talk Certificate Chains for a minute
@@ -58,7 +58,7 @@ But Most Importantly, I'm a **Gopher**
 * The Internets are watching
 
 ### **This is the Goal**
-![This is the Goal](https://cache.chrisshort.net/file/cache-chrisshort-net/testing-certificate-chains-in-go/chrisshort_net-qualys.png#center)
+![This is the Goal](https://cdn.chrisshort.net/file/chrisshort/testing-certificate-chains-in-go/chrisshort_net-qualys.png#center)
 
 * This is the goal
 * If you are going to bother to encrypt your traffic you better do it right
@@ -71,7 +71,7 @@ But Most Importantly, I'm a **Gopher**
 * The certificate arrives but usually doesn't have an intermediate key in chain because... vendors be vendoring
 
 ### **NBD ... OMG**
-![This is the Goal](https://cache.chrisshort.net/file/cache-chrisshort-net/testing-certificate-chains-in-go/ssl-vendors-suck.png#center)
+![This is the Goal](https://cdn.chrisshort.net/file/chrisshort/testing-certificate-chains-in-go/ssl-vendors-suck.png#center)
 
 * No big deal
 * Let's go to the vendor's documentation...
@@ -81,14 +81,14 @@ But Most Importantly, I'm a **Gopher**
 * Cryptography is hard but implementing cryptographic best practices might be even harder
 
 ### ...
-![Dispicable](https://cache.chrisshort.net/file/cache-chrisshort-net/testing-certificate-chains-in-go/mj-annoyed.gif#center)
+![Dispicable](https://cdn.chrisshort.net/file/chrisshort/testing-certificate-chains-in-go/mj-annoyed.gif#center)
 : What do we do?
 : Look at statistical probabilities and start shuffling keys around?
 : The series of games you have to play with openssl or nginx or some other method aren't intuitive
 : Do you know how hard this is to explain to people?
 
 ### **So What Does Any Good Engineer Do?**
-![Go Build by Ashley McNamara](https://cache.chrisshort.net/file/cache-chrisshort-net/testing-certificate-chains-in-go/go_build.png#center)
+![Go Build by Ashley McNamara](https://cdn.chrisshort.net/file/chrisshort/testing-certificate-chains-in-go/go_build.png#center)
 
 * We needed a tool that would fail if the certificate chain provided was incorrect
 * We wanted a lightweight tool that could be publicly accessible
@@ -104,7 +104,7 @@ But Most Importantly, I'm a **Gopher**
 * `log` has three helper functions: `print`, `fatal`, and `panic`
 * Output from the package goes to `stderr`
 * Used a `fatal` error to get the web server to stop and log any issue
-![Hugging Gophers by Ashley McNamara](https://cache.chrisshort.net/file/cache-chrisshort-net/testing-certificate-chains-in-go/Hugging_Gophers.png#center)
+![Hugging Gophers by Ashley McNamara](https://cdn.chrisshort.net/file/chrisshort/testing-certificate-chains-in-go/Hugging_Gophers.png#center)
 
 * Let me just say the Go standard library is amazing!
 * `log` is designed beautifully
@@ -116,7 +116,7 @@ But Most Importantly, I'm a **Gopher**
 * Identifies preferred cipher suites and elliptic curves used during handshakes
 * This is the package that handles connections securely
 
-![Gopher Star Wars by Ashley McNamara](https://cache.chrisshort.net/file/cache-chrisshort-net/testing-certificate-chains-in-go/GOPHER_STAR_WARS.png#center)
+![Gopher Star Wars by Ashley McNamara](https://cdn.chrisshort.net/file/chrisshort/testing-certificate-chains-in-go/GOPHER_STAR_WARS.png#center)
 
 * The crypto/tls package is a splendid implementation of the RFC
 * "It just works."
@@ -127,7 +127,7 @@ But Most Importantly, I'm a **Gopher**
 * ListenAndServeTLS provides the desired certificate checking functionality
 * "If the certificate is signed by a certificate authority, the certFile should be the concatenation of the server's certificate, any intermediates, and the CA's certificate."
 
-![Gopher Inclusion by Ashley McNamara](https://cache.chrisshort.net/file/cache-chrisshort-net/testing-certificate-chains-in-go/GOPHER_INCLUSION.png#center)
+![Gopher Inclusion by Ashley McNamara](https://cdn.chrisshort.net/file/chrisshort/testing-certificate-chains-in-go/GOPHER_INCLUSION.png#center)
 
 * `net/http` has the `ListenAndServeTLS` function and it's awesome
 * It fails if your certs aren't up to snuff or ordered properly
@@ -139,7 +139,7 @@ But Most Importantly, I'm a **Gopher**
 - `mux` has a function that creates an HTTP server with headers and content (Hello World!)
 - `cfg` brings in all the TLS bits seen in a solid web server config
 - `srv` puts the pieces together and defines what port to listen on
-![Gopher Share by Ashley McNamara](https://cache.chrisshort.net/file/cache-chrisshort-net/testing-certificate-chains-in-go/GOPHER_SHARE.png#center)
+![Gopher Share by Ashley McNamara](https://cdn.chrisshort.net/file/chrisshort/testing-certificate-chains-in-go/GOPHER_SHARE.png#center)
 
 ### **Fail Spectacularly**
 * I ❤️ DevOps
@@ -149,14 +149,14 @@ But Most Importantly, I'm a **Gopher**
 * Also logs a fatal error if certificate is not valid
 * Fails Fast
 
-![Nuclear Weapons Test](https://cache.chrisshort.net/file/cache-chrisshort-net/testing-certificate-chains-in-go/nuclear-weapons-test-explosion.jpg#center)
+![Nuclear Weapons Test](https://cdn.chrisshort.net/file/chrisshort/testing-certificate-chains-in-go/nuclear-weapons-test-explosion.jpg#center)
 
 * I love DevOps and I embrace failure
 * The code allows us to fail quickly if the certificates aren't in accordance with RFC
 * Stuff in the standard library JUST WORKS
 
 ### **It's Open Source!**
-![ssl-tester on GitHub](https://cache.chrisshort.net/file/cache-chrisshort-net/testing-certificate-chains-in-go/ssl-tester.png#center)
+![ssl-tester on GitHub](https://cdn.chrisshort.net/file/chrisshort/testing-certificate-chains-in-go/ssl-tester.png#center)
 [https://github.com/chris-short/ssl-tester](https://github.com/chris-short/ssl-tester)
 
 * The code is open-sourced
@@ -164,7 +164,7 @@ But Most Importantly, I'm a **Gopher**
 * Throw a star my way if you feel like it
 
 ### **It Works!**
-![ssl-tester Output](https://cache.chrisshort.net/file/cache-chrisshort-net/testing-certificate-chains-in-go/ssl-tester-output.png#center)
+![ssl-tester Output](https://cdn.chrisshort.net/file/chrisshort/testing-certificate-chains-in-go/ssl-tester-output.png#center)
 
 * Yes it Works
 * Yes you can access it right now!
@@ -172,7 +172,7 @@ But Most Importantly, I'm a **Gopher**
 
 
 ### **No. It Really Works!**
-![ssl-tester Output](https://cache.chrisshort.net/file/cache-chrisshort-net/testing-certificate-chains-in-go/ssltest-ssl-tester-chrisshort-net.png#center)
+![ssl-tester Output](https://cdn.chrisshort.net/file/chrisshort/testing-certificate-chains-in-go/ssltest-ssl-tester-chrisshort-net.png#center)
 
 * You can even scan it with external tools!
 
@@ -184,7 +184,7 @@ But Most Importantly, I'm a **Gopher**
 * Can be safely deployed to any public server
 * External testing run against it for extra vetting
 
-![Gopher Mic Drop by Ashley McNamara](https://cache.chrisshort.net/file/cache-chrisshort-net/testing-certificate-chains-in-go/GOPHER_MIC_DROP.png#center)
+![Gopher Mic Drop by Ashley McNamara](https://cdn.chrisshort.net/file/chrisshort/testing-certificate-chains-in-go/GOPHER_MIC_DROP.png#center)
 
 * The tool does exactly what I need it to do and nothing more
 * It fails when the certificate chain provided is incorrect
