@@ -29,11 +29,11 @@ First, setup a [CloudFlare](https://www.cloudflare.com/a/sign-up) (you will need
 
 In your AWS Console create an S3 bucket with the URL for your new CDN (cdn.chrisshort.net is my URL for content delivery):
 
-[![AWS S3 Management Console](https://cache.chrisshort.net/file/cache-chrisshort-net/S3-Management-Console-01.png)](https://cache.chrisshort.net/file/cache-chrisshort-net/S3-Management-Console-01.png)
+[![AWS S3 Management Console](https://cdn.chrisshort.net/file/chrisshort/S3-Management-Console-01.png)](https://cdn.chrisshort.net/file/chrisshort/S3-Management-Console-01.png)
 
 Next, right-click your new bucket and select **Properties**. Make note of the **Endpoint** URL (1). Select **Enable website hosting** (2), and optionally specify index.html as a **Index Document** (3):
 
-[![AWS S3 Management Console](https://cache.chrisshort.net/file/cache-chrisshort-net/S3-Management-Console-02.png)](https://cache.chrisshort.net/file/cache-chrisshort-net/S3-Management-Console-02.png)
+[![AWS S3 Management Console](https://cdn.chrisshort.net/file/chrisshort/S3-Management-Console-02.png)](https://cdn.chrisshort.net/file/chrisshort/S3-Management-Console-02.png)
 
 This is an optional but exceedingly helpful step. You can make every object you place in your S3 bucket publicly readable by setting an [S3 Policy](http://docs.aws.amazon.com/AmazonS3/latest/dev/access-control-overview.html). This will ensure that the permissions on everything uploaded to your S3 bucket will not need to be changed upon upload.[^n]
 
@@ -41,7 +41,7 @@ This is an optional but exceedingly helpful step. You can make every object you 
 * Expand the **Permissions** section
 * Click **Add bucket policy** (the image below shows Edit bucket policy because I have already set up public readability)
 
-[![AWS S3 Management Console](https://cache.chrisshort.net/file/cache-chrisshort-net/S3-Management-Console-03.png)](https://cache.chrisshort.net/file/cache-chrisshort-net/S3-Management-Console-03.png)
+[![AWS S3 Management Console](https://cdn.chrisshort.net/file/chrisshort/S3-Management-Console-03.png)](https://cdn.chrisshort.net/file/chrisshort/S3-Management-Console-03.png)
 
 * Copy and paste the policy below and click **Save** (make sure to change YOUR\_BUCKET\_NAME to your bucket's actual name (the URL for your CDN)
 
@@ -60,15 +60,15 @@ This is an optional but exceedingly helpful step. You can make every object you 
 }
 {{< / highlight >}}
 
-[![Amazon S3 Bucket Policy Editor](https://cache.chrisshort.net/file/cache-chrisshort-net/Bucket-Policy-Editor.png)](https://cache.chrisshort.net/file/cache-chrisshort-net/Bucket-Policy-Editor.png)
+[![Amazon S3 Bucket Policy Editor](https://cdn.chrisshort.net/file/chrisshort/Bucket-Policy-Editor.png)](https://cdn.chrisshort.net/file/chrisshort/Bucket-Policy-Editor.png)
 
 Next, login to your CloudFlare account, open your DNS configuration, and add a CNAME that points to your Amazon AWS S3 Endpoint:
 
-[![CloudFlare DNS CNAME](https://cache.chrisshort.net/file/cache-chrisshort-net/DNS-CloudFlare.png)](https://cache.chrisshort.net/file/cache-chrisshort-net/DNS-CloudFlare.png)
+[![CloudFlare DNS CNAME](https://cdn.chrisshort.net/file/chrisshort/DNS-CloudFlare.png)](https://cdn.chrisshort.net/file/chrisshort/DNS-CloudFlare.png)
 
 Last we will need to setup a CloudFlare Page Rule to Cache Everything. Open your Page Rules configuration, click **Create Page Rule**, type in your CDN's URL with a trailing slash followed by a splat (For example: cdn.chrisshort.net/*). Add settings for SSL (if you want to use SSL with S3, and you should, the Flexible setting is necessary), Browser Cache TTL, Always Online, Edge Cache TTL, and the most important setting of all is Cache Level **Cache Everything**:
 
-[![CloudFlare Page Rules](https://cache.chrisshort.net/file/cache-chrisshort-net/Page-Rules-CloudFlare.png)](https://cache.chrisshort.net/file/cache-chrisshort-net/Page-Rules-CloudFlare.png)
+[![CloudFlare Page Rules](https://cdn.chrisshort.net/file/chrisshort/Page-Rules-CloudFlare.png)](https://cdn.chrisshort.net/file/chrisshort/Page-Rules-CloudFlare.png)
 
 Your new CDN is up and running. Upload objects to S3 and serve them up via CloudFlare's CDN. To confirm that the files are being cached by CloudFlare you can the following command:
 

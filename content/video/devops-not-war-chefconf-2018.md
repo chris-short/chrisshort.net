@@ -18,7 +18,7 @@ ShowTOC = false
 
 Blog Post: [ChefConf 2018: DevOps is Not War](/chefconf-2018-devops-is-not-war/)
 
-Download as [MP4](https://cache.chrisshort.net/file/cache-chrisshort-net/DevOps_is_Not_a_War-ChefConf_2018.mp4)
+Download as [MP4](https://cdn.chrisshort.net/file/chrisshort/DevOps_is_Not_a_War-ChefConf_2018.mp4)
 
 Source: [ChefConf 2018 Session: DevOps is Not a War](https://youtu.be/MDu6wL1DWY4)
 

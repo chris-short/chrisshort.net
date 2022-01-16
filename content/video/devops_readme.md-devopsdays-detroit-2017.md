@@ -27,7 +27,7 @@ Blog Post: [DevOps README.md](/devops-readme.md/)
 
 Source: [DevOpsDays Detroit 2017](https://youtu.be/hJDp6CLvTAQ?t=16m47s)
 
-Download as [MP4](https://cache.chrisshort.net/file/cache-chrisshort-net/DevOps-README.md-Chris-Short.mp4)
+Download as [MP4](https://cdn.chrisshort.net/file/chrisshort/DevOps-README.md-Chris-Short.mp4)
 
 {{< speaker >}}
 
