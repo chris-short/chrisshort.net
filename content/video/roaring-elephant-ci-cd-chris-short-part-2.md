@@ -16,7 +16,7 @@ ShowTOC = false
 
 > We're joined by Chris Short from Red Hat to discuss the ins and outs of Continuous Integration and Continuous Deployment.
 
-Download as [MP4](https://cache.chrisshort.net/file/cache-chrisshort-net/CI_CD-with-Chris-Short-2_2.mp4)
+Download as [MP4](https://cdn.chrisshort.net/file/chrisshort/CI_CD-with-Chris-Short-2_2.mp4)
 
 Source: [CI/CD with Chris Short (2/2)](https://youtu.be/gvCNHeSnglY)
 

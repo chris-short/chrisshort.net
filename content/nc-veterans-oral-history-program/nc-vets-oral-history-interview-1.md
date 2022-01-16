@@ -21,7 +21,7 @@ The interview was well worth the time it took to coordinate and conduct it. I wo
 
 {{< audio nc-veterans-oral-history-interview-1.mp3 >}}
 
-Also available as an [MP3 download](https://cache.chrisshort.net/file/cache-chrisshort-net/nc-veterans-oral-history-interview-1.mp3)
+Also available as an [MP3 download](https://cdn.chrisshort.net/file/chrisshort/nc-veterans-oral-history-interview-1.mp3)
 
 {{< carbon >}}
 

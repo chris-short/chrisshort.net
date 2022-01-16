@@ -29,7 +29,7 @@ Blog Post: [All Things Open 2017: DevOps README](/all-things-open-2017-devops-re
 
 Source: [DevOps README.md—Chris Short](https://youtu.be/Ibnj-YZTypU)
 
-Download as [MP4](https://cache.chrisshort.net/file/cache-chrisshort-net/DevOps-README.md-Chris-Short.mp4)
+Download as [MP4](https://cdn.chrisshort.net/file/chrisshort/DevOps-README.md-Chris-Short.mp4)
 
 {{< speaker >}}
 

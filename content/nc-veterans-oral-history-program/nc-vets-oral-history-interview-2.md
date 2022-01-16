@@ -23,7 +23,7 @@ This picks up where my [NC State Archives Interview Part 1](/nc-veterans-oral-hi
 
 {{< audio nc-veterans-oral-history-interview-2.mp3 >}}
 
-Also available as an [MP3 download](https://cache.chrisshort.net/file/cache-chrisshort-net/nc-veterans-oral-history-interview-2.mp3)
+Also available as an [MP3 download](https://cdn.chrisshort.net/file/chrisshort/nc-veterans-oral-history-interview-2.mp3)
 
 **MP:** So you get on base.
 
