@@ -7,7 +7,7 @@ draft = false
 tags = ["Kubernetes", "Onalytica", "report", "Red Hat", "influencer"]
 title = "Named Key Opinion Leader, Kubernetes Influencer, and (accidentally) Red Hat CEO by Onalytica"
 [cover]
-image = "/img/posts/whos-who-in-hybrid-cloud.webp"
+image = "https://c.chrisshort.net/file/chrisshort/whos-who-in-hybrid-cloud.webp"
 
 +++
 

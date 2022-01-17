@@ -8,7 +8,7 @@ tags = ["search", "search engine", "search engine optimization", "SEO", "Google 
 title = "Insufficient HTTPS coverage on your site: What does that mean?"
 ShowToc = true
 [cover]
-image = "/img/posts/your-site-has-no-urls-with-good-page-experience.webp"
+image = "https://c.chrisshort.net/file/chrisshort/your-site-has-no-urls-with-good-page-experience.webp"
 caption = "Google says a site has no URLs with HTTPS but, according to testing tools like Qualys SSL Labs, HTTPS is fine"
 aliases = [
     "google-search-console-insufficient-https-coverage-on-your-site",

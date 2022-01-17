@@ -12,7 +12,7 @@ aliases = [
     "/tmobile-sidekick-ii-review.php"
 ]
 [cover]
-image = "/img/posts/sidekick-II-open.jpg"
+image = "https://c.chrisshort.net/file/chrisshort/sidekick-II-open.jpg"
 
 +++
 

@@ -9,7 +9,7 @@ slug = "notes-on-pagerduty"
 tags = ["pagerduty", "oncall"]
 title = "Notes on PagerDuty"
 [cover]
-image = "/img/posts/PagerDuty-logo-green.png"
+image = "https://c.chrisshort.net/file/chrisshort/PagerDuty-logo-green.png"
 
 +++
 

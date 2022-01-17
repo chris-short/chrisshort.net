@@ -12,7 +12,7 @@ aliases = [
     "/interview-with-gina-elise-of-pin-ups-for-vets/"
     ]
 [cover]
-image = "/img/posts/pin-ups-for-vets.jpg"
+image = "https://c.chrisshort.net/file/chrisshort/pin-ups-for-vets.jpg"
 
 +++
 

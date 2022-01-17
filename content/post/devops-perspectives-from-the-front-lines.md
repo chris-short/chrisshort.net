@@ -9,7 +9,7 @@ slug = "devops-perspectives-from-the-front-lines"
 tags = ["DevOps", "podcast", "interviews"]
 title = "DevOps Perspectives from the Front Lines"
 [cover]
-image = "/img/posts/Cloudcast-Logo-2015-Banner-Blue.png"
+image = "https://c.chrisshort.net/file/chrisshort/Cloudcast-Logo-2015-Banner-Blue.png"
 
 +++
 

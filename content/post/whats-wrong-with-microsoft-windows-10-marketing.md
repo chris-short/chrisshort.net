@@ -10,7 +10,7 @@ tags = ["microsoft", "windows 10", "marketing"]
 title = "What's Wrong with Microsoft's Windows 10 Marketing"
 aliases = ["whats-wrong-with-microsoft-windows-10-marketing"]
 [cover]
-image = "/img/posts/win10_ad.jpg"
+image = "https://c.chrisshort.net/file/chrisshort/win10_ad.jpg"
 
 +++
 

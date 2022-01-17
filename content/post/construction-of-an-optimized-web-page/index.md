@@ -8,7 +8,7 @@ tags = ["master template", "search engine", "search engine optimization", "SEO",
 title = "Construction of an Optimized Web Page"
 ShowToc = false
 [cover]
-image = "/img/posts/constrution-of-an-optimized-web-page.jpg"
+image = "https://c.chrisshort.net/file/chrisshort/constrution-of-an-optimized-web-page.jpg"
 caption = "Construction of an Optimized Web Page"
 +++
 

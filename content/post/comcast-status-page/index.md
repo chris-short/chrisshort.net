@@ -8,7 +8,7 @@ slug = "comcast-status-page"
 tags = ["Comcast", "Comcast Business", "Xfinity", "status page", "internet", "house", "home", "network", "tech", "forced", "outage", "outages", "problem", "modem", "blame", "area", "connectivity", "wifi", "replace"]
 title = "Having a status page forced Comcast to fix my internet"
 [cover]
-image = "/img/posts/UptimeRobot_Home.webp"
+image = "https://c.chrisshort.net/file/chrisshort/UptimeRobot_Home.webp"
 
 +++
 

@@ -9,7 +9,7 @@ slug = "gitlab-annoyance-private-to-public-repos"
 tags = ["gitlab", "git", "test kitchen", "ansible", "DevOps", "vcs"]
 title = "GitLab Annoyance: Private to Public Repos"
 [cover]
-image = "/img/posts/gitlab-logo.png"
+image = "https://c.chrisshort.net/file/chrisshort/gitlab-logo.png"
 
 +++
 

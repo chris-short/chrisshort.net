@@ -9,7 +9,7 @@ slug = "lastpass-sells-out-to-logmein"
 tags = ["lastpass", "logmein", "acquisition", "security"]
 title = "LastPass Sells Out to LogMeIn"
 [cover]
-image = "/img/posts/lp_blog.png"
+image = "https://c.chrisshort.net/file/chrisshort/lp_blog.png"
 
 +++
 
