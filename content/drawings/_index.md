@@ -9,4 +9,4 @@ title = "Drawings"
 
 +++
 
-I'm a terrible artist but, if you have an idea for a technical drawing please send me a DM on Twitter ([@ChrisShort](https://twitter.com/ChrisShort)) or [e-mail](mailto:chris@chrisshort.net). Thanks!
+I'm a terrible artist but, if you have an idea for a technical drawing please feel free to reach out. Thanks!

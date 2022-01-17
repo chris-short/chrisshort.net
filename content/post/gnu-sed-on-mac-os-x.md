@@ -23,7 +23,7 @@ The differences are relatively subtle between BSD sed and GNU sed. However, most
 3. Install Xcode Command Line Tools:
 `xcode-select --install`
 
-4. Download the latest version of GNU sed from http://ftp.gnu.org/gnu/sed/
+4. Download the latest version of GNU sed from <https://ftp.gnu.org/gnu/sed/>
 
 5. Untar the sed package you just downloaded
 
