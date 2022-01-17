@@ -44,7 +44,7 @@ Your browser does not support the audio element but you can download it as an MP
 ## Devchat.tv DevOps 049: DevOps, Open Source, and OpenShift with Chris Short
 
 Date: 2020-09-25  
-Source: [DevOps 049: DevOps, Open Source, and OpenShift with Chris Short](https://devchat.tv/adventures-in-devops/devops-049-devops-open-source-and-openshift-with-chris-short/)  
+Source: [DevOps 049: DevOps, Open Source, and OpenShift with Chris Short](https://adventuresindevopspodcast.com/50)  
 Download: [MP3](https://c.chrisshort.net/file/chrisshort/ADO_049_DevOps_Open_Source_OpenShift_and_OpenShift_tv_with_Chris_Short.mp3)
 
 <audio controls>
