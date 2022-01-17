@@ -17,7 +17,7 @@ I started having some Apple Keychain issues after upgrading to Mac OS X El Capit
 
 I thought it a minor issue but it became unavoidable though once El Capitan told me it couldn't find my login Apple Keychain after logging in:
 
-![Apple Keychain](https://cdn.chrisshort.net/file/chrisshort/Fullscreen_10_5_15__11_44_AM.png)
+![Apple Keychain](https://c.chrisshort.net/file/chrisshort/Fullscreen_10_5_15__11_44_AM.png)
 
 Something related to the 'login' Apple Keychain happened during the Mac OS X El Capitan upgrade process I'm assuming and after a reboot this morning everything went to hell in a hand basket it would seem.
 
@@ -25,7 +25,7 @@ Something related to the 'login' Apple Keychain happened during the Mac OS X El 
 
 I did some searching and found that deleting all the files from ~/Library/Keychains was a workaround (Apple Keychain First Aid was unable to help). I moved them out of the way (moved to Desktop), rebooted, and still had the issue.
 
-![Keychains Folder](https://cdn.chrisshort.net/file/chrisshort/Keychains.png)
+![Keychains Folder](https://c.chrisshort.net/file/chrisshort/Keychains.png)
 
 I got on the horn with AppleCare. Their resolution was essentially the same. But, they had me completely delete everything in ~/Library/Keychains as Apple Keychain apparently has a way to follow moved keychains (slightly creepy).
 

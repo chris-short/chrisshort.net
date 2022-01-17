@@ -20,7 +20,7 @@ ShowTOC = false
 >
 > In this webinar, Steve Sloka, Sr. Member of Technical Staff at VMware, will share how to use Contour and Envoy efficiently in your Kubernetes clusters.
 
-Download as [MP4](https://cdn.chrisshort.net/file/chrisshort/Contour-High-Performance-Ingress-Controller-for-Kubernetes.mp4)
+Download as [MP4](https://c.chrisshort.net/file/chrisshort/Contour-High-Performance-Ingress-Controller-for-Kubernetes.mp4)
 
 Source: [Contour - High performance ingress controller for Kubernetes | Cloud Native Computing Foundation](https://www.cncf.io/online-programs/contour-high-performance-ingress-controller-for-kubernetes/)
 

@@ -27,7 +27,7 @@ The Yubikey Nano 4 inputs the access code into whatever field is in use when it 
 
 Install yubiswitch, run it, and open the Yubiswitch Preferences pane:
 
-![YubiSwitch Preferences](https://cdn.chrisshort.net/file/chrisshort/YubiSwitch_Preferences.png)
+![YubiSwitch Preferences](https://c.chrisshort.net/file/chrisshort/YubiSwitch_Preferences.png)
 
 The YubiKey ProductID in the Preferences field needs to be set correctly or yubiswitch simply won't work. Open a Terminal and run the following command:
 
