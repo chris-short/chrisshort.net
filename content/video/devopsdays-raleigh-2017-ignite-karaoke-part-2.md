@@ -20,7 +20,7 @@ ShowTOC = false
 
 Source: [DevOpsDays Raleigh 2017 Ignite Karoke (Part 2)](https://youtu.be/Pz2r2eDCR74)
 
-Download as [MP4](https://cdn.chrisshort.net/file/chrisshort/DevOpsDays-Raleigh-2017-Ignite-Karaoke-Part-2.mp4)
+Download as [MP4](https://c.chrisshort.net/file/chrisshort/DevOpsDays-Raleigh-2017-Ignite-Karaoke-Part-2.mp4)
 
 {{< speaker >}}
 

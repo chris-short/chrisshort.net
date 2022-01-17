@@ -24,7 +24,7 @@ Blog Post: [DevOpsDays NYC 2018 Ignite Talk on Golang](/devopsdays-nyc-2018-igni
 
 Source: [DevOpsDays NYC 2018 d2 07 IG Chris Short](https://youtu.be/EImcYoyYId0)
 
-Download as [MP4](https://cdn.chrisshort.net/file/chrisshort/Chris-Short-DevOpsDays-NYC-2018-ignite.mp4)
+Download as [MP4](https://c.chrisshort.net/file/chrisshort/Chris-Short-DevOpsDays-NYC-2018-ignite.mp4)
 
 {{< speaker >}}
 

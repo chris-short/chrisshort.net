@@ -23,7 +23,7 @@ This picks up where [North Carolina Veterans Oral History Interview Part 2](/nc-
 
 {{< audio nc-veterans-oral-history-interview-3.mp3 >}}
 
-Also available as an [MP3 download](https://cdn.chrisshort.net/file/chrisshort/nc-veterans-oral-history-interview-3.mp3)
+Also available as an [MP3 download](https://c.chrisshort.net/file/chrisshort/nc-veterans-oral-history-interview-3.mp3)
 
 **CS:** So... Yeah, we're... You know, we go through this whole war effort and they get to the point where it's like, all right, the major combat operations are over, we're still there, you know, at some point in time we're talking about sustaining the mission. And that's not what our unit was designed to do. Our unit was designed to come in, set up stuff, pull out. We knew this was an unusual circumstance and this was going to be a little longer than normal, but we still needed to go back and become the national command authority asset that we were. So, there was a lot of talk of, well, you have to hit these certain benchmarks, and we have to do this, we have to do that, we have to bring people in – hire people, like contractors, to come do this job. So that obviously takes time.
 
