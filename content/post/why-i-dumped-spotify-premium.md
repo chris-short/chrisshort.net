@@ -9,7 +9,7 @@ slug = "why-i-dumped-spotify-premium"
 tags = ["spotify", "streaming music"]
 title = "Why I Dumped Spotify Premium"
 [cover]
-image = "/img/posts/spotify.png"
+image = "https://c.chrisshort.net/file/chrisshort/spotify.png"
 
 +++
 

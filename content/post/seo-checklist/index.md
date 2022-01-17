@@ -8,7 +8,7 @@ tags = ["search engine", "search engine optimization", "SEO", "SEO checklist", "
 title = "SEO Checklist"
 ShowToc = true
 [cover]
-image = "/img/posts/seo-checklist.jpg"
+image = "https://c.chrisshort.net/file/chrisshort/seo-checklist.jpg"
 caption = "A simple, yet powerful search engine optimization (SEO) checklist"
 +++
 

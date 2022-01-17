@@ -8,7 +8,7 @@ slug = "desk-setup-jan-2021"
 tags = ["desk", "mic", "camera", "Focusrite Scarlett", "Shure", "Fully Jarvis", "lighting", "monopods", "Sigma", "Logitech", "live streaming", "mic arm", "Heil"]
 title = "Desk Setup, January 2021"
 [cover]
-image = "/img/posts/chris-short-desk-setup-jan-2021.jpg"
+image = "https://c.chrisshort.net/file/chrisshort/chris-short-desk-setup-jan-2021.jpg"
 
 +++
 

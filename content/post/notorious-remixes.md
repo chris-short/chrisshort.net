@@ -9,7 +9,7 @@ slug = "notorious-remixes"
 tags = ["notorious big", "mashup", "remix", "hip hop"]
 title = "Notorious Remixes"
 [cover]
-image = "/img/posts/The_Notorious_B.I.G._graffiti.jpg"
+image = "https://c.chrisshort.net/file/chrisshort/The_Notorious_B.I.G._graffiti.jpg"
 caption = "Photo: [Biggie smalls](https://www.flickr.com/photos/tombothetominator/5454864996/) by [Tom Check](https://www.flickr.com/people/7536455@N04)"
 
 +++
