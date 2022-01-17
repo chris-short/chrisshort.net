@@ -9,7 +9,7 @@ slug = "microsoft-opens-up-kina"
 tags = ["Microsoft", "open source", "nsa"]
 title = "Microsoft Opens Up Kinda"
 [cover]
-image = "/img/posts/Office03.png"
+image = "https://c.chrisshort.net/file/chrisshort/Office03.png"
 
 +++
 

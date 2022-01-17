@@ -45,12 +45,13 @@ Chris is now working in the [open source](https://chrisshort.net/tags/open-sourc
 
 * [DevOps'ish](https://devopsish.com)
 * [KubeWeekly](https://www.cncf.io/kubeweekly/)
+* [EKS News](https://eks.news/)
 * [Projects](/projects/)
 * [Newsletter](/newsletter/)
 * [Speaking](/speaking/)
 * [Interviews](/interviews/)
 * [Books](/books/)
-* [Publications](/publications/)
+* [Writing Elsewhere](/writing-elsewhere/)
 
 ## PGP Public Key
 

@@ -9,7 +9,7 @@ slug = "devops-hiring-guide"
 tags = ["DevOps", "job", "hiring"]
 title = "DevOps Hiring Guide"
 [cover]
-image = "/img/posts/devops_hiring_guide_lead_image.png"
+image = "https://c.chrisshort.net/file/chrisshort/devops_hiring_guide_lead_image.png"
 
 +++
 

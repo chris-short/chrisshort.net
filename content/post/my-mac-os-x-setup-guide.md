@@ -8,7 +8,7 @@ slug = "my-mac-os-x-setup-guide"
 tags = ["mac os x", "macos", "virtualbox", "tools"]
 title = "My Mac OS X Setup Guide"
 [cover]
-image = "/img/posts/macbook.jpg"
+image = "https://c.chrisshort.net/file/chrisshort/macbook.jpg"
 
 +++
 

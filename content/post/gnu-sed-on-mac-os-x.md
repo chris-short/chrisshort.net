@@ -8,7 +8,7 @@ slug = "gnu-sed-on-mac-os-x"
 tags = ["sed", "gnu", "bsd", "mac os x", "apple", "system integrity protection", "sip", "macos", "tools"]
 title = "GNU sed on Mac OS X"
 [cover]
-image = "/img/posts/hexley-darwin-vs-heckert-gnu.png"
+image = "https://c.chrisshort.net/file/chrisshort/hexley-darwin-vs-heckert-gnu.png"
 
 +++
 
@@ -23,7 +23,7 @@ The differences are relatively subtle between BSD sed and GNU sed. However, most
 3. Install Xcode Command Line Tools:
 `xcode-select --install`
 
-4. Download the latest version of GNU sed from http://ftp.gnu.org/gnu/sed/
+4. Download the latest version of GNU sed from <https://ftp.gnu.org/gnu/sed/>
 
 5. Untar the sed package you just downloaded
 
