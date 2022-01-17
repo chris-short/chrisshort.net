@@ -9,7 +9,7 @@ slug = "why-im-giving-up-content-blockers"
 tags = ["content blockers"]
 title = "Why I'm Giving Up Content Blockers"
 [cover]
-image = "/img/posts/content-blocker.png"
+image = "https://c.chrisshort.net/file/chrisshort/content-blocker.png"
 
 +++
 

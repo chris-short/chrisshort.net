@@ -9,7 +9,7 @@ slug = "my-new-home-sj-technologies"
 tags = ["job", "DevOps", "life", "impostor syndrome"]
 title = "My New Home is SJ Technologies"
 [cover]
-image = "/img/posts/sj-technologies.jpg"
+image = "https://c.chrisshort.net/file/chrisshort/sj-technologies.jpg"
 
 +++
 

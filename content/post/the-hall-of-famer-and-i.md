@@ -9,7 +9,7 @@ slug = "the-hall-of-famer-and-i"
 tags = ["richard childress", "richard childress racing", "air force", "nascar", "rcr", "hall of fame", "usaf"]
 title = "The Hall of Famer and I"
 [cover]
-image = "/img/posts/richard-childress-racing-visit-2010.jpg"
+image = "https://c.chrisshort.net/file/chrisshort/richard-childress-racing-visit-2010.jpg"
 
 +++
 

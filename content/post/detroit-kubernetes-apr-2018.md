@@ -12,7 +12,7 @@ aliases = [
     "detroit-kubernetes--kubernetes-cron-jobs"
 ]
 [cover]
-image = "/img/posts/detroit-kubernetes-apr-2018-cron-jobs.png"
+image = "https://c.chrisshort.net/file/chrisshort/detroit-kubernetes-apr-2018-cron-jobs.png"
 
 +++
 

@@ -9,7 +9,7 @@ slug = "poorly-documented-dependencies"
 tags = ["ansible", "new relic", "nodejs", "npm", "yum", "dependency", "dependencies", "tools"]
 title = "Poorly Documented Dependencies"
 [cover]
-image = "/img/posts/broken-heart.jpg"
+image = "https://c.chrisshort.net/file/chrisshort/broken-heart.jpg"
 
 +++
 

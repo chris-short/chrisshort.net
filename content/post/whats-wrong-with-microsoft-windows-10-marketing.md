@@ -10,7 +10,7 @@ tags = ["microsoft", "windows 10", "marketing"]
 title = "What's Wrong with Microsoft's Windows 10 Marketing"
 aliases = ["whats-wrong-with-microsoft-windows-10-marketing"]
 [cover]
-image = "/img/posts/win10_ad.jpg"
+image = "https://c.chrisshort.net/file/chrisshort/win10_ad.jpg"
 
 +++
 
@@ -24,7 +24,7 @@ I was reading through Wired magazine and saw a Windows 10 ad. If you've turned o
 
 {{< carbon >}}
 
-And so on... ([here's the full ad if you really want to see it](/img/posts/win10_ad.jpg)). But, there is one big thing wrong with this marketing approach and Microsoft actually says it right on the ad:
+And so on... ([here's the full ad if you really want to see it](https://c.chrisshort.net/file/chrisshort/win10_ad.jpg)). But, there is one big thing wrong with this marketing approach and Microsoft actually says it right on the ad:
 
 ![The Fine Print](https://c.chrisshort.net/file/chrisshort/win10_ad_zoom_optimized.png#center)
 

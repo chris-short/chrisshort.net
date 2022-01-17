@@ -8,7 +8,7 @@ tags = ["web site", "content", "simple", "graphics", "design", "search", "HTML",
 title = "Simple is a Good Thing"
 ShowToc = false
 [cover]
-image = "/img/posts/simple-is-a-good-thing.jpg"
+image = "https://c.chrisshort.net/file/chrisshort/simple-is-a-good-thing.jpg"
 caption = "Keep it simple"
 +++
 
