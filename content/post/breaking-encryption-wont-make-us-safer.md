@@ -9,7 +9,7 @@ slug = "breaking-encryption-wont-make-us-safer"
 tags = ["security", "encryption", "nsa"]
 title = "Breaking Encryption Won't Make Us Safer"
 [cover]
-image = "/img/posts/encryption.jpg"
+image = "https://c.chrisshort.net/file/chrisshort/encryption.jpg"
 
 +++
 

@@ -13,7 +13,7 @@ aliases = [
     "linux-and-ease-of-use.php"
     ]
 [cover]
-image = "/img/posts/Tux.png"
+image = "https://c.chrisshort.net/file/chrisshort/Tux.png"
 
 +++
 

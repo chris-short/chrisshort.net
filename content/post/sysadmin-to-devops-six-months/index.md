@@ -9,7 +9,7 @@ tags = ["DevOps", "tools"]
 title = "\"Good SysAdmin to DevOps Engineer in Six Months\""
 aliases = ["sysadmin-to-devops-six-months"]
 [cover]
-image = "/img/posts/gears-galore.jpg"
+image = "https://c.chrisshort.net/file/chrisshort/gears-galore.jpg"
 
 +++
 

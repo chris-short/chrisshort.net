@@ -9,7 +9,7 @@ slug = "recent-accomplishments"
 tags = ["DevOps", "open source"]
 title = "Recent Accomplishments"
 [cover]
-image = "/img/posts/success.jpg"
+image = "https://c.chrisshort.net/file/chrisshort/success.jpg"
 
 +++
 

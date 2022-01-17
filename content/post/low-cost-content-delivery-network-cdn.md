@@ -9,7 +9,7 @@ slug = "low-cost-content-delivery-network-cdn"
 tags = ["CDN", "Content Delivery Network", "CloudFlare", "Amazon", "S3", "AWS"]
 title = "Low Cost Content Delivery Network (CDN)"
 [cover]
-image = "/img/posts/cloudflare-s3-cdn.png"
+image = "https://c.chrisshort.net/file/chrisshort/cloudflare-s3-cdn.png"
 
 +++
 

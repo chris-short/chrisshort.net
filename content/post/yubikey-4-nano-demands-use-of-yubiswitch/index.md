@@ -9,7 +9,7 @@ slug = "yubikey-4-nano-demands-use-of-yubiswitch"
 tags = ["yubikey", "mac os x", "macos"]
 title = "Yubikey 4 Nano Demands Use of yubiswitch"
 [cover]
-image = "/img/posts/yubikey-nano.png"
+image = "https://c.chrisshort.net/file/chrisshort/yubikey-nano.png"
 
 +++
 

@@ -8,7 +8,7 @@ slug = "joining-amazon-eks"
 tags = ["Amazon", "AWS", "EKS", "developer experience", "developer advocate", "Kubernetes", "product team", "AWS bill", "orange"]
 title = "Joining Amazon Elastic Kubernetes Service team"
 [cover]
-image = "/img/posts/Amazon_Orange.webp"
+image = "https://c.chrisshort.net/file/chrisshort/Amazon_Orange.webp"
 
 +++
 

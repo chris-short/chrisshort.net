@@ -13,7 +13,7 @@ aliases = [
     "devopsdays-2018-ignite-talk-on-golang"
 ]
 [cover]
-image = "/img/posts/chris-short-sj-technologies-devopsdays-nyc.jpg"
+image = "https://c.chrisshort.net/file/chrisshort/chris-short-sj-technologies-devopsdays-nyc.jpg"
 
 +++
 

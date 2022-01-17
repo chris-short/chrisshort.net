@@ -8,7 +8,7 @@ slug = "what-i-learned-in-2017"
 tags = ["philosophy", "life", "kubernetes", "devops", "job", "Michigan"]
 title = "What I Learned in 2017"
 [cover]
-image = "/img/posts/2017.jpg"
+image = "https://c.chrisshort.net/file/chrisshort/2017.jpg"
 
 +++
 

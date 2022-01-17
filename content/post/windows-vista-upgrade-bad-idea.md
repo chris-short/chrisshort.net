@@ -12,7 +12,7 @@ aliases = [
     "windows-vista-upgrading-seems-like-a-really-bad-idea"
     ]
 [cover]
-image = "/img/posts/windows-vista.png"
+image = "https://c.chrisshort.net/file/chrisshort/windows-vista.png"
 
 +++
 I've come to the conclusion that upgrading to Windows Vista would be a horrible decision; allow me to explain why.
