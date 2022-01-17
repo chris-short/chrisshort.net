@@ -16,7 +16,7 @@ ShowTOC = false
 
 > Chris Short sits down with KubeCon speakers, attendees, and Cloud Native contributors for the KubeCon NA 2021 (Los Angeles) wrap up show on Day 0 of KubeCon.
 
-Download as [MP4](https://cdn.chrisshort.net/file/chrisshort/CloudNative.tv-KubeCon-CloudNativeCon-Daily-Wrap-Up-Tuesday.mp4)
+Download as [MP4](https://c.chrisshort.net/file/chrisshort/CloudNative.tv-KubeCon-CloudNativeCon-Daily-Wrap-Up-Tuesday.mp4)
 
 Source: [KubeCon + CloudNativeCon Daily Wrap Up: Tuesday](https://youtu.be/JOvp4o09fZs)
 
