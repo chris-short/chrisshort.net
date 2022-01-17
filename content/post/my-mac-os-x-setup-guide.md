@@ -27,7 +27,7 @@ I happen to be someone that finds themselves setting up new systems for myself o
 * [Shimo](https://www.shimovpn.com/) - Need to use more than one VPN? Shimo is for you
 * [GPG Tools](https://gpgtools.org/)
 * [MySQL Workbench](http://dev.mysql.com/downloads/workbench/) - When you login to a MySQL server and say, "WTF?!?" you might want a GUI as a safety
-* [Witch](http://manytricks.com/witch/) - CMD + TAB will never be the same
+* [Witch](https://manytricks.com/witch/) - CMD + TAB will never be the same
 * [Spectacle](https://www.spectacleapp.com/) - Position your windows where you want them
 * [Skitch](https://evernote.com/skitch/) - Screeenshot tool that saves to Evernote
 * [Dropbox](https://www.dropbox.com/)

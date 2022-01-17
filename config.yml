@@ -32,7 +32,7 @@ Params:
         - name: twitter
           url: https://twitter.com/ChrisShort
         - name: reddit
-          url: https://reddit.com/u/oaf357
+          url: https://www.reddit.com/user/oaf357
         - name: linkedin
           url: https://www.linkedin.com/in/thechrisshort
         - name: youtube
