@@ -46,7 +46,7 @@ I was already using the freemium version of [UptimeRobot](https://uptimerobot.co
 
 Note: I ended up applying the network-latency tuned profile so the Raspberry Pi could keep up with checks and the normal internet scans.
 
-[![UptimeRobot status page for my house as of 2021-09-30](/img/posts/UptimeRobot_Home.png)](https://status.chrisshort.net/788638365)
+[![UptimeRobot status page for my house as of 2021-09-30](https://c.chrisshort.net/file/chrisshort/UptimeRobot_Home.png)](https://status.chrisshort.net/788638365)
 
 ## Replace EVERYTHING
 

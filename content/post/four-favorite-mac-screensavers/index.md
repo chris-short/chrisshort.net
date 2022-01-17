@@ -20,7 +20,7 @@ Screensavers, you say? They’re more art than function these days. But, why not
 
 ## fliqlo
 
-![Fliqlo](/img/posts/fliqlo.webp#center)
+![Fliqlo](https://c.chrisshort.net/file/chrisshort/fliqlo.webp#center)
 
 Fliqlo is my new, go-to screensaver of choice for macOS. fliqlo is a simple yet elegant screensaver, Fashioned after old-school flip clocks, that will keep you updated continuously.
 
@@ -30,13 +30,13 @@ Fliqlo is my new, go-to screensaver of choice for macOS. fliqlo is a simple yet 
 
 ## Drift
 
-![Drift screensaver on macOS](/img/posts/drift_macos.jpg#center)
+![Drift screensaver on macOS](https://c.chrisshort.net/file/chrisshort/drift_macos.jpg#center)
 
 A prepackaged screensaver with macOS since Catalina Beta 3, Drift has a flowy kind of feel. It's a screensaver that makes you feel like you could be sitting in a digital ocean of 1s and 0s washing over you. It's currently the default on my daily driver because it's so relaxing.
 
 ## Padbury Clock
 
-![Padbury Clock](/img/posts/padbury-clock-screen-saver.png#center)
+![Padbury Clock](https://c.chrisshort.net/file/chrisshort/padbury-clock-screen-saver.png#center)
 
 This one is so useful to me I built a tribute site to it. [Padbury Clock](https://padbury.app/) by Robert Padbury is one of the most useful things to have as a screensaver. When you walk back to your desk, you immediately know what time it is. It's also handy in case someone is walking by and needs a reminder too.
 
@@ -46,7 +46,7 @@ Note: As this is older software that hasn't been updated in *years*, I'm not sur
 
 ## Aerial
 
-![Aerial](/img/posts/aerial-screensaver.gif#center)
+![Aerial](https://c.chrisshort.net/file/chrisshort/aerial-screensaver.gif#center)
 
 >[Aerial](https://aerialscreensaver.github.io/) is a Mac screensaver based on the new Apple TV screensaver that displays the Aerial movies Apple shot over New York, San Francisco, Hawaii, China, etc. Starting with version 2.0.0, it also includes videos shared by Joshua Michaels & Hal Bergman!
 >
