@@ -14,6 +14,8 @@ image = "/2021-learnings-2022-expectations/hopefully.jpg"
 
 Photo by [Aaron Burden](https://www.pexels.com/@aaronburden?utm_content=attributionCopyText&utm_medium=referral&utm_source=pexels) from [Pexels](https://www.pexels.com/photo/white-daisy-flower-bloom-2449543/?utm_content=attributionCopyText&utm_medium=referral&utm_source=pexels)
 
+{{< carbon >}}
+
 It's been one of the more challenging years of my life for many reasons. Please allow me the space to do some healing in this intro. I promise the juicy tech bits are [a header away](#last-years-predictions).
 
 If 2020 was hell on earth (which, while close, wasn't quite there), 2021 asked us all to hold our collective beverages. Vaccines and boosters aside, the pandemic was a staunch obstacle to tackle along with every decision. A thorn in the side of everything at this point, we tried to live as normal a life as a family can that has young, unvaccinated children amongst us. But, how do you reduce human interaction in a world that needs more humans to be human to each other? We have to figure out the answer to this question. In the face of a pandemic, government spending buoyed the economy here in the United States. Abroad other nations took stock and saw a world where everyone looked after themselves first. I am relieved that adults have returned to the White House, but I fear it might be short-lived given the stalling in Washington DC the past few weeks.
@@ -114,3 +116,5 @@ When the pandemic started, I steeled myself for a seven-year ordeal (this is why
 ## Conclusion
 
 Whatever new hell faces us in 2022, we'll be doing it together. Never forget that working as a global team will always trump working with animosity towards each other. We can do more by working openly and genuinely than we ever think possible.
+
+{{< eo_signup >}}
