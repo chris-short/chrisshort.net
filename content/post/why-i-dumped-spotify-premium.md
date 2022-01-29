@@ -6,20 +6,18 @@ description = ""
 draft = false
 ShowTOC = false
 slug = "why-i-dumped-spotify-premium"
-tags = ["spotify", "streaming music"]
+tags = ["Spotify", "streaming music service", "music", "library", "playlists", "iTunes Match"]
 title = "Why I Dumped Spotify Premium"
 [cover]
 image = "https://c.chrisshort.net/file/chrisshort/spotify.png"
 
 +++
 
-Yesterday I was reading an article by [Steve Kovach](https://plus.google.com/102737788855280055354/) about [Spotify and its six month free (ad supported) listening period coming to an end](http://www.businessinsider.com/spotify-unlimited-streaming-ends-for-some-free-users-2012-1). There seemed to be quite a bit of buzz about this ploy to lure US users in my Flipboard too. I have to admit, I was a huge proponent of [Spotify](http://www.spotify.com/us/) but more importantly I was a huge supporter of streaming music.
+{{< carbon >}}
 
-{{< eo_signup >}}
+Yesterday I was reading an article by [Steve Kovach](https://plus.google.com/102737788855280055354/) about [Spotify and its six month free (ad supported) listening period coming to an end](http://www.businessinsider.com/spotify-unlimited-streaming-ends-for-some-free-users-2012-1). There seemed to be quite a bit of buzz about this ploy to lure US users in my Flipboard too. I have to admit, I was a huge proponent of Spotify but more importantly I was a huge supporter of streaming music.
 
 Pandora was great until it became ad laden and required me to manage a series of playlists/channels just so I could get the perfect experience for whatever it was I was doing. Grooveshark was fantastic but the licensing issues and potential legal battles they could face at any moment warded me off. Spotify seemed to be that shining beacon of streaming music services that I wanted. I went all in on Spotify and signed up for a Spotify Premium account.
-
-{{< carbon >}}
 
 I was very pleased with Spotify Premium, it allowed me to create all the playlists I wanted filled with tons of music I loved. It synced those playlists with my work computer, home laptop, and my iPhone. It even allowed me to make offline playlists which I used for music I wanted to listening while working out or driving in my car as not to blow my 2 GB bandwidth cap with Verizon. The social features of Spotify were awesome too. I had a ton of interaction on Facebook thanks to Spotify (and I found new music I liked too). All was well in Spotify Premium land.
 
@@ -32,3 +30,5 @@ After getting married you look at expenses, especially entertainment dollars. I 
 The other Spotify killer was [iTunes Match](http://www.apple.com/itunes/itunes-match/); $25 a year and I could create my own 25,000 song streaming music library that would stream to any device that could run Apple software. Plus, as a bonus, it completely legitimized my music library (not that I had an illegitimate library but, to be honest, I couldn't tell you where any of the CDs I once owned are any more). Sure, iTunes Match is by no means a perfect streaming music or cloud based storage service but when you compare the cost and features of it to Spotify then you have a real competitor.
 
 I'm not trying to convince you not to drop $10 and try Spotify Premium once your free trial ends, I'm just letting you know why I loved and then decided to fall out of love with Spotify. If anything you should try it out and see how well you like it. But, for me it's time to run the Spotify uninstaller.
+
+{{< eo_signup >}}
