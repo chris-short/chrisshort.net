@@ -33,11 +33,15 @@ I was delighted to find a couple of services to help me make a move off Spotify 
 
 ![Pick where you want your playlists to sync to](https://c.chrisshort.net/file/chrisshort/select-destination.webp)
 
+## Use Cases
+
 Justin paid for a year to sync his playlist daily from his music service of choice to another party playlist on another service his friends use. These interoperability tools make it easy and affordable to move your playlists and keep different ones in sync across services if you so choose.
 
 ![Create a sync job to make sure your playlists are in sync across services](https://c.chrisshort.net/file/chrisshort/create-sync.webp)
 
 Justin's use case is one scenario you could find yourself in. My wife, Julie, is on Spotify until my new phone plan kicks in on February 7th. We share some of her playlists for Max and our nephews. On the 7th, when she moves over, she'll want these playlists too. For now, I'm keeping these shared playlists public and syncing them daily to [my Apple Music profile](https://music.apple.com/profile/TheChrisShort) so she can grab them and make them her own again. Either that or we'll spend another $4.50 and migrate everything from her Spotify account to her Apple Music account.
+
+## Conclusion
 
 Regardless, moving off Spotify has never been more accessible thanks to these services. Think of them as an IFTTT or Zapier for music streaming services. Whatever your needs are, there are ways to get what you want out of Spotify. Including their curated playlists, I like [Jazz Vibes](https://music.apple.com/us/playlist/jazz-vibes/pl.u-PDb42NBTo6mLr2), for example, into the service of your choice. If I become displeased with Apple Music in a few years (it happened before), I'll lean on these services again in the future.
 
