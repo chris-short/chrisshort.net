@@ -22,7 +22,7 @@ Params:
     homeInfoParams:
         Title: Chris Short
         Content: >
-            Kubernetes | Senior Dev Advocate, AWS Kubernetes, GitOps, EKS.news | CNCF Ambassador + KubeWeekly | devopsish.com | Disabled Veteran | Views solely mine
+            Sr. Dev Advocate, AWS Kubernetes | eks.news | Co-chair OpenGitOps | CNCF & CDF Ambassador | KubeWeekly | devopsish.com | Disabled Veteran | Views solely mine
 
     socialIcons:
         - name: email
