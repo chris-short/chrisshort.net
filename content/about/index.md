@@ -13,7 +13,7 @@ aliases = [
 
 ## Tagline
 
-Sr. Dev Advocate, [AWS Kubernetes](https://aws.amazon.com/eks/) | [eks.news](https://eks.news/) | Co-chair [OpenGitOps](https://opengitops.dev/) | [CNCF](https://www.cncf.io/people/ambassadors/) & [CDF](https://cd.foundation/ambassador-program-overview-application/community-ambassador-cohort20/) Ambassador | [KubeWeekly](https://www.cncf.io/kubeweekly/) | [devopsish.com](https://devopsish.com/) | [Disabled Veteran](/long-thoracic-nerve-palsy/) | [Views solely mine](https://chrisshort.net/terms/#disclaimer)
+Sr. Dev Advocate, [AWS Kubernetes](https://aws.amazon.com/eks/) | [EKS.news](https://eks.news/) | Co-chair [OpenGitOps](https://opengitops.dev/) | [CNCF](https://www.cncf.io/people/ambassadors/) & [CDF](https://cd.foundation/ambassador-program-overview-application/community-ambassador-cohort20/) Ambassador | [KubeWeekly](https://www.cncf.io/kubeweekly/) | [devopsish.com](https://devopsish.com/) | [Disabled Veteran](/long-thoracic-nerve-palsy/) | [Views solely mine](https://chrisshort.net/terms/#disclaimer)
 
 ## Pronouns
 
