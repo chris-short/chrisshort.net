@@ -9,7 +9,7 @@ slug = "all-things-open-2017-devops-readme"
 tags = ["DevOps", "books", "culture", "talks"]
 title = "All Things Open 2017: DevOps README"
 [cover]
-image = "/all-things-open-2017-devops-readme/chris-short-all-things-open-devops-readme.jpg"
+image = "https://shortcdn.com/file/chrisshort/chris-short-all-things-open-devops-readme.jpg"
 caption = "Chris Short speaking at All Things Open 2017"
 +++
 
@@ -25,7 +25,7 @@ This is also available at [devopsreadme.xyz](https://devopsreadme.xyz/)
 
 {{< speakerdeck 322dec59e1884ea88cb828f990f48487 >}}
 
-If you're unable to view this embed, please [All Things Open 2017 — DevOps README](https://c.chrisshort.net/file/chrisshort/pdf/DevOps_README.md_ATO2017.pdf).
+If you're unable to view this embed, please [All Things Open 2017 — DevOps README](https://shortcdn.com/file/chrisshort/pdf/DevOps_README.md_ATO2017.pdf).
 
 ## Video
 

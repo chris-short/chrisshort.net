@@ -16,7 +16,7 @@ ShowTOC = false
 
 > Chris Short, Principal Technical Marketing Manager, OpenShift at Red Hat and CNCF Ambassador sits down with Staff Developer Advocate at Google, Kelsey Hightower to discuss Kubernetes.
 
-Download as [MP3](https://c.chrisshort.net/file/chrisshort/Short-Talks-A-Conversation-with-Kelsey-Hightower-OpenShift-Commons-Briefing.mp3) or [M4A](https://c.chrisshort.net/file/chrisshort/Short-Talks-A-Conversation-with-Kelsey-Hightower-OpenShift-Commons-Briefing.m4a)
+Download as [MP3](https://shortcdn.com/file/chrisshort/Short-Talks-A-Conversation-with-Kelsey-Hightower-OpenShift-Commons-Briefing.mp3) or [M4A](https://shortcdn.com/file/chrisshort/Short-Talks-A-Conversation-with-Kelsey-Hightower-OpenShift-Commons-Briefing.m4a)
 
 Source: [Short Talks: A Conversation with Kelsey Hightower - OpenShift Commons Briefing](https://youtu.be/YYHp0oksor4)  
 

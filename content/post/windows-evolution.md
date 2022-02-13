@@ -9,7 +9,7 @@ slug = "windows-evolution"
 tags = ["windows", "microsoft", "windows xp"]
 title = "Evolution of Windows"
 [cover]
-image = "https://c.chrisshort.net/file/chrisshort/windows-xp.jpg"
+image = "https://shortcdn.com/file/chrisshort/windows-xp.jpg"
 
 +++
 

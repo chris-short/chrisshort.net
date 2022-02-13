@@ -9,7 +9,7 @@ slug = "notes-on-running-a-newsletter-a-year-of-devopsish"
 tags = ["DevOps"]
 title = "Notes on Running a Newsletter: A Year of DevOps'ish"
 [cover]
-image = "https://c.chrisshort.net/file/chrisshort/devopsish-growth-chart.png"
+image = "https://shortcdn.com/file/chrisshort/devopsish-growth-chart.png"
 
 +++
 

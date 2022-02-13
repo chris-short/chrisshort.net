@@ -70,7 +70,7 @@ While deemed "experimental" by insurance companies due to overuse, pulsed radiof
 
 ### Nerve Blocks
 
-As of late, I've been dealing with more nerve pain than muscular. After trials of Gabapentin and Lyrica, neither drug was considered useful for me. Gabapentin, at an effective dose, would overly suppress the nervous system. I was found on a couch one morning when I was supposed to be watching my son. He was fine. Everyone was safe, but it was a real scare. 
+As of late, I've been dealing with more nerve pain than muscular. After trials of Gabapentin and Lyrica, neither drug was considered useful for me. Gabapentin, at an effective dose, would overly suppress the nervous system. I was found on a couch one morning when I was supposed to be watching my son. He was fine. Everyone was safe, but it was a real scare.
 
 For whatever reason, Lyrica puts me excessively on edge and makes me very irritable. This has been consistent over two stints with the medication.
 

@@ -8,7 +8,7 @@ slug = "joining-amazon-eks"
 tags = ["Amazon", "AWS", "EKS", "developer experience", "developer advocate", "Kubernetes", "product team", "AWS bill", "orange"]
 title = "Joining Amazon Elastic Kubernetes Service team"
 [cover]
-image = "https://c.chrisshort.net/file/chrisshort/Amazon_Orange.webp"
+image = "https://shortcdn.com/file/chrisshort/Amazon_Orange.webp"
 
 +++
 
@@ -44,8 +44,7 @@ Live streaming was fun for a while. But, I was on an unsustainable path. I wante
 
 ## Didn't you have a ridiculous AWS bill recently?
 
-Yep, [sure did](/the-aws-bill-heard-around-the-world/). I believe I 
-exposed a bug between S3 and Cloudflare too. This led to many conversations with a lot of intelligent people. Including a product team trying to help people like me (that run [several websites](/projects/)). The experience during and after my AWS bill experience fascinated me. The fact that:
+Yep, [sure did](/the-aws-bill-heard-around-the-world/). I believe I exposed a bug between S3 and Cloudflare too. This led to many conversations with a lot of intelligent people. Including a product team trying to help people like me (that run [several websites](/projects/)). The experience during and after my AWS bill experience fascinated me. The fact that:
 
 1. Amazon dug into the issue with me once the bill was resolved. They wanted to know EXACTLY what I knew about the incident. I potentially invoked a bug, and there was no holding back the interested parties once I opened the door to figuring this out. This was my first time seeing the "customer obsession" side of Amazon to this extent. I was fascinated.
 1. Another product team at Amazon reached out and tried to work with me on a viable solution to meet my needs specifically was also very cool. They weren't solving my use case, so they upped the priority, and getting a static site up on AWS Lightsail is now a straightforward process.

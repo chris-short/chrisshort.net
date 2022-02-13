@@ -39,5 +39,3 @@ She thanked me for my honesty and for reminding her that her number one responsi
 I'm not quite sure why my mother would tell a Center for Purposeful Living recruit about the FACTNet thread unless she wanted to be pushed out of the cult or if there is some other sinister realm of logic afoot (driven by the guru, [Derwyn Lackey](/tags/derwyn-lackey/)). But, referring people to their dissent isn't going to help them at all and allows myself and others to help those too weak to remove the wool from their eyes.
 
 Yet another person has been saved from certain doom by the Center of Purposeful Living simply because they did some research and a little communicating.
-
-

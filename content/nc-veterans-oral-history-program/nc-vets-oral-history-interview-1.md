@@ -11,7 +11,7 @@ aliases = [
   "/nc-vets-oral-history-interview-1"
 ]
 [cover]
-image = "/nc-veterans-oral-history-program/handy_recorder.jpg"
+image = "https://shortcdn.com/file/chrisshort/handy_recorder.jpg"
 caption = "Recording device used to record this extensive interview"
 +++
 
@@ -21,7 +21,7 @@ The interview was well worth the time it took to coordinate and conduct it. I wo
 
 {{< audio nc-veterans-oral-history-interview-1.mp3 >}}
 
-Also available as an [MP3 download](https://c.chrisshort.net/file/chrisshort/nc-veterans-oral-history-interview-1.mp3)
+Also available as an [MP3 download](https://shortcdn.com/file/chrisshort/nc-veterans-oral-history-interview-1.mp3)
 
 {{< carbon >}}
 

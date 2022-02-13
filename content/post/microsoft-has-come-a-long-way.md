@@ -9,7 +9,7 @@ slug = "microsoft-has-come-a-long-way"
 tags = ["open source", "Microsoft", "Windows", "linux", "Commodore 64", "security", "nmap"]
 title = "Microsoft Has Come a Long Way"
 [cover]
-image = "https://c.chrisshort.net/file/chrisshort/romel-velasco-561901-unsplash.jpg"
+image = "https://shortcdn.com/file/chrisshort/romel-velasco-561901-unsplash.jpg"
 
 +++
 

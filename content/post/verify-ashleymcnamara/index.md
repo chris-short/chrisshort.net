@@ -7,7 +7,7 @@ draft = false
 tags = ["Twitter", "verified account program", "verified", "Ashley McNamara"]
 title = "Verify @ashleymcnamara"
 [cover]
-image = "/verify-ashleymcnamara/verify-ashleymcnamara.png"
+image = "https://shortcdn.com/file/chrisshort/verify-ashleymcnamara.png"
 
 +++
 

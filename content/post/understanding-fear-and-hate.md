@@ -9,7 +9,7 @@ slug = "understanding-fear-and-hate"
 tags = ["hate", "fear", "lgbt", "lgbtq", "culture", "philosophy"]
 title = "Understanding, Fear, and Hate"
 [cover]
-image = "https://c.chrisshort.net/file/chrisshort/lgbt-usa-map.png"
+image = "https://shortcdn.com/file/chrisshort/lgbt-usa-map.png"
 
 +++
 

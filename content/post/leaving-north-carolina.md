@@ -11,7 +11,7 @@ tags = ["job", "work", "life", "balance", "north carolina", "Michigan"]
 
 +++
 
-I have accepted the position as Manager, Infrastructure & Operations at [Bankrate](http://www.bankrate.com/) in Detroit. Julie, Max, Sunny, and I will begin moving to Michigan in mid-June! I will be leading [DevOps](https://devopsish.com/) efforts as the Bankrate team transitions software stacks and moves from on-premise data centers to the cloud. I am beyond excited about the position and the work I will be doing.
+I have accepted the position as Manager, Infrastructure & Operations at Bankrate in Detroit. Julie, Max, Sunny, and I will begin moving to Michigan in mid-June! I will be leading [DevOps](https://devopsish.com/) efforts as the Bankrate team transitions software stacks and moves from on-premise data centers to the cloud. I am beyond excited about the position and the work I will be doing.
 
 {{< eo_signup >}}
 
@@ -30,5 +30,3 @@ Julie and I both want Max to grow up with his family. I must have had dozens of 
 Another factor in the decision making is my [long thoracic nerve damage](/long-thoracic-nerve-palsy/). It has gotten progressively worse the past year. Lower humidity and a steadier barometer might do me some good. When the 2017 hurricane forecast came out it was a relief to know we wouldn't be here for the vast majority of it. I can feel tropical systems approaching and writhing in pain is not a good thing during a natural disaster. Shoveling snow is bad for me too but I can buy a snow thrower to fix that. I did have fantastic doctors from Duke available to me here in NC. But, I do look forward to seeing what the docs from "That School Up North" have in store for me.
 
 When I left North Carolina in 1999 to join the Air Force I never thought I would be living here again. As fortune would have it I've spent the past ten years living between Fayetteville and Raleigh. If you would have told me then that my future included Raleigh and Wake Forest I probably would have laughed you right out of the room. But, I have to say, despite all the turmoil of separating from the Air Force, changing jobs more frequently than I should have, and fighting the VA I am very glad to have lived here in the Triangle. I will miss the people and the community. I wish you all way more than luck.
-
-

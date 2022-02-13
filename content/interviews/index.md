@@ -34,10 +34,10 @@ Source: [CI/CD with Chris Short (1/2)](https://youtu.be/3dGESuSggW0)
 
 Date: 2020-09-30  
 Source: [Learning Streaming from the Experts](https://www.thecloudcast.net/2020/09/learning-streaming-from-experts.html)  
-Download: [MP3](https://c.chrisshort.net/file/chrisshort/learn-streaming-from-the-experts.mp3)
+Download: [MP3](https://shortcdn.com/file/chrisshort/learn-streaming-from-the-experts.mp3)
 
 <audio controls>
-  <source src="https://c.chrisshort.net/file/chrisshort/learn-streaming-from-the-experts.mp3" type="audio/mpeg">
+  <source src="https://shortcdn.com/file/chrisshort/learn-streaming-from-the-experts.mp3" type="audio/mpeg">
 Your browser does not support the audio element but you can download it as an MP3 (right-click, save as...).
 </audio>
 
@@ -45,10 +45,10 @@ Your browser does not support the audio element but you can download it as an MP
 
 Date: 2020-09-25  
 Source: [DevOps 049: DevOps, Open Source, and OpenShift with Chris Short](https://adventuresindevopspodcast.com/50)  
-Download: [MP3](https://c.chrisshort.net/file/chrisshort/ADO_049_DevOps_Open_Source_OpenShift_and_OpenShift_tv_with_Chris_Short.mp3)
+Download: [MP3](https://shortcdn.com/file/chrisshort/ADO_049_DevOps_Open_Source_OpenShift_and_OpenShift_tv_with_Chris_Short.mp3)
 
 <audio controls>
-  <source src="https://c.chrisshort.net/file/chrisshort/ADO_049_DevOps_Open_Source_OpenShift_and_OpenShift_tv_with_Chris_Short.mp3" type="audio/mpeg">
+  <source src="https://shortcdn.com/file/chrisshort/ADO_049_DevOps_Open_Source_OpenShift_and_OpenShift_tv_with_Chris_Short.mp3" type="audio/mpeg">
 Your browser does not support the audio element but you can download it as an MP3 (right-click, save as...).
 </audio>
 
@@ -63,7 +63,7 @@ Source: [Tech Breakfast Podcast - Chris Short](https://anchor.fm/techbreakfast/e
 
 Date: 2020-08-11  
 Source: [Security, Open Links and BIG AW$ Bills [Chris Short, Aug 11]](https://youtu.be/asTE7JbNRXw)  
-Download: [MP4](https://c.chrisshort.net/file/chrisshort/Security-Open-Links-and-BIG-AWS-Bills-Chris-Short-20200811.mp4)
+Download: [MP4](https://shortcdn.com/file/chrisshort/Security-Open-Links-and-BIG-AWS-Bills-Chris-Short-20200811.mp4)
 
 > Discussion about how a series of issues including leaving large files publicly accessible lead to over $2500 in AWS charges in 24 hours!  We discuss how it happened and what you can do to prevent it.
 
@@ -84,12 +84,12 @@ Source: [Popular Mechanics: The 20 Best Podcasts About All Things Tech](https://
 
 Date: 2020-05-20  
 Source: [Podcast - Carving out a Cloud Native Culture in Established Organizations](https://www.weave.works/blog/podcast-carving-out-a-cloud-native-culture-in-established-organizations)  
-Download: [MP3](https://c.chrisshort.net/file/chrisshort/Carving-out-Cloud-Native-Culture-in-Established-Organizations.mp3)
+Download: [MP3](https://shortcdn.com/file/chrisshort/Carving-out-Cloud-Native-Culture-in-Established-Organizations.mp3)
 
 > Cornelia Davis, Chief Technology Officer at Weaveworks: "What I thought we'd talk about today is how organizations can get better at doing software. We want to get better at building it, releasing it and having more resilient systems and all of those things. One of the big categories is DevOps and it is one of the things that we're applying to make some progress on. Chris, you do a great deal in the DevOps arena. Can you give us a [definition of DevOps](https://devopsish.com/what-is-devops/)?"
 
 <audio controls>
-  <source src="https://c.chrisshort.net/file/chrisshort/Carving-out-Cloud-Native-Culture-in-Established-Organizations.mp3" type="audio/mpeg">
+  <source src="https://shortcdn.com/file/chrisshort/Carving-out-Cloud-Native-Culture-in-Established-Organizations.mp3" type="audio/mpeg">
 Your browser does not support the audio element but you can download it as an MP3 (right-click, save as...).
 </audio>
 
@@ -98,10 +98,10 @@ Your browser does not support the audio element but you can download it as an MP
 Date: 2020-05-02  
 Source: [L8istSh9y Podcast: Chris Short from Red Hat talks Operators and Kubernetes](https://l8istsh9y.com/2020/05/02/chris-short-from-red-hat-talks-operators-and-kubernetes/)  
 Blog Post: [Talking Operators on L8ist Sh9y Podcast](/talking-operators-on-l8ist-sh9y-podcast/)  
-Download: [MP3](https://c.chrisshort.net/file/chrisshort/L8istSh9y-Chris-Short-Red-Hat-talks-Operators-Kubernetes.mp3)
+Download: [MP3](https://shortcdn.com/file/chrisshort/L8istSh9y-Chris-Short-Red-Hat-talks-Operators-Kubernetes.mp3)
 
 <audio controls>
-  <source src="https://c.chrisshort.net/file/chrisshort/L8istSh9y-Chris-Short-Red-Hat-talks-Operators-Kubernetes.mp3" type="audio/mpeg">
+  <source src="https://shortcdn.com/file/chrisshort/L8istSh9y-Chris-Short-Red-Hat-talks-Operators-Kubernetes.mp3" type="audio/mpeg">
 Your browser does not support the audio element but you can download it as an MP3 (right-click, save as...).
 </audio>
 
@@ -109,7 +109,7 @@ Your browser does not support the audio element but you can download it as an MP
 
 Date: 2020-03-31  
 Source: [[DevOpsSpeakeasy Podcast] S01E07: Chris Short on Openshift, K8S Operators, and kubectl pronunciation](https://youtu.be/SYRAFc0h6a0)  
-Download: [MP3](https://c.chrisshort.net/file/chrisshort/devops-speakeasy-s01e01-chris-short-openshift-kubernetes-operators-+how-to-pronounce-kubectl.mp3)
+Download: [MP3](https://shortcdn.com/file/chrisshort/devops-speakeasy-s01e01-chris-short-openshift-kubernetes-operators-+how-to-pronounce-kubectl.mp3)
 
 {{< youtube SYRAFc0h6a0 >}}
 
@@ -138,7 +138,7 @@ Source: [Red Hat's Chris Short On Redirecting A War Vet's Energy To Lifelong Lea
 
 Date: 2019-11-21  
 Source: [DevOps Speakeasy at Kubecon San Diego 2019: Chris Short on DevOps!](https://youtu.be/EO54iYYDZoU)  
-Download: [MP4](https://c.chrisshort.net/file/chrisshort/DevOps-Speakeasy-Kubecon-San-Diego-2019-Chris-Short-on-DevOps.mp4)
+Download: [MP4](https://shortcdn.com/file/chrisshort/DevOps-Speakeasy-Kubecon-San-Diego-2019-Chris-Short-on-DevOps.mp4)
 
 {{< youtube EO54iYYDZoU >}}
 
@@ -147,13 +147,13 @@ Download: [MP4](https://c.chrisshort.net/file/chrisshort/DevOps-Speakeasy-Kubeco
 > Brian talks with Chris Short (@ChrisShort, Technical Marketing @RedHat, CNCF Ambassador, writes at DevOps'ish) about DevOps 10th birthday, how Kubernetes helps DevOps, and the exciting news that Chris will be co-hosting PodCTL.
 
 <audio controls>
-  <source src="https://c.chrisshort.net/file/chrisshort/the-intersection-of-devops-and-kubernetes.mp3" type="audio/mpeg">
+  <source src="https://shortcdn.com/file/chrisshort/the-intersection-of-devops-and-kubernetes.mp3" type="audio/mpeg">
 Your browser does not support the audio element but you can download it as an MP3 (right-click, save as...).
 </audio>
 
 Date: 2019-11-08  
 Source: [The Intersection of DevOps and Kubernetes](https://podcasts.apple.com/gb/podcast/the-intersection-of-devops-and-kubernetes/id1270983443?i=1000456263929)  
-Download: [MP3](https://c.chrisshort.net/file/chrisshort/the-intersection-of-devops-and-kubernetes.mp3)
+Download: [MP3](https://shortcdn.com/file/chrisshort/the-intersection-of-devops-and-kubernetes.mp3)
 
 ## How to explain DevOps in plain English
 
@@ -170,11 +170,11 @@ Source: [How to explain DevOps in plain English](https://enterprisersproject.com
 
 Date: 2019-08-20  
 Source: [Command Line Heroes Season 3: The Infrastructure Effect](https://www.redhat.com/en/command-line-heroes/season-3/the-infrastructure-effect)  
-Download: [MP3](https://c.chrisshort.net/file/chrisshort/Command_Line_Heroes_S3_EP5_The_Infrastructure_Effect.mp3)  
-Transcript: [PDF](https://c.chrisshort.net/file/chrisshort/Command_Line_Heroes_Season_3_The_Infrastructure_Effect.pdf)
+Download: [MP3](https://shortcdn.com/file/chrisshort/Command_Line_Heroes_S3_EP5_The_Infrastructure_Effect.mp3)  
+Transcript: [PDF](https://shortcdn.com/file/chrisshort/Command_Line_Heroes_Season_3_The_Infrastructure_Effect.pdf)
 
 <audio controls>
-  <source src="https://c.chrisshort.net/file/chrisshort/Command_Line_Heroes_S3_EP5_The_Infrastructure_Effect.mp3" type="audio/mpeg">
+  <source src="https://shortcdn.com/file/chrisshort/Command_Line_Heroes_S3_EP5_The_Infrastructure_Effect.mp3" type="audio/mpeg">
 Your browser does not support the audio element but you can download it as an MP3 (right-click, save as...).
 </audio>
 
@@ -184,10 +184,10 @@ Your browser does not support the audio element but you can download it as an MP
 
 Date: 2019-07-17  
 Source: [030: Cloud Native Ops with Ansible and Kubernetes](https://cloudskills.fm/030)  
-Download: [MP3](https://c.chrisshort.net/file/chrisshort/CloudSkills_Episode_30.mp3)
+Download: [MP3](https://shortcdn.com/file/chrisshort/CloudSkills_Episode_30.mp3)
 
 <audio controls>
-  <source src="https://c.chrisshort.net/file/chrisshort/CloudSkills_Episode_30.mp3" type="audio/mpeg">
+  <source src="https://shortcdn.com/file/chrisshort/CloudSkills_Episode_30.mp3" type="audio/mpeg">
 Your browser does not support the audio element but you can download it as an MP3 (right-click, save as...).
 </audio>
 
@@ -209,17 +209,17 @@ Source: [DevOps for doubters: How to deal with 9 kinds of people who push back](
 
 Date: 2019-06-19  
 Source: [Chris Short, Red Hat | JFrog SwampUp 2019 | Digital Anarchist](https://videopress.com/v/V3TIte3s)  
-Download: [MP4](https://c.chrisshort.net/file/chrisshort/chris-short-red-hat-jfrog-swampup-2019_hd.mp4) (H.264) | [MP4](https://archive.org/details/chris-short-red-hat-jfrog-swampup-2019) (Original)
+Download: [MP4](https://shortcdn.com/file/chrisshort/chris-short-red-hat-jfrog-swampup-2019_hd.mp4) (H.264) | [MP4](https://archive.org/details/chris-short-red-hat-jfrog-swampup-2019) (Original)
 
 ## China, Huawei and the future of global technology
 
 Date: 2019-05-28  
 Source: [China, Huawei and the future of global technology — The Frontier Podcast — Episode 61](https://www.gun.io/frontier/2019/episode-61)  
-Download: [MP3](https://c.chrisshort.net/file/chrisshort/61-chris-short-final-bounce.mp3)  
-Transcript: [PDF](https://c.chrisshort.net/file/chrisshort/Frontier-Podcast-China-Huawei-and-the-future-of-global-technology.pdf)
+Download: [MP3](https://shortcdn.com/file/chrisshort/61-chris-short-final-bounce.mp3)  
+Transcript: [PDF](https://shortcdn.com/file/chrisshort/Frontier-Podcast-China-Huawei-and-the-future-of-global-technology.pdf)
 
 <audio controls>
-  <source src="https://c.chrisshort.net/file/chrisshort/CloudSkills_Episode_30.mp3" type="audio/mpeg">
+  <source src="https://shortcdn.com/file/chrisshort/CloudSkills_Episode_30.mp3" type="audio/mpeg">
 Your browser does not support the audio element but you can download it as an MP3 (right-click, save as...).
 </audio>
 
@@ -238,10 +238,10 @@ Source: [7 advantages of open source for agile teams](https://enterprisersprojec
 
 Date: 2019-04-25  
 Source: [DevOps'ish with Chris Short – Newsletterers – The Tim Show – S02E01](https://timhildred.com/devopsish-with-chris-short-newsletterers-the-tim-show-s02e01/)  
-Download: [MP3](https://c.chrisshort.net/file/chrisshort/the-tim-show-s02e01.mp3)
+Download: [MP3](https://shortcdn.com/file/chrisshort/the-tim-show-s02e01.mp3)
 
 <audio controls>
-  <source src="https://c.chrisshort.net/file/chrisshort/the-tim-show-s02e01.mp3" type="audio/mpeg">
+  <source src="https://shortcdn.com/file/chrisshort/the-tim-show-s02e01.mp3" type="audio/mpeg">
 Your browser does not support the audio element but you can download it as an MP3 (right-click, save as...).
 </audio>
 
@@ -251,10 +251,10 @@ In the inaugural episode of the Newsletterers series, I sat down with [Tim Hildr
 
 Date: 2019-03-29  
 Source: [Episode 16: This week in the cloud blob](https://www.thecloudpod.net/podcast/episode-16-this-week-in-the-cloud-blob/)  
-Download: [MP3](https://c.chrisshort.net/file/chrisshort/tcp-episode-16-mix.mp3)
+Download: [MP3](https://shortcdn.com/file/chrisshort/tcp-episode-16-mix.mp3)
 
 <audio controls>
-  <source src="https://c.chrisshort.net/file/chrisshort/tcp-episode-16-mix.mp3" type="audio/mpeg">
+  <source src="https://shortcdn.com/file/chrisshort/tcp-episode-16-mix.mp3" type="audio/mpeg">
 Your browser does not support the audio element but you can download it as an MP3 (right-click, save as...).
 </audio>
 
@@ -273,10 +273,10 @@ Source: [DevOps Defined - What is Kubernetes?](https://youtu.be/ES2ShEzVyaI)
 
 Date: 2018-12-27  
 Source: [On-Call Nightmares Podcast — Episode 3 - Chris Short - Red Hat](https://www.podomatic.com/podcasts/oncallnightmares/episodes/2018-12-27T09_00_12-08_00)  
-Download: [MP3](https://c.chrisshort.net/file/chrisshort/oncallnightmares_2018-12-27T09_00_12-08_00.mp3)
+Download: [MP3](https://shortcdn.com/file/chrisshort/oncallnightmares_2018-12-27T09_00_12-08_00.mp3)
 
 <audio controls>
-  <source src="https://c.chrisshort.net/file/chrisshort/oncallnightmares_2018-12-27T09_00_12-08_00.mp3" type="audio/mpeg">
+  <source src="https://shortcdn.com/file/chrisshort/oncallnightmares_2018-12-27T09_00_12-08_00.mp3" type="audio/mpeg">
 Your browser does not support the audio element but you can download it as an MP3 (right-click, save as...).
 </audio>
 
@@ -294,10 +294,10 @@ Source: [7 leadership skills that will make or break your DevOps transformation]
 
 Date: 2018-08-10  
 Source: [Product Marketing Management](http://foodfightshow.org/2018/08/product-marketing.html)  
-Download: [MP3](https://c.chrisshort.net/file/chrisshort/FFS123.mp3)
+Download: [MP3](https://shortcdn.com/file/chrisshort/FFS123.mp3)
 
 <audio controls>
-  <source src="https://c.chrisshort.net/file/chrisshort/FFS123.mp3" type="audio/mpeg">
+  <source src="https://shortcdn.com/file/chrisshort/FFS123.mp3" type="audio/mpeg">
 Your browser does not support the audio element but you can download it as an MP3 (right-click, save as...).
 </audio>
 
@@ -310,10 +310,10 @@ Source: [Stand-up meetings: 5 reasons to kiss traditional meetings goodbye](http
 
 Date: 2018-06-05  
 Source: [The Best CI/CD Tool for Kubernetes Doesn't Exist](https://thenewstack.io/the-best-ci-cd-tool-for-kubernetes-doesnt-exist/)  
-Download: [MP3](https://c.chrisshort.net/file/chrisshort/tns-best-ci-cd-for-kubernetes-doesnt-exist.mp3)
+Download: [MP3](https://shortcdn.com/file/chrisshort/tns-best-ci-cd-for-kubernetes-doesnt-exist.mp3)
 
 <audio controls>
-  <source src="https://c.chrisshort.net/file/chrisshort/tns-best-ci-cd-for-kubernetes-doesnt-exist.mp3" type="audio/mpeg">
+  <source src="https://shortcdn.com/file/chrisshort/tns-best-ci-cd-for-kubernetes-doesnt-exist.mp3" type="audio/mpeg">
 Your browser does not support the audio element but you can download it as an MP3 (right-click, save as...).
 </audio>
 
@@ -321,10 +321,10 @@ Your browser does not support the audio element but you can download it as an MP
 
 Date: 2018-06-02  
 Source: [Chris Short on SRE, DevSecOps, Pipelines, Immutability, and Kubernetes](https://soundcloud.com/user-410091210/chris-short-on-sre-devsecops-pipelines-immutability-and-kubernetes)  
-Download: [MP3](https://c.chrisshort.net/file/chrisshort/chris-short-on-sre-devsecops-pipelines-immutability-and-kubernetes.mp3)
+Download: [MP3](https://shortcdn.com/file/chrisshort/chris-short-on-sre-devsecops-pipelines-immutability-and-kubernetes.mp3)
 
 <audio controls>
-  <source src="https://c.chrisshort.net/file/chrisshort/chris-short-on-sre-devsecops-pipelines-immutability-and-kubernetes.mp3" type="audio/mpeg">
+  <source src="https://shortcdn.com/file/chrisshort/chris-short-on-sre-devsecops-pipelines-immutability-and-kubernetes.mp3" type="audio/mpeg">
 Your browser does not support the audio element but you can download it as an MP3 (right-click, save as...).
 </audio>
 
@@ -332,7 +332,7 @@ Your browser does not support the audio element but you can download it as an MP
 
 Date: 2018-06-01  
 Source: [Chris Short describing his talk at DevOpsDays Toronto](https://youtu.be/gwOmVh7lCEA)  
-Download: [MP4](https://c.chrisshort.net/file/chrisshort/devopsdays-toronto-2018-ken-mugrage-chris-short.mp4) [MP3](https://c.chrisshort.net/file/chrisshort/devopsdays-toronto-2018-ken-muckrage-chris-short.mp3)
+Download: [MP4](https://shortcdn.com/file/chrisshort/devopsdays-toronto-2018-ken-mugrage-chris-short.mp4) [MP3](https://shortcdn.com/file/chrisshort/devopsdays-toronto-2018-ken-muckrage-chris-short.mp3)
 
 {{< youtube gwOmVh7lCEA >}}
 
@@ -340,10 +340,10 @@ Download: [MP4](https://c.chrisshort.net/file/chrisshort/devopsdays-toronto-2018
 
 Date: 2018-04-04  
 Source: [Discussing DevOps Details Episode 113: Refactoring Giant Monoliths](https://podtail.com/podcast/discussing-devops-details/episode-113-refactoring-giant-monoliths/)  
-Download: [MP3](https://c.chrisshort.net/file/chrisshort/2018-04-04_3d_podcast_recording_session_113_-_refactoring_giant_monoliths.mp3)
+Download: [MP3](https://shortcdn.com/file/chrisshort/2018-04-04_3d_podcast_recording_session_113_-_refactoring_giant_monoliths.mp3)
 
 <audio controls>
-  <source src="https://c.chrisshort.net/file/chrisshort/2018-04-04_3d_podcast_recording_session_113_-_refactoring_giant_monoliths.mp3" type="audio/mpeg">
+  <source src="https://shortcdn.com/file/chrisshort/2018-04-04_3d_podcast_recording_session_113_-_refactoring_giant_monoliths.mp3" type="audio/mpeg">
 Your browser does not support the audio element but you can download it as an MP3 (right-click, save as...).
 </audio>
 
@@ -351,10 +351,10 @@ Your browser does not support the audio element but you can download it as an MP
 
 Date: 2018-03-21  
 Source: [Episode 2: Shoving a SAN into us-east-1](https://www.screaminginthecloud.com/episodes/episode-2-shoving-a-san-into-us-east-1)
-Download: [MP3](https://c.chrisshort.net/file/chrisshort/Episode-2-Shoving-a-SAN-into-us-east-1.mp3)
+Download: [MP3](https://shortcdn.com/file/chrisshort/Episode-2-Shoving-a-SAN-into-us-east-1.mp3)
 
 <audio controls>
-  <source src="https://c.chrisshort.net/file/chrisshort/Episode-2-Shoving-a-SAN-into-us-east-1.mp3" type="audio/mpeg">
+  <source src="https://shortcdn.com/file/chrisshort/Episode-2-Shoving-a-SAN-into-us-east-1.mp3" type="audio/mpeg">
 Your browser does not support the audio element but you can download it as an MP3 (right-click, save as...).
 </audio>
 
@@ -363,10 +363,10 @@ Your browser does not support the audio element but you can download it as an MP
 Date: 2016-10-30  
 Source: [The Cloudcast #277 - DevOps Perspectives from the Front Lines](http://www.thecloudcast.net/2016/10/the-cloudcast-277-devops-perspective.html)  
 Blog Post: [DevOps Perspectives from the Front Lines](/devops-perspectives-from-the-front-lines/)  
-Download: [MP3](https://c.chrisshort.net/file/chrisshort/the-cloudcast-277-devops-perspectives-from-the-front-lines.mp3)
+Download: [MP3](https://shortcdn.com/file/chrisshort/the-cloudcast-277-devops-perspectives-from-the-front-lines.mp3)
 
 <audio controls>
-  <source src="https://c.chrisshort.net/file/chrisshort/the-cloudcast-277-devops-perspectives-from-the-front-lines.mp3" type="audio/mpeg">
+  <source src="https://shortcdn.com/file/chrisshort/the-cloudcast-277-devops-perspectives-from-the-front-lines.mp3" type="audio/mpeg">
 Your browser does not support the audio element but you can download it as an MP3 (right-click, save as...).
 </audio>
 
@@ -375,18 +375,18 @@ Your browser does not support the audio element but you can download it as an MP
 Date: 2016-05-21  
 Source: [Christopher B. Short Interview, 2016-05-21](https://archive.org/details/MilCollOH1103Short)  
 Blog Post: [North Carolina Veterans Oral History Interview Part 3](/nc-veterans-oral-history-program/nc-vets-oral-history-interview-3/)  
-Download: [MP3](https://c.chrisshort.net/file/chrisshort/nc-veterans-oral-history-interview-3.mp3)
+Download: [MP3](https://shortcdn.com/file/chrisshort/nc-veterans-oral-history-interview-3.mp3)
 
 ## North Carolina Veterans Oral History Interview Part 2
 
 Date: 2016-05-21  
 Source: [Christopher B. Short Interview, 2016-05-21](https://archive.org/details/MilCollOH1103Short)  
 Blog Post: [North Carolina Veterans Oral History Interview Part 2](/nc-veterans-oral-history-program/nc-vets-oral-history-interview-2/)  
-Download: [MP3](https://c.chrisshort.net/file/chrisshort/nc-veterans-oral-history-interview-2.mp3)
+Download: [MP3](https://shortcdn.com/file/chrisshort/nc-veterans-oral-history-interview-2.mp3)
 
 ## North Carolina Veterans Oral History Interview Part 1
 
 Date: 2016-05-21  
 Source: [Christopher B. Short Interview, 2016-05-21](https://archive.org/details/MilCollOH1103Short)  
 Blog Post: [North Carolina Veterans Oral History Interview Part 1](/nc-veterans-oral-history-program/nc-vets-oral-history-interview-1/)  
-Download: [MP3](https://c.chrisshort.net/file/chrisshort/nc-veterans-oral-history-interview-1.mp3)
+Download: [MP3](https://shortcdn.com/file/chrisshort/nc-veterans-oral-history-interview-1.mp3)

@@ -8,7 +8,7 @@ ShowTOC = false
 tags = ["open source", "upstream", "downstream"]
 title = "Upstream vs Downstream"
 [cover]
-image = "/upstream-vs-downstream/stream.jpg"
+image = "https://shortcdn.com/file/chrisshort/stream.jpg"
 
 +++
 

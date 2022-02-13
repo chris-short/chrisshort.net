@@ -9,7 +9,7 @@ slug = "the-open-organization-guide-to-it-culture-change"
 tags = ["open source", "culture", "DevOps"]
 title = "The Open Organization Guide to IT Culture Change"
 [cover]
-image = "/the-open-organization-guide-to-it-culture-change/theopenorg_guidetoITculturechange_1_0_cover_final.png"
+image = "https://shortcdn.com/file/chrisshort/theopenorg_guidetoITculturechange_1_0_cover_final.png"
 
 +++
 

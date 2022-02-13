@@ -8,7 +8,7 @@ slug = "tis-the-season-of-family-tech-support"
 tags = ["life", "hardware", "tech support", "home", "wifi", "house", "family", "internet", "support", "modem", "Google WiFi", "comcast", "wireless"]
 title = "'Tis the Season of Family Tech Support"
 [cover]
-image = "/tis-the-season-of-family-tech-support/vcr.jpg"
+image = "https://shortcdn.com/file/chrisshort/vcr.jpg"
 caption = "Be helpful. But, this isn't your day job."
 
 +++

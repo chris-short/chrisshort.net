@@ -23,7 +23,7 @@ What does it really do? It prevents users, processes, etc. from modifying certai
 
 {{< carbon >}}
 
-This is a great security enhancement for the vast majority of Mac users. But, some people need to modify the resources protected by System Integrity Protection. 
+This is a great security enhancement for the vast majority of Mac users. But, some people need to modify the resources protected by System Integrity Protection.
 
 For example, I compile and use a few GNU utilities ([sed for example](/gnu-sed-on-mac-os-x/)) so that I don't have to worry about BSD vs. GNU syntax changes when bouncing between my laptop and servers I'm administering.
 

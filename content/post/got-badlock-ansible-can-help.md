@@ -9,7 +9,7 @@ slug = "got-badlock-ansible-can-help"
 tags = ["ansible", "samba", "badlock", "yum", "apt", "dpkg", "security"]
 title = "Got Badlock? Ansible Can Help"
 [cover]
-image = "https://c.chrisshort.net/file/chrisshort/badlock.png"
+image = "https://shortcdn.com/file/chrisshort/badlock.png"
 
 +++
 
