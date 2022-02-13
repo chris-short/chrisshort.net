@@ -8,7 +8,7 @@ tags = ["SEO"]
 title = "How MSN Search Stacks Up"
 ShowToc = false
 [cover]
-image = "https://c.chrisshort.net/file/chrisshort/msn-logo.webp"
+image = "https://shortcdn.com/file/chrisshort/msn-logo.webp"
 caption = "How MSN Search Stacks Up"
 +++
 

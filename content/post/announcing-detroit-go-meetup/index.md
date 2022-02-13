@@ -9,7 +9,7 @@ slug = "announcing-detroit-go-meetup"
 tags = ["go", "golang"]
 title = "Announcing Detroit Go Meetup"
 [cover]
-image = "/announcing-detroit-go-meetup/gopher_detroit_twitter_400x400.png"
+image = "https://shortcdn.com/file/chrisshort/gopher_detroit_twitter_400x400.png"
 
 +++
 

@@ -11,7 +11,7 @@ aliases = [
     "kubecon-cloudnativecon-na-2018"
 ]
 [cover]
-image = "/my-kubecon-cloudnativecon-na-2018-recap/kubecon-cloudnativecon-2018.jpg"
+image = "https://shortcdn.com/file/chrisshort/kubecon-cloudnativecon-2018.jpg"
 
 +++
 
@@ -34,7 +34,7 @@ I was not looking forward to four hours on a plane. My busted ankles do weird th
 
 I sat up front on the way to Seattle. What it costs me monetarily more than paid for itself in reduced pain and lower anxiety as a result. It worked better than expected. I didn't hurt too bad when we landed despite it already being a long day (Max got up in the five o'clock hour that morning). I met [Chuck Svoboda](https://twitter.com/Chuckernetes/) onboard too!
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Arrived! <a href="https://twitter.com/hashtag/KubeCon?src=hash&amp;ref_src=twsrc%5Etfw">#KubeCon</a> <a href="https://t.co/7swGZmtLPn">pic.twitter.com/7swGZmtLPn</a></p>&mdash; Chuck Svoboda (@Chuckernetes) <a href="https://twitter.com/Chuckernetes/status/1071947239596019712?ref_src=twsrc%5Etfw">December 10, 2018</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+{{< tweet user="Chuckernetes" id="1071947239596019712" >}}
 
 {{< eo_signup >}}
 
@@ -42,11 +42,11 @@ I sat up front on the way to Seattle. What it costs me monetarily more than paid
 
 A few of us on Twitter decided to announce we were all going to the bar in the Sheraton Seattle to hang out and chat. General networking events like this are awesome. They allow folks to sit, stand, float, or whatever in an environment where all it is are folks like them. No concert going on, no conference crews herding you, no sales folks crowding you, and most important of all, come as you are. Some people getting together to chat in person instead of on Twitter or Slack. It wasn't anything formal or official (the code of conduct did apply though). #KubeKhan, as [Jaice coined it](https://twitter.com/jaydumars/status/1071663564417466368), became something. During the overnight hours Saturday into Sunday, things escalated quickly.
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr"><a href="https://twitter.com/hashtag/kubekhan?src=hash&amp;ref_src=twsrc%5Etfw">#kubekhan</a> <a href="https://twitter.com/hashtag/wrathofkube?src=hash&amp;ref_src=twsrc%5Etfw">#wrathofkube</a> is in full effect <a href="https://t.co/Wp1WDgvu43">pic.twitter.com/Wp1WDgvu43</a></p>&mdash; Bob Killen (@MrBobbyTables) <a href="https://twitter.com/MrBobbyTables/status/1071995467716681729?ref_src=twsrc%5Etfw">December 10, 2018</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+{{< tweet user="MrBobbyTables" id="1071995467716681729" >}}
 
-Before it was all said and done, folks discovered that Twitter notifications are hard to manage (I know I learned new methods for managing them). The group also learned the number of people in a single tweet that can be mentioned is capped at 50. There was a Kubernetes Slack channel (#kubekhan is now archived). I met with a CNCF staff member on Monday morning before everything started about something completely unrelated; they asked about [#KubeKhan](https://twitter.com/hashtag/kubekhan). Seeing the creativity from people in the community was really cool. Bob Killen gave us this wonderful [KubeKhan Parrot GIF](/my-kubecon-cloudnativecon-na-2018-recap/kubekhan-parrot.gif). By Day 2, there were even stickers thanks to [Vallery Lancey](https://twitter.com/vllry).
+Before it was all said and done, folks discovered that Twitter notifications are hard to manage (I know I learned new methods for managing them). The group also learned the number of people in a single tweet that can be mentioned is capped at 50. There was a Kubernetes Slack channel (#kubekhan is now archived). I met with a CNCF staff member on Monday morning before everything started about something completely unrelated; they asked about [#KubeKhan](https://twitter.com/hashtag/kubekhan). Seeing the creativity from people in the community was really cool. Bob Killen gave us this wonderful [KubeKhan Parrot GIF](https://shortcdn.com/file/chrisshort/kubekhan-parrot.gif). By Day 2, there were even stickers thanks to [Vallery Lancey](https://twitter.com/vllry).
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Find me tomorrow!!! <a href="https://t.co/kOTO2Qzgf3">pic.twitter.com/kOTO2Qzgf3</a></p>&mdash; Vallery Lancey (@vllry) <a href="https://twitter.com/vllry/status/1072738257387962368?ref_src=twsrc%5Etfw">December 12, 2018</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+{{< tweet user="vllry" id="1072738257387962368" >}}
 
 What a fun, impromptu way to connect with people! There is already talk of a KubeKhan Barcelona. Which reminds me, [I need to submit my talk ASAP](https://events.linuxfoundation.org/events/kubecon-cloudnativecon-europe-2019/cfp/).
 
@@ -76,7 +76,7 @@ Immediately following the Architecture BoF, I facilitated [etcd Maintainers: Ask
 
 I ended my Kubernetes Contributor Summit duties with the [SIG Meet & Greet](https://kcs2018.sched.com/event/JN4A/sig-meet-greet). It started in a room that was going to be WAY too small for the audience. After some quick thinking and action from a few folks, we got the session moved to more appropriate space. This was an interesting experience for me. My normal use case were folks coming in and asking what table a certain SIG was at so they could talk. But, there was one cool  scenario where I helped someone choose the SIG they wanted to work with based off what they did for work and fun. The last thing for the Contributor Summit was a group picture!
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">We tried to take a group pic 😄 thanks to <a href="https://twitter.com/dekkagaijin?ref_src=twsrc%5Etfw">@dekkagaijin</a> for being even taller on a chair 😂<br><br>This marks an end to 2018 Kubernetes Contributor Summits. Now on to 2019 planning! <a href="https://t.co/fvpvYX1Dw2">pic.twitter.com/fvpvYX1Dw2</a></p>&mdash; Paris 🧜‍♀️ (@ParisInBmore) <a href="https://twitter.com/ParisInBmore/status/1072523308611051520?ref_src=twsrc%5Etfw">December 11, 2018</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+{{ tweet user="ParisInBmore" id="1072523308611051520" }}
 
 ## DAY 1
 

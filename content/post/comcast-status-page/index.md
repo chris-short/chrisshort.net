@@ -8,7 +8,7 @@ slug = "comcast-status-page"
 tags = ["Comcast", "Comcast Business", "Xfinity", "status page", "internet", "house", "home", "network", "tech", "forced", "outage", "outages", "problem", "modem", "blame", "area", "connectivity", "wifi", "replace"]
 title = "Having a status page forced Comcast to fix my internet"
 [cover]
-image = "https://c.chrisshort.net/file/chrisshort/UptimeRobot_Home.webp"
+image = "https://shortcdn.com/file/chrisshort/UptimeRobot_Home.webp"
 
 +++
 
@@ -46,7 +46,7 @@ I was already using the freemium version of [UptimeRobot](https://uptimerobot.co
 
 Note: I ended up applying the network-latency tuned profile so the Raspberry Pi could keep up with checks and the normal internet scans.
 
-[![UptimeRobot status page for my house as of 2021-09-30](https://c.chrisshort.net/file/chrisshort/UptimeRobot_Home.png)](https://status.chrisshort.net/788638365)
+[![UptimeRobot status page for my house as of 2021-09-30](https://shortcdn.com/file/chrisshort/UptimeRobot_Home.png)](https://status.chrisshort.net/788638365)
 
 ## Replace EVERYTHING
 

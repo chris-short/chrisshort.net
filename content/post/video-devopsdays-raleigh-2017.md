@@ -9,7 +9,7 @@ slug = "video-devopsdays-raleigh-2017"
 tags = ["devops", "devopsdays", "talks"]
 title = "Video: DevOpsDays Raleigh 2017"
 [cover]
-image = "https://c.chrisshort.net/file/chrisshort/Dark_Side_of_DevOps_DevOpsDays_Raleigh_2017.jpg"
+image = "https://shortcdn.com/file/chrisshort/Dark_Side_of_DevOps_DevOpsDays_Raleigh_2017.jpg"
 
 +++
 

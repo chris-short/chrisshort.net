@@ -10,7 +10,7 @@ tags = ["internet", "google", "fiber", "wireless", "Verizon"]
 title = "The Demise of Google Fiber and Internet Under Dirt"
 aliases = ["demise-of-google-fiber-and-internet-under-dirt"]
 [cover]
-image = "https://c.chrisshort.net/file/chrisshort/twc-power-utility-house-connection.jpg"
+image = "https://shortcdn.com/file/chrisshort/twc-power-utility-house-connection.jpg"
 
 +++
 

@@ -8,7 +8,7 @@ slug = "technical-debt-and-the-ongoing-battle-against-it"
 tags = ["technical debt", "DevOps", "systemd", "AWS"]
 title = "Technical Debt and the Ongoing Battle Against It"
 [cover]
-image = "https://c.chrisshort.net/file/chrisshort/technical-debt.jpg"
+image = "https://shortcdn.com/file/chrisshort/technical-debt.jpg"
 caption = "Photo: [Twitter](https://twitter.com/Carnage4Life/status/585458646680670208)"
 +++
 

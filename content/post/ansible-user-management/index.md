@@ -6,7 +6,7 @@ date = 2016-09-27T16:15:00Z
 description = "Puppet was too cumbersome for simple user management. Ansible came in to save the day in less than half an hour."
 ShowToc = false
 draft = false
-image = "/user-management-with-ansible/ansible_circleA_blue.png"
+image = "https://shortcdn.com/file/chrisshort/ansible_circleA_blue.png"
 slug = "ansible-user-management"
 tags = ["ansible", "DevOps", "users"]
 title = "User Management with Ansible"
@@ -18,7 +18,7 @@ aliases = ["ansible-user-management"]
 
 A few weeks ago, one of my [**DevOps**](https://devopsish.com/) counterparts was working on building out a new environment for one of our applications. This deployment included a new Puppet server (we are in an orchestration/configuration management state of flux) and my teammate was having some issues provisioning users (I did not ask why nor did I really care). My teammate asked if I could help with some Ansible knowledge.
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Hey, Chris? Yes. Can you whip up an <a href="https://twitter.com/ansible?ref_src=twsrc%5Etfw">@ansible</a> playbook to provision users on this Puppet box. Heh... *cracks knuckles* Sure.</p>&mdash; Chris Short (@ChrisShort) <a href="https://twitter.com/ChrisShort/status/768485051180978176?ref_src=twsrc%5Etfw">August 24, 2016</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+{{< tweet user="ChrisShort" id="768485051180978176" >}}
 
 User management usually falls into one of two categories; disjointed or a monumental effort. This Ansible solution could be that nice middle ground between the disjointed and monumental.
 
@@ -114,4 +114,4 @@ All of these components build an Ansible role. The higher level Ansible playbook
     - user-role
 {{< / highlight >}}
 
-Make sure your inventory contains the necessary systems, run the Ansible playbook, and you will have users provisioned how you see fit in no time.
+Make sure your inventory contains the necessary systems, run the Ansible playbook, and you will have users provisioned how you see fit in **no time**.

@@ -9,7 +9,7 @@ slug = "military-lessons-applied-to-devops-operation-eagle-claw"
 tags = ["DevOps", "military"]
 title = "Military Lessons Applied to DevOps: Operation Eagle Claw"
 [cover]
-image = "https://c.chrisshort.net/file/chrisshort/operation-eagle-claw.png"
+image = "https://shortcdn.com/file/chrisshort/operation-eagle-claw.png"
 
 +++
 
@@ -26,5 +26,3 @@ One helicopter had a hydraulic issue, another got lost in a dust storm, and a th
 The chaos that ensued was tremendous. People were scurrying away from exploding aircraft and ammunition. Four operators were injured and another eight perished. The planned abort of a deployment had turned utterly catastrophic. The immediate order to fail faster than planned was given as remaining aircraft were loaded and took off as soon as they could. Luckily no additional accidents occurred during the hastened evacuation but the dead were left behind in the rush to escape the area. The aftermath of the failed operation was equally catastrophic. If the mission planners are viewed as the development team and the special operations forces played the role of operations team the President of the United States Jimmy Carter played the role of CEO. President Carter himself blamed his failed 1980 re-election bid, at least partially, on his handling of the Iran hostage crisis. President Carter's board of directors (US voters) decided a change in direction was necessary. As part of the postmortem, actions were taken to prevent this kind of disaster from occurring again but the damage had been done.
 
 Operation Eagle Claw is an astounding example of an overseas military operation going catastrophically wrong. It was an embarrassment to the nation and the special forces community. The loss of life was tragic and unneccessary. But, in every mistake there is an opportunity to learn. And in every failure there is an opportunity to prevent it from happening again.
-
-

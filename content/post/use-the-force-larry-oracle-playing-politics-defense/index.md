@@ -7,7 +7,7 @@ draft = false
 tags = ["Oracle", "JEDI", "AWS", "cloud", "DoD", "Interoperability Clearinghouse", "China", "Larry Ellison"]
 title = "Use The Force, Larry: Oracle Playing Politics with Nation's Defense"
 [cover]
-image = "/use-the-force-larry-oracle-playing-politics-with-nations-defense/jedi-oracle-yoda.jpg"
+image = "https://shortcdn.com/file/chrisshort/jedi-oracle-yoda.jpg"
 
 +++
 

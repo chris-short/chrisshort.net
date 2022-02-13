@@ -11,7 +11,7 @@ aliases = [
   "/seth-vargo-says-hell-no-puts-chef-on-ice/"
 ]
 [cover]
-image = "/seth-vargo-says-hell-noputs-chef-on-ice/balance-stacked-stones-2171464.jpg"
+image = "https://shortcdn.com/file/chrisshort/balance-stacked-stones-2171464.jpg"
 
 +++
 

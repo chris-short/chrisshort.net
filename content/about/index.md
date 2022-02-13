@@ -33,7 +33,7 @@ Chris is now working in the [open source](https://chrisshort.net/tags/open-sourc
 
 ## Headshot
 
-[Chris-Short-Sept-2021-Profile-Pic.jpeg](https://c.chrisshort.net/file/chrisshort/about/Chris-Short-Sept-2021-Profile-Pic.jpeg)
+[Chris-Short-Sept-2021-Profile-Pic.jpeg](https://shortcdn.com/file/chrisshort/about/Chris-Short-Sept-2021-Profile-Pic.jpeg)
 
 ## Sponsor
 

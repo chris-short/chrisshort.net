@@ -7,7 +7,7 @@ draft = false
 tags = ["OpenShift", "Red Hat", "Kubernetes", "Ansible", "Operators", "Cloud Native"]
 title = "Joining forces with OpenShift"
 [cover]
-image = "/joining-forces-with-openshift/ansible-to-openshift.png"
+image = "https://shortcdn.com/file/chrisshort/ansible-to-openshift.png"
 
 +++
 
@@ -51,6 +51,6 @@ I started to work on what I thought would be a relatively simple project: a glob
 
 Thank you to the Ansible team and especially my Ansible marketing teammates. You've brought me into Red Hat, welcomed me with open arms, and shared your knowledge (and your dogs) with me. You have all been wonderful teammates! I look forward to continuing to work together more as Red Hatters in the very near future (which is tomorrow).
 
-![Ansible has already won](ansible-has-already-won.png#center)
+![Ansible has already won](https://shortcdn.com/file/chrisshort/ansible-has-already-won.png#center)
 
 [![Ansible](Ansible-Mark-Large-RGB-Mango.png#center)](https://www.ansible.com/)

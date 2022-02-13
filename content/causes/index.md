@@ -72,15 +72,9 @@ Website: [Global Zero](https://www.globalzero.org/)
 > 
 > We believe that a brilliant mind should never be held back by their body.
 
-## Previously Supported Charities
-
-### National Center for Transgender Equality
-
-Website: [National Center for Transgender Equality](https://transequality.org/)
-
-> The National Center for Transgender Equality advocates to change policies and society to increase understanding and acceptance of transgender people. In the nation’s capital and throughout the country, NCTE works to replace disrespect, discrimination, and violence with empathy, opportunity, and justice.
-
 ### Pin-Ups for Vets
+
+Run by Chris Short's longtime friend, Gina Elise, this charity helped me get through some tough deployments while I served in the [US Air Force](/3c2x1-tech-control/).
 
 Website: [Pin-Ups For Vets](https://www.pinupsforvets.com/)
 
@@ -91,6 +85,14 @@ Website: [Pin-Ups For Vets](https://www.pinupsforvets.com/)
 > 1. The calendars would be sold to raise funds for our hospitalized Veterans.
 > 2. The calendars would be delivered as gifts to our ill and injured Veterans with messages of appreciation from the donors.
 > 3. The calendars would be sent to our deployed troops to help boost morale and to let them know that Americans back home are thinking of them.
+
+## Previously Supported Charities
+
+### National Center for Transgender Equality
+
+Website: [National Center for Transgender Equality](https://transequality.org/)
+
+> The National Center for Transgender Equality advocates to change policies and society to increase understanding and acceptance of transgender people. In the nation’s capital and throughout the country, NCTE works to replace disrespect, discrimination, and violence with empathy, opportunity, and justice.
 
 ### K2 Challenge via The Cloudcast
 

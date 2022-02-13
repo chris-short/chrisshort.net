@@ -8,7 +8,7 @@ slug = "gitops-an-implementation-of-devops"
 tags = ["GitOps", "DevOps", "system", "state", "automation", "teams", "process", "automatically", "change", "GitOps Working Group", "code", "IaC", "deploys", "tooling", "merged", "pull", "source", "approvals", "version", "safeties", "Continuous Deployment", "infrastructure", "immutability", "versioning", "history", "commit", "software agents", "GitOps Principles", "declarative", "OpenGitOps"]
 title = "GitOps: An implementation of DevOps"
 [cover]
-image = "https://c.chrisshort.net/file/chrisshort/opengitops-icon-color.svg"
+image = "https://shortcdn.com/file/chrisshort/opengitops-icon-color.svg"
 imagealt = "Open GitOps logo"
 showTOC = false
 

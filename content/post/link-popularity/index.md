@@ -82,4 +82,3 @@ This method is a little more involved than the first method but it's a tad more 
 If you attack your link popularity campaign using the suggestions discussed in this document you will be on the road to sustained, increasing traffic from month to month in no time.
 
 > This page contains information mentioned by members of WebmasterWorld in "[It's time to get some new links!](https://www.webmasterworld.com/forum12/785.htm)". I'd like to thank the members who posted in that thread and allowed me to use their advice and ideas here.
-

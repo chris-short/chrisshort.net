@@ -8,7 +8,7 @@ tags = ["pandemic", "year", "people", "K Rain Leander", "world", "cultural shift
 title = "Reader question: What are your favorite cultural shifts from the last year (and more)"
 ShowToc = false
 [cover]
-image = "https://c.chrisshort.net/file/chrisshort/covid-19-cdc.svg"
+image = "https://shortcdn.com/file/chrisshort/covid-19-cdc.svg"
 caption = "COVID-19 is more than just a pandemic"
 +++
 

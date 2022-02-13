@@ -8,7 +8,7 @@ ShowTOC = false
 slug = "writing-technical-articles"
 tags = ["writing", "article", "outline", "proofreading"]
 title = "Writing Technical Articles"
-image = "/writing-technical-articles/typewriter.jpg"
+image = "https://shortcdn.com/file/chrisshort/typewriter.jpg"
 imagecap = ""
 
 +++

@@ -14,7 +14,7 @@ aliases = [
     "/docker-inc.-is-dead/"
 ]
 [cover]
-image = "/docker-inc-is-dead/docker-is-dead.png"
+image = "https://shortcdn.com/file/chrisshort/docker-is-dead.png"
 +++
 
 > **DISCLAIMER**: The views expressed in this article are solely mine. They do not reflect the opinion of Cloud Native Computing Foundation (I'm a [CNCF Ambassador](/chris-short-named-cloud-native-ambassador/)), nor Red Hat, nor that of any group I am affiliated with, sponsored by, or employed by.
@@ -71,5 +71,3 @@ I floated out [a theory on Twitter](https://twitter.com/ChrisShort/status/946724
 * [Continuing coverage](https://devopsish.com/tags/docker/)
 
 > Japanese Translation: [Docker社は死んだ](http://itosho525.hatenablog.com/entry/2018/01/01/074358)
-
-

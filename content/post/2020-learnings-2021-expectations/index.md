@@ -8,7 +8,7 @@ slug = "2020-learnings-2021-expectations"
 tags = ["developer", "live streaming", "Kubernetes", "cloud native", "GitOps", "DevOps", "ARM", "data", "perfection", "speaking", "developer experience", "platform", "events", "global pandemic", "assumptions", "Edge", "5G", "infrastructure", "marketing", "Kubernetes release team", "chronic pain", "disability", "disabled", "release", "CFP", "open source", "exponential advancement", "automation", "systems", "OpenShift.tv", "software", "code", "joy", "Ford", "Detroit", "distributed systems", "management", "Ansible", "Kat Cosgrove", "ArgoCD", "Flux", "Weaveworks", "DevOps'ish", "conferences", "public speaking", "Christian Hernandez"]
 title = "2020 Learnings, 2021 Expectations"
 [cover]
-image = "/2020-learnings-2021-expectations/hope.jpg"
+image = "https://shortcdn.com/file/chrisshort/hope.jpg"
 
 +++
 
