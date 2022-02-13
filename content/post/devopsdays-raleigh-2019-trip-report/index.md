@@ -16,7 +16,7 @@ Disclaimer: I work for Red Hat, [my views and opinions are solely mine](/terms/)
 
 I had the pleasure of speaking at and attending [DevOpsDays Raleigh 2019](https://devopsdays.org/events/2019-raleigh/welcome/). First off, this event routinely out punches its weight class as far as quality. Don't get me wrong the McKimmon Center on NC State's campus has gotten very dated but, this five-year-old event keeps getting better.
 
-![DevOpsDays Raleigh 2019 had a packed house](/devopsdays-raleigh-2019-trip-report/devopsdays-raleigh-2019-audience.jpg)
+![DevOpsDays Raleigh 2019 had a packed house](https://shortcdn.com/file/chrisshort/devopsdays-raleigh-2019-audience.jpg)
 
 Note: If you are not familiar with [DevOpsDays](https://devopsdays.org/), please consider attending one near you in the next year. They are affordable and encourage networking better than most events I've been to. I spoke at my first DevOpsDays in [Detroit in 2016](https://www.devopsdays.org/events/2016-detroit/program/what-the-military-taught-me/). We lived in Raleigh, and I wanted to work for Red Hat. Now we live in Detroit near my wife's family, and I work for Red Hat. ***Who says DevOps doesn't make dreams come true?***
 
