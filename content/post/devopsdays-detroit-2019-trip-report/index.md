@@ -8,28 +8,26 @@ ShowTOC = false
 tags = ["DevOps", "DevOpsDays", "Detroit", "Site Reliability Engineering", "SRE", "Conway's Law", "business", "metrics", "data", "vendor pitch", "red hat", "engineering"]
 title = "DevOpsDays Detroit 2019 Trip Report"
 [cover]
-image = "/devopsdays-detroit-2019-trip-report/chris-short-devopsdays-detroit-2019.jpg"
+image = "https://shortcdn.com/file/chrisshort/chris-short-devopsdays-detroit-2019.jpg"
 caption = "Photo used with permission from [Brandon Dimcheff](https://twitter.com/bdimcheff)"
 
 +++
 
 Disclaimer: I work for Red Hat, [my views and opinions are solely mine](/terms/) though.
 
-I [spoke](https://speakerdeck.com/chrisshort/devops-is-not-war-df415c22-a29d-4cab-8689-143f9922c0f3), [sponsored](https://devopsdays.org/events/2019-detroit/sponsor) (as did Red Hat, my employer, thank you), and worked from the front row of [**DevOpsDays Detroit 2019**](https://devopsdays.org/events/2019-detroit/) this week. The event sold out for the first time this year. The venue has been the [College for Creative Studies](https://www.collegeforcreativestudies.edu/) in downtown Detroit for the past four years.
+I [spoke](https://speakerdeck.com/chrisshort/devops-is-not-war-df415c22-a29d-4cab-8689-143f9922c0f3), [sponsored](https://devopsdays.org/events/2019-detro`it/sponsor) (as did Red Hat, my employer, thank you), and worked from the front row of [**DevOpsDays Detroit 2019**](https://devopsdays.org/events/2019-detroit/) this week. The event sold out for the first time this year. The venue has been the [College for Creative Studies](https://www.collegeforcreativestudies.edu/) in downtown Detroit for the past four years.
+
+{{< carbon >}}
 
 The venue is awesome, in my opinion, because it puts systems thinkers in a venue space on top of an arts school overflowing with creative ideas. There is art around every corner. Attendees share the elevators with students going up to the event space. It's both humbling and inspiring. Detroit is a real-life Phoenix Project. Instead of an auto parts manufacturer, it's the 23rd most populous city in the US (and is ironically, The Motor City). But, the school is [putting its students' ideas to use to rebuild Detroit](https://www.collegeforcreativestudies.edu/experience/detroit). Detroit vs. Everybody.
 
-
-
 Overall, the event was done far better than in previous years. But, for whatever reason, things felt rushed. When you look at the [program](https://devopsdays.org/events/2019-detroit/program), it appeared the organizers were making more time for speakers and networking though. The talks covered [Site Reliability Engineering](https://landing.google.com/sre/books/) (SRE), disaster management and incident response, and using data to drive decisions that impact business goals. The only low light of the event is that I had to file a code of conduct complaint for the first time ever (for a speaker too). ***That sucked***.
-
-{{< carbon >}}
 
 I need to emphasize how heavily SRE practices and principles were discussed. Nearly every thirty-minute talk touched on an SRE principle of some sort. It is also worth noting, two talks mentioned, "You are not Google." Which is 100% accurate for everyone but Google. The first SRE book dropped in 2016 (to much fanfare). The SRE drumbeat has been picking up speed ever since (with two more books publishing as well). I think it's very safe to say Site Reliability Engineering is a "thing," and at the very least, parts of it can be quite beneficial to organizations.
 
 There was not a lot of Kubernetes talk on stage the first day, but the second day made up for it. The first day did have a wonderful open space on book recommendations. I will try to get that together in the coming days and publish that publicly. There was another open space to talk about improving diversity in workplaces. I was surprised (although I really shouldn't be) at how well Red Hat handles its programs. The discussion did manage to tie blamelessness, openness, and resiliency to diversity in a few ways. If you want to discuss that further, let me know. The industry is changing. It's great to be at Red Hat, a company helping to lead the way. Also, stop saying, "Guys."
 
-![Ramin Keene at DevOpsDays Detroit 2019](/devopsdays-detroit-2019-trip-report/ramin-keene-devopsdays-detroit-2019.jpg)
+![Ramin Keene at DevOpsDays Detroit 2019](https://shortcdn.com/file/chrisshort/ramin-keene-devopsdays-detroit-2019.jpg)
 
 [Ramin Keene](https://twitter.com/rmn) spoke of Unknown unknowns (unforeseen failure modes) in a way that resonated with the audience. He mentioned that complexity and change are constants in systems. Ramin also said, “complexity is a side effect of success.” When people talk about how complex Kubernetes is, I don't disagree at all. But, I also wonder if the same folks out there haven't hit the problems K8s solves enough to realize the complexity solved a ton of problems along the way. Kubernetes answers the question of, “How do I run all these containers at scale?”
 

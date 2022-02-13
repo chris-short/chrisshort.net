@@ -37,5 +37,3 @@ During my time within HSA the group complemented their study of esoteric psychol
 I left the group 15 years ago as I grew increasingly uncomfortable with the control DL exerted over the board members, and the spiritual and philosophical underpinnings of the group. My perspective, then, is as an outsider and I cannot speak authoritatively on the inner working of CPL. However, during my time at HSA I have seen families broken up over belief, marriages, if not arranged, then certainly encouraged, and an increasing insular lifestyle practiced by the board members, including moving to a neighbor together as a group.
 
 I will leave it to others to do their due diligence on this organization, just as I hope they would do with any organization they are considering investing time and money in. But CPL should acknowledge the spiritual rationale behind their work. To deny it is disingenuous and rightly raises suspicion of their motives.
-
-

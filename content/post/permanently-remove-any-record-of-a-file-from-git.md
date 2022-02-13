@@ -8,7 +8,7 @@ slug = "permanently-remove-any-record-of-a-file-from-git"
 tags = ["git", "remove", "scm", "vcs", "repo", "cloud"]
 title = "Permanently Remove Any Record of a File From git"
 [cover]
-image = "https://c.chrisshort.net/file/chrisshort/git-logo.png"
+image = "https://shortcdn.com/file/chrisshort/git-logo.png"
 
 +++
 

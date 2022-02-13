@@ -9,13 +9,11 @@ slug = "google-datacenter-lenoir-nc"
 tags = ["google"]
 title = "Google Building New Datacenter in Lenoir, NC"
 [cover]
-image = "https://c.chrisshort.net/file/chrisshort/Google_2007.png"
+image = "https://shortcdn.com/file/chrisshort/Google_2007.png"
 
 +++
 
 Good news for the Unifour area of North Carolina (where I lived three years of my early adult life), Google is building a 210 job, $600 million dollar datacenter to help bolster its online offerings.
-
-
 
 [Google Taps North Carolina for New Datacenter Site](https://www.ecommercetimes.com/story/55266.html) (E-Commerce Times):
 

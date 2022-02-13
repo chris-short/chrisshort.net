@@ -8,7 +8,7 @@ slug = "my-mac-os-x-setup-guide"
 tags = ["mac os x", "macos", "virtualbox", "tools"]
 title = "My Mac OS X Setup Guide"
 [cover]
-image = "https://c.chrisshort.net/file/chrisshort/macbook.jpg"
+image = "https://shortcdn.com/file/chrisshort/macbook.jpg"
 
 +++
 
@@ -71,5 +71,3 @@ I happen to be someone that finds themselves setting up new systems for myself o
 The majority of my time is spent in iTerm and Google Chrome. Google Chrome backs up my extensions, settings, etc. but iTerm does not have a reliable backup or sync solution. As a result I save the iTerm com.googlecode.iterm2.plist file to Google Drive. That way it is constantly synced to a cloud source.
 
 I spend a lot of time in vim as well. As a result, I update my .vimrc file accordingly. I have an Ansible Playbook to update vim settings as I like a specific color scheme. I try to stray from defaults as little as possible but it happens.
-
-

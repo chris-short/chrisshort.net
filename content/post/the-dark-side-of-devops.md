@@ -9,7 +9,7 @@ slug = "the-dark-side-of-devops"
 tags = ["DevOps"]
 title = "The Dark Side of DevOps"
 [cover]
-image = "https://c.chrisshort.net/file/chrisshort/dagobah-cave.jpg"
+image = "https://shortcdn.com/file/chrisshort/dagobah-cave.jpg"
 
 +++
 

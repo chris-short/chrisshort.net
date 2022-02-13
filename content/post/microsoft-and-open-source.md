@@ -28,5 +28,3 @@ Another example that there is no chance in hell Microsoft will warm up to Open S
 Obviously, Microsoft is very much anti-Open Source. Why? It's simple, Open Source means less money in Microsoft's ever deepening pockets. Microsoft has absolutely nothing to gain by going Open Source unless they do it the Microsoft way. If they do go through with making a push towards Open Source the Microsoft way, they will fail miserably. Open Source is more today than ever, not Microsoft and that's one of the reasons Open Source is doing so well. Some people in the Microsoft organization believe that Open Source is simply a fad and will die away eventually. That's what some people said about the Internet, too. Microsoft and Open Source don't really mix.
 
 If you don't believe me check out the [Halloween Documents](http://catb.org/~esr/halloween/index.html) from Eric S. Raymond. The Halloween Documents are a series of leaked memos from within the Microsoft organization regarding Linux and Open Source and a series of responses to those memos. It's good reading if you have the time.
-
-

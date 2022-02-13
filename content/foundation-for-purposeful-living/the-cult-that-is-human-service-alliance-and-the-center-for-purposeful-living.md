@@ -95,5 +95,5 @@ Discoveries of the Inquiring Mind can be found on [Amazon](https://amzn.to/2FxTc
 
 2) Also, a lot of people have been making comments about Derwyn Lackey; allow me to put a face with the name:
 
-![Derwyn Lackey (Derwin Lackey)](/foundation-for-purposeful-living/derwin-lackey-derwyn-lackey.jpg#center)
+![Derwyn Lackey (Derwin Lackey)](https://shortcdn.com/file/chrisshort/derwin-lackey-derwyn-lackey.jpg#center)
 Derwyn Lackey, Supreme Ruler of the Center for Purposeful Living

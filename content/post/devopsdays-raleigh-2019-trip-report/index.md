@@ -8,7 +8,7 @@ ShowTOC = false
 tags = ["DevOps", "DevOpsDays", "Raleigh", "Daniel Oh", "Kubernetes", "Quarkus"]
 title = "DevOpsDays Raleigh 2019 Trip Report"
 [cover]
-image = "/devopsdays-raleigh-2019-trip-report/cncf-ambassadors-daniel-oh-chris-short.jpg"
+image = "https://shortcdn.com/file/chrisshort/cncf-ambassadors-daniel-oh-chris-short.jpg"
 
 +++
 
@@ -28,7 +28,7 @@ I did an ignite karaoke talk (one minute, four random slides; [example deck](htt
 
 This one minute talk resulted in two folks asking how to [get started contributing to Kubernetes](https://github.com/kubernetes/community/tree/master/contributors/guide). I introduced another speaker to [SIG-Docs' Zach Corleissen](https://github.com/kubernetes/community/tree/master/sig-docs). They were really interested in making the docs easier for their spouse to consume and learn for career advancement.
 
-![Chris Short presenting at DevOpsDays Raleigh 2019](/devopsdays-raleigh-2019-trip-report/chris-short-devopsdays-raleigh-2019.jpg)
+![Chris Short presenting at DevOpsDays Raleigh 2019](https://shortcdn.com/file/chrisshort/chris-short-devopsdays-raleigh-2019.jpg)
 
 I did my [DevOps is Not War](https://docs.google.com/presentation/d/1-oMxRqk1Xs9mEWKofd3o5QYt2PvIx4ysbVAV5JxLQ24/) talk. It was well-received. But, there were actually folks grabbing me afterward saying I might have just solved a ton of their organizational issues. The persona of people who pulled me aside the most were Business Analysts and technical leads. All of them were trying to figure out how to push "classic" teams into the now. It was a DevOpsDays event, after all.
 

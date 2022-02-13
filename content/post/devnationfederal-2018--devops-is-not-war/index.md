@@ -9,7 +9,7 @@ slug = "devnationfederal-2018-devops-is-not-war"
 tags = ["speaking", "talks", "devops", "devnationfederal", "war", "cloud", "red hat"]
 title = "DevNationFederal 2018: DevOps is Not War"
 [cover]
-image = "/devnationfederal-2018-devops-is-not-war/chris-short-devnationfederal-2018.jpg"
+image = "https://shortcdn.com/file/chrisshort/chris-short-devnationfederal-2018.jpg"
 caption = "Photos Courtesy of [Derek Weeks](https://twitter.com/weekstweets)"
 
 +++

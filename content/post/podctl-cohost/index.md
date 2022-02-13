@@ -8,7 +8,7 @@ ShowTOC = false
 tags = ["PodCTL", "Kubernetes", "podcast"]
 title = "PodCTL Co-host"
 [cover]
-image = "/podctl-co-host/PodCTL-Logo-KubernetesFromRedHat-June2019.png"
+image = "https://shortcdn.com/file/chrisshort/PodCTL-Logo-KubernetesFromRedHat-June2019.png"
 alt = "PodCTL - Enterprise Kubernetes"
 
 +++
@@ -23,7 +23,7 @@ I [joined the OpenShift team](/joining-forces-with-openshift/) back in August. I
 
 This week, Brian Gracely reached out to me to cohost [**PodCTL**](https://www.podctl.com/), Red Hat's Kubernetes podcast. Knowing that Brian has the tooling and processes in place for podcast production, I didn't even hesitate to say, "Yes!" [We recorded an episode  today](https://podcasts.apple.com/gb/podcast/the-intersection-of-devops-and-kubernetes/id1270983443?i=1000456263929) while I'm at home here outside Detroit. [A fancy mic for my iPhone](https://amzn.to/2NYe0t0) is now part of my kit and we're off to the races.
 
-[![PodCTL Tweet](/podctl-co-host/1192894234069807104.png)](https://twitter.com/PodCtl/status/1192894234069807104)
+[![PodCTL Tweet](https://shortcdn.com/file/chrisshort/1192894234069807104.png)](https://twitter.com/PodCtl/status/1192894234069807104)
 
 Brian's focus will be Red Hat OpenShift and Red Hat's service offerings. My focus is going to be talking to the people building and using the tooling, working on or with Kubernetes, and connecting with folks working across the cloud native ecosystem. An important point I need to make, is that I'll record with you regardless of corporate affiliation. I work at a company that embraces open source software and communities, its Kubernetes podcast should too.
 

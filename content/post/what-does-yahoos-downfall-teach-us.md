@@ -8,7 +8,7 @@ slug = "what-does-yahoos-downfall-teach-us"
 tags = ["Yahoo", "Tumblr", "Marissa Meyer", "Verizon"]
 title = "What Does Yahoo's Downfall Teach Us?"
 [cover]
-image = "https://c.chrisshort.net/file/chrisshort/yahoo.jpg"
+image = "https://shortcdn.com/file/chrisshort/yahoo.jpg"
 
 +++
 

@@ -9,7 +9,7 @@ slug = "devopsdays-clt-2018"
 tags = ["open source", "devops", "thucydides", "thucydides trap", "talks", "culture", "war", "history", "empathy"]
 title = "DevOpsDays Atlanta 2018: DevOps is Not War"
 [cover]
-image = "https://c.chrisshort.net/file/chrisshort/chris-short-dodatl-2018-devops-is-not-war.jpg"
+image = "https://shortcdn.com/file/chrisshort/chris-short-dodatl-2018-devops-is-not-war.jpg"
 caption = "Photo courtesy [**Elissa Shevinsky**](https://twitter.com/ElissaBeth)"
 
 +++

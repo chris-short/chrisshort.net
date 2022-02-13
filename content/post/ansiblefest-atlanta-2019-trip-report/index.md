@@ -6,7 +6,7 @@ description = "The Ansible team made the Atlanta Hilton into a living and breath
 draft = false
 tags = ["Ansible", "AnsibleFest", "automation", "Kubernetes", "operators", "Red Hat"]
 title = "AnsibleFest Atlanta 2019 Trip Report"
-image = "/ansiblefest-atlanta-2019-trip-report/AnsibleFest-2019.png"
+image = "https://shortcdn.com/file/chrisshort/AnsibleFest-2019.png"
 
 +++
 
@@ -42,7 +42,7 @@ The overall reception was VERY positive. Immediately after the opening session, 
 
 ## Building Kubernetes Operators with Ansible Hands-on Workshop
 
-![Operabull: Operators with Ansible Make Kubernetes Sing!](/ansiblefest-atlanta-2019-trip-report/operabull-official-500.png#center)
+![Operabull: Operators with Ansible Make Kubernetes Sing!](https://shortcdn.com/file/chrisshort/operabull-official-500.png#center)
 
 The largest single workshop held at AnsibleFest this year was: Building Kubernetes Operators with Ansible Hands On Workshop. This is the output of a lot of folks' work. Matt, Melvin, Michael, and I took a room full of Ansible folks and brought them up to speed on [Kubernetes Operators](https://kubernetes.io/docs/concepts/extend-kubernetes/operator/) and writing [Operators with Ansible](https://ansible.com/operators/).
 
@@ -50,7 +50,7 @@ The largest single workshop held at AnsibleFest this year was: Building Kubernet
 
 The room was packed! We had 100 folks register and some extra space for some late registrants. From "show of hands" polling of the room, 25% of the room had used Kubernetes in some capacity. Four of those folks were OpenShift customers. Another four had written Go before. The entire room had familiarity with Ansible (as expected).
 
-The joy of watching eyes light up and lightbulbs come on when explaining that a classic, artisanal app could have its operational complexity managed with existing Ansible content is always awesome. Not having to rewrite things is a nice concept. Being able to take an Ansible role that manages many moving things and port that into Kubernetes brings a degree of relief to some people. Rewriting everything in a cloud native way isn't always possible (or ever possible). Legacy workloads are everywhere, and luckily, Ansible can help thanks to the [Operator SDK](https://github.com/operator-framework/operator-sdk).
+The joy of watching eyes light up and light bulbs come on when explaining that a classic, artisanal app could have its operational complexity managed with existing Ansible content is always awesome. Not having to rewrite things is a nice concept. Being able to take an Ansible role that manages many moving things and port that into Kubernetes brings a degree of relief to some people. Rewriting everything in a cloud native way isn't always possible (or ever possible). Legacy workloads are everywhere, and luckily, Ansible can help thanks to the [Operator SDK](https://github.com/operator-framework/operator-sdk).
 
 The reception to the workshop and its content was very positive. The team did a truly wonderful job! This tweet made my day.
 

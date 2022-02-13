@@ -8,7 +8,7 @@ tags = ["Ansible", "Linux", "Kubernetes", "team building", "psychological safety
 title = "A getting to know you exercise"
 ShowToc = false
 [cover]
-image = "/a-getting-to-know-you-exercise/three-things-that-make-me-who-i-am.png"
+image = "https://shortcdn.com/file/chrisshort/three-things-that-make-me-who-i-am.png"
 imagealt = "Three images that represent who Chris Short is"
 
 +++
@@ -19,7 +19,7 @@ In November, I went down to Raleigh to meet my team for planning meetings and te
 
 First, the two slide limit felt constraining. I wanted to use a standard template because I legit loathe thinking about layouts, presentation, etc. I used that as an excuse to build two slides to describe who I was and what I was known for. Second, choosing three things that make me who I am was a lot harder than I thought it would be. Narrow what makes you uniquely you down to three things. Also, I implied the context that it would need to help coworkers understand who you were better.
 
-![Three images that represent who Chris Short is](/a-getting-to-know-you-exercise/three-things-that-make-me-who-i-am.png)
+![Three images that represent who Chris Short is](https://shortcdn.com/file/chrisshort/three-things-that-make-me-who-i-am.png)
 
 For my first slide, "Three things that make me who I am," I chose three visuals to aid my coworkers better understand who I was at my core. The first image is a thermal image detecting increased blood flow to injured areas of the body. I do not recall my exact wording, but I made the following notes.
 

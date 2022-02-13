@@ -8,7 +8,7 @@ slug = "one-fish-two-fish-blue-fish-sporting-new-red-hat"
 tags = ["red hat", "ibm", "job", "life", "open source", "company", "acquisition"]
 title = "One Fish, Two Fish, Blue Fish Sporting New Red Hat"
 [cover]
-image = "/one-fish-two-fish-blue-fish-sporting-new-red-hat/ibm-to-acquire-red-hat.png"
+image = "https://shortcdn.com/file/chrisshort/ibm-to-acquire-red-hat.png"
 caption = "IBM to acquire Red Hat for $34 Billion (with a B)"
 
 +++
