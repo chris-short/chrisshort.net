@@ -44,7 +44,7 @@ I do recall making a few specific points on the "justice and the American way" p
 * Fuck the "justice" part because there is no such thing about...
 * "The American way" demonstrating to me that it is indeed truly just.
 
-![Three things Chris Short is professionally known for](/a-getting-to-know-you-exercise/professionally-known-for.png)
+![Three things Chris Short is professionally known for](https://shortcdn.com/file/chrisshort/professionally-known-for.png)
 
 The second slide contained three logos that I think a lot of folks reading this blog will be familiar with: Linux, Ansible, and Kubernetes. My professional career stands on a lot of different things, but these three projects define mine in a foundational way. I made the following notes to steer whatever conversation would ensue.
 
