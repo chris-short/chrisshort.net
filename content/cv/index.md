@@ -26,6 +26,8 @@ Results producing DevOps profession turned developer and community advocate. Clo
 
 ### Senior Developer Advocate, Amazon Web Services Kubernetes — Detroit, MI — Oct 2021 to Present
 
+* Launched [EKS.news](https://eks.news/), a newsletter covering the latest updates on Amazon Elastic Kubernetes Service (EKS); an additional mechanism to inform customers about new features and updates.
+
 ### Cloud Native Ambassador, Cloud Native Computing Foundation (CNCF) — Detroit, MI — Jan 2018 to Present
 
 * [GitOpsCon NA 2021 Program Committee member](https://www.credly.com/badges/734ed249-c1ed-460a-9cae-bd36c1b6a5e7/public_url), multiple times speaking at CloudNativeCon + KubeCon, and countless talks at DevOps, Kubernetes, and Cloud Native events
