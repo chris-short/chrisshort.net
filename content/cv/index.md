@@ -2,7 +2,7 @@
 
 author = "Chris Short"
 date = 2019-08-18T07:00:00Z
-description = "Curriculum Vitae of a 20+ year veteran of Information Technology and DevOps and current Technical Marketing professional."
+description = "Curriculum Vitae of a 20+ year veteran of Information Technology and DevOps and current Developer Advocacy professional."
 draft = false
 tags = ["resume", "cv"]
 slug = "curriculum-vitae"
@@ -31,7 +31,7 @@ Results producing DevOps profession turned developer and community advocate. Clo
 * [GitOpsCon NA 2021 Program Committee member](https://www.credly.com/badges/734ed249-c1ed-460a-9cae-bd36c1b6a5e7/public_url), multiple times speaking at CloudNativeCon + KubeCon, and countless talks at DevOps, Kubernetes, and Cloud Native events
 * Stood up Kubernetes Upstream Marketing team, an approver of tweets from K8sContributors, acquired hardware for streaming community meetings to lessen the load on others
 * [KubeWeekly](https://www.cncf.io/kubeweekly/) curator, Kubernetes YouTube channel admin, Contributor Summit workshop facilitator, Community Meeting and webinar moderator, and SIG-Contributor Experience member
-* Advocates for Kubernetes and the cloud native ecosystem through the acclaimed and independent newsletter, [DevOps'ish](https://devopsish.com/). Grown subscriber base to 5600+ subscribers since Dec 2016
+* Advocates for Kubernetes and the cloud native ecosystem through the acclaimed and independent newsletter, [DevOps'ish](https://devopsish.com/). Grown subscriber base to 5800+ subscribers since Dec 2016
 * With the help of other Kubernetes community members, created the first-ever [#KubeKhan](https://chrisshort.net/2018-learnings-2019-expectations/#kubekhan) at KubeCon Seattle 2018; brought together community members in a come as you are environment
 
 ### Principal Technical Marketing Manager, Red Hat — Detroit, MI — Aug 2019 to Oct 2021
