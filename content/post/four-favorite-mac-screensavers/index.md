@@ -20,6 +20,8 @@ Screensavers, you say? They’re more art than function these days. But, why not
 
 ## fliqlo
 
+Welcome <padbury.app> visitor's! The Padbury Clock wasn't built by me and modern versions of macOS no longer support the old code. Instead, I recommend fliqlo as a modern replacement.
+
 ![Fliqlo](https://shortcdn.com/file/chrisshort/fliqlo.webp#center)
 
 Fliqlo is my new, go-to screensaver of choice for macOS. fliqlo is a simple yet elegant screensaver, Fashioned after old-school flip clocks, that will keep you updated continuously.
