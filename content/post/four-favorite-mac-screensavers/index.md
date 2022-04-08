@@ -20,7 +20,7 @@ Screensavers, you say? They’re more art than function these days. But, why not
 
 ## fliqlo
 
-Welcome <padbury.app> visitor's! The Padbury Clock wasn't built by me and modern versions of macOS no longer support the old code. Instead, I recommend fliqlo as a modern replacement.
+Welcome <padbury.app> visitor's! The Padbury Clock wasn't built by me and modern versions of macOS no longer support the old code. Instead, I recommend fliqlo as a modern replacement. Since running older code like Padbury Clock is potentially hazardous, I will no longer make a copy of it available (sorry, lawyers).
 
 ![Fliqlo](https://shortcdn.com/file/chrisshort/fliqlo.webp#center)
 
