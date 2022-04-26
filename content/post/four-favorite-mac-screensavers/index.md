@@ -2,14 +2,16 @@
 author = "Chris Short"
 categories = ["Apple", "2020", "2021"]
 date = 2021-09-25T07:00:00Z
-description = "Chris Short's four favorite macOS screensavers"
+description = "Chris Short's three favorite macOS screensavers"
 draft = false
-slug = "four-favorite-macos-screensavers"
+slug = "three-favorite-macos-screensavers"
 tags = ["macOS", "screensaver", "Aerial", "Apple", "screensavers", "fliqlo", "padbury", "clock", "time", "drift", "favorite"]
-title = "Updated: My four favorite macOS screensavers"
+title = "Updated: My three favorite macOS screensavers"
 [cover]
 image = "https://shortcdn.com/file/chrisshort/dmitry-chernyshov-mP7aPSUm7aE-unsplash.jpg"
 aliases = [
+    "/updated-my-four-favorite-macos-screensavers/",
+    "updated-my-four-favorite-macos-screensavers"
     "my-three-favorite-macos-screensavers",
     "/my-three-favorite-macos-screensavers/"
 ]
@@ -33,14 +35,6 @@ Fliqlo is my new, go-to screensaver of choice for macOS. fliqlo is a simple yet 
 ![Drift screensaver on macOS](https://shortcdn.com/file/chrisshort/drift_macos.jpg#center)
 
 A prepackaged screensaver with macOS since Catalina Beta 3, Drift has a flowy kind of feel. It's a screensaver that makes you feel like you could be sitting in a digital ocean of 1s and 0s washing over you. It's currently the default on my daily driver because it's so relaxing.
-
-## Padbury Clock
-
-![Padbury Clock](https://shortcdn.com/file/chrisshort/padbury-clock-screen-saver.png#center)
-
-This one is so useful to me I built a tribute site to it. [Padbury Clock](https://padbury.app/) by Robert Padbury is one of the most useful things to have as a screensaver. When you walk back to your desk, you immediately know what time it is. It's also handy in case someone is walking by and needs a reminder too.
-
-Note: As this is older software that hasn't been updated in *years*, I'm not sure if it's still functional on modern versions of macOS.
 
 {{< eo_signup >}}
 
