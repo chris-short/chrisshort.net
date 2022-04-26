@@ -22,6 +22,8 @@ Screensavers, you say? They’re more art than function these days. But, why not
 
 ## fliqlo
 
+Welcome [padbury.app](https://padbury.app) visitor's! The Padbury Clock wasn't built by me and modern versions of macOS no longer support the old code. Instead, I recommend fliqlo as a modern replacement. Since running older code like Padbury Clock is potentially hazardous, I will no longer make a copy of it available (sorry, lawyers).
+
 ![Fliqlo](https://shortcdn.com/file/chrisshort/fliqlo.webp#center)
 
 Fliqlo is my new, go-to screensaver of choice for macOS. fliqlo is a simple yet elegant screensaver, Fashioned after old-school flip clocks, that will keep you updated continuously.
@@ -36,8 +38,6 @@ Fliqlo is my new, go-to screensaver of choice for macOS. fliqlo is a simple yet 
 
 A prepackaged screensaver with macOS since Catalina Beta 3, Drift has a flowy kind of feel. It's a screensaver that makes you feel like you could be sitting in a digital ocean of 1s and 0s washing over you. It's currently the default on my daily driver because it's so relaxing.
 
-{{< eo_signup >}}
-
 ## Aerial
 
 ![Aerial](https://shortcdn.com/file/chrisshort/aerial-screensaver.gif#center)
@@ -51,3 +51,5 @@ This screensaver is cool af. For years, the Apple TV came with these beautiful f
 [Aerial](https://aerialscreensaver.github.io/) is a wonderfully maintained and curated collection of Apple created, extravagant flyovers of places and dives through things. There is even a [Linux port of Aerial](https://github.com/graysky2/xscreensaver-aerial/). It's a real delight to have it on the Apple TV I use to monitor [OpenShift.tv](https://openshift.tv). It's a friendly reminder that there's a much bigger world out there.
 
 But, a gentle reminder that if you don't have a graphics card, you're going to be eating a lot of CPU with your screensaver.
+
+{{< eo_signup >}}
