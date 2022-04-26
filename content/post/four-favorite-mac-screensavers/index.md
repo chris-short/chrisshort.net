@@ -2,14 +2,16 @@
 author = "Chris Short"
 categories = ["Apple", "2020", "2021"]
 date = 2021-09-25T07:00:00Z
-description = "Chris Short's four favorite macOS screensavers"
+description = "Chris Short's three favorite macOS screensavers"
 draft = false
-slug = "four-favorite-macos-screensavers"
+slug = "three-favorite-macos-screensavers"
 tags = ["macOS", "screensaver", "Aerial", "Apple", "screensavers", "fliqlo", "padbury", "clock", "time", "drift", "favorite"]
-title = "Updated: My four favorite macOS screensavers"
+title = "Updated: My three favorite macOS screensavers"
 [cover]
 image = "https://shortcdn.com/file/chrisshort/dmitry-chernyshov-mP7aPSUm7aE-unsplash.jpg"
 aliases = [
+    "/updated-my-four-favorite-macos-screensavers/",
+    "updated-my-four-favorite-macos-screensavers"
     "my-three-favorite-macos-screensavers",
     "/my-three-favorite-macos-screensavers/"
 ]

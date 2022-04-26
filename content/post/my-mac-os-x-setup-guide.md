@@ -43,7 +43,6 @@ I happen to be someone that finds themselves setting up new systems for myself o
 * [Chrome Canary](https://www.google.com/chrome/browser/canary.html)
 * [Firefox Developer Edition](https://www.mozilla.org/en-US/firefox/developer/)
 * [Safari Technology Preview](https://developer.apple.com/safari/download/)
-* [Padbury Clock](https://padbury.app/) - I am fascinated by time and I love this screensaver!
 * [Telegram](https://desktop.telegram.org/)
 * [VLC](http://www.videolan.org/)
 

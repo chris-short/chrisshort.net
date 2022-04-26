@@ -89,15 +89,6 @@ Analytics: <https://app.usefathom.com/share/gkvngtda/nomedium.dev>
 
 Analytics: <https://app.usefathom.com/share/acmuyzfw/devopsish.com>
 
-## padbury.app
-
-[Padbury Clock](https://padbury.app/) - An homage to Padbury Clock: A basic digital clock screensaver from Australian American designer Robert Padbury.
-
-> Padbury Clock Screensaver, made by Robert Padbury, debuted on Product Hunt on 2015-03-26. It quickly rose to #3 Product of the Day. Rightfully so; Padbury Clock has been one of my favorite screensavers of all time since that day.
-
-Source: <https://github.com/chris-short/padbury.app>  
-Analytics: <https://app.usefathom.com/share/pvppbtem/padbury.app>
-
 ## ssl-tester
 
 A small Go app designed specifically to help troubleshoot certificate chains. A detailed use case that prompted the creation of this code was [featured on opensource.com](https://opensource.com/article/17/4/testing-certificate-chains-34-line-go-program). I highly recommend reading it.
