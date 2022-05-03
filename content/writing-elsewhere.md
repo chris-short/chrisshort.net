@@ -10,6 +10,14 @@ aliases = [
 ]
 +++
 
+## [Updated: Dockershim Removal FAQ | Kubernetes](https://kubernetes.io/blog/2022/02/17/dockershim-faq/)
+
+**Authors**: Dockershim Adhoc Docs Team
+
+> This is an update to the original [Dockershim Deprecation FAQ](https://kubernetes.io/blog/2020/12/02/dockershim-faq/) article, published in late 2020.
+>
+> This document goes over some frequently asked questions regarding the deprecation and removal of dockershim, that was [announced](https://kubernetes.io/blog/2020/12/08/kubernetes-1-20-release-announcement/) as a part of the Kubernetes v1.20 release. For more detail on what that means, check out the blog post [Don't Panic: Kubernetes and Docker](https://kubernetes.io/blog/2020/12/02/dont-panic-kubernetes-and-docker/).
+
 ## [Kubernetes is Moving on From Dockershim: Commitments and Next Steps](https://kubernetes.io/blog/2022/01/07/kubernetes-is-moving-on-from-dockershim/)
 
 **Authors**: Sergey Kanzhelev (Google), Jim Angel (Google), Davanum Srinivas (VMware), Shannon Kularathna (Google), Chris Short (AWS), Dawn Chen (Google)
