@@ -11,7 +11,7 @@ title = "Updated: My three favorite macOS screensavers"
 image = "https://shortcdn.com/file/chrisshort/dmitry-chernyshov-mP7aPSUm7aE-unsplash.jpg"
 aliases = [
     "/updated-my-four-favorite-macos-screensavers/",
-    "updated-my-four-favorite-macos-screensavers"
+    "updated-my-four-favorite-macos-screensavers",
     "my-three-favorite-macos-screensavers",
     "/my-three-favorite-macos-screensavers/"
 ]
