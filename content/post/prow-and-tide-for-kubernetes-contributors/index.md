@@ -6,7 +6,7 @@ date = 2022-05-06T11:00:00Z
 description = "Prow and Tide (the systems behind the scenes working on GitHub) are here to help Kubernetes Contributors get stuff done."
 draft = false
 slug = "prow-and-tide-for-kubernetes-contributors"
-tags = []
+tags = ["Kubernetes contributors", "Kubernetes", "prow", "tide", "label sync", "label", "command"]
 title = "Prow and Tide for Kubernetes Contributors"
 [cover]
 image = "https://shortcdn.com/file/chrisshort/prow-and-tide.webp"
