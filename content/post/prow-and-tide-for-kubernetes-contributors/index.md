@@ -10,7 +10,9 @@ tags = ["Kubernetes contributors", "Kubernetes", "prow", "tide", "label sync", "
 title = "Prow and Tide for Kubernetes Contributors"
 showToc = false
 [cover]
-image = "https://shortcdn.com/file/chrisshort/prow-and-tide.webp"
+    image = "https://shortcdn.com/file/chrisshort/prow-and-tide.webp"
+        alt = "Prow + Tide = Happy Kubernetes Contributors"
+
 
 +++
 
