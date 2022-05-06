@@ -8,6 +8,7 @@ draft = false
 slug = "prow-and-tide-for-kubernetes-contributors"
 tags = ["Kubernetes contributors", "Kubernetes", "prow", "tide", "label sync", "label", "command"]
 title = "Prow and Tide for Kubernetes Contributors"
+showToc = false
 [cover]
 image = "https://shortcdn.com/file/chrisshort/prow-and-tide.webp"
 
