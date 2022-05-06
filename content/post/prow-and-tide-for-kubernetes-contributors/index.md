@@ -40,11 +40,11 @@ Some of my more often used commands and labels:
 * `/(woof|bark|this-is-{fine|not-fine|unbearable})`
 * `/remove-lifecycle stale` (when issues aren't touched for a period of time they're marked stale)
 * `/shrug`
-* `/label area/contributor-comms `(You can use this to flag down the contributor communications team for reviews, comments on any issue, feedback, etc.)
+* `/label area/contributor-comms` (You can use this to flag down the contributor communications team for reviews, comments on any issue, feedback, etc.)
 * `/label size/X` (Sizes are assigned automatically based on the number of lines changed in the PR)
-* `/label do-not-merge/hold `(This one is used for many things; if your PR is a work in progress, needs to be held to a certain date, etc.)
-* `/lgtm `(Adds or removes the 'lgtm' label which is typically used to gate merging)
-* `/approve `(Approves a pull request; must be done by someone in the repo's OWNERS file)
+* `/label do-not-merge/hold` (This one is used for many things; if your PR is a work in progress, needs to be held to a certain date, etc.)
+* `/lgtm` (Adds or removes the 'lgtm' label which is typically used to gate merging)
+* `/approve` (Approves a pull request; must be done by someone in the repo's OWNERS file)
 
 What if you need a label that isn't available on a certain GitHub repository? I'm glad you asked! This PR demonstrates how to add labels to a repo: [https://github.com/kubernetes/test-infra/pull/24315](https://github.com/kubernetes/test-infra/pull/24315). You'll need to update the [labels.yaml file](https://github.com/kubernetes/test-infra/blob/master/label_sync/labels.yaml) (the configuration) and the [labels.md file](https://github.com/kubernetes/test-infra/blob/master/label_sync/labels.md) (documentation).
 
