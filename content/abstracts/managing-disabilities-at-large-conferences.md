@@ -5,23 +5,39 @@ date = 2021-05-20T07:00:00Z
 description = ""
 draft = false
 slug = "managing-disabilities-at-large-conferences"
-tags = ["devops", "culture", "thucydides", "thucydides trap", "cfp"]
-title = "DevOps is Not War"
+tags = []
+title = "Managing Disabilities at Large Conferences"
 
 +++
 
 ## Abstract
 
 
+
 ## Description
+
 
 
 ### whoami
 
-* Brands
-* Disabled Veteran
+* (Three Panels of logos)
+* AWS
+* DevOps'ish
+* chrisshort.net
+
+### Expertise in Disabilities
+
+* Hurt in 2003 during a hurricane evacuation exercise
+* Fought two wars and got hurt after the fact
+* https://chrisshort.net/ltn
+* Growing up: Whenever something changed I asked how the day was going to go
+* Anxiety: Growing up the way I did, you lived kinda day to day; the military reinforced this
+* PTSD: This was not an issue at first; then I read the Snowden leaks and my world began to crumble; I helped enable a lot of that government overreach
+* Coming to grips with it all is a process I'm still learning
 
 ### How this talk came to be
+
+I've had a long run of 
 
 ### How I Hurt Myself
 
