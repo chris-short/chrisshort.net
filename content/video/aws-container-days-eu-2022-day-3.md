@@ -12,6 +12,10 @@ ShowTOC = false
 
 {{< carbon >}}
 
+> In the days leading up to Kubecon + CloudNativeCon we'll be spending the week talking about how you can deploy, manage, and scale containerized applications using Kubernetes on AWS. These sessions, led by our AWS Kubernetes team and guest speakers, will contain technical deep dives, product demos, and best practices.
+> 
+> Can't wait to learn what's happening with Amazon EKS & Kubernetes, check out the EKS Newsletter curated by our EKS Developer Advocates. [Subscribe to EKS News](https://eks.news/#subscribe) today!
+
 ## EKS Anywhere Curated Packages | Lewis Diamond, Sr. SDE, AWS  & Jonah Jones, Solutions Architect & Lichun Li, Sr. Product Manager, AWS
 
 {{< youtube -HezPnQ8WM4 >}}
