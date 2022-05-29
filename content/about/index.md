@@ -48,6 +48,7 @@ Chris is now working in the [open source](https://chrisshort.net/tags/open-sourc
 * [EKS News](https://eks.news/)
 * [Projects](/projects/)
 * [Newsletter](/newsletter/)
+* [Video](/video/)
 * [Speaking](/speaking/)
 * [Interviews](/interviews/)
 * [Books](/books/)
