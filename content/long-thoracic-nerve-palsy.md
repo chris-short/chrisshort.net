@@ -16,7 +16,9 @@ aliases = [
 
 +++
 
-I'm Chris Short and I have **Long Thoracic Nerve (LTN) Palsy** with **Winging of the Scapula**. On October 12, 2003, during a military hurricane evacuation exercise at Avon Park Air Force Range, I managed to permanently damage my LTN leading to winging of my right scapula.
+{{< carbon >}}
+
+I'm Chris Short and I have **Long Thoracic Nerve (LTN) Palsy** with **Winging of the Scapula**. On October 12, 2003, during a military hurricane evacuation exercise at Avon Park Air Force Range, I managed to permanently damage my LTN leading to winging of my right scapula. Continued service and aging has led to multiple bone spurs in my neck.
 
 My life has changed dramatically since I got hurt. Pain is something that I am constantly learning to live with and occasionally thrive with.
 
@@ -24,11 +26,11 @@ My life has changed dramatically since I got hurt. Pain is something that I am c
 
 According to Wikipedia, "A **winged scapula** (scapula alata) is a condition in which the shoulder blade, or shoulder bone, protrudes from a person's back in an abnormal position. It is a rare condition with the potential to lead to limited functional activity in the upper extremity with which it is adjacent. It can affect a person's ability to lift, pull, and push weighty objects."
 
+My winging is "managed" meaning, the only change is when there's an increase in inflammation under the scapula. Where it current sits is its new normal. This took a lot of physical therapy.
+
 ## Long Thoracic Nerve (LTN) Palsy
 
 The **long thoracic nerve** (LTN) is a nerve that arises from the fifth, sixth, and seventh cervical nerves, descends the neck behind the brachial plexus, and is distributed to the anterior serratus muscle.
-
-{{< carbon >}}
 
 **Palsy** is a medical term derived from the word paralysis that is defined as paralysis often accompanied by loss of feeling and uncontrolled body movements such as shaking.
 
@@ -38,17 +40,21 @@ The **long thoracic nerve** (LTN) is a nerve that arises from the fifth, sixth, 
 
 ## Pain Relief
 
-There is not much that offers pain relief from the nerve damage itself.  The muscle in my shoulder and upper back tend to always be sore from everyday use due to the winging. But, muscle relaxers are incredibly important in keeping my pain under control. Eliminating muscle spasms leads to a better life experience overall and prevents nasty flare ups before they even start. It took ten years to realize this and hopefully others can learn from this.
+There is not much that offers pain relief from the nerve damage itself.  The muscle in my shoulder and upper back tend to always be sore from everyday use due to the winging. But, muscle relaxers are incredibly important in keeping my pain under control. Eliminating muscle spasms leads to a better life experience overall and prevents nasty flare ups before they can start. It took ten years to realize this and hopefully others can learn from this.
 
 ### Muscle Spasms
 
-As of December 1, 2013 I am taking [Cyclobenzaprine](https://en.m.wikipedia.org/wiki/Cyclobenzaprine) (generic Flexirl) at night and [Methocarbamol](https://en.wikipedia.org/wiki/Methocarbamol) (generic Robaxin) during the day to make sure the spasticity is held at bay. At one point I was taking Baclofen, Cyclobenzaprine, and Methocarbamol during the course of the day. This combination apparently has some memory loss side effect. I was subsequently taken off the Baclofen and I could tell my short term memory was a little better.
+I am taking [Cyclobenzaprine](https://en.m.wikipedia.org/wiki/Cyclobenzaprine) (generic Flexirl) three times a day to keep spasticity is held at bay.
+
+#### Lesson Learned
+
+At one point I was taking Baclofen, Cyclobenzaprine, and Methocarbamol during the course of the day. This combination apparently has some memory loss side effect. I was subsequently taken off the Baclofen and I could tell my short term memory was a little better.
 
 ### Pain Killers
 
 Narcotic pain killers have helped over the years but their side effects have also been harmful. Staying off of them is a goal that I have set but after years of taking some form of narcotic pain relievers getting off of them is a challenge. Currently, I am prescribed [Norco](https://en.wikipedia.org/wiki/Hydrocodone/paracetamol) (tramadol had become ineffective) to help with breakthrough pain. It is not very effective unless I take it long before a potentially painful event.
 
-[Belbuca](https://www.belbuca.com/) has been a recent addition to my medication arsenal. It is incredibly effective at beating back pain and keeping the baseline level of pain more tolerable. I still deal with normal discomfort and trigger point pain. But, a heating pad is usually helpful.
+[Belbuca](https://www.belbuca.com/) has been a more recent addition, to my medication arsenal. It is incredibly effective at beating back pain and keeping the baseline level of pain more tolerable. I still deal with normal discomfort and trigger point pain. But, a heating pad and/or supportive arm sleeve is usually helpful.
 
 ### Homeopathic Remedies
 
@@ -56,9 +62,9 @@ At the advice of my Pain Medicine Doctor and a chiropractor I have experimented 
 
 After some research into normal chemicals and their ability to help with muscle spasms, I added [Magnesium Citrate](https://amzn.to/30xASqZ) to the mix. It helps with the knocking or tapping kind of spasms (it won't touch the big ones). It also helps digestive functions.
 
-I also take [turmeric](https://amzn.to/2EP6n7k) to help with inflammation. After years of taking a variety of NSAIDs like ibuprofen and naproxen multiple ulcers have formed in my stomach. Turmeric has been known to have anti-inflammation effects.
+I also take [turmeric](https://amzn.to/3GiX5fB) to help with inflammation. After years of taking a variety of NSAIDs like ibuprofen and naproxen multiple ulcers have formed in my stomach. Turmeric has been known to have anti-inflammation effects.
 
-I also take [fish oil](https://amzn.to/33zk0C2) and a [glucosamine, chondroitin, MSM](https://amzn.to/3idFU1H) supplement for their joint and heart health benefits.
+I also take [fish oil](https://amzn.to/33zk0C2) and a [glucosamine, chondroitin, MSM](https://amzn.to/3G9IeEj) supplement for their joint and heart health benefits.
 
 ### Trigger Point Injections
 
@@ -75,3 +81,9 @@ As of late, I've been dealing with more nerve pain than muscular. After trials o
 For whatever reason, Lyrica puts me excessively on edge and makes me very irritable. This has been consistent over two stints with the medication.
 
 As a result of all this, we've flipped to superscapular nerve blocks. This is an injection of lidocaine and a steroid that floods the area in the superscapular region where the long thoracic nerve ventures further down into the body. I can get them as frequently as once a quarter, but they should last longer than that in theory.
+
+### Radiofrequency Ablation
+
+The latest treatment is going into my pain management office every six months and cooking the nerves in the facet joints in the C-spine so that they detach. Nerves at that small a level and as young as I am, tend to reconnect.
+
+The procedure itself is incredibly painful and is not for the faint of heart. Seriously consider all your options before going down this route. It's effective for me. But the recovery time is sometimes a couple weeks.
