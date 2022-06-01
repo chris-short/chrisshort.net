@@ -54,6 +54,13 @@ Params:
     ShowToc: true
     ShowBreadCrumbs: true
     ShowPostNavLinks: true
+    ShowCodeCopyButtons: true
+    ShowFullTextinRSS: true
+    defaultTheme: light
+    disableThemeToggle: true
+    disableScrollToTop: true
+    ShowWordCount: true
+    ShowRssButtonInSectionTermList: true
 
 imaging:
   resampleFilter: box
