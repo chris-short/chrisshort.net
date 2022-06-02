@@ -19,10 +19,7 @@ The month of October was quite unique for me. I went to a number of conferences 
 
 One distinctly unique opportunity was to sit down with the folks from The Cloudcast to tell my [**DevOps**](https://devopsish.com/) story. [The Cloudcast #277 - DevOps Perspectives from the Front Lines](http://www.thecloudcast.net/2016/10/the-cloudcast-277-devops-perspective.html) is available on their site or you can listen here:
 
-<audio controls>
-  <source src="https://shortcdn.com/file/chrisshort/the-cloudcast-277-devops-perspectives-from-the-front-lines.mp3" type="audio/mpeg">
-Your browser does not support the audio element but you can download it as an MP3.
-</audio>
+{{< audio the-cloudcast-277-devops-perspectives-from-the-front-lines.mp3 >}}
 
 Also available as an [MP3 download](https://shortcdn.com/file/chrisshort/the-cloudcast-277-devops-perspectives-from-the-front-lines.mp3)
 
