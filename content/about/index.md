@@ -11,6 +11,8 @@ aliases = [
 
 +++
 
+# Chris Short
+
 ## Tagline
 
 Sr. Dev Advocate, [AWS Kubernetes](https://aws.amazon.com/eks/) | Co-chair [OpenGitOps](https://opengitops.dev/) | [EKS.news](https://eks.news/) | [DevOps'ish](https://devopsish.com/) | [Disabled Veteran](/long-thoracic-nerve-palsy/) | [Views solely mine](https://chrisshort.net/terms/#disclaimer)
