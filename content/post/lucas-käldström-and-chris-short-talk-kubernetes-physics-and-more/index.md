@@ -30,6 +30,7 @@ I had a chance to speak with Lucas at KubeCon + CloudNativeCon EU 2022 in Valenc
 
 {{< pdf bsc_thesis.pdf >}}
 
+
 Direct download via [GitHub](https://github.com/luxas/research/raw/main/bsc_thesis.pdf)
 
 ## Transcript
