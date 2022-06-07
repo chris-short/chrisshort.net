@@ -8,7 +8,7 @@ draft = false
 slug = "lucas-käldström-and-chris-short-talk-kubernetes-physics-and-more"
 tags = ["Lucas Käldström", "Chris Short", "Kubernetes", "state", "servers", "chaos", "latency", "physics", "failure", "dishes", "taxi", "thesis", "plan", "action", "model", "GitHub", "theory", "consistency", "control", "scale", "probability", "systems", "container", "nodes", "DNS", "operator"]
 title = "Lucas Käldström and Chris Short Talk Kubernetes, Physics, and more"
-showToc = false
+showToc = true
 [cover]
     image = "https://shortcdn.com/file/chrisshort/lucas-kaldstrom-and-chris-short-talk-kubernetes-physics-and-more.webp"
         alt = "Lucas Käldström and Chris Short talking at KubeCon + CloudNativeCon EU 2022"
@@ -25,6 +25,10 @@ I had a chance to speak with Lucas at KubeCon + CloudNativeCon EU 2022 in Valenc
 ## Video
 
 {{< youtube 0rOvC8IhIEk >}}
+
+## Research Paper
+
+{{< pdf bsc_thesis.pdf >}}
 
 ## Transcript
 
