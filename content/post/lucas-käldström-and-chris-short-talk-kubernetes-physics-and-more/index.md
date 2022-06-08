@@ -20,7 +20,7 @@ showToc = true
 
 Lucas Käldström has a brilliant thesis out titled, "Encoding human-like operational knowledge using declarative Kubernetes operator patterns." We sat down to talk about how, "Kubernetes operators form a novel programming model, allowing a shift from humans managing servers to servers managing servers, analogously to the Industrial Revolution."
 
-I had a chance to speak with Lucas at KubeCon + CloudNativeCon EU 2022 in Valencia. This topic is pretty mind blowing. Lucas' [thesis is available via GitHub](https://github.com/luxas/research/blob/main/bsc_thesis.pdf).
+I had a chance to speak with Lucas at KubeCon + CloudNativeCon EU 2022 in Valencia. This topic is pretty mind blowing. Lucas' [thesis is available via GitHub](https://github.com/luxas/research/raw/main/bsc_thesis.pdf).
 
 ## Video
 
@@ -29,6 +29,9 @@ I had a chance to speak with Lucas at KubeCon + CloudNativeCon EU 2022 in Valenc
 ## Research Paper
 
 {{< pdf bsc_thesis.pdf >}}
+
+
+Direct download via [GitHub](https://github.com/luxas/research/raw/main/bsc_thesis.pdf)
 
 ## Transcript
 
