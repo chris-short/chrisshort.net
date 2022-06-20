@@ -6,7 +6,7 @@ date = 2022-06-20T07:00:00Z
 description = "Conway's Law and GitOps go hand in hand."
 draft = false
 slug = "conways-law-and-gitops"
-tags = []
+tags = ["GitOps", "Conway's Law", "system", "management", "communication", "structure", "communicate"]
 ShowTOC = false
 title = "Conway's Law and GitOps"
 [cover]
