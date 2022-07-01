@@ -31,7 +31,7 @@ Chris Short has worked in the Information Technology field since 1995. Getting h
 
 When the [Dot-com bubble](https://en.wikipedia.org/wiki/Dot-com_bubble) began to burst and trouble loomed on the horizon for tech jobs, Chris joined the US Air Force as a [Tech Controller (3C2X1)](https://chrisshort.net/3c2x1-tech-control/). During his eleven years in the Air Force, Chris served at four duty stations: Langley AFB, VA, MacDill AFB, FL, Buckley AFB, CO, and Pope AFB, NC. Chris participated in countless exercises across the globe and deployed three times: twice to the Middle East and once to Central America. Chris served under three US Presidents: Clinton, Bush, and Obama. In October 2003, while conducting a training exercise, Chris suffered an injury that damaged his [long thoracic nerve](https://chrisshort.net/long-thoracic-nerve-palsy/). However, that did not deter Chris from trying to exceed all expectations despite living in continuous pain. In 2008, he won Air Force Communications-Computer Systems Outstanding NCO of the Year for Pope Air Force Base. In 2010, Chris was medically separated from the Air Force.
 
-Chris is now working in the [open source](https://chrisshort.net/tags/open-source/), [Linux](https://chrisshort.net/tags/linux/) systems, [Cloud Native](https://chrisshort.net/tags/cloud-native/), [DevOps](https://devopsish.com/what-is-devops/), and [GitOps](https://chrisshort.net/tags/gitops/) spaces. He writes and maintains the [DevOps'ish](https://devopsish.com) newsletter while contributing to the [KubeWeekly](https://www.cncf.io/kubeweekly/) newsletter. He calls the Greater Metro Detroit area his home. His up to date [Résumé](https://bit.ly/3GDKYte) or [Curriculum Vitae](/curriculum-vitae/) are available.
+Chris is now working in the [open source](https://chrisshort.net/tags/open-source/), [Linux](https://chrisshort.net/tags/linux/) systems, [Cloud Native](https://chrisshort.net/tags/cloud-native/), [DevOps](https://devopsish.com/what-is-devops/), and [GitOps](https://chrisshort.net/tags/gitops/) spaces. He writes and maintains the [DevOps'ish](https://devopsish.com) newsletter. He calls the Greater Metro Detroit area his home. His up to date [Résumé](https://bit.ly/3GDKYte) or [Curriculum Vitae](/curriculum-vitae/) are available.
 
 ## Headshot
 
@@ -46,8 +46,6 @@ Chris is now working in the [open source](https://chrisshort.net/tags/open-sourc
 ## Appearances Elsewhere
 
 * [DevOps'ish](https://devopsish.com)
-* [KubeWeekly](https://www.cncf.io/kubeweekly/)
-* [EKS News](https://eks.news/)
 * [Projects](/projects/)
 * [Newsletter](/newsletter/)
 * [Video](/video/)

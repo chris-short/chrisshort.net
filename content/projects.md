@@ -14,27 +14,19 @@ Like anyone who has worked on the web long enough, I have a lot of side projects
 
 *Cloud Native, DevOps, GitOps, Open Source, industry news, culture, and the ‘ish between.*
 
-> Cloud Native, DevOps, GitOps, Open Source, industry news, culture, and the ‘ish between. A weekly newsletter assembled by open source contributor, DevOps veteran, and CNCF Ambassador Chris Short. Attempting to lower the barrier to entry into the DevOps and Cloud Native world while keeping seasoned professionals informed on the latest news, tools, and trends. Sign up for the newsletter today!
+> Cloud Native, DevOps, GitOps, Open Source, industry news, culture, and the ‘ish between. A weekly newsletter assembled by open source leader, DevOps veteran, and Kubernetes Contributor Chris Short. Attempting to lower the barrier to entry into the DevOps and Cloud Native worlds while keeping seasoned professionals informed on the latest news, tools, and trends. Sign up for the newsletter today!
 >
 > I strive, every week, to put together the best newsletter covering DevOps, Cloud Native, and Open Source Software. The three main sections of the newsletter are People, Process, and Tools. They are in that order for a reason: People implement Processes using Tools. These three components should be cared for in that order too.
 >
-> Don't take my word for it. See what [people way smarter than me are saying about DevOps'ish](https://devopsish.com/praise/).
+> Don’t take my word for it. See what [people way smarter than me are saying about DevOps’ish](/praise/).
+>
+> [What is DevOps?](https://devopsish.com/what-is-devops/) I'm glad you asked!
 
 {{< eo_signup >}}
 
 Newsletter: [DevOps'ish](https://devopsish.com)  
 Source: <https://github.com/chris-short/devopsish.com>  
 Analytics: <https://app.usefathom.com/share/acmuyzfw/devopsish.com>
-
-## EKS News
-
-> EKS News aims to be your go to source for all things AWS EKS. In addition to that, we'll discuss adjacent AWS services (things that are used with EKS), EKS add-ons, upstream Kubernetes, and the Cloud Native ecosystem as a whole.
-
-{{< eksnews >}}
-
-Newsletter: [EKS News](https://eks.news)  
-Source: <https://github.com/aws/eks.news>  
-Analytics: <https://app.usefathom.com/share/tthzhbss/eks.news>
 
 ## Kubernetes README
 
