@@ -22,7 +22,7 @@ I've lost count of the number of domains I own (a common nerd problem). But, I k
 
 ## Requirements
 
-While at Open Source Summit this year, I took on a small project in my free time to get a code-server of my very own up and running. There were a few requirements, though:
+While at Open Source Summit this year, I took on a small project in my free time to get a `code-server` of my very own up and running. There were a few requirements, though:
 
 1. HTTPS all the way: Nothing would get transmitted in the clear, no matter from wherever I'm connecting.
 1. Protected: The best way to not have something kicked over and abused on the internet is not to put it on the internet.
@@ -32,9 +32,9 @@ If any of these requirements were unachievable, I'd have to create new mechanism
 
 ## code-server
 
-First, get the code-server up and running. I chose a virtual machine (VM) running Ubuntu on my newest, fastest machine for this task. Why? I have no Kubernetes clusters up at the moment, plus font management is slightly foreign to me on Linux (and I want my nerdy fonts). I gave it six cores and 24 GB of RAM (more than enough for my needs anyway). Plus, there are plenty of tools for porting VMs to containers I could use. There are many install options for code-server. But, their install script is nice and neat, uses the OS packaging system, and "just works®."
+First, get the [code-server](https://coder.com/docs/code-server/latest) up and running. I chose a virtual machine (VM) running Ubuntu on my newest, fastest machine for this task. Why? I have no Kubernetes clusters up at the moment, plus font management is slightly foreign to me on Linux (and I want my nerdy fonts). I gave it six cores and 24 GB of RAM (more than enough for my needs anyway). Plus, there are plenty of tools for porting VMs to containers I could use. There are [many install options for code-server](https://coder.com/docs/code-server/latest/install). But, [their install script is nice and neat](https://coder.com/docs/code-server/latest/install#installsh), uses the OS packaging system, and "just works®."
 
-Remember, the goal was to create the ultimate dev environment, not the ultimate container (I'll do that later). Once the code-server was up and running on the server (and I could connect to it). I have to figure out how to serve this up more securely. Enter Caddy stage right.
+Remember, the goal was to create the ultimate dev environment, not the ultimate container (I'll do that later). Once the `code-server` was up and running on the server (and I could connect to it). I have to figure out how to serve this up more securely. Enter Caddy stage right.
 
 ## Caddy
 
