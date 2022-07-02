@@ -3,10 +3,10 @@
 author = "Chris Short"
 categories = ["Linux", "code-server", "Caddy", "Tailscale", "Hugo", "2022"]
 date = 2022-07-02T16:30:00Z
-description = ""
+description = "I think I've discovered my development environment equivalent to nirvana: code-server, Caddy, Tailscale, and Hugo"
 draft = false
 slug = "code-server-caddy-tailscale-and-hugo-my-ultimate-dev-environment"
-tags = []
+tags = ["code-server", "Caddy", "Hugo", "code", "Tailscale", "DNS", "dev environment", "private", "network", "IP", "network", "systemd", "unit file", "script", "fast", "feedback loop", "config", "DNS", "provider", "dev", "security", "ultimate dev environment", "localHugo", ""]
 ShowTOC = false
 title = "code-server, Caddy, Tailscale, and Hugo = My ultimate dev environment"
 [cover]
@@ -164,5 +164,9 @@ But, you could easily spin this up in a cloud provider and have the same experie
 I should probably see if someone has done this before. My goal now (obviously) is to run this in a more cloud native way (a non-interactive setup for Tailscale could be hard 🤔🤔🤔). At the very least, I'm thinking of a Kubernetes namespace with proper Ingresses, Services, and (eek, local) storage (think namespace per developer environment). A stretch goal would be running it on something like [AWS Fargate](https://docs.aws.amazon.com/eks/latest/userguide/fargate.html) easy, too, so it could spin down to zero (but storage 🤔🤔🤔).
 
 Then I'd like to strip it down to nothing and run it as a standalone pod and/or container. My list is endless. But, my next tech tinkering will be to spin up [EKS Anywhere](https://aws.amazon.com/blogs/containers/getting-started-with-eks-anywhere-on-bare-metal/) on my hardware and start porting this setup there.
+
+## Resources
+
+All the files used for my setup are avaliable on [GitHub](https://github.com/chris-short/ultimate-development-environment). Feel free to submit pull requests!
 
 {{< eo_signup >}}
