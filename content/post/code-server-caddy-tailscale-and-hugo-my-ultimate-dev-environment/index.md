@@ -39,11 +39,11 @@ Remember, the goal was to create the ultimate dev environment, not the ultimate 
 ## Caddy
 
 Using [Caddy](https://caddyserver.com/) is a decision on my part. I've heard of its dead easy configurability
- to learn a new web server. But I'm glad I chose Caddy because it made my life easier than I imagined. The integration with DNS providers to help manage Let's Encrypt certificates, in this case, for a web server on a private network (public DNS tough), is a killer capability. Caddy is awesome because it did this with six lines of config.
+ to learn a new web server. But I'm glad I chose Caddy because it made my life easier than I imagined. The integration with DNS providers to help manage certificates, in this case, for a web server on a private network (public DNS tough), is a killer capability. Caddy is awesome because it did this with six lines of config.
 
-I [downloaded Caddy](https://caddyserver.com/download) with my DNS provider coupled as a module (being sure to select the correct system architecture; Caddy folks, this is a UX bug) and tossed that binary in `/usr/bin/caddy`. I also created a user for `caddy`, as that's good Linux hygeine, so I ended up following the [Manual Installation](https://caddyserver.com/docs/running#manual-installation) guide (which is VERY well done). Here's the entire Caddy config (Caddyfile) for this project:
+I [downloaded Caddy](https://caddyserver.com/download) with my DNS provider coupled as a module (being sure to select the correct system architecture; Caddy folks, this is a UX bug) and tossed that binary in `/usr/bin/caddy`. I also created a user for `caddy`, as that's good Linux hygiene, so I ended up following the [Manual Installation](https://caddyserver.com/docs/running#manual-installation) guide (which is delightful). Here's the entire Caddy config for this project:
 
-``` bash
+``` Caddyfile
 code.chrisshort.net {
   reverse_proxy 127.0.0.1:8080
   tls <EMAIL> {
@@ -52,9 +52,9 @@ code.chrisshort.net {
 }
 ```
 
-That's it. The environment variable lives in the systemd unit file (more on that in a second).
+That's it! The environment variable lives in the systemd unit file (more on that in a second).
 
-Thank you to the good folks in the [Coder](https://coder.com/) booth during Open Source Summit for the pointer to the [Caddyfile in the docs](https://coder.com/docs/code-server/latest/guide#using-lets-encrypt-with-caddy). Next, I needed an API key provided as an environment variable (preferably only available) to Caddy to manage the DNS zone for chrisshort.net.
+Thank you to the good folks in the [Coder](https://coder.com/) booth during Open Source Summit for the pointer to the [Caddyfile in the docs](https://coder.com/docs/code-server/latest/guide#using-lets-encrypt-with-caddy). Next, I needed an API key provided as an environment variable (preferably only available) to Caddy to manage the DNS zone for chrisshort.net. But, you can do this with a [user environment variable](https://caddyserver.com/docs/caddyfile/concepts#environment-variables) if you want. I try to have as few moving pieces as possible.
 
 ### systemd
 
@@ -102,15 +102,15 @@ systemctl enable --now caddy.service
 
 Caddy is now handling TLS via fully-managed HTTPS ([Automatic HTTPS](https://caddyserver.com/docs/automatic-https), Caddy calls it) and proxying those requests to the `code-server`. All we did was add the correct module and configuration. But, wait, how do you access the server? Well, the good news is Caddy listens on all interfaces by default.
 
-This is where [Tailscale](https://tailscale.com/) comes in.
+Enter [Tailscale](https://tailscale.com/) stage right.
 
 ## Tailscale
 
-For testing purposes only, my first run at this exposed the server publicly to test somethings I wanted to tinker with on my network. But, after seeing all the probing traffic in the web server logs (immediately after it came online), I decided it needed to be a private service, behind a VPN, not a public one. After [installing Tailscale](https://tailscale.com/download/linux) on your `code-server` box, update your server's DNS record to point to the Tailscale IP of the `code-server` box (usually `tailscale0`). Folks will see the host's Tailscale IP if they query the server record (better than your home's IP). Since this is a private IP on the Tailscale network, no one will be able to access the `code-server` unless they're on your VPN.
+For testing purposes only, my first run at this exposed the server publicly to test some things I wanted to tinker with on my network. But, after seeing all the probing traffic in the web server logs (immediately after it came online), I decided it needed to be a private service behind a VPN, not a public one. After [installing Tailscale](https://tailscale.com/download/linux) on your `code-server` box, update your server's DNS record to point to the Tailscale IP of the `code-server` box (usually `tailscale0`). Folks will see the host's Tailscale IP if they query the server record (better than your home's IP). Since this is a private IP on the Tailscale network, no one will be able to access the `code-server` unless they're on your VPN.
 
 ### A brief note on security through obscurity
 
-I've never understood why people think private IPs in public DNS are a security risk (I've even gotten a stern talking to about metioning *PUBLIC IPs* in the Ansible forum at a bank once, that was comical). Unless your entire zone is private, there's little reason in my mind not to utilize <CLOUD PROVIDER OF YOUR CHOICE> hosted DNS services. You could run a private DNS server and put the record there, sure. But, I'm positive my DNS provider provides more nines of service than I ever could create on my own. If I'm very wrong here for reason X, Y, and/or Z, [please let me know](https://chrisshort.me/).
+I've never understood why people think private IPs in public DNS are a security risk (I've even gotten a stern talking to about mentioning PUBLIC IPs in the Ansible forum at a bank once, that was comical). Unless your entire zone is private, there's little reason in my mind not to utilize hosted DNS services. Sure, you could run a private DNS server and put the record there. But, I'm positive my DNS provider provides more nines of service than I ever could create on my own. [Please let me know](https://chrisshort.me/) if I'm wrong here for reasons X, Y, and/or Z.
 
 ## A fast feedback loop
 
@@ -145,24 +145,24 @@ I also have an alias to create a server using a quick and dirty Python command i
 
 When I was building out chrisshort.me (to replace Linktree), I landed on a genuinely static HTML 5 template called Aerial (Hugo would be overkill for a landing page like this). But, there was no web server or live reloading on the box for this ultra-simple site setup to iterate my changes quickly. Instead of running `localHugo` for this static HTML site, I ran my `serve` command from the website's root directory. I accessed the host over port 8000 to see my changes live without deploying to Netlify. I've solved the feedback loop problem between the `serve` alias and the `localHugo` script.
 
-If I'm at home where the server is, this feels FASTER than the native experience when using `hugo server` locally. I attribute that to `tuned` and the fact that the system is an 11th Gen Intel NUC i5 with 32 GB RAM packed with a lightning-fast 2 TB NVMe drive (it's also my streaming rig, when needed, and our home's Plex server). In a few weeks, I'll be traveling again and can't wait to try this setup out from the other side of the country.
+If I'm at home where the server is, this feels FASTER than the native experience when using `hugo server` locally. I attribute that to `tuned` and the fact that the system is an 11th Gen Intel NUC i5 with 32 GB RAM packed with a lightning-fast 2 TB NVMe drive (it's also my streaming rig when needed and our home's Plex server). In a few weeks, I'll be traveling again and can't wait to try this setup out from the other side of the country.
 
 ## The cherry on top
 
-The real cherry on top of this setup is if your browser allows you to [create web apps](https://www.makeuseof.com/run-web-apps-macos-using-chrome-shortcuts/) (Chromium based browsers do). In the far right of the address bar in your browser, you should have an option to create this. This gives me an app laucher for my dev environment in my macOS dock.
+The real cherry on top of this setup is if your browser allows you to [create web apps](https://www.makeuseof.com/run-web-apps-macos-using-chrome-shortcuts/) (Chromium-based browsers do; you can do this on your iPad or iPhone, too 😎😎😎). On desktops, in the far right of the address bar in your browser, you should have an option to create an app. This gives me an app launcher for my dev environment in my macOS dock, which is terrific.
 
-It's wonderful like unicorns and rainbows, y'all. 🦄🌈🦄🌈🦄🌈
+It's wonderful, like unicorns and rainbows, y'all. 🦄🌈🦄🌈🦄🌈
 
 [![My ultimate dev environment](https://shortcdn.com/file/chrisshort/code-server-app.webp)](https://shortcdn.com/file/chrisshort/code-server-app.png)
 
 ## Next steps
 
-It costs nothing but the domain which I already own to host this web site and my email. I'm making use of my own hardware here too (and the associated risk I'm taking). I have security safeguards in place if something goes horribly wrong.
+It costs nothing but the domain I already own to host this website and my email. I'm using my hardware here, too (and the associated risk I'm taking). I have security safeguards in place if something goes wrong.
 
-But, you could easily spin this up in a cloud provider and have the exact same experience with many more nines (and maybe a little more latency when you're not close to your server).
+But, you could easily spin this up in a cloud provider and have the same experience with many more nines (and maybe a little more latency when you're not close to your server).
 
-My goal now (obviously) is to run this in a more cloud native way (a non-interactive setup for Tailscale could be hard 🤔🤔🤔). I'm thinking, at the very least, a Kubernetes namespace with proper Ingresses, Services, and (eek, local) storage (think namespace per developer environment). A stetch goal would be running it on something like [AWS Fargate](https://docs.aws.amazon.com/eks/latest/userguide/fargate.html) easy too so it could spin down to zero (but storage 🤔🤔🤔). I should probably see if someone has done this before.
+I should probably see if someone has done this before. My goal now (obviously) is to run this in a more cloud native way (a non-interactive setup for Tailscale could be hard 🤔🤔🤔). At the very least, I'm thinking of a Kubernetes namespace with proper Ingresses, Services, and (eek, local) storage (think namespace per developer environment). A stretch goal would be running it on something like [AWS Fargate](https://docs.aws.amazon.com/eks/latest/userguide/fargate.html) easy, too, so it could spin down to zero (but storage 🤔🤔🤔).
 
-Then I'd like to strip it down to nothing and have it running as a standalone pod and/or container. My list is endless. But, my next tech tiggering will be to spin up [EKS Anywhere](https://aws.amazon.com/blogs/containers/getting-started-with-eks-anywhere-on-bare-metal/) on my own hardware and start porting this setup there.
+Then I'd like to strip it down to nothing and run it as a standalone pod and/or container. My list is endless. But, my next tech tinkering will be to spin up [EKS Anywhere](https://aws.amazon.com/blogs/containers/getting-started-with-eks-anywhere-on-bare-metal/) on my hardware and start porting this setup there.
 
 {{< eo_signup >}}
