@@ -7,7 +7,7 @@ description = "I think I've discovered my development environment equivalent to 
 draft = false
 slug = "code-server-caddy-tailscale-and-hugo-my-ultimate-dev-environment"
 tags = ["code-server", "Caddy", "Hugo", "code", "Tailscale", "DNS", "dev environment", "private", "network", "IP", "network", "systemd", "unit file", "script", "fast", "feedback loop", "config", "DNS", "provider", "dev", "security", "ultimate dev environment", "localHugo", ""]
-ShowTOC = false
+ShowTOC = true
 title = "code-server, Caddy, Tailscale, and Hugo = My ultimate dev environment"
 [cover]
 image = "https://shortcdn.com/file/chrisshort/code-server-caddy-tailscale-and-hugo-my-ultimate-dev-environment.webp"
