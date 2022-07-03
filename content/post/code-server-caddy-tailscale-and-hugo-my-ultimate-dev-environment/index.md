@@ -12,6 +12,8 @@ title = "code-server, Caddy, Tailscale, and Hugo = My ultimate dev environment"
 [cover]
 image = "https://shortcdn.com/file/chrisshort/code-server-caddy-tailscale-and-hugo-my-ultimate-dev-environment.webp"
 aliases = [
+  "env",
+  "dev-env",
   "my-dev-env",
   "ultimate-dev-env",
   "my-ultimate-dev-environment",
