@@ -145,7 +145,7 @@ I also have an alias to create a server using a quick and dirty Python command i
 
 When I was building out chrisshort.me (to replace Linktree), I landed on a genuinely static HTML 5 template called Aerial (Hugo would be overkill for a landing page like this). But, there was no web server or live reloading on the box for this ultra-simple site setup to iterate my changes quickly. Instead of running `localHugo` for this static HTML site, I ran my `serve` command from the website's root directory. I accessed the host over port 8000 to see my changes live without deploying to Netlify. I've solved the feedback loop problem between the `serve` alias and the `localHugo` script.
 
-If I'm at home where the server is, this feels FASTER than the native experience when using `hugo server` locally. I attribute that to `tuned` and the fact that the system is an 11th Gen Intel NUC i5 with 32 GB RAM packed with a lightning-fast 2 TB NVMe drive (it's also my streaming rig when needed and our home's Plex server). In a few weeks, I'll be traveling again and can't wait to try this setup out from the other side of the country.
+If I'm at home where the server is, this feels FASTER than the native experience when using `hugo server` locally. I attribute that to `tuned` and the fact that the system is an [11th Gen Intel NUC i5](https://amzn.to/3R7qMoL) with [32 GB RAM](https://amzn.to/3AoboPd) packed with a [lightning-fast 2 TB NVMe drive](https://amzn.to/3Rb7y1U) (it's also my streaming rig when needed and our home's Plex server). In a few weeks, I'll be traveling again and can't wait to try this setup out from the other side of the country.
 
 ## The cherry on top
 
