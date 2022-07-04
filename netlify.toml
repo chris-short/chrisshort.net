@@ -52,6 +52,12 @@ HUGO_ENABLEGITINFO = "false"
   status = 301
   force = true
 
+[[redirects]]
+  from = "https://me.chrisshort.net/*"
+  to = "https://chrisshort.me/:splat"
+  status = 301
+  force = true
+
 [[headers]]
   for = "/*"
   [headers.values]
