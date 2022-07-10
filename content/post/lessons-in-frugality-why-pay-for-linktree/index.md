@@ -3,7 +3,7 @@
 author = "Chris Short"
 categories = ["Internet", "Philosphy", "2022"]
 date = 2022-07-11T07:00:00Z
-description = "With the help of some great static HTML template sites, I built my own Linktree alternative that allows complete control of the entire site and analytics."
+description = "With the help of a static HTML template site, I built my own Linktree alternative enabling total control of the entire site and privacy experience."
 draft = false
 slug = "lessons-in-frugality-why-pay-for-linktree"
 tags = ["analytics", "Linktree", "service", "static site", "hosting", "platform", "privacy", "Zapier", "CSS", "code", "website"]
