@@ -3,10 +3,10 @@
 author = "Chris Short"
 categories = ["Internet", "Philosphy", "2022"]
 date = 2022-07-11T07:00:00Z
-description = ""
+description = "With the help of some great static HTML template sites, I built my own Linktree alternative that allows complete control of the entire site and analytics."
 draft = false
 slug = "lessons-in-frugality-why-pay-for-linktree"
-tags = [""]
+tags = ["analytics", "Linktree", "service", "static site", "hosting", "platform", "privacy", "Zapier", "CSS", "code", "website"]
 ShowTOC = true
 title = "Lessons in Frugality: Why Pay for Linktree?"
 [cover]
@@ -54,7 +54,7 @@ Drawing inspiration from a recent [dev.to article][6], I went to look at differe
 
 This is how websites were built in ye olden times. My first ever actual corporate website I made from the ground up using vim on a Red Hat Linux 5 box. It was tough, but you have granular controls with static HTML sites that you don't always get with Static Site Generator (SSG) themes. That and the overkill of an SSG for a single page. These templates would have been a big help back in the early 00s.
 
-I made my customizations to the HTML and CSS (it needed more animation configuration because I had more than ten sites to link to 😬). My friend [JJ Asghar][11] liked the idea so much that he built his static landing page the next day (I like it). Now we have tools like code-server with extensions that make managing one HTML page and CSS easy compared to 20+ years ago. The advances in those technologies are just the icing on the cake. Pro-tip: [favicon-generator.org][12] will add that last bit of polish to your site.
+I made my customizations to the HTML and CSS (it needed more animation configuration because I had more than ten sites to link to 😬). My friend [JJ Asghar][11] liked the idea so much that he built his static landing page the next day (I like it; [here's his code too][14]). Now we have tools like code-server with extensions that make managing one HTML page and CSS easy compared to 20+ years ago. The advances in those technologies are just the icing on the cake. Pro-tip: [favicon-generator.org][12] will add that last bit of polish to your site.
 
 Once the site looked good on my local network, I took it to a static hosting service, told it to deploy `/`, and off the service went with the shortest build time that service probably saw all day. [chrisshort.me][2] is live and distributed across a global CDN in less than a minute.
 
@@ -77,5 +77,6 @@ The moral of the story is, don't pay for something when you already have the ser
 [11]: https://jjasghar.me/
 [12]: http://www.favicon-generator.org/
 [13]: /categories/hugo/
+[14]: https://github.com/jjasghar/jjasghar.me
 
 {{< eo_signup >}}
