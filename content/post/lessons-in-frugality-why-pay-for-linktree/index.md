@@ -1,7 +1,7 @@
 +++
 
 author = "Chris Short"
-categories = ["Internet", "Philosphy", "2022"]
+categories = ["Internet", "Privacy", "2022"]
 date = 2022-07-11T07:00:00Z
 description = "With the help of a static HTML template site, I built my own Linktree alternative enabling total control of the entire site and privacy experience."
 draft = false
