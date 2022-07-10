@@ -9,7 +9,7 @@ title = "A getting to know you exercise"
 ShowToc = false
 [cover]
 image = "https://shortcdn.com/file/chrisshort/three-things-that-make-me-who-i-am.png"
-imagealt = "Three images that represent who Chris Short is"
+alt = "Three images that represent who Chris Short is"
 
 +++
 
