@@ -9,7 +9,7 @@ tags = ["GitOps", "DevOps", "system", "state", "automation", "teams", "process",
 title = "GitOps: An implementation of DevOps"
 [cover]
 image = "https://shortcdn.com/file/chrisshort/opengitops-icon-color.svg"
-imagealt = "Open GitOps logo"
+alt = "Open GitOps logo"
 showTOC = false
 
 +++
