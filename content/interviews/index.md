@@ -13,9 +13,9 @@ title = "Interviews"
 
 ## Screaming in the Cloud: Episode 374 — Kubernetes and OpenGitOps with Chris Short
 
-Date: 2021-07-12
-Source: [Kubernetes and OpenGitOps with Chris Short - Last Week in AWS Podcast](https://www.lastweekinaws.com/podcast/screaming-in-the-cloud/kubernetes-and-opengitops-with-chris-short/)
-Download: [MP3](https://shortcdn.com/file/chrisshort/374-Kubernetes-OpenGitOps-Chris-Short-Last-Week-in-AWS-Podcast.mp3)
+Date: 2021-07-12  
+Source: [Kubernetes and OpenGitOps with Chris Short - Last Week in AWS Podcast](https://www.lastweekinaws.com/podcast/screaming-in-the-cloud/kubernetes-and-opengitops-with-chris-short/)  
+Download: [MP3](https://shortcdn.com/file/chrisshort/374-Kubernetes-OpenGitOps-Chris-Short-Last-Week-in-AWS-Podcast.mp3)  
 
 {{< audio 347-Kubernetes-OpenGitOps-Chris-Short-Last-Week-in-AWS-Podcast.mp3 >}}
 
