@@ -1,9 +1,10 @@
-/img/posts/* https://c.chrisshort.net/files/chrisshort/:splat 301
-/drawings/*.png https://c.chrisshort.net/files/chrisshort/:splat.png 301
-/drawings/*.jpg https://c.chrisshort.net/files/chrisshort/:splat.jpg 301
-/about/Chris-Short-Sept-2021-Profile-Pic.jpeg https://c.chrisshort.net/files/chrisshort/about/Chris-Short-Sept-2021-Profile-Pic.jpeg 301
-/about/Late-2017-Headshot-Square-Optimized.jpg https://c.chrisshort.net/files/chrisshort/about/Late-2017-Headshot-Square-Optimized.jpg 301
-/about/Late-2018-Headshot.jpg https://c.chrisshort.net/files/chrisshort/about/Late-2018-Headshot.jpg 301
-/about/Late-2019-Headshot.jpg https://c.chrisshort.net/files/chrisshort/about/Late-2019-Headshot.jpg 301
-/about/Sept-2020-Profile-Pic.jpeg https://c.chrisshort.net/files/chrisshort/about/Sept-2020-Profile-Pic.jpeg 301
-/fonts/* https://c.chrisshort.net/files/chrisshort/fonts/:splat 301
+/about/Chris-Short-Sept-2021-Profile-Pic.jpeg https://shortcdn.com/file/chrisshort/about/Chris-Short-Sept-2021-Profile-Pic.jpeg 301
+/about/Late-2017-Headshot-Square-Optimized.jpg https://shortcdn.com/file/chrisshort/about/Late-2017-Headshot-Square-Optimized.jpg 301
+/about/Late-2018-Headshot.jpg https://shortcdn.com/file/chrisshort/about/Late-2018-Headshot.jpg 301
+/about/Late-2019-Headshot.jpg https://shortcdn.com/file/chrisshort/about/Late-2019-Headshot.jpg 301
+/about/Sept-2020-Profile-Pic.jpeg https://shortcdn.com/file/chrisshort/about/Sept-2020-Profile-Pic.jpeg 301
+
+/img/posts/* https://shortcdn.com/files/chrisshort/:splat 301
+/drawings/*.png https://shortcdn.com/files/chrisshort/:splat.png 301
+/drawings/*.jpg https://shortcdn.com/files/chrisshort/:splat.jpg 301
+/fonts/* https://shortcdn.com/files/chrisshort/fonts/:splat 301
