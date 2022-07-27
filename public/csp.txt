@@ -1,0 +1,15 @@
+# This file is probably what the CSP policy will look like
+
+default-src 'self';
+script-src 'report-sample' 'self' https://cdn.carbonads.com/carbon.js https://eomail4.com/form/400a5fe3-328d-11ec-96e5-06b4694bee2a.js https://fresh-familiar.chrisshort.net/script.js;
+style-src 'report-sample' 'self';
+object-src 'none';
+base-uri 'self';
+connect-src 'self';
+font-src 'self';
+frame-src 'self' https://anchor.fm https://www.youtube-nocookie.com;
+img-src 'self' https://fresh-familiar.chrisshort.net https://shortcdn.com;
+manifest-src 'self';
+media-src 'self' https://shortcdn.com;
+report-uri https://chrisshort.report-uri.com/r/d/csp/wizard;
+worker-src 'none';
