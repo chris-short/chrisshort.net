@@ -40,7 +40,7 @@ A prepackaged screensaver with macOS since Catalina Beta 3, Drift has a flowy ki
 
 ## Aerial
 
-![Aerial](https://shortcdn.com/file/chrisshort/aerial-screensaver.gif#center)
+![Aerial](https://shortcdn.com/file/chrisshort/aerial-screensaver.webp#center)
 
 >[Aerial](https://aerialscreensaver.github.io/) is a Mac screensaver based on the new Apple TV screensaver that displays the Aerial movies Apple shot over New York, San Francisco, Hawaii, China, etc. Starting with version 2.0.0, it also includes videos shared by Joshua Michaels & Hal Bergman!
 >
