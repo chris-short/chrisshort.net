@@ -17,7 +17,7 @@ Date: 2021-07-12
 Source: [Kubernetes and OpenGitOps with Chris Short - Last Week in AWS Podcast](https://www.lastweekinaws.com/podcast/screaming-in-the-cloud/kubernetes-and-opengitops-with-chris-short/)  
 Download: [MP3](https://shortcdn.com/file/chrisshort/374-Kubernetes-OpenGitOps-Chris-Short-Last-Week-in-AWS-Podcast.mp3)  
 
-{{< audio 347-Kubernetes-OpenGitOps-Chris-Short-Last-Week-in-AWS-Podcast.mp3 >}}
+{{< audio 374-Kubernetes-OpenGitOps-Chris-Short-Last-Week-in-AWS-Podcast.mp3 >}}
 
 ## ✨#adventcado of the day✨
 
@@ -49,7 +49,7 @@ Download: [MP3](https://shortcdn.com/file/chrisshort/learn-streaming-from-the-ex
 ## Devchat.tv DevOps 049: DevOps, Open Source, and OpenShift with Chris Short
 
 Date: 2020-09-25  
-Source: [DevOps 049: DevOps, Open Source, and OpenShift with Chris Short](https://adventuresindevopspodcast.com/50)  
+Source: [DevOps 049: DevOps, Open Source, and OpenShift with Chris Short](https://topenddevs.com/podcasts/adventures-in-devops/episodes/devops-049-devops-open-source-and-openshift-with-chris-short)  
 Download: [MP3](https://shortcdn.com/file/chrisshort/ADO_049_DevOps_Open_Source_OpenShift_and_OpenShift_tv_with_Chris_Short.mp3)
 
 {{< audio ADO_049_DevOps_Open_Source_OpenShift_and_OpenShift_tv_with_Chris_Short.mp3 >}}
