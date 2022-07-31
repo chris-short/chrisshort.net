@@ -119,7 +119,7 @@ Event: [JFrog swampUP 2019](https://swampup.jfrog.com/)
 ### How to Teach Old Apps New Tricks with Ansible-based Operators (Parts 1 & 2)
 
 Date: 2019-05-08  
-Event: [Red Hat Summit 2019](https://www.redhat.com/en/summit/2019)  
+Event: [Red Hat Summit 2019](https://web.archive.org/web/20200219212038/https://www.redhat.com/en/summit/2019)  
 Slides: [How to Teach Old Apps New Tricks with Ansible-based Operators (Parts 1 & 2)](https://speakerdeck.com/chrisshort/how-to-teach-old-apps-new-tricks-with-ansible-based-operators-parts-1-and-2)  
 Blog Post: [How to Teach Old Apps New Tricks with Ansible-based Operators (Parts 1 & 2)](/how-to-teach-old-apps-new-tricks-with-ansible-based-operators-parts-1-2/)
 
