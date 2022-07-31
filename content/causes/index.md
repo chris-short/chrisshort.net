@@ -53,6 +53,8 @@ Website: [Internet Archive](https://archive.org/)
 
 > Internet Archive is a non-profit library of millions of free books, movies, software, music, websites, and more.
 
+This is also where I archive larger videos for various uses. I make sure I'm paying my fair share.
+
 ## Global Zero
 
 Website: [Global Zero](https://www.globalzero.org/)
