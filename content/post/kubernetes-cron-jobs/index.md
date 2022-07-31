@@ -65,7 +65,7 @@ The name is whatever you want it to be. I will likely rename this to netlify-cur
 
 The next step is to add the image to a Docker registry. I thought about running a Docker registry in the Kubernetes cluster itself, but then I realized [Google Container Registry](https://cloud.google.com/container-registry/) (GCR) is a thing. Since I have a fair amount of stuff in Google Cloud, I decided to use GCR for simplicity and availability (also that whole “state inside Kubernetes” thing).
 
-Heptio has a great guide titled [*Google Cloud Registry (GCR) with external Kubernetes*](http://docs.heptio.com/content/private-registries/pr-gcr.html). If you are going to use GCR with an external Kubernetes cluster, I highly recommend reading this first. Once GCR is configured, your Kubernetes cluster is configured to use GCR, and the container is built, you have to tag it for GCR:
+Heptio has a great guide titled [*Google Cloud Registry (GCR) with external Kubernetes*](https://web.archive.org/web/20181109070044/http://docs.heptio.com/content/private-registries/pr-gcr.html). If you are going to use GCR with an external Kubernetes cluster, I highly recommend reading this first. Once GCR is configured, your Kubernetes cluster is configured to use GCR, and the container is built, you have to tag it for GCR:
 
 {{< highlight bash >}}
 docker tag devopsish-netlify-cron gcr.io/chrisshort-net/devopsish-netlify-cron
