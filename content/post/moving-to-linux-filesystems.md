@@ -63,26 +63,28 @@ The last partition (/var/log/SonicWALL) will be used for firewall log files and 
 
 ## 200 GB Partitioning and Filesystem Scheme
 
-`/boot           100 MB    ext2`<br />
-`swap            1 GB      Linux swap filesystem`<br />
-`/               ~ 63 GB   ext3 data=ordered`<br />
-`/home           30 GB     ext3 data=ordered`<br />
-`/home/download  5 GB      ext3 data=writeback`<br />
-`/mp3            50 GB     ext3 data=journal`<br />
-`/video          50 GB     ext3 data=writeback`
+```
+/boot           100 MB    ext2
+swap            1 GB      Linux swap filesystem
+/               ~ 63 GB   ext3 data=ordered
+/home           30 GB     ext3 data=ordered
+/home/download  5 GB      ext3 data=writeback
+/mp3            50 GB     ext3 data=journal
+/video          50 GB     ext3 data=writeback`
+```
 
 ## 20 GB Partitioning and Filesystem Scheme
 
-`swap                1 GB  Linux swap filesystem`<br />
-`/burner             5 GB  ext3 data=writeback`<br />
-`/burner/osd         1 GB  ext3 data=writeback`<br />
-`/storage            5 GB  ext2`<br />
-`/var/log/SonicWALL  3 GB  ext3 data=ordered`<br />
-`5 GB of Free Space`
+```
+swap                1 GB  Linux swap filesystem
+/burner             5 GB  ext3 data=writeback
+/burner/osd         1 GB  ext3 data=writeback
+/storage            5 GB  ext2
+/var/log/SonicWALL  3 GB  ext3 data=ordered
+5 GB of Free Space`
+```
 
 ### Resources
 
 [Filesystems HOWTO](http://www.tldp.org/HOWTO/html_single/Filesystems-HOWTO/), 
 [Design and Implementation of the Second Extended Filesystem](http://e2fsprogs.sourceforge.net/ext2intro.html),  [Linux ext3 FAQ](http://batleth.sapienti-sat.org/projects/FAQs/ext3-faq.html), [NAMESYS](https://en.wikipedia.org/wiki/Namesys) (ReiserFS), [Linux XFS FAQ](http://xfs.org/index.php/XFS_FAQ)
-
-
