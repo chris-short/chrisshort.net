@@ -18,7 +18,7 @@ Like anyone who has worked on the web long enough, I have a lot of side projects
 >
 > I strive, every week, to put together the best newsletter covering DevOps, Cloud Native, and Open Source Software. The three main sections of the newsletter are People, Process, and Tools. They are in that order for a reason: People implement Processes using Tools. These three components should be cared for in that order too.
 >
-> Don’t take my word for it. See what [people way smarter than me are saying about DevOps’ish](/praise/).
+> Don’t take my word for it. See what [people way smarter than me are saying about DevOps’ish](https://devopsish.com/praise/).
 >
 > [What is DevOps?](https://devopsish.com/what-is-devops/) I'm glad you asked!
 

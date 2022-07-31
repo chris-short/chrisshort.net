@@ -15,7 +15,7 @@ caption = "Photo used with permission from [Brandon Dimcheff](https://twitter.co
 
 Disclaimer: I work for Red Hat, [my views and opinions are solely mine](/terms/) though.
 
-I [spoke](https://speakerdeck.com/chrisshort/devops-is-not-war-df415c22-a29d-4cab-8689-143f9922c0f3), [sponsored](https://devopsdays.org/events/2019-detro`it/sponsor) (as did Red Hat, my employer, thank you), and worked from the front row of [**DevOpsDays Detroit 2019**](https://devopsdays.org/events/2019-detroit/) this week. The event sold out for the first time this year. The venue has been the [College for Creative Studies](https://www.collegeforcreativestudies.edu/) in downtown Detroit for the past four years.
+I [spoke](https://speakerdeck.com/chrisshort/devops-is-not-war-df415c22-a29d-4cab-8689-143f9922c0f3), [sponsored](https://devopsdays.org/events/2019-detroit/sponsor) (as did Red Hat, my employer, thank you), and worked from the front row of [**DevOpsDays Detroit 2019**](https://devopsdays.org/events/2019-detroit/) this week. The event sold out for the first time this year. The venue has been the [College for Creative Studies](https://www.collegeforcreativestudies.edu/) in downtown Detroit for the past four years.
 
 {{< carbon >}}
 

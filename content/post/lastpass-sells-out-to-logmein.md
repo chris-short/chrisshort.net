@@ -17,7 +17,7 @@ If you have not heard, the phenomenal cloud base SaaS password manager, **[LastP
 
 {{< carbon >}}
 
-People dislike LogMeIn for a variety of reasons but the main one is that they [pulled the rugs out from under a lot of folks](https://community.spiceworks.com/topic/742095-logmein-goodbye) who were using LogMeIn to help administer remote computers (I was one of these people). LogMeIn rapidly increased pricing on their services making their product go from consumer to "prosumer" to full blown enterprise pricing very quickly. Some people [didn't have time to get something else installed](http://www.maximumpc.com/logmein-ends-free-ride-gives-users-7-days-notice-subscribe-or-scram2014/) on the systems they were administering with LogMeIn before their service was cut.
+People dislike LogMeIn for a variety of reasons but the main one is that they [pulled the rugs out from under a lot of folks](https://community.spiceworks.com/topic/742095-logmein-goodbye) who were using LogMeIn to help administer remote computers (I was one of these people). LogMeIn rapidly increased pricing on their services making their product go from consumer to "prosumer" to full blown enterprise pricing very quickly. Some people didn't have time to get something else installed on the systems they were administering with LogMeIn before their service was cut.
 
 {{< eo_signup >}}
 
