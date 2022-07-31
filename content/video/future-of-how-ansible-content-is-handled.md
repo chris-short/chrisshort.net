@@ -18,8 +18,6 @@ ShowTOC = false
 
 Download as [MP4](https://shortcdn.com/file/chrisshort/2019-06-13+10.03-The-future-of-how-Ansible-content-is-handled.mp4)
 
-Source: [The future of how Ansible content is handled - On Demand Webinar](https://www.ansible.com/resources/webinars-training/collections-future-of-how-ansible-content-is-handled)
-
 {{< speaker >}}
 
 {{< eo_signup >}}
