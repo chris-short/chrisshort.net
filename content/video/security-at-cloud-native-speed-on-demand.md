@@ -23,8 +23,6 @@ ShowTOC = false
 
 Download as [MP4](https://shortcdn.com/file/chrisshort/Security-at-Cloud-native-Speed.mp4)
 
-Source [Security at Cloud-native Speed On-Demand](https://security.stackrox.com/2020_01-Sec-at-C-N-Speed-Webinar_.html)
-
 {{< speaker >}}
 
 {{< eo_signup >}}

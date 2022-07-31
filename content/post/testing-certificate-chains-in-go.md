@@ -168,7 +168,7 @@ But Most Importantly, I'm a **Gopher**
 
 * Yes it Works
 * Yes you can access it right now!
-* https://ssl-tester.chrisshort.net redirects you to a reference implementation
+* [https://ssl-tester.chrisshort.net](https://github.com/chris-short/ssl-tester) redirects you to a reference implementation (this project is abandoned)
 
 
 ### **No. It Really Works!**
