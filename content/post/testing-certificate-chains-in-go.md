@@ -10,7 +10,7 @@ title = "Testing Certificate Chains in Go"
 
 +++
 
-This talk was derived from an opensource.com article I wrote in April 2017, [Golang to the rescue: Saving DevOps from TLS turmoil](https://opensource.com/article/17/4/testing-certificate-chains-34-line-go-program). Presented at [GopherCon 2017](https://gophercon.com/) as a Lightning Talk. Source for the talk is available on [GitHub](https://github.com/chris-short/testing-certificate-chains-in-go).
+This talk was derived from an opensource.com article I wrote in April 2017, [Golang to the rescue: Saving DevOps from TLS turmoil](https://opensource.com/article/17/4/testing-certificate-chains-34-line-go-program). Presented at [GopherCon 2017](https://github.com/gophercon/2017-talks/) as a Lightning Talk. Source for the talk is available on [GitHub](https://github.com/chris-short/testing-certificate-chains-in-go).
 
 ### **Introduction**
 
@@ -168,7 +168,7 @@ But Most Importantly, I'm a **Gopher**
 
 * Yes it Works
 * Yes you can access it right now!
-* https://ssl-tester.chrisshort.net redirects you to a reference implementation
+* [https://ssl-tester.chrisshort.net](https://github.com/chris-short/ssl-tester) redirects you to a reference implementation (this project is abandoned)
 
 
 ### **No. It Really Works!**

@@ -29,7 +29,7 @@ tags = ["books"]
 
 [![97 Things Every Cloud Engineer Should Know: Collective Wisdom from the Experts](https://shortcdn.com/file/chrisshort/97-things-every-cloud-engineer-should-know.jpg#center)](https://amzn.to/3n3g8iU)
 
-97 Things Every Cloud Engineer Should Know is also available for free from [Red Hat](https://www.redhat.com/en/engage/things-every-cloud-s-202103201521?utm_source=chrisshort.net&utm_medium=books)
+
 
 ## Ansible Automation for SysAdmins: A quickstart guide to Ansible
 
