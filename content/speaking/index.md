@@ -288,7 +288,7 @@ Event: [DevOpsDays Detroit 2017](https://www.devopsdays.org/events/2017-detroit/
 Date: 2017-07-12  
 [**Watch Now**](/video/gophercon-2017-lightning-talk/)
 
-Event: [GopherCon 2017](https://gophercon.com)  
+Event: [GopherCon 2017](https://github.com/gophercon/2017-talks)  
 
 ### A Night of DevOps at Open Source South Carolina
 
