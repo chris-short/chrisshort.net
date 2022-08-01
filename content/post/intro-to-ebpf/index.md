@@ -2,7 +2,7 @@
 
 author = "Chris Short"
 categories = ["eBPF", "2022"]
-date = 2022-08-03T07:00:00Z
+date = 2022-07-31T07:00:00Z
 description = ""
 draft = false
 slug = "intro-to-ebpf"
