@@ -51,12 +51,3 @@ HUGO_ENABLEGITINFO = "false"
   to = "https://chrisshort.net/:splat"
   status = 301
   force = true
-
-[[headers]]
-  for = "/*"
-  [headers.values]
-    X-Frame-Options = "DENY"
-    X-XSS-Protection = "1; mode=block"
-    Referrer-Policy = "no-referrer, strict-origin-when-cross-origin"
-    X-Content-Type-Options = "nosniff"
-    Permissions-Policy = 'fullscreen=(self "https://chrisshort.net"), geolocation=(), camera=(), microphone=()'
