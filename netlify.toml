@@ -51,3 +51,15 @@ HUGO_ENABLEGITINFO = "false"
   to = "https://chrisshort.net/:splat"
   status = 301
   force = true
+
+[[headers]]
+  for = "/*"
+  [headers.values]
+    Access-Control-Allow-Origin = "https://chrisshort.net"
+    Content-Security-Policy-Report-Only = "img-src ad.doubleclick.net cdn4.buysellads.net syndication.twitter.com ovh.commander1.com pixel.adsafeprotected.com www.gstatic.com lh3.googleusercontent.com www.facebook.com i.ytimg.com; script-src-elem srv.carbonads.net speakerdeck.com platform.twitter.com cdn.jsdelivr.net eomail4.com connect.facebook.net cdn.carbonads.com; script-src srv.carbonads.net platform.twitter.com speakerdeck.com wasm-eval; connect-src srv.carbonads.net eomail4.com; frame-src platform.twitter.com speakerdeck.com; require-trusted-types-for trusted-types-sink; object-src shortcdn.com"
+    Permissions-Policy = "accelerometer=(), camera=(), geolocation=(), gyroscope=(), magnetometer=(), microphone=(), payment=(), usb=(), interest-cohort=()"
+    Referrer-Policy = "no-referrer-when-downgrade"
+    Strict-Transport-Security = "max-age=63072000; includeSubDomains; preload"
+    X-Content-Type-Options = "nosniff"
+    X-Frame-Options = "DENY"
+    X-XSS-Protection = "1; mode=block"
