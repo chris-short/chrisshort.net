@@ -55,7 +55,7 @@ HUGO_ENABLEGITINFO = "false"
 [[headers]]
   for = "/*"
   [headers.values]
-    Access-Control-Allow-Origin = "https://chrisshort.net"
+    access-control-allow-origin = "https://chrisshort.net"
     Content-Security-Policy-Report-Only = "img-src ad.doubleclick.net cdn4.buysellads.net syndication.twitter.com ovh.commander1.com pixel.adsafeprotected.com www.gstatic.com lh3.googleusercontent.com www.facebook.com i.ytimg.com; script-src-elem srv.carbonads.net speakerdeck.com platform.twitter.com cdn.jsdelivr.net eomail4.com connect.facebook.net cdn.carbonads.com; script-src srv.carbonads.net platform.twitter.com speakerdeck.com wasm-eval; connect-src srv.carbonads.net eomail4.com; frame-src platform.twitter.com speakerdeck.com; require-trusted-types-for trusted-types-sink; object-src shortcdn.com; report-uri https://chrisshort.report-uri.com/r/d/csp/wizard"
     Permissions-Policy = "accelerometer=(), camera=(), geolocation=(), gyroscope=(), magnetometer=(), microphone=(), payment=(), usb=(), interest-cohort=()"
     Referrer-Policy = "strict-origin-when-cross-origin"
