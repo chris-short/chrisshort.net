@@ -3,7 +3,7 @@
   Content-Security-Policy-Report-Only: img-src ad.doubleclick.net cdn4.buysellads.net syndication.twitter.com ovh.commander1.com pixel.adsafeprotected.com www.gstatic.com lh3.googleusercontent.com www.facebook.com i.ytimg.com 'self' fresh-familiar.chrisshort.net shortcdn.com; script-src-elem srv.carbonads.net speakerdeck.com platform.twitter.com cdn.jsdelivr.net eomail4.com connect.facebook.net cdn.carbonads.com 'self' fresh-familiar.chrisshort.net; script-src srv.carbonads.net platform.twitter.com speakerdeck.com wasm-eval 'self' cdn.carbonads.com eomail4.com fresh-familiar.chrisshort.net; connect-src srv.carbonads.net eomail4.com 'self' stats.g.doubleclick.net; frame-src platform.twitter.com speakerdeck.com anchor.fm www.youtube-nocookie.com; require-trusted-types-for trusted-types-sink; object-src shortcdn.com; report-uri https://chrisshort.report-uri.com/r/d/csp/wizard
   Permissions-Policy: accelerometer=(), camera=(), geolocation=(), gyroscope=(), magnetometer=(), microphone=(), payment=(), usb=(), interest-cohort=()
   Referrer-Policy: no-referrer-when-downgrade
-  Strict-Transport-Security: max-age=63072000; includeSubDomains; preload
+  Strict-Transport-Security: max-age=31536000; includeSubDomains; preload
   X-Content-Type-Options: nosniff
   X-Frame-Options: DENY
   X-XSS-Protection: 1; mode=block
