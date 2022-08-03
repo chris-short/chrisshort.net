@@ -60,9 +60,11 @@ What kind of programs are out there taking advantage of eBPF? Quite a few, actua
 - [ebpf-for-windows][21]: eBPF implementation that runs on top of Windows
 - [Katran][22]: Facebook-created network load balancer
 
-## Is eBPF worthy of they hype?
+There's also a lovely list of projects in the [eBPF Project Landscape][24].
 
-Yes! eBPF is good stuff. I am waiting for a project to bust out one of the above projects to dive into performance issues. "Any sufficiently advanced technology is indistinguishable from magic" applies here. But, eBPF is a rubber mallet, and you can't fix EVERYTHING with it. You can cover a lot of sins with eBPF. You can FIND damn near anything with it, and that's as good a start as anyone can give you.
+## Is eBPF worthy of the hype?
+
+Yes! eBPF is good stuff and should only keep getting better as adoption increases. I am waiting for the right project to bust out one of the above projects to dive into performance issues or to look at [syscalls][25] being passed to kernel. "Any sufficiently advanced technology is indistinguishable from magic" applies here. But, eBPF is a rubber mallet, and you can't fix EVERYTHING with it. You can cover a lot of sins with eBPF. You can FIND damn near anything with it, and that's as good a start as anyone can give you.
 
 [1]: https://ebpf.foundation/
 [2]: https://ebpf.io
@@ -87,5 +89,7 @@ Yes! eBPF is good stuff. I am waiting for a project to bust out one of the above
 [21]: https://github.com/microsoft/ebpf-for-windows
 [22]: https://engineering.fb.com/2018/05/22/open-source/open-sourcing-katran-a-scalable-network-load-balancer/
 [23]: https://devopsish.com/278/
+[24]: https://ebpf.io/projects
+[25]: https://syscall.sh/
 
 {{< eo_signup >}}
