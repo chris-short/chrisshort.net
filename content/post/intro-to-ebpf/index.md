@@ -68,7 +68,9 @@ There's also a lovely list of projects in the [eBPF Project Landscape][24].
 
 ## Is eBPF worthy of the hype?
 
-Yes! eBPF is good stuff and should only keep getting better as adoption increases. I am waiting for the right project to bust out one of the above projects to dive into performance issues or to look at [syscalls][25] being passed to kernel. "Any sufficiently advanced technology is indistinguishable from magic" applies here. But, eBPF is a rubber mallet, and you can't fix EVERYTHING with it. You can cover a lot of sins with eBPF. You can FIND damn near anything with it, and that's as good a start as anyone can give you.
+Yes! eBPF is good stuff and should only keep getting better as adoption increases. I am waiting for the right project to bust out one of the above projects to dive into performance issues or to look at [syscalls][25] being passed to kernel.
+
+"Any sufficiently advanced technology is indistinguishable from magic" applies here. But, eBPF is a rubber mallet, and you can't fix EVERYTHING with it. You can cover a lot of sins with eBPF. You can FIND damn near anything with it, and that's as good a start as anyone can give you.
 
 If you want to contribute to eBPF or the eBPF development toolchains please start your journey at [ebpf.io/contribute][27]
 
