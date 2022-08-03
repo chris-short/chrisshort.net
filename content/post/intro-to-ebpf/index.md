@@ -30,16 +30,20 @@ I occasionally ask for writing prompts from folks on Twitter for DevOps'ish. Som
 
 > eBPF programs are event-driven and are run when the kernel or an application passes a certain hook point. Pre-defined hooks include system calls, function entry/exit, kernel tracepoints, network events, and several others.
 
+[![eBPF Overview courtesy of eBPF.io](https://shortcdn.com/file/devopsish/ebpf-overview.webp)][2]
+
+The eBPF Overview is provided by [eBPF.io][2] under the [Creative Commons Attribution 4.0 International License][28].
+
 There are two sites you should bookmark regarding eBPF right off the bat:
 
 - [https://ebpf.foundation/][1] (Linux Foundation site)
 - [https://ebpf.io][2] (Run by Daniel Borkmann)
 
-At the time of writing, these two sites look strikingly similar, but different folks run them. For "reasons," the .foundation site decided to start as a fork of the .io site. Yes, I know a few SEOs reading this spit their drink of choice just now. Calm thyself. Your device is probably waterproof ¯\\\_(ツ)\_/¯.
+At the time of writing, these two sites look strikingly similar, but different folks run them. For "reasons," the `.foundation` site decided to start as a fork of the `.io` site. Yes, I know a few SEOs reading this spit their drink of choice just now. Calm thyself. Your device is maybe waterproof ¯\\\_(ツ)\_/¯.
 
 If you're unfamiliar with [Isovalent][3], the folks who make an enterprise-ready [Cilium][4] product (Cilium the Container Network Interface (CNI)), it's where my peeps [Liz Rice][5] and [Duffie Cooley][6] work. If you recall, I sat down with them [earlier this year to chat about what they're up to pre-KubeCon EU 2022][7]. The tag line on Isovalent's site is "eBPF-based networking, security, and observability." You can do a lot of hard work with eBPF.
 
-If you're like me and have been in the guts of the kernel before adding and removing modules to optimize the system or make unique hardware work, you know this can often be very disruptive or damaging. eBPF enables you to muck with the kernel in new and exciting ways without running a single modprobe command or even rebooting. They are generally safer than kernel modules as well.
+If you're like me and have been in the guts of the kernel before adding and removing modules to optimize the system or make unique hardware work, you know this can often be very disruptive or damaging. eBPF enables you to muck with the kernel in new and exciting ways without running a single `modprobe` command or even rebooting. They are generally safer than kernel modules as well. A lot of effort has been put into keeping [eBPF safe][26].
 
 You write eBPF programs that trigger on different events in the Linux kernel or prevent them from happening altogether. As a result, eBPF is VERY powerful because it's so ingrained where all the magic happens (the Linux kernel). eBPF lets you write custom code in the kernel. Since the activity occurs in the kernel, it often makes eBPF programs fast and efficient. The programs you write, for example, could intercept network access before even hitting the network stack or provide detailed execution information on calls being made by what programs for observability.
 
@@ -66,6 +70,8 @@ There's also a lovely list of projects in the [eBPF Project Landscape][24].
 
 Yes! eBPF is good stuff and should only keep getting better as adoption increases. I am waiting for the right project to bust out one of the above projects to dive into performance issues or to look at [syscalls][25] being passed to kernel. "Any sufficiently advanced technology is indistinguishable from magic" applies here. But, eBPF is a rubber mallet, and you can't fix EVERYTHING with it. You can cover a lot of sins with eBPF. You can FIND damn near anything with it, and that's as good a start as anyone can give you.
 
+If you want to contribute to eBPF or the eBPF development toolchains please start your journey at [ebpf.io/contribute][27]
+
 [1]: https://ebpf.foundation/
 [2]: https://ebpf.io
 [3]: https://isovalent.com/
@@ -91,5 +97,8 @@ Yes! eBPF is good stuff and should only keep getting better as adoption increase
 [23]: https://devopsish.com/278/
 [24]: https://ebpf.io/projects
 [25]: https://syscall.sh/
+[26]: https://ebpf.io/what-is-ebpf/#ebpf-safety
+[27]: https://ebpf.io/contribute
+[28]: https://creativecommons.org/licenses/by/4.0/
 
 {{< eo_signup >}}
