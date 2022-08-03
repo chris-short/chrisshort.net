@@ -18,7 +18,7 @@ caption = "eBPF bee is named eBee"
 
 {{< carbon >}}
 
-*This introdution to eBPF is adapted from the beginning of [DevOps'ish 278][23]*
+*This introduction to eBPF is adapted from the beginning of [DevOps'ish 278][23]*
 
 I occasionally ask for writing prompts from folks on Twitter for DevOps'ish. Sometimes asking on social media works well. Other times it's giving someone a good URL and still scratching my head about what to write. But for [DevOps'ish 278][23], the people have spoken. They want to learn more about **eBPF**.
 
@@ -47,7 +47,7 @@ If you're like me and have been in the guts of the kernel before adding and remo
 
 You write eBPF programs that trigger on different events in the Linux kernel or prevent them from happening altogether. As a result, eBPF is VERY powerful because it's so ingrained where all the magic happens (the Linux kernel). eBPF lets you write custom code in the kernel. Since the activity occurs in the kernel, it often makes eBPF programs fast and efficient. The programs you write, for example, could intercept network access before even hitting the network stack or provide detailed execution information on calls being made by what programs for observability.
 
-Here's where a lot of folks learning paths diverge. Some folks will want to read all the things. The good news is that the [BPF and XDP Reference Guide][8] and [HOWTO interact with the BPF subsystem][9] are _fantastic_ deep dives. Others would love to see some implementations. If you want to pick and choose, check out the [awesome-ebpf][10] repo. Want to see some implementations? First, I recommend watching [A Beginner's Guide to eBPF Programming with Go by Liz Rice at GOTO 2021][11]. Also, [What is eBPF, anyway, and why should Kubernetes admins care?](https://www.groundcover.com/blog/what-is-ebpf) is a good reference if you're going to be using eBPF in the context of Kubernetes.
+Here's where a lot of folks' learning paths diverge. Some folks will want to read all the things. The good news is that the [BPF and XDP Reference Guide][8] and [HOWTO interact with the BPF subsystem][9] are _fantastic_ deep dives. Others would love to see some implementations. If you want to pick and choose, check out the [awesome-ebpf][10] repo. Want to see some implementations? First, I recommend watching [A Beginner's Guide to eBPF Programming with Go by Liz Rice at GOTO 2021][11]. Also, [What is eBPF, anyway, and why should Kubernetes admins care?](https://www.groundcover.com/blog/what-is-ebpf) is a good reference if you're using eBPF on Kubernetes.
 
 ## eBPF Programs
 
@@ -68,11 +68,11 @@ There's also a lovely list of projects in the [eBPF Project Landscape][24].
 
 ## Is eBPF worthy of the hype?
 
-Yes! eBPF is good stuff and should only keep getting better as adoption increases. I am waiting for the right project to bust out one of the above projects to dive into performance issues or to look at [syscalls][25] being passed to kernel.
+Yes! eBPF is good stuff and should only improve as adoption increases. I am waiting for the right project to bust out one of the above programs to dive into performance issues or to look at [syscalls][25] passed to the kernel.
 
 "Any sufficiently advanced technology is indistinguishable from magic" applies here. But, eBPF is a rubber mallet, and you can't fix EVERYTHING with it. You can cover a lot of sins with eBPF. You can FIND damn near anything with it, and that's as good a start as anyone can give you.
 
-If you want to contribute to eBPF or the eBPF development toolchains please start your journey at [ebpf.io/contribute][27]
+If you want to contribute to eBPF or the eBPF development toolchains, feel free to start your journey at [ebpf.io/contribute][27]. Thank you to Alexei Starovoitov, Daniel Borkmann, and the entire eBPF community for making such a wonderful technology.
 
 [1]: https://ebpf.foundation/
 [2]: https://ebpf.io
