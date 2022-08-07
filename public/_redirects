@@ -7,4 +7,5 @@
 /img/posts/* https://shortcdn.com/files/chrisshort/:splat 301
 /drawings/*.png https://shortcdn.com/files/chrisshort/:splat.png 301
 /drawings/*.jpg https://shortcdn.com/files/chrisshort/:splat.jpg 301
+/drawings/*.webp https://shortcdn.com/files/chrisshort/:splat.webp 301
 /fonts/* https://shortcdn.com/files/chrisshort/fonts/:splat 301
