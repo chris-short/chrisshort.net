@@ -15,7 +15,7 @@ aliases = [
 
 ## Tagline
 
-Senior Developer Advocate, [AWS](https://aws.amazon.com/) | [Kubernetes Contributor](https://www.kubernetes.dev/) | [DevOps'ish](https://devopsish.com/) | [Disabled Veteran](/categories/long-thoracic-nerve-palsy/) | [He/Him/His](https://pronoun.is/he) | [Views solely mine](/terms/#disclaimer)
+MacGyver of Internet | Senior Developer Advocate, [AWS](https://aws.amazon.com/) | [Kubernetes Contributor](https://www.kubernetes.dev/) | [DevOps'ish](https://devopsish.com/) | [Disabled Veteran](/categories/long-thoracic-nerve-palsy/) | [He/Him/His](https://pronoun.is/he) | [Views solely mine](/terms/#disclaimer)
 
 ## Pronouns
 
