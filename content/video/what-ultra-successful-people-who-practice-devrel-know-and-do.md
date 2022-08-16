@@ -1,7 +1,7 @@
 +++
 author = "Chris Short"
 categories = ["Video", "Developer Advocacy", "Devloper Relations"]
-date = 2022-08-17T07:00:00Z
+date = 2022-08-16T15:00:00Z
 description = "Join Wesley Faulkner, Sr, Community Manager at AWS and Chris Short, Sr. Developer Advocate for a discussion about getting decision makers to buy-in in the #DevRel space."
 draft = false
 slug = "what-ultra-successful-people-who-practice-devrel-know-and-do"
