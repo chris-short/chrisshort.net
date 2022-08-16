@@ -6,7 +6,7 @@ description = "Join Wesley Faulkner, Sr, Community Manager at AWS and Chris Shor
 draft = false
 slug = "what-ultra-successful-people-who-practice-devrel-know-and-do"
 tags = ["talks", "speaking", "videos", "DevRel"]
-title = "What ultra-successful people who practice DevRel know and do"
+title = "What ultra successful people who practice DevRel know and do"
 ShowTOC = false
 +++
 
