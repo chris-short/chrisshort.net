@@ -23,6 +23,13 @@ If you're looking for podcasts or interviews I've took part in, please head over
 
 ## Talks
 
+### Live stream: What ultra-successful people who practice DevRel know and do
+
+Date: 2022-08-16  
+[**Watch Now**](/video/what-ultra-successful-people-who-practice-devrel-know-and-do/)
+
+Wesley Faulkner, Sr, Community Manager at AWS and Chris Short, Sr. Developer Advocate for a discussion about getting decision makers to buy-in in the #DevRel space.
+
 ### GitOpsCon EU 2022
 
 Date: 2022-05-17  
