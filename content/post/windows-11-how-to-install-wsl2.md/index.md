@@ -1,7 +1,7 @@
 +++
 
 author = "Chris Short"
-categories = ["Linux", "Windows", "2022"]
+categories = ["Linux", "Microsoft", "2022"]
 date = 2022-08-18T12:30:00Z
 description = "Installing WSL2 on Windows 11 is a real pain unless you know what you're doing. It's not as simple as installing a distro at the Microsoft Store."
 draft = false
