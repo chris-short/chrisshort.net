@@ -3,10 +3,10 @@
 author = "Chris Short"
 categories = ["Linux", "Windows", "2022"]
 date = 2022-08-18T12:30:00Z
-description = "Installing WSL2 on Windows 11 is a real pain in the ass. It's not as simple as going to the Microsoft Store and installing a distro."
+description = "Installing WSL2 on Windows 11 is a real pain in the ass. It's not as simple as going to the Microsoft Store and installing a Linux distro."
 draft = false
 slug = "windows-11-how-to-install-wsl2"
-tags = []
+tags = ["Windows", "Linux", "WSL", "WSL2", "install", "Ubuntu", "error", "run", "command", "Linux distros", "Microsoft", "distro", "Run as Administrator", "Windows Subsystem for Linux", "PowerShell", "Terminal"]
 ShowTOC = true
 title = "Windows 11: How to Install WSL2 and Linux Distros"
 [cover]
@@ -43,6 +43,8 @@ Error: 0x80070032 The request is not supported.
 WslRegisterDistribution failed with error: 0x080370114
 Error: 0x080370114 The operation could not be started because a required feature is not installed.
 ```
+
+Note: If a different error message got you here, let me know and I'll add it here.
 
 ## Why doesn't this just work?
 
