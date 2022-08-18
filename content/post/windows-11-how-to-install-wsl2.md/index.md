@@ -3,7 +3,7 @@
 author = "Chris Short"
 categories = ["Linux", "Windows", "2022"]
 date = 2022-08-18T12:30:00Z
-description = "Installing WSL2 on Windows 11 is a real pain in the ass. It's not as simple as going to the Microsoft Store and installing a Linux distro."
+description = "Installing WSL2 on Windows 11 is a real pain unless you know what you're doing. It's not as simple as installing a distro at the Microsoft Store."
 draft = false
 slug = "windows-11-how-to-install-wsl2"
 tags = ["Windows", "Linux", "WSL", "WSL2", "install", "Ubuntu", "error", "run", "command", "Linux distros", "Microsoft", "distro", "Run as Administrator", "Windows Subsystem for Linux", "PowerShell", "Terminal"]
