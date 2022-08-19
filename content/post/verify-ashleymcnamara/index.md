@@ -3,7 +3,7 @@ author = "Chris Short"
 categories = ["Shenanigans", "2019"]
 date = 2019-04-02T07:00:00Z
 description = "认证 @ashleymcnamara — Verify Ashley McNamara"
-draft = false
+draft = true
 tags = ["Twitter", "verified account program", "verified", "Ashley McNamara"]
 title = "Verify @ashleymcnamara"
 [cover]
