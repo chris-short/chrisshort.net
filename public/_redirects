@@ -9,3 +9,10 @@
 /drawings/*.jpg https://shortcdn.com/files/chrisshort/:splat.jpg 301
 /drawings/*.webp https://shortcdn.com/files/chrisshort/:splat.webp 301
 /fonts/* https://shortcdn.com/files/chrisshort/fonts/:splat 301
+
+# Deprecated posts
+/announcing-detroit-go-meetup https://github.com/chris-short/chrisshort.net/blob/main/content/post/announcing-detroit-go-meetup/index.md 301
+/ansible-galaxy-is-open https://github.com/chris-short/chrisshort.net/blob/main/content/post/ansible-galaxy-is-open/index.md 301
+/ansible-role-for-papertrail https://github.com/chris-short/chrisshort.net/blob/main/content/post/ansible-role-for-papertrail/index.md 301
+/verify-ashleymcnamara https://github.com/chris-short/chrisshort.net/blob/main/content/post/verify-ashleymcnamara/index.md 301
+/weather-in-your-ios-and-macos-calendars https://github.com/chris-short/chrisshort.net/blob/main/content/post/weather-in-your-ios-and-macos-calendars/index.md 301
