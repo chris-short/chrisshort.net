@@ -24,7 +24,7 @@ Results producing DevOps profession turned developer and community advocate. Clo
 
 ## Professional Experience
 
-### Senior Developer Advocate, Amazon Web Services Kubernetes — Detroit, MI — Oct 2021 to Present
+### Senior Developer Advocate, Amazon Web Services — Detroit, MI — Oct 2021 to Present
 
 * Launched [EKS.news](https://eks.news/), a newsletter covering the latest updates on Amazon Elastic Kubernetes Service (EKS); an additional mechanism to inform customers about new features and updates.
 
