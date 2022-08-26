@@ -140,7 +140,7 @@ Results producing DevOps profession turned developer and community advocate. Clo
 ## Education and Certifications
 
 * AAS, Community College of the Air Force, Electronic Systems Technology, Aug 2010
-* CompTIA Network+ (Verification [ZZ6VGN6LSCBEYCBN](https://www.credly.com/badges/028d9ed9-9980-4ec0-b7f5-37a612341ae1))
+* CompTIA Network+ (Verification ZZ6VGN6LSCBEYCBN)
 * Red Hat Certified System Administrator (RHEL 6 — Certification ID: [120-179-858](https://www.redhat.com/rhtapps/services/verify/?certId=120-179-858))
 * Enterasys Certified Specialist — Switching NMS (License a1780000000eXhqAAE)
 * [Pragmatic Marketing Certified — Level II (PMC-II)](https://shortcdn.com/file/chrisshort/Pragmatic_Marketing_Certification_00139296.pdf)
