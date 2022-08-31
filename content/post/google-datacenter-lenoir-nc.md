@@ -9,7 +9,7 @@ slug = "google-datacenter-lenoir-nc"
 tags = ["google"]
 title = "Google Building New Datacenter in Lenoir, NC"
 [cover]
-image = "https://shortcdn.com/file/chrisshort/Google_2007.png"
+image = "https://shortcdn.com/chrisshort/Google_2007.png"
 
 +++
 

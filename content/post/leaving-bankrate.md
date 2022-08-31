@@ -9,7 +9,7 @@ slug = "leaving-bankrate"
 tags = ["job", "work", "life", "balance", "acquisition"]
 title = "Leaving Bankrate"
 [cover]
-image = "https://shortcdn.com/file/chrisshort/leaving.jpg"
+image = "https://shortcdn.com/chrisshort/leaving.jpg"
 
 +++
 

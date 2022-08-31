@@ -9,7 +9,7 @@ slug = "devopsdays-toronto-2018"
 tags = ["speaking", "talks", "devops", "devopsdays", "toronto", "military"]
 title = "DevOpsDays Toronto 2018: What the Military Taught Me About DevOps"
 [cover]
-image = "https://shortcdn.com/file/chrisshort/chris-short-devopsdays-toronto-2018.jpg"
+image = "https://shortcdn.com/chrisshort/chris-short-devopsdays-toronto-2018.jpg"
 caption = "Photo Courtesy of [Arthur Maltson](https://twitter.com/amaltson)"
 
 +++
@@ -30,7 +30,7 @@ One thing I did need to mention was the fact that freedom of speech is great but
 
 {{< speakerdeck fe9b2a9711ec4e6a9fac37f0f04c25a6 >}}
 
-[**A graphic recording of this talk is available:** ![What the Military Taught Me About DevOps Graphic Recording](https://shortcdn.com/file/chrisshort/devopsdaysto_may30_2018_chrisshort.jpg)](/drawings/what-the-military-taught-me-about-devops-graphic-recording/)
+[**A graphic recording of this talk is available:** ![What the Military Taught Me About DevOps Graphic Recording](https://shortcdn.com/chrisshort/devopsdaysto_may30_2018_chrisshort.jpg)](/drawings/what-the-military-taught-me-about-devops-graphic-recording/)
 
 ## Video
 

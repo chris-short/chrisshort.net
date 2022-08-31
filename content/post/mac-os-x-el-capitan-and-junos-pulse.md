@@ -9,7 +9,7 @@ slug = "mac-os-x-el-capitan-and-junos-pulse"
 tags = ["junos pulse", "apple keychain", "mac os x", "el capitan", "apple", "macos"]
 title = "Mac OS X El Capitan and Junos Pulse"
 [cover]
-image = "https://shortcdn.com/file/chrisshort/Pulse-Secure-Logo-Medium_optimized.png"
+image = "https://shortcdn.com/chrisshort/Pulse-Secure-Logo-Medium_optimized.png"
 
 +++
 

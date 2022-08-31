@@ -14,7 +14,7 @@ aliases = [
     "/my-new-hp-pavilion-zv5260us-laptop/"
 ]
 [cover]
-image = "https://shortcdn.com/file/chrisshort/hp-pavilion-zv5260us-01.jpg"
+image = "https://shortcdn.com/chrisshort/hp-pavilion-zv5260us-01.jpg"
 
 +++
 

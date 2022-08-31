@@ -9,7 +9,7 @@ tags = ["war", "communications", "iraq", "afghanistan", "veterans", "air force",
 title = "North Carolina Veterans Oral History Interview Part 2"
 aliases = ["nc-vets-oral-history-interview-2"]
 [cover]
-image = "https://shortcdn.com/file/chrisshort/chris-short-qatar-firing-range.jpg"
+image = "https://shortcdn.com/chrisshort/chris-short-qatar-firing-range.jpg"
 caption = "Weapons qualification in Qatar in 2002; two men on camels walked across the active firing range"
 +++
 
@@ -23,7 +23,7 @@ This picks up where my [NC State Archives Interview Part 1](/nc-veterans-oral-hi
 
 {{< audio nc-veterans-oral-history-interview-2.mp3 >}}
 
-Also available as an [MP3 download](https://shortcdn.com/file/chrisshort/nc-veterans-oral-history-interview-2.mp3)
+Also available as an [MP3 download](https://shortcdn.com/chrisshort/nc-veterans-oral-history-interview-2.mp3)
 
 **MP:** So you get on base.
 

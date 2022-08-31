@@ -14,7 +14,7 @@ aliases = [
     "/windows-xp-and-"
 ]
 [cover]
-image = "https://shortcdn.com/file/chrisshort/Windows_XP_Logo.png"
+image = "https://shortcdn.com/chrisshort/Windows_XP_Logo.png"
 
 +++
 

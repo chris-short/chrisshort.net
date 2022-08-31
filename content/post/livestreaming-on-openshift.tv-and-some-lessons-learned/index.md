@@ -9,7 +9,7 @@ slug = "live-streaming-on-openshift.tv-and-some-lessons-learned"
 tags = ["live streaming", "streaming", "learned", "OpenShift.tv", "Red Hat OpenShift", "OpenShift", "CNCF", "Kubernetes", "cloud native", "community", "Cloud Native Computing Foundation", "OBS", "open source"]
 title = "Live streaming on OpenShift.tv and some lessons learned"
 [cover]
-image = "https://shortcdn.com/file/chrisshort/openshift.tv.png"
+image = "https://shortcdn.com/chrisshort/openshift.tv.png"
 
 +++
 

@@ -7,7 +7,7 @@ draft = false
 tags = ["Kubernetes", "Operator", "Ansible", "operators", "talk", "app"]
 title = "How to Teach Old Apps New Tricks with Ansible-based Operators (Parts 1 & 2)"
 [cover]
-image = "https://shortcdn.com/file/chrisshort/how-to-teach-old-apps-new-tricks-with-ansible-based-operators-parts-1-2.png"
+image = "https://shortcdn.com/chrisshort/how-to-teach-old-apps-new-tricks-with-ansible-based-operators-parts-1-2.png"
 
 +++
 

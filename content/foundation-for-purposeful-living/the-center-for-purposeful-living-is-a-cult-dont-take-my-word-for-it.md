@@ -51,5 +51,5 @@ The ability for these people to judge and condemn others is not "spiritual" or "
 
 I'd like to thank Quincy and his father for sharing this story. I would also like to reiterate the fact that I'm willing to anonymously tell other's stories if they so wish for me to publish them.
 
-![Derwyn Lackey (Derwin Lackey)](https://shortcdn.com/file/chrisshort/recent-derwin-lackey-derwyn.jpg#center)
+![Derwyn Lackey (Derwin Lackey)](https://shortcdn.com/chrisshort/recent-derwin-lackey-derwyn.jpg#center)
 Derwyn Lackey, Supreme Ruler of the Center for Purposeful Living

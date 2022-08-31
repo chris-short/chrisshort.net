@@ -13,7 +13,7 @@ aliases = [
     "/archives/2004/10/firefox-gets-ready-for-ad-splash.php"
 ]
 [cover]
-image = "https://shortcdn.com/file/chrisshort/nyt_ad_2004.png"
+image = "https://shortcdn.com/chrisshort/nyt_ad_2004.png"
 
 +++
 
@@ -21,6 +21,6 @@ Firefox has taken out a two-page ad in the New York Times! According to Firefox 
 
 Somewhere in that massive list of names is mine. I will be picking up a New York Times some time today to see how good this Firefox ad looks on two full pages.
 
-If someone really wants to impress me for Christmas they can get me [the print (PDF)](https://shortcdn.com/file/chrisshort/pdf/nytimes-firefox-final.pdf), frame it, and put it under the tree for me.
+If someone really wants to impress me for Christmas they can get me [the print (PDF)](https://shortcdn.com/chrisshort/pdf/nytimes-firefox-final.pdf), frame it, and put it under the tree for me.
 
 {{< carbon >}}

@@ -12,7 +12,7 @@ aliases = [
     "/php-memory-directives-relationship/"
 ]
 [cover]
-image = "https://shortcdn.com/file/chrisshort/drawings/php-logo-large-white.png"
+image = "https://shortcdn.com/chrisshort/drawings/php-logo-large-white.png"
 
 +++
 
@@ -43,6 +43,6 @@ memory\_limit > post\_max\_size > upload\_max\_filesize
 
 Or...
 
-![PHP Memory Relationships](https://shortcdn.com/file/chrisshort/drawings/php-memory-relationships.png)
+![PHP Memory Relationships](https://shortcdn.com/chrisshort/drawings/php-memory-relationships.png)
 
 {{< eo_signup >}}

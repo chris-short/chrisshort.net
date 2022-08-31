@@ -9,7 +9,7 @@ slug = "weather-in-your-ios-and-macos-calendars"
 tags = ["weather", "ios", "macos", "calendar"]
 title = "Weather in your iOS and macOS Calendars"
 [cover]
-image = "https://shortcdn.com/file/chrisshort/macos-calender-weather.png"
+image = "https://shortcdn.com/chrisshort/macos-calender-weather.png"
 
 +++
 
@@ -39,7 +39,7 @@ On a macOS device, open Calendar.app. Click *File*, then click *New Calendar Sub
 
 In the dialog box, paste the URL of the proper ICS file for the weather in the location you which to add to your calendar. If the URL is right you will see a new dialog box:
 
-![macOS Calendar Weather Underground](https://shortcdn.com/file/chrisshort/macos-calendar-weather-underground.jpg)
+![macOS Calendar Weather Underground](https://shortcdn.com/chrisshort/macos-calendar-weather-underground.jpg)
 
 If you want to see this calendar subscription on all your devices by sure to select a Location that you have on all devices. I chose iCloud as I do not really use the iCloud Calendar for anything and it is on all my Apple devices. I recommend updating the calendar frequently to ensure you have the most up to date weather data (every hour is probably sufficient). I also recommend removing attachments and alerts.
 

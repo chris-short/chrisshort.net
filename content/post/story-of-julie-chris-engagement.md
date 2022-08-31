@@ -12,7 +12,7 @@ aliases = [
     "/post/16711219859/the-story-of-julie-and-chriss-engagement"
 ]
 [cover]
-image = "https://shortcdn.com/file/chrisshort/diana-biltmore-estate.jpg"
+image = "https://shortcdn.com/chrisshort/diana-biltmore-estate.jpg"
 
 +++
 

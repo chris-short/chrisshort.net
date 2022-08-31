@@ -9,7 +9,7 @@ slug = "military-lessons-applied-to-devops-operation-eagle-claw"
 tags = ["DevOps", "military"]
 title = "Military Lessons Applied to DevOps: Operation Eagle Claw"
 [cover]
-image = "https://shortcdn.com/file/chrisshort/operation-eagle-claw.png"
+image = "https://shortcdn.com/chrisshort/operation-eagle-claw.png"
 
 +++
 

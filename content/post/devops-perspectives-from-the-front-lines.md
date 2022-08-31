@@ -9,7 +9,7 @@ slug = "devops-perspectives-from-the-front-lines"
 tags = ["DevOps", "podcast", "interviews"]
 title = "DevOps Perspectives from the Front Lines"
 [cover]
-image = "https://shortcdn.com/file/chrisshort/Cloudcast-Logo-2015-Banner-Blue.png"
+image = "https://shortcdn.com/chrisshort/Cloudcast-Logo-2015-Banner-Blue.png"
 
 +++
 
@@ -21,6 +21,6 @@ One distinctly unique opportunity was to sit down with the folks from The Cloudc
 
 {{< audio the-cloudcast-277-devops-perspectives-from-the-front-lines.mp3 >}}
 
-Also available as an [MP3 download](https://shortcdn.com/file/chrisshort/the-cloudcast-277-devops-perspectives-from-the-front-lines.mp3)
+Also available as an [MP3 download](https://shortcdn.com/chrisshort/the-cloudcast-277-devops-perspectives-from-the-front-lines.mp3)
 
 Subscribe to [The Cloudcast](http://www.thecloudcast.net/2016/10/the-cloudcast-277-devops-perspective.html); they're good people.

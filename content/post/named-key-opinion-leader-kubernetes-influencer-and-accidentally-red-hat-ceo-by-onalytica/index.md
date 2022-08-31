@@ -7,7 +7,7 @@ draft = false
 tags = ["Kubernetes", "Onalytica", "report", "Red Hat", "influencer"]
 title = "Named Key Opinion Leader, Kubernetes Influencer, and (accidentally) Red Hat CEO by Onalytica"
 [cover]
-image = "https://shortcdn.com/file/chrisshort/whos-who-in-hybrid-cloud.webp"
+image = "https://shortcdn.com/chrisshort/whos-who-in-hybrid-cloud.webp"
 
 +++
 
@@ -24,7 +24,7 @@ A thank you to Onalytica is in order here. I'm listed next to some truly wonderf
 
 ## Red Hat CEO???
 
-What made this merit a blog post here was the mislabeling of me as CEO, Red Hat, in the [original version](https://shortcdn.com/file/chrisshort/Whos-Who-In-Hybrid-Cloud-Mistake.png) of the report ([which has since been corrected](https://onalytica.com/blog/posts/whos-who-in-hybrid-cloud/), thankfully).
+What made this merit a blog post here was the mislabeling of me as CEO, Red Hat, in the [original version](https://shortcdn.com/chrisshort/Whos-Who-In-Hybrid-Cloud-Mistake.png) of the report ([which has since been corrected](https://onalytica.com/blog/posts/whos-who-in-hybrid-cloud/), thankfully).
 
 The day after this report came out, a friend from the Kubernetes community sent me a link to the report and congratulated me on the promotion dead smack in the middle of my team's weekly get together. Which then led to some chuckles in the meeting as well as in other channels and DMs.
 

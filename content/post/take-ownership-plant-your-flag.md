@@ -9,7 +9,7 @@ slug = "take-ownership-plant-your-flag"
 tags = ["ownership", "philosophy"]
 title = "Take Ownership; \"Plant Your Flag\""
 [cover]
-image = "https://shortcdn.com/file/chrisshort/plant-flag.jpg"
+image = "https://shortcdn.com/chrisshort/plant-flag.jpg"
 
 +++
 

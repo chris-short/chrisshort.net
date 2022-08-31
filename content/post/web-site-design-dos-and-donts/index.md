@@ -8,7 +8,7 @@ tags = ["search", "search engine", "search engine rankings", "search engine opti
 title = "Web Site Design Do's and Don'ts"
 ShowToc = true
 [cover]
-image = "https://shortcdn.com/file/chrisshort/web-site-design-do's-and-don'ts.svg"
+image = "https://shortcdn.com/chrisshort/web-site-design-do's-and-don'ts.svg"
 caption = "Web Site Design Do's and Don'ts"
 +++
 

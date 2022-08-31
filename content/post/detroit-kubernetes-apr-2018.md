@@ -12,7 +12,7 @@ aliases = [
     "detroit-kubernetes--kubernetes-cron-jobs"
 ]
 [cover]
-image = "https://shortcdn.com/file/chrisshort/detroit-kubernetes-apr-2018-cron-jobs.png"
+image = "https://shortcdn.com/chrisshort/detroit-kubernetes-apr-2018-cron-jobs.png"
 
 +++
 
@@ -20,7 +20,7 @@ I spoke at [Detroit Kubernetes, Docker & all related things](https://www.meetup.
 
 {{< carbon >}}
 
-The talk and corresponding demo is based on the article I wrote back in February, [*Kubernetes: Cron Jobs*](/kubernetes-cron-jobs/). I had Pushover notifications setup too so every time the cron job ran in minikube my Apple Watch would ping. It added a nice, albeit unintended, effect that I'll try to make use of during future demos for sure. You can view the slides below or [download the version with notes](https://shortcdn.com/file/chrisshort/Kubernetes-Cron-Jobs-Notes.pdf).
+The talk and corresponding demo is based on the article I wrote back in February, [*Kubernetes: Cron Jobs*](/kubernetes-cron-jobs/). I had Pushover notifications setup too so every time the cron job ran in minikube my Apple Watch would ping. It added a nice, albeit unintended, effect that I'll try to make use of during future demos for sure. You can view the slides below or [download the version with notes](https://shortcdn.com/chrisshort/Kubernetes-Cron-Jobs-Notes.pdf).
 
 {{< eo_signup >}}
 

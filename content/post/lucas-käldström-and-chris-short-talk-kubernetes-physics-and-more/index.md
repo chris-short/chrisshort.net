@@ -10,7 +10,7 @@ tags = ["Lucas Käldström", "Chris Short", "Kubernetes", "state", "servers", "c
 title = "Lucas Käldström and Chris Short Talk Kubernetes, Physics, and more"
 showToc = true
 [cover]
-    image = "https://shortcdn.com/file/chrisshort/lucas-kaldstrom-and-chris-short-talk-kubernetes-physics-and-more.webp"
+    image = "https://shortcdn.com/chrisshort/lucas-kaldstrom-and-chris-short-talk-kubernetes-physics-and-more.webp"
         alt = "Lucas Käldström and Chris Short talking at KubeCon + CloudNativeCon EU 2022"
         caption = "Lucas Käldström and Chris Short talking at KubeCon + CloudNativeCon EU 2022"
 

@@ -8,7 +8,7 @@ slug = "joining-ansible-team-at-red-hat"
 tags = ["red hat", "ansible", "linux", "devops", "usaf"]
 title = "Joining Ansible Team at Red Hat"
 [cover]
-image = "https://shortcdn.com/file/chrisshort/joining-ansible-team.png"
+image = "https://shortcdn.com/chrisshort/joining-ansible-team.png"
 imagecap = ""
 
 +++

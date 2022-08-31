@@ -16,7 +16,7 @@ aliases = [
 
 +++
 
-![Tux Directory Tree](https://shortcdn.com/file/chrisshort/tux-tree.gif#center) For more information about the Linux directory structure see the [Filesystem Hierarchy Standard (FHS)](http://www.pathname.com/fhs/) which is part of the [Linux Standard Base (LSB)](http://www.linuxbase.org/) which is a workgroup of the [Free Standards Group](http://www.freestandards.org/).
+![Tux Directory Tree](https://shortcdn.com/chrisshort/tux-tree.gif#center) For more information about the Linux directory structure see the [Filesystem Hierarchy Standard (FHS)](http://www.pathname.com/fhs/) which is part of the [Linux Standard Base (LSB)](http://www.linuxbase.org/) which is a workgroup of the [Free Standards Group](http://www.freestandards.org/).
 
 {{< eo_signup >}}
 

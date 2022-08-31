@@ -9,7 +9,7 @@ slug = "find-ec2-instances-that-are-missing-tags"
 tags = ["EC2", "AWS", "jq", "DevOps"]
 title = "Find EC2 Instances That Are Missing Tags"
 [cover]
-image = "https://shortcdn.com/file/chrisshort/aws.jpg"
+image = "https://shortcdn.com/chrisshort/aws.jpg"
 
 +++
 

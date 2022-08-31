@@ -9,7 +9,7 @@ slug = "linkedin-mentor-monday-detroit"
 tags = ["detroit", "mentor", "linkedin", "mentorship", "volunteering"]
 title = "LinkedIn Mentor Monday Detroit"
 [cover]
-image = "https://shortcdn.com/file/chrisshort/linkedin-mentor-monday-20180122.jpg"
+image = "https://shortcdn.com/chrisshort/linkedin-mentor-monday-20180122.jpg"
 
 +++
 

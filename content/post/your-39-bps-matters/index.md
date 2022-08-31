@@ -8,7 +8,7 @@ ShowTOC = false
 tags = ["imposter syndrome", "metadata", "privacy"]
 title = "Your 39 bps matters more than you think"
 [cover]
-image = "https://shortcdn.com/file/chrisshort/sine-wave.jpg"
+image = "https://shortcdn.com/chrisshort/sine-wave.jpg"
 
 +++
 

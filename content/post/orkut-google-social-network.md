@@ -9,7 +9,7 @@ slug = "orkut-google-social-network"
 tags = ["social media", "google"]
 title = "orkut.com - Google's Social Network"
 [cover]
-image = "https://shortcdn.com/file/chrisshort/Orkut_2004.png"
+image = "https://shortcdn.com/chrisshort/Orkut_2004.png"
 
 +++
 
