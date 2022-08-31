@@ -21,7 +21,7 @@ ShowTOC = false
 > * tapping the power of native controls in Kubernetes
 > * leveraging automation to retain velocity
 
-Download as [MP4](https://shortcdn.com/file/chrisshort/Security-at-Cloud-native-Speed.mp4)
+Download as [MP4](https://shortcdn.com/chrisshort/Security-at-Cloud-native-Speed.mp4)
 
 {{< speaker >}}
 

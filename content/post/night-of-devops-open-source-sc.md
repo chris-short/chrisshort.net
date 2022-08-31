@@ -10,7 +10,7 @@ tags = ["DevOps", "cloud native", "talks"]
 title = "A Night of DevOps at Open Source South Carolina"
 aliases = ["night-of-devops-open-source-sc"]
 [cover]
-image = "https://shortcdn.com/file/chrisshort/a-night-of-devops.jpg"
+image = "https://shortcdn.com/chrisshort/a-night-of-devops.jpg"
 
 +++
 

@@ -12,7 +12,7 @@ aliases = [
      "baltimore-go-june-meeting---go-to-the-rescue-saving-devops-from-tls-turmoil"
 ]
 [cover]
-image = "https://shortcdn.com/file/chrisshort/This_is_Fine_Gopher.png"
+image = "https://shortcdn.com/chrisshort/This_is_Fine_Gopher.png"
 caption = "Gopher Art Always Courtesy of [Ashley McNamara](https://github.com/ashleymcnamara/gophers)"
 +++
 

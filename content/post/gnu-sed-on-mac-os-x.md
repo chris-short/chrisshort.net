@@ -8,7 +8,7 @@ slug = "gnu-sed-on-mac-os-x"
 tags = ["sed", "gnu", "bsd", "mac os x", "apple", "system integrity protection", "sip", "macos", "tools"]
 title = "GNU sed on Mac OS X"
 [cover]
-image = "https://shortcdn.com/file/chrisshort/hexley-darwin-vs-heckert-gnu.png"
+image = "https://shortcdn.com/chrisshort/hexley-darwin-vs-heckert-gnu.png"
 
 +++
 

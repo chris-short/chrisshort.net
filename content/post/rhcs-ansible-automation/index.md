@@ -9,7 +9,7 @@ slug = "rhcs-ansible-automation"
 tags = ["red hat", "ansible", "product", "marketing", "automation"]
 title = "I'm a Red Hat Certified Specialist: Ansible Automation"
 [cover]
-image = "https://shortcdn.com/file/chrisshort/rhcs-ansible-automation-chris-short.png"
+image = "https://shortcdn.com/chrisshort/rhcs-ansible-automation-chris-short.png"
 
 +++
 

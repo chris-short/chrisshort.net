@@ -140,7 +140,7 @@ Source: [2019 Accelerate State of DevOps Report](http://cloud.google.com/devops/
 * Infrastructure as Code
 
 Source: [Cloud-native security for containers and
-Kubernetes](https://shortcdn.com/file/chrisshort/StackRox-Kubernetes-Security-Platform-Solution-Brief.pdf)
+Kubernetes](https://shortcdn.com/chrisshort/StackRox-Kubernetes-Security-Platform-Solution-Brief.pdf)
 
 ## Speed Makes Us Safer
 

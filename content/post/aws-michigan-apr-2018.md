@@ -9,7 +9,7 @@ slug = "aws-michigan-apr-2018"
 tags = ["devops", "AWS", "Michigan", "talks", "cloud"]
 title = "AWS Michigan: Heaven is Not a Cloud"
 [cover]
-image = "https://shortcdn.com/file/chrisshort/aws-michigan-april-2018.jpg"
+image = "https://shortcdn.com/chrisshort/aws-michigan-april-2018.jpg"
 
 +++
 

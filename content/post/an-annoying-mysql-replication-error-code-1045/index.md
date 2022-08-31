@@ -9,7 +9,7 @@ slug = "an-annoying-mysql-replication-error-code-1045"
 tags = ["mysql", "replication"]
 title = "An Annoying MySQL Replication Error Code: 1045"
 [cover]
-image = "https://shortcdn.com/file/chrisshort/logo-mysql-170x115.png"
+image = "https://shortcdn.com/chrisshort/logo-mysql-170x115.png"
 
 +++
 

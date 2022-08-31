@@ -10,7 +10,7 @@ tags = ["GitOps", "Conway's Law", "system", "management", "communication", "stru
 ShowTOC = false
 title = "Conway's Law and GitOps"
 [cover]
-image = "https://shortcdn.com/file/chrisshort/laws.webp"
+image = "https://shortcdn.com/chrisshort/laws.webp"
 
 +++
 

@@ -12,7 +12,7 @@ aliases = [
      "my-raspberry-pi-kubernetes-cluster"
 ]
 [cover]
-image = "https://shortcdn.com/file/chrisshort/building-raspberry-pi-kubernetes-cluster.jpg"
+image = "https://shortcdn.com/chrisshort/building-raspberry-pi-kubernetes-cluster.jpg"
 
 +++
 

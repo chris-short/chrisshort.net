@@ -8,7 +8,7 @@ slug = "kubernetes-getting-started"
 tags = ["DevOps", "kubernetes", "minishift", "minikube", "coreos", "tectonic", "cloud native"]
 title = "Kubernetes: Getting Started"
 [cover]
-image = "https://shortcdn.com/file/chrisshort/kubernetes-getting-started.png"
+image = "https://shortcdn.com/chrisshort/kubernetes-getting-started.png"
 
 +++
 

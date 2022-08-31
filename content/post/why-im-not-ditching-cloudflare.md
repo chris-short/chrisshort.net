@@ -9,7 +9,7 @@ slug = "why-im-not-ditching-cloudflare"
 tags = ["internet", "cloudflare", "hate", "diversity", "bgp"]
 title = "Why I'm Not Ditching Cloudflare"
 [cover]
-image = "https://shortcdn.com/file/chrisshort/cf-logo-v-rgb.png"
+image = "https://shortcdn.com/chrisshort/cf-logo-v-rgb.png"
 
 +++
 

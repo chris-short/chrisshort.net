@@ -8,7 +8,7 @@ slug = "military-phrases-for-devops"
 tags = ["devops", "military"]
 title = "Military Phrases For Use in DevOps"
 [cover]
-image = "https://shortcdn.com/file/chrisshort/low-crawl.jpg"
+image = "https://shortcdn.com/chrisshort/low-crawl.jpg"
 caption = "Parental Discretion is Advised"
 
 +++

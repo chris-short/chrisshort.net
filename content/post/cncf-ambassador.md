@@ -9,7 +9,7 @@ slug = "cncf-ambassador"
 tags = ["cloud native", "cncf", "kubernetes", "ambassador"]
 title = "Chris Short named Cloud Native Ambassador"
 [cover]
-image = "https://shortcdn.com/file/chrisshort/cncf-ambassador-color-horizontal.png"
+image = "https://shortcdn.com/chrisshort/cncf-ambassador-color-horizontal.png"
 
 +++
 

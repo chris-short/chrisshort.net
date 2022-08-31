@@ -8,7 +8,7 @@ slug = "open-source-initiative-board-of-directors-2020"
 tags = ["open source", "OSI", "Open Source Initiative", "Board of Directors", "licenses", "election"]
 title = "Open Source Initiative Board of Directors 2020"
 [cover]
-image = "https://shortcdn.com/file/chrisshort/neon-open.jpg"
+image = "https://shortcdn.com/chrisshort/neon-open.jpg"
 
 +++
 

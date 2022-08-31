@@ -9,7 +9,7 @@ slug = "cable-vs-dsl"
 tags = ["internet", "networking"]
 title = "Cable vs. DSL"
 [cover]
-image = "https://shortcdn.com/file/chrisshort/network-cables.jpg"
+image = "https://shortcdn.com/chrisshort/network-cables.jpg"
 
 +++
 

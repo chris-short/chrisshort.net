@@ -9,7 +9,7 @@ slug = "being-a-veteran-in-todays-america"
 tags = ["veteran", "veterans", "America", "rank", "recognition"]
 title = "Being a Veteran in Today's America"
 [cover]
-image = "https://shortcdn.com/file/chrisshort/steve-harvey-330899-unsplash.jpg"
+image = "https://shortcdn.com/chrisshort/steve-harvey-330899-unsplash.jpg"
 caption = "The Incredibly Few, The Mostly Proud: The Anonymous Veterans of Today's America"
 
 +++

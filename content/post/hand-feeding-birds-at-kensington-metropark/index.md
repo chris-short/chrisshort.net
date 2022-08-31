@@ -9,7 +9,7 @@ slug = "does-this-make-max-and-i-disney-princesses"
 tags = ["Kensington Metropark"]
 title = "Does this make Max and I Disney Princesses?"
 [cover]
-image = "https://shortcdn.com/file/chrisshort/kensington_metropark_milford_michigan_hand_feeding_birds.jpg"
+image = "https://shortcdn.com/chrisshort/kensington_metropark_milford_michigan_hand_feeding_birds.jpg"
 
 +++
 

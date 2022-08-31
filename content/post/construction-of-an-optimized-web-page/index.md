@@ -8,7 +8,7 @@ tags = ["master template", "search engine", "search engine optimization", "SEO",
 title = "Construction of an Optimized Web Page"
 ShowToc = false
 [cover]
-image = "https://shortcdn.com/file/chrisshort/constrution-of-an-optimized-web-page.jpg"
+image = "https://shortcdn.com/chrisshort/constrution-of-an-optimized-web-page.jpg"
 caption = "Construction of an Optimized Web Page"
 +++
 
@@ -24,7 +24,7 @@ The system used over at the Short Family Web Site is a simple one. There is a "m
 
 Before a page is ever built you determine what the subject of the page is. Also, if the page doesn't have a purpose then there is no need to create a page. Your subject should be clearly defined. The easiest way I've found to turn your thoughts into words is to develop a simple outline. It shouldn't be too complex but it should detail your major topics or points and allow you to get up and leave your work to do something else and sit down hours later to continue working.
 
-![Example outline](https://shortcdn.com/file/chrisshort/example-outline.jpg "Example outline")
+![Example outline](https://shortcdn.com/chrisshort/example-outline.jpg "Example outline")
 
 Once you've developed your outline you should start writing the text for your web page as a rough draft in a word processor. This allows you to grammar and spell check your work as well as edit and rearrange sentences and paragraphs as needed. This entire article was written in Microsoft Word well before it ever saw the light of the Internet and long before you read this sentence. Using a word processor for web page text allows you to proofread and change the text of your web page a lot easier. I, like many people, don't necessarily like reading a page or two of text on a computer screen and I especially hate proofreading text on a computer so I usually print out my articles proofread them, make notes on paper, then come back to the computer and edit the article as needed. When your proofreading and editing is complete you should place your text, graphics, and any other elements of the web page you're creating into the web page itself as HTML or whatever markup language you're using.
 

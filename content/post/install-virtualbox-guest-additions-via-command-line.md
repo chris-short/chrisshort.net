@@ -9,7 +9,7 @@ slug = "install-virtualbox-guest-additions-via-command-line"
 tags = ["virtualbox", "centos"]
 title = "Install VirtualBox Guest Additions via Command Line"
 [cover]
-image = "https://shortcdn.com/file/chrisshort/Virtualbox_logo.png"
+image = "https://shortcdn.com/chrisshort/Virtualbox_logo.png"
 
 +++
 

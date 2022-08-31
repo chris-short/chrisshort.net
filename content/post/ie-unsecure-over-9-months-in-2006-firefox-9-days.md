@@ -13,7 +13,7 @@ aliases = [
     "/ie-unsecure-for-over-9-months-in-2006-firefox-9-days"
 ]
 [cover]
-image = "https://shortcdn.com/file/chrisshort/ie7-vs-firefox.png"
+image = "https://shortcdn.com/chrisshort/ie7-vs-firefox.png"
 
 +++
 

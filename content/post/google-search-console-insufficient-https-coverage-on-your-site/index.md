@@ -8,7 +8,7 @@ tags = ["search", "search engine", "search engine optimization", "SEO", "Google 
 title = "Insufficient HTTPS coverage on your site: What does that mean?"
 ShowToc = true
 [cover]
-image = "https://shortcdn.com/file/chrisshort/your-site-has-no-urls-with-good-page-experience.webp"
+image = "https://shortcdn.com/chrisshort/your-site-has-no-urls-with-good-page-experience.webp"
 caption = "Google says a site has no URLs with HTTPS but, according to testing tools like Qualys SSL Labs, HTTPS is fine"
 aliases = [
     "google-search-console-insufficient-https-coverage-on-your-site",
@@ -33,7 +33,7 @@ I've been reading more SEO-related content lately as I've been trying to grow th
 
 If you're not serving your site over [HTTPS](https://developers.google.com/search/docs/advanced/security/https), you're going to have a harder time getting good results on Google Search Results Pages (SERPs). Everyone wants to be on the front page of Google. There are many jokes about how the second page of Google search results is akin to being thrown into an abyss. I could make a joke about how SEO content is nothing but a series of links to pages with a series of additional links to other pages, all of which you must consume and apply to get to the first page of Google.
 
-![HTTPS is vitally important for good search engine results](https://shortcdn.com/file/chrisshort/page-experience-signals-https-failing.webp "HTTPS is vitally important for good search engine results. But, this warning is not helpful.")
+![HTTPS is vitally important for good search engine results](https://shortcdn.com/chrisshort/page-experience-signals-https-failing.webp "HTTPS is vitally important for good search engine results. But, this warning is not helpful.")
 
 The **LEARN MORE** that I was naively hopeful would provide an answer was indeed worthless. All pages on [ChrisShort.net are being served over HTTPS](https://www.ssllabs.com/ssltest/analyze.html?d=chrisshort.net&hideResults=on&ignoreMismatch=on&latest) and have been for *years*. There was no obvious answer to this problem. Google documentation left a lot to be desired. Even [the discussion matching the error message, "Insufficient HTTPS coverage on your site"](https://support.google.com/webmasters/thread/106824024?hl=en) featured questions from others in an equal state of confusion as I.
 
@@ -45,7 +45,7 @@ I was at a loss and assumed something was indeed wrong (I doubt Google would be 
 
 Then I saw this tiny, one-line error message. Something was wrong with my  [Permissions Policy](https://developer.chrome.com/blog/new-in-chrome-90/#permission-policy) header. I [fixed that error due to a syntax error in my implementation of the Permissions Policy header](https://github.com/chris-short/devopsish.com/pull/168/files). Like magic, before I could even go to check, the Google Search Console was reporting good HTTPS for ChrisShort.net.
 
-![Your site just started using HTTPS according to Google. Congrats?](https://shortcdn.com/file/chrisshort/your-site-uses-https.jpg "While the outcome was successful, I would have liked this to be a little better experience for folks.")
+![Your site just started using HTTPS according to Google. Congrats?](https://shortcdn.com/chrisshort/your-site-uses-https.jpg "While the outcome was successful, I would have liked this to be a little better experience for folks.")
 
 ## Conclusion
 

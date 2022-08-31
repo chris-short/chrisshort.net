@@ -4,7 +4,7 @@ categories = ["Ansible", "Red Hat", "2015"]
 date = 2015-10-17T07:53:00Z
 description = ""
 draft = true
-image = "https://shortcdn.com/file/chrisshort/ansible_circleA_red.png"
+image = "https://shortcdn.com/chrisshort/ansible_circleA_red.png"
 slug = "using-ansible-vault-effectively"
 tags = ["ansible", "ansible-vault", "security"]
 title = "Using Ansible Vault Effectively"
@@ -31,7 +31,7 @@ The best use case for Ansible Vaults are your variable files (group\_vars and ho
 
 You can no longer use vim (or Emacs, nano, etc.) to edit Ansible Vault files... They're encrypted!
 
-![vim ansible vault](https://shortcdn.com/file/chrisshort/vim_ansible_vault.png)
+![vim ansible vault](https://shortcdn.com/chrisshort/vim_ansible_vault.png)
 
 Ansible Vault adds a layer of security so it's inherently harder to use (but not much harder). Don't make it harder by sporadically encrypting some variable files and not others. Waste the handful of kilobytes of disk and make all your variable files Ansible Vaults.
 

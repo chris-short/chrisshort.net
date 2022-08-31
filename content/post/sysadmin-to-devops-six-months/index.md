@@ -9,7 +9,7 @@ tags = ["DevOps", "tools"]
 title = "\"Good SysAdmin to DevOps Engineer in Six Months\""
 aliases = ["sysadmin-to-devops-six-months"]
 [cover]
-image = "https://shortcdn.com/file/chrisshort/gears-galore.jpg"
+image = "https://shortcdn.com/chrisshort/gears-galore.jpg"
 
 +++
 
@@ -58,7 +58,7 @@ People learn in different ways. These two books provide a story and a guide in d
 
 A common misconception about DevOps is that it is all about tooling. Tools are but a fraction of the larger DevOps picture. Your DevOps teams should feel free to enable whatever tooling makes the most sense to the team. Being agnostic is important but, it is better for the business if simpler, well-known tooling is in use. For example, git may not be the easiest to use version control software but, it is the most widely known. A configuration management tool that is simple to use but has a smaller market share could end up being a bad decision as the need for talent grows. Even the creator of Ansible was not specific when suggesting the importance of a configuration management tool. A thoughtfully chosen tool to manage something is better than nothing.
 
-[![Michael DeHaan on Twitter](https://shortcdn.com/file/chrisshort/michael-dehaan-tools.png)](https://twitter.com/laserllama/status/857382468378390533)
+[![Michael DeHaan on Twitter](https://shortcdn.com/chrisshort/michael-dehaan-tools.png)](https://twitter.com/laserllama/status/857382468378390533)
 
 Tools that enable collaboration and increase communication amongst your DevOps team are critical. No one exists in a vacuum. Writing documentation, communicating changes, updating tickets or work orders, and committing code to version control are all necessary tools and processes for DevOps. Project management should integrate with these tools as well to prevent tool sprawl. As your teams focus on fewer and fewer entry points into the systems they are maintaining they will have a harder time interfacing with one-off systems. Project management, HR, or other business processes need to integrate into the daily routines of people to be successful. Keeping the tooling tight and consistent is critical to DevOps.
 

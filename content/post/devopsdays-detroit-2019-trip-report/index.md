@@ -8,7 +8,7 @@ ShowTOC = false
 tags = ["DevOps", "DevOpsDays", "Detroit", "Site Reliability Engineering", "SRE", "Conway's Law", "business", "metrics", "data", "vendor pitch", "red hat", "engineering"]
 title = "DevOpsDays Detroit 2019 Trip Report"
 [cover]
-image = "https://shortcdn.com/file/chrisshort/chris-short-devopsdays-detroit-2019.jpg"
+image = "https://shortcdn.com/chrisshort/chris-short-devopsdays-detroit-2019.jpg"
 caption = "Photo used with permission from [Brandon Dimcheff](https://twitter.com/bdimcheff)"
 
 +++
@@ -27,7 +27,7 @@ I need to emphasize how heavily SRE practices and principles were discussed. Nea
 
 There was not a lot of Kubernetes talk on stage the first day, but the second day made up for it. The first day did have a wonderful open space on book recommendations. I will try to get that together in the coming days and publish that publicly. There was another open space to talk about improving diversity in workplaces. I was surprised (although I really shouldn't be) at how well Red Hat handles its programs. The discussion did manage to tie blamelessness, openness, and resiliency to diversity in a few ways. If you want to discuss that further, let me know. The industry is changing. It's great to be at Red Hat, a company helping to lead the way. Also, stop saying, "Guys."
 
-![Ramin Keene at DevOpsDays Detroit 2019](https://shortcdn.com/file/chrisshort/ramin-keene-devopsdays-detroit-2019.jpg)
+![Ramin Keene at DevOpsDays Detroit 2019](https://shortcdn.com/chrisshort/ramin-keene-devopsdays-detroit-2019.jpg)
 
 [Ramin Keene](https://twitter.com/rmn) spoke of Unknown unknowns (unforeseen failure modes) in a way that resonated with the audience. He mentioned that complexity and change are constants in systems. Ramin also said, “complexity is a side effect of success.” When people talk about how complex Kubernetes is, I don't disagree at all. But, I also wonder if the same folks out there haven't hit the problems K8s solves enough to realize the complexity solved a ton of problems along the way. Kubernetes answers the question of, “How do I run all these containers at scale?”
 

@@ -15,9 +15,9 @@ I had the opportunity to present [What The Military Taught Me About DevOps](/wha
 
 {{< eo_signup >}}
 
-One person asked if I would be willing to share my slides. I informed him that they were already shared but I think the [notes that accompany the slides](https://shortcdn.com/file/chrisshort/What%20the%20Military%20Taught%20Me%20About%20DevOps.pdf) are important to share too:
+One person asked if I would be willing to share my slides. I informed him that they were already shared but I think the [notes that accompany the slides](https://shortcdn.com/chrisshort/What%20the%20Military%20Taught%20Me%20About%20DevOps.pdf) are important to share too:
 
-<embed src="https://shortcdn.com/file/chrisshort/What%20the%20Military%20Taught%20Me%20About%20DevOps.pdf" width="100%" height="400" alt="pdf" />
+<embed src="https://shortcdn.com/chrisshort/What%20the%20Military%20Taught%20Me%20About%20DevOps.pdf" width="100%" height="400" alt="pdf" />
 
 One takeaway I have from the talk, is that I need to get better at speaking on diversity issues. But, that is for another time.
 

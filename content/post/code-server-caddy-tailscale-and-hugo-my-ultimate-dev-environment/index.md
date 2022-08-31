@@ -10,7 +10,7 @@ tags = ["code-server", "Caddy", "Hugo", "code", "Tailscale", "DNS", "dev environ
 ShowTOC = true
 title = "code-server, Caddy, Tailscale, and Hugo = My ultimate dev environment"
 [cover]
-image = "https://shortcdn.com/file/chrisshort/code-server-caddy-tailscale-and-hugo-my-ultimate-dev-environment.webp"
+image = "https://shortcdn.com/chrisshort/code-server-caddy-tailscale-and-hugo-my-ultimate-dev-environment.webp"
 aliases = [
   "env",
   "dev-env",
@@ -161,7 +161,7 @@ The real cherry on top of this setup is if your browser allows you to [create we
 
 It's wonderful, like unicorns and rainbows, y'all. 🦄🌈🦄🌈🦄🌈
 
-[![My ultimate dev environment](https://shortcdn.com/file/chrisshort/code-server-app.webp)](https://shortcdn.com/file/chrisshort/code-server-app.png)
+[![My ultimate dev environment](https://shortcdn.com/chrisshort/code-server-app.webp)](https://shortcdn.com/chrisshort/code-server-app.png)
 
 ## Next steps
 

@@ -8,7 +8,7 @@ slug = "2019-learnings-2020-expectations"
 tags = ["DevOps", "developer", "open source", "Kubernetes", "developer experience", "security", "code", "health care", "China", "Docker", "GitOps", "Red Hat", "IBM", "cloud", "cloud native", "API", "WebAssembly", "Wasm", "community", "infrastructure", "AWS", "InfoSec", "software", "chronic pain", "velocity", "medically separated"]
 title = "2019 Learnings, 2020 Expectations"
 [cover]
-image = "https://shortcdn.com/file/chrisshort/happy-new-year-gold.jpg"
+image = "https://shortcdn.com/chrisshort/happy-new-year-gold.jpg"
 
 +++
 
