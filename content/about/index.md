@@ -40,7 +40,6 @@ Chris is now working in the [open source](https://chrisshort.net/tags/open-sourc
 ## Sponsor
 
 * [GitHub](https://github.com/sponsors/chris-short)
-* [Patreon](https://www.patreon.com/devopsish)
 * [PayPal.me](https://paypal.me/devopsish)
 
 ## Appearances Elsewhere
