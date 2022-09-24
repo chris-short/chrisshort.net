@@ -10,6 +10,7 @@ tags = ["life", "miscarriage", "pregnancy", "culture"]
 title = "Miscarriage: A Culture of Silence Helps No One"
 [cover]
 image = "https://shortcdn.com/chrisshort/grief.jpg"
+alt = "Grief sticken woman"
 
 +++
 
