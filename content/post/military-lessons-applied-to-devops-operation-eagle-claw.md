@@ -10,6 +10,7 @@ tags = ["DevOps", "military"]
 title = "Military Lessons Applied to DevOps: Operation Eagle Claw"
 [cover]
 image = "https://shortcdn.com/chrisshort/operation-eagle-claw.png"
+alt = "Operation Eagle Claw"
 
 +++
 

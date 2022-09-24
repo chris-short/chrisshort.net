@@ -7,8 +7,10 @@ draft = false
 slug = "three-favorite-macos-screensavers"
 tags = ["macOS", "screensaver", "Aerial", "Apple", "screensavers", "fliqlo", "padbury", "clock", "time", "drift", "favorite"]
 title = "Updated: My three favorite macOS screensavers"
+ShowTOC = false
 [cover]
 image = "https://shortcdn.com/chrisshort/dmitry-chernyshov-mP7aPSUm7aE-unsplash.webp"
+alt = "MacBook Pro"
 aliases = [
     "/updated-my-four-favorite-macos-screensavers/",
     "updated-my-four-favorite-macos-screensavers",

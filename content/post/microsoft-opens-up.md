@@ -10,6 +10,7 @@ tags = ["Microsoft", "open source", "nsa"]
 title = "Microsoft Opens Up Kinda"
 [cover]
 image = "https://shortcdn.com/chrisshort/Office03.png"
+alt = "Microsoft Office"
 
 +++
 
