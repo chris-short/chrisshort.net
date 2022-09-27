@@ -6,7 +6,7 @@ date = 2022-09-16T11:30:00Z
 description = "My notes from a DevOpsDay Chicago 2022 Open Space suggestion: 'Container Conundrum: Pain points around containers'"
 draft = false
 slug = "container-conundrum-devopsdays-chicago-2022"
-tags = []
+tags = ["Open Space", "cloud", "Container Conundrum", "team", "security", "pain", "Vault", "Chicago", "agnostic", "problems", "DevOpsDays", "secrets", "containers", "Kubernetes", "clusters", "open source", "developers", "environments"]
 ShowTOC = false
 title = "Container Conundrum: DevOpsDays Chicago 2022 Open Space Notes"
 [cover]
@@ -72,4 +72,4 @@ Meanwhile, that same team said most of their problems were staying cloud agnosti
   * Tons of groans around upgrading Kubernetes
   * People really don't want to manage control planes
 
-If you happened to be in the same Open Space and would like to clarify some points, please feel free to reach out or submit Pull Requests via GitHub. Thank you!
+If you happened to be in the same Open Space and would like to clarify some points, please feel free to reach out or submit [Pull Requests via GitHub](https://github.com/chris-short/chrisshort.net/tree/main/content/post/container-conundrum-chicago-open-space). Thank you!
