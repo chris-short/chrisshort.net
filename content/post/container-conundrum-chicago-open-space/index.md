@@ -2,7 +2,7 @@
 
 author = "Chris Short"
 categories = ["DevOps", "Kubernetes", "Linux", "2022"]
-date = 2022-09-16T11:30:00Z
+date = 2022-10-08T07:00:00Z
 description = "My notes from a DevOpsDay Chicago 2022 Open Space suggestion: 'Container Conundrum: Pain points around containers'"
 draft = false
 slug = "container-conundrum-devopsdays-chicago-2022"
@@ -29,6 +29,8 @@ I think the best way to look at these notes is to assume that each bullet point 
 One pair of folks in the Open Space were building their artisanal Kubernetes clusters by hand across multiple cloud providers (AWS, GCP, Azure, and IBM Cloud). Rolling your own Kubernetes *still* sounds awful. Managing everything in a cloud-agnostic way, while possible, is horrifically complicated, and you end up leaning on upstream contributions hard.
 
 Meanwhile, that same team said most of their problems were staying cloud agnostic and using IBM's cloud offerings. How did they wind up in this conundrum? When they needed more compute for a project, procurement would ask all the clouds for their best rates. That's what the team had to work with. They did not influence that decision-making. I mention this here because most of the Open Space was dominated by this team's problems, comments, and questions to the group.
+
+**An in depth review** of these notes is available in my newsletter, [DevOps'ish 288](https://devopsish.com/288/).
 
 * Security
   * the container itself
