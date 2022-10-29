@@ -32,7 +32,7 @@ Params:
         - name: twitter
           url: https://twitter.com/ChrisShort
         - name: mastodon
-          url: https://mastodon.technology/@ChrisShort
+          url: https://hachyderm.io/@ChrisShort
         - name: linkedin
           url: https://www.linkedin.com/in/thechrisshort
         - name: twitch
