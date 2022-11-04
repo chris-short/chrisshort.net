@@ -28,7 +28,7 @@ Results producing DevOps profession turned developer and community advocate. Clo
 
 * Launched [EKS.news](https://eks.news/), a newsletter covering the latest updates on Amazon Elastic Kubernetes Service (EKS); an additional mechanism to inform customers about new features and updates.
 * Authored Amazon Elastic Kubernetes Service (EKS) 1.22 & 1.23 release blogs; updated customers on critical product changes
-* Organized and ran GitOpsCon EU 2021; included everything from marketing the CFP to rating talks to MC’ing
+* Organized and ran GitOpsCon EU 2021; included everything from marketing the CFP to rating talks to MC'ing
 
 ### Cloud Native Ambassador, Cloud Native Computing Foundation (CNCF) — Detroit, MI — Jan 2018 to Present
 
