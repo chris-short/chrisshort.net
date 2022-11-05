@@ -12,6 +12,8 @@ Like anyone who has worked on the web long enough, I have a lot of side projects
 
 ## DevOps'ish
 
+No longer in production due to health issues.
+
 *Cloud Native, DevOps, GitOps, Open Source, industry news, culture, and the ‘ish between.*
 
 > Cloud Native, DevOps, GitOps, Open Source, industry news, culture, and the ‘ish between. A weekly newsletter assembled by open source leader, DevOps veteran, and Kubernetes Contributor Chris Short. Attempting to lower the barrier to entry into the DevOps and Cloud Native worlds while keeping seasoned professionals informed on the latest news, tools, and trends. Sign up for the newsletter today!
@@ -21,7 +23,6 @@ Like anyone who has worked on the web long enough, I have a lot of side projects
 > Don’t take my word for it. See what [people way smarter than me are saying about DevOps’ish](https://devopsish.com/praise/).
 >
 > [What is DevOps?](https://devopsish.com/what-is-devops/) I'm glad you asked!
-
 
 Newsletter: [DevOps'ish](https://devopsish.com)  
 Source: <https://github.com/chris-short/devopsish.com>  
