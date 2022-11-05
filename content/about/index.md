@@ -15,7 +15,7 @@ aliases = [
 
 ## Tagline
 
-MacGyver of Internet | Senior Developer Advocate, [AWS](https://aws.amazon.com/) | [Kubernetes Contributor](https://www.kubernetes.dev/) | [DevOps'ish](https://devopsish.com/) | [Disabled Veteran](/categories/long-thoracic-nerve-palsy/) | [He/Him/His](https://pronoun.is/he) | [Views solely mine](/terms/#disclaimer)
+MacGyver of Internet | Containery Things at [AWS](https://aws.amazon.com/) | [Kubernetes Contributor](https://www.kubernetes.dev/) | [CNCF Ambassador](https://www.cncf.io/people/ambassadors/?p=chris-short) | [Disabled Veteran](/categories/long-thoracic-nerve-palsy/) | [He/Him/His](https://pronoun.is/he) | [Views solely mine](/terms/#disclaimer)
 
 ## Pronouns
 
