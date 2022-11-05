@@ -15,7 +15,6 @@ aliases = [
 
 {{< speaker >}}
 
-{{< eo_signup >}}
 
 ## Interviews
 

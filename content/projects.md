@@ -22,7 +22,6 @@ Like anyone who has worked on the web long enough, I have a lot of side projects
 >
 > [What is DevOps?](https://devopsish.com/what-is-devops/) I'm glad you asked!
 
-{{< eo_signup >}}
 
 Newsletter: [DevOps'ish](https://devopsish.com)  
 Source: <https://github.com/chris-short/devopsish.com>  

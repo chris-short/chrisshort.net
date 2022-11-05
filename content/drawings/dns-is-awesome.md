@@ -22,4 +22,3 @@ There are so many cool things about DNS one drawing is not going to do it justic
 
 DNS is awesome because it allows you to have a full blown CDN for next to nothing. All you have to do is create a [CNAME that points to Amazon S3](/low-cost-content-delivery-network-cdn/).
 
-{{< eo_signup >}}

@@ -45,4 +45,3 @@ Justin's use case is one scenario you could find yourself in. My wife, Julie, is
 
 Regardless, moving off Spotify has never been more accessible thanks to these services. Think of them as an IFTTT or Zapier for music streaming services. Whatever your needs are, there are ways to get what you want out of Spotify. Including their curated playlists, I like [Jazz Vibes](https://music.apple.com/us/playlist/jazz-vibes/pl.u-PDb42NBTo6mLr2), for example, into the service of your choice. If I become displeased with Apple Music in a few years (it happened before), I'll lean on these services again in the future.
 
-{{< eo_signup >}}

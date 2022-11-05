@@ -15,7 +15,6 @@ image = "https://shortcdn.com/chrisshort/linkedin-mentor-monday-20180122.jpg"
 
 I had the opportunity to be a mentor at [LinkedIn Mentor Monday Detroit](https://www.linkedin.com/feed/update/activity:6362098620212273152/). It was a chance to talk to younger folks to get a gauge on what they are thinking and where they see their careers heading. Plus, I welcome any opportunity to help the good folks of Detroit make Detroit the great city we all know it is. Huge thanks to [Jessica Addison](https://www.linkedin.com/in/jessicaaddison/) of LinkedIn for inviting me. Also, a shout out to [LeGenevieve "Vieve" Squires](https://www.linkedin.com/in/legenevieve-squires-b19448122/) of Starbucks for hosting us in Downtown Detroit.
 
-{{< eo_signup >}}
 
 I sat down with three up-and-comers here in Metro Detroit:
 

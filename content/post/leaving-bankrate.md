@@ -38,4 +38,3 @@ Manager, DevOps | Bankrate.com
 
 {{< tweet user="ChrisShort" id="931169601148407809" >}}
 
-{{< eo_signup >}}

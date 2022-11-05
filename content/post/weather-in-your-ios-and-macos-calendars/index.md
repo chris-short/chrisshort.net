@@ -17,7 +17,6 @@ image = "https://shortcdn.com/chrisshort/macos-calender-weather.png"
 
 One of the things I like best about Google Calendar is its extensibility. You can add calendars for virtually everything; sports, holidays, shared calendars, and **weather**. For managing personal appointments and family events I use Google Calendar as the backend but I prefer the native experience of macOS and iOS Calendar.app.
 
-{{< eo_signup >}}
 
 One feature Apple still has not integrated into the Calendar.app is weather forecasts. This one feature is very helpful when checking your calendar before buying tickets to a baseball game, for example. One stop shopping for schedule checking and weather forecasting is surprisingly handy.
 

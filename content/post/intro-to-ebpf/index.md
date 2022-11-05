@@ -103,4 +103,3 @@ If you want to contribute to eBPF or the eBPF development toolchains, feel free 
 [27]: https://ebpf.io/contribute
 [28]: https://creativecommons.org/licenses/by/4.0/
 
-{{< eo_signup >}}

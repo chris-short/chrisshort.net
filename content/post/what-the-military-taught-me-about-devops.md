@@ -19,4 +19,3 @@ I was invited to speak at [DevOpsDays Detroit 2016](https://www.devopsdays.org/e
 
 {{< speakerdeck f384650d165c43ec89349d2b5cd51871 >}}
 
-{{< eo_signup >}}

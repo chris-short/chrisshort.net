@@ -24,7 +24,6 @@ I spoke about GitOps as far back as 2018 on [one of The New Stack's podcasts](ht
 
 The second-ever [GitOpsCon](https://events.linuxfoundation.org/gitopscon-north-america/) took place on Day 0 of [KubeCon + CloudNativeCon NA 2021](https://www.cncf.io/events/kubecon-cloudnativecon-north-america-2021/) in Los Angeles. According to stats from CNCF, it was by far one of the most popular Day 0 events at the conference. An [ArgoCon](https://argoproj.github.io/argocon21/) is coming up too.
 
-{{< eo_signup >}}
 
 [OpenGitOps](https://opengitops.dev/), a group I'm a part of, guided by the [GitOps Working Group](https://github.com/gitops-working-group/gitops-working-group) (also part of), recently published version 1 of the [**GitOps Principles**](https://opengitops.dev/#principles). I want to frame those principles in how DevOps-oriented teams work under the premise of GitOps. If you want to talk about how multi-discipline DevOps is, the GitOps Working Group is under the [CNCF TAG App-Delivery](https://github.com/cncf/tag-app-delivery) umbrella. I'll probably write something about that later.
 

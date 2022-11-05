@@ -56,7 +56,6 @@ What's diverged?
 
 How do we get things back to normal?
 
-{{< eo_signup >}}
 
 I login to the AWS console, hoping I got some output that was uniquely off this month. Weirder stuff has happened (like [S3 going down](https://aws.amazon.com/message/41926/)). This bill couldn't be more out of the norm than ever. This AWS bill is several hundred dollars more than our mortgage! I hit the AWS Billing page and am deeply saddened by what I see:
 

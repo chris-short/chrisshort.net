@@ -177,4 +177,3 @@ Then I'd like to strip it down to nothing and run it as a standalone pod and/or 
 
 All the files used for my setup are avaliable on [GitHub](https://github.com/chris-short/ultimate-development-environment). Feel free to submit pull requests!
 
-{{< eo_signup >}}

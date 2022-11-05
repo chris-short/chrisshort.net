@@ -22,4 +22,3 @@ Source: [CI/CD with Chris Short (1/2)](https://youtu.be/3dGESuSggW0)
 
 {{< speaker >}}
 
-{{< eo_signup >}}

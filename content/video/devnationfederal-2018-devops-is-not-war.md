@@ -28,4 +28,3 @@ Source: [DevNation Federal 2018 - DevOps is Not War](https://youtu.be/bnyDETdyNf
 
 {{< speaker >}}
 
-{{< eo_signup >}}

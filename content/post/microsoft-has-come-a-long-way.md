@@ -19,7 +19,6 @@ Microsoft has come a very long way in its fight back into the graces of all tech
 
 Since the mid-90s, I have worked in IT in one capacity or another. Before that, I used computers routinely. I remember my childhood days on a [Commodore 64](https://en.wikipedia.org/wiki/Commodore_64) typing `LOAD "*",8,1` to play the game du jour. A few years later, I recall upgrading a computer from a version of Windows 3 to Windows 3.11 because I was bored and the install disks were next to the machine. I remember in the mid-1990s when I first saw Windows '95 after years of DOS and Windows 3.x. It was at Forest High School in Ocala, FL. My first thought was how beautiful it was and how much easier life was going to be because of this monumental leap in the user interface.
 
-{{< eo_signup >}}
 
 That summer I got enough money to buy a used x86 box. I received copies of Windows and Office as gifts from folks. I was so hooked on the potential of the platform that I was tinkering with all the GUI tools. I was so enthusiastic about Microsoft I was using PowerPoint to make ad mock-ups for Redmond. They were hokey as hell but it was cool and I was a teenager. Don't judge me, my youth was, interesting.
 

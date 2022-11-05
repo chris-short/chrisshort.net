@@ -15,7 +15,6 @@ image = "https://shortcdn.com/chrisshort/theopenorg_guidetoITculturechange_1_0_c
 
 The open organization community at Opensource.com (of which [I'm a member](https://opensource.com/users/chrisshort)) is pleased to announce the **immediate** release of its newest book, *The Open Organization Guide to IT Culture Change*.
 
-{{< eo_signup >}}
 
 As IT teams around the world rise to these new challenges, they're realizing that radical change isn't a matter of tools alone. It's also a matter of culture—the values that underpin behaviors, influence problem-solving capability, and facilitate truly revolutionary potential. Those values are open values.
 

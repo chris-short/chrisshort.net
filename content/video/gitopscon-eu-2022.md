@@ -38,4 +38,3 @@ Slides: [CTA | How to Get involved + Project Update - What's Next- Dan Garfield,
 
 {{< speaker >}}
 
-{{< eo_signup >}}

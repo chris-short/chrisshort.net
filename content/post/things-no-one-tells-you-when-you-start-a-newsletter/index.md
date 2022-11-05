@@ -19,7 +19,6 @@ There were a lot of reasons I started writing a newsletter back in 2016. Having 
 
 What I did not expect were styling problems, a stream of feedback and opinions, and a few other gotchas that are worth mentioning. But, it is by far the single most rewarding personal project I've ever taken on.
 
-{{< eo_signup >}}
 
 ## What do you mean IE 6?
 

@@ -22,4 +22,3 @@ Source: [Chris Short - What the Military Taught Me about DevOps](https://youtu.b
 
 {{< speaker >}}
 
-{{< eo_signup >}}

@@ -22,4 +22,3 @@ Source: [Short Talks: A Conversation with Kelsey Hightower - OpenShift Commons B
 
 {{< speaker >}}
 
-{{< eo_signup >}}

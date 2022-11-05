@@ -22,4 +22,3 @@ Source: [How You Can Tell Your Kubernetes Contributor Story with These Tips - Ma
 
 {{< speaker >}}
 
-{{< eo_signup >}}

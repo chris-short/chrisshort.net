@@ -30,4 +30,3 @@ The event morphed my bias of Chef from a niche tool to a formidable accompanimen
 
 {{< youtube MDu6wL1DWY4 >}}
 
-{{< eo_signup >}}

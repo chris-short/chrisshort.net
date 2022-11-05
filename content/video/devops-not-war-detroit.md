@@ -26,4 +26,3 @@ Source: [Chris Short - DevOps is Not War](https://youtu.be/x8p9-GIVPos)
 
 {{< speaker >}}
 
-{{< eo_signup >}}

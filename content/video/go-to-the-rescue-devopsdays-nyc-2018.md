@@ -28,4 +28,3 @@ Download as [MP4](https://shortcdn.com/chrisshort/Chris-Short-DevOpsDays-NYC-201
 
 {{< speaker >}}
 
-{{< eo_signup >}}

@@ -22,7 +22,6 @@ I found a topic that I'm going to suggest for an Open Space at every DevOpsDays 
 
 These notes are presented here without opinion. Distilling these notes into a concise narrative will be the topic for an introduction to an upcoming DevOps'ish newsletter. Please subscribe today!
 
-{{< eo_signup >}}
 
 I think the best way to look at these notes is to assume that each bullet point is a pain point.
 

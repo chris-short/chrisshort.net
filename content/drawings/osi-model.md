@@ -22,4 +22,3 @@ It is an incredibly handy tool for troubleshooting as it reminds you to check th
 
 ![The OSI Model by Chris Short](https://shortcdn.com/chrisshort/drawings/OSI-Model.png)
 
-{{< eo_signup >}}

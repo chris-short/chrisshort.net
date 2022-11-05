@@ -34,4 +34,3 @@ Source: [AWS Container Days @ KubeCon + CloudNativeCon Europe 2022 — Day 3](h
 
 {{< speaker >}}
 
-{{< eo_signup >}}

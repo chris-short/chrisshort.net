@@ -117,4 +117,3 @@ When the pandemic started, I steeled myself for a seven-year ordeal (this is why
 
 Whatever new hell faces us in 2022, we'll be doing it together. Never forget that working as a global team will always trump working with animosity towards each other. We can do more by working openly and genuinely than we ever think possible.
 
-{{< eo_signup >}}

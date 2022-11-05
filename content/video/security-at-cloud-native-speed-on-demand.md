@@ -25,4 +25,3 @@ Download as [MP4](https://shortcdn.com/chrisshort/Security-at-Cloud-native-Speed
 
 {{< speaker >}}
 
-{{< eo_signup >}}

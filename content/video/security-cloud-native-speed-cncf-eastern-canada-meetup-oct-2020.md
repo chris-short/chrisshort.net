@@ -20,4 +20,3 @@ Source: [CNCF Eastern Canadian Meetup: October 2020](https://youtu.be/l_EEZV1P15
 
 {{< speaker >}}
 
-{{< eo_signup >}}

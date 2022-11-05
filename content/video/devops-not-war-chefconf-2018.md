@@ -24,4 +24,3 @@ Source: [ChefConf 2018 Session: DevOps is Not a War](https://youtu.be/MDu6wL1DWY
 
 {{< speaker >}}
 
-{{< eo_signup >}}

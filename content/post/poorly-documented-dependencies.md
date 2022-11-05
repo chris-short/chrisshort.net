@@ -15,7 +15,6 @@ image = "https://shortcdn.com/chrisshort/broken-heart.jpg"
 
 Few things irritate me more than poorly documented dependencies. If your tool or software documentation states you can install your widget with one command and it does not work you are probably annoying people.
 
-{{< eo_signup >}}
 
 Consider this a running list of tools and their often not well documented dependency chains. Feel free to chime in with your examples in the comments.
 

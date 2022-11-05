@@ -24,4 +24,3 @@ An up to date version of the contents of this talk are now available at [devopsr
 
 "You are either building a learning organization or you will be losing to someone who is." --Andrew Clay Shafer
 
-{{< eo_signup >}}

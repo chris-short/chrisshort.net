@@ -31,4 +31,3 @@ The other Spotify killer was [iTunes Match](http://www.apple.com/itunes/itunes-m
 
 I'm not trying to convince you not to drop $10 and try Spotify Premium once your free trial ends, I'm just letting you know why I loved and then decided to fall out of love with Spotify. If anything you should try it out and see how well you like it. But, for me it's time to run the Spotify uninstaller.
 
-{{< eo_signup >}}

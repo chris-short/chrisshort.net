@@ -32,4 +32,3 @@ Source: [KubeVirt - Beyond Containers: Coming full circle back to VMs! - Cloud N
 
 {{< speaker >}}
 
-{{< eo_signup >}}

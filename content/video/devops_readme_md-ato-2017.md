@@ -33,4 +33,3 @@ Download as [MP4](https://shortcdn.com/chrisshort/DevOps-README.md-Chris-Short.m
 
 {{< speaker >}}
 
-{{< eo_signup >}}

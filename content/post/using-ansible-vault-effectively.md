@@ -13,7 +13,6 @@ title = "Using Ansible Vault Effectively"
 
 [**Ansible**](http://www.ansible.com/) is a great orchestration tool. The low barrier to entry and simplicity of Ansible are why so many people that start using it love it. But there is one feature in Ansible that probably should be used more often. That feature is [**Ansible Vault**](http://docs.ansible.com/ansible/playbooks_vault.html).
 
-{{< eo_signup >}}
 
 > "Vault" is a feature of ansible that allows keeping sensitive data such as passwords or keys in encrypted files, rather than as plaintext in your playbooks or roles. These vault files can then be distributed or placed in source control.
 

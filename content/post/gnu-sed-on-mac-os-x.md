@@ -53,4 +53,3 @@ Footnotes:
 [^n]: If you decided to not disable System Integrity Protection you should run this instead: ./configure --prefix=/usr/local/ --program-suffix=-gnu and you can skip steps 9 through 11.
 [^n]: You can change the number of jobs here if you desire; see MAKE(1).
 
-{{< eo_signup >}}

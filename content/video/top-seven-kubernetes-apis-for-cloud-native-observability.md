@@ -24,4 +24,3 @@ Source: [CNCF Member Webinar: The top 7 most useful Kubernetes APIs for comprehe
 
 {{< speaker >}}
 
-{{< eo_signup >}}

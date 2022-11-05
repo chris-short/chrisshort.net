@@ -1,17 +1,16 @@
 +++
 author = "Chris Short"
 date = 2016-04-17T18:00:00Z
-summary = "About"
+summary = "About Chris Short"
 draft = false
-title = "About"
+title = "About Chris Short"
+slug = "about"
 aliases = [
     "bio",
     "biography"
 ]
 
 +++
-
-# Chris Short
 
 ## Tagline
 
@@ -44,7 +43,6 @@ Chris is now working in the [open source](https://chrisshort.net/tags/open-sourc
 
 ## Appearances Elsewhere
 
-* [DevOps'ish](https://devopsish.com)
 * [Projects](/projects/)
 * [Newsletter](/newsletter/)
 * [Video](/video/)
@@ -61,5 +59,3 @@ I'm also available via these other channels:
 
 * [Signal](https://support.signal.org/hc/en-us/articles/360007060592-Invite-friends-to-join-Signal)
 * [Telegram](https://telegram.me/ChrisShort)
-
-{{< eo_signup >}}

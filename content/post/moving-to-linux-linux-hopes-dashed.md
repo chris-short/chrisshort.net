@@ -33,4 +33,3 @@ My move to Linux is on hold until I get a new motherboard (at the earliest). Nee
 
 >I was only able to get one distro (out of 4) to install and it was Slackware which provides a very un-user friendly version of Linux. Red Hat and Mandrake both failed miserably and College Linux couldn't even recognize a hard drive. So needless to say Linux isn't a very viable option due to the fact of my current lack of time to build everything from the ground up.
 
-{{< eo_signup >}}

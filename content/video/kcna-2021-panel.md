@@ -22,4 +22,3 @@ Source: [Panel Discussion: Marketing as Code: How to Rock Out with Non-Code Cont
 
 {{< speaker >}}
 
-{{< eo_signup >}}

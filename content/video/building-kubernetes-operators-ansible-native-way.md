@@ -22,4 +22,3 @@ Source: [Building Kubernetes Operators in an Ansible-native way - CNCF](https://
 
 {{< speaker >}}
 
-{{< eo_signup >}}

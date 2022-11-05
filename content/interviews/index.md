@@ -9,7 +9,6 @@ title = "Interviews"
 
 {{< speaker >}}
 
-{{< eo_signup >}}
 
 ## Screaming in the Cloud: Episode 374 — Kubernetes and OpenGitOps with Chris Short
 

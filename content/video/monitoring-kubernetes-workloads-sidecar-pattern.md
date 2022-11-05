@@ -24,4 +24,3 @@ Source: [Monitoring Kubernetes Workloads: The Sidecar Pattern - Cloud Native Com
 
 {{< speaker >}}
 
-{{< eo_signup >}}

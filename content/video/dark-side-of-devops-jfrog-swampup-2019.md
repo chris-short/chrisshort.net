@@ -28,4 +28,3 @@ Source: [The Dark Side of DevOps - Chris Short - JFrog swampUP 2019](https://you
 
 {{< speaker >}}
 
-{{< eo_signup >}}

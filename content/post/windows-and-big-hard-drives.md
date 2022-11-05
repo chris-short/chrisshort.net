@@ -39,4 +39,3 @@ Once that you have verified that your controller card and BIOS can support 48-bi
 
 **Windows 2000 users that have this problem** should read [48-Bit LBA Support for ATAPI Disk Drives in Windows 2000](https://web.archive.org/web/20150811090156/https://support.microsoft.com/en-us/kb/305098) for more detailed assistance.
 
-{{< eo_signup >}}

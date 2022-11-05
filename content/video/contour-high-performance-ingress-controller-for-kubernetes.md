@@ -26,4 +26,3 @@ Source: [Contour - High performance ingress controller for Kubernetes | Cloud Na
 
 {{< speaker >}}
 
-{{< eo_signup >}}

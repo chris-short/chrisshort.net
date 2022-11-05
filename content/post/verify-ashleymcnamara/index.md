@@ -25,7 +25,6 @@ Twitter's verified account program is rife with poor choices and questionable de
 
 But, there are pieces of low hanging fruit the [Twitter verified account program](https://help.twitter.com/en/managing-your-account/twitter-verified-accounts) could benefit from harvesting. The official answer from Twitter is, "[O]ur verified account program is currently on hold." However, despite "[holding off on fixing verification policy to focus on election integrity](https://techcrunch.com/2018/07/17/twitter-is-holding-off-on-fixing-verification-policy-to-focus-on-election-integrity/)" some [accounts are getting verified](https://slate.com/technology/2018/05/you-cant-get-verified-on-twitter-anymore-but-serena-williams-baby-can.html).
 
-{{< eo_signup >}}
 
 The policy needs to be amended or an exception needs to be made to allow one person in particular in, [Ashley McNamara](https://twitter.com/ashleymcnamara). A campaign rallying around getting Ashley verified has begun. The first act of this campaign was, James Governor changing his Twitter handle to, "Please Verif y @ashleymcnamara." Why the space between the F and Y in Verify? More on that later.
 

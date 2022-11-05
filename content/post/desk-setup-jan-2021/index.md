@@ -40,7 +40,6 @@ Lighting is imperative to a quality picture. There is no point in having that su
 
 After doing an interview with Kelsey Hightower in late 2019, where he was testing out his [Shure SM7B Cardioid Dynamic Microphone](https://amzn.to/36sF2Tk), I decided to get one a few months later. This is a studio-grade microphone and probably overkill for almost all situations. But, nothing else came close to providing as close to real sound and quality as this mic. If my voice was a key part of my work duties, I wanted the best possible experience to get my voice out to the world. There are many more options for home use and live streaming from Shure these days. You can't really go wrong with Shure.
 
-{{< eo_signup >}}
 
 But, the Shure SM7B being a studio mic, uses XLR interfaces. This is awesome, but you can’t plug that into your laptop. To tackle this task, I needed a Focusrite Scarlett device. I ended up getting the [Focusrite Scarlett Solo](https://amzn.to/36scwl2), but I’d probably have gotten a [Focusrite Scarlett 2i2](https://amzn.to/3crbKZf) as it has more capabilities if I had it all to do over again. The need to have backups for everything might mean I do get the 2i2 at some point.
 

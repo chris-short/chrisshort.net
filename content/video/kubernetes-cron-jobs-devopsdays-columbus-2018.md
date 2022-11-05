@@ -24,4 +24,3 @@ Source: [Chris Short Ignite - Kubernetes Cron Jobs: Dreams Really Do Come True](
 
 {{< speaker >}}
 
-{{< eo_signup >}}

@@ -100,4 +100,3 @@ After a bit, you'll be dropped into your environment and can experience the joy 
 
 Regardless, enjoy Linux in Windows!
 
-{{< eo_signup >}}

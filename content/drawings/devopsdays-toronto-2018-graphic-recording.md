@@ -16,4 +16,3 @@ title = "What the Military Taught Me About DevOps Graphic Recording"
 
 [![What the Military Taught Me About DevOps Graphic Recording](https://shortcdn.com/chrisshort/drawings/DevOpsDaysTO_May30_2018_ChrisShort.jpg)](https://shortcdn.com/chrisshort/drawings/DevOpsDaysTO_May30_2018_ChrisShort.jpg)
 
-{{< eo_signup >}}

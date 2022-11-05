@@ -36,4 +36,3 @@ As far as, "take a look at you and yours and let us know how you're doing. And i
 
 Nevertheless, don't worry about me. My support system is solid. Others are not as fortunate. They're punished for being born. Because of where they come from, the color of their skin, or because of how they feel. These are the people that need to be lifted and normalized. [Stop the hate](https://www.redhat.com/en/blog/red-hat-stands-asian-community-and-condemns-recent-violence). [Stop it now](https://blacklivesmatter.com/). That still won't create a level playing field. But, it's a step in a better direction. These aren't political statements. They are most certainly not. They might require a political solution but, I'm asking for humans to treat each other nicely. That shouldn't be such a loaded statement.
 
-{{< eo_signup >}}

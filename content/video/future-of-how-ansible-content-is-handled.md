@@ -20,4 +20,3 @@ Download as [MP4](https://shortcdn.com/chrisshort/2019-06-13+10.03-The-future-of
 
 {{< speaker >}}
 
-{{< eo_signup >}}

@@ -45,4 +45,3 @@ Or...
 
 ![PHP Memory Relationships](https://shortcdn.com/chrisshort/drawings/php-memory-relationships.png)
 
-{{< eo_signup >}}

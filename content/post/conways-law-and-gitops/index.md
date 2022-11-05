@@ -30,4 +30,3 @@ This is when Conway's Law and GitOps intersect. The moment you start to make opt
 
 There are specific components you need to make a GitOps workflow. These foundational steps should be on a trail map of their own for GitOps. CNCF, Weaveworks, or Amazon could make it. That would be the top half of the page. The bottom half of the page lies this intro about the intersection of GitOps and Conway's Law.
 
-{{< eo_signup >}}

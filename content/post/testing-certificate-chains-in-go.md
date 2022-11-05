@@ -192,4 +192,3 @@ But Most Importantly, I'm a **Gopher**
 * I'm able to test via third-parties
 * It's a tiny, single binary
 
-{{< eo_signup >}}

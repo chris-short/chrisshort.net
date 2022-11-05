@@ -30,4 +30,3 @@ I was able to sync up with one of my Airmen from my time at Pope Air Force Base.
 
 [**Watch Now**](/video/devnationfederal-2018-devops-is-not-war/)
 
-{{< eo_signup >}}

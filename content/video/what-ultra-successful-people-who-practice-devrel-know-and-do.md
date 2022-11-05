@@ -28,4 +28,3 @@ Source: [What ultra-successful people who practice DevRel know and do](https://y
 
 {{< speaker >}}
 
-{{< eo_signup >}}

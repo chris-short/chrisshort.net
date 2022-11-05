@@ -305,4 +305,3 @@ GitHub: <https://github.com/chris-short>
 Twitter: <https://twitter.com/ChrisShort>  
 LinkedIn: <https://www.linkedin.com/in/thechrisshort>  
 
-{{< eo_signup >}}

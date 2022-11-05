@@ -54,4 +54,3 @@ This screensaver is cool af. For years, the Apple TV came with these beautiful f
 
 But, a gentle reminder that if you don't have a graphics card, you're going to be eating a lot of CPU with your screensaver.
 
-{{< eo_signup >}}

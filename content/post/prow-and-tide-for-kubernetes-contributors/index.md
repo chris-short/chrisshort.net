@@ -56,4 +56,3 @@ These are a handful of the [commands](https://prow.kubernetes.io/command-help) a
 
 HUGE SHOUTOUT: To the folks that keep these systems humming along for the Kubernetes community. Couldn't do it without y'all.
 
-{{< eo_signup >}}

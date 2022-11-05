@@ -75,4 +75,3 @@ References:
 <https://gohugo.io/hugo-modules/configuration/>  
 <https://gohugo.io/hugo-modules/use-modules/>
 
-{{< eo_signup >}}

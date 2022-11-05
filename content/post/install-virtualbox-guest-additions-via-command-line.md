@@ -32,4 +32,3 @@ Complete! Guest Additions should be installed. It's up to you whether or not you
 
 NOTE: The error log is `/var/log/vboxadd-install.log`
 
-{{< eo_signup >}}

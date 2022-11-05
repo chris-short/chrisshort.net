@@ -22,4 +22,3 @@ Source: [KubeCon + CloudNativeCon Daily Wrap Up: Tuesday](https://youtu.be/JOvp4
 
 {{< speaker >}}
 
-{{< eo_signup >}}

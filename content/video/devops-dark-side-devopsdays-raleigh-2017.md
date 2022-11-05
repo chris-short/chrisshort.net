@@ -24,4 +24,3 @@ Download as [MP4](https://shortcdn.com/chrisshort/The-Dark-Side-of-DevOps-Chris-
 
 {{< speaker >}}
 
-{{< eo_signup >}}

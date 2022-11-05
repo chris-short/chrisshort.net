@@ -24,4 +24,3 @@ Download as [MP4](https://shortcdn.com/chrisshort/DevOpsDays-Raleigh-2017-Ignite
 
 {{< speaker >}}
 
-{{< eo_signup >}}

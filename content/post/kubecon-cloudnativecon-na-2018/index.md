@@ -36,7 +36,6 @@ I sat up front on the way to Seattle. What it costs me monetarily more than paid
 
 {{< tweet user="Chuckernetes" id="1071947239596019712" >}}
 
-{{< eo_signup >}}
 
 ## KubeKhan
 

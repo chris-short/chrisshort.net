@@ -79,4 +79,3 @@ The moral of the story is, don't pay for something when you already have the ser
 [13]: /categories/hugo/
 [14]: https://github.com/jjasghar/jjasghar.me
 
-{{< eo_signup >}}

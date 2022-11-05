@@ -22,4 +22,3 @@ Source: [Lesson Learned From Cloud Migrations: Planning is Everything](https://j
 
 {{< speaker >}}
 
-{{< eo_signup >}}

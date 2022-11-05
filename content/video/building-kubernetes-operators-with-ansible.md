@@ -20,4 +20,3 @@ Source: [Summit Lab - Building Kubernetes Operators with Ansible](https://youtu.
 
 {{< speaker >}}
 
-{{< eo_signup >}}

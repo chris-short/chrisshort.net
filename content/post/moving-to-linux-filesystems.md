@@ -14,7 +14,6 @@ aliases = ["moving-to-linux-filesystems"]
 
 After deciding how my [hard disk will be partitioned in Linux](/moving-to-linux-partitioning/), I need to select a filesystem for those partitions. A filesystem is a system for organizing directories and files, generally in terms of how it is implemented in the disk operating system. In layman's terms it is code that tells your operating system how data is stored, organized, and managed on a hard disk drive.
 
-{{< eo_signup >}}
 
 Every operating system has a filesystem of some sort. In the Microsoft Windows world you're fairly limited as to what filesystems are available to you. FAT, FAT32, NTFS, and eventually WinFS are really your only options. In Linux however, there are quite a few filesystems available. They all have their own unique advantages and disadvantages and can have application specific reasons for existence. In this article I'll be discussing what I believe the four candidate filesystems are for my move to Linux.
 

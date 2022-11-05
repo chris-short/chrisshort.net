@@ -24,4 +24,3 @@ Source: [AWS Michigan Meetup April 2018 - Heaven is Not a Cloud by Chris Short](
 
 {{< speaker >}}
 
-{{< eo_signup >}}

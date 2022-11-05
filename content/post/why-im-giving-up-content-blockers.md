@@ -19,7 +19,6 @@ Since the release of [Apple's iOS 9](https://thenextweb.com/apple/2015/08/24/ios
 
 Content blockers became necessary as sites started demanding more data from users. All the data usage by trackers, ad networks, analytics, and other plugins has gone unchecked for quite some time. For example, one of my favorite sites has over 20 plugins, most of which are for advertising. Imagine how much data consumption occurs while you are reading an article on your phone.
 
-{{< eo_signup >}}
 
 Most of these added "features" do nothing to improve the content on the page. Site operators insist that they improve user experience by tailoring content to individuals. I have yet to see that actually pay off in a meaningful way for users. If anything, it is tailoring more click bait for people to click, read, and believe (often falsely). How is this positively benefitting users? The short answer is, there is no direct benefit to users. The big winners are the maintainers of the plugins (by gathering metrics) and the mobile providers (who users have to pay more to for service).
 

@@ -20,7 +20,6 @@ image = "https://shortcdn.com/chrisshort/talking-operators-on-L8ist-Sh9y-podcast
 
 On May 2nd, I joined my friends over at L8ist Sh9y Podcast as [Rob Zehicle](https://twitter.com/zehicle) was trying to wrap his mind around [Kubernetes Operators](https://red.ht/operators/). I've created the [transcript](https://shortcdn.com/chrisshort/whxmHvMw1QIi.128.txt) so folks can read it if they desire.
 
-{{< eo_signup >}}
 
 {{< carbon >}}
 

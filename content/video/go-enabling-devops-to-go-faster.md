@@ -25,4 +25,3 @@ Source: [Go: Enabling DevOps to Go Faster - Chris Short (January 2018)](https://
 
 {{< speaker >}}
 
-{{< eo_signup >}}

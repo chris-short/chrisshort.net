@@ -19,7 +19,6 @@ Update: As of 2019-12-10, it would appear that due to rate limits and other serv
 
 ![DIY Buffer](https://shortcdn.com/chrisshort/drawings/DIY-Buffer.png)
 
-{{< eo_signup >}}
 
 You will need a place to save links like Pocket (Instapaper or any other comparable service that interfaces with IFTTT works).
 
