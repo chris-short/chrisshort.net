@@ -9,6 +9,15 @@ title = "Interviews"
 
 {{< speaker >}}
 
+## How Do We Protect the Software Supply Chain?
+
+Date: 2022-11-08  
+Source: [How Do We Protect the Software Supply Chain? — The New Stack](https://thenewstack.io/how-do-we-protect-the-software-supply-chain/)  
+Download: [MP3](https://shortcdn.com/chrisshort/How_Do_We_Protect_the_Software_Supply_Chain.mp3) or [MP4](https://shortcdn.com/chrisshort/How_Do_We_Protect_the_Software_Supply_Chain.mp4)
+
+> In this episode of The New Stack Makers podcast, Aeva Black of Microsoft and Chris Short of AWS say more action — and automation — is needed.
+
+{{< youtube aQAFIw4CCJg >}}
 
 ## Screaming in the Cloud: Episode 374 — Kubernetes and OpenGitOps with Chris Short
 
