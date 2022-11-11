@@ -21,7 +21,7 @@ Download: [MP3](https://shortcdn.com/chrisshort/How_Do_We_Protect_the_Software_S
 
 ## Screaming in the Cloud: Episode 374 — Kubernetes and OpenGitOps with Chris Short
 
-Date: 2021-07-12  
+Date: 2022-07-14  
 Source: [Kubernetes and OpenGitOps with Chris Short - Last Week in AWS Podcast](https://www.lastweekinaws.com/podcast/screaming-in-the-cloud/kubernetes-and-opengitops-with-chris-short/)  
 Download: [MP3](https://shortcdn.com/chrisshort/374-Kubernetes-OpenGitOps-Chris-Short-Last-Week-in-AWS-Podcast.mp3)  
 
