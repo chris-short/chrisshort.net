@@ -55,7 +55,7 @@ Next run these commands (I know these seem a little redundant but, I don't think
 
     hugo mod init github.com/<YOUR_USERNAME>/<YOUR_PROJECT>
     hugo mod get -u
-    go mod tidy
+    hugo mod tidy
 
 NOTE: This is YOUR git repos URI
 
