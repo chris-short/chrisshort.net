@@ -20,7 +20,7 @@ aliases = [
 
 ## Professional Summary
 
-Results producing DevOps profession turned developer and community advocate. Cloud Native Computing Foundation Ambassador, Kubernetes Contributor and Kubernetes upstream marketing team member. Public speaker and live streamer, personal and professional blogger/writer, founder of the popular newsletter, [DevOps'ish](http://devopsish.com/). Open Source advocate. Technology exists to improve human existence.
+Results producing DevOps profession turned developer and community advocate. Cloud Native Computing Foundation Ambassador, Kubernetes Contributor and Kubernetes Contributor Comms co-lead. Public speaker and live streamer, personal and professional blogger/writer, founder of the popular newsletter, [DevOps'ish](http://devopsish.com/). Open Source advocate. Technology exists to improve human existence.
 
 ## Professional Experience
 
