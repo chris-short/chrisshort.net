@@ -30,7 +30,7 @@ Results producing DevOps profession turned developer and community advocate. Clo
 * Authored Amazon Elastic Kubernetes Service (EKS) 1.22 & 1.23 release blogs; updated customers on critical product changes
 * Organized and ran GitOpsCon EU 2021; included everything from marketing the CFP to rating talks to MC'ing
 
-### Cloud Native Ambassador, Cloud Native Computing Foundation (CNCF) — Detroit, MI — Jan 2018 to December 2022
+### Cloud Native Ambassador, Cloud Native Computing Foundation (CNCF) — Detroit, MI — Jan 2018 to February 2023
 
 * [GitOpsCon NA 2021 Program Committee member](https://www.credly.com/badges/734ed249-c1ed-460a-9cae-bd36c1b6a5e7/public_url), multiple times speaking at CloudNativeCon + KubeCon, and countless talks at DevOps, Kubernetes, and Cloud Native events
 * Stood up Kubernetes Upstream Marketing team, an approver of tweets from K8sContributors, acquired hardware for streaming community meetings to lessen the load on others
