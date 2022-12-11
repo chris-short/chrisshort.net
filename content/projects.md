@@ -10,7 +10,7 @@ title = "Projects"
 
 Like anyone who has worked on the web long enough, I have a lot of side projects. Some of them are big, some are small. Some are modestly popular, others are barely noticed. But, they are also scattered across the web too. This page serves as a one-stop shop for all my projects big and small, young and old. **Pull requests are welcomed!!!**
 
-## DevOps'ish
+## DevOps'ish (on hiatus)
 
 No longer in production due to health issues.
 
@@ -81,7 +81,7 @@ Analytics: <https://app.usefathom.com/share/gkvngtda/nomedium.dev>
 
 Analytics: <https://app.usefathom.com/share/acmuyzfw/devopsish.com>
 
-## ssl-tester
+## ssl-tester (Public archieve)
 
 A small Go app designed specifically to help troubleshoot certificate chains. A detailed use case that prompted the creation of this code was [featured on opensource.com](https://opensource.com/article/17/4/testing-certificate-chains-34-line-go-program). I highly recommend reading it.
 
