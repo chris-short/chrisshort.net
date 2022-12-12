@@ -52,6 +52,12 @@ HUGO_ENABLEGITINFO = "false"
   status = 301
   force = true
 
+[[redirects]]
+  from = "/prow-and-tide-for-kubernetes-contributors/"
+  to = "https://www.kubernetes.dev/blog/2022/12/12/prow-and-tide-for-kubernetes-contributors/"
+  status = 301
+  force = true
+
 [[headers]]
   for = "/*"
   [headers.values]
