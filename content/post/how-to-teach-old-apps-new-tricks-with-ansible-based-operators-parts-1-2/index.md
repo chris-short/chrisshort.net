@@ -7,7 +7,7 @@ draft = false
 tags = ["Kubernetes", "Operator", "Ansible", "operators", "talk", "app"]
 title = "How to Teach Old Apps New Tricks with Ansible-based Operators (Parts 1 & 2)"
 [cover]
-image = "https://shortcdn.com/file/chrisshort/how-to-teach-old-apps-new-tricks-with-ansible-based-operators-parts-1-2.png"
+image = "https://shortcdn.com/chrisshort/how-to-teach-old-apps-new-tricks-with-ansible-based-operators-parts-1-2.png"
 
 +++
 
@@ -31,7 +31,7 @@ With all these parameters in place, I took to making talk titled, "How to Teach 
 
 {{< speakerdeck 4ddcd10b6a4a4b1e981e62376003b176 >}}
 
-There's a pretty dope Katacoda site run by the OpenShift team that includes a quick, thirty-minute [Ansible Operator Overview course](https://learn.openshift.com/ansibleop/ansible-operator-overview/).
+Red Hat Developer has a good [Ansible Operator Overview course](https://developers.redhat.com/learn/openshift/operators).
 
 ## Artifacts
 
@@ -43,4 +43,3 @@ If you want to actually see the monstrosity I built...
 
 <https://github.com/chris-short/motd-operator>: Ansible-based Kubernetes Operator Using ansible_role_motd from Ansible Galaxy as an example from managing state in a Kubernetes cluster
 
-{{< eo_signup >}}

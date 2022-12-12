@@ -9,13 +9,12 @@ slug = "mac-os-x-el-capitan-and-junos-pulse"
 tags = ["junos pulse", "apple keychain", "mac os x", "el capitan", "apple", "macos"]
 title = "Mac OS X El Capitan and Junos Pulse"
 [cover]
-image = "https://shortcdn.com/file/chrisshort/Pulse-Secure-Logo-Medium_optimized.png"
+image = "https://shortcdn.com/chrisshort/Pulse-Secure-Logo-Medium_optimized.png"
 
 +++
 
 I had some [Apple Keychain issues after upgrading to Mac OS X El Capitan](/mac-os-x-el-capitan-keychain-issues/) yesterday. Apple provided a reasonable resolution (blow away the login Apple Keychain and re-create it). As it turns out, my issues weren't limited to just the El Capitan upgrade. The Juniper Networks' VPN client, Junos Pulse, has some pretty awful issues.
 
-{{< eo_signup >}}
 
 The behavior went something like this:
 

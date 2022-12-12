@@ -12,7 +12,6 @@ title = "Tangible Intangibles: Questions to Ask While Being Interviewed"
 
 A few weeks ago a co-worker and I were discussing some things we really enjoyed about our work environment. It reminded me of a few key questions I ask (or things that I look for) during an interview that typically indicate whether or not a job is going to be a good fit or not.
 
-{{< eo_signup >}}
 
 ## What do you use for e-mail?
 

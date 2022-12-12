@@ -8,7 +8,7 @@ slug = "joining-ansible-team-at-red-hat"
 tags = ["red hat", "ansible", "linux", "devops", "usaf"]
 title = "Joining Ansible Team at Red Hat"
 [cover]
-image = "https://shortcdn.com/file/chrisshort/joining-ansible-team.png"
+image = "https://shortcdn.com/chrisshort/joining-ansible-team.png"
 imagecap = ""
 
 +++
@@ -19,7 +19,6 @@ imagecap = ""
 
 In 1998, I was working at a dial-up ISP in Hickory, NC. We were heavily invested in Windows and needed to reduce costs and increase speed. My CEO at the time had the foresight to know that Linux was the future. She hired two engineers to transform the business into a Red Hat Linux based ISP. These engineers had the challenge of swapping platforms and teaching those of us that didn't abandon ship Linux. My first Linux distro was [Red Hat Linux 5](https://en.wikipedia.org/wiki/Red_Hat_Linux) (not RHEL, Red Hat Linux). From that point on, I knew Red Hat was a platform to watch and utilize.
 
-{{< eo_signup >}}
 
 When the [Dot-com bubble](https://en.wikipedia.org/wiki/Dot-com_bubble) began to burst and trouble loomed on the horizon for tech jobs, I joined the US Air Force. Soon after arriving at my first duty station, I was asked to take part in an exercise, [JEFX 2000](https://en.wikipedia.org/wiki/JEFX). During one of the experiments, I set up a Red Hat-based distro to monitor network device activity. This might have been the first use of Linux in the Air Force (confirming that is difficult). As the Red Teams worked their magic we were able to watch spikes in activity across the network in real-time on a Red Hat Linux-based system.
 

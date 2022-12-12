@@ -9,7 +9,7 @@ slug = "being-a-veteran-in-todays-america"
 tags = ["veteran", "veterans", "America", "rank", "recognition"]
 title = "Being a Veteran in Today's America"
 [cover]
-image = "https://shortcdn.com/file/chrisshort/steve-harvey-330899-unsplash.jpg"
+image = "https://shortcdn.com/chrisshort/steve-harvey-330899-unsplash.jpg"
 caption = "The Incredibly Few, The Mostly Proud: The Anonymous Veterans of Today's America"
 
 +++
@@ -24,7 +24,6 @@ One thing that I don't recall being a thing until recently is veterans in civili
 
 Why render a salute as opposed to putting your hand over your heart? What's *your* reason for doing that? To self-identify as a veteran? Are you seeking recognition or special treatment? I didn't serve to be recognized for it. I joined because of the dot-com bubble burst. I continued serving because I wanted to make sure the perpetrators, planners, and networks behind the 9/11 attacks were brought to justice. If you feel like you deserve recognition or special treatment because you served it's quite possible you served for the wrong reasons.
 
-{{< eo_signup >}}
 
 Another thing that irked me, I haven't quite been able to put my finger on why either, was at Aubree's graduation, all veterans were asked to stand up and be recognized. While I appreciated the thought, I did not stand up. That was neither the time nor the place to be recognized. It was a time to honor my daughter's tremendous accomplishments, not my own.
 

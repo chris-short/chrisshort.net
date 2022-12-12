@@ -8,7 +8,7 @@ slug = "kubernetes-getting-started"
 tags = ["DevOps", "kubernetes", "minishift", "minikube", "coreos", "tectonic", "cloud native"]
 title = "Kubernetes: Getting Started"
 [cover]
-image = "https://shortcdn.com/file/chrisshort/kubernetes-getting-started.png"
+image = "https://shortcdn.com/chrisshort/kubernetes-getting-started.png"
 
 +++
 
@@ -32,7 +32,6 @@ If you want to get started with deploying containerized apps to Kubernetes then 
 
 After kicking the tires on minikube if you feel like it is missing a few components then I would recommend [minishift](https://github.com/MiniShift/minishift) or CoreOS Tectonic. minishift is the minikube of Red Hat OpenShift. OpenShift has a fantastic UI and many features that make Kubernetes a little better. [CoreOS Tectonic](https://coreos.com/tectonic/) is a more opinionated Enterprise-ready Kubernetes. Luckily, CoreOS Tectonic has a free sandbox version. The nice thing about CoreOS Tectonic is the networking and monitoring that come baked into this iteration of Kubernetes. CoreOS has been very thoughtful about the decisions made in Tectonic and it shows.
 
-{{< eo_signup >}}
 
 ## Conclusion
 

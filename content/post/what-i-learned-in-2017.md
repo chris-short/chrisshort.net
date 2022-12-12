@@ -8,13 +8,12 @@ slug = "what-i-learned-in-2017"
 tags = ["philosophy", "life", "kubernetes", "devops", "job", "Michigan"]
 title = "What I Learned in 2017"
 [cover]
-image = "https://shortcdn.com/file/chrisshort/2017.jpg"
+image = "https://shortcdn.com/chrisshort/2017.jpg"
 
 +++
 
 A former co-worker and now friend used to have a tagline, "Everyday is a school day." I remind myself of this fact nearly every time I learn something new. 2017 was arduous and mentally challenging. But, I did pull out some golden nuggets while reflecting back these past few weeks. I'd like to share some things I picked up on on this most recent journey around the sun we call 2017.
 
-{{< eo_signup >}}
 
 ### Kubernetes Will Find Its Way in 2018
 

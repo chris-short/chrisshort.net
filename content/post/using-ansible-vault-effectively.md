@@ -3,8 +3,8 @@ author = "Chris Short"
 categories = ["Ansible", "Red Hat", "2015"]
 date = 2015-10-17T07:53:00Z
 description = ""
-draft = false
-image = "https://shortcdn.com/file/chrisshort/ansible_circleA_red.png"
+draft = true
+image = "https://shortcdn.com/chrisshort/ansible_circleA_red.png"
 slug = "using-ansible-vault-effectively"
 tags = ["ansible", "ansible-vault", "security"]
 title = "Using Ansible Vault Effectively"
@@ -13,7 +13,6 @@ title = "Using Ansible Vault Effectively"
 
 [**Ansible**](http://www.ansible.com/) is a great orchestration tool. The low barrier to entry and simplicity of Ansible are why so many people that start using it love it. But there is one feature in Ansible that probably should be used more often. That feature is [**Ansible Vault**](http://docs.ansible.com/ansible/playbooks_vault.html).
 
-{{< eo_signup >}}
 
 > "Vault" is a feature of ansible that allows keeping sensitive data such as passwords or keys in encrypted files, rather than as plaintext in your playbooks or roles. These vault files can then be distributed or placed in source control.
 
@@ -31,7 +30,7 @@ The best use case for Ansible Vaults are your variable files (group\_vars and ho
 
 You can no longer use vim (or Emacs, nano, etc.) to edit Ansible Vault files... They're encrypted!
 
-![vim ansible vault](https://shortcdn.com/file/chrisshort/vim_ansible_vault.png)
+![vim ansible vault](https://shortcdn.com/chrisshort/vim_ansible_vault.png)
 
 Ansible Vault adds a layer of security so it's inherently harder to use (but not much harder). Don't make it harder by sporadically encrypting some variable files and not others. Waste the handful of kilobytes of disk and make all your variable files Ansible Vaults.
 

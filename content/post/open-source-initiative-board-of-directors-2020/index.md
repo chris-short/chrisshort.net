@@ -8,7 +8,7 @@ slug = "open-source-initiative-board-of-directors-2020"
 tags = ["open source", "OSI", "Open Source Initiative", "Board of Directors", "licenses", "election"]
 title = "Open Source Initiative Board of Directors 2020"
 [cover]
-image = "https://shortcdn.com/file/chrisshort/neon-open.jpg"
+image = "https://shortcdn.com/chrisshort/neon-open.jpg"
 
 +++
 
@@ -47,4 +47,3 @@ Let's face it; if this platform got more specific, I could get locked into deliv
 
 If you would like to read about my journey through life in open source, [please review my candidate profile](https://wiki.opensource.org/bin/Main/OSI+Board+of+Directors/Board+Member+Elections/2020+Individual+and+Affiliate+Elections/Short2020).
 
-{{< eo_signup >}}

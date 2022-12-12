@@ -10,17 +10,16 @@ tags = ["Chris Short", "Rob Zehicle", "Operator", "Operators", "Kubernetes", "Op
 title = "Talking Operators with Rob Zehicle on L8ist Sh9y Podcast"
 aliases = ["talking-operators-on-l8ist-sh9y-podcast"]
 [cover]
-image = "https://shortcdn.com/file/chrisshort/talking-operators-on-L8ist-Sh9y-podcast.png"
+image = "https://shortcdn.com/chrisshort/talking-operators-on-L8ist-Sh9y-podcast.png"
 
 +++
 
 <iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/810685114&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/user-410091210" title="L8ist Sh9y Podcast" target="_blank" rel="noopener" style="color: #cccccc; text-decoration: none;">L8ist Sh9y Podcast</a> · <a href="https://soundcloud.com/user-410091210/chris-short-from-red-hat-talks-operators-and-kubernetes" title="Chris Short from Red Hat talks Operators and Kubernetes" target="_blank" style="color: #cccccc; text-decoration: none;">Chris Short from Red Hat talks Operators and Kubernetes</a></div>
 
-[![Operator Framework](https://shortcdn.com/file/chrisshort/operator-framework-logo-color.png)](https://github.com/Operator-framework)
+[![Operator Framework](https://shortcdn.com/chrisshort/operator-framework-logo-color.png)](https://github.com/Operator-framework)
 
-On May 2nd, I joined my friends over at L8ist Sh9y Podcast as [Rob Zehicle](https://twitter.com/zehicle) was trying to wrap his mind around [Kubernetes Operators](https://red.ht/operators/). I've created the [transcript](https://shortcdn.com/file/chrisshort/whxmHvMw1QIi.128.txt) so folks can read it if they desire.
+On May 2nd, I joined my friends over at L8ist Sh9y Podcast as [Rob Zehicle](https://twitter.com/zehicle) was trying to wrap his mind around [Kubernetes Operators](https://red.ht/operators/). I've created the [transcript](https://shortcdn.com/chrisshort/whxmHvMw1QIi.128.txt) so folks can read it if they desire.
 
-{{< eo_signup >}}
 
 {{< carbon >}}
 
@@ -724,7 +723,7 @@ They've been talking about it for a long, long time. So-
 ... this is, this is part of a, part of a big vision for how Core LS looked at Kubernetes, um, from the very, very early days. So this isn't, this isn't a, uh, a recent thing. This has gotten a lot of thought. And of course, if you're interested in something beyond operators, [DevOps'ish](https://devopsish.com), how do people get the newsletter? Right, you're [crosstalk 00:31:53]-
 
 **Chris:**
-So yeah. The newsletter, yeah. So newsletter's going strong. Uh, I'm super happy with it, done some recent changes around privacy and, you know, simplifying the layout, making it easier for me to write and folks not have to worry about there data getting slurped up and all that fun stuff. So, yeah. Go to [devopsish.com/subscribe/](https://devopsish.com/subscribe/) and, you know, subscribe to the newsletter. You'll get it ever Sunday morning, you know, right when you're waking up hopefully. And, you know, you can digest it throughout the week and get up to date on all the devops and Cloud native and open source fun going on in the industry.
+So yeah. The newsletter, yeah. So newsletter's going strong. Uh, I'm super happy with it, done some recent changes around privacy and, you know, simplifying the layout, making it easier for me to write and folks not have to worry about their data getting slurped up and all that fun stuff. So, yeah. Go to [devopsish.com/subscribe/](https://devopsish.com/subscribe/) and, you know, subscribe to the newsletter. You'll get it ever Sunday morning, you know, right when you're waking up hopefully. And, you know, you can digest it throughout the week and get up to date on all the devops and Cloud native and open source fun going on in the industry.
 
 **Rob:**
 Awesome. Chris, thank you. This has been everything I was hoping, um. I feel smarter, which is always helpful for-

@@ -11,7 +11,7 @@ aliases = [
     "kubecon-cloudnativecon-na-2018"
 ]
 [cover]
-image = "https://shortcdn.com/file/chrisshort/kubecon-cloudnativecon-2018.jpg"
+image = "https://shortcdn.com/chrisshort/kubecon-cloudnativecon-2018.jpg"
 
 +++
 
@@ -36,7 +36,6 @@ I sat up front on the way to Seattle. What it costs me monetarily more than paid
 
 {{< tweet user="Chuckernetes" id="1071947239596019712" >}}
 
-{{< eo_signup >}}
 
 ## KubeKhan
 
@@ -44,7 +43,7 @@ A few of us on Twitter decided to announce we were all going to the bar in the S
 
 {{< tweet user="MrBobbyTables" id="1071995467716681729" >}}
 
-Before it was all said and done, folks discovered that Twitter notifications are hard to manage (I know I learned new methods for managing them). The group also learned the number of people in a single tweet that can be mentioned is capped at 50. There was a Kubernetes Slack channel (#kubekhan is now archived). I met with a CNCF staff member on Monday morning before everything started about something completely unrelated; they asked about [#KubeKhan](https://twitter.com/hashtag/kubekhan). Seeing the creativity from people in the community was really cool. Bob Killen gave us this wonderful [KubeKhan Parrot GIF](https://shortcdn.com/file/chrisshort/kubekhan-parrot.gif). By Day 2, there were even stickers thanks to [Vallery Lancey](https://twitter.com/vllry).
+Before it was all said and done, folks discovered that Twitter notifications are hard to manage (I know I learned new methods for managing them). The group also learned the number of people in a single tweet that can be mentioned is capped at 50. There was a Kubernetes Slack channel (#kubekhan is now archived). I met with a CNCF staff member on Monday morning before everything started about something completely unrelated; they asked about [#KubeKhan](https://twitter.com/hashtag/kubekhan). Seeing the creativity from people in the community was really cool. Bob Killen gave us this wonderful [KubeKhan Parrot GIF](https://shortcdn.com/chrisshort/kubekhan-parrot.gif). By Day 2, there were even stickers thanks to [Vallery Lancey](https://twitter.com/vllry).
 
 {{< tweet user="vllry" id="1072738257387962368" >}}
 

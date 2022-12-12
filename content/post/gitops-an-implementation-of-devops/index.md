@@ -8,8 +8,8 @@ slug = "gitops-an-implementation-of-devops"
 tags = ["GitOps", "DevOps", "system", "state", "automation", "teams", "process", "automatically", "change", "GitOps Working Group", "code", "IaC", "deploys", "tooling", "merged", "pull", "source", "approvals", "version", "safeties", "Continuous Deployment", "infrastructure", "immutability", "versioning", "history", "commit", "software agents", "GitOps Principles", "declarative", "OpenGitOps"]
 title = "GitOps: An implementation of DevOps"
 [cover]
-image = "https://shortcdn.com/file/chrisshort/opengitops-icon-color.svg"
-imagealt = "Open GitOps logo"
+image = "https://shortcdn.com/chrisshort/opengitops-icon-color.svg"
+alt = "Open GitOps logo"
 showTOC = false
 
 +++
@@ -24,29 +24,28 @@ I spoke about GitOps as far back as 2018 on [one of The New Stack's podcasts](ht
 
 The second-ever [GitOpsCon](https://events.linuxfoundation.org/gitopscon-north-america/) took place on Day 0 of [KubeCon + CloudNativeCon NA 2021](https://www.cncf.io/events/kubecon-cloudnativecon-north-america-2021/) in Los Angeles. According to stats from CNCF, it was by far one of the most popular Day 0 events at the conference. An [ArgoCon](https://argoproj.github.io/argocon21/) is coming up too.
 
-{{< eo_signup >}}
 
 [OpenGitOps](https://opengitops.dev/), a group I'm a part of, guided by the [GitOps Working Group](https://github.com/gitops-working-group/gitops-working-group) (also part of), recently published version 1 of the [**GitOps Principles**](https://opengitops.dev/#principles). I want to frame those principles in how DevOps-oriented teams work under the premise of GitOps. If you want to talk about how multi-discipline DevOps is, the GitOps Working Group is under the [CNCF TAG App-Delivery](https://github.com/cncf/tag-app-delivery) umbrella. I'll probably write something about that later.
 
-> ## Declarative: A system managed by GitOps must have its desired state expressed declaratively.
+## Declarative: A system managed by GitOps must have its desired state expressed declaratively
 
-In essence, declarative, in this context, means Infrastructure-as-Code (IaC). IaC is often a stop along the DevOps journey. GitOps provides a forcing function as IaC is a tenet. But, GitOps takes this a step further. Infrastructure and application code deploys can occur with the same GitOps tooling. Dev and Ops can have independent sources of truths (unique repos, branches, etc.) or even separate GitOps tooling (example: platform teams can use [Flux](https://fluxcd.io/) while development teams use [ArgoCD](https://argoproj.github.io/cd/)). 
+In essence, declarative, in this context, means Infrastructure-as-Code (IaC). IaC is often a stop along the DevOps journey. GitOps provides a forcing function as IaC is a tenet. But, GitOps takes this a step further. Infrastructure and application code deploys can occur with the same GitOps tooling. Dev and Ops can have independent sources of truths (unique repos, branches, etc.) or even separate GitOps tooling (example: platform teams can use [Flux](https://fluxcd.io/) while development teams use [ArgoCD](https://argoproj.github.io/cd/)).
 
 There are several ways to make this work. I'm not going to deep dive into them in this article; look for a future post on that. Regardless, the state of your system is declared. GitOps tooling will put the system into that declared state.
 
-> ## Versioned and Immutable: Desired state is stored in a way that enforces immutability, versioning, and retains a complete version history.
+## Versioned and Immutable: Desired state is stored in a way that enforces immutability, versioning, and retains a complete version history
 
 Auditors are always my first thought here. Versioning the state of your system is a HUGE win for a lot of folks. Think about having the ability to identify the state of your system through a single interface. You can then turn around and have your security teams sign off on system changes by having them in the approval process. Retaining that complete version history allows for rollbacks, thus reducing potential foot guns. Those [commits have hashes](https://www.mikestreety.co.uk/blog/the-git-commit-hash). That's powerful stuff.
 
 Most importantly, though, is the immutability of your system. No more logging into systems, you can set up a break glass process, but you really shouldn't have to do that unless something goes haywire. Using Git for this purpose means there's a clearly defined state, and the only way to change that is with another commit getting merged.
 
-> ## Pulled Automatically: Software agents automatically pull the desired state declarations from the source.
+## Pulled Automatically: Software agents automatically pull the desired state declarations from the source
 
 GitOps plays no games. It will pull the defined state from the source as soon as changes are detected. Pulled automatically means that you'll have code running on your systems, watching for changes to your repositories, and applying those changes once merged into the specified branch. The pull model is imperative in GitOps. Your approvals happen as part of the commit process. Deploys occur immediately once merged into the trunk. If the system is out of whack and in distress, you can safely roll back to the last known good state.
 
 Enabling a sole source of truth for approvals, change management, and automation is a compelling benefit of GitOps. Pulling automatically allows the change management process to exist as a part of the approvals leading to the system being placed into the declared state. This function also forces teams to think about safeties that need to exist for good deployment practices for their environments.
 
-> ## Continuously Reconciled: Software agents continuously observe actual system state and attempt to apply the desired state.
+## Continuously Reconciled: Software agents continuously observe actual system state and attempt to apply the desired state
 
 Continuous reconciliation goes hand-in-hand with pulling automatically. For over a decade now, we've known that [continuous deployment](https://en.wikipedia.org/wiki/Continuous_deployment) (CD) is the place we all want to be or get to on our DevOps journeys. Our systems do the heavy lifting for us once changes merge. This fully automatic functionality allows for the speed and agility DevOps groups desire. It intends to ensure that changes are iterative on the more extensive system. This often leads to more frequent, smaller, and more manageable changes occurring in the system. Increasing feature velocity while decreasing the potential risk of changes to the system is a DevOps lesson learned.
 

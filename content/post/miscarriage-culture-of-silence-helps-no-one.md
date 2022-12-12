@@ -9,13 +9,13 @@ slug = "miscarriage-culture-of-silence-helps-no-one"
 tags = ["life", "miscarriage", "pregnancy", "culture"]
 title = "Miscarriage: A Culture of Silence Helps No One"
 [cover]
-image = "https://shortcdn.com/file/chrisshort/grief.jpg"
+image = "https://shortcdn.com/chrisshort/grief.jpg"
+alt = "Grief sticken woman"
 
 +++
 
 Julie and I have experienced a miscarriage. We found out we were pregnant in early November. On Thanksgiving, an episode occurred that demonstrated Julie's life might be in jeopardy as well as the life of the baby. There was a glimmer of hope that all could go well though; we had to give it time. A week before Christmas 2017, we learned that our second child wasn't going to make it. *We had a miscarriage*.
 
-{{< eo_signup >}}
 
 Not talking about miscarriage hurts; hiding it hurts even more. We decided late at night, after it was all over, to change that. [This is a thread that Julie and I shared on Twitter](https://twitter.com/ChrisShort/status/944424925057691648) as part of our **healing process**. Please read it and consider sharing your miscarriage story too. Talking about miscarriage helps. Silence is not strength.
 

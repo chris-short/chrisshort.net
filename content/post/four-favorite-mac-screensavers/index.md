@@ -7,8 +7,10 @@ draft = false
 slug = "three-favorite-macos-screensavers"
 tags = ["macOS", "screensaver", "Aerial", "Apple", "screensavers", "fliqlo", "padbury", "clock", "time", "drift", "favorite"]
 title = "Updated: My three favorite macOS screensavers"
+ShowTOC = false
 [cover]
-image = "https://shortcdn.com/file/chrisshort/dmitry-chernyshov-mP7aPSUm7aE-unsplash.jpg"
+image = "https://shortcdn.com/chrisshort/dmitry-chernyshov-mP7aPSUm7aE-unsplash.webp"
+alt = "MacBook Pro"
 aliases = [
     "/updated-my-four-favorite-macos-screensavers/",
     "updated-my-four-favorite-macos-screensavers",
@@ -24,7 +26,7 @@ Screensavers, you say? They’re more art than function these days. But, why not
 
 Welcome [padbury.app](https://padbury.app) visitor's! The Padbury Clock wasn't built by me and modern versions of macOS no longer support the old code. Instead, I recommend fliqlo as a modern replacement. Since running older code like Padbury Clock is potentially hazardous, I will no longer make a copy of it available (sorry, lawyers).
 
-![Fliqlo](https://shortcdn.com/file/chrisshort/fliqlo.webp#center)
+![Fliqlo](https://shortcdn.com/chrisshort/fliqlo.webp#center)
 
 Fliqlo is my new, go-to screensaver of choice for macOS. fliqlo is a simple yet elegant screensaver, Fashioned after old-school flip clocks, that will keep you updated continuously.
 
@@ -34,13 +36,13 @@ Fliqlo is my new, go-to screensaver of choice for macOS. fliqlo is a simple yet 
 
 ## Drift
 
-![Drift screensaver on macOS](https://shortcdn.com/file/chrisshort/drift_macos.jpg#center)
+![Drift screensaver on macOS](https://shortcdn.com/chrisshort/drift_macos.jpg#center)
 
 A prepackaged screensaver with macOS since Catalina Beta 3, Drift has a flowy kind of feel. It's a screensaver that makes you feel like you could be sitting in a digital ocean of 1s and 0s washing over you. It's currently the default on my daily driver because it's so relaxing.
 
 ## Aerial
 
-![Aerial](https://shortcdn.com/file/chrisshort/aerial-screensaver.gif#center)
+![Aerial](https://shortcdn.com/chrisshort/aerial-screensaver.webp#center)
 
 >[Aerial](https://aerialscreensaver.github.io/) is a Mac screensaver based on the new Apple TV screensaver that displays the Aerial movies Apple shot over New York, San Francisco, Hawaii, China, etc. Starting with version 2.0.0, it also includes videos shared by Joshua Michaels & Hal Bergman!
 >
@@ -52,4 +54,3 @@ This screensaver is cool af. For years, the Apple TV came with these beautiful f
 
 But, a gentle reminder that if you don't have a graphics card, you're going to be eating a lot of CPU with your screensaver.
 
-{{< eo_signup >}}

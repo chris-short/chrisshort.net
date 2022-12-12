@@ -8,7 +8,7 @@ tags = ["search engine", "search engine optimization", "SEO", "SEO checklist", "
 title = "SEO Checklist"
 ShowToc = true
 [cover]
-image = "https://shortcdn.com/file/chrisshort/seo-checklist.jpg"
+image = "https://shortcdn.com/chrisshort/seo-checklist.jpg"
 caption = "A simple, yet powerful search engine optimization (SEO) checklist"
 +++
 
@@ -144,4 +144,3 @@ Don't use frames, ever.
 
 Linking to pages that don't exist is a very bad thing. Search engines and people alike hate that.
 
-{{< eo_signup >}}

@@ -8,7 +8,7 @@ tags = ["web site", "content", "simple", "graphics", "design", "search", "HTML",
 title = "Simple is a Good Thing"
 ShowToc = false
 [cover]
-image = "https://shortcdn.com/file/chrisshort/simple-is-a-good-thing.jpg"
+image = "https://shortcdn.com/chrisshort/simple-is-a-good-thing.jpg"
 caption = "Keep it simple"
 +++
 
@@ -28,4 +28,3 @@ The number one advantage of keeping a web site clean and simple is speed. On the
 
 Keeping things simple and easy isn't hard. It takes a little design time, some restraint, and good intentions to create great, simple web sites. If you've read this article I would highly recommend you going over the ChrisShort.net [Web Site Design Do's and Don'ts](/web-site-design-dos-and-donts/). You can make your web site better by making it simpler.
 
-{{< eo_signup >}}

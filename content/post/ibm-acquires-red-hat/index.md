@@ -8,7 +8,7 @@ slug = "one-fish-two-fish-blue-fish-sporting-new-red-hat"
 tags = ["red hat", "ibm", "job", "life", "open source", "company", "acquisition"]
 title = "One Fish, Two Fish, Blue Fish Sporting New Red Hat"
 [cover]
-image = "https://shortcdn.com/file/chrisshort/ibm-to-acquire-red-hat.png"
+image = "https://shortcdn.com/chrisshort/ibm-to-acquire-red-hat.png"
 caption = "IBM to acquire Red Hat for $34 Billion (with a B)"
 
 +++
@@ -17,7 +17,6 @@ Since Sunday afternoon, I've been in a whirlwind of meetings, discussions, and c
 
 I would like to point out that I have updated [my **disclaimer** and this site's terms](/terms/). My views do not reflect those of my employer or entities I'm affiliated with. Names are withheld for obvious reasons.
 
-{{< eo_signup >}}
 
 ## "At least it wasn't Oracle"
 

@@ -26,4 +26,3 @@ Hats off to the organizers for getting these videos up so quickly. It feels like
 
 {{< speaker >}}
 
-{{< eo_signup >}}

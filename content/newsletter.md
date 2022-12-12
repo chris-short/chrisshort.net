@@ -9,6 +9,5 @@ title = "Newsletter"
 
 +++
 
-{{< eo_signup >}}
 
 If you are looking for other DevOps related newsletters head over to [**DevOps Newsletters**](https://devopsnewsletters.com/) for a comprehensive list.

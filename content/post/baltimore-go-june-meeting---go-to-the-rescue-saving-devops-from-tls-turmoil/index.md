@@ -12,13 +12,12 @@ aliases = [
      "baltimore-go-june-meeting---go-to-the-rescue-saving-devops-from-tls-turmoil"
 ]
 [cover]
-image = "https://shortcdn.com/file/chrisshort/This_is_Fine_Gopher.png"
+image = "https://shortcdn.com/chrisshort/This_is_Fine_Gopher.png"
 caption = "Gopher Art Always Courtesy of [Ashley McNamara](https://github.com/ashleymcnamara/gophers)"
 +++
 
 I was in the DC metro area when I received an e-mail about the [Baltimore Go Meetup](https://www.meetup.com/BaltimoreGolang/) happening on June 5th. Since I was nearby, I decided to go ahead and RSVP to the event. I mentioned this on Twitter and shortly thereafter [Johnny Boursiquot wondered if I could speak](https://twitter.com/jboursiquot/status/1003733156871237633).
 
-{{< eo_signup >}}
 
 Of course I said yes. I was [already doing a talk that morning at DevNationFederal](/devnationfederal-2018-devops-is-not-war/). What's another talk in the evening? I'd move heaven and earth for Johnny. His diversity and inclusion efforts are th enormous cherry on top of his substantial contributions to the Go community.
 

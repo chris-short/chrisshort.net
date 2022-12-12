@@ -12,7 +12,7 @@ aliases = [
   "The-Illustrated-Childrens-Guide-to-Kubernetes.pdf"
 ]
 [cover]
-image = "https://shortcdn.com/file/chrisshort/The-Illustrated-Childrens-Guide-to-Kubernetes.png"
+image = "https://shortcdn.com/chrisshort/The-Illustrated-Childrens-Guide-to-Kubernetes.png"
 
 +++
 
@@ -30,7 +30,7 @@ From the original [The Illustrated Children's Guide to Kubernetes](https://kuber
 
 {{< speakerdeck cf618e05077149bfa85e5c1a381497c4 >}}
 
-If you're unable to few this embed, please [open the Illustrated Children's Guide PDF](https://shortcdn.com/file/chrisshort/pdf/Illustrated-Childrens-Guide-to-Kubernetes.pdf).
+If you're unable to few this embed, please [open the Illustrated Children's Guide PDF](https://shortcdn.com/chrisshort/pdf/Illustrated-Childrens-Guide-to-Kubernetes.pdf).
 
 ## Phippy Goes to the Zoo
 
@@ -38,7 +38,7 @@ Follow the tale of Phippy and her niece Zee as they take an educational trip to 
 
 {{< speakerdeck fe011be572bb4ef1969f9d017e85da3e >}}
 
-If you're unable to few this embed, please [open the Phippy Goes to the Zoo PDF](https://shortcdn.com/file/chrisshort/pdf/Phippy-Goes-To-The-Zoo.pdf).
+If you're unable to few this embed, please [open the Phippy Goes to the Zoo PDF](https://shortcdn.com/chrisshort/pdf/Phippy-Goes-To-The-Zoo.pdf).
 
 ## Reading it to Max
 
@@ -48,4 +48,3 @@ When I first got a copy of The Illustrated Children's Guide to Kubernetes at an 
 
 Head over to [phippy.io](http://phippy.io/) for shenanigans with Phippy and Friends.
 
-{{< eo_signup >}}

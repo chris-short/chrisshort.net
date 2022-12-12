@@ -9,13 +9,12 @@ slug = "take-ownership-plant-your-flag"
 tags = ["ownership", "philosophy"]
 title = "Take Ownership; \"Plant Your Flag\""
 [cover]
-image = "https://shortcdn.com/file/chrisshort/plant-flag.jpg"
+image = "https://shortcdn.com/chrisshort/plant-flag.jpg"
 
 +++
 
 Taking ownership or "planting your flag" in an idea, work, or concept is often one of the best things someone can do. To sit in a room full of people and say, "This is mine. I will take care of it." Makes everyone in the room know you are the point person committed to making it happen. The same holds true when discussing documentation, processes, and ideas for long-range planning.
 
-{{< eo_signup >}}
 
 Almost every place I have worked has had a team that has made an assumption about the way things work. I have routinely found at least one widely accepted assumption to be the furthest thing from the truth. These institutional assumptions are very, very difficult to break down. It can take weeks and sometimes months to make sure everyone is in the loop. Demolishing institutional assumptions requires a constant drum beat that can be exhausting at times; but the drum beat is very necessary. Assuming something works a certain way is a sure fire to lose credibility if you are still maintaining that assumption after it has been debunked. Eradicate institutional assumptions; definitively prove or disprove operations of systems.
 

@@ -3,7 +3,7 @@ author = "Chris Short"
 categories = ["Ansible", "2016"]
 date = 2016-12-09T13:35:00Z
 description = "Setup Papertrail with a role for Ansible Galaxy"
-draft = false
+draft = true
 ShowToc = false
 slug = "ansible-role-for-papertrail"
 tags = ["ansible", "DevOps", "cloud native"]
@@ -13,11 +13,10 @@ title = "Ansible Role for Papertrail"
 
 I have written my first publicly reusable Ansible role. It is freely available for use via Ansible Galaxy at [**chris-short.ansible-role-papertrail**](https://galaxy.ansible.com/chris-short/ansible-role-papertrail/) and helps you get Papertrail up and running.
 
-{{< eo_signup >}}
 
 What is [Papertrail](https://papertrailapp.com/)? A hosted log management tool that, in my opinion, can bridge the gap between your terminal and a full blown ELK stack. It is no frills streaming log aggregation and search.
 
-[![Papertrail](https://shortcdn.com/file/chrisshort/papertrail-screenshot.png)](https://shortcdn.com/file/chrisshort/papertrail-screenshot.png)
+[![Papertrail](https://shortcdn.com/chrisshort/papertrail-screenshot.png)](https://shortcdn.com/chrisshort/papertrail-screenshot.png)
 
 Being my first Ansible role I have submitted to Galaxy I am pretty stoked about it. It did not come without finding a quirk or two but [the role is updating from GitHub despite my issue](https://github.com/ansible/galaxy-issues/issues/217). The role somehow makes it through to Galaxy regardless of this error. A huge thanks to [**Jeff Geerling**](http://www.jeffgeerling.com/) for his work to make this so much easier and his advice.
 

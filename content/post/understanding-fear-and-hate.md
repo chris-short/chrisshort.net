@@ -1,6 +1,6 @@
 +++
 author = "Chris Short"
-categories = ["Diversity", "Civics", "2016"]
+categories = ["Diversity", "Civics", "Privacy", "2016"]
 date = 2016-06-21T05:44:00Z
 description = ""
 draft = false
@@ -9,7 +9,7 @@ slug = "understanding-fear-and-hate"
 tags = ["hate", "fear", "lgbt", "lgbtq", "culture", "philosophy"]
 title = "Understanding, Fear, and Hate"
 [cover]
-image = "https://shortcdn.com/file/chrisshort/lgbt-usa-map.png"
+image = "https://shortcdn.com/chrisshort/lgbt-usa-map.png"
 
 +++
 
@@ -18,7 +18,6 @@ Jedi Master Yoda
 
 On Saturday, my wife Julie, son Max, and I attended church. This was a very special mass as it was the mass at which Max was being baptized. Julie's family was present as were friends of ours. As a lot of my friends know, I'm not religious. My stance on religion is that I choose complete freedom over being beholden to humans interpreting what they believe to be the word of God. I have seen religion twisted to a few extremes in my days on this earth therefore I choose not to be a follower. However, I am not going to sway people to see things my way. I wholeheartedly support my Catholic wife and family in their choices.
 
-{{< eo_signup >}}
 
 This was the first mass after the [tragic events at the Pulse nightclub in Orlando](https://en.wikipedia.org/wiki/2016_Orlando_nightclub_shooting). The friar led his homily by saying that humans fear what they do not understand. This is true in almost all facets of life. Be it politics, careers, or technology people fear what they don't understand. This lack of understanding often turns into hate. There is no greater example of this than religion's tenuous relationship with the LGBTQ community. But during this mass, a friar led the congregation in saying that he along with all the other Friars at the church were in agreement that all people, regardless of sexual orientation, are indeed human and deserve to be treated as such. The Catholic Church is getting it.
 

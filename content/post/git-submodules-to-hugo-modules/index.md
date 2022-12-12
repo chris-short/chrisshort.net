@@ -8,7 +8,7 @@ slug = "git-submodules-to-hugo-modules"
 tags = ["git", "hugo", "modules", "submodules", "theme", "submodule", "Netlify", "branch", "mod"]
 title = "From git submodule to Hugo Modules using Netlify"
 [cover]
-image = "https://shortcdn.com/file/chrisshort/hugo-logo-wide.svg"
+image = "https://shortcdn.com/chrisshort/hugo-logo-wide.svg"
 
 +++
 
@@ -75,4 +75,3 @@ References:
 <https://gohugo.io/hugo-modules/configuration/>  
 <https://gohugo.io/hugo-modules/use-modules/>
 
-{{< eo_signup >}}

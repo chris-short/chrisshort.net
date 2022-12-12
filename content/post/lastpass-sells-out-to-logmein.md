@@ -1,6 +1,6 @@
 +++
 author = "Chris Short"
-categories = ["Security", "2015"]
+categories = ["Security", "Privacy", "2015"]
 date = 2015-10-09T23:03:30Z
 description = ""
 draft = false
@@ -9,7 +9,7 @@ slug = "lastpass-sells-out-to-logmein"
 tags = ["lastpass", "logmein", "acquisition", "security"]
 title = "LastPass Sells Out to LogMeIn"
 [cover]
-image = "https://shortcdn.com/file/chrisshort/lp_blog.png"
+image = "https://shortcdn.com/chrisshort/lp_blog.png"
 
 +++
 
@@ -17,15 +17,14 @@ If you have not heard, the phenomenal cloud base SaaS password manager, **[LastP
 
 {{< carbon >}}
 
-People dislike LogMeIn for a variety of reasons but the main one is that they [pulled the rugs out from under a lot of folks](https://community.spiceworks.com/topic/742095-logmein-goodbye) who were using LogMeIn to help administer remote computers (I was one of these people). LogMeIn rapidly increased pricing on their services making their product go from consumer to "prosumer" to full blown enterprise pricing very quickly. Some people [didn't have time to get something else installed](http://www.maximumpc.com/logmein-ends-free-ride-gives-users-7-days-notice-subscribe-or-scram2014/) on the systems they were administering with LogMeIn before their service was cut.
+People dislike LogMeIn for a variety of reasons but the main one is that they [pulled the rugs out from under a lot of folks](https://community.spiceworks.com/topic/742095-logmein-goodbye) who were using LogMeIn to help administer remote computers (I was one of these people). LogMeIn rapidly increased pricing on their services making their product go from consumer to "prosumer" to full blown enterprise pricing very quickly. Some people didn't have time to get something else installed on the systems they were administering with LogMeIn before their service was cut.
 
-{{< eo_signup >}}
 
 Given the LastPass business model (free to consumers, [premium](https://lastpass.com/go-premium/) (power users; like me) at $12/year, and [enterprise](https://lastpass.com/enterprise/), at most, $24/user/year) folks are rightfully fearful that a massive price jump is coming faster than you can get your data out of LastPass.
 
 The response from LastPass has been a lot of damage control it would seem. But, their [comment on LinkedIn](https://www.linkedin.com/company/lastpass?trk=tyah&trkInfo=clickedVertical%3Acompany%2CclickedEntityId%3A644776%2Cidx%3A2-2-9%2CtarId%3A1444412280222%2Ctas%3Alast) really sums up the LastPass response:
 
-![LastPass Comment on LinkedIn](https://shortcdn.com/file/chrisshort/LastPass-LinkedIn.png#center)
+![LastPass Comment on LinkedIn](https://shortcdn.com/chrisshort/LastPass-LinkedIn.png#center)
 
 >We appreciate and are proud of the passion of our community. We hope you'll stick with us to let us prove that there are only better things to come. We will not compromise when it comes to our commitment to you, your privacy and your trust. -LastPass
 

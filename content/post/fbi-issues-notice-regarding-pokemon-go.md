@@ -5,7 +5,7 @@ date = 2016-07-20T14:34:00Z
 description = ""
 draft = false
 ShowTOC = false
-image = "https://shortcdn.com/file/chrisshort/fbi-hearts-pokemon-go.png"
+image = "https://shortcdn.com/chrisshort/fbi-hearts-pokemon-go.png"
 slug = "fbi-issues-notice-regarding-pokemon-go"
 tags = ["niantic", "FBI"]
 title = "FBI Issues Notice Regarding Pokemon GO"
@@ -20,7 +20,6 @@ On July 15, 2016 the US Federal Bureau of Investigations (FBI) issued an Externa
 
 The Note makes several mentions of Pokémon GO developer Niantic, Inc. and their original game, Ingress (a game I enjoyed playing for a while). The Note also calls attention to the use of "lure modules" and Niantic's recent addition of a feature allowing players to request PokéStops in specific locations.
 
-{{< eo_signup >}}
 
 On the FBI probability scale "very likely" and "highly probable" indicate an 80% to 95% chance of "players attempting to access restricted areas." 
 

@@ -9,7 +9,7 @@ slug = "things-no-one-tells-you-when-you-start-a-newsletter"
 tags = ["newsletter", "mail", "Gareth Rushgrove", "Mattias Geniar", "DevOps", "writing", "open source", "email", "template", "rewarding", "VScode", "DNS", "MJML"]
 title = "Things no one tells you when you start a newsletter"
 [cover]
-image = "https://shortcdn.com/file/chrisshort/reading-the-news.jpg"
+image = "https://shortcdn.com/chrisshort/reading-the-news.jpg"
 
 +++
 
@@ -19,7 +19,6 @@ There were a lot of reasons I started writing a newsletter back in 2016. Having 
 
 What I did not expect were styling problems, a stream of feedback and opinions, and a few other gotchas that are worth mentioning. But, it is by far the single most rewarding personal project I've ever taken on.
 
-{{< eo_signup >}}
 
 ## What do you mean IE 6?
 
@@ -40,7 +39,7 @@ I've learned from a ton of experience delivering email en masse. Mail delivery o
 * CSS
 * *And I'm certainly missing something*
 
-![Neo from The Matrix saying, "I know DNS" instead of "I know Kung Fu."](https://shortcdn.com/file/chrisshort/matrix-neo-i-know-dns.jpg#center)
+![Neo from The Matrix saying, "I know DNS" instead of "I know Kung Fu."](https://shortcdn.com/chrisshort/matrix-neo-i-know-dns.jpg#center)
 
 [mxtoolbox.com](https://mxtoolbox.com/) is going to become your friend as you learn about a whole bunch of DNS you never wanted to learn but now have to. If you want readers to be able to reply to your messages, you will need to set up mail infrastructure that enables folks to do so. Most newsletter writers want people to be able to respond directly. Quality feedback is in short supply. Enabling every avenue for feedback to come in is vital. Use a service, don't do any part of this you're uncomfortable  managing on your own.
 

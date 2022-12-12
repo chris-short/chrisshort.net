@@ -9,13 +9,12 @@ slug = "yubikey-4-nano-demands-use-of-yubiswitch"
 tags = ["yubikey", "mac os x", "macos"]
 title = "Yubikey 4 Nano Demands Use of yubiswitch"
 [cover]
-image = "https://shortcdn.com/file/chrisshort/yubikey-nano.png"
+image = "https://shortcdn.com/chrisshort/yubikey-nano.png"
 
 +++
 
 As more and more security policies demand the use of multi-factor authentication the number of times a day you use a multi-factor token will increase. Hopefully that number will not increase to a level that throws the balance of security and convenience towards the annoyingly secure side of the scale. But, if that ever does happen hopefully you can use an [Yubikey](https://www.yubico.com/) as your token.
 
-{{< eo_signup >}}
 
 There are various sizes and styles of Yubikey to suit your need but the Yubikey of choice with myself and my co-workers seems to be the FIDO U2F ready [Yubikey Nano 4](https://www.yubico.com/products/yubikey-hardware/yubikey4/).
 
@@ -27,7 +26,7 @@ The Yubikey Nano 4 inputs the access code into whatever field is in use when it 
 
 Install yubiswitch, run it, and open the Yubiswitch Preferences pane:
 
-![YubiSwitch Preferences](https://shortcdn.com/file/chrisshort/YubiSwitch_Preferences.png)
+![YubiSwitch Preferences](https://shortcdn.com/chrisshort/YubiSwitch_Preferences.png)
 
 The YubiKey ProductID in the Preferences field needs to be set correctly or yubiswitch simply won't work. Open a Terminal and run the following command:
 

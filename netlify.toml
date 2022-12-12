@@ -3,7 +3,7 @@ publish = "public"
 command = "hugo --minify"
 
 [context.production.environment]
-HUGO_VERSION = "0.92.0"
+HUGO_VERSION = "0.104.0"
 HUGO_ENV = "production"
 HUGO_ENABLEGITINFO = "false"
 
@@ -11,13 +11,13 @@ HUGO_ENABLEGITINFO = "false"
 command = "curl -L 'https://cdn.carbonads.com/carbon.js?serve=CK7D52QU&placement=chrisshortnet' -o assets/js/extended/carbon.js || hugo --minify --enableGitInfo"
 
 [context.split1.environment]
-HUGO_VERSION = "0.92.0"
+HUGO_VERSION = "0.104.0"
 HUGO_ENV = "production"
 
 [context.deploy-preview]
 command = "hugo -DF -b $DEPLOY_PRIME_URL"
 [context.deploy-preview.environment]
-HUGO_VERSION = "0.92.0"
+HUGO_VERSION = "0.104.0"
 # Skip all post processing in deploy previews,
 # ignoring any other settings
 [context.deploy-preview.processing]
@@ -26,7 +26,7 @@ HUGO_VERSION = "0.92.0"
 [context.branch-deploy]
 command = "hugo -DF -b $DEPLOY_PRIME_URL"
 [context.branch-deploy.environment]
-HUGO_VERSION = "0.92.0"
+HUGO_VERSION = "0.104.0"
 
 [context.next.environment]
 HUGO_ENABLEGITINFO = "false"
@@ -61,8 +61,10 @@ HUGO_ENABLEGITINFO = "false"
 [[headers]]
   for = "/*"
   [headers.values]
-    X-Frame-Options = "DENY"
-    X-XSS-Protection = "1; mode=block"
-    Referrer-Policy = "no-referrer, strict-origin-when-cross-origin"
-    X-Content-Type-Options = "nosniff"
-    Permissions-Policy = 'fullscreen=(self "https://chrisshort.net"), geolocation=(), camera=(), microphone=()'
+    Access-Control-Allow-Origin = 'https://chrisshort.net'
+    Permissions-Policy = 'accelerometer=(), camera=(), geolocation=(), gyroscope=(), magnetometer=(), microphone=(), payment=(), usb=(), interest-cohort=()'
+    Referrer-Policy = 'no-referrer-when-downgrade'
+    Strict-Transport-Security = 'max-age=63072000; includeSubDomains; preload'
+    X-Content-Type-Options = 'nosniff'
+    X-Frame-Options = 'DENY'
+    X-XSS-Protection = '1; mode=block'

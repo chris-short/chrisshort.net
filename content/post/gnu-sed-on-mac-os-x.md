@@ -8,7 +8,7 @@ slug = "gnu-sed-on-mac-os-x"
 tags = ["sed", "gnu", "bsd", "mac os x", "apple", "system integrity protection", "sip", "macos", "tools"]
 title = "GNU sed on Mac OS X"
 [cover]
-image = "https://shortcdn.com/file/chrisshort/hexley-darwin-vs-heckert-gnu.png"
+image = "https://shortcdn.com/chrisshort/hexley-darwin-vs-heckert-gnu.png"
 
 +++
 
@@ -53,4 +53,3 @@ Footnotes:
 [^n]: If you decided to not disable System Integrity Protection you should run this instead: ./configure --prefix=/usr/local/ --program-suffix=-gnu and you can skip steps 9 through 11.
 [^n]: You can change the number of jobs here if you desire; see MAKE(1).
 
-{{< eo_signup >}}

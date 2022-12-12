@@ -20,15 +20,17 @@ aliases = [
 
 ## Professional Summary
 
-Results producing DevOps profession turned developer and community advocate. Cloud Native Computing Foundation Ambassador, Kubernetes Contributor and Kubernetes upstream marketing team member. Public speaker and live streamer, personal and professional blogger/writer, founder of the popular newsletter, [DevOps'ish](http://devopsish.com/). Open Source advocate. Technology exists to improve human existence.
+Results producing DevOps profession turned developer and community advocate. Cloud Native Computing Foundation Ambassador, Kubernetes Contributor and Kubernetes Contributor Comms co-lead. Public speaker and live streamer, personal and professional blogger/writer, founder of the popular newsletter, [DevOps'ish](http://devopsish.com/). Open Source advocate. Technology exists to improve human existence.
 
 ## Professional Experience
 
-### Senior Developer Advocate, Amazon Web Services Kubernetes — Detroit, MI — Oct 2021 to Present
+### Senior Developer Advocate, Amazon Web Services — Detroit, MI — Oct 2021 to Present
 
 * Launched [EKS.news](https://eks.news/), a newsletter covering the latest updates on Amazon Elastic Kubernetes Service (EKS); an additional mechanism to inform customers about new features and updates.
+* Authored Amazon Elastic Kubernetes Service (EKS) 1.22 & 1.23 release blogs; updated customers on critical product changes
+* Organized and ran GitOpsCon EU 2021; included everything from marketing the CFP to rating talks to MC'ing
 
-### Cloud Native Ambassador, Cloud Native Computing Foundation (CNCF) — Detroit, MI — Jan 2018 to Present
+### Cloud Native Ambassador, Cloud Native Computing Foundation (CNCF) — Detroit, MI — Jan 2018 to February 2023
 
 * [GitOpsCon NA 2021 Program Committee member](https://www.credly.com/badges/734ed249-c1ed-460a-9cae-bd36c1b6a5e7/public_url), multiple times speaking at CloudNativeCon + KubeCon, and countless talks at DevOps, Kubernetes, and Cloud Native events
 * Stood up Kubernetes Upstream Marketing team, an approver of tweets from K8sContributors, acquired hardware for streaming community meetings to lessen the load on others
@@ -138,15 +140,13 @@ Results producing DevOps profession turned developer and community advocate. Clo
 ## Education and Certifications
 
 * AAS, Community College of the Air Force, Electronic Systems Technology, Aug 2010
-* CompTIA Network+ (Verification [ZZ6VGN6LSCBEYCBN](https://www.credly.com/badges/028d9ed9-9980-4ec0-b7f5-37a612341ae1))
+* CompTIA Network+ (Verification [ZZ6VGN6LSCBEYCBN](https://shortcdn.com/chrisshort/CompTIA-Network-certificate.pdf))
 * Red Hat Certified System Administrator (RHEL 6 — Certification ID: [120-179-858](https://www.redhat.com/rhtapps/services/verify/?certId=120-179-858))
 * Enterasys Certified Specialist — Switching NMS (License a1780000000eXhqAAE)
-* [Pragmatic Marketing Certified — Level II (PMC-II)](https://shortcdn.com/file/chrisshort/Pragmatic_Marketing_Certification_00139296.pdf)
+* [Pragmatic Marketing Certified — Level II (PMC-II)](https://shortcdn.com/chrisshort/Pragmatic_Marketing_Certification_00139296.pdf)
 * Red Hat Certified Specialist in Ansible Automation (Ansible 2.3 — Certification ID: [120-179-858](https://www.redhat.com/rhtapps/services/verify/?certId=120-179-858))
 * Additional credentials via [Credly](https://www.credly.com/users/chrisshort/badges)
 
 ## Formal Training Courses
 
 Global Knowledge Network Security I & II, UNIX/LINUX Security Course, Defense Information Systems Agency CONUS Telecom Seminar, Information Technology Infrastructure Library (ITIL) Foundation Workshop, USAF Communications-Computer Systems Control Apprentice & Craftsman Courses, REDCOM Theory and Application Training Course in Distributed Digital Switching, Microsoft Learning Course 5927A: Microsoft Office Project 2007, Managing Projects, RHCSA Rapid Track Course, Enterasys Switching NMS, Puppet Fundamentals Training, Pentaho Business Analytics User Console Training, Pragmatic Marketing Certified Level II (PMC-II; Foundations and Focus), Automation with Ansible I (DO407)
-
-{{< eo_signup >}}

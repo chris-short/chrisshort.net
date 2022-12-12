@@ -1,9 +1,19 @@
-/img/posts/* https://c.chrisshort.net/files/chrisshort/:splat 301
-/drawings/*.png https://c.chrisshort.net/files/chrisshort/:splat.png 301
-/drawings/*.jpg https://c.chrisshort.net/files/chrisshort/:splat.jpg 301
-/about/Chris-Short-Sept-2021-Profile-Pic.jpeg https://c.chrisshort.net/files/chrisshort/about/Chris-Short-Sept-2021-Profile-Pic.jpeg 301
-/about/Late-2017-Headshot-Square-Optimized.jpg https://c.chrisshort.net/files/chrisshort/about/Late-2017-Headshot-Square-Optimized.jpg 301
-/about/Late-2018-Headshot.jpg https://c.chrisshort.net/files/chrisshort/about/Late-2018-Headshot.jpg 301
-/about/Late-2019-Headshot.jpg https://c.chrisshort.net/files/chrisshort/about/Late-2019-Headshot.jpg 301
-/about/Sept-2020-Profile-Pic.jpeg https://c.chrisshort.net/files/chrisshort/about/Sept-2020-Profile-Pic.jpeg 301
-/fonts/* https://c.chrisshort.net/files/chrisshort/fonts/:splat 301
+/about/Chris-Short-Sept-2021-Profile-Pic.jpeg https://shortcdn.com/chrisshort/about/Chris-Short-Sept-2021-Profile-Pic.jpeg 301
+/about/Late-2017-Headshot-Square-Optimized.jpg https://shortcdn.com/chrisshort/about/Late-2017-Headshot-Square-Optimized.jpg 301
+/about/Late-2018-Headshot.jpg https://shortcdn.com/chrisshort/about/Late-2018-Headshot.jpg 301
+/about/Late-2019-Headshot.jpg https://shortcdn.com/chrisshort/about/Late-2019-Headshot.jpg 301
+/about/Sept-2020-Profile-Pic.jpeg https://shortcdn.com/chrisshort/about/Sept-2020-Profile-Pic.jpeg 301
+
+/img/posts/* https://shortcdn.coms/chrisshort/:splat 301
+/drawings/*.png https://shortcdn.coms/chrisshort/:splat.png 301
+/drawings/*.jpg https://shortcdn.coms/chrisshort/:splat.jpg 301
+/drawings/*.webp https://shortcdn.coms/chrisshort/:splat.webp 301
+/fonts/* https://shortcdn.coms/chrisshort/fonts/:splat 301
+
+# Deprecated posts
+/announcing-detroit-go-meetup https://github.com/chris-short/chrisshort.net/blob/main/content/post/announcing-detroit-go-meetup/index.md 301
+/ansible-galaxy-is-open https://github.com/chris-short/chrisshort.net/blob/main/content/post/ansible-galaxy-is-open/index.md 301
+/ansible-role-for-papertrail https://github.com/chris-short/chrisshort.net/blob/main/content/post/ansible-role-for-papertrail/index.md 301
+/using-ansible-vault-effectively https://github.com/chris-short/chrisshort.net/blob/main/content/post/using-ansible-vault-effectively.md 301
+/verify-ashleymcnamara https://github.com/chris-short/chrisshort.net/blob/main/content/post/verify-ashleymcnamara/index.md 301
+/weather-in-your-ios-and-macos-calendars https://github.com/chris-short/chrisshort.net/blob/main/content/post/weather-in-your-ios-and-macos-calendars/index.md 301

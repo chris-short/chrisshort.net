@@ -8,7 +8,7 @@ slug = "2020-learnings-2021-expectations"
 tags = ["developer", "live streaming", "Kubernetes", "cloud native", "GitOps", "DevOps", "ARM", "data", "perfection", "speaking", "developer experience", "platform", "events", "global pandemic", "assumptions", "Edge", "5G", "infrastructure", "marketing", "Kubernetes release team", "chronic pain", "disability", "disabled", "release", "CFP", "open source", "exponential advancement", "automation", "systems", "OpenShift.tv", "software", "code", "joy", "Ford", "Detroit", "distributed systems", "management", "Ansible", "Kat Cosgrove", "ArgoCD", "Flux", "Weaveworks", "DevOps'ish", "conferences", "public speaking", "Christian Hernandez"]
 title = "2020 Learnings, 2021 Expectations"
 [cover]
-image = "https://shortcdn.com/file/chrisshort/hope.jpg"
+image = "https://shortcdn.com/chrisshort/hope.jpg"
 
 +++
 
@@ -40,7 +40,6 @@ For example, my job title is _Principal Technical Marketing Manager_. In this po
 
 It all makes sense when you look at the explosion in GitOps adoption. Last year I said, "I think GitOps intrigues me so much because it takes into account the above three topics: Kubernetes, DevOps, and Developer Experience. I think that GitOps will get turned up to 11 in 2020." It sure did too. There are now two very viable GitOps solutions in ArgoCD and Flux. There are several other GitOps solutions out there also. [Red Hat and Intuit announced a cooperation agreement](https://www.redhat.com/en/about/press-releases/red-hat-and-intuit-join-forces-argo-project-extending-gitops-community-innovation-better-manage-multi-cluster-cloud-native-applications-scale) to build ArgoCD into the tool we all want. Weaveworks [landed a Series C funding round](https://www.weave.works/blog/announcing-weaveworks-36m-series-c/) based on their GitOps works. GitOps is quickly becoming the defacto DevOps implementation for cloud native environments. I'm going to put in a shameless plug for Christian Hernandez and I's **_[GitOps Happy Hour](https://www.youtube.com/playlist?list=PLaR6Rq6Z4IqfGCkI28cUMbNhPhsnj4nq3)_**.
 
-{{< eo_signup >}}
 
 ## Looking forward to 2021
 

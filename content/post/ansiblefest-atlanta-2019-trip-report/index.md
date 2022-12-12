@@ -6,7 +6,7 @@ description = "The Ansible team made the Atlanta Hilton into a living and breath
 draft = false
 tags = ["Ansible", "AnsibleFest", "automation", "Kubernetes", "operators", "Red Hat"]
 title = "AnsibleFest Atlanta 2019 Trip Report"
-image = "https://shortcdn.com/file/chrisshort/AnsibleFest-2019.png"
+image = "https://shortcdn.com/chrisshort/AnsibleFest-2019.png"
 
 +++
 
@@ -36,13 +36,12 @@ Automation Analytics gathers execution stats (pass/fail), module usage, and othe
 
 The capability to get metrics out of an organization's Ansible usage could be beneficial. At a high level, I can use the module usage stats to figure out what is automated in my organization. I can take that data and compare it to an outside inventory of equipment and software. This could allow an organization to see where success with automation is occurring and where more help might be needed.
 
-{{< eo_signup >}}
 
 The overall reception was VERY positive. Immediately after the opening session, the Ansible booth was swamped. I spent Wednesday morning in the Ansible booth, answering questions from features to pricing to architecture to the roadmap. It was awesome to talk to so many people at different stages of their DevOps journey during AnsibleFest.
 
 ## Building Kubernetes Operators with Ansible Hands-on Workshop
 
-![Operabull: Operators with Ansible Make Kubernetes Sing!](https://shortcdn.com/file/chrisshort/operabull-official-500.png#center)
+![Operabull: Operators with Ansible Make Kubernetes Sing!](https://shortcdn.com/chrisshort/operabull-official-500.png#center)
 
 The largest single workshop held at AnsibleFest this year was: Building Kubernetes Operators with Ansible Hands On Workshop. This is the output of a lot of folks' work. Matt, Melvin, Michael, and I took a room full of Ansible folks and brought them up to speed on [Kubernetes Operators](https://kubernetes.io/docs/concepts/extend-kubernetes/operator/) and writing [Operators with Ansible](https://ansible.com/operators/).
 

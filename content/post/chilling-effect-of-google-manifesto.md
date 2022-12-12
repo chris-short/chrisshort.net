@@ -27,4 +27,3 @@ What is potentially even worse than crushing Kylie and other up and coming engin
 
 This incident ends up lowering the bar across the entire industry. When leaders fail to lead, a less desirable actor will fill the vacuum. I have to go to work tomorrow and make sure that my team knows that we are not going to let any one of us be greater than the sum of us. Google is creating leadership challenges across an already challenging industry to lead effectively in. We as an industry should not stand for this. If this were an Uber employee we'd call for more change at Uber. This is Google; what are we going to demand of them? Google should do the right thing here and not be evil.
 
-{{< eo_signup >}}

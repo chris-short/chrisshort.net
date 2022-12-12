@@ -9,7 +9,7 @@ title = "3C2X1: Communications - Computer Systems Controller"
 
 +++
 
-![Communications and Information Badge 3C251](https://shortcdn.com/file/chrisshort/commbadge5.jpg) ![Communications and Information Badge 3C271](https://shortcdn.com/file/chrisshort/commbadge7.jpg) ![Communications and Information Badge 3C291](https://shortcdn.com/file/chrisshort/commbadge9.jpg)
+![Communications and Information Badge 3C251](https://shortcdn.com/chrisshort/commbadge5.jpg) ![Communications and Information Badge 3C271](https://shortcdn.com/chrisshort/commbadge7.jpg) ![Communications and Information Badge 3C291](https://shortcdn.com/chrisshort/commbadge9.jpg)
 
 ## 3C2X1 Specialty Summary
 
@@ -46,4 +46,3 @@ There is really no limit to what kind of communications a tech controller will d
 
 The Tech Control career field was converted to [3D1X2 Cyber Transport Systems](https://www.airforce.com/careers/detail/cyber-transport-systems) in 2009.
 
-{{< eo_signup >}}

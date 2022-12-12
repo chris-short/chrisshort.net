@@ -9,7 +9,7 @@ slug = "the-dark-side-of-devops"
 tags = ["DevOps"]
 title = "The Dark Side of DevOps"
 [cover]
-image = "https://shortcdn.com/file/chrisshort/dagobah-cave.jpg"
+image = "https://shortcdn.com/chrisshort/dagobah-cave.jpg"
 
 +++
 
@@ -17,7 +17,6 @@ image = "https://shortcdn.com/file/chrisshort/dagobah-cave.jpg"
 
 A lot of people think that [DevOps](https://devopsish.com/), [Cloud Native](https://pivotal.io/cloud-native), [Agile](http://agilemanifesto.org/), [GROWS](http://growsmethod.com/), etc. are all rainbows and roses. You start small and work your way up to full blown operations or you decide as an organizational unit to change. These are the two patterns associated with a Jedi-type maturation process of DevOps. What if I told you that, like in Star Wars, DevOps has a dark side? I have seen the light side everyone thinks of and have carried the red lightsaber as well. Let's walk into the cave on Dagobah together.
 
-{{< eo_signup >}}
 
 ### The Ops Mutiny
 

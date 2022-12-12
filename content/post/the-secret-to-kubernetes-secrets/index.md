@@ -9,7 +9,7 @@ slug = "the-secret-to-kubernetes-secrets"
 tags = ["kubernetes", "secret", "secrets", "stringdata", "kubectl", "yaml"]
 title = "The Secret to Kubernetes Secrets"
 [cover]
-image = "https://shortcdn.com/file/chrisshort/kubernetes-secrets.png"
+image = "https://shortcdn.com/chrisshort/kubernetes-secrets.png"
 
 +++
 
@@ -19,7 +19,6 @@ I made an innocent [comment on Twitter](https://twitter.com/ChrisShort/status/11
 
 Years ago, a colleague asked Albert Einstein if he knew his phone number. The rebuttal was short and rather Einsteinian, "Never memorize something that you can look up." So when a reminder of how "[Memorization is an anti-pattern.](https://twitter.com/cjimti/status/1132165745389912064)" came up during the conversation about Kubernetes Secrets, I was quite relieved.
 
-{{< eo_signup >}}
 
 The many ways you can peel the Kubernetes Secrets onion seems to grow daily. There are inline secrets, secrets as YAML files, secrets with base64 encoded values, and secrets through third-party providers (like [Hashicorp Vault](https://itnext.io/effective-secrets-with-vault-and-kubernetes-9af5f5c04d06)). When reading the [~~Best~~](https://devopsish.com/128/) Practices for [Kubernetes Secrets](https://kubernetes.io/docs/concepts/configuration/secret/#best-practices), there is a cautionary tale of how things can go wrong.
 
@@ -27,7 +26,7 @@ Several suggestions on how folks managed Kubernetes Secrets themselves rolled in
 
 My buddy [Todd Edwards suggested using VSCode snippets](https://twitter.com/TriangleTodd/status/1131814890715439106). That is a viable option for most anyone with an IDE. Brian Liles response about [using Shell functions](https://twitter.com/bryanl/status/1132220199330099200) piqued my interest for a different reason (he might have something fancy up his sleeve too). But, this thorough response reads more like a HOWTO and less like a Tweet:
 
-[![Peter Benjamin](https://shortcdn.com/file/chrisshort/peter-benjamin-creating-kubernetes-secrets.png)](https://twitter.com/petermbenjamin/status/1131869227634184198)
+[![Peter Benjamin](https://shortcdn.com/chrisshort/peter-benjamin-creating-kubernetes-secrets.png)](https://twitter.com/petermbenjamin/status/1131869227634184198)
 
 One pertinent thing that did come up in discussion was [stringData in Kubernetes Secrets](https://twitter.com/alejandrox135/status/1131890155822952449). Per the documentation, a Secret has:
 

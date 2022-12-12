@@ -11,7 +11,7 @@ aliases = [
     "aws-bill"
 ]
 [cover]
-image = "https://shortcdn.com/file/chrisshort/june-2020-aws-bill-header.png"
+image = "https://shortcdn.com/chrisshort/june-2020-aws-bill-header.png"
 
 +++
 
@@ -35,7 +35,7 @@ Along with that migration came the CDN for this web site (cdn.chrisshort.net). I
 
 ### The shock
 
-Not on this Saturday morning, nope. June 2020's AWS bill was a heart palpitation causing **$2,657.68** ([JPG](https://shortcdn.com/file/chrisshort/invoice498711077_redacted.jpg)). I audibly gasped, "Keep your shit together." I thought to myself. Max was leaned up against me drinking his milk. I know he could tell something was wrong because he looked at the laptop screen. I only assume when he saw letters and numbers, he thought, "Adult stuff... These cartoons and this Cinnamon Toast Crunch tho." 2020 being the year that it is and my military history being what it is, I've been diagnosed with a panic disorder (on top of the PTSD and physical injuries).
+Not on this Saturday morning, nope. June 2020's AWS bill was a heart palpitation causing **$2,657.68** ([JPG](https://shortcdn.com/chrisshort/invoice498711077_redacted.jpg)). I audibly gasped, "Keep your shit together." I thought to myself. Max was leaned up against me drinking his milk. I know he could tell something was wrong because he looked at the laptop screen. I only assume when he saw letters and numbers, he thought, "Adult stuff... These cartoons and this Cinnamon Toast Crunch tho." 2020 being the year that it is and my military history being what it is, I've been diagnosed with a panic disorder (on top of the PTSD and physical injuries).
 
 ### The panic
 
@@ -56,17 +56,16 @@ What's diverged?
 
 How do we get things back to normal?
 
-{{< eo_signup >}}
 
 I login to the AWS console, hoping I got some output that was uniquely off this month. Weirder stuff has happened (like [S3 going down](https://aws.amazon.com/message/41926/)). This bill couldn't be more out of the norm than ever. This AWS bill is several hundred dollars more than our mortgage! I hit the AWS Billing page and am deeply saddened by what I see:
 
-![AWS Billing landing page showing a $2,657.68 balance](https://shortcdn.com/file/chrisshort/aws-bill-landing-page.png)
+![AWS Billing landing page showing a $2,657.68 balance](https://shortcdn.com/chrisshort/aws-bill-landing-page.png)
 
 There it was. **$2,657.68**, staring at me. "This can't be legit." Drilling down even further, it looks like it is indeed legitimate traffic from the cdn.chrisshort.net S3 bucket in us-east-2. In total, **more than 30.6 terabytes of traffic** had moved out of that one S3 bucket. WHEN?!? Did this just happen? Nope.
 
-![AWS data transfer billing break down](https://shortcdn.com/file/chrisshort/aws-june-2020-data-transfer.png)
+![AWS data transfer billing break down](https://shortcdn.com/chrisshort/aws-june-2020-data-transfer.png)
 
-![S3 Activity](https://shortcdn.com/file/chrisshort/june-23-24-2020-s3-breakdown.png)
+![S3 Activity](https://shortcdn.com/chrisshort/june-23-24-2020-s3-breakdown.png)
 
 **30.6 TB?!?!** how is that even possible???
 $1,011.59 on 23 June 2020.
@@ -74,10 +73,10 @@ $1,639.07 on 24 June 2020.
 
 I immediately open a ticket with AWS Support frantically wondering what broke? How is this even possible? Did someone bypass Cloudflare? What the hell is Cloudflare saying?
 
-![Cloudflare 22 June 2020](https://shortcdn.com/file/chrisshort/cloudflare_june_22_2020.png)
+![Cloudflare 22 June 2020](https://shortcdn.com/chrisshort/cloudflare_june_22_2020.png)
 Oh cool, Cloudflare let those 2,700 requests passthrough completely uncached? How is that not anomaly detected as a DDoS??? How is it that barely a fraction of the traffic is cached (more on that later)?
 
-![Cloudflare 23 June 2020](https://shortcdn.com/file/chrisshort/cloudflare_june_23_2020.png)
+![Cloudflare 23 June 2020](https://shortcdn.com/chrisshort/cloudflare_june_23_2020.png)
 Oh, another 4,400 requests the next day... Sweet, baby Jesus. Oh, but you served 9 GB from cache. Thanks, Cloudflare.
 
 ## Help Arrives

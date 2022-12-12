@@ -9,13 +9,12 @@ slug = "devopsdays-raleigh-2017-dark-side-of-devops"
 tags = ["devops", "talks", "devopsdays"]
 title = "DevOpsDays Raleigh 2017: The Dark Side of DevOps"
 [cover]
-image = "https://shortcdn.com/file/chrisshort/dark-side-of-devops-raleigh-2017.jpg"
+image = "https://shortcdn.com/chrisshort/dark-side-of-devops-raleigh-2017.jpg"
 
 +++
 
 I helped organize and spoke at [DevOpsDays Raleigh 2017](https://www.devopsdays.org/events/2017-raleigh/welcome/) back in September. From an organizers perspective the team was fantastic! If you ever have the opportunity to organize an event with any of the fine organizers in Raleigh you will be learning from true professionals.
 
-{{< eo_signup >}}
 
 From a speaker's perspective it was a blast. I had the opportunity to convert my article [The Dark Side of DevOps](/the-dark-side-of-devops/) into a talk. While it went very well I wish I could have elaborated more on it in the future. There is so much story to tell! But, I held back a little because in the audience there were former co-workers who had been on these journeys with me.
 
@@ -27,6 +26,6 @@ Something I learned by giving this talk is that discussing personal experiences 
 
 ## Slides
 
-<embed src="https://shortcdn.com/file/chrisshort/The%20Dark%20Side%20of%20DevOps.pdf" width="100%" height="480" alt="pdf" />
+<embed src="https://shortcdn.com/chrisshort/The%20Dark%20Side%20of%20DevOps.pdf" width="100%" height="480" alt="pdf" />
 
 These slides are also available on [Speaker Deck](https://speakerdeck.com/chrisshort/the-dark-side-of-devops) and [video is also available](/video-devopsdays-raleigh-2017/).

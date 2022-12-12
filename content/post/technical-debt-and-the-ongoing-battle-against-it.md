@@ -8,7 +8,7 @@ slug = "technical-debt-and-the-ongoing-battle-against-it"
 tags = ["technical debt", "DevOps", "systemd", "AWS"]
 title = "Technical Debt and the Ongoing Battle Against It"
 [cover]
-image = "https://shortcdn.com/file/chrisshort/technical-debt.jpg"
+image = "https://shortcdn.com/chrisshort/technical-debt.jpg"
 caption = "Photo: [Twitter](https://twitter.com/Carnage4Life/status/585458646680670208)"
 +++
 
@@ -20,7 +20,6 @@ I have been trying to fit a lot of square pegs into round holes lately. Eliminat
 
 Technical debt often prevents you from rolling out features faster. Time is the reality that sucks the fun out of a lot of great ideas. Not proud of this, but I occasionally pull out Ansible as a substitute for [log aggregation](http://www.devopsbookmarks.com/monitoring). A simple grep across an Ansible group can save the day sometimes. It is elegant in the sense it is low cost and high gain. It is hammering a screw through a cinder block to an extent but it is a means to an end.
 
-{{< eo_signup >}}
 
 However, most people know that there are a lot of benefits to proper log aggregation. Business and DevOps have to coalesce to remove the technical debt boat anchor. Adding new features that benefit Development and Operations is hard but the benefits typically flow back to customers quickly.
 

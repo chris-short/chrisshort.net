@@ -9,7 +9,7 @@ slug = "fear-and-loathing-in-yaml"
 tags = ["YAML", "DevOps", "markup", "Puppet", "CFEngine", "Kubernetes", "human-readable", "machine-readable", "code", "YAML spec", "language", "XML", "JSON", "systems", "infrastructure", "yq", "syntax", "git", "open source"]
 title = "Fear and Loathing in YAML"
 [cover]
-image = "https://shortcdn.com/file/chrisshort/pexels-christina-morillo-1181325.jpg"
+image = "https://shortcdn.com/chrisshort/pexels-christina-morillo-1181325.jpg"
 
 +++
 
@@ -35,7 +35,6 @@ It irked me that the YAML creators laid out goal #1 as "YAML is easily readable 
 
 Here I was, relatively fresh to the DevOps game, learning some core developer concepts to understand a markup language, the crux of which was two Achilles heels. I also didn't like how big, bulky, and cumbersome Puppet was to work with. But, here I was thrust headfirst into this world. Might as well make the best of it. I've since embraced YAML, but it doesn't mean I'm writing my notes in YAML format.
 
-{{< eo_signup >}}
 
 Close to ten years later, I see YAML in the same somewhat offputting light. It's not friendly to new people in the same sense [git](https://git-scm.com/) isn't. [Kubernetes](https://www.kubernetes.dev/) has almost abused YAML to the point that it has become a punchline. And we've stuck ourselves with it for a long time to come too. If Kubernetes is the platform of the future, that means we'll be using a spec written in 2009 well into the 2030s (and likely beyond).
 

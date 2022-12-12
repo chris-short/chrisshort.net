@@ -9,13 +9,12 @@ slug = "cable-vs-dsl"
 tags = ["internet", "networking"]
 title = "Cable vs. DSL"
 [cover]
-image = "https://shortcdn.com/file/chrisshort/network-cables.jpg"
+image = "https://shortcdn.com/chrisshort/network-cables.jpg"
 
 +++
 
 Recently there has been a huge push by digital subscriber line (DSL) providers to take a bigger chunk of the broadband market away from cable internet service providers. This has become even more apparent in recently thanks to Verizon and SBC (and I'm sure others will follow suit) dropping their prices dramatically. This is good for broadband subscribers and people looking into broadband because the cost of high speed Internet services is coming down. DSL and cable broadband both have their advantages and disadvantages but DSL seems to be the one lacking in quite a few areas and their marketing shows it.
 
-{{< eo_signup >}}
 
 DSL has many, many different types or versions. Asynchronous Digital Subscriber Lines (ADSL) are typically what most DSL providers offer to home users. These typically have a cap of 1.5 Mbps download speed and a provider specific upload speed that's usually a significantly lower data rate. ADSL has a max speed of about 8 Mbps but this is rarely seen by home users (or even business users, for that matter). Symmetric Digital Subscriber Lines (SDSL) offer a greater upload speed (a max of about 2.3 Mbps) and an equal download speed (max of 2.3 Mbps). This is what is typically marketed to business customers as a replacement to the expensive dedicated leased lines, like T1s and fractional T1s offered by numerous companies. SDSL though is significantly more expensive because of their increased capability (which makes perfect sense). There are several other versions or types of DSL but ADSL and SDSL are your two typical flavors found just about everywhere. As the case with any DSL line, it's a dedicated circuit between your location (home, building, apartment, etc.) and the Telco. There are also limits to the distance a DSL circuit can be run. So even if DSL is available in your area, your specific phone line might not be able to get it. DSL also requires some trickery in terms of wiring jacks with filters so that your phone system still works as it should when you're also connecting to a DSL service. Cable requires a filter as well but one filter (or the removal of a filter depending on your cable company) works for every jack in your home.
 

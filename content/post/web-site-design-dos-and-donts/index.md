@@ -8,7 +8,7 @@ tags = ["search", "search engine", "search engine rankings", "search engine opti
 title = "Web Site Design Do's and Don'ts"
 ShowToc = true
 [cover]
-image = "https://shortcdn.com/file/chrisshort/web-site-design-do's-and-don'ts.svg"
+image = "https://shortcdn.com/chrisshort/web-site-design-do's-and-don'ts.svg"
 caption = "Web Site Design Do's and Don'ts"
 +++
 
@@ -93,6 +93,5 @@ When adding something to your site ask yourself how it will effect users. If it 
 * Add content often, no one likes a site that doesn't change. Stale pages drop quickly is search engine rankings.
 * Validate, validate, validate! Conform to web standards. They're there for a reason.
 * Make sure your site has well formed HTML or XHTML with the [W3C Markup Validation Service](https://validator.w3.org/) and the [WDG HTML Validator](http://gnu.univ.gda.pl/wdg-html-validator/).
-* Nothing drives people away more than broken links.  Use a link checker to check all links within and leaving your site. [W3C Link Checker](https://validator.w3.org/checklink) and [Dr. Watson](http://watson.addy.com/) are two good places to check your links.
+* Nothing drives people away more than broken links.  Use a link checker to check all links within and leaving your site. [W3C Link Checker](https://validator.w3.org/checklink) and Dr. Watson (RIP) are two good places to check your links.
 
-{{< eo_signup >}}

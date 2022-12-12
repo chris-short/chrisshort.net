@@ -26,4 +26,3 @@ Source: [Golang to the rescue: Saving DevOps from TLS turmoil](https://youtu.be/
 
 {{< speaker >}}
 
-{{< eo_signup >}}

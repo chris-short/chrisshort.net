@@ -8,7 +8,7 @@ ShowTOC = false
 tags = ["tactical", "strategic", "efficacy", "efficiency", "strategy"]
 title = "Tactical efficiency does not replace strategic efficacy"
 [cover]
-image = "https://shortcdn.com/file/chrisshort/chris-short-thinking.jpg"
+image = "https://shortcdn.com/chrisshort/chris-short-thinking.jpg"
 
 +++
 I used to think of industry analysts as 100% worthless to the broader technology world. After meeting [Chris Gardner](https://www.forrester.com/Chris-Gardner) from Forrester, some of the good folks from [RedMonk](https://redmonk.com/), and working with Red Hat's Analyst Relations team, I've warmed up to Analysts a little. They serve an important function that a lot of us forget:
@@ -25,7 +25,6 @@ There are people in your organization working on strategy right now. Find them, 
 
 While rude, I interpret this response as more of a complaint than an insult. Years in the industry have shown me a strategy usually is a collaborative effort. It takes data points from across the organization (calls like the one I had on a Saturday morning) and the industry at large. Accounting for all the people, processes, and tools that may or may not exist in a strategic vision is hard and requires tactical execution to get things back on track.
 
-{{< eo_signup >}}
 
 Communicating the state of where things are and where they need to be going requires literal diplomacy. It's a skill that has to be honed over time and through experience. I build these mental graphs that are near impossible to explain in laypersons terms. But, as I did this week with an engineer, strategists should be able to pluck out some data points and pathways to describe a more significant issue. The other half is the fact that strategists spend their time working in domains that shield others from it. I spend some time every week in the diplomacy space. Diplomacy usually means being human and having empathy while addressing shared problems. What it often gets interpreted as is "politics." To which I say, "Check your definition."
 

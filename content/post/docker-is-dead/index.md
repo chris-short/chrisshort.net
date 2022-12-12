@@ -14,7 +14,7 @@ aliases = [
     "/docker-inc.-is-dead/"
 ]
 [cover]
-image = "https://shortcdn.com/file/chrisshort/docker-is-dead.png"
+image = "https://shortcdn.com/chrisshort/docker-is-dead.png"
 +++
 
 > **DISCLAIMER**: The views expressed in this article are solely mine. They do not reflect the opinion of Cloud Native Computing Foundation (I'm a [CNCF Ambassador](/chris-short-named-cloud-native-ambassador/)), nor Red Hat, nor that of any group I am affiliated with, sponsored by, or employed by.
@@ -27,7 +27,6 @@ To say that [Docker](http://petty.company/) had a very rough 2017 is an understa
 
 To be clear, Docker has helped revolutionize software development. Taking Linux primitives like cgroups, namespaces, process isolation, etc. and putting them into a single tool is an amazing feat. In 2012, I was trying to figure out how development environments could be more portable. Docker's rise allowed a development environment to become a simple, version controllable Dockerfile. The tooling went from Packer, Vagrant, VirtualBox, and a ton of infrastructure to Docker. The Docker UI is actually pretty good too! It's a good tool with many applications. The folks on the Docker team should be very proud of the tooling they built.
 
-{{< eo_signup >}}
 
 ## Docker is a Silicon Valley Darling
 

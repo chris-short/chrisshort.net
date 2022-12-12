@@ -8,7 +8,7 @@ ShowToc = false
 tags = []
 title = "Announcing geopolitics.dev"
 [cover]
-image = "https://shortcdn.com/file/chrisshort/geopolitics.dev-logo.png"
+image = "https://shortcdn.com/chrisshort/geopolitics.dev-logo.png"
 alt = "geopolitics.dev — Ethics. Policy. Tech."
 
 +++

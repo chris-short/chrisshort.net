@@ -8,7 +8,7 @@ slug = "2019-learnings-2020-expectations"
 tags = ["DevOps", "developer", "open source", "Kubernetes", "developer experience", "security", "code", "health care", "China", "Docker", "GitOps", "Red Hat", "IBM", "cloud", "cloud native", "API", "WebAssembly", "Wasm", "community", "infrastructure", "AWS", "InfoSec", "software", "chronic pain", "velocity", "medically separated"]
 title = "2019 Learnings, 2020 Expectations"
 [cover]
-image = "https://shortcdn.com/file/chrisshort/happy-new-year-gold.jpg"
+image = "https://shortcdn.com/chrisshort/happy-new-year-gold.jpg"
 
 +++
 
@@ -20,7 +20,6 @@ A former co-worker and now friend has a tagline, â€œEvery day is a school day.â€
 
 This will allow for the Kubernetes project, much like Linux to an extent, to fade into the background. It's no longer a matter of is an org or isn't an org using Linux. It's `yum`/`dnf` versus `apt`/`apt-get` or, "What package manager am I using here?" Much like how I stopped caring about which distro I'm using, Kubernetes is starting to get the tooling around it to allow folks using it to focus on what matters, business logic.
 
-{{< eo_signup >}}
 
 ## DevOps
 
@@ -98,7 +97,7 @@ Nothing hurt as bad as the VA telling me there was nothing else they could do fo
 
 ## DevOps'ish
 
-[One hundred sixty issues and still going strong](https://devopsish.com/160/). I did take my first vacation from the newsletter ever this year when we went to Yosemite. But, the newsletter is at a weird point. It needs promotion to grow, but I need sponsors to get the funding to promote it. Marketing is hard. It's even harder when you're the one touching the dollars and cents too. But, I did manage to build a shiny, new [DevOps'ish Sponsorship Prospectus](https://devopsish.com/sponsor/DevOps'ish_Sponsorship_Prospectus.pdf). If you work at a company that wants to market to Kubernetes, cloud, developer, and DevOps folks every week, send it over to your marketing and events teams.
+[One hundred sixty issues and still going strong](https://devopsish.com/160/). I did take my first vacation from the newsletter ever this year when we went to Yosemite. But, the newsletter is at a weird point. It needs promotion to grow, but I need sponsors to get the funding to promote it. Marketing is hard. It's even harder when you're the one touching the dollars and cents too. But, I did manage to build a shiny, new [DevOps'ish Sponsorship Prospectus](https://devopsi.sh/prospectus). If you work at a company that wants to market to Kubernetes, cloud, developer, and DevOps folks every week, send it over to your marketing and events teams.
 
 Another noteworthy moment about sponsorships of DevOps'ish: This year was the first year I had to decline a sponsorship due to a potential quid pro quo situation. It's hard to balance working at a vendor and writing a newsletter about the parts of the same industry. If a prospective Red Hat partner is working with me on something and mentions DevOps'ish sponsorship, I have to say no. I think for the first time, I will have to talk to counsel about [DevOps'ish](https://devopsish.com/) in 2020.
 

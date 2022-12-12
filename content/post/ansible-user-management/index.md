@@ -6,7 +6,7 @@ date = 2016-09-27T16:15:00Z
 description = "Puppet was too cumbersome for simple user management. Ansible came in to save the day in less than half an hour."
 ShowToc = false
 draft = false
-image = "https://shortcdn.com/file/chrisshort/ansible_circleA_blue.png"
+image = "https://shortcdn.com/chrisshort/ansible_circleA_blue.png"
 slug = "ansible-user-management"
 tags = ["ansible", "DevOps", "users"]
 title = "User Management with Ansible"
@@ -22,7 +22,6 @@ A few weeks ago, one of my [**DevOps**](https://devopsish.com/) counterparts was
 
 User management usually falls into one of two categories; disjointed or a monumental effort. This Ansible solution could be that nice middle ground between the disjointed and monumental.
 
-{{< eo_signup >}}
 
 There are probably a dozen or more ways to manage users with Ansible. But for the quick and dirty requirement to add specific (and intelligent) users, I believe this Ansible role is a good approach.
 

@@ -7,7 +7,7 @@ draft = false
 tags = ["OpenShift", "Red Hat", "Kubernetes", "Ansible", "Operators", "Cloud Native"]
 title = "Joining forces with OpenShift"
 [cover]
-image = "https://shortcdn.com/file/chrisshort/ansible-to-openshift.png"
+image = "https://shortcdn.com/chrisshort/ansible-to-openshift.png"
 
 +++
 
@@ -25,7 +25,6 @@ When I announced I was joining the Ansible team, I wrote, "[I'd like to work to 
 
 Last month, [I wrote about burnout in DevOps'ish](https://devopsish.com/137/), "Values mismatch is something I am struggling with right now in my own position. I highly value working in the Kubernetes community. One of my personal goals is to work full time on Kubernetes (or closer to the core of it). However, my job on the Ansible team doesn't directly benefit from this work. It does feel like I'm being stretched incredibly thin by the [#7 and #8 open source projects in the world](https://octoverse.github.com/). But, I also think that there are indirect benefits of this work. The problem is that it could lead to a perceived lack of fairness. I'm gallivanting across the cloud native countryside some days while my co-workers are pushing the Ansible go to market strategy. Open source is weird."
 
-{{< eo_signup >}}
 
 The past year on the Ansible team has been filled with ups and downs. Don't get me wrong, [the first few months working on the Ansible team were phenomenal](/the-importance-of-psychological-safety/). I won an award voted on by my peers and leadership, I was doing work, and getting great feedback. But, after [the IBM acquisition announcement](/one-fish-two-fish-blue-fish-sporting-new-red-hat/) and changes in my reporting chain, I wasn't getting what I needed anymore.
 
@@ -35,7 +34,7 @@ I was still able to do good work, but it was harder to be passionate about Ansib
 
 I still [managed to do quite a bit](/resume/) in the fourteen months on the Ansible team as a product marketer:
 
-[![Twitter thread on Ben Cotton and I's One Year Red Hat Anniversaries](https://shortcdn.com/file/chrisshort/red-hat-anniversary-tweet.png#center)](https://twitter.com/FunnelFiasco/status/1143476930425102336)
+[![Twitter thread on Ben Cotton and I's One Year Red Hat Anniversaries](https://shortcdn.com/chrisshort/red-hat-anniversary-tweet.png#center)](https://twitter.com/FunnelFiasco/status/1143476930425102336)
 
 One unique opportunity was being part of a group of folks that helped adopt [Molecule](https://github.com/ansible/molecule) as an Ansible project. Seeing how that worked and played out; the intricate wordsmithing and between the line reading skills needed are next to mastery. But, one thing I helped drive home was that clearer communications are less on words and more about substance.
 
@@ -51,6 +50,6 @@ I started to work on what I thought would be a relatively simple project: a glob
 
 Thank you to the Ansible team and especially my Ansible marketing teammates. You've brought me into Red Hat, welcomed me with open arms, and shared your knowledge (and your dogs) with me. You have all been wonderful teammates! I look forward to continuing to work together more as Red Hatters in the very near future (which is tomorrow).
 
-![Ansible has already won](https://shortcdn.com/file/chrisshort/ansible-has-already-won.png#center)
+![Ansible has already won](https://shortcdn.com/chrisshort/ansible-has-already-won.png#center)
 
-[![Ansible](https://shortcdn.com/file/chrisshort/Ansible-Mark-Large-RGB-Mango.png#center)](https://www.ansible.com/)
+[![Ansible](https://shortcdn.com/chrisshort/Ansible-Mark-Large-RGB-Mango.png#center)](https://www.ansible.com/)

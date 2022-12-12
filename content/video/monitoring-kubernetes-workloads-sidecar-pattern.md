@@ -18,10 +18,9 @@ ShowTOC = false
 >
 > In this webinar, Sensu CEO and co-founder Caleb Hailey will review some of the existing and popular patterns for monitoring Kubernetes (like Prometheus), and what gaps remain outstanding, especially when it comes to monitoring the applications running on Kubernetes. He'll go over best practices for monitoring workloads on K8s, including the sidecar pattern for monitoring.
 
-Download as [MP4](https://shortcdn.com/file/chrisshort/Monitoring-Kubernetes-workloads-sidecar-pattern.mp4)
+Download as [MP4](https://shortcdn.com/chrisshort/Monitoring-Kubernetes-workloads-sidecar-pattern.mp4)
 
 Source: [Monitoring Kubernetes Workloads: The Sidecar Pattern - Cloud Native Computing Foundation](https://www.cncf.io/online-programs/monitoring-kubernetes-workloads-the-sidecar-pattern/)
 
 {{< speaker >}}
 
-{{< eo_signup >}}

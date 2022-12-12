@@ -1,6 +1,6 @@
 +++
 author = "Chris Short"
-categories = ["Philosophy", "2021", "2022"]
+categories = ["Philosophy", "Privacy", "2021", "2022"]
 date = 2022-01-08T07:00:00Z
 description = "Chris Short looks back at 2021 and looks ahead to 2022."
 draft = false
@@ -8,7 +8,7 @@ slug = "2021-learnings-2022-expectations"
 tags = ["live streaming", "open source", "Arm", "serverless", "privacy", "Kubernetes", "Open Source Surety", "containers", "supply chain", "community", "AWS", "Facebook", "cluster", "Artifact Hub", "pandemic", "working from home", "CNCF", "Intel", "compute", "developer", "Docker", "Los Angeles", "Kabul", "infrastructure", "DevOps", "code", "chips", "COVID-19", "nuclear", "iPhone", "Nvidia", "Restream", "Streamyard"]
 title = "2021 Learnings, 2022 Expectations"
 [cover]
-image = "https://shortcdn.com/file/chrisshort/hopefully.jpg"
+image = "https://shortcdn.com/chrisshort/hopefully.jpg"
 
 +++
 
@@ -95,7 +95,7 @@ A lot of tooling exists to help with this ([direnv](https://direnv.net/), among 
 
 ### Security in 2022
 
-We have so much work to do as an industry. The F.U.N. police are coming! The [Log4j vulnerabilities](https://devopsish.com/tags/Log4j) (how many are we up to now?) shows how important open source is in our day and age. But, all the money in the world wouldn't have fixed this problem. We need to identify industry-wide, critically important software. Then we need to figure out how to get the biggest consumers of those open source projects to support the projects they're using the most.
+We have so much work to do as an industry. The F.U.N. police are coming! The [Log4j vulnerabilities](https://devopsish.com/tags/log4j/) (how many are we up to now?) shows how important open source is in our day and age. But, all the money in the world wouldn't have fixed this problem. We need to identify industry-wide, critically important software. Then we need to figure out how to get the biggest consumers of those open source projects to support the projects they're using the most.
 
 This isn't something any organization in existence is capable of doing (at least not one I've heard). This open source surety effort will need a [US Digital Service](https://www.usds.gov/) or [GSA 18F](https://18f.gsa.gov/) style organization solely focused on this. Yes, some government backing is critical. I know that will lead to politics, but, at this point, the essential nature of the internet necessitates it. Think of a [PBS](https://www.pbs.org/) for open source surety. An open source surety organization that can take government and private funds will be vital. Citizens alone should not foot the bill. Surety orgs will need an elegant, lightweight reporting structure up through whatever national security arm of government they report. They'll need an ambassador that can go out and talk to folks at organizations and get them to understand the necessity of this work and ultimately fund the effort. This surety organization will incubate technologies, create or adopt standards, and teach many people how to build secure software from the start. This will be the ultimate benefit to the public good of the open source surety organization.
 
@@ -117,4 +117,3 @@ When the pandemic started, I steeled myself for a seven-year ordeal (this is why
 
 Whatever new hell faces us in 2022, we'll be doing it together. Never forget that working as a global team will always trump working with animosity towards each other. We can do more by working openly and genuinely than we ever think possible.
 
-{{< eo_signup >}}

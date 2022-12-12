@@ -17,7 +17,6 @@ aliases = [
 
 What is a blog? Blog is short for weblog. Blogger.com defines a blog/weblog as, "a web page made up of usually short, frequently updated posts that are arranged chronologically - like a what's new page or a journal. The content and purposes of blogs varies greatly - from links and commentary about other web sites, to news about a company/person/idea, to diaries, photos, poetry, mini-essays, project updates, even fiction."
 
-{{< eo_signup >}}
 
 Blogs are essentially evolution of Internet communications. E-mail, instant messaging, newsgroups and forums are all great forms of communication but a weblog or blog offers unique, personal communication on a global scale. Also, blogs have become increasing simple to implement and there are numerous "turn-key" solutions to creating a blog. The weblog's ease of use is a key factor in their increasing popularity. Not only can blogs be easy to setup they are easy to maintain and update. Once a blog is created adding content can be as simple as typing and sending an e-mail. The ease of use of blogs is probably the key reason for their rampant popularity. However, their ease of use could be their demise.
 

@@ -9,7 +9,7 @@ slug = "chefconf-2018-devops-is-not-war"
 tags = ["speaking", "talks", "devops", "chefconf", "war", "cloud"]
 title = "ChefConf 2018: DevOps is Not War"
 [cover]
-image = "https://shortcdn.com/file/chrisshort/chris-short-thucydides-trap.jpg"
+image = "https://shortcdn.com/chrisshort/chris-short-thucydides-trap.jpg"
 caption = "Photo Courtesy of Kim McMahon"
 
 +++
@@ -30,4 +30,3 @@ The event morphed my bias of Chef from a niche tool to a formidable accompanimen
 
 {{< youtube MDu6wL1DWY4 >}}
 
-{{< eo_signup >}}

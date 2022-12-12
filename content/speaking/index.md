@@ -15,13 +15,33 @@ aliases = [
 
 {{< speaker >}}
 
-{{< eo_signup >}}
 
 ## Interviews
 
 If you're looking for podcasts or interviews I've took part in, please head over to the [**Interviews**](/interviews/) page.
 
 ## Talks
+
+### Live stream: What ultra-successful people who practice DevRel know and do
+
+Date: 2022-08-16  
+[**Watch Now**](/video/what-ultra-successful-people-who-practice-devrel-know-and-do/)
+
+Wesley Faulkner, Sr, Community Manager at AWS and Chris Short, Sr. Developer Advocate for a discussion about getting decision makers to buy-in in the #DevRel space.
+
+### GitOpsCon EU 2022
+
+Date: 2022-05-17  
+[**Watch Now**](/video/gitopscon-eu-2022/)
+
+I had the pleasure of opening and closing GitOpsCon EU 2022. It was the first time we had two tracks and the event was very well attended. I managed Track 2 while the other chairs managed the larger room on their own. I wrote about GitOpsCon EU 2022 (and the rest of KubeCon EU 2022) in [DevOps'ish 268](https://devopsish.com/268/).
+
+### AWS Container Days @ KubeCon + CloudNativeCon Europe 2022 — Day 3
+
+Date: 2022-05-15  
+[**Watch Now**](/video/aws-container-days-eu-2022-day-3/)
+
+> Join us for AWS Containers Days @ KubeCon + CloudNativeCon Europe 2022! In the days leading up to Kubecon + CloudNativeCon we’ll be spending the week talking about how you can deploy, manage, and scale containerized applications using Kubernetes on AWS. These sessions, led by our AWS Kubernetes team and guest speakers, will contain technical deep dives, product demos, and best practices.
 
 ### Panel Discussion: Marketing as Code: How to Rock Out with Non-Code Contributions — KubeCon + CloudNativeCon NA 2021
 
@@ -30,7 +50,7 @@ Date: 2021-10-23
 
 > For new folks in the CNCF space, becoming a contributor may sound daunting, and even overwhelming. But guess what? There are tons of ways to contribute apart from code. 5 members of the Contibex Marketing working group (Kunal, Bart, Chris, Kaslin, and Matt) are all participating and contributing through positive attitudes, documentation, networking, videos, drawings, and even raps. They want to share the welcoming spirit of the CNCF where no contribution is too small, and everyone will have something to share. Contributors' stories must be heard, and that's where the upstream marketing team comes in. (This proposal is for the Students' track)
 
-## KubeCon + CloudNativeCon Daily Wrap Up: Tuesday — KubeCon + CloudNativeCon NA 2021
+### KubeCon + CloudNativeCon Daily Wrap Up: Tuesday — KubeCon + CloudNativeCon NA 2021
 
 Date: 2021-10-12  
 [**Watch Now**](/video/kcna-2021-tuesday-wrap-up/)
@@ -105,7 +125,7 @@ Event: [JFrog swampUP 2019](https://swampup.jfrog.com/)
 ### How to Teach Old Apps New Tricks with Ansible-based Operators (Parts 1 & 2)
 
 Date: 2019-05-08  
-Event: [Red Hat Summit 2019](https://www.redhat.com/en/summit/2019)  
+Event: [Red Hat Summit 2019](https://web.archive.org/web/20200219212038/https://www.redhat.com/en/summit/2019)  
 Slides: [How to Teach Old Apps New Tricks with Ansible-based Operators (Parts 1 & 2)](https://speakerdeck.com/chrisshort/how-to-teach-old-apps-new-tricks-with-ansible-based-operators-parts-1-and-2)  
 Blog Post: [How to Teach Old Apps New Tricks with Ansible-based Operators (Parts 1 & 2)](/how-to-teach-old-apps-new-tricks-with-ansible-based-operators-parts-1-2/)
 
@@ -274,7 +294,7 @@ Event: [DevOpsDays Detroit 2017](https://www.devopsdays.org/events/2017-detroit/
 Date: 2017-07-12  
 [**Watch Now**](/video/gophercon-2017-lightning-talk/)
 
-Event: [GopherCon 2017](https://gophercon.com)  
+Event: [GopherCon 2017](https://github.com/gophercon/2017-talks)  
 
 ### A Night of DevOps at Open Source South Carolina
 

@@ -22,7 +22,7 @@
         {{- end }}
     {{- else }}{{/* For absolute urls and external links, no img processing here */}}
         {{- if $addLink }}<a href="{{ (.Params.cover.image) | absURL }}" target="_blank" rel="noopener"
-            rel="noopener noreferrer">{{ end -}}
+            rel="noopener noreferrer" loading="lazy">{{ end -}}
             <img src="{{ (.Params.cover.image) | absURL }}" alt="{{ $alt }}">
     {{- end }}
     {{- if $addLink }}</a>{{ end -}}

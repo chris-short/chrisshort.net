@@ -11,18 +11,17 @@ aliases = [
      "ntp-go-ahead-and-love-it"
 ]
 [cover]
-image = "https://shortcdn.com/file/chrisshort/Trento-Mercatino_dei_Gaudenti-alarm_clocks.jpg"
+image = "https://shortcdn.com/chrisshort/Trento-Mercatino_dei_Gaudenti-alarm_clocks.jpg"
 caption = "Photo Credit: [Matteo Ianeselli](https://commons.wikimedia.org/wiki/User:Ianezz) via [Wikimedia Commons](http://commons.wikimedia.org/)"
 +++
 
 It's 2016 (almost 2017) why is the time off on your system clocks? It became apparent to me that there are some folks out there that do not realize their clocks are off for a reason. [Julia Evans](https://twitter.com/b0rk) recently made a graphic about [distributed systems](https://twitter.com/b0rk/status/793288477060263936) that mentioned clock issues and it made me really sad.
 
-![Clocks Lie](https://shortcdn.com/file/chrisshort/clocks-lie.jpg#center)
+![Clocks Lie](https://shortcdn.com/chrisshort/clocks-lie.jpg#center)
 Photo Credit: [Julia Evans](http://jvns.ca/)
 
 We had a saying when I was in the Air Force, "*Timing is everything.*" We lugged around GPS receivers that hooked up to our bulk and circuit encryption devices so that they would have accurate, consistent time with other encryption devices around the world.
 
-{{< eo_signup >}}
 
 The same theory still exists in modern encryption tools today. Set your clock to some arbitrary time and try to go to an HTTPS site. You might run into some issues.
 
@@ -50,7 +49,7 @@ In a nutshell, stratum 0 sources are things like GPS, Cesium clocks, or cell net
 
 The absolute best graphical representation of the NTP stratum hierarchy I have seen comes from [Aaron Toponce](https://pthree.org/):
 
-![NTP Stratum](https://shortcdn.com/file/chrisshort/stratum.png)
+![NTP Stratum](https://shortcdn.com/chrisshort/stratum.png)
 
 Photo Credit: [Aaron Toponce](https://pthree.org/)
 
@@ -85,7 +84,7 @@ In the output of `ntpq -p` there is a header row and then details about each tim
 * **t**: Stands for types available and it is usually u for unicast (I have not seen others in my twenty some years of using NTP)
 * **when**: The last time (in seconds) the source was checked
 * **poll**: How frequently (in seconds) the daemon will check the source for timing. This number goes up incrementally as a source is deemed reliable (the max is usually 1024 but is configurable).
-* **reach**: This is an octal value of the last eight polls. 377 is eight successful polls in a row. NTP is UDP based so there is no delivery guarantee. If you want to know more about this check out [Understanding NTP Reachability Statistics](http://www.linuxjournal.com/article/6812) (or [archived here as a PDF](https://shortcdn.com/file/chrisshort/pdf/Understanding_NTP_Reachability_Statistics_Linux_Journal.pdf) since it's a twelve-year-old article).
+* **reach**: This is an octal value of the last eight polls. 377 is eight successful polls in a row. NTP is UDP based so there is no delivery guarantee. If you want to know more about this check out [Understanding NTP Reachability Statistics](http://www.linuxjournal.com/article/6812) (or [archived here as a PDF](https://shortcdn.com/chrisshort/pdf/Understanding_NTP_Reachability_Statistics_Linux_Journal.pdf) since it's a twelve-year-old article).
 * **delay**: Represents the round-trip time (in milliseconds) to obtain a response from the remote. This could represent many things; usually, it is a representation of network congestion (from my experience).
 * **offset**: Shows the difference between the client (your system) and the remote (in milliseconds).
 * **jitter**: Jitter is by far the weirdest metric here. According to the [RFC](http://www.ietf.org/rfc/rfc5905.txt), "jitter is a valuable indicator of fundamental timekeeping performance and network congestion state." [ntp.org](http://www.ntp.org/ntpfaq/NTP-s-sw-clocks-quality.htm) states, "When repeatedly reading the time, the difference may vary almost randomly. The difference of these differences (second derivation) is called jitter."

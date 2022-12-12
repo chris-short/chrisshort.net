@@ -9,7 +9,7 @@ slug = "what-the-military-taught-me-about-devops"
 tags = ["DevOps", "DevOpsDays", "talks"]
 title = "What The Military Taught Me About DevOps"
 [cover]
-image = "https://shortcdn.com/file/chrisshort/chris-short-devopsdays-detroit-2016-bridget-kromhout.jpg"
+image = "https://shortcdn.com/chrisshort/chris-short-devopsdays-detroit-2016-bridget-kromhout.jpg"
 caption = "Photo: [Bridget Kromhout](http://bridgetkromhout.com/)"
 +++
 
@@ -19,4 +19,3 @@ I was invited to speak at [DevOpsDays Detroit 2016](https://www.devopsdays.org/e
 
 {{< speakerdeck f384650d165c43ec89349d2b5cd51871 >}}
 
-{{< eo_signup >}}

@@ -9,7 +9,7 @@ slug = "leaving-bankrate"
 tags = ["job", "work", "life", "balance", "acquisition"]
 title = "Leaving Bankrate"
 [cover]
-image = "https://shortcdn.com/file/chrisshort/leaving.jpg"
+image = "https://shortcdn.com/chrisshort/leaving.jpg"
 
 +++
 
@@ -38,4 +38,3 @@ Manager, DevOps | Bankrate.com
 
 {{< tweet user="ChrisShort" id="931169601148407809" >}}
 
-{{< eo_signup >}}

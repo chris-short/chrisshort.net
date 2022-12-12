@@ -5,7 +5,7 @@ date = 2016-09-06T16:30:00Z
 description = "Ansible lineinfile module is a cumbersome one to work. Here is a use case and examples of how to utilize Ansible lineinfile"
 draft = false
 ShowToc = false
-image = "https://shortcdn.com/file/chrisshort/Ansible-Mark-Large-RGB-Black.png"
+image = "https://shortcdn.com/chrisshort/Ansible-Mark-Large-RGB-Black.png"
 slug = "ansible-lineinfile-be-damned"
 tags = ["ansible", "lineinfile", "module", "security"]
 title = "Ansible lineinfile be damned"
@@ -18,7 +18,6 @@ aliases = [
 
 The [Ansible](/tags/ansible/) [lineinfile](https://docs.ansible.com/ansible/latest/collections/ansible/builtin/lineinfile_module.html) module is designed to search a file for a line, and ensure that it is present or absent. lineinfile is very effective at that particular task. However, when the line has to be in a certain place or before or after a certain line, lineinfile becomes a hassle to manage.
 
-{{< eo_signup >}}
 
 Most people on IRC (#ansible) tend to agree, lineinfile is not a very good module in practice. Even [Brain Coca says to avoid the lineinfile module](https://groups.google.com/d/msg/ansible-project/vjquGCRcLJc/QEgebch_DQAJ). But, there is one use case I have found where line in file really excels.
 
