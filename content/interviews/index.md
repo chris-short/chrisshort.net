@@ -9,6 +9,16 @@ title = "Interviews"
 
 {{< speaker >}}
 
+## KBE Insider Detroit - Chris Short, AWS
+
+Date: 2022-11-26  
+Source: [KBE Insider - Detroit](https://kubebyexample.com/community/kbe-insider-detroit)  
+Download: [MP4](https://shortcdn.com/chrisshort/KBE_Insider_Detroit-Chris_Short-AWS.mp4)
+
+> We catch up with Chris Short, Sr. Developer Advocate at AWS, in his hometown while in Motor City for KubeCon Detroit. This fun car ride covers talk on tech bags and local Detroit tidbits to the importance of contributing to open source. Chris shares what he’s been up to at AWS, CNCF, and gives a few shout-outs to some folks who have made a difference in the community that you may not know of yet, so watch this episode and learn more!
+
+{{< youtube 9IlyDruQY_o >}}
+
 ## How Do We Protect the Software Supply Chain?
 
 Date: 2022-11-08  
