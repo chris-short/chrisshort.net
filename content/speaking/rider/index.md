@@ -3,6 +3,7 @@ author = "Chris Short"
 date = 2023-01-23T07:00:00Z
 description = "Chris Short is happy to speak at your event but, there are some things I need before I can commit."
 draft = false
+slug = "speaking/rider"
 tags = ["rider", "speaking", "public speaking", "webinar", "panel"]
 title = "Speaker Rider"
 +++
