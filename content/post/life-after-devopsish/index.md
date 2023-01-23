@@ -4,10 +4,10 @@ author = "Chris Short"
 categories = ["DevOps", "Kubernetes", "Linux", "2023"]
 date = 2023-01-15T07:00:00Z
 description = "An update on how things are going after shuttering the DevOps'ish newsletter"
-draft = false
+draft = true
 slug = "life-after-devopsish"
 tags = []
-ShowTOC = tris
+ShowTOC = true
 title = "Life after DevOps'ish"
 [cover]
 image = "https://shortcdn.com/chrisshort/shipping-container-pile.webp"
