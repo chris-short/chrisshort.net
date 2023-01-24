@@ -15,7 +15,6 @@ aliases = [
 
 {{< speaker >}}
 
-
 ## Interviews
 
 If you're looking for podcasts or interviews I've took part in, please head over to the [**Interviews**](/interviews/) page.
