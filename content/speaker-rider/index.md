@@ -11,13 +11,13 @@ Last updated 2023-01-23
 
 ## Intro
 
-I'm very happy that you're interested in having me [speak at your event](https://chrisshort.net/speaking). 
+I'm very happy that you're interested in having me [speak at your event](https://chrisshort.net/speaking).
 
-I'm always excited for an opportunity to share my knowledge and viewpoints with others. That said, I do have some requirements and standards for accepting an offered speaking slot, submitting to an open CFP, or promoting an event.
+I'm always excited for an opportunity to share my knowledge and views with others. That said, I do have some requirements and standards for accepting an offered speaking slot, submitting to an open CFP, or promoting an event I'm part of.
 
 ## Scope
 
-The scope of this speaker rider applies to any and all non-work speaking engagements. I will push back on the points below with my employer(s) privately to create a more just and equitable world.
+The scope of this speaker rider applies to any and all non-$JOB speaking engagements. I will push back on the points below with my employer(s) privately to create a more just and equitable world.
 
 ## Code of Conduct
 
@@ -64,7 +64,7 @@ I typically do not charge a speaking fee. However, if your event is a for profit
 
 "Give credit where credit is due"
 
-All my [CFPs are public](https://chrisshort.net/abstracts/). Almost all of my works are licensed [CC-BY-SA 4.0](https://chrisshort.net/copyright/) meaning, you must publish them openly and attribute credit to me as the intellectual property owner. If you want me to speak at an internal or invite only event, you are more than welcome to keep that talk private to that group, but please attribute everything to me, Chris Short, via a link to chrisshort.net or chrisshort.me as you see fit.
+All my [CFPs are public](https://chrisshort.net/abstracts/). Almost all of my works are licensed [CC-BY-SA 4.0](https://chrisshort.net/copyright/) meaning, you must publish them openly and attribute credit to me as the intellectual property owner. If you want me to speak at an internal or invite only event, you are more than welcome to keep that talk private to that group, but please attribute everything to me, Chris Short, via a link to chrisshort.net or chrisshort.me.
 
 ## Public Health and Safety
 
