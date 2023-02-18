@@ -18,7 +18,7 @@ caption = "Photo by [Albin Biju](https://www.pexels.com/photo/green-leaf-and-bur
 
 {{< carbon >}}
 
-## How'd we get here
+ How'd we get here
 
 - Health issues
 - Mounting stress of running a small business
