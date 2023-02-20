@@ -30,7 +30,7 @@ Compounding things, some of my ailments impact other ailments. We have determine
 
 ### Why Shutter DevOps'ish
 
-I did a risk vs. reward assessment on the DevOps'ish newsletter. The determination is that it put an unrealized amount of stress on me. Increasing my susceptibility to anxiety and other issues manifesting in unusual ways. When seeking out balance, at face value, running an $80K/year information-sharing business sounds great. But, comparing that against the labors and stressors that running a small business brings. Also, Max was not even one when I started DevOps'ish. Now that he's seven, our days and nights have changed. 
+I did a risk vs. reward assessment on the [DevOps'ish newsletter](https://devopsish.com). The determination is that it put an unrealized amount of stress on me. Increasing my susceptibility to anxiety and other issues manifesting in unusual ways. When seeking out balance, at face value, running an $80K/year information-sharing business sounds great. But, comparing that against the labors and stressors that running a small business brings. Also, Max was not even one when I started DevOps'ish. Now that he's seven, our days and nights have changed. 
 
 I'm confident I'm making the right move. DevOps'ish hit the inflection point of ”side project or full time operation” and that's the most I could ever ask for.
 
