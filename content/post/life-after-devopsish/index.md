@@ -10,7 +10,7 @@ tags = []
 ShowTOC = true
 title = "Life after DevOps'ish"
 [cover]
-image = "https://shortcdn.com/chrisshort/shipping-container-pile.webp"
+image = "https://shortcdn.com/chrisshort/burnt-out.jpg"
 alt = "A mint leaf and a burnt match"
 caption = "Photo by [Albin Biju](https://www.pexels.com/photo/green-leaf-and-burnt-match-on-white-background-5800355/)"
 
