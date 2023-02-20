@@ -9,6 +9,16 @@ title = "Interviews"
 
 {{< speaker >}}
 
+## KBE Insider (E17) - Chris Short
+
+Date: 2023-01-31  
+Source: [KBE Insider (E17) - Chris Short](https://www.youtube.com/live/JNK-qtjbkKE)
+Download: [MP4](https://shortcdn.com/chrisshort/KBE_Insider_E17_Chris_Short.mp4)
+
+> We kick-off 2023 with our guest and former co-host of KBE Insider, Chris Short, Sr. Developer Advocate at AWS. We’ll get updates on upcoming community events such as the Kubernetes Contributors Summit in Europe as well as KubeCon Europe, and we’ll learn more about how you can participate. Chris will also update us on the Kubernetes Contributors Communications project and why this is an important initiative for the community, especially for non-code contributors!
+
+{{< youtube JNK-qtjbkKE >}}
+
 ## KBE Insider Detroit - Chris Short, AWS
 
 Date: 2022-11-26  

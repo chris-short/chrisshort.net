@@ -22,7 +22,7 @@ Params:
     homeInfoParams:
         Title: Chris Short
         Content: >
-            MacGyver of Internet | Kubernetes Contributor | CNCF Ambassador | Disabled Veteran | He/Him/His | Work at AWS | Views solely mine
+            MacGyver of Internet | Kubernetes Contributor | CNCF Ambassador | Disabled Veteran | He/Him/His | #K8s at AWS | Views solely mine
 
     socialIcons:
         - name: github
