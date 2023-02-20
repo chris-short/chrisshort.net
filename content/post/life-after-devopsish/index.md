@@ -6,7 +6,7 @@ date = 2023-01-21T07:00:00Z
 description = "An update on how I'm doing after shuttering the DevOps'ish newsletter"
 draft = false
 slug = "life-after-devopsish"
-tags = []
+tags = ["time", "DevOps'ish", "Work-Life", "Balance", "information", "news", "business", "holidays", "anxiety", "injuries", "high blood pressure", "ailments"]
 ShowTOC = true
 title = "Life after DevOps'ish"
 [cover]
