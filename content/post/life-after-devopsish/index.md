@@ -20,15 +20,19 @@ caption = "Photo by [Albin Biju](https://www.pexels.com/photo/green-leaf-and-bur
 
 In [the last issue of DevOps'ish](https://devopsish.com/292/), I stated, "I'm under explicit doctor's orders to cut stressors out and do things that bring me more joy... I need to stop doing so much." For this post, "we" could be a combo of myself, my medical team, and my family. We've been monitoring many health metrics through many sensors. (Yes, I should put it all in Grafana, but time).
 
+> I have no days off from pain. None. Zero.
+
 ## How did we get here
 
 I [tweeted the other day](https://twitter.com/ChrisShort/status/1623689050094817280), "This country is not built for disabled people to thrive in. We're supposed to just die, I guess?" Since leaving the Air Force, the [injuries I sustained in 2003](https://chrisshort.net/ltn) have become harder to manage. My injuries affect every aspect of my life. My time in the service doesn't define me. But my injuries define me as partially disabled (70% according to the US gov't; yes, they have laws for that). I think the biggest thing to remember is that I have no days off from pain. None. Zero. I also have only so much control of it too.
 
 Adding high blood pressure to the long list of ailments has pushed the number of medications and supplements I take into the 20+ range. Getting the meds into my body requires a full-blown system of alerting and reminders across many devices. There are over 17 interactions I have to be wary of (making the timing of taking everything critical). Yet, I forget to take medications from time to time, increasing the difficulty level of life.
 
-Compounding things, some of my ailments impact other ailments. We have determined that sleep, pain, stress, blood pressure, and anxiety all affect each other. Decrease sleep, increase anxiety. Decrease anxiety, lower blood pressure, and so on. Balance is tough to achieve. But my two-mile walks are mandatory for a few of those factors. No matter how busy I am, I have to take that walk, no matter how cold, wet, or busy I am. It's a health need at this point.
+Compounding things, some of my ailments impact other ailments. We have determined that sleep, pain, stress, blood pressure, and anxiety all affect each other. Decrease sleep, increase anxiety. Decrease anxiety, lower blood pressure, and so on. Balance is tough to achieve. But my two-mile walks are mandatory for a few of those factors. No matter how busy I am, I have to take that walk, no matter how cold, wet, or windy. It's a health need at this point.
 
 ### Why Shutter DevOps'ish
+
+> DevOps'ish will not return anytime soon.
 
 I did a risk vs. reward assessment on the [DevOps'ish newsletter](https://devopsish.com). The determination is that it put an unrealized amount of stress on me. Increasing my susceptibility to anxiety and other issues manifesting in unusual ways. When seeking out balance, at face value, running an $80K/year information-sharing business sounds great. But, comparing that against the labors and stressors that running a small business brings. Also, Max was not even one when I started DevOps'ish. Now that he's seven, our days and nights have changed significantly and my injuries have too.
 
@@ -37,6 +41,8 @@ I'm confident I'm making the right move. DevOps'ish hit the inflection point of 
 Shutting down the newsletter is the biggest piece of my puzzle I have *complete* control over. Looking at all the puzzle pieces, this degree of control is rare. Given the doctor's orders and my desire to simplify life, I've decided that DevOps'ish will not return anytime soon.
 
 ### Going Forward
+
+> I'm not a breaking news source and don't want to be.
 
 I will maintain "Suggested Reads" across [r/devopsish](https://www.reddit.com/r/devopsish/), [Mastodon](https://hachyderm.io/@ChrisShort), [LinkedIn](https://www.linkedin.com/in/thechrisshort), and [Twitter](https://twitter.com/ChrisShort). This can change at Elon Musk's (plus Zapier's and Buffer's) whims. I never thought a self-absorbed tech CEO would be a dependency I took. Mastodon is going to be less popular than Twitter. It will be a sizable social network, but it's not a drop-in Twitter replacement for the masses.
 
