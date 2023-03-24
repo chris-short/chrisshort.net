@@ -22,13 +22,13 @@ Params:
     homeInfoParams:
         Title: Chris Short
         Content: >
-            MacGyver of Internet | Kubernetes Contributor | CNCF Ambassador | Disabled Veteran | He/Him/His | #K8s at AWS | Views solely mine
+            MacGyver of Internet | Kubernetes Contributor | Disabled Veteran (definitely in pain) | He/Him/His | #K8s at AWS | Views solely mine
 
     socialIcons:
         - name: github
           url: https://github.com/chris-short
         - name: mastodon
-          url: https://hachyderm.io/invite/52R3N6to
+          url: https://hachyderm.io/@ChrisShort
         - name: linkedin
           url: https://www.linkedin.com/in/thechrisshort
         - name: reddit

@@ -14,7 +14,7 @@ aliases = [
 
 ## Tagline
 
-MacGyver of Internet | [Kubernetes Contributor](https://www.kubernetes.dev/) | [CNCF Ambassador](https://www.cncf.io/people/ambassadors/?p=chris-short) | [Disabled Veteran](/categories/long-thoracic-nerve-palsy/) | [He/Him/His](https://pronoun.is/he) | [#K8s](https://aws.amazon.com/eks/) at [AWS](https://aws.amazon.com/) | [Views solely mine](/terms/#disclaimer)
+MacGyver of Internet | [Kubernetes Contributor](https://www.kubernetes.dev/) | [Disabled Veteran](/categories/long-thoracic-nerve-palsy/) (definitely in pain) | [He/Him/His](https://pronoun.is/he) | [#K8s](https://aws.amazon.com/eks/) at [AWS](https://aws.amazon.com/) | [Views solely mine](/terms/#disclaimer)
 
 ## Pronouns
 
@@ -22,7 +22,7 @@ MacGyver of Internet | [Kubernetes Contributor](https://www.kubernetes.dev/) | [
 
 ## Brief Bio
 
-**Chris Short** has been a proponent of open source solutions throughout his 20+ years in various IT disciplines, including systems, security, networks, DevOps management, and cloud native advocacy across the public and private sectors. He currently works as a Developer Advocate at Amazon Web Services, is an active [Kubernetes contributor](https://www.kubernetes.dev/), and [CNCF Ambassador](https://www.cncf.io/people/ambassadors/?p=chris-short). Chris is a disabled US Air Force veteran living with his wife and son in Greater Metro Detroit. Chris writes about Cloud Native, DevOps, and other topics at [ChrisShort.net](https://chrisshort.net).
+**Chris Short** has been a proponent of open source solutions throughout his 20+ years in various IT disciplines, including systems, security, networks, DevOps management, and cloud native advocacy across the public and private sectors. He currently works as a Developer Advocate at Amazon Web Services, and is an active [Kubernetes contributor](https://www.kubernetes.dev/). Chris is a disabled US Air Force veteran living with his wife and son in  Metro Detroit. Chris writes about Cloud Native, DevOps, and other topics at [ChrisShort.net](https://chrisshort.net).
 
 ## Extended Bio
 

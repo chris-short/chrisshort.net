@@ -65,7 +65,7 @@ The second slide contained three logos that I think a lot of folks reading this 
 ### Kubernetes
 
 * I discovered Kubernetes in 2016
-* I've been a CNCF Ambassador since 2018
+* I've been a CNCF Ambassador 2018-2023
 * If you want to amp something up with CNCF or get something done in the Kubernetes community; let me know
 
 Hopefully, this is useful for folks to use during their face to face or team meetings in the future. I got a lot out of creating my portion and way more out of listening to my coworkers.
