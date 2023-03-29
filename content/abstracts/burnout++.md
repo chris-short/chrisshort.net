@@ -15,7 +15,7 @@ aliases = [
 
 ## Abstract
 
-Burnout happens at some point in everyone's career. But, what happens when burnout is taking place amongst other things? Your s/o having a miscarriage? Veteran dealing with time in service and injuries from it? Becoming unemployed? Let's discuss coping mechanisms. Let's overcome this together!
+Burnout happens at some point in everyone's career. But, what happens when burnout is taking place amongst other things? Your s/o having a miscarriage? Veteran dealing with time in service and injuries from it? Becoming unemployed? Let's discuss coping mechanisms.
 
 ## Description
 
@@ -23,19 +23,21 @@ Burnout happens at some point in everyone's career. But, what happens when burno
 
 * Definitions (sourced)
 * Who it impacts? Yes. Even kids deal with this.
-* The year of yes can turn into the year of "please stop"
+* The year of yes can turn into years of "please stop"
 
 ### Burnout+
 
 * Veteran
 * Injured
+* Have Kids
+* Have a side hustle
 * Dealing with it all
 
 ### Introduce a Little Chaos
 
 * A miscarriage
 * A job lost
-* 9/11
+* A global pandemic
 
 ### Welcome to burnout++ — Managing the Chaos
 
