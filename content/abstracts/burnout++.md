@@ -2,11 +2,11 @@
 author = "Chris Short"
 categories = ["CFP"]
 date = 2023-04-10T07:00:00Z
-description = ""
+description = "What Happens When Burnout Occurs with Other Problems"
 draft = false
 slug = "burnout++"
 tags = ["burnout"]
-title = "burnout++ (What Happens When Burnout Occurs with Other Problems)"
+title = "burnout++"
 aliases = [
     "/cfp/burnout++/"
 ]
