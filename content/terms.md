@@ -23,12 +23,7 @@ Except where otherwise noted, content on this site is licensed under a [Creative
 
 ## Disclaimer
 
-Views expressed on this site do not reflect the opinions or views of:
-
-* Amazon
-* Cloud Native Computing Foundation
-
-Nor those of any group Chris Short is or has been affiliated with or employed by.
+Views expressed on this site do not reflect the opinions or views of Amazon, AWS, nor those of any group Chris Short is or has been affiliated with or employed by.
 
 The materials on ChrisShort.net are provided on an 'as is' basis. ChrisShort.net makes no warranties, expressed or implied, and hereby disclaims and negates all other warranties including, without limitation, implied warranties or conditions of merchantability, fitness for a particular purpose, or non-infringement of intellectual property or other violation of rights.
 

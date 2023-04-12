@@ -83,7 +83,7 @@ The COVID-19 pandemic is also not over globally. I maintain the right to cancel 
 Views expressed in my talks do not reflect the opinions or views of:
 
 - Amazon
-- Cloud Native Computing Foundation
+- AWS
 - Kubernetes community
 
 Nor those of any group Chris Short is or has been affiliated with or employed by.
