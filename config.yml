@@ -37,6 +37,8 @@ Params:
           url: https://www.twitch.tv/thechrisshort
         - name: youtube
           url: https://www.youtube.com/c/ChrisShort
+        - name: flickr
+          url: https://www.flickr.com/photos/chris-short/
         - name: twitter
           url: https://twitter.com/ChrisShort
         - name: email
