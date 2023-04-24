@@ -14,7 +14,7 @@ aliases = [
 
 ## Tagline
 
-MacGyver of Internet | [Kubernetes Contributor](https://www.kubernetes.dev/) | [Disabled Veteran](/categories/long-thoracic-nerve-palsy/) (definitely in pain) | [He/Him/His](https://pronoun.is/he) | [#K8s](https://aws.amazon.com/eks/) at [AWS](https://aws.amazon.com/) | [Views solely mine](/terms/#disclaimer)
+Open Source Diplomat | [Kubernetes Contributor](https://www.kubernetes.dev/) | [Disabled Veteran](/categories/long-thoracic-nerve-palsy/) (definitely in pain) | [He/Him/His](https://pronoun.is/he) | [#K8s](https://aws.amazon.com/eks/) at [AWS](https://aws.amazon.com/) | [Views solely mine](/terms/#disclaimer)
 
 ## Pronouns
 
