@@ -89,6 +89,7 @@ Burnout can happen at any point in everyone's career. But, what happens when bur
 * Keep yourself organized
 * Realize that you need to be able to communicate effectively what's happening to you and what you're going through
 * Find habits that genuinely bring you peace
+* Let go of your fears
 
 ## Notes and Anecdotes
 
@@ -112,3 +113,4 @@ Burnout can happen at any point in everyone's career. But, what happens when bur
 * https://devopsish.com/292/
 * https://chrisshort.net/life-after-devopsish/
 * https://hbr.org/2023/04/a-two-minute-burnout-checkup
+* https://hbr.org/2023/05/when-your-employee-tells-you-theyre-burned-out
