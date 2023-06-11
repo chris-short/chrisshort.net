@@ -3,13 +3,15 @@ author = "Chris Short"
 date = 2020-11-07T00:00:01Z
 description = "Talks Chris Short has given. Webinars Chris Short has moderated."
 draft = false
-tags = ["talks", "speaking", "public speaking", "webinar"]
+tags = ["talks", "speaking", "public speaking", "public appearances", "webinars", "live streaming", "live streams"]
 title = "Speaking"
 aliases = [
     "talks",
     "talk",
     "webinar",
-    "webinars"
+    "webinars",
+    "livestream",
+    "livestreams"
 ]
 +++
 
