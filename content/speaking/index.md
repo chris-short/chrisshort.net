@@ -21,12 +21,26 @@ If you're looking for podcasts or interviews I've took part in, please head over
 
 ## Talks
 
+### AWS Container Day featuring Kubernetes at KubeCon EU 2023 (Amsterdam Amazon Office)
+
+My team at AWS was in charge of our KubeCon EU 2023 activities. Container Day was an awesome seven hour live stream (with a little bit of hybrid event chaos) all about Containers, Kubernetes, and the Cloud Native ecosystem. It was an honor to be given hosting duties alongside [Nathan Peck](https://nathanpeck.com/). It was fun to live stream again.
+
+Date: 2023-04-18
+[**Watch Now**](https://www.youtube.com/live/LGD52z0LxAA)
+
 ### Live stream: What ultra-successful people who practice DevRel know and do
 
 Date: 2022-08-16  
 [**Watch Now**](/video/what-ultra-successful-people-who-practice-devrel-know-and-do/)
 
 Wesley Faulkner, Sr, Community Manager at AWS and Chris Short, Sr. Developer Advocate for a discussion about getting decision makers to buy-in in the #DevRel space.
+
+### Live stream: KubeCon Live Q&A with Matty from Pulumi
+
+I pop into a live stream before KubeCon. We discussed some hints and hacks, managing expectations, and more.
+
+Date: 2022-05-13  
+[**Watch Now**](https://www.youtube.com/live/fZGNdpVICQU)
 
 ### GitOpsCon EU 2022
 
