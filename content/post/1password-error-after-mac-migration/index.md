@@ -17,13 +17,15 @@ alt = "MacBook Air 15 inch with 1Password logo superimposed"
 
 {{< carbon >}}
 
+## New MacBook Air 15-inch
+
 I recently decided to buy one of the new 15" MacBook Air M2 models announced at WWDC this year. Nothing was wrong with my M1 MacBook Air aside from the fact that I've always wanted a bigger screen and more RAM. The 15-inch MacBook Air delivers on both fronts with its larger screen. But, only being able to put 24 GB of RAM in the MacBook Air 15-inch shows Apple is scared of a solid Air model cannibalizing the MacBook Pro line. But this blog is about something else.
 
 I went through migrating from one Mac to another with Migration Assistant. The migration was long (I have a lot of data) but very smooth, requiring no intervention until it was ready for the usual setup prompts. Then two problems popped up around licensing, which were easy enough to fix. But, while trying to log in, I discovered 1Password had a blocking issue.
 
 ![1Password has detected an error with your local app database, please contact support@1password.com](https://shortcdn.com/chrisshort/1Password-has-detected-an-error-with-your-local-app-database.webp#center)
 
-##`1Password has detected an error with your local app database, please contact support@1password.com`
+## `1Password has detected an error with your local app database, please contact support@1password.com`
 
 1Password would not work at all. The error I was getting could have been more helpful too. I immediately had two choices:
 
