@@ -6,7 +6,7 @@ date = 2023-06-17T07:00:00Z
 description = "The most annoying 1Password error I've encountered: 1Password has detected an error with your local app database, please contact support@1password.com"
 draft = false
 slug = "1password-error-after-mac-migration"
-tags = ["1Password", "database", "error", "local app database"]
+tags = ["1Password", "database", "error", "message", "local app database", "1Password Support", "MacBook Air 15-inch", "migration"]
 ShowTOC = true
 title = "The most annoying 1Password error after Mac Migration"
 [cover]
