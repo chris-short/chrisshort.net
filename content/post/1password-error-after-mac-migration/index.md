@@ -23,7 +23,7 @@ I went through migrating from one Mac to another with Migration Assistant. The m
 
 ![1Password has detected an error with your local app database, please contact support@1password.com](https://shortcdn.com/chrisshort/1Password-has-detected-an-error-with-your-local-app-database.webp#center)
 
-## `1Password has detected an error with your local app database, please contact support@1password.com`
+##`1Password has detected an error with your local app database, please contact support@1password.com`
 
 1Password would not work at all. The error I was getting could have been more helpful too. I immediately had two choices:
 
