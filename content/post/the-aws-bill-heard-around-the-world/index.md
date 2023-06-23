@@ -15,6 +15,16 @@ image = "https://shortcdn.com/chrisshort/june-2020-aws-bill-header.png"
 
 +++
 
+## Summary
+
+Here's a summary in case you just got a scary AWS bill:
+
+I received an AWS bill for $2,700, which was much higher than expected. I traced the high bill to a 13GB disk image that he had stored in an S3 bucket and exposed through a CDN. The CDN was trying and failing to cache the disk image, which was causing high bandwidth utilization.
+
+**I contacted AWS support, and they were able to waive the bill**. This will likely be the case with you as well if this is the first time this has happened to you. AWS also explained that I could have avoided the high bill by setting the bucket to private and not using a CDN (an S3 best practice; but in this case the bucket was intentionally public for various reasons).
+
+My experience highlights the importance of understanding how AWS billing works and how to control your costs. He also recommends using a cloud cost management tool to help you track your spending.
+
 ## Update
 
 I joined Rob Hirschfeld on the [The 2030 Cloud](https://the2030.cloud/2021/07/19/security-open-links-and-big-aw-bills-w-chris-short-distance-devops-16/) where we discussed some additional behind the scenes investigatory work that went on by a nameless Amazon Web Services (AWS) employee.
