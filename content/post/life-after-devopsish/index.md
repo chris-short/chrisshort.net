@@ -16,6 +16,10 @@ caption = "Photo by [Albin Biju](https://www.pexels.com/photo/green-leaf-and-bur
 
 +++
 
+## Update (2023-06-23)
+
+I've created a page on the DevOps'ish site so that you'll always have the latest access to what I'm sharing out to social media. [**The DevOps'ish Firehose**](https://devopsish.com/firehose/) is available for your regular consumption (Bonus: there's an RSS feed)
+
 {{< carbon >}}
 
 In [the last issue of DevOps'ish](https://devopsish.com/292/), I stated, "I'm under explicit doctor's orders to cut stressors out and do things that bring me more joy... I need to stop doing so much." For this post, "we" could be a combo of myself, my medical team, and my family. We've been monitoring many health metrics through many sensors. (Yes, I should put it all in Grafana, but time).
