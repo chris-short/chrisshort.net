@@ -6,7 +6,7 @@ pygmentsStyle: trac
 pygmentsUseClasses: true
 pygmentsCodeFences: true
 pygmentsCodefencesGuessSyntax: true
-paginate: 7
+paginate: 8
 permalinks:
     post: ":title/"
 Params:
@@ -27,16 +27,16 @@ Params:
     socialIcons:
         - name: github
           url: https://github.com/chris-short
-        - name: mastodon
-          url: https://hachyderm.io/@ChrisShort
         - name: linkedin
           url: https://www.linkedin.com/in/thechrisshort
-        - name: reddit
-          url: https://www.reddit.com/r/devopsish/
         - name: twitch
           url: https://www.twitch.tv/thechrisshort
         - name: youtube
           url: https://www.youtube.com/c/ChrisShort
+        - name: reddit
+          url: https://www.reddit.com/r/devopsish/
+        - name: mastodon
+          url: https://hachyderm.io/@ChrisShort
         - name: twitter
           url: https://twitter.com/ChrisShort
         - name: email
