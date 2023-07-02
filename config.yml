@@ -33,6 +33,8 @@ Params:
           url: https://www.twitch.tv/thechrisshort
         - name: youtube
           url: https://www.youtube.com/c/ChrisShort
+        - name: tumblr
+          url: https://chrisshort.tumblr.com/
         - name: reddit
           url: https://www.reddit.com/r/devopsish/
         - name: mastodon
