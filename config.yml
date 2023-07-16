@@ -29,18 +29,18 @@ Params:
           url: https://github.com/chris-short
         - name: linkedin
           url: https://www.linkedin.com/in/thechrisshort
-        - name: twitch
-          url: https://www.twitch.tv/thechrisshort
-        - name: youtube
-          url: https://www.youtube.com/c/ChrisShort
-        - name: tumblr
-          url: https://chrisshort.tumblr.com/
-        - name: reddit
-          url: https://www.reddit.com/r/devopsish/
         - name: mastodon
           url: https://hachyderm.io/@ChrisShort
-        - name: twitter
-          url: https://twitter.com/ChrisShort
+        - name: tumblr
+          url: https://chrisshort.tumblr.com/
+        - name: flickr
+          url: https://www.flickr.com/photos/chris-short/
+        - name: reddit
+          url: https://www.reddit.com/r/devopsish/
+        - name: producthunt
+          url: https://www.producthunt.com/@chrisshort
+        - name: youtube
+          url: https://www.youtube.com/c/ChrisShort
         - name: email
           url: mailto:chrisshort@duck.com
         - name: rss
