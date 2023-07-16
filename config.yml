@@ -41,6 +41,8 @@ Params:
           url: https://www.producthunt.com/@chrisshort
         - name: youtube
           url: https://www.youtube.com/c/ChrisShort
+        - name: amazon
+          url: https://www.amazon.com/hz/wishlist/ls/35NMKHR0A10N4
         - name: email
           url: mailto:chrisshort@duck.com
         - name: rss
