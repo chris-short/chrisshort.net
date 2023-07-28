@@ -62,4 +62,3 @@ Today, Chris has found his passion in the [open source](https://chrisshort.net/t
 I'm also available via these other channels:
 
 * [Signal](https://support.signal.org/hc/en-us/articles/360007060592-Invite-friends-to-join-Signal)
-* [Telegram](https://telegram.me/ChrisShort)
