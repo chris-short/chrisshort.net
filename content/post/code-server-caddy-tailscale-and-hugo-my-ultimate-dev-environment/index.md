@@ -118,7 +118,7 @@ For testing purposes only, my first run at this exposed the server publicly to t
 
 ### A brief note on security through obscurity
 
-I've never understood why people think private IPs in public DNS are a security risk (I've even gotten a stern talking to about mentioning PUBLIC IPs in the Ansible forum at a bank once, that was comical). Unless your entire zone is private, there's little reason in my mind not to utilize hosted DNS services. Sure, you could run a private DNS server and put the record there. But, I'm positive my DNS provider provides more nines of service than I ever could create on my own. [Please let me know](https://chrisshort.me/) if I'm wrong here for reasons X, Y, and/or Z.
+I've never understood why people think private IPs in public DNS are a security risk (I've even gotten a stern talking to about mentioning PUBLIC IPs in the Ansible forum at a bank once, that was comical). Unless your entire zone is private, there's little reason in my mind not to utilize hosted DNS services. Sure, you could run a private DNS server and put the record there. But, I'm positive my DNS provider provides more nines of service than I ever could create on my own. [Please let me know](https://chrisshort.net/) if I'm wrong here for reasons X, Y, and/or Z.
 
 ## A fast feedback loop
 
@@ -151,7 +151,7 @@ I also have an alias to create a server using a quick and dirty Python command i
 
 `alias serve="python3 -m http.server"`
 
-When I was building out chrisshort.me (to replace Linktree), I landed on a genuinely static HTML 5 template called Aerial (Hugo would be overkill for a landing page like this). But, there was no web server or live reloading on the box for this ultra-simple site setup to iterate my changes quickly. Instead of running `localHugo` for this static HTML site, I ran my `serve` command from the website's root directory. I accessed the host over port 8000 to see my changes live without deploying to Netlify. I've solved the feedback loop problem between the `serve` alias and the `localHugo` script.
+When I was building out chrisshort.net (to replace Linktree), I landed on a genuinely static HTML 5 template called Aerial (Hugo would be overkill for a landing page like this). But, there was no web server or live reloading on the box for this ultra-simple site setup to iterate my changes quickly. Instead of running `localHugo` for this static HTML site, I ran my `serve` command from the website's root directory. I accessed the host over port 8000 to see my changes live without deploying to Netlify. I've solved the feedback loop problem between the `serve` alias and the `localHugo` script.
 
 If I'm at home where the server is, this feels FASTER than the native experience when using `hugo server` locally. I attribute that to `tuned` and the fact that the system is an [11th Gen Intel NUC i5](https://amzn.to/3R7qMoL) with [32 GB RAM](https://amzn.to/3AoboPd) packed with a [lightning-fast 2 TB NVMe drive](https://amzn.to/3Rb7y1U) (it's also my streaming rig when needed and our home's Plex server). In a few weeks, I'll be traveling again and can't wait to try this setup out from the other side of the country.
 
