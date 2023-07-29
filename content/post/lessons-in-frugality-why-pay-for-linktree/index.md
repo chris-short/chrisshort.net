@@ -56,18 +56,18 @@ This is how websites were built in ye olden times. My first ever actual corporat
 
 I made my customizations to the HTML and CSS (it needed more animation configuration because I had more than ten sites to link to 😬). My friend [JJ Asghar][11] liked the idea so much that he built his static landing page the next day (I like it; [here's his code too][14]). Now we have tools like code-server with extensions that make managing one HTML page and CSS easy compared to 20+ years ago. The advances in those technologies are just the icing on the cake. Pro-tip: [favicon-generator.org][12] will add that last bit of polish to your site.
 
-Once the site looked good on my local network, I took it to a static hosting service, told it to deploy `/`, and off the service went with the shortest build time that service probably saw all day. [chrisshort.me][2] is live and distributed across a global CDN in less than a minute.
+Once the site looked good on my local network, I took it to a static hosting service, told it to deploy `/`, and off the service went with the shortest build time that service probably saw all day. [chrisshort.net][2] is live and distributed across a global CDN in less than a minute.
 
 ## Conclusion
 
-I am treating this project as a way to test out other tooling and tinker with experiences across all the tools I want. For example, I spun up [chrisshort.me][2] on [AWS Amplify][3] in seconds ([code on GitHub][4]). Right now, it's sitting on another service I wish to compare to Netlify and AWS Amplify. The site is easy enough to deploy; I'll probably use it regularly to test out different services.
+I am treating this project as a way to test out other tooling and tinker with experiences across all the tools I want. For example, I spun up [chrisshort.net][2] on [AWS Amplify][3] in seconds ([code on GitHub][4]). Right now, it's sitting on another service I wish to compare to Netlify and AWS Amplify. The site is easy enough to deploy; I'll probably use it regularly to test out different services.
 
 The moral of the story is, don't pay for something when you already have the services, tools, time, and skills needed to accomplish the same thing. I was fascinated by "new shiny" and used a service I could have easily just made the equivalent of myself. The importance of owning your platform is ever-present. Find the suitable abstraction layer that fits your requirements and build your presence on top of that. You'll thank me for it in the long run.
 
 [1]: https://usefathom.com/ref/Z8NTXN
-[2]: https://chrisshort.me
+[2]: https://chrisshort.net
 [3]: https://aws.amazon.com/getting-started/hands-on/host-static-website/
-[4]: https://github.com/chris-short/chrisshort.me
+[4]: https://github.com/chris-short/chrisshort.net
 [5]: https://devopsi.sh/env
 [6]: https://dev.to/jihedkdiss/how-to-create-a-portfolio-website-for-free-4d0a
 [7]: https://html5up.net/aerial

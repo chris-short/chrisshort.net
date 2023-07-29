@@ -98,4 +98,4 @@ Still the [DevOps'ish subreddit](https://www.reddit.com/r/devopsish/) is alive a
 
 I have started broadening what I reading to more humanity and economics-focused reading. I'm trying not to be as interested in seeing ahead of the geoeconomics of the world. But I can get that data if I do need to assess something.
 
-I'm on many social media networks that Facebook or Bytedance doesn't own. You can connect with me via all the means listed at [chrisshort.me](https://chrisshort.me).
+I'm on many social media networks that Facebook or Bytedance doesn't own. You can connect with me via all the means listed at [chrisshort.net](https://chrisshort.net).
