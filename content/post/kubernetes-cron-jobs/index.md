@@ -39,7 +39,7 @@ The Dockerfile is pretty simple. Pull from `alpine:latest`, install `curl`, and 
 {{< highlight dockerfile >}}
 FROM alpine:latest
 
-LABEL maintainer="Chris Short <chris@chrisshort.net>"
+LABEL maintainer="Chris Short <chrisshort@duck.com>"
 
 RUN set -x \
         && apk update \

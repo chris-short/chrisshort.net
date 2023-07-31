@@ -108,6 +108,6 @@ If we make a significant change to this privacy policy, for example changing a l
 
 ChrisShort.net Data Controller  
 Chris Short  
-chris@chrisshort.net
+chrisshort@duck.com
 
 This policy is effective as of 26 October 2018.
