@@ -31,6 +31,8 @@ Params:
           url: https://www.linkedin.com/in/thechrisshort
         - name: mastodon
           url: https://hachyderm.io/@ChrisShort
+        - name: twitter
+          url: https://twitter.com/ChrisShort
         - name: tumblr
           url: https://chrisshort.tumblr.com/
         - name: flickr
