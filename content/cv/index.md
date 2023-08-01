@@ -26,9 +26,14 @@ Results producing DevOps profession turned developer and community advocate. Clo
 
 ### Senior Developer Advocate, Amazon Web Services — Detroit, MI — Oct 2021 to Present
 
-* Launched [EKS.news](https://eks.news/), a newsletter covering the latest updates on Amazon Elastic Kubernetes Service (EKS); an additional mechanism to inform customers about new features and updates.
-* Authored Amazon Elastic Kubernetes Service (EKS) 1.22 & 1.23 release blogs; updated customers on critical product changes
-* Organized and ran GitOpsCon EU 2021; included everything from marketing the CFP to rating talks to MC'ing
+* Built and hosted Kubernetes Day 0 event AWS Container Day at KubeCon EU 2023 Amsterdam
+* Taught AWS devs how to do open source for [Finch](https://github.com/runfinch); worked with the dev team to create a build, pull, push, run tool; helped dev team with tough decisions, built public-facing infrastructure; teacher
+* Launched [EKS.news](https://eks.news), a newsletter covering the latest updates on Amazon Elastic Kubernetes
+Service (EKS); an additional mechanism to inform customers about new features and updates
+* Authored Amazon EKS 1.22 & 1.23 release blogs; updated customers on critical product changes
+* Co-lead [Kubernetes Contributor Comms](https://github.com/kubernetes/community/tree/master/communication/contributor-comms) team, spreading the word about what's happening in the Kubernetes community, including event comms, crisis comms, and social media presences
+* Trained Kubernetes Product Marketing team in the ways of open source and more about how the CNCF and Kubernetes ecosystem works; used training to provide essential knowledge to team
+* Organized and ran GitOpsCon EU 2021, including everything from marketing the CFP to MC’ing
 
 ### Cloud Native Ambassador, Cloud Native Computing Foundation (CNCF) — Detroit, MI — Jan 2018 to February 2023
 
