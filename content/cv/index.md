@@ -156,4 +156,4 @@ Service (EKS); an additional mechanism to inform customers about new features an
 
 Global Knowledge Network Security I & II, UNIX/LINUX Security Course, Defense Information Systems Agency CONUS Telecom Seminar, Information Technology Infrastructure Library (ITIL) Foundation Workshop, USAF Communications-Computer Systems Control Apprentice & Craftsman Courses, REDCOM Theory and Application Training Course in Distributed Digital Switching, Microsoft Learning Course 5927A: Microsoft Office Project 2007, Managing Projects, RHCSA Rapid Track Course, Enterasys Switching NMS, Puppet Fundamentals Training, Pentaho Business Analytics User Console Training, Pragmatic Marketing Certified Level II (PMC-II; Foundations and Focus), Automation with Ansible I (DO407)
 
-[![Download PDF Version of Resume](https://cdn.chrisshort.net/chrisshort/pdf.webp)](https://cdn.chrisshort.net/Chris-Short-Resume.pdf)
+[![Download PDF Version of Resume](https://cdn.chrisshort.net/chrisshort/pdf.webp)](https://resume.chrisshort.net/?ref=chrisshort.net)
