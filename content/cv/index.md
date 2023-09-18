@@ -20,7 +20,7 @@ aliases = [
 
 ## Professional Summary
 
-Results producing DevOps profession turned developer and community advocate. Cloud Native Computing Foundation Ambassador, Kubernetes Contributor and Kubernetes Contributor Comms co-lead. Public speaker and live streamer, personal and professional blogger/writer, founder of the popular newsletter, [DevOps'ish](http://devopsish.com/). Open Source advocate. Technology exists to improve human existence.
+Influential, dynamic, and accomplished professional with a proven DevOps, Kubernetes, and marketing track record. Complemented by a passion for community advocacy. Experienced in helping developers build their skills while building better products. As a prominent Kubernetes Contributor and Comms co-lead, I have honed my expertise in driving innovation and fostering collaboration within open-source environments. As a confident public speaker and skilled live streamer, I effectively engage audiences while maintaining an influential presence through my personal and professional blogging. With an unwavering belief that technology should enhance human existence. Ready to bring my diverse skill set, inclusiveness, and enthusiasm to drive transformative results in any team or project.
 
 ## Professional Experience
 
