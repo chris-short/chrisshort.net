@@ -99,19 +99,22 @@ menu:
     main:
         - name: About
           url: about
-          weight: 1
+          weight: 10
+        - name: CV
+          url: https://chrisshort.net/curriculum-vitae/?ref=header
+          weight: 15
         - name: Speaking
           url: speaking
-          weight: 2
+          weight: 20
         - name: Interviews
           url: interviews
-          weight: 3
+          weight: 30
         - name: Archive
           url: archive
-          weight: 4
+          weight: 40
         - name: Search
           url: search
-          weight: 5
+          weight: 50
 
 # for search to work
 outputs:

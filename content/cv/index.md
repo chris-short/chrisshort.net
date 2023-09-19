@@ -20,7 +20,7 @@ aliases = [
 
 ## Professional Summary
 
-Results producing DevOps profession turned developer and community advocate. Cloud Native Computing Foundation Ambassador, Kubernetes Contributor and Kubernetes Contributor Comms co-lead. Public speaker and live streamer, personal and professional blogger/writer, founder of the popular newsletter, [DevOps'ish](http://devopsish.com/). Open Source advocate. Technology exists to improve human existence.
+Influential, dynamic, and accomplished professional with a proven DevOps, Kubernetes, and marketing track record. Complemented by a passion for community advocacy. Experienced in helping developers build their skills while building better products. As a prominent Kubernetes Contributor and Comms co-lead, I have honed my expertise in driving innovation and fostering collaboration within open-source environments. As a confident public speaker and skilled live streamer, I effectively engage audiences while maintaining an influential presence through my personal and professional blogging. With an unwavering belief that technology should enhance human existence. Ready to bring my diverse skill set, inclusiveness, and enthusiasm to drive transformative results in any team or project.
 
 ## Professional Experience
 
@@ -28,11 +28,11 @@ Results producing DevOps profession turned developer and community advocate. Clo
 
 * Built and hosted Kubernetes Day 0 event AWS Container Day at KubeCon EU 2023 Amsterdam
 * Taught AWS devs how to do open source for [Finch](https://github.com/runfinch); worked with the dev team to create a build, pull, push, run tool; helped dev team with tough decisions, built public-facing infrastructure; teacher
+* Trained Kubernetes Product Marketing team in the ways of open source and more about how the CNCF and Kubernetes ecosystem works; used training to provide essential knowledge to team
 * Launched [EKS.news](https://eks.news), a newsletter covering the latest updates on Amazon Elastic Kubernetes
 Service (EKS); an additional mechanism to inform customers about new features and updates
 * Authored Amazon EKS 1.22 & 1.23 release blogs; updated customers on critical product changes
 * Co-lead [Kubernetes Contributor Comms](https://github.com/kubernetes/community/tree/master/communication/contributor-comms) team, spreading the word about what's happening in the Kubernetes community, including event comms, crisis comms, and social media presences
-* Trained Kubernetes Product Marketing team in the ways of open source and more about how the CNCF and Kubernetes ecosystem works; used training to provide essential knowledge to team
 * Organized and ran GitOpsCon EU 2021, including everything from marketing the CFP to MC’ing
 
 ### Cloud Native Ambassador, Cloud Native Computing Foundation (CNCF) — Detroit, MI — Jan 2018 to February 2023
@@ -155,3 +155,7 @@ Service (EKS); an additional mechanism to inform customers about new features an
 ## Formal Training Courses
 
 Global Knowledge Network Security I & II, UNIX/LINUX Security Course, Defense Information Systems Agency CONUS Telecom Seminar, Information Technology Infrastructure Library (ITIL) Foundation Workshop, USAF Communications-Computer Systems Control Apprentice & Craftsman Courses, REDCOM Theory and Application Training Course in Distributed Digital Switching, Microsoft Learning Course 5927A: Microsoft Office Project 2007, Managing Projects, RHCSA Rapid Track Course, Enterasys Switching NMS, Puppet Fundamentals Training, Pentaho Business Analytics User Console Training, Pragmatic Marketing Certified Level II (PMC-II; Foundations and Focus), Automation with Ansible I (DO407)
+
+[PDF version of Résumé](https://resume.chrisshort.net/?ref=cv)
+
+[Google Docs version of Résumé](https://bit.ly/cbshort-resume?ref=cv)
