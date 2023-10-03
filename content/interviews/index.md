@@ -9,6 +9,12 @@ title = "Interviews"
 
 {{< speaker >}}
 
+## DevOps Dispatch - Comms in contributor communities with Chris Short
+
+Date: 2023-04-20  
+Source: [DevOps Dispatch - Comms in contributor communities with Chris Short](https://youtu.be/rT_WiRyUXt0?si=S4CAkYZHvTqPaVZf)  
+Download: [MP4](https://shortcdn.com/chrisshort/DevOps-Dispatch-Comms-in-contributor-communities-with-Chris-Short.mp4)
+
 ## KBE Insider (E17) - Chris Short
 
 Date: 2023-01-31  
@@ -133,7 +139,7 @@ Download: [MP3](https://shortcdn.com/chrisshort/L8istSh9y-Chris-Short-Red-Hat-ta
 
 Date: 2020-03-31  
 Source: [[DevOpsSpeakeasy Podcast] S01E07: Chris Short on Openshift, K8S Operators, and kubectl pronunciation](https://youtu.be/SYRAFc0h6a0)  
-Download: [MP3](https://shortcdn.com/chrisshort/devops-speakeasy-s01e01-chris-short-openshift-kubernetes-operators-+how-to-pronounce-kubectl.mp3)
+Download: [MP3](https://shortcdn.com/chrisshort/devops-speakeasy-s01e01-chris-short-openshift-kubernetes-operators-how-to-pronounce-kubectl.mp3)
 
 {{< youtube SYRAFc0h6a0 >}}
 
