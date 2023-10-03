@@ -11,12 +11,6 @@ aliases = [
 
 There are many causes worth supporting out there. It's important that you help out organizations doing good in the world. At the very least, set up [Amazon Smile](https://smile.amazon.com) to support your charity of choice. Here is a list of causes I support:
 
-## Electronic Frontier Foundation
-
-Website: [eff.org](https://www.eff.org/)
-
-> The Electronic Frontier Foundation is the leading nonprofit organization defending civil liberties in the digital world. Founded in 1990, EFF champions user privacy, free expression, and innovation through impact litigation, policy analysis, grassroots activism, and technology development. We work to ensure that rights and freedoms are enhanced and protected as our use of technology grows.
-
 ## Open Source Initiative
 
 Website: [Open Source Initiative](https://opensource.org/)
@@ -105,3 +99,7 @@ Website: [The Cloudcast](http://www.thecloudcast.net/)
 ### Free Software Foundation
 
 Once they ditched Stallman they were deserving of my support even though they're a little more zealous than I am about open source. Now that [Stallman is back](https://arstechnica.com/tech-policy/2021/03/richard-stallman-returns-to-fsf-18-months-after-controversial-rape-comments/), I've rescinded all support for FSF.
+
+## Electronic Frontier Foundation
+
+I used to support the EFF somewhat overtly too. But, over the years, they've become more rigid and must adjust to the times. Specifically, EFF defended a well-known hate site, thus signing off on the despicable behavior portrayed upon my friends, seemingly hoping it would continue unfettered because of freedom. That's not freedom, it's privilege.
