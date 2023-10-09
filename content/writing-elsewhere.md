@@ -10,6 +10,24 @@ aliases = [
 ]
 +++
 
+## Kubernetes Legacy Package Repositories Will Be Frozen On September 13, 2023
+
+**Authors:** Bob Killen (Google), Chris Short (AWS), Jeremy Rickard (Microsoft), Marko Mudrinić (Kubermatic), Tim Bannister (The Scale Factory)
+
+> On August 15, 2023, the Kubernetes project announced the general availability of the community-owned package repositories for Debian and RPM packages available at pkgs.k8s.io. The new package repositories are replacement for the legacy Google-hosted package repositories: apt.kubernetes.io and yum.kubernetes.io. The announcement blog post for pkgs.k8s.io highlighted that we will stop publishing packages to the legacy repositories in the future.
+
+## k8s.gcr.io Redirect to registry.k8s.io - What You Need to Know
+
+**Authors**: Bob Killen (Google), Davanum Srinivas (AWS), Chris Short (AWS), Frederico Muñoz (SAS Institute), Tim Bannister (The Scale Factory), Ricky Sadowski (AWS), Grace Nguyen (Expo), Mahamed Ali (Rackspace Technology), Mars Toktonaliev (independent), Laura Santamaria (Dell), Kat Cosgrove (Dell)
+
+> On Monday, March 20th, the k8s.gcr.io registry will be redirected to the community owned registry, registry.k8s.io .
+
+## Prow and Tide for Kubernetes Contributors
+
+**Authors**: Authors: Chris Short, Frederico Muñoz
+
+> In my work in the Kubernetes world, I look up a label or Prow command often. The systems behind the scenes ([Prow](https://prow.kubernetes.io/) and [Tide](https://pkg.go.dev/k8s.io/test-infra/prow/cmd/tide#section-readme)) are here to help Kubernetes Contributors get stuff done.
+
 ## [Updated: Dockershim Removal FAQ | Kubernetes](https://kubernetes.io/blog/2022/02/17/dockershim-faq/)
 
 **Authors**: Dockershim Adhoc Docs Team
@@ -24,11 +42,29 @@ aliases = [
 
 > Kubernetes is removing dockershim in the upcoming v1.24 release. We're excited to reaffirm our community values by supporting open source container runtimes, enabling a smaller kubelet, and increasing engineering velocity for teams using Kubernetes...
 
+## [Prow and Tide for Kubernetes Contributors](https://www.kubernetes.dev/blog/2021/07/09/how-to-choose-a-sig-as-a-non-code-kubernetes-contributor/)
+
+> Kubernetes contributors aren't people in capes or part of some secret society. How to start committing to the GitHub repos that make up the project is well documented, yet it remains intimidating for many.
+
 ## [How to choose a SIG as a non-code Kubernetes contributor](https://www.kubernetes.dev/blog/2021/07/09/how-to-choose-a-sig-as-a-non-code-kubernetes-contributor/)
 
-> My first work in the cloud native world was working with the SIG Docs team. I helped review some documentation and learned some of their processes. I wasn’t there long before I found out about another great SIG: Contributor Experience. Contributor Experience is all about improving the workflow, removing bottlenecks, and generally making Kubernetes a great project to contribute your time and effort. I knew ContribEx (as it’s called) is where I could make an impact.
+> My first work in the cloud native world was working with the SIG Docs team. I helped review some documentation and learned some of their processes. I wasn't there long before I found out about another great SIG: Contributor Experience. Contributor Experience is all about improving the workflow, removing bottlenecks, and generally making Kubernetes a great project to contribute your time and effort. I knew ContribEx (as it's called) is where I could make an impact.
 
-## Ansible
+# AWS
+
+## Changes to the Kubernetes Container Image Registry
+
+> The release of Kubernetes 1.25 was when [it was first announced](https://kubernetes.io/blog/2022/08/23/kubernetes-v1-25-release/#moved-container-registry-service-from-k8s-gcr-io-to-registry-k8s-io) that the Kubernetes project would be updating its official container image registry endpoint from [k8s.gcr.io](http://k8s.gcr.io/) to the community owned registry, [registry.k8s.io](http://registry.k8s.io/). The goal was to eventually sunset the old registry over time. However, as [highlighted on the official Kubernetes website](https://kubernetes.io/blog/2023/02/06/k8s-gcr-io-freeze-announcement/), this changeover has since been expedited to adopt a more sustainable infrastructure model with the first set of changes happening on **Monday March 20, 2023**. This post covers what changes are happening, why they're happening, important dates to keep in mind, and what actions you need to take.
+
+## Amazon EKS now supports Kubernetes 1.23
+
+> The Amazon Elastic Kubernetes Service (Amazon EKS) team is happy to announce support for Kubernetes 1.23. Amazon EKS and Amazon EKS Distro can now run Kubernetes version 1.23, with support in Amazon EKS Anywhere launching soon after.
+
+## Amazon EKS now supports Kubernetes 1.22
+
+> The Amazon Elastic Kubernetes Service (Amazon EKS) team is pleased to announce support for Kubernetes 1.22. Amazon EKS, Amazon EKS Distro, and Amazon EKS Anywhere can now run Kubernetes version 1.22. The upstream project theme for this release is “Reaching New Peaks.” The theme for the release, according to release lead [Savitha Raghunathan](https://github.com/savitharaghunathan), is due to what she described as: “in spite of the pandemic and burnout, Kubernetes 1.22 had the highest number of enhancements in any release.” This release does bring a significant number of API changes, a Kubernetes release cadence change, and many other updates. Thank you for all the work the upstream [Kubernetes 1.22 Release Team](https://github.com/kubernetes/sig-release/blob/master/releases/release-1.22/release-team.md) did to bring this release to the greater cloud-native ecosystem.
+
+# Ansible
 
 > Chris Short's ansible.com blog posts are available here: <https://www.ansible.com/blog/author/chris-short>
 
