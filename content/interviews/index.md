@@ -5,7 +5,10 @@ description = "Interviews Chris Short has given, conducted, or participated in"
 draft = false
 tags = ["interviews", "podcast", "webinar"]
 title = "Interviews"
-aliases = ["interview"]
+aliases = [
+    "interview",
+    "interviewed"
+]
 +++
 
 {{< speaker >}}
