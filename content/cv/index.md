@@ -11,7 +11,8 @@ aliases = [
     "/cv/",
     "/resume/",
     "/resume-cv/",
-    "/categories/,"resume"
+    "/categories/,
+    "resume"
 ]
 
 +++
