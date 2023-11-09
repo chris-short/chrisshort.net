@@ -66,12 +66,6 @@ I typically do not charge a speaking fee. However, if your event is a for profit
 
 All my [CFPs are public](https://chrisshort.net/abstracts/). Almost all of my works are licensed [CC-BY-SA 4.0](https://chrisshort.net/copyright/) meaning, you must publish them openly and attribute credit to me as the intellectual property owner. If you want me to speak at an internal or invite only event, you are more than welcome to keep that talk private to that group, but please attribute everything to me, Chris Short, via a link to chrisshort.net.
 
-## Public Health and Safety
-
-Normally, this isn't a concern but a global pandemic has pushed this point front and center. I expect some form of vaccination or certification of negative test results by all attendees. Temperature checks should be instituted at all entry points for your event. I also expect your [Code of Conduct](#code-of-conduct) to protect those taking extra precautions against COVID-19
-
-Obviously, this does not apply to virtual events.
-
 ## Cancellations
 
 Cancelling a speaking engagement is something I try very, very hard to avoid. I try very hard not to submit CFPs to events I know I'll have trouble attending. I can count on one hand the number of times I've had to cancel a talk (and I've had some pretty wild circumstances leading to those). I always suggest someone to replace me if I do have to cancel to discuss a topic in a similar vein. If you want me specifically and something has come up preventing my travel or ability to participate live, I will, at your request, pre-record talks. However, I prefer to give them live whenever possible.
