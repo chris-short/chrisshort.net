@@ -102,6 +102,6 @@ Website: [The Cloudcast](http://www.thecloudcast.net/)
 
 Once they ditched Stallman they were deserving of my support even though they're a little more zealous than I am about open source. Now that [Stallman is back](https://arstechnica.com/tech-policy/2021/03/richard-stallman-returns-to-fsf-18-months-after-controversial-rape-comments/), I've rescinded all support for FSF.
 
-## Electronic Frontier Foundation
+### Electronic Frontier Foundation
 
-I used to support the EFF somewhat overtly too. But, over the years, they've become more rigid and must adjust to the times. Specifically, EFF defended a well-known hate site, thus signing off on the despicable behavior portrayed upon my friends, seemingly hoping it would continue unfettered because of freedom. That's not freedom, it's privilege.
+I used to support the EFF somewhat overtly too. But, over the years, they've become more rigid and must adjust to the times. Specifically, EFF defended a well-known hate site, thus signing off on the despicable behavior portrayed upon my friends, seemingly hoping it would continue unfettered because of freedom. That's not freedom, it's privilege. It's very disappointing for a number of reasons as EFF has done so much good.
