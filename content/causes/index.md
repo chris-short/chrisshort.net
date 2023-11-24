@@ -9,7 +9,7 @@ aliases = [
 ]
 +++
 
-There are many causes worth supporting out there. It's important that you help out organizations doing good in the world. At the very least, set up [Amazon Smile](https://smile.amazon.com) to support your charity of choice. Here is a list of causes I support:
+There are many causes worth supporting out there. It's important that you help out organizations doing good in the world. Here is a list of causes I support or no longer support for various reasons:
 
 ## Open Source Initiative
 
@@ -29,12 +29,6 @@ Website: [Outreachy](https://www.outreachy.org/)
 
 > Outreachy internships are remote, paid ($6,000), and last three months. Outreachy supports diversity in free and open source software! Outreachy internships run from May to August and December to March. Applications open in January and August: <https://www.outreachy.org/apply/>
 
-## /dev/color
-
-Website: [/dev/color](https://www.devcolor.org/)
-
-> We believe the world is a better place when we get the most out of each individual. Software engineers are uniquely positioned to improve the world—one programmer can design products that change millions of lives. Black software engineers have historically faced challenges in reaching their full potential. We ensure Black engineers fulfill the promise of their talents, transform the industry, and use their resulting skills and position to give back to their communities.
-
 ## Wikimedia Foundation
 
 Website: [Wikimedia Foundation](https://wikimediafoundation.org/)
@@ -49,7 +43,21 @@ Website: [Internet Archive](https://archive.org/)
 
 This is also where I archive larger videos for various uses. I make sure I'm paying my fair share.
 
-## Global Zero
+## Previously Supported Charities (good ones)
+
+### National Center for Transgender Equality
+
+Website: [National Center for Transgender Equality](https://transequality.org/)
+
+> The National Center for Transgender Equality advocates to change policies and society to increase understanding and acceptance of transgender people. In the nation’s capital and throughout the country, NCTE works to replace disrespect, discrimination, and violence with empathy, opportunity, and justice.
+
+### /dev/color
+
+Website: [/dev/color](https://www.devcolor.org/)
+
+> We believe the world is a better place when we get the most out of each individual. Software engineers are uniquely positioned to improve the world—one programmer can design products that change millions of lives. Black software engineers have historically faced challenges in reaching their full potential. We ensure Black engineers fulfill the promise of their talents, transform the industry, and use their resulting skills and position to give back to their communities.
+
+### Global Zero
 
 Website: [Global Zero](https://www.globalzero.org/)
 
@@ -59,7 +67,7 @@ Website: [Global Zero](https://www.globalzero.org/)
 > 
 > Working with political leaders, senior military commanders and national security experts from across the political spectrum and in every nuclear-armed region of the world, we are working to achieve historic Global Zero Accords that would ensure that all nuclear weapons are permanently dismantled.
 
-## The Privilege Escalation Foundation
+### The Privilege Escalation Foundation
 
 > We believe brilliant minds deserve safe bodies.
 [Founded by Kris Nóva](https://privilegeescalation.org/stories/founders-statement/) in 2021 with nothing more than a broken heart, hope, and a linux server in San Francisco, California.
@@ -82,19 +90,13 @@ Website: [Pin-Ups For Vets](https://www.pinupsforvets.com/)
 > 2. The calendars would be delivered as gifts to our ill and injured Veterans with messages of appreciation from the donors.
 > 3. The calendars would be sent to our deployed troops to help boost morale and to let them know that Americans back home are thinking of them.
 
-## Previously Supported Charities
-
-### National Center for Transgender Equality
-
-Website: [National Center for Transgender Equality](https://transequality.org/)
-
-> The National Center for Transgender Equality advocates to change policies and society to increase understanding and acceptance of transgender people. In the nation’s capital and throughout the country, NCTE works to replace disrespect, discrimination, and violence with empathy, opportunity, and justice.
-
 ### K2 Challenge via The Cloudcast
 
 Website: [The Cloudcast](http://www.thecloudcast.net/)
 
 > Since 2013, our community has raised over $27,000 to help the UNC Children's Hospital. We hope to continue that tradition in a big way again this year. Every little bit helps! Please join us through a donation, or come run the race with us!
+
+## Previously Supported Charities (bad ones)
 
 ### Free Software Foundation
 
