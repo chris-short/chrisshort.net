@@ -86,6 +86,6 @@ My talks are well researched, data backed, experiential based, and hopefully ent
 
 ## Contacting Me
 
-Want to have me speak? Cool! Reach out to me [via email](chris+speaking@chrisshort.net) with your event info and a general idea of the topic you want me to talk about.
+Want to have me speak? Cool! Reach out to me [via email](mailto:chris+speaking@chrisshort.net) with your event info and a general idea of the topic you want me to talk about.
 
 Thanks for reading!

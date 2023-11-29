@@ -7,7 +7,9 @@ draft = false
 slug = "nc-vets-oral-history-interview-3"
 tags = ["military", "mission", "war", "north carolina", "air force", "us air force", "north carolina veterans", "interviews", "veteran", "usaf"]
 title = "North Carolina Veterans Oral History Interview Part 3"
-aliases = ["nc-vets-oral-history-interview-3"]
+aliases = [
+  "/nc-vets-oral-history-interview-3/"
+]
 [cover]
 image = "https://shortcdn.com/chrisshort/chris-short-cyber-transport.jpg"
 caption = "Talking with Airmen at Pope AFB"

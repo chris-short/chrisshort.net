@@ -7,7 +7,9 @@ draft = false
 slug = "nc-vets-oral-history-interview-2"
 tags = ["war", "communications", "iraq", "afghanistan", "veterans", "air force", "north carolina", "central command", "interviews", "veteran", "usaf"]
 title = "North Carolina Veterans Oral History Interview Part 2"
-aliases = ["nc-vets-oral-history-interview-2"]
+aliases = [
+  "/nc-vets-oral-history-interview-2/"
+]
 [cover]
 image = "https://shortcdn.com/chrisshort/chris-short-qatar-firing-range.jpg"
 caption = "Weapons qualification in Qatar in 2002; two men on camels walked across the active firing range"

@@ -98,22 +98,22 @@ privacy:
 menu:
     main:
         - name: About
-          url: about
+          url: /about/
           weight: 10
         - name: CV
           url: https://chrisshort.net/curriculum-vitae/?ref=header
           weight: 15
         - name: Speaking
-          url: speaking
+          url: /speaking/
           weight: 20
         - name: Interviews
-          url: interviews
+          url: /interviews/
           weight: 30
         - name: Archive
-          url: archive
+          url: /archive/
           weight: 40
         - name: Search
-          url: search
+          url: /search/
           weight: 50
 
 # for search to work
