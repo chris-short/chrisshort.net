@@ -41,7 +41,7 @@ It was a bright, Saturday morning, July 4, 2020. I had just gotten Max all situa
 
 {{< carbon >}}
 
-Along with that migration came the CDN for this web site (cdn.chrisshort.net). I mean [a Cloudflare fronted S3 bucket that holds assets deemed too big for git](/low-cost-content-delivery-network-cdn/) when I say CDN. It's not even [ChrisShort.net](https://chrisshort.net) itself, as it is hosted on Netlify's CDN and every other static site I own or manage. I've been a Cloudflare user for a long time. The CDN is less than 300 files and has existed for over five years on various clouds. Moving it back to AWS from GCP bumped the AWS bill to an average of $23/month. Not too bad given the [site's traffic](https://app.usefathom.com/share/suwvjwwc/chrisshort.net).
+Along with that migration came the CDN for this web site (cdn.chrisshort.net). I mean a Cloudflare fronted S3 bucket that holds assets deemed too big for git when I say CDN. It's not even [ChrisShort.net](https://chrisshort.net) itself, as it is hosted on Netlify's CDN and every other static site I own or manage. I've been a Cloudflare user for a long time. The CDN is less than 300 files and has existed for over five years on various clouds. Moving it back to AWS from GCP bumped the AWS bill to an average of $23/month. Not too bad given the [site's traffic](https://app.usefathom.com/share/suwvjwwc/chrisshort.net).
 
 ### The shock
 
