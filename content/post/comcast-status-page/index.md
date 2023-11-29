@@ -12,7 +12,7 @@ image = "https://shortcdn.com/chrisshort/UptimeRobot_Home.webp"
 
 +++
 
-TL;DR: Comcast had a local area issue. I set up a [status page for my house](https://status.chrisshort.net/788638365) after many outages. The status page actively monitoring connectivity forced Comcast to look outside our home for a fix after several visits.
+TL;DR: Comcast had a local area issue. I set up a status page for my house after many outages. The status page actively monitoring connectivity forced Comcast to look outside our home for a fix after several visits.
 
 {{< carbon >}}
 
@@ -42,11 +42,11 @@ Comcast had a problem, and I suspected it was related to the previous month's ma
 
 There was another frustrating mid-live stream outage. That's when I went ahead and decided the house was getting a public status page.
 
-I was already using the freemium version of [UptimeRobot](https://uptimerobot.com/) to monitor the [various web properties](/projects/) I maintain. I could add more monitors and build a public-facing status page for $84 a year. The cost was well worth it to prove Comcast had a problem (not the house). I swiped ye ole credit card, added some DNS records, and [status.chrisshort.net](https://status.chrisshort.net/) was born. I setup an old Raspberry Pi with Fedora as an endpoint to be pinged by UptimeRobot so [my home could have a status page](https://status.chrisshort.net/788638365) to show anyone asking.
+I was already using the freemium version of [UptimeRobot](https://uptimerobot.com/) to monitor the [various web properties](/projects/) I maintain. I could add more monitors and build a public-facing status page for $84 a year. The cost was well worth it to prove Comcast had a problem (not the house). I swiped ye ole credit card, added some DNS records, and [status.chrisshort.net](https://status.chrisshort.net/) was born. I setup an old Raspberry Pi with Fedora as an endpoint to be pinged by UptimeRobot so my home could have a status page to show anyone asking.
 
 Note: I ended up applying the network-latency tuned profile so the Raspberry Pi could keep up with checks and the normal internet scans.
 
-[![UptimeRobot status page for my house as of 2021-09-30](https://shortcdn.com/chrisshort/UptimeRobot_Home.png)](https://status.chrisshort.net/788638365)
+[![UptimeRobot status page for my house as of 2021-09-30](https://shortcdn.com/chrisshort/UptimeRobot_Home.png)](https://status.chrisshort.net/)
 
 ## Replace EVERYTHING
 
