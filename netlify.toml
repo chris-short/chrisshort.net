@@ -1,6 +1,6 @@
 [build]
 publish = "public"
-command = "hugo --minify"
+command = "curl -L 'https://cdn.carbonads.com/carbon.js?serve=CK7D52QU&placement=chrisshortnet' -o static/js/carbon.js ; curl -L 'https://cdn.usefathom.com/script.js' -o static/js/script.js ; cp static/js/carbon.js assets/js/extended/carbon.js ; hugo --minify --enableGitInfo"
 
 [context.production.environment]
 HUGO_VERSION = "0.120.4"
@@ -29,7 +29,7 @@ command = "hugo -DF -b $DEPLOY_PRIME_URL"
 HUGO_VERSION = "0.120.4"
 
 [context.next.environment]
-HUGO_ENABLEGITINFO = "false"
+HUGO_ENABLEGITINFO = "true"
 
 [[redirects]]
   from = "https://chrisshort.netlify.app/*"
