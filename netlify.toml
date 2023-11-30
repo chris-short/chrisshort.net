@@ -3,21 +3,21 @@ publish = "public"
 command = "hugo --minify"
 
 [context.production.environment]
-HUGO_VERSION = "0.120.3"
+HUGO_VERSION = "0.120.4"
 HUGO_ENV = "production"
 HUGO_ENABLEGITINFO = "false"
 
 [context.split1]
-command = "curl -L 'https://cdn.carbonads.com/carbon.js?serve=CK7D52QU&placement=chrisshortnet' -o static/js/carbon.js || curl -L 'https://cdn.usefathom.com/script.js' -o static/js/script.js || hugo --minify --enableGitInfo"
+command = "curl -L 'https://cdn.carbonads.com/carbon.js?serve=CK7D52QU&placement=chrisshortnet' -o static/js/carbon.js || cp static/js/carbon.js assets/js/extended/carbon.js || curl -L 'https://cdn.usefathom.com/script.js' -o static/js/script.js || hugo --minify --enableGitInfo"
 
 [context.split1.environment]
-HUGO_VERSION = "0.120.3"
+HUGO_VERSION = "0.120.4"
 HUGO_ENV = "production"
 
 [context.deploy-preview]
 command = "hugo -DF -b $DEPLOY_PRIME_URL"
 [context.deploy-preview.environment]
-HUGO_VERSION = "0.120.3"
+HUGO_VERSION = "0.120.4"
 # Skip all post processing in deploy previews,
 # ignoring any other settings
 [context.deploy-preview.processing]
@@ -26,7 +26,7 @@ HUGO_VERSION = "0.120.3"
 [context.branch-deploy]
 command = "hugo -DF -b $DEPLOY_PRIME_URL"
 [context.branch-deploy.environment]
-HUGO_VERSION = "0.111.3"
+HUGO_VERSION = "0.120.4"
 
 [context.next.environment]
 HUGO_ENABLEGITINFO = "false"
