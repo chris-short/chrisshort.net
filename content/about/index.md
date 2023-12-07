@@ -12,9 +12,12 @@ aliases = [
 
 +++
 
+
+{{- partial "social_icons.html" $.Site.Params.socialIcons -}}
+
 ## Tagline
 
-Open Source Diplomat | [Kubernetes Contributor](https://www.kubernetes.dev/) | [Disabled Veteran](/categories/long-thoracic-nerve-palsy/) (definitely in pain) | [Detroit](https://youtu.be/-lLjEQx0H4I) | [Kubernetes](https://aws.amazon.com/eks/) at [AWS](https://aws.amazon.com/) | [He/Him/His](https://pronoun.is/he) | [Views solely mine](/terms/#disclaimer)
+Open Source Diplomat | [Kubernetes Contributor](https://www.kubernetes.dev/) | [Disabled Veteran](/categories/long-thoracic-nerve-palsy/) | [Detroit](https://youtu.be/-lLjEQx0H4I) | [He/Him/His](https://pronoun.is/he) | [Views solely mine](/terms/#disclaimer)
 
 ## Pronouns
 

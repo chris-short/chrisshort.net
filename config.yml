@@ -22,7 +22,7 @@ Params:
     homeInfoParams:
         Title: Chris Short
         Content: >
-            Open Source Diplomat | Kubernetes Contributor | Disabled Veteran (definitely in pain) | Detroit | Kubernetes at AWS | He/Him/His | Views solely mine
+            Open Source Diplomat | Kubernetes Contributor | Disabled Veteran | Detroit | He/Him/His | Views solely mine
 
     socialIcons:
         - name: github
@@ -98,10 +98,10 @@ privacy:
 menu:
     main:
         - name: About
-          url: /about/
+          url: /about/?ref=header
           weight: 10
         - name: CV
-          url: https://chrisshort.net/curriculum-vitae/?ref=header
+          url: /curriculum-vitae/?ref=header
           weight: 15
         - name: Speaking
           url: /speaking/
