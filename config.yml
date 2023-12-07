@@ -98,10 +98,10 @@ privacy:
 menu:
     main:
         - name: About
-          url: /about/?ref=header
+          url: /about/
           weight: 10
         - name: CV
-          url: /curriculum-vitae/?ref=header
+          url: /curriculum-vitae/
           weight: 15
         - name: Speaking
           url: /speaking/
