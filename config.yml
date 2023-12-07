@@ -33,10 +33,6 @@ Params:
           url: https://hachyderm.io/@ChrisShort
         - name: twitter
           url: https://twitter.com/ChrisShort
-        - name: tumblr
-          url: https://chrisshort.tumblr.com/
-        - name: flickr
-          url: https://www.flickr.com/photos/chris-short/
         - name: reddit
           url: https://www.reddit.com/r/devopsish/
         - name: producthunt
