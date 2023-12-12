@@ -3,10 +3,10 @@
 author = "Chris Short"
 categories = ["Hardware", "Gaming", "Nintendo", "2023"]
 date = 2023-12-13T07:00:00Z
-description = "Lost on what Nintendo Switch to buy and which games to get? This guide has you covered with tips on models, accessories, parental controls, must-have games, deals, and how our family scored Switches."
+description = "Lost on what Nintendo Switch to buy? Which games to get? This guide has you covered with tips on models, accessories, parental controls, and must-have games"
 draft = false
 slug = "ultimate-guide-to-buying-nintendo-switch"
-tags = ["Nintendo Switch", "Nintendo", "Switch", "Video Games", "Joy-Con", "screen", "Mario", "Super Mario", "battery"]
+tags = ["Nintendo Switch", "Nintendo", "Switch", "Video Games", "Joy-Con", "screen", "Mario", "Super Mario", "battery", "games", "Super Mario", "Mario Kart"]
 ShowTOC = true
 title = "The Ultimate Guide to Buying a Nintendo Switch"
 [cover]
