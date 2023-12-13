@@ -99,7 +99,7 @@ Be wary of the potential for the Nintendo Switch to overheat. A Switch needs fre
 
 I like the feel of the [Pro Controller][42] when I'm playing from the couch. But this is rare, so it's safe to hold off on one initially. There are also controllers for all the different consoles you can access through Nintendo Switch Online ([N64][43], [SEGA][44], [Super Nintendo][45], [NES][46]).
 
-### How we got our Nintendo Switch Consoles
+### How we got our Nintendo Switch consoles
 
 We got my Nintendo Switch (brand new) for less than retail at Kohl's when no Nintendo Switch was available anywhere. Some were going for double the price or more on eBay. It was a "right time at the right moment" purchase. They had some locked in a display case squirreled away on the floor of the home goods section. I would've missed it if the packaging wasn't so distinctive.
 
