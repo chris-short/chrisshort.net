@@ -43,8 +43,6 @@ There are very rarely discounts on the Nintendo Switch. Bundles that feature a g
 
 ## Nintendo Switch Online
 
-![Nintendo Switch Online](https://shortcdn.com/chrisshort/nintendo-switch-online.webp)
-
 There are deals on [Nintendo Switch Online][13], Nintendo's online service, which is very affordable when compared against the competition. Plus, it gives you additional content from previous Nintendo consoles. It's a must-have for Nintendo Switch owners if you are into some of the older games that are available.
 
 ## Accounts and Parental Controls
@@ -87,7 +85,9 @@ Depending upon your interests, consider some of these staples going forward.
 
 Depending upon your giftee's propensity to throw the console in anger, you may or may not want a case or screen protector. A ton of carrying cases are available from almost every major retailer that sells video games. I'd recommend [Deluxe Travel Case * Elite Edition for Switch][31] for its versatility and affordability.
 
-I like the feel of the [Pro Controller][32] when I'm playing from the couch. But this is rare, so it's safe to hold off on one initially. There are also controllers for all the different consoles you can access through Nintendo Switch Online ([N64][33], [SEGA][34], [Super Nintendo][35], [NES][36]).
+There are also upgraded Joy-Cons and holders for the Nintendo Switch. I am no fan of the lack of ergonomics of the stock [Nintendo Switch Joy-Cons][32] (which come in a variety of colors if you do like them). Rectangle-shaped controllers went out with the NES controller (more on that later). I'm a tall person and have big hands. I can feel myself making mistakes on the stock controllers. I have been joyfully using the [Hori Nintendo Switch Split Pad Pro][33] for years. I pack them in my checked bag if I'm taking one.
+
+I like the feel of the [Pro Controller][34] when I'm playing from the couch. But this is rare, so it's safe to hold off on one initially. There are also controllers for all the different consoles you can access through Nintendo Switch Online ([N64][35], [SEGA][36], [Super Nintendo][37], [NES][38]).
 
 ### How we got our Switch's
 
@@ -95,7 +95,7 @@ We got my Nintendo Switch (brand new) for less than retail at Kohl's when no Nin
 
 We went to GameStop to get Max his Nintendo Switch Lite (brand new). I traded in some games and got additional discounts, which made the console more affordable. We got Max's to play Mario Kart Live Circuit, which is worth every penny. Just make sure you don't drive through any WiFi dead spots!
 
-Why do we need two? [Mario Kart Live Circuit][37] is worth its weight in gold and is usually a crowd-pleaser for kids and adults of all ages.
+Why do we need two? [Mario Kart Live Circuit][39] is worth its weight in gold and is usually a crowd-pleaser for kids and adults of all ages.
 
 [1]: https://amzn.to/4adW3Qx
 [2]: https://amzn.to/4aeFlRc
@@ -128,9 +128,11 @@ Why do we need two? [Mario Kart Live Circuit][37] is worth its weight in gold an
 [29]: https://amzn.to/470zRXk
 [30]: https://amzn.to/3Ri8dzq
 [31]: https://amzn.to/3Nnur1E
-[32]: https://www.nintendo.com/us/store/products/pro-controller/
-[33]: https://www.nintendo.com/us/store/products/nintendo-64-controller/
-[34]: https://www.nintendo.com/us/store/products/sega-genesis-control-pad-114295/
-[35]: https://www.nintendo.com/us/store/products/super-nintendo-entertainment-system-controller/
-[36]: https://www.nintendo.com/us/store/products/nintendo-entertainment-system-controllers/
-[37]: https://amzn.to/3RE8Zbj
+[32]: https://amzn.to/3uX2TtA
+[33]: https://amzn.to/47UDu2a
+[34]: https://www.nintendo.com/us/store/products/pro-controller/
+[35]: https://www.nintendo.com/us/store/products/nintendo-64-controller/
+[36]: https://www.nintendo.com/us/store/products/sega-genesis-control-pad-114295/
+[37]: https://www.nintendo.com/us/store/products/super-nintendo-entertainment-system-controller/
+[38]: https://www.nintendo.com/us/store/products/nintendo-entertainment-system-controllers/
+[39]: https://amzn.to/3RE8Zbj
