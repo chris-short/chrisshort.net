@@ -1,17 +1,17 @@
 +++
 author = "Chris Short"
-categories = ["Reviews", "2010"]
+categories = ["Reviews", "2010", "Nintendo", "Gaming"]
 date = 2010-07-27T20:00:00Z
 description = ""
 draft = false
 ShowTOC = false
 slug = "review-wii-sports-resort"
-tags = ["video games", "wii sports"]
+tags = ["video games", "wii sports", "Nintendo"]
 title = "Review: Wii Sports Resort"
 
 +++
 
-I have to say that I was not too enthusiastic about [Wii Sports Resort](https://amzn.to/2Zb2oGO) when its release was announced. What intrigued me, obviously, was the addition of the Wii MotionPlus functionality. Wii Sports Resort is essentially Wii Sports 2 with a resort/spa theme.
+I have to say that I was not too enthusiastic about [Nintendo Wii Sports Resort](https://amzn.to/2Zb2oGO) when its release was announced. What intrigued me, obviously, was the addition of the Wii MotionPlus functionality. Wii Sports Resort is essentially Wii Sports 2 with a resort/spa theme.
 
 *Note: ChrisShort.net may earn compensation for sales from links on this post through [affiliate programs](/terms#affiliate-link-policy).*
 
