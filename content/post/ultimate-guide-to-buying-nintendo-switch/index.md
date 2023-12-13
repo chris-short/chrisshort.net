@@ -6,9 +6,12 @@ date = 2023-12-13T07:00:00Z
 description = "Lost on what Nintendo Switch to buy? Which games to get? This guide has you covered with tips on models, accessories, parental controls, and must-have games"
 draft = false
 slug = "ultimate-guide-to-buying-nintendo-switch"
-tags = ["Nintendo Switch", "Nintendo", "Switch", "Video Games", "Joy-Con", "screen", "Mario", "Super Mario", "battery", "games", "Super Mario", "Mario Kart"]
+tags = ["Nintendo Switch", "Nintendo", "Switch", "Video Games", "Joy-Con", "screen", "Mario", "Super Mario", "battery", "games", "Super Mario", "Mario Kart", "console", "kart", "case", "battery life", "storage", "parental controls", "Nintendo eShop", ""]
 ShowTOC = true
-title = "The Ultimate Guide to Buying a Nintendo Switch"
+title = "The Weary Parents Guide to Buying a Nintendo Switch"
+aliases = [
+  "the-ultimate-guide-to-buying-a-nintendo-switch"
+]
 [cover]
 image = "https://shortcdn.com/chrisshort/nintendo-switch-lineup.webp"
 alt = "The Nintendo Switch lineup"
