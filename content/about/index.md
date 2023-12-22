@@ -14,7 +14,7 @@ aliases = [
 
 ## Tagline
 
-Open Source Diplomat | [Kubernetes Contributor](https://www.kubernetes.dev/) | [Disabled Veteran](/categories/long-thoracic-nerve-palsy/) | [Detroit](https://youtu.be/-lLjEQx0H4I) | [He/Him/His](https://pronoun.is/he) | [Views solely mine](/terms/#disclaimer)
+Open Source Diplomat | Kubernetes Contributor | Developer Marketing | Disabled Veteran | Detroit | He/Him/His | Views solely mine
 
 ## Pronouns
 
