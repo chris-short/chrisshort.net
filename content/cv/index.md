@@ -17,15 +17,13 @@ aliases = [
 
 +++
 
-[PDF version of Résumé](https://resume.chrisshort.net/?ref=cv)
+[PDF version of Résumé](https://resume.chrisshort.net/) | [Google Docs version of Résumé](https://bit.ly/cbshort-resume)
 
-[Google Docs version of Résumé](https://bit.ly/cbshort-resume?ref=cv)
-
-# Chris Short
+# Chris Short, Detroit, MI
 
 ## Professional Summary
 
-Influential, dynamic, and accomplished professional with a proven DevOps, Kubernetes, and marketing track record. Complemented by a passion for community advocacy. Experienced in helping developers build their skills while building better products. As a prominent Kubernetes Contributor and Comms co-lead, I have honed my expertise in driving innovation and fostering collaboration within open-source environments. As a confident public speaker and skilled live streamer, I effectively engage audiences while maintaining an influential presence through my personal and professional blogging. With an unwavering belief that technology should enhance human existence. Ready to bring my diverse skill set, inclusiveness, and enthusiasm to drive transformative results in any team or project.
+Influential, dynamic, and accomplished professional with a proven DevOps, Kubernetes, and marketing track record. Complemented by a passion for helping others, cross-org collaboration, and building trust. I bring deep experience in teaching developers to build their knowledge and skills while building better products. As a Kubernetes Contributor and Comms co-lead, I have honed my expertise in driving innovation and fostering collaboration within open and closed environments. As a confident public speaker and skilled live stream producer/host at Red Hat and Amazon, I effectively engage audiences while maintaining an influential presence through my personal and professional networking platforms. I have long believed that technology should enhance human existence. Ready to bring my diverse skill set, inclusiveness, and enthusiasm to drive transformative results in any team or project.
 
 ## Professional Experience
 
