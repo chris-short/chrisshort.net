@@ -1,108 +1,68 @@
-// HTML Elements  
-const editor = document.getElementById('editor'); 
-const select = document.getElementById('actionSelect');
-const runButton = document.getElementById('runButton');
+// Import libraries
+const yaml = require('js-yaml');
+const Ajv = require('ajv');
 
-// Import parsers
-import YAML from 'yamljs';  
-import markdownlint from 'markdownlint';
-import htmlLint from 'html-lint';
-import CSSLint from 'csslint';
-import eslint from 'eslint';
+// Set up error handling 
+process.on('uncaughtException', err => {
+  console.error('Uncaught exception', err);
+  process.exit(1); 
+})
 
-// Lint actions  
-const actions = {
+process.on('unhandledRejection', err => {
+  console.error('Unhandled rejection', err);
+  process.exit(1);
+})
 
-  lintYaml: {
-    name: 'Lint YAML',
-    action: lintYaml
-  },
+// YAML linter 
+function lintYaml(yamlString) {
 
-  lintJson: {
-    name: 'Lint JSON', 
-    action: lintJson
-  },
-   
-  lintMarkdown: {
-    name: 'Lint Markdown',
-    action: lintMarkdown
-  },
+  try {
+    const parsed = yaml.safeLoad(yamlString);
+  } catch (error) {
+    
+    if (error instanceof yaml.MarkedYAMLError) {
+      // Handle YAML error      
+    } else {
+      throw error;
+    }
 
-  lintHtml: {
-    name: 'Lint HTML',
-    action: lintHtml
-  },
+  }
 
-  lintCss: { 
-    name: 'Lint CSS',
-    action: lintCss
-  },
+  console.log('No YAML issues found!');
 
-  lintJs: {
-    name: 'Lint JavaScript',
-    action: lintJs
-  },
-
-  lintPython: {
-    name: 'Check Python',
-    action: checkPython
-  },
-
-  lintJava: {
-    name: 'Check Java',
-    action: checkJava 
-  },
-
-  lintGo: {
-    name: 'Check Go',
-    action: checkGo
-  },
-
-  encodeBase64: {
-    name: 'Base64 Encode',
-    action: encodeBase64 
-  },
-   
-  decodeBase64: {
-    name: 'Base64 Decode',
-    action: decodeBase64
-  }  
-
-};
-
-// Helper functions
-
-function encodeBase64(content) {
-  return btoa(content); 
-}
-   
-function decodeBase64(content) {
- return atob(content);
 }
 
-// Linters & Syntax Checkers
+// JSON linter
+function lintJson(jsonString) {
 
-function lintYaml(content) {
-  YAML.load(content);
-  alert('No YAML issues!');
+  const ajv = new Ajv(); 
+
+  try {
+    ajv.compile(jsonString);
+  } catch(error) {
+    // Handle json parse error
+  }
+
+  const valid = ajv.validate(jsonString);
+
+  if (!valid) {
+   // Handle validation errors
+  }
+
+  console.log('JSON passed all checks!')
 } 
 
-// Other linting functions...
+// Sample usage 
 
-// Populate select menu 
-Object.values(actions).forEach(action => {
-  const option = document.createElement('option'); 
-  option.value = action.name;
-  option.text = action.name;
-  select.add(option);
-});
+const yamlString = `
+  foo: 
+    bar: baz  
+`;
 
-// Run button click handler
-runButton.addEventListener('click', () => {
-  
-  const action = actions[select.value.toLowerCase().replace(/\s/g, '')]; 
-  const content = editor.value;
-  
-  action.action(content);
-  
-});
+lintYaml(yamlString);
+
+const jsonString = `{
+  "name": "Product"
+}`;
+
+lintJson(jsonString);
