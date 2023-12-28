@@ -14,7 +14,7 @@ aliases = [
 
 ## Tagline
 
-Open Source Diplomat | Kubernetes Contributor | Developer Marketing | Disabled Veteran | Detroit | He/Him/His | Views solely mine
+Open Source Diplomat | Kubernetes Contributor | Developer & Technical Marketing | Disabled Veteran | Detroit | He/Him/His | Views solely mine
 
 ## Pronouns
 
