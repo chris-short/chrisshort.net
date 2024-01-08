@@ -1,8 +1,9 @@
 +++
 author = "Chris Short"
-date = 2020-11-07T00:00:01Z
+date = 2024-01-11:41:01Z
 description = "Test your internet connection with OpenSpeedTest"
 draft = false
+ShowTOC = false
 tags = ["speed", "speed test", "test speed"]
 title = "Speed Test"
 aliases = [
