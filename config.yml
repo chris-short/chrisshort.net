@@ -6,7 +6,7 @@ pygmentsStyle: trac
 pygmentsUseClasses: true
 pygmentsCodeFences: true
 pygmentsCodefencesGuessSyntax: true
-paginate: 8
+paginate: 5
 permalinks:
     post: ":title/"
 Params:
