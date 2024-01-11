@@ -14,14 +14,15 @@ aliases = ["ansible-user-management"]
 
 +++
 
-*The contents of this article originally appeared on [DZone](https://dzone.com/articles/user-management-with-ansible)*
+*The contents of this article originally appeared on [DZone](https://web.archive.org/web/20160923080533/https://dzone.com/articles/user-management-with-ansible)*
+
+{{< carbon >}}
 
 A few weeks ago, one of my [**DevOps**](https://devopsish.com/) counterparts was working on building out a new environment for one of our applications. This deployment included a new Puppet server (we are in an orchestration/configuration management state of flux) and my teammate was having some issues provisioning users (I did not ask why nor did I really care). My teammate asked if I could help with some Ansible knowledge.
 
 {{< tweet user="ChrisShort" id="768485051180978176" >}}
 
 User management usually falls into one of two categories; disjointed or a monumental effort. This Ansible solution could be that nice middle ground between the disjointed and monumental.
-
 
 There are probably a dozen or more ways to manage users with Ansible. But for the quick and dirty requirement to add specific (and intelligent) users, I believe this Ansible role is a good approach.
 

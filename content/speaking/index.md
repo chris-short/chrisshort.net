@@ -146,9 +146,10 @@ Blog Post: [How to Teach Old Apps New Tricks with Ansible-based Operators (Parts
 
 Date: 2018-11-14  
 Event: [Ansible Automates: Tampa](https://www.eventbrite.com/e/ansible-automates-tampa-registration-50228564990)  
-Video: [Ansible and Red Hat Management - better...stronger...faster](https://www.brighttalk.com/webinar/ansible-and-red-hat-management-better-stronger-faster?utm_source=RedHat)
+Video: Ansible and Red Hat Management - better...stronger...faster (source unavailable)
+Slides: [Making Red Hat Management Better... Faster... Stronger](https://shortcdn.com/chrisshort/Ansible%20and%20Red%20Hat%20Management_Chris%20Short.pdf)
 
-I also participated in the [Ansible Q&A Panel](https://www.brighttalk.com/webinar/qa-panel?utm_source=RedHat) at the end of this event.
+I also participated in the Ansible Q&A Panel at the end of this event.
 
 ### All Day DevOps 2018: DevOps is Not War
 

@@ -45,6 +45,27 @@ Params:
           url: mailto:chrisshort@duck.com
         - name: rss
           url: https://chrisshort.net/index.xml
+      
+    keywords:
+      - Chris Short
+      - Tech
+      - Open Source
+      - Disabled Veteran
+      - Long Thoracic Nerve Palsy
+      - Winging Scapula
+      - Detroit
+      - Developer Marketing
+      - Developer Relations
+      - Developer Advocacy
+      - Kubernetes
+      - Kubernetes Contributor
+      - DevOps
+      - macOS Screensavers
+      - macOS Screen Saver
+      - Interviews
+      - Speaking
+      - Privacy
+      - Security
 
     mainSections:
         - post
