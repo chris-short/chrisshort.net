@@ -34,11 +34,11 @@ Produced by [Jaymee Franchina](https://soundcloud.com/jaymeefranchina) and Jerem
 
 ## Life After Death Star
 
-Life After Death Star is a mashup of Star Wars scores and The Notorious B.I.G. Life After Death Star is a very well put together remix that reminds you how good both Star Wars theme music and sound effects are. [Solar Slim and Richie Branson put Life After Death Star](http://lifeafterdeathstar.net/) together. It is a truly fantastic mashup! Download [**Life After Death Star**](http://lifeafterdeathstar.net/) directly, grab a [torrent](https://shortcdn.com/chrisshort/life_after_death_star_(2015).torrent), or stream it
-
-<iframe width="100%" height="450" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/169656164&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=true"></iframe>
+Life After Death Star is a mashup of Star Wars scores and The Notorious B.I.G. Life After Death Star is a very well put together remix that reminds you how good both Star Wars theme music and sound effects are. [Solar Slim and Richie Branson put Life After Death Star](https://soundcloud.com/otaku-gang/sets/life-after-death-star) together. It is a truly fantastic mashup! Download [**Life After Death Star**](https://shortcdn.com/chrisshort/Life%20After%20Death%20Star%20(The%20Notorious%20B.I.G.%20vs%20Star%20Wars).zip) (zip)
 
 The [instrumentals for Life After Death Star](https://shortcdn.com/chrisshort/LADS%20Instrumentals%20-%20TEAMBACKPACK.zip) are also available.
+
+<iframe width="100%" height="450" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/169656164&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=true"></iframe>
 
 ## Blue Eyes Meets Bed-Stuy
 

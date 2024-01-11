@@ -24,7 +24,7 @@ Screensavers, you say? They’re more art than function these days. But, why not
 
 ## fliqlo
 
-Welcome [padbury.app](https://padbury.app) visitor's! The Padbury Clock wasn't built by me and modern versions of macOS no longer support the old code. Instead, I recommend fliqlo as a modern replacement. Since running older code like Padbury Clock is potentially hazardous, I will no longer make a copy of it available (sorry, lawyers).
+Welcome padbury.app visitor's! The Padbury Clock wasn't built by me and modern versions of macOS no longer support the old code. Instead, I recommend fliqlo as a modern replacement. Since running older code like Padbury Clock is potentially hazardous, I will no longer make a copy of it available (sorry, lawyers).
 
 ![Fliqlo](https://shortcdn.com/chrisshort/fliqlo.webp#center)
 
@@ -48,9 +48,10 @@ A prepackaged screensaver with macOS since Catalina Beta 3, Drift has a flowy ki
 >
 >Aerial is completely open source, so feel free to contribute to its development.
 
+On macOS 14 (Sonoma) and later these are available and managed natively without 3rd party software.
+
 This screensaver is cool af. For years, the Apple TV came with these beautiful flyover screensavers that were just wonderful. Finally, someone came along and grabbed them out of the Apple TV Developers Kit and made them available on GitHub for everyone to enjoy.
 
 [Aerial](https://aerialscreensaver.github.io/) is a wonderfully maintained and curated collection of Apple created, extravagant flyovers of places and dives through things. There is even a [Linux port of Aerial](https://github.com/graysky2/xscreensaver-aerial/). It's a real delight to have it on the Apple TV I use to monitor [OpenShift.tv](https://openshift.tv). It's a friendly reminder that there's a much bigger world out there.
 
 But, a gentle reminder that if you don't have a graphics card, you're going to be eating a lot of CPU with your screensaver.
-
