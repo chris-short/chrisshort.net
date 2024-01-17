@@ -11,7 +11,7 @@ title = "Chilling Effect of Google Manifesto"
 
 +++
 
-**UPDATE**: According to Kara Swisher at Recode, [Google has fired James Damore](https://www.recode.net/2017/8/7/16110696/firing-google-ceo-employee-penned-controversial-memo-on-women-has-violated-its-code-of-conduct), the author of the memo that is the topic of this article.
+**UPDATE**: According to Kara Swisher at Recode, [Google has fired James Damore](https://www.vox.com/2017/8/7/16110696/firing-google-ceo-employee-penned-controversial-memo-on-women-has-violated-its-code-of-conduct), the author of the memo that is the topic of this article.
 
 {{< carbon >}}
 
