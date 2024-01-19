@@ -39,6 +39,7 @@ Burnout can happen at any point in everyone's career. But, what happens when bur
 * A job lost/layoffs
 * A global pandemic
 * Toxic family members
+* Personal Story Thread: A Netflix series that hit WAY too close to home
 
 ### Welcome to burnout++ — Managing the Chaos
 
