@@ -5,10 +5,8 @@ date = 2023-04-10T07:00:00Z
 description = "Recognizing and Managing Burnout; What Happens When Burnout Occurs with Other Problems"
 draft = false
 slug = "burnout++"
-tags = ["burnout"]
+tags = ["burnout", "mental health", "self care"]
 title = "burnout++"
-image = "https://shortcdn.com/chrisshort/burnout++.webp"
-alt = "burnout++ title slide featuring the name on the left and a roaring fire on the right"
 aliases = [
     "/cfp/burnout++/"
 ]
