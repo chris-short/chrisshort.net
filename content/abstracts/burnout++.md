@@ -1,16 +1,20 @@
 +++
 author = "Chris Short"
-categories = ["CFP"]
+categories = ["CFP", "2023"]
 date = 2023-04-10T07:00:00Z
-description = "What Happens When Burnout Occurs with Other Problems"
+description = "Recognizing and Managing Burnout; What Happens When Burnout Occurs with Other Problems"
 draft = false
 slug = "burnout++"
 tags = ["burnout"]
 title = "burnout++"
+image = "https://shortcdn.com/chrisshort/burnout++.webp"
+alt = "burnout++ title slide featuring the name on the left and a roaring fire on the right"
 aliases = [
     "/cfp/burnout++/"
 ]
 +++
+
+![burnout++ title slide featuring the name on the left and a roaring fire on the right](https://shortcdn.com/chrisshort/burnout++.webp)
 
 ## Abstract
 
