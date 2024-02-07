@@ -25,10 +25,6 @@ Params:
             Open Source Diplomat | Kubernetes Contributor | Developer & Technical Marketing | Disabled Veteran | Detroit | He/Him/His | Views solely mine
 
     socialIcons:
-        - name: open-collective
-          url: https://opencollective.com/thechrisshort
-        - name: github
-          url: https://github.com/chris-short
         - name: linkedin
           url: https://www.linkedin.com/in/thechrisshort
         - name: mastodon
@@ -37,6 +33,8 @@ Params:
           url: https://twitter.com/ChrisShort
         - name: reddit
           url: https://www.reddit.com/r/devopsish/
+        - name: github
+          url: https://github.com/chris-short
         - name: producthunt
           url: https://www.producthunt.com/@chrisshort
         - name: youtube
