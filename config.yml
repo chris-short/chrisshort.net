@@ -25,6 +25,8 @@ Params:
             Open Source Diplomat | Kubernetes Contributor | Developer & Technical Marketing | Disabled Veteran | Detroit | He/Him/His | Views solely mine
 
     socialIcons:
+        - name: open-collective
+          url: https://opencollective.com/thechrisshort
         - name: github
           url: https://github.com/chris-short
         - name: linkedin
