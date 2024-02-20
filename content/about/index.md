@@ -14,11 +14,11 @@ aliases = [
 
 ## Tagline
 
-Open Source Diplomat | Kubernetes Contributor | Developer & Technical Marketing | Disabled Veteran | Detroit | He/Him/His | Views solely mine
+
 
 ## Brief Bio
 
-**Chris Short** has been a proponent of open source solutions throughout his 20+ years in various IT disciplines, including systems, security, networks, DevOps management, and cloud native advocacy across the public and private sectors. He currently works as a Developer Advocate at Amazon Web Services, and is an active [Kubernetes contributor](https://www.kubernetes.dev/). Chris is a disabled US Air Force veteran living with his wife and son in  Metro Detroit. Chris writes about Cloud Native, DevOps, and other topics at [ChrisShort.net](https://chrisshort.net).
+Open Source Diplomat | Kubernetes Contributor | Developer Advocate | r/devopsish | Disabled Veteran | Detroit | AWS Open Source Strategy & Marketing | He/Him/His | Views solely mine
 
 ## Extended Bio
 
