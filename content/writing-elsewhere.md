@@ -10,19 +10,19 @@ aliases = [
 ]
 +++
 
-## Kubernetes Legacy Package Repositories Will Be Frozen On September 13, 2023
+## [Kubernetes Legacy Package Repositories Will Be Frozen On September 13, 2023](https://kubernetes.io/blog/2023/08/31/legacy-package-repository-deprecation/)
 
 **Authors:** Bob Killen (Google), Chris Short (AWS), Jeremy Rickard (Microsoft), Marko Mudrinić (Kubermatic), Tim Bannister (The Scale Factory)
 
 > On August 15, 2023, the Kubernetes project announced the general availability of the community-owned package repositories for Debian and RPM packages available at pkgs.k8s.io. The new package repositories are replacement for the legacy Google-hosted package repositories: apt.kubernetes.io and yum.kubernetes.io. The announcement blog post for pkgs.k8s.io highlighted that we will stop publishing packages to the legacy repositories in the future.
 
-## k8s.gcr.io Redirect to registry.k8s.io - What You Need to Know
+## [k8s.gcr.io Redirect to registry.k8s.io - What You Need to Know](https://kubernetes.io/blog/2023/03/10/image-registry-redirect/)
 
 **Authors**: Bob Killen (Google), Davanum Srinivas (AWS), Chris Short (AWS), Frederico Muñoz (SAS Institute), Tim Bannister (The Scale Factory), Ricky Sadowski (AWS), Grace Nguyen (Expo), Mahamed Ali (Rackspace Technology), Mars Toktonaliev (independent), Laura Santamaria (Dell), Kat Cosgrove (Dell)
 
 > On Monday, March 20th, the k8s.gcr.io registry will be redirected to the community owned registry, registry.k8s.io .
 
-## Prow and Tide for Kubernetes Contributors
+## [Prow and Tide for Kubernetes Contributors](https://www.kubernetes.dev/blog/2022/12/12/prow-and-tide-for-kubernetes-contributors)
 
 **Authors**: Authors: Chris Short, Frederico Muñoz
 
