@@ -21,11 +21,18 @@ If you're looking for podcasts or interviews I've took part in, please head over
 
 ## Talks
 
+### DevOpsDays Detroit 2023
+
+My latest CFP is about burnout. Burnout can happen at any point in everyone's career. But, what happens when burnout is taking place amongst other things? Contributing to open source becoming harder for you? Becoming unemployed? Your s/o having a miscarriage? Veteran dealing with time in service and injuries from it? Let's discuss realizing you're approaching or are burned out, the why behind that, and coping mechanisms.
+
+Date: 2023-10-18  
+[**Watch Now**](/video/devopsdays-detroit-2023-burnout-plus-plus/)
+
 ### AWS Container Day featuring Kubernetes at KubeCon EU 2023 (Amsterdam Amazon Office)
 
 My team at AWS was in charge of our KubeCon EU 2023 activities. Container Day was an awesome seven hour live stream (with a little bit of hybrid event chaos) all about Containers, Kubernetes, and the Cloud Native ecosystem. It was an honor to be given hosting duties alongside [Nathan Peck](https://nathanpeck.com/). It was fun to live stream again.
 
-Date: 2023-04-18
+Date: 2023-04-18  
 [**Watch Now**](https://www.youtube.com/live/LGD52z0LxAA)
 
 ### Live stream: What ultra-successful people who practice DevRel know and do
@@ -54,7 +61,7 @@ I had the pleasure of opening and closing GitOpsCon EU 2022. It was the first ti
 Date: 2022-05-15  
 [**Watch Now**](/video/aws-container-days-eu-2022-day-3/)
 
-> Join us for AWS Containers Days @ KubeCon + CloudNativeCon Europe 2022! In the days leading up to Kubecon + CloudNativeCon we’ll be spending the week talking about how you can deploy, manage, and scale containerized applications using Kubernetes on AWS. These sessions, led by our AWS Kubernetes team and guest speakers, will contain technical deep dives, product demos, and best practices.
+> Join us for AWS Containers Days @ KubeCon + CloudNativeCon Europe 2022! In the days leading up to Kubecon + CloudNativeCon we'll be spending the week talking about how you can deploy, manage, and scale containerized applications using Kubernetes on AWS. These sessions, led by our AWS Kubernetes team and guest speakers, will contain technical deep dives, product demos, and best practices.
 
 ### Panel Discussion: Marketing as Code: How to Rock Out with Non-Code Contributions — KubeCon + CloudNativeCon NA 2021
 
