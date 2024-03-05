@@ -25,4 +25,3 @@ Download as [MP4](https://shortcdn.com/chrisshort/DevOps-is-not-War-DOD-RDU.mp4)
 Source: [DevOps is Not War - Chris Short](https://youtu.be/eKOGQKHOBNg)
 
 {{< speaker >}}
-
