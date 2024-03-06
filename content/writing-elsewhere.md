@@ -10,6 +10,8 @@ aliases = [
 ]
 +++
 
+# Kubernetes
+
 ## [Kubernetes Legacy Package Repositories Will Be Frozen On September 13, 2023](https://kubernetes.io/blog/2023/08/31/legacy-package-repository-deprecation/)
 
 **Authors:** Bob Killen (Google), Chris Short (AWS), Jeremy Rickard (Microsoft), Marko Mudrinić (Kubermatic), Tim Bannister (The Scale Factory)
@@ -42,25 +44,25 @@ aliases = [
 
 > Kubernetes is removing dockershim in the upcoming v1.24 release. We're excited to reaffirm our community values by supporting open source container runtimes, enabling a smaller kubelet, and increasing engineering velocity for teams using Kubernetes...
 
-## [Prow and Tide for Kubernetes Contributors](https://www.kubernetes.dev/blog/2021/07/09/how-to-choose-a-sig-as-a-non-code-kubernetes-contributor/)
-
-> Kubernetes contributors aren't people in capes or part of some secret society. How to start committing to the GitHub repos that make up the project is well documented, yet it remains intimidating for many.
-
 ## [How to choose a SIG as a non-code Kubernetes contributor](https://www.kubernetes.dev/blog/2021/07/09/how-to-choose-a-sig-as-a-non-code-kubernetes-contributor/)
 
 > My first work in the cloud native world was working with the SIG Docs team. I helped review some documentation and learned some of their processes. I wasn't there long before I found out about another great SIG: Contributor Experience. Contributor Experience is all about improving the workflow, removing bottlenecks, and generally making Kubernetes a great project to contribute your time and effort. I knew ContribEx (as it's called) is where I could make an impact.
 
 # AWS
 
-## Changes to the Kubernetes Container Image Registry
+## [Amazon EKS and Kubernetes sessions at AWS re:Invent 2023](https://aws.amazon.com/blogs/containers/amazon-eks-and-kubernetes-sessions-at-aws-reinvent-2023/)
+
+>AWS re:Invent 2023 is right around the corner, offering a full track of sessions focused on Kubernetes and cloud-native related topics. To help you discover and select the right sessions for you, we’ve listed the sessions below grouped by core focus area with links to the re:Invent sessions catalog.
+
+## [Changes to the Kubernetes Container Image Registry](https://aws.amazon.com/blogs/containers/changes-to-the-kubernetes-container-image-registry/)
 
 > The release of Kubernetes 1.25 was when [it was first announced](https://kubernetes.io/blog/2022/08/23/kubernetes-v1-25-release/#moved-container-registry-service-from-k8s-gcr-io-to-registry-k8s-io) that the Kubernetes project would be updating its official container image registry endpoint from [k8s.gcr.io](http://k8s.gcr.io/) to the community owned registry, [registry.k8s.io](http://registry.k8s.io/). The goal was to eventually sunset the old registry over time. However, as [highlighted on the official Kubernetes website](https://kubernetes.io/blog/2023/02/06/k8s-gcr-io-freeze-announcement/), this changeover has since been expedited to adopt a more sustainable infrastructure model with the first set of changes happening on **Monday March 20, 2023**. This post covers what changes are happening, why they're happening, important dates to keep in mind, and what actions you need to take.
 
-## Amazon EKS now supports Kubernetes 1.23
+## [Amazon EKS now supports Kubernetes 1.23](https://aws.amazon.com/blogs/containers/amazon-eks-now-supports-kubernetes-1-22/)
 
 > The Amazon Elastic Kubernetes Service (Amazon EKS) team is happy to announce support for Kubernetes 1.23. Amazon EKS and Amazon EKS Distro can now run Kubernetes version 1.23, with support in Amazon EKS Anywhere launching soon after.
 
-## Amazon EKS now supports Kubernetes 1.22
+## [Amazon EKS now supports Kubernetes 1.22](https://aws.amazon.com/blogs/containers/amazon-eks-now-supports-kubernetes-1-23/)
 
 > The Amazon Elastic Kubernetes Service (Amazon EKS) team is pleased to announce support for Kubernetes 1.22. Amazon EKS, Amazon EKS Distro, and Amazon EKS Anywhere can now run Kubernetes version 1.22. The upstream project theme for this release is “Reaching New Peaks.” The theme for the release, according to release lead [Savitha Raghunathan](https://github.com/savitharaghunathan), is due to what she described as: “in spite of the pandemic and burnout, Kubernetes 1.22 had the highest number of enhancements in any release.” This release does bring a significant number of API changes, a Kubernetes release cadence change, and many other updates. Thank you for all the work the upstream [Kubernetes 1.22 Release Team](https://github.com/kubernetes/sig-release/blob/master/releases/release-1.22/release-team.md) did to bring this release to the greater cloud-native ecosystem.
 
