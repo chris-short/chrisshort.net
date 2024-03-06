@@ -6,7 +6,7 @@ description = "DevOps needs to focus on more than Dev and Ops to be truly transf
 draft = false
 slug = "devopsdays-detroit-2023-burnout-plus-plus"
 tags = ["talks", "speaking", "videos", "public speaking", "burnout"]
-title = "DevOps is Not War - DevOpsDays Raleigh 2019"
+title = "Burnout++ - DevOpsDays Detroit 2023"
 ShowTOC = false
 +++
 
