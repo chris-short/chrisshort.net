@@ -12,8 +12,6 @@ aliases = [
 
 +++
 
-{{- partial "social_icons.html" $.Site.Params.socialIcons -}}
-
 ## Tagline
 
 Open Source Diplomat | Kubernetes Contributor | Developer Advocate | r/devopsish | Disabled Veteran | Detroit | AWS Open Source Strategy & Marketing | He/Him/His | Views solely mine
