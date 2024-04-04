@@ -21,11 +21,11 @@ If you're looking for podcasts or interviews I've took part in, please head over
 
 ## Talks
 
-### Burnout++ Cloud Native Rejekts EU 2023
+### Burnout++ Cloud Native Rejekts EU 2024
 
 A deep dive into what burnout is, how to assess or measure it, and stories on coping and managing the **burnout** from my own real life experiences.
 
-Date: 2024-03-17 
+Date: 2024-03-17  
 [**Watch Now**](/video/cloud-native-rejeckts-eu-2024-burnout-plus-plus)
 
 ### Burnout++ DevOpsDays Detroit 2023
