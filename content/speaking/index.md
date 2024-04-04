@@ -21,9 +21,16 @@ If you're looking for podcasts or interviews I've took part in, please head over
 
 ## Talks
 
-### DevOpsDays Detroit 2023
+### Burnout++ Cloud Native Rejekts EU 2023
 
-My latest CFP is about burnout. Burnout can happen at any point in everyone's career. But, what happens when burnout is taking place amongst other things? Contributing to open source becoming harder for you? Becoming unemployed? Your s/o having a miscarriage? Veteran dealing with time in service and injuries from it? Let's discuss realizing you're approaching or are burned out, the why behind that, and coping mechanisms.
+A deep dive into what burnout is, how to assess or measure it, and stories on coping and managing the **burnout** from my own real life experiences.
+
+Date: 2024-03-17 
+[**Watch Now**](/video/cloud-native-rejeckts-eu-2024-burnout-plus-plus)
+
+### Burnout++ DevOpsDays Detroit 2023
+
+My latest [CFP](/abstracts/) is about **burnout**. Burnout can happen at any point in everyone's career. But, what happens when burnout is taking place amongst other things? Contributing to open source becoming harder for you? Becoming unemployed? Your s/o having a miscarriage? Veteran dealing with time in service and injuries from it? Let's discuss realizing you're approaching or are burned out, the why behind that, and coping mechanisms.
 
 Date: 2023-10-18  
 [**Watch Now**](/video/devopsdays-detroit-2023-burnout-plus-plus/)

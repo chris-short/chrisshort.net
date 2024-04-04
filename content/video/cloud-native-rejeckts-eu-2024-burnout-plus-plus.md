@@ -1,12 +1,12 @@
 +++
 author = "Chris Short"
 categories = ["Video", "Burnout"]
-date = 2023-10-18T07:00:00Z
+date = 2024-04-04T07:00:00Z
 description = "Burnout can happen at any point in everyone's career. But, what happens when burnout is taking place amongst other things?"
 draft = false
-slug = "devopsdays-detroit-2023-burnout-plus-plus"
+slug = "cloud-native-rejeckts-eu-2023-burnout-plus-plus"
 tags = ["talks", "speaking", "videos", "public speaking", "burnout"]
-title = "Burnout++ - DevOpsDays Detroit 2023"
+title = "Burnout++ - Cloud Native Rejekts EU 2024"
 ShowTOC = false
 +++
 
@@ -14,12 +14,12 @@ ShowTOC = false
 
 > Burnout can happen at any point in everyone's career. But, what happens when burnout is taking place amongst other things? Your s/o having a miscarriage? Veteran dealing with time in service and injuries from it? Becoming unemployed? Let's discuss realizing you're approaching or are burned out, the why behind that, and coping mechanisms.
 
-{{< youtube v_hM3VkDoeA >}}
+{{< youtube F6-VZ8eOlg8 >}}
 
-Slides: [Burnout++](https://speakerdeck.com/chrisshort/burnout-plus-plus)
+Slides: [Burnout++](https://docs.google.com/presentation/d/1zpRNJtSTj6RrBZk2oMFr8rokILFCodkY4ZiXbfoLunw/edit?usp=sharing) (Google Slides)
 
-Download as [MP4](https://shortcdn.com/chrisshort/chris-short-devopsdays-detroit-2023-burnout-plus-plus.mp4)
+Download as [MP4](https://shortcdn.com/chrisshort/Burnout++_Recognizing-and-Managing-Burnout.mp4)
 
-Source: [Chris Short - Burnout++ - DevOpsDays Detroit 2023](https://youtu.be/v_hM3VkDoeA)
+Source: [Burnout++ - Cloud Native Rejekts EU 2024 - Chris Short](https://youtu.be/F6-VZ8eOlg8)
 
 {{< speaker >}}
