@@ -12,7 +12,9 @@ aliases = [
     "ltn",
     "disability",
     "disabled-veteran",
-    "disabled"
+    "disabled",
+    "pain",
+    "chronic-pain"
 ]
 
 +++
