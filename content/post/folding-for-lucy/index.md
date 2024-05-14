@@ -6,7 +6,7 @@ date = 2024-05-15T07:00:00Z
 description = "After the death of my niece, Lucy, I decided to donate a portion of our household compute to cancer research through Folding@Home"
 draft = false
 slug = "folding-for-lucy"
-tags = ["cancer", "Folding@Home", "research", "niece", "GPU", "compute", "#FoldingForLucy"]
+tags = ["cancer", "Folding@Home", "research", "niece", "GPU", "compute", "FoldingForLucy"]
 ShowTOC = true
 title = "Folding for Lucy"
 [cover]
