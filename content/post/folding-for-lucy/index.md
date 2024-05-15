@@ -7,7 +7,7 @@ description = "After the death of my niece, Lucy, I decided to donate a portion 
 draft = false
 slug = "folding-for-lucy"
 tags = ["cancer", "Folding@Home", "research", "niece", "GPU", "compute", "FoldingForLucy"]
-ShowTOC = true
+ShowTOC = ~~false~~
 title = "Folding for Lucy"
 [cover]
 image = "https://shortcdn.com/chrisshort/folding-for-lucy-tweet.png"
