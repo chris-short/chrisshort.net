@@ -9,7 +9,7 @@ tags = [""]
 ShowTOC = false
 title = "Kubernetes Likely Saved My Life"
 [cover]
-image = "https://shortcdn.com/chrisshort/folding-for-lucy-tweet.png"
+image = "https://shortcdn.com/chrisshort/KubeCon_10thAnniversary_Sticker.webp"
 alt = ""
 
 +++
@@ -24,9 +24,9 @@ I started tinkering with Kubernetes one night in our Wake Forest, NC, house in 2
 
 Not too long after this, I recall sitting in my cubicle while I was at SolarWinds MSP (now called [N-able][4]) in Raleigh in 2017 and contributing to the Special Interest Group (SIG) for Docs ([my first Kubernetes PR][5]). I loved being able to work on a project while learning the technology. Plus, the people were terrific. I enjoyed working with the folks around the Kubernetes project and saw Go code being used extensively for the first time—a co-worker introduced me to Go years before. We had gone to a few Go Meetups in Raleigh (where I met Vincent Batts and Michael Hrivnak, which means I learned about containers at one of these Meetups).
 
-By now, I'd already set up a baby Kubernetes cluster on Raspberry Pis in my home office (yes, [before Max and I built this cluster][6]). The cluster was slow, but the workloads I had to test were cronjobs, scripts, and random containers I'd spin up as part of a [DaemonSet][7] and [Deployment][8] to test my skills. Kubernetes had many moving pieces, and there was no way I could learn them all with my existing slate of doctor's appointments and other things that took me away from technology.
+By now, I'd already set up a baby Kubernetes cluster on Raspberry Pis in my home office (yes, [before Max and I built this cluster][6]). The cluster was slow, but the workloads I had to test were cronjobs, scripts, and random containers I'd spin up as part of a [DaemonSet][7] and [Deployment][8] to test my skills. Kubernetes had many moving pieces, and there was no way I could learn them all with my existing slate of doctor's appointments and other things that took me away from technology.A getting to know you exercise
 
-![](https://shortcdn.com/chrisshort/professionally-known-for.png)
+[![Three Things Chris Short is Professionally Known For from A getting to know you exercise](https://shortcdn.com/chrisshort/professionally-known-for.png)](https://chrisshort.net/a-getting-to-know-you-exercise/#three-things)
 
 ## Contributing
 
