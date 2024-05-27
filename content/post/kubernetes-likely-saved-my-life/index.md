@@ -16,7 +16,7 @@ alt = "Happy 10th Birthday Kubernetes"
 
 {{< carbon >}}
 
-Kubernetes and I share something: We were born on June 6th. I've contributed to Kubernetes for 70% of its life. Today, Kubernetes turns 10. There are many things I could write about to commemorate this day. It has improved my life (like every other open source project I have worked on) by giving me desirable skills in an emerging space. It also allowed me to lead again (I'm a co-lead of the [Kubernetes Contributor Comms subproject][4]). Today, however, I'm writing about a personal story that would not be befitting of Kubernetes' websites ([K8s.io][1] and [K8s.dev][2]). As it's personal and my life is eventful, there's been a lot of twists and turns
+Kubernetes and I share something: We were born on June 6th (I didn't pick the date; I probably would've though to take more attention away from me). I've contributed to Kubernetes for 70% of its life. Today, Kubernetes turns 10. There are many things I could write about to commemorate this day. It has improved my life (like every other open source project I have worked on) by giving me desirable skills in an emerging space. It also allowed me to lead again (I'm a co-lead of the [Kubernetes Contributor Comms subproject][4]). Today, however, I'm writing about a personal story that would not be befitting of Kubernetes' websites ([K8s.io][1] and [K8s.dev][2]). As it's personal and my life is eventful, there's been a lot of twists and turns
 
 ## Humble Beginnings
 
@@ -26,7 +26,7 @@ Not too long after this, I recall sitting in my cubicle while I was at SolarWind
 
 By now, I'd already set up a baby Kubernetes cluster on Raspberry Pis in my home office (yes, [before Max and I built this cluster][6]). The cluster was slow, but the workloads I had to test were cronjobs, scripts, and random containers I'd spin up as part of a [DaemonSet][7] and [Deployment][8] to test my skills. Kubernetes had many moving pieces, and there was no way I could learn them all with my existing slate of doctor's appointments and other things that took me away from technology.A getting to know you exercise
 
-[![Three Things Chris Short is Professionally Known For from A getting to know you exercise](https://shortcdn.com/chrisshort/professionally-known-for.png)](https://chrisshort.net/a-getting-to-know-you-exercise/#three-things)
+[![Three Things Chris Short is Professionally Known For from A getting to know you exercise][15]][16]
 
 ## Contributing
 
@@ -52,7 +52,7 @@ Fast forward to September 2017, I was having a lot of anxiety around my hell wee
 
 Anxiety (and depression) became palpable and started changing me. I had to quit my job as a Manager of DevOps & Infrastructure. The stress this role was putting on me as I was navigating these symptoms alone was compromising my mental health even more (don't work for a workaholic was a big takeaway from this).
 
-No matter. I had another job lined up to work at StockX on their Kubernetes clusters, which became [the source of a hack](https://techcrunch.com/2019/08/03/stockx-hacked-millions-records/) later on. StockX pulled their offer at 3 PM on Wednesday before Thanksgiving (I was supposed to start after Thanksgiving 2017). The source of this rejection was the Quicken/Rocket family of companies, which Dan Gilbert owned in addition to StockX. Dan Gilbert has a stake in most of downtown Detroit through his Bedrock property management company.
+No matter. I had another job lined up to work at StockX on their Kubernetes clusters, which became [the source of a hack][17] later on. StockX pulled their offer at 3 PM on Wednesday before Thanksgiving (I was supposed to start after Thanksgiving 2017). The source of this rejection was the Quicken/Rocket family of companies, which Dan Gilbert owned in addition to StockX. Dan Gilbert has a stake in most of downtown Detroit through his Bedrock property management company.
 
 I had interviewed there previously, and I rejected the offer when the recruiters tried to pull a fast one on me and cut my salary expectations to match how Quicken does things (underpays and overworks). I was livid. Quicken brought me up here and showed me parts of Detroit that I still show off to people today. The recruiters put me in a corner where I had to either significantly reduce my expected salary or reject the offer outright, which I did. I then went to town on the recruiters for doing something so unethical. That word made it back to the company, and then I was blackballed at Quicken/Rocket, which had a material impact on my job prospects in downtown Detroit. I should've brought a civil case against the recruiters, but all that would do is bankrupt them financially. It wouldn't change the fact they were morally bankrupt.
 
@@ -90,7 +90,7 @@ In the US, you need a psychiatrist who gives you medicine, and you need a therap
 
 There are many ways to get to therapy now, thanks to a proliferation of mental health apps and many types of treatments. The therapy that helped me the most was **_[Eye Movement Desensitization and Reprocessing][14]_** [(EMDR)][14]. Many people have heard of Cognitive Behavioral Therapy (CBT), but there's a newer specialty called EMDR. I had read about it in WIRED as an emerging therapy **_years_** before. My wife, Julie, had read a detailed piece about how it helped people who had experienced multiple traumas. She recalled the WIRED piece I'd read and told her it might be helpful in the future. The article Julie read made it clear this was for me, and it was now available to many folks. That's when I knew it was now time to pursue EMDR and find a therapist who could do this.
 
-[![This Graphic Perfectly Shows How EMDR Can Help You With Trauma | https://themighty.com/topic/trauma/therapy-illustrated-emdr-graphic-trauma/](https://shortcdn.com/chrisshort/EMDR-Therapy-Before-After.jpg)](https://themighty.com/topic/trauma/therapy-illustrated-emdr-graphic-trauma/)
+[![This Graphic Perfectly Shows How EMDR Can Help You With Trauma | Source: https://themighty.com/topic/trauma/therapy-illustrated-emdr-graphic-trauma/][18]](https://themighty.com/topic/trauma/therapy-illustrated-emdr-graphic-trauma/)
 
 EMDR is very interesting. You and your therapist work to list all the impactful things that have happened in your life up to this point. You and your therapist queue up a previously discussed memory. The hard part is when you're reviewing every minute detail to ensure you connect to the feelings you've suppressed.
 
@@ -118,3 +118,7 @@ Anything is possible with the proper care. In conclusion, a kid with a rough upb
 [12]: https://youtu.be/wyKQe_i9yyo
 [13]: https://www.youtube.com/@OpenShift/search?query=chris%20short
 [14]: https://www.emdr.com/what-is-emdr/
+[15]: https://shortcdn.com/chrisshort/professionally-known-for.png
+[16]: https://chrisshort.net/a-getting-to-know-you-exercise/#three-things
+[17]: https://techcrunch.com/2019/08/03/stockx-hacked-millions-records/
+[19]: https://shortcdn.com/chrisshort/EMDR-Therapy-Before-After.jpg
