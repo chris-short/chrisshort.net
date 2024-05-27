@@ -10,7 +10,7 @@ ShowTOC = false
 title = "Kubernetes Likely Saved My Life"
 [cover]
 image = "https://shortcdn.com/chrisshort/KubeCon_10thAnniversary_Sticker.webp"
-alt = "Happy 10th Birthday Kubernetes"
+alt = "Happy 10th Birthday, Kubernetes"
 
 +++
 
