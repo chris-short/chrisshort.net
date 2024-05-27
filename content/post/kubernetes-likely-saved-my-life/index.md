@@ -3,9 +3,9 @@
 author = "Chris Short"
 categories = ["Kubernetes", "Open Source", "2024"]
 date = 2024-06-06T07:00:00Z
-description = ""
+description = "Kubernetes contributor Chris Short recounts how the open source project, its community, and access to mental health resources through an employer likely saved his life while struggling with PTSD, anxiety, and depression."
 slug = "kubernetes-likely-saved-my-life"
-tags = ["Kubernetes", "Open Source"]
+tags = ["Kubernetes", "Open Source", "mental health", "EMDR", "community", "therapist", "psychiatrist", "KubeCon"]
 ShowTOC = false
 title = "Kubernetes Likely Saved My Life"
 [cover]
@@ -121,4 +121,4 @@ Anything is possible with the proper care. In conclusion, a kid with a rough upb
 [15]: https://shortcdn.com/chrisshort/professionally-known-for.png
 [16]: https://chrisshort.net/a-getting-to-know-you-exercise/#three-things
 [17]: https://techcrunch.com/2019/08/03/stockx-hacked-millions-records/
-[19]: https://shortcdn.com/chrisshort/EMDR-Therapy-Before-After.jpg
+[18]: https://shortcdn.com/chrisshort/EMDR-Therapy-Before-After.jpg
