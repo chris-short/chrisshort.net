@@ -5,18 +5,18 @@ categories = ["Kubernetes", "Open Source", "2024"]
 date = 2024-06-06T07:00:00Z
 description = ""
 slug = "kubernetes-likely-saved-my-life"
-tags = [""]
+tags = ["Kubernetes", "Open Source"]
 ShowTOC = false
 title = "Kubernetes Likely Saved My Life"
 [cover]
 image = "https://shortcdn.com/chrisshort/KubeCon_10thAnniversary_Sticker.webp"
-alt = ""
+alt = "Happy 10th Birthday Kubernetes"
 
 +++
 
 {{< carbon >}}
 
-Kubernetes and I share something: We were born on June 6th. I've contributed to Kubernetes for 70% of its life. Today, Kubernetes turns 10. There are many things I could write about to commemorate this day. It has improved my life (like every other open source project I have worked on) by giving me desirable skills in an emerging space. It also allowed me to lead again (I'm a co-lead of the Kubernetes Contributor Comms subproject). Today, however, I'm writing about a personal story that would not be befitting of Kubernetes' websites ([K8s.io][1] and [K8s.dev][2]). As it's personal and my life is eventful, there's been a lot of twists and turns
+Kubernetes and I share something: We were born on June 6th. I've contributed to Kubernetes for 70% of its life. Today, Kubernetes turns 10. There are many things I could write about to commemorate this day. It has improved my life (like every other open source project I have worked on) by giving me desirable skills in an emerging space. It also allowed me to lead again (I'm a co-lead of the [Kubernetes Contributor Comms subproject][4]). Today, however, I'm writing about a personal story that would not be befitting of Kubernetes' websites ([K8s.io][1] and [K8s.dev][2]). As it's personal and my life is eventful, there's been a lot of twists and turns
 
 ## Humble Beginnings
 
@@ -90,7 +90,7 @@ In the US, you need a psychiatrist who gives you medicine, and you need a therap
 
 There are many ways to get to therapy now, thanks to a proliferation of mental health apps and many types of treatments. The therapy that helped me the most was **_[Eye Movement Desensitization and Reprocessing][14]_** [(EMDR)][14]. Many people have heard of Cognitive Behavioral Therapy (CBT), but there's a newer specialty called EMDR. I had read about it in WIRED as an emerging therapy **_years_** before. My wife, Julie, had read a detailed piece about how it helped people who had experienced multiple traumas. She recalled the WIRED piece I'd read and told her it might be helpful in the future. The article Julie read made it clear this was for me, and it was now available to many folks. That's when I knew it was now time to pursue EMDR and find a therapist who could do this.
 
-\[INSERT IMAGE FROM BURNOUT++ SLIDES\]
+[![This Graphic Perfectly Shows How EMDR Can Help You With Trauma | https://themighty.com/topic/trauma/therapy-illustrated-emdr-graphic-trauma/](https://shortcdn.com/chrisshort/EMDR-Therapy-Before-After.jpg)](https://themighty.com/topic/trauma/therapy-illustrated-emdr-graphic-trauma/)
 
 EMDR is very interesting. You and your therapist work to list all the impactful things that have happened in your life up to this point. You and your therapist queue up a previously discussed memory. The hard part is when you're reviewing every minute detail to ensure you connect to the feelings you've suppressed.
 
@@ -100,7 +100,7 @@ The lack of sleep was hurting me as much as the bad memories. Making matters wor
 
 I had suppressed numerous memories for so long that my mind did not fully process them like other memories. I could do EMDR from home throughout the pandemic (thankfully). I knew things were happening in my brain when I felt the back of my head tingling during the eye movement part of the session. I don't know if others have had similar experiences, but this made me realize things I knew little about were happening.
 
-The way we did EMDR remotely was fantastic. My psychiatrist would spin up a customized session in a web app (ngrok in use on the backend). The full-screen web app comprises a simple background color and a contrasting circle. The circle moves horizontally at an often unnoticeable variable speed. You lock your neck and follow the circle with your eyes to emulate what happens to your eyes during REM sleep. You and your therapist queue up a memory, discuss how it affects you, and how you want to feel about the memory. This part is quite clinical. You repeat several series of watching the circle move across the screen horizontally with check-ins to see what you're thinking as you work through a negative feeling and replace it with a positive one during the processing.
+The way we did EMDR remotely was fantastic. My psychiatrist would spin up a customized session in a web app (`ngrok` in use on the backend). The full-screen web app comprises a simple background color and a contrasting circle. The circle moves horizontally at an often unnoticeable variable speed. You lock your neck and follow the circle with your eyes to emulate what happens to your eyes during REM sleep. You and your therapist queue up a memory, discuss how it affects you, and how you want to feel about the memory. This part is quite clinical. You repeat several series of watching the circle move across the screen horizontally with check-ins to see what you're thinking as you work through a negative feeling and replace it with a positive one during the processing.
 
 Anything is possible with the proper care. In conclusion, a kid with a rough upbringing can come from the middle of nowhere in North Carolina, become a known person in an industry in a big city, speak at events across North America and Europe, become an ally to many, and work in open source for a living.
 
