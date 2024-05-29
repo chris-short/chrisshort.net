@@ -9,8 +9,8 @@ tags = ["Kubernetes", "Open Source", "mental health", "EMDR", "community", "ther
 ShowTOC = false
 title = "Kubernetes Likely Saved My Life"
 [cover]
-image = "https://shortcdn.com/chrisshort/KubeCon_10thAnniversary_Sticker.webp"
-alt = "Happy 10th Birthday, Kubernetes"
+image = "https://shortcdn.com/chrisshort/KCSNA_2019.jpg"
+alt = "Happy 10th Birthday, Kubernetes | Photo from Kubernetes Contributor Summit San Diego 2019"
 
 +++
 
@@ -35,6 +35,8 @@ Like many Kubernetes Contributors, I got my start in Docs. I was looking for ano
 SIGs have leads. These leads volunteer to provide guidance, continuity, and leadership in their group (Working Group, Sub-Project, or other community unit). They are generally good people with extensive experience in the Kubernetes ecosystem. When I started SIG ContribEx, we had two tremendously talented leads (much like the current leads).
 
 I built relationships with everyone in Contributor Experience; it felt like home. I also met all the Michigan CNCF Ambassadors (Jorge Castro, Bob Killen, and Jeffrey "Jeefy" Sica) in these meetings (I'd go down to Ann Arbor often in the following years). When I lost all job prospects in late 2017, Dan Kohn at CNCF stepped up to cover my hotel and admission so that I could go to Austin for KubeCon to do some significant job searching. At a crowded hotel bar/restaurant in Austin, Jorge told me I should volunteer to be a CNCF Ambassador (another life-altering event). It also snowed on us in Austin; I was coming from Michigan and was not expecting that. I didn't have a hoodie, jacket, or any outerwear, so I threw on a DigitalOcean hoodie from the show floor and continued my business. Bob and Jeefy have since moved, but for a while there, Michigan had an unusually high number of significant Kubernetes contributors.
+
+[![chris-short Kubernetes Contributions | CNCF ContribCard](https://shortcdn.com/chrisshort/chris-short_CNCF_ContribCard.webp)][19]
 
 ## First Signs of Mental Health Trouble
 
@@ -122,3 +124,4 @@ Anything is possible with the proper care. In conclusion, a kid with a rough upb
 [16]: https://chrisshort.net/a-getting-to-know-you-exercise/#three-things
 [17]: https://techcrunch.com/2019/08/03/stockx-hacked-millions-records/
 [18]: https://shortcdn.com/chrisshort/EMDR-Therapy-Before-After.jpg
+[19]: https://shortcdn.com/chrisshort/chris-short_CNCF_ContribCard.webp
