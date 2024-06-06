@@ -16,7 +16,7 @@ alt = "Happy 10th Birthday, Kubernetes | Photo from Kubernetes Contributor Summi
 
 {{< carbon >}}
 
-Kubernetes and I share something: We were born on June 6th (I didn't pick the date; I probably would've though to take more attention away from me). I've contributed to Kubernetes for 70% of its life. Today, [Kubernetes turns 10](https://kubernetes.io/blog/2024/06/06/10-years-of-kubernetes/). There are many things I could write about to commemorate this day. It has improved my life (like every other open source project I have worked on) by giving me desirable skills in an emerging space. It also allowed me to lead again (I'm a co-lead of the [Kubernetes Contributor Comms subproject][4]). Today, however, I'm writing about a personal story that would not be befitting of Kubernetes' websites ([K8s.io][1] and [K8s.dev][2]). As it's personal and my life is eventful, there's been a lot of twists and turns
+Kubernetes and I share something: We were born on June 6th (I didn't pick the date; I probably would've though to take more attention away from me). I've contributed to Kubernetes for 70% of its life. Today, [Kubernetes turns 10][22]. There are many things I could write about to commemorate this day. It has improved my life (like every other open source project I have worked on) by giving me desirable skills in an emerging space. It also allowed me to lead again (I'm a co-lead of the [Kubernetes Contributor Comms subproject][4]). Today, however, I'm writing about a personal story that would not be befitting of Kubernetes' websites ([K8s.io][1] and [K8s.dev][2]). As it's personal and my life is eventful, there's been a lot of twists and turns
 
 ## Humble Beginnings
 
@@ -131,3 +131,4 @@ Anything is possible with the proper care. In conclusion, a kid with a rough upb
 [19]: https://shortcdn.com/chrisshort/chris-short_CNCF_ContribCard.webp
 [20]: https://www.reddit.com/r/devopsish/comments/1d9c6r0/kubernetes_likely_saved_my_life/
 [21]: https://news.ycombinator.com/item?id=40597378
+[22]: https://kubernetes.io/blog/2024/06/06/10-years-of-kubernetes/
