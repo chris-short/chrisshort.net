@@ -106,6 +106,10 @@ The way we did EMDR remotely was fantastic. My psychiatrist would spin up a cust
 
 Anything is possible with the proper care. In conclusion, a kid with a rough upbringing can come from the middle of nowhere in North Carolina, become a known person in an industry in a big city, speak at events across North America and Europe, become an ally to many, and work in open source for a living.
 
+### Comments
+
+**Feel free to comment about this blog on [Reddit][20], [Hacker News][21], or the social media network of your choice.**
+
 [1]: https://k8s.io
 [2]: https://k8s.dev
 [3]: https://chrisshort.net/kubernetes-illustrated-childrens-guide/#reading-it-to-max
@@ -125,3 +129,5 @@ Anything is possible with the proper care. In conclusion, a kid with a rough upb
 [17]: https://techcrunch.com/2019/08/03/stockx-hacked-millions-records/
 [18]: https://shortcdn.com/chrisshort/EMDR-Therapy-Before-After.jpg
 [19]: https://shortcdn.com/chrisshort/chris-short_CNCF_ContribCard.webp
+[20]: https://www.reddit.com/r/devopsish/comments/1d9c6r0/kubernetes_likely_saved_my_life/
+[21]: https://news.ycombinator.com/item?id=40597378
