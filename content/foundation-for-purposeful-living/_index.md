@@ -9,7 +9,9 @@ tags = ["center for purposeful living", "human service alliance", "hsa", "founda
 title = "Foundation for Purposeful Living"
 aliases = [
     "/post/119631260/center-for-purposeful-living",
-    "/center-for-purposeful-living/"
+    "/center-for-purposeful-living/",
+    "/cult",
+    "/cults"
 ]
 
 +++
