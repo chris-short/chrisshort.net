@@ -6,7 +6,7 @@ date = 2024-06-06T07:00:00Z
 description = "Kubernetes contributor Chris Short recounts how the open source project, its community, and access to mental health resources through an employer likely saved his life while struggling with PTSD, anxiety, and depression."
 slug = "kubernetes-likely-saved-my-life"
 tags = ["Kubernetes", "Open Source", "mental health", "EMDR", "community", "therapist", "psychiatrist", "KubeCon"]
-ShowTOC = false
+ShowTOC = true
 title = "Kubernetes Likely Saved My Life"
 [cover]
 image = "https://shortcdn.com/chrisshort/KCSNA_2019.jpg"
