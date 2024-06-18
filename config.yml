@@ -25,6 +25,10 @@ Params:
             Open Source Diplomat | Kubernetes Contributor | Developer Advocate | r/devopsish | Disabled Veteran | Detroit | AWS Open Source Strategy & Marketing | He/Him/His | Views solely mine
 
     socialIcons:
+        - name: github
+          url: https://github.com/chris-short
+        - name: reddit
+          url: https://www.reddit.com/r/devopsish/    
         - name: linkedin
           url: https://www.linkedin.com/in/thechrisshort
         - name: mastodon
@@ -33,18 +37,14 @@ Params:
           url: https://bsky.app/profile/chrisshort.net
         - name: twitter
           url: https://twitter.com/ChrisShort
-        - name: reddit
-          url: https://www.reddit.com/r/devopsish/
-        - name: github
-          url: https://github.com/chris-short
-        - name: producthunt
-          url: https://www.producthunt.com/@chrisshort
         - name: youtube
           url: https://www.youtube.com/c/ChrisShort
         - name: amazon
           url: https://www.amazon.com/hz/wishlist/ls/35NMKHR0A10N4
+        - name: producthunt
+          url: https://www.producthunt.com/@chrisshort
         - name: email
-          url: mailto:chrisshort@duck.com
+          url: mailto:chrisshort+blog@duck.com
         - name: rss
           url: https://chrisshort.net/index.xml
       
