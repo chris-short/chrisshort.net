@@ -11,7 +11,8 @@ aliases = [
     "/post/119631260/center-for-purposeful-living",
     "/center-for-purposeful-living/",
     "/cult",
-    "/cults"
+    "/cults",
+    "/foundation-for-purposeful-living/a-brief-history-of-center-for-purposeful-living-by-john-david-short/"
 ]
 
 +++
