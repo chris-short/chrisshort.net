@@ -30,7 +30,7 @@ I'm many things
 But Most Importantly, I'm a **Gopher**
 
 ### **Not Too Long Ago in a Place of Work Far, Far Away...**
-![Star Wars Scroll Y'all](https://shortcdn.com/chrisshort/testing-certificate-chains-in-go/backstory.png#center)
+![Star Wars Scroll Y'all](https://shortcdn.com/chrisshort/testing-certificate-chains-in-go/backstory.webp#center)
 
 * My team of merry DevOps'ers inherited an application
 * A third-party built the app a few years ago
