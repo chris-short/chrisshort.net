@@ -41,6 +41,10 @@ Params:
           url: https://www.youtube.com/c/ChrisShort
         - name: amazon
           url: https://www.amazon.com/hz/wishlist/ls/35NMKHR0A10N4
+        - name: goodreads
+          url: https://www.goodreads.com/user/show/38034985-chris-short
+        - name: ycombinator
+          url: https://news.ycombinator.com/user?id=oaf357
         - name: producthunt
           url: https://www.producthunt.com/@chrisshort
         - name: email
