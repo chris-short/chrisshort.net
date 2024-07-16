@@ -17,7 +17,7 @@ aliases = [
 
 +++
 
-[PDF version of Résumé](https://resume.chrisshort.net/) | [Google Docs version of Résumé](https://bit.ly/cbshort-resume)
+[PDF version of Résumé](Chris-Short-Resume.pdf) | [Google Docs version of Résumé](https://bit.ly/cbshort-resume)
 
 # Chris Short, Detroit, MI
 
