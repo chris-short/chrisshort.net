@@ -7,7 +7,7 @@ description = "The OSI's draft Open Source AI Definition could harm open source 
 slug = "on-the-draft-open-source-ai-definition"
 tags = ["Open Source", "Artificial Intelligence", "AI", "OSAID"]
 ShowTOC = false
-title = "Kubernetes Likely Saved My Life"
+title = "Data Deception: OSI's Open Source AI Fallacy"
 [cover]
 image = "https://shortcdn.com/chrisshort/AI-drawing-AI.webp"
 alt = "I prompted Stable Diffusion (Generative AI model) to draw itself"
