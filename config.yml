@@ -35,8 +35,6 @@ Params:
           url: https://hachyderm.io/@ChrisShort
         - name: bluesky
           url: https://bsky.app/profile/chrisshort.net
-        - name: twitter
-          url: https://twitter.com/ChrisShort
         - name: instagram
           url: https://www.instagram.com/thechrisshort/
         - name: threads
@@ -51,6 +49,8 @@ Params:
           url: https://news.ycombinator.com/user?id=oaf357
         - name: producthunt
           url: https://www.producthunt.com/@chrisshort
+        - name: twitter
+          url: https://twitter.com/ChrisShort
         - name: email
           url: mailto:chrisshort+blog@duck.com
         - name: rss
