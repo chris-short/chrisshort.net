@@ -37,6 +37,10 @@ Params:
           url: https://bsky.app/profile/chrisshort.net
         - name: twitter
           url: https://twitter.com/ChrisShort
+        - name: instagram
+          url: https://www.instagram.com/thechrisshort/
+        - name: threads
+          url: https://www.threads.net/@thechrisshort
         - name: youtube
           url: https://www.youtube.com/c/ChrisShort
         - name: amazon
@@ -65,6 +69,7 @@ Params:
       - Developer Advocacy
       - Kubernetes
       - Kubernetes Contributor
+      - Kubernetes Contributor Comms Subproject
       - DevOps
       - macOS Screensavers
       - macOS Screen Saver
