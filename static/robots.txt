@@ -1,8 +1,3 @@
-User-Agent: *
-Disallow: /terms
-Disallow: /privacy
-Allow: /
-
 # Block AI scapers
 # Source: https://www.cyberciti.biz/web-developer/block-openai-bard-bing-ai-crawler-bots-using-robots-txt-file/
 User-agent: GPTBot
@@ -39,5 +34,11 @@ User-agent: Omgili
 Disallow: /
 User-agent: YouBot
 Disallow: /
+
+# All other bots
+User-Agent: *
+Disallow: /terms
+Disallow: /privacy
+Allow: /
 
 Sitemap: https://chrisshort.net/sitemap.xml
