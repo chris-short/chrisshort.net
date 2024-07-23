@@ -4,7 +4,7 @@ author = "Chris Short"
 categories = ["Open Source", "2024"]
 date = 2024-07-23T07:00:00Z
 description = "The OSI's draft Open Source AI Definition could harm open source by allowing non-reproducible data, enabling openwashing and threatening transparency."
-slug = "data-deception-OSI-open-source-ai-fallacy"
+slug = "data-deception-osi-open-source-ai-fallacy"
 tags = ["Open Source", "Data", "Artificial Intelligence", "OSI", "Open Source Initiative", "AI", "OSAID", "openwashing", "proprietary"]
 ShowTOC = true
 title = "Data Deception: OSI's Open Source AI Fallacy"
@@ -21,7 +21,7 @@ If the current [Open Source Initiative's](https://opensource.org/) (OSI) [Open S
 
 ## Openwashing
 
-We're already witnessing instances like IBM's Granite, which is using proprietary data in a supposedly open source manner, or at least as per the draft OSAID's interpretation of open source. The [IBM Granite page on Hugging Face](https://huggingface.co/ibm-granite) proudly displays 'IBM ❤️ ️Open Source AI'. But the devil is in the details.
+We're already witnessing instances like IBM's Granite, which is using proprietary data in a supposedly open source manner, or at least as per the draft OSAID's interpretation of open source. The [IBM Granite page on Hugging Face](https://huggingface.co/ibm-granite) proudly displays 'IBM ❤️ Open Source AI'. But the devil is in the details.
 
 When you look at Pre-Training Data for, say, [granite-7b-base](https://huggingface.co/ibm-granite/granite-7b-base), you will see that 5% of the data is entirely proprietary from Webz.io (formerly Webhose). It's described as "Unstructured web content converted into machine-readable data feeds purchased by IBM." Of course, no weights are mentioned, so we cannot determine if that 5% is the core of the data being used.
 
