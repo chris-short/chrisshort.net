@@ -1,5 +1,6 @@
-# Block AI scapers
+# Block AI scrapers
 # Source: https://www.cyberciti.biz/web-developer/block-openai-bard-bing-ai-crawler-bots-using-robots-txt-file/
+# Not blocking Common Crawl intentionally
 User-agent: GPTBot
 Disallow: /
 User-agent: ChatGPT-User
