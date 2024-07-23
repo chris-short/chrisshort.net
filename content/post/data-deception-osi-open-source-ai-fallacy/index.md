@@ -3,7 +3,7 @@
 author = "Chris Short"
 categories = ["Open Source", "2024"]
 date = 2024-07-23T07:00:00Z
-description = "The OSI's draft Open Source AI Definition could harm open source by allowing non-reproducible data, enabling openwashing and threatening transparency."
+description = "The OSI's draft Open Source AI Definition could harm open source by allowing non-reproducible data, enabling openwashing, and threatening transparency."
 slug = "data-deception-osi-open-source-ai-fallacy"
 tags = ["Open Source", "Data", "Artificial Intelligence", "OSI", "Open Source Initiative", "AI", "OSAID", "openwashing", "proprietary"]
 ShowTOC = true
