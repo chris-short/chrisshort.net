@@ -35,6 +35,8 @@ Params:
           url: https://hachyderm.io/@ChrisShort
         - name: bluesky
           url: https://bsky.app/profile/chrisshort.net
+        - name: flickr
+          url: https://www.flickr.com/photos/chris-short/
         - name: instagram
           url: https://www.instagram.com/thechrisshort/
         - name: threads
