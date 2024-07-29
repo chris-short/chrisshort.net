@@ -91,7 +91,7 @@ Params:
     ShowBreadCrumbs: true
     ShowPostNavLinks: true
     ShowCodeCopyButtons: true
-    ShowFullTextinRSS: true
+    ShowFullTextinRSS: false
     defaultTheme: light
     disableThemeToggle: true
     disableScrollToTop: true
@@ -152,6 +152,10 @@ outputs:
         - HTML
         - RSS
         - JSON # is necessary
+
+services:
+  rss:
+    limit: 12
 
 markup:
     goldmark:
