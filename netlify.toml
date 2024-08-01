@@ -46,8 +46,25 @@ HUGO_ENABLEGITINFO = "true"
 [[redirects]]
   from = "/firehose*"
   to = "https://devopsish.com/firehose"
-  status = 302
+  status = 301
   force = true
+
+[[redirects]]
+  from = "/why-im-not-ditching-cloudflare*"
+  to = "https://www.nocloudflare.com/"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/my-kubecon-cloudnativecon-na-2018-recap*"
+  to = "/tags/kubernetes/"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/categories*"
+  to = "/tags/"
+  status = 302
 
 [[headers]]
   for = "/*"

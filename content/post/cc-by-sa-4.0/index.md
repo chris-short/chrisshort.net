@@ -15,7 +15,7 @@ aliases = [
 
 {{< boring >}}
 
-```
+```text
 Attribution-ShareAlike 4.0 International
 
 =======================================================================

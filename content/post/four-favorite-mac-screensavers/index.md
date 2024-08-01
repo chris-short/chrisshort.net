@@ -13,6 +13,7 @@ image = "https://shortcdn.com/chrisshort/dmitry-chernyshov-mP7aPSUm7aE-unsplash.
 alt = "MacBook Pro"
 aliases = [
     "/updated-my-four-favorite-macos-screensavers/",
+    "/updated-my-four-favorite-macos-screensavers",
     "updated-my-four-favorite-macos-screensavers",
     "my-three-favorite-macos-screensavers",
     "/my-three-favorite-macos-screensavers/"
