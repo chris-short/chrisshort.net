@@ -9,7 +9,7 @@ tags = ["HTTP2", "drawing"]
 title = "HTTP/2 Primer"
 aliases = [
     "http2-primer",
-    "/http2-primer"
+    "/http2-primer",
     "/http-2-primer-and-drawing/",
     "/http/2-primer/"
 ]
