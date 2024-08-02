@@ -1,6 +1,5 @@
 +++
 author = "Chris Short"
-categories = ["Interviews", "OpenShift", "Kubernetes", "Operators", "2020"]
 date = 2020-06-15T03:00:00Z
 description = "Chris Short from Red Hat talks Operators and Kubernetes with Rob Zehicle"
 draft = false

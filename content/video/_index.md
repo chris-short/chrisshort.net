@@ -1,6 +1,5 @@
 +++
 author = "Chris Short"
-categories = ["Video"]
 date = 2021-11-04T07:00:00Z
 description = "Videos of talks Chris Short has given"
 draft = false

@@ -1,6 +1,5 @@
 +++
 author = "Chris Short"
-categories = ["Life", "Kubernetes", "Analysts", "Cloud", "2021"]
 date = 2021-03-10T12:25:00Z
 description = "Chris Short is accidentally named Red Hat CEO but also a Key Opinion Leader and  Kubernetes Influencer"
 draft = false

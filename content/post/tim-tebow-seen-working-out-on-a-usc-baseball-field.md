@@ -1,6 +1,5 @@
 +++
 author = "Chris Short"
-categories = ["Florida Gators", "2013"]
 date = 2013-09-19T20:00:00Z
 description = ""
 draft = false

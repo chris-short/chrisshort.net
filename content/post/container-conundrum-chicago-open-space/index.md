@@ -1,7 +1,6 @@
 +++
 
 author = "Chris Short"
-categories = ["DevOps", "Kubernetes", "Linux", "2022"]
 date = 2022-10-08T07:00:00Z
 description = "My notes from a DevOpsDay Chicago 2022 Open Space suggestion: 'Container Conundrum: Pain points around containers'"
 draft = false

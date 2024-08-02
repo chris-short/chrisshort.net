@@ -1,6 +1,5 @@
 +++
 author = "Chris Short"
-categories = ["Civics", "AWS", "2019"]
 date = 2019-07-29T07:00:00Z
 description = "Oracle has been pitching a Larry Ellison sized fit over JEDI, the $10 billion DoD cloud contract, and endangering US national security in the process."
 draft = false

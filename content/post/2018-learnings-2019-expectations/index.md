@@ -1,6 +1,5 @@
 +++
 author = "Chris Short"
-categories = ["Philosophy", "2018", "2019"]
 date = 2018-12-28T23:20:00Z
 description = "A former co-worker and now friend used to have a tagline, \"Everyday is a school day.\" I remind myself of this fact nearly every time I learn something new."
 draft = false

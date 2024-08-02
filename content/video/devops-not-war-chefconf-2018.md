@@ -1,6 +1,5 @@
 +++
 author = "Chris Short"
-categories = ["Video", "DevOps"]
 date = 2018-05-24T07:00:00Z
 description = "History can help prevent conflict when driving change. This talk will analyze human tendencies, historical data, and provide real-world examples of how to avoid conflict during your DevOps journey."
 draft = false

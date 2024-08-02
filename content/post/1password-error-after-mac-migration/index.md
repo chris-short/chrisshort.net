@@ -1,7 +1,6 @@
 +++
 
 author = "Chris Short"
-categories = ["Apple", "Security", "2023"]
 date = 2023-06-17T07:00:00Z
 description = "The most annoying 1Password error I've encountered: 1Password has detected an error with your local app database, please contact support@1password.com"
 draft = false

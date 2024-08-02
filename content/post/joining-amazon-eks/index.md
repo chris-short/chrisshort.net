@@ -1,6 +1,5 @@
 +++
 author = "Chris Short"
-categories = ["2021", "AWS", "Life"]
 date = 2021-10-25T07:00:00Z
 description = "Chris Short is happy to announce that he is joining the Amazon Elastic Kubernetes Service (Amazon EKS) team as a developer advocate"
 draft = false

@@ -1,6 +1,5 @@
 +++
 author = "Chris Short"
-categories = ["NTP", "2003"]
 date = 2003-04-23T16:00:00Z
 description = "NTP is designed to keep accurate local time keeping."
 draft = false

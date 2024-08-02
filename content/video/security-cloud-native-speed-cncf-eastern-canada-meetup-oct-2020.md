@@ -1,6 +1,5 @@
 +++
 author = "Chris Short"
-categories = ["Video", "Kubernetes"]
 date = 2020-10-23T07:00:00Z
 description = "Chris Short presents his talk, Security at Cloud Native Speed, at the CNCF Eastern Canadian Meetup: October 2020"
 draft = false

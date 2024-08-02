@@ -1,7 +1,6 @@
 +++
 
 author = "Chris Short"
-categories = ["Kubernetes", "Open Source", "2024"]
 date = 2024-06-06T07:00:00Z
 description = "Kubernetes contributor Chris Short recounts how the open source project, its community, and access to mental health resources through an employer likely saved his life while struggling with PTSD, anxiety, and depression."
 slug = "kubernetes-likely-saved-my-life"

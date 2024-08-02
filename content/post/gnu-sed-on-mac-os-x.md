@@ -1,6 +1,5 @@
 +++
 author = "Chris Short"
-categories = ["Apple", "2016"]
 date = 2016-06-01T16:44:00Z
 description = ""
 draft = false

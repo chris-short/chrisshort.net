@@ -1,6 +1,5 @@
 +++
 author = "Chris Short"
-categories = ["2021", "Internet", "Life"]
 date = 2021-10-05T07:00:00Z
 description = "Comcast had a local area issue that they didn't resolve until I proved there was a widespread issue"
 draft = false

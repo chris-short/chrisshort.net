@@ -1,6 +1,5 @@
 +++
 author = "Chris Short"
-categories = ["Ansible", "2019", "Kubernetes", "Operators"]
 date = 2019-10-14T14:00:00Z
 description = "The Ansible team made the Atlanta Hilton into a living and breathing Ansible experience. From the lobby as attendees walked into the hotel to the Open Lounge."
 draft = false

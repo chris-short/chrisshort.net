@@ -1,6 +1,5 @@
 +++
 author = "Chris Short"
-categories = ["Video", "Kubernetes"]
 date = 2019-06-13T07:00:00Z
 description = "Caleb Hailey will go over best practices for monitoring workloads on K8s, including the sidecar pattern for monitoring."
 draft = false

@@ -1,6 +1,5 @@
 +++
 author = "Chris Short"
-categories = ["Life", "2007"]
 date = 2007-08-13T12:00:00Z
 description = "Will Kline: A Heartbeat That Stopped Too Soon"
 draft = false

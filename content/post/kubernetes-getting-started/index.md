@@ -1,6 +1,5 @@
 +++
 author = "Chris Short"
-categories = ["Kubernetes", "2017"]
 date = 2017-11-30T20:50:00Z
 description = "How do you get started with 'an open-source system for automating deployment, scaling, and management of containerized applications'?"
 draft = false

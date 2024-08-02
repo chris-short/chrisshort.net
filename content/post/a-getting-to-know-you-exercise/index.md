@@ -1,6 +1,5 @@
 +++
 author = "Chris Short"
-categories = ["Long Thoracic Nerve Palsy", "Culture", "Life", "2019"]
 date = 2019-12-20T07:00:00Z
 description = "At a team meeting last month I took part in a getting to know you exercise that I found helpful. I feel it's worth putting out there for others."
 draft = false

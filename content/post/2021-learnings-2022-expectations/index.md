@@ -1,6 +1,5 @@
 +++
 author = "Chris Short"
-categories = ["Philosophy", "Privacy", "2021", "2022"]
 date = 2022-01-08T07:00:00Z
 description = "Chris Short looks back at 2021 and looks ahead to 2022."
 draft = false

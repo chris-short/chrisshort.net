@@ -1,6 +1,5 @@
 +++
 author = "Chris Short"
-categories = ["Kubernetes", "Kids", "2020"]
 date = 2020-01-26T20:10:00Z
 description = "The Illustrated Children's Guide to Kubernetes and Phippy Goes to the Zoo with bonus giggles from Max Short"
 draft = false

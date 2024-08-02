@@ -1,6 +1,5 @@
 +++
 author = "Chris Short"
-categories = ["Kubernetes", "2018"]
 date = 2018-02-14T09:10:00Z
 description = "Kubernetes Cron Jobs are a new thing. Since Kuberenetes Cron Jobs build on top of the existing Job functionality, I know that the job will be run to completion."
 draft = false

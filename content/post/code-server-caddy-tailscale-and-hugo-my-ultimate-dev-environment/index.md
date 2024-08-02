@@ -1,7 +1,6 @@
 +++
 
 author = "Chris Short"
-categories = ["Linux", "code-server", "Caddy", "Tailscale", "Hugo", "2022"]
 date = 2022-07-02T16:30:00Z
 description = "I think I've discovered my development environment equivalent to nirvana: code-server, Caddy, Tailscale, and Hugo"
 draft = false

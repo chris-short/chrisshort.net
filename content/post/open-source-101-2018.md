@@ -1,6 +1,5 @@
 +++
 author = "Chris Short"
-categories = ["Talks", "2018"]
 date = 2018-02-19T14:45:00Z
 description = "Jason Hibbets and Chris Short spoke at Open Source 101 Raleigh 2018 (a VERY diverse and inclusive Open Source software conference)"
 draft = false

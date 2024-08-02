@@ -1,6 +1,5 @@
 +++
 author = "Chris Short"
-categories = ["Video", "Burnout"]
 date = 2023-10-18T07:00:00Z
 description = "Burnout can happen at any point in everyone's career. But, what happens when burnout is taking place amongst other things?"
 draft = false

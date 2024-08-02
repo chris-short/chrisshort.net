@@ -1,6 +1,5 @@
 +++
 author = "Chris Short"
-categories = ["Air Force", "Interviews", "2016"]
 date = 2016-08-17T13:05:00Z
 description = ""
 draft = false

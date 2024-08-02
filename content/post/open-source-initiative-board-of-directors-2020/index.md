@@ -1,6 +1,5 @@
 +++
 author = "Chris Short"
-categories = ["Open Source"]
 date = 2020-02-26T21:55:00Z
 description = "Chris Short is running for the Open Source Initiative 2020 Board of Directors"
 draft = false

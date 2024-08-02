@@ -1,6 +1,5 @@
 +++
 author = "Chris Short"
-categories = ["Search Engine Optimization", "SEO", "2005"]
 date = 2005-01-05T07:00:00Z
 description = "A list of search engine optimization best practices when embarking on building a web site optimized for search"
 draft = false

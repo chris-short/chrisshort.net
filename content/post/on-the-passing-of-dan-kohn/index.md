@@ -1,6 +1,5 @@
 +++
 author = "Chris Short"
-categories = ["Life", "Community", "2020"]
 date = 2020-11-07T12:35:00Z
 description = "2020 has taken Dan Kohn from us. This whole year has no chill."
 draft = false

@@ -1,6 +1,5 @@
 +++
 author = "Chris Short"
-categories = ["Community", "Cloud", "2018"]
 date = 2018-01-31T14:45:00Z
 description = "It is with great pleasure that I can anounce that I have been named a Cloud Native Computing Foundation Ambassador."
 draft = false

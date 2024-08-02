@@ -1,6 +1,5 @@
 +++
 author = "Chris Short"
-categories = ["Video", "DevOps"]
 date = 2017-09-08T07:00:00Z
 description = "The Dark Side of DevOps — DevOpsDays Raleigh 2017"
 draft = false

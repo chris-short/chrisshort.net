@@ -1,6 +1,5 @@
 +++
 author = "Chris Short"
-categories = ["Foundation for Purposeful Living", "2005"]
 date = 2005-07-14T20:00:00Z
 description = ""
 draft = false
