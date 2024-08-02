@@ -1,6 +1,5 @@
 +++
 author = "Chris Short"
-categories = ["Video", "DevOps"]
 date = 2017-09-08T07:00:00Z
 description = "DevOpsDays Raleigh 2017 Ignite Karoke (Part 2)"
 draft = false

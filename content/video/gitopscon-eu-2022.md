@@ -1,6 +1,5 @@
 +++
 author = "Chris Short"
-categories = ["Video", "GitOps"]
 date = 2022-05-17T15:30:00Z
 description = "Chris Short opened and closed GitOpsCon as well as hosted Track 2 of the Day 0 KubeCon + CloudNativeCon 2022 event"
 draft = false

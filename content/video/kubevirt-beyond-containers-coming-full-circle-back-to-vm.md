@@ -1,6 +1,5 @@
 +++
 author = "Chris Short"
-categories = ["Video", "Kubernetes"]
 date = 2019-09-12T07:00:00Z
 description = "A demo of an application that is comprised of VMs, Containers, an RDBMS and a LoadBalancer-type Service. We'll show how HA scenarios for legacy components are automatically handled by Kubernetes and KubeVirt."
 draft = false

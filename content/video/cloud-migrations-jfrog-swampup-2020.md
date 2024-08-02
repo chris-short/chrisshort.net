@@ -1,6 +1,5 @@
 +++
 author = "Chris Short"
-categories = ["Video", "Cloud"]
 date = 2020-06-24T07:00:00Z
 description = "Lesson Learned From Cloud Migrations: Planning is Everything"
 draft = false

@@ -1,6 +1,5 @@
 +++
 author = "Chris Short"
-categories = ["Shenanigans", "2019"]
 date = 2019-01-08T07:00:00Z
 description = "Christophernetes"
 ShowTOC = false

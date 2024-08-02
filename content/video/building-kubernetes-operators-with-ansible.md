@@ -1,6 +1,5 @@
 +++
 author = "Chris Short"
-categories = ["Video", "Kubernetes", "Ansible"]
 date = 2020-07-15T07:00:00Z
 description = "Red Hat® Summit Virtual Experience: Open House - Building Kubernetes Operators with Ansible"
 draft = false

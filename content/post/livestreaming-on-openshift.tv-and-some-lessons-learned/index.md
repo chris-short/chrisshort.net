@@ -1,6 +1,5 @@
 +++
 author = "Chris Short"
-categories = ["Kubernetes", "Red Hat OpenShift", "Live Streaming", "2020"]
 date = 2020-06-24T03:00:00Z
 description = "Sharing what it's like to be live streaming on OpenShift.tv and some lessons learned along the way"
 draft = false

@@ -1,6 +1,5 @@
 +++
 author = "Chris Short"
-categories = ["Open Source", "2019"]
 date = 2019-06-25T13:19:00Z
 description = "The differences between upstream and downstream"
 draft = false

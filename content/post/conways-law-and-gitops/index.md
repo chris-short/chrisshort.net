@@ -1,7 +1,6 @@
 +++
 
 author = "Chris Short"
-categories = ["GitOps", "2022"]
 date = 2022-06-20T07:00:00Z
 description = "Conway's Law and GitOps go hand in hand."
 draft = false

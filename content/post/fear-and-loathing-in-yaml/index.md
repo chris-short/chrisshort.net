@@ -1,6 +1,5 @@
 +++
 author = "Chris Short"
-categories = ["DevOps", "Kubernetes", "Open Source", "2020"]
 date = 2020-10-21T07:00:00Z
 description = "Learning YAML might be table stakes, but we still need to strive for a better solution. One that's more human friendly."
 draft = false

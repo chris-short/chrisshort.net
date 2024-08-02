@@ -1,6 +1,5 @@
 +++
 author = "Chris Short"
-categories = ["Long Thoracic Nerve Palsy", "Culture", "Life", "2018"]
 date = 2018-08-08T07:00:00Z
 description = "The importance of psychological safety in creating effective teams is often overlooked."
 draft = false

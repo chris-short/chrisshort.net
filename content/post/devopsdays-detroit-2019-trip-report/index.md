@@ -1,6 +1,5 @@
 +++
 author = "Chris Short"
-categories = ["DevOps", "2019"]
 date = 2019-10-26T13:30:00Z
 description = "I spoke, sponsored, and worked from DevOpsDays Detroit 2019 this week. The event sold out for the first time this year!"
 draft = false

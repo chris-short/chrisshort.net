@@ -1,6 +1,5 @@
 +++
 author = "Chris Short"
-categories = ["Internet", "2003"]
 date = 2003-06-24T16:00:00Z
 description = "Blogs are essentially evolution of Internet communications. E-mail, instant messaging, newsgroups and forums are all great forms of communication but a weblog or blog offers unique, personal communication on a global scale."
 draft = false

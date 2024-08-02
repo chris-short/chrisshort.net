@@ -1,6 +1,5 @@
 +++
 author = "Chris Short"
-categories = ["Video", "DevOps"]
 date = 2019-10-01T07:00:00Z
 description = "DevOps needs to focus on more than Dev and Ops to be truly transformative for an organization. What about your security folks? What about your network team?"
 draft = false

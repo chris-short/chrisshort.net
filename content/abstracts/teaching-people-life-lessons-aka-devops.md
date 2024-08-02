@@ -1,6 +1,5 @@
 +++
 author = "Chris Short"
-categories = ["CFP"]
 date = 2018-11-19T18:19:00Z
 description = ""
 draft = true

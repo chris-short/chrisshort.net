@@ -1,6 +1,5 @@
 +++
 author = "Chris Short"
-categories = ["Video", "Kubernetes"]
 date = 2019-10-09T07:00:00Z
 description = "Ansible is a first-class citizen in the Operator SDK. Using Ansible frees up application engineers, maximizes time to automate and orchestrate your applications, and doing it across new & existing platforms."
 draft = false

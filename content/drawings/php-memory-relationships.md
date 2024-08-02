@@ -1,6 +1,5 @@
 +++
 author = "Chris Short"
-categories = ["PHP", "2015"]
 date = 2015-10-09T17:00:52Z
 description = ""
 draft = false

@@ -1,6 +1,5 @@
 +++
 author = "Chris Short"
-categories = ["CFP", "2023"]
 date = 2023-04-10T07:00:00Z
 description = "Recognizing and Managing Burnout; What Happens When Burnout Occurs with Other Problems"
 draft = false

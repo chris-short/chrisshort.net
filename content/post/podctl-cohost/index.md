@@ -1,6 +1,5 @@
 +++
 author = "Chris Short"
-categories = ["Red Hat", "Kubernetes", "2019"]
 date = 2019-11-08T19:23:00Z
 description = "Chris Short added as co-host on Red Hat's Kubernetes podcast: PodCTL"
 draft = true

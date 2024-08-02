@@ -1,6 +1,5 @@
 +++
 author = "Chris Short"
-categories = ["Video", "Kubernetes", "AWS"]
 date = 2022-05-15T15:30:00Z
 description = "Amazon EKS Anywhere Curated Packages and Cilium on EKS Anywhere"
 draft = false

@@ -1,6 +1,5 @@
 +++
 author = "Chris Short"
-categories = ["Kids", "Life", "Michigan", "2020"]
 date = 2020-10-11T18:27:00Z
 description = "Chris, Julie, and Max venture out to Kensington Metropark to hand feed the local birds"
 draft = false

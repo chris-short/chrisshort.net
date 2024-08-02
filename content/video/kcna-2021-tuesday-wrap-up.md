@@ -1,6 +1,5 @@
 +++
 author = "Chris Short"
-categories = ["Video", "Kubernetes"]
 date = 2021-10-12T07:00:00Z
 description = "Chris Short sits down with KubeCon speakers, attendees, and Cloud Native contributors for the KubeCon NA 2021 (Los Angeles) wrap up show on Day 0 of KubeCon."
 draft = false

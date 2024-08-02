@@ -1,6 +1,5 @@
 +++
 author = "Chris Short"
-categories = ["OSI Model", "2016"]
 date = 2016-11-13T18:37:06Z
 description = ""
 draft = false

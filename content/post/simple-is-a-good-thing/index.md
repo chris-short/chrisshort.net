@@ -1,6 +1,5 @@
 +++
 author = "Chris Short"
-categories = ["Search Engine Optimization", "SEO", "2003"]
 date = 2003-03-15T07:00:00Z
 description = "Maintain a simplistic design and keep web sites easy to use and maintain so that you can focus on content."
 draft = false

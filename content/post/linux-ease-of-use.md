@@ -1,6 +1,5 @@
 +++
 author = "Chris Short"
-categories = ["Linux", "2003"]
 date = 2003-06-10T22:30:00Z
 description = "I decided to do some searching and see what other people were saying about ease of use in Linux. I found the results of my searches to be less than fruitful."
 draft = false

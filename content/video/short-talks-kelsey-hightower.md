@@ -1,6 +1,5 @@
 +++
 author = "Chris Short"
-categories = ["Video", "Kubernetes"]
 date = 2019-12-18T07:00:00Z
 description = "Chris Short, Principal Technical Marketing Manager, OpenShift at Red Hat and CNCF Ambassador sits down with Staff Developer Advocate at Google, Kelsey Hightower to discuss Kubernetes."
 draft = false

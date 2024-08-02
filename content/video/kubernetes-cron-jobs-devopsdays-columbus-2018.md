@@ -1,6 +1,5 @@
 +++
 author = "Chris Short"
-categories = ["Video", "DevOps"]
 date = 2019-10-23T07:00:00Z
 description = "In this talk, we discuss Kubernetes' killer feature: Cron Jobs"
 draft = false

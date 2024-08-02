@@ -6,6 +6,8 @@ pygmentsStyle: trac
 pygmentsUseClasses: true
 pygmentsCodeFences: true
 pygmentsCodefencesGuessSyntax: true
+canonifyURLs: true
+
 paginate: 5
 permalinks:
     post: ":title/"
@@ -102,9 +104,9 @@ imaging:
   resampleFilter: box
   anchor: smart
   bgColor: '#ffffff'
-  disableLatLong: true
   exif:
-    includeFields: ''
+    disableDate: false
+    disableLatLong: true
 
 privacy:
     disqus:

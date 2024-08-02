@@ -1,6 +1,5 @@
 +++
 author = "Chris Short"
-categories = ["Microsoft", "Open Source", "2004"]
 date = 2004-09-20T22:30:00Z
 description = "Microsoft announced that it would share Microsoft Office 2003 source code as part of the Microsoft Government Security Program."
 draft = false

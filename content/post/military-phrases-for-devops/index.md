@@ -1,6 +1,5 @@
 +++
 author = "Chris Short"
-categories = ["DevOps", "2018"]
 date = 2018-07-23T07:00:00Z
 description = "There are many military phrases that I have used for a long time that could be in greater use in the DevOps space."
 draft = false

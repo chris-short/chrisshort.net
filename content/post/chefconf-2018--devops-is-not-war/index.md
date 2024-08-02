@@ -1,6 +1,5 @@
 +++
 author = "Chris Short"
-categories = ["DevOps", "Talks", "2018"]
 date = 2018-05-29T15:39:00Z
 description = "I was able to meet 1,400 new friends while I was at ChefConf 2018 (not really but kinda). I presented my talk, DevOps is Not War to a standing room only audience."
 draft = false

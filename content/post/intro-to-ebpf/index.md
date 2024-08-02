@@ -1,7 +1,6 @@
 +++
 
 author = "Chris Short"
-categories = ["Linux", "Kubernetes", "eBPF", "2022"]
 date = 2022-08-04T07:00:00Z
 description = "eBPF is VERY powerful because it's so ingrained where all the magic happens (the Linux kernel). eBPF lets you write custom code in the kernel."
 draft = false

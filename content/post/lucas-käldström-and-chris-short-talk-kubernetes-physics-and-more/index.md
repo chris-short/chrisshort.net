@@ -1,7 +1,6 @@
 +++
 
 author = "Chris Short"
-categories = ["Kubernetes", "2022"]
 date = 2022-06-06T07:00:00Z
 description = "Lucas Käldström has a thesis out, 'Encoding human-like operational knowledge using declarative Kubernetes operator patterns.' We sat down to talk about it."
 draft = false

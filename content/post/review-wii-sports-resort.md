@@ -1,6 +1,5 @@
 +++
 author = "Chris Short"
-categories = ["Reviews", "2010", "Nintendo", "Gaming"]
 date = 2010-07-27T20:00:00Z
 description = ""
 draft = false

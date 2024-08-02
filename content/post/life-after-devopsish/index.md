@@ -1,7 +1,6 @@
 +++
 
 author = "Chris Short"
-categories = ["Life", "Long Thoracic Nerve Palsy", "2023"]
 date = 2023-02-20T07:00:00Z
 description = "An update on how I'm doing after shuttering the DevOps'ish newsletter"
 draft = false

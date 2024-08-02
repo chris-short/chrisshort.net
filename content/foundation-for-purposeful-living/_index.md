@@ -1,6 +1,5 @@
 +++
 author = "Chris Short"
-categories = ["Foundation for Purposeful Living", "2015"]
 date = 2015-10-03T09:18:31Z
 description = "Human Service Alliance, Center for Purposeful Living, Foundation for Purposeful Living, or whatever they're calling themselved this year is undeniably a cult."
 draft = false
