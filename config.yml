@@ -7,7 +7,8 @@ pygmentsUseClasses: true
 pygmentsCodeFences: true
 pygmentsCodefencesGuessSyntax: true
 canonifyURLs: true
-
+taxonomies:
+  tag: tags
 paginate: 5
 permalinks:
     post: ":title/"
