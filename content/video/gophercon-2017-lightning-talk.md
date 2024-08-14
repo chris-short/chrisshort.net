@@ -8,7 +8,8 @@ slug = "gophercon-2017-lightning-talk"
 tags = ["Go", "golang", "devops", "talks", "speaking", "videos", "public speaking"]
 title = "GopherCon 2017 Lightning Talk Video"
 aliases = [
-    "gophercon-2017-lightning-talk-video"
+    "gophercon-2017-lightning-talk-video",
+    "/gophercon-2017-lightning-talk-video"
 ]
 
 +++
