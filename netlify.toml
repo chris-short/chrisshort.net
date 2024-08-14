@@ -55,6 +55,12 @@ HUGO_ENABLEGITINFO = "true"
   status = 301
   force = true
 
+[[redirects]]
+  from = "/resume/Chris-Short-Resume.pdf*"
+  to = "/curriculum-vitae/Chris-Short-Resume.pdf"
+  status = 301
+  force = true
+
 [[headers]]
   for = "/*"
   [headers.values]
