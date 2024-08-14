@@ -7,6 +7,9 @@ ShowTOC = false
 slug = "shoulder-update-20050519"
 tags = ["shoulder", "winged scapula"]
 title = "Shoulder Update 2005-05-19"
+redirect = [
+  "/shoulder-update-2005-05-19"
+]
 
 +++
 
