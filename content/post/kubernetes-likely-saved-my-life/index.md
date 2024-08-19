@@ -8,7 +8,7 @@ tags = ["Kubernetes", "Open Source", "mental health", "EMDR", "community", "ther
 ShowTOC = true
 title = "Kubernetes Likely Saved My Life"
 [cover]
-image = "https://shortcdn.com/chrisshort/KCSNA_2019.jpg"
+image = "https://shortcdn.com/chrisshort/KCSNA_2019.webp"
 alt = "Happy 10th Birthday, Kubernetes | Photo from Kubernetes Contributor Summit San Diego 2019"
 
 +++

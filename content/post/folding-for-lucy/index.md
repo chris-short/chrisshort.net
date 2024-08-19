@@ -9,7 +9,7 @@ tags = ["cancer", "Folding@Home", "research", "niece", "GPU", "compute", "Foldin
 ShowTOC = false
 title = "Folding for Lucy"
 [cover]
-image = "https://shortcdn.com/chrisshort/folding-for-lucy-tweet.png"
+image = "https://shortcdn.com/chrisshort/folding-for-lucy-tweet.webp"
 alt = "The tweet where I announced my intention to dedicate 25% of household compute to cancer research through Folding@Home"
 
 +++
