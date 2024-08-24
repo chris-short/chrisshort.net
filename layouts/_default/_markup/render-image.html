@@ -2,5 +2,5 @@
 <img
     src="{{ .Destination | safeURL }}" alt="{{ .Text }}"
     {{ with $image }}
-    width="{{ $image.Width }}" height="{{ $image.Height }}"
+    width="{{ $image.Width }}" height="{{ $image.Height }}" loading="lazy"
     {{ end }} />
