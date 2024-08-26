@@ -160,6 +160,14 @@ services:
   rss:
     limit: 12
 
+webpCloudProxy:
+  enable: true
+  proxyUrl: 'https://vz4w427.webp.ee'
+  convertTypeList:
+    - jpg
+    - jpeg
+    - png
+
 markup:
     goldmark:
         renderer:

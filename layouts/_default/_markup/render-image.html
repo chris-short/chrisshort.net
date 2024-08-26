@@ -1,6 +1,23 @@
-{{- $image := .Page.Resources.GetMatch (printf "%s" (.Destination | safeURL)) -}}
-<img
-    src="{{ .Destination | safeURL }}" alt="{{ .Text }}"
-    {{ with $image }}
-    width="{{ $image.Width }}" height="{{ $image.Height }}" loading="lazy"
-    {{ end }} />
+{{ if site.Params.webpCloudProxy.enable }}
+    {{ if site.IsServer }}
+<p class="md__image">
+    <img src='{{ .Destination | safeURL }}' alt="{{ .Text }}" {{ with .Title }} title="{{ . }}" {{ end }} />
+</p>
+    {{ else }}
+        {{ $image_ext := index (split .Destination ".") 1 }}
+        {{ if in site.Params.webpCloudProxy.convertTypeList $image_ext }}
+<p class="md__image">
+    <img src='{{ replace ((printf "%s%s" .Page.Permalink .Destination) | safeURL) site.BaseURL site.Params.webpCloudProxy.proxyUrl }}'
+        alt="{{ .Text }}" {{ with .Title }} title="{{ . }}" {{ end }} />
+</p>
+        {{ else }}
+<p class="md__image">
+    <img src='{{ .Destination | safeURL }}' alt="{{ .Text }}" {{ with .Title }} title="{{ . }}" {{ end }} />
+</p>
+        {{ end }}
+    {{ end }}
+{{ else }}
+<p class="md__image">
+    <img src='{{ .Destination | safeURL }}' alt="{{ .Text }}" {{ with .Title }} title="{{ . }}" {{ end }} />
+</p>
+{{ end }}
