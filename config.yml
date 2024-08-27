@@ -16,7 +16,7 @@ Params:
     # https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#enable-social-metadata-and-seo
     env: production
     label:
-        icon: /apple-icon-57x57.png
+        icon: /android-icon-48x48.png
         favicon16x16: /favicon-16x16.png
         favicon32x32: /favicon-32x32.png
         apple_touch_icon: /apple_icon.png
