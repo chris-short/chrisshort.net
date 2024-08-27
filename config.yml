@@ -109,6 +109,10 @@ imaging:
     disableDate: false
     disableLatLong: true
 
+  pictureLazy: true
+  pictureWebp: true
+  pictureLqip: true
+
 privacy:
     disqus:
         disable: true

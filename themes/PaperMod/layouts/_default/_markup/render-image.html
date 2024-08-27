@@ -1,1 +1,40 @@
-<img loading="lazy" src="{{ .Destination | safeURL }}" alt="{{ .Text }}" {{ with .Title}} title="{{ . }}" {{ end }} />
+{{- $url := urls.Parse .Destination -}}
+
+{{/* https://github.com/gohugoio/hugo/pull/10666/files */}}
+{{- $params := $url.Query -}}
+{{- $lazyParam := $params.Get "lazy" -}}
+{{- $lazy := false -}}
+{{- if ne $lazyParam "false" -}}
+    {{- $lazy = $lazyParam | default .Page.Site.Params.pictureLazy -}}
+{{- end -}}
+
+{{- $webpParam := $params.Get "webp" -}}
+{{- $webp := false -}}
+{{- if ne $webpParam "false" -}}
+    {{- $webp = $webpParam | default .Page.Site.Params.pictureWebp -}}
+{{- end -}}
+
+{{- $lqipParam := $params.Get "lqip" -}}
+{{- $lqip := false -}}
+{{- if ne $lqipParam "false" -}}
+    {{- $lqip = $lqipParam | default .Page.Site.Params.pictureLqip -}}
+{{- end -}}
+
+{{- $file := $url.Path}}
+{{- $img := .Page.Resources.GetMatch $file -}}
+{{- if and (not $img) .Page.File -}}
+    {{ $path := path.Join .Page.File.Dir $file }}
+    {{- $img = resources.Get $path -}}
+{{- end -}}
+
+{{- with $img -}}
+{{ partial "picture.html" (dict "img" . "alt" $.Text "lazy" $lazy "webp" $webp "lqip" $lqip) }}
+{{- else -}}
+{{ if $lazy }}
+    {{/* do not use lazy without dimensions */}}
+    {{ warnf "Can't use lazy images for %s" .Destination }}
+{{ end }}
+<picture>
+    <img src="{{ .Destination | safeURL }}" alt="{{ $.Text }}" />
+</picture>
+{{- end -}}
