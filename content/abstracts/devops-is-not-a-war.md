@@ -41,7 +41,7 @@ DevOps needs to focus on more than Dev and Ops to be truly transformative for an
 SOURCES:
 
 * [https://en.wikipedia.org/wiki/Thucydides](https://en.wikipedia.org/wiki/Thucydides)
-* [Belfer Center for Science and International Affairs](https://www.belfercenter.org/thucydides-trap/case-file)
+* [Belfer Center for Science and International Affairs](https://www.belfercenter.org/programs/thucydidess-trap)
 
 ### Graham Allison
 
@@ -82,7 +82,7 @@ Source: [Destined for War: Can America and China Escape Thucydides's Trap?](http
 * United States vs. Soviet Union (aka Cold War) 🕊
 * United Kingdom and France vs. Germany 🕊
 
-Source: [Belfer Center for Science and International Affairs](https://www.belfercenter.org/thucydides-trap/case-file)
+Source: [Belfer Center for Science and International Affairs](https://www.belfercenter.org/programs/thucydidess-trap)
 
 ### Dev and Ops
 
@@ -96,7 +96,7 @@ Source: [Belfer Center for Science and International Affairs](https://www.belfer
 
 "It was the rise of Athens and the **fear** that this instilled in Sparta that made war inevitable."
 
-Source: [Belfer Center for Science and International Affairs](https://www.belfercenter.org/thucydides-trap/case-file)
+Source: [Belfer Center for Science and International Affairs](https://www.belfercenter.org/programs/thucydidess-trap)
 
 ### Fear Causes Resistance
 
@@ -116,7 +116,7 @@ Source: [Belfer Center for Science and International Affairs](https://www.belfer
 * When WWI came in 1914, US was an essential supplier of materiel to the UK
 * Joined the fight tipping the scales towards Allied victory
 
-Source: [Belfer Center for Science and International Affairs](https://www.belfercenter.org/thucydides-trap/case-file)
+Source: [Belfer Center for Science and International Affairs](https://www.belfercenter.org/programs/thucydidess-trap)
 
 ### DevOps: The War Crime
 

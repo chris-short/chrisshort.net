@@ -123,7 +123,7 @@ Source: [Popular Mechanics: The 20 Best Podcasts About All Things Tech](https://
 ## Carving out a Cloud Native Culture in Established Organizations
 
 Date: 2020-05-20  
-Source: [Podcast - Carving out a Cloud Native Culture in Established Organizations](https://www.weave.works/blog/podcast-carving-out-a-cloud-native-culture-in-established-organizations)  
+Source: [Podcast - Carving out a Cloud Native Culture in Established Organizations](https://web.archive.org/web/20231207111541/https://www.weave.works/blog/podcast-carving-out-a-cloud-native-culture-in-established-organizations)  
 Download: [MP3](https://shortcdn.com/chrisshort/Carving-out-Cloud-Native-Culture-in-Established-Organizations.mp3)
 
 > Cornelia Davis, Chief Technology Officer at Weaveworks: "What I thought we'd talk about today is how organizations can get better at doing software. We want to get better at building it, releasing it and having more resilient systems and all of those things. One of the big categories is DevOps and it is one of the things that we're applying to make some progress on. Chris, you do a great deal in the DevOps arena. Can you give us a [definition of DevOps](https://devopsish.com/what-is-devops/)?"
