@@ -1,10 +1,10 @@
 +++
 author = "Chris Short"
 date = 2004-09-23T22:30:00Z
-description = "A comprehensive review of the Sidekick II."
+description = "A comprehensive review of the Sidekick II. (2004)"
 draft = false
 slug = "tmobile-sidekick-2-review"
-tags = ["hardware", "yahoo"]
+tags = ["hardware", "yahoo", "2004"]
 title = "T-Mobile Sidekick II Review"
 aliases = [
     "/archives/2004/09/tmobile-sidekick-ii-review.php",
@@ -12,6 +12,7 @@ aliases = [
 ]
 [cover]
 image = "https://shortcdn.com/chrisshort/sidekick-II-open.jpg"
+alt = "The T-Mobile Sidekick II from 2004"
 
 +++
 
