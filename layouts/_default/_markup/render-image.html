@@ -1,11 +1,9 @@
-<img src="{{ .Destination | safeURL }}"
-  alt="{{- .Text -}}"
-  {{ with .Title }} title="{{- . -}}" {{ end }}
-  {{ if strings.HasPrefix .Destination "http" }} {{else}}
-  {{ with imageConfig ( printf "static/%s" .Destination ) }}
-    width={{ .Width }} height="{{ .Height }}"
-  {{ end }}
-  {{ end }}
-   decoding="async"
-   loading="lazy"
-  />
+{{- $image := .Page.Resources.GetMatch (printf "%s" (.Destination | safeURL)) -}}
+<img
+    src="{{ .Destination | safeURL }}" alt="{{ .Text }}"
+    {{ with $image }}
+    width="{{ $image.Width }}" height="{{ $image.Height }}"
+    {{ end }}
+    decoding="async"
+    loading="lazy"
+>
