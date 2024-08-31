@@ -27,6 +27,8 @@ Params:
         Content: >
             Open Source Diplomat | Kubernetes Contributor | Developer Advocate | r/devopsish | Disabled Veteran | Detroit | AWS Open Source Strategy & Marketing | He/Him/His | Views solely mine
 
+    description: "Chris Short's personal website about tech and life as a disable veteran in the US."
+    
     socialIcons:
         - name: github
           url: https://github.com/chris-short
