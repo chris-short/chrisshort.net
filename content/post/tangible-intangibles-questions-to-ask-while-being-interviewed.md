@@ -37,5 +37,3 @@ I have actually found the dress code to be incredibly important. Make sure you a
 If there is free and ready access to coffee (or other forms of caffeine) that company gets an A+. Bringing your own coffee to work is great if you like it a certain way but not having to bother with it is truly a blessing (especially if you end up working a nineteen day).
 
 How does a company handle meetings? Do they allow them to interrupt the work day? Is there a general policy around when meetings should be scheduled? Does someone have a calendar that is routinely triple booked? These are all valid questions to ask because being in meetings where nothing gets done or decided is really annoying. The best company meeting policy I have ever experienced is one that allowed for meetings to only be scheduled on Mondays and Fridays. It was truly great to push meetings to specific days and then have three solid days of work almost guaranteed.
-
-*This article was originally featured on [Medium](https://medium.com/@chrisshort/tangible-intangibles-questions-to-ask-while-being-interviewed-c13887bb9854)*

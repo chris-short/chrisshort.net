@@ -6,6 +6,7 @@ draft = false
 slug = "military-phrases-for-devops"
 tags = ["devops", "military"]
 title = "Military Phrases For Use in DevOps"
+canonicalURL = "https://opensource.com/article/18/7/military-phrases-devops"
 [cover]
 image = "https://shortcdn.com/chrisshort/low-crawl.jpg"
 caption = "Parental Discretion is Advised"

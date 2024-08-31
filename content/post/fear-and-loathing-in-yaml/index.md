@@ -7,6 +7,7 @@ ShowTOC = false
 slug = "fear-and-loathing-in-yaml"
 tags = ["YAML", "DevOps", "markup", "Puppet", "CFEngine", "Kubernetes", "human-readable", "machine-readable", "code", "YAML spec", "language", "XML", "JSON", "systems", "infrastructure", "yq", "syntax", "git", "open source"]
 title = "Fear and Loathing in YAML"
+canonicalURL = "https://devopsish.com/188/"
 [cover]
 image = "https://shortcdn.com/chrisshort/pexels-christina-morillo-1181325.jpg"
 
