@@ -84,7 +84,7 @@
             <a href="{{ "" | absLangURL }}" accesskey="h" title="{{ .Site.Params.label.text | default .Site.Title }} (Alt + H)">
                 {{- if .Site.Params.label.icon }}
                 <img src="{{- .Site.Params.label.icon -}}" alt="Logo: A gradient orange circle with the textured light blue initials CS" aria-label="Logo: A gradient orange circle with the textured light blue initials CS"
-                    height="{{- .Site.Params.label.iconHeight | default "45px" -}}">
+                    height="{{- .Site.Params.label.iconHeight | default "48px" -}}" decoding="async" loading="lazy">
                 {{- end -}}
                 {{- .Site.Params.label.text | default .Site.Title -}}
             </a>
