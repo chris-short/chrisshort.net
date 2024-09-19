@@ -9,7 +9,8 @@ aliases = [
     "talks",
     "talk",
     "webinar",
-    "webinars"
+    "webinars",
+    "speaker-rider"
 ]
 +++
 
