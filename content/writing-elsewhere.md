@@ -28,7 +28,7 @@ aliases = [
 
 **Authors**: Authors: Chris Short, Frederico Muñoz
 
-> In my work in the Kubernetes world, I look up a label or Prow command often. The systems behind the scenes ([Prow](https://prow.kubernetes.io/) and [Tide](https://pkg.go.dev/k8s.io/test-infra/prow/cmd/tide#section-readme)) are here to help Kubernetes Contributors get stuff done.
+> In my work in the Kubernetes world, I look up a label or Prow command often. The systems behind the scenes ([Prow](https://prow.kubernetes.io/) and [Tide](https://pkg.go.dev/sigs.k8s.io/prow/cmd/tide)) are here to help Kubernetes Contributors get stuff done.
 
 ## [Updated: Dockershim Removal FAQ | Kubernetes](https://kubernetes.io/blog/2022/02/17/dockershim-faq/)
 
