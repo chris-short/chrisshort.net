@@ -19,7 +19,7 @@ aliases = [
 
 [PDF version of Résumé](Chris-Short-Resume.pdf) | [Google Docs version of Résumé](https://bit.ly/cbshort-resume)
 
-# Chris Short, Detroit, MI
+# Chris Short
 
 ## Professional Summary
 
@@ -32,8 +32,7 @@ Influential, dynamic, and accomplished professional with a proven DevOps, Kubern
 * Built and hosted Kubernetes Day 0 event AWS Container Day at KubeCon EU 2023 Amsterdam
 * Taught AWS devs how to do open source for [Finch](https://github.com/runfinch); worked with the dev team to create a build, pull, push, run tool; helped dev team with tough decisions, built public-facing infrastructure; teacher
 * Trained Kubernetes Product Marketing team in the ways of open source and more about how the CNCF and Kubernetes ecosystem works; used training to provide essential knowledge to team
-* Launched [EKS.news](https://eks.news), a newsletter covering the latest updates on Amazon Elastic Kubernetes
-Service (EKS); an additional mechanism to inform customers about new features and updates
+* Launched [EKS.news](https://eks.news), a newsletter covering the latest updates on Amazon Elastic Kubernetes Service (EKS); an additional mechanism to inform customers about new features and updates
 * Authored Amazon EKS 1.22 & 1.23 release blogs; updated customers on critical product changes
 * Co-lead [Kubernetes Contributor Comms](https://github.com/kubernetes/community/tree/master/communication/contributor-comms) team, spreading the word about what's happening in the Kubernetes community, including event comms, crisis comms, and social media presences
 * Organized and ran GitOpsCon EU 2021, including everything from marketing the CFP to MC’ing
