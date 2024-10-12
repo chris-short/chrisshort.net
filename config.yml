@@ -1,6 +1,6 @@
 baseurl: "https://chrisshort.net"
 DefaultContentLanguage: en
-title: ChrisShort.net
+title: Chris Short — Open Source, Kubernetes, Disabled Veteran, Detroit
 theme: PaperMod
 pygmentsStyle: trac
 pygmentsUseClasses: true
