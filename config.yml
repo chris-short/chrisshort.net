@@ -1,6 +1,6 @@
 baseurl: "https://chrisshort.net"
 DefaultContentLanguage: en
-title: Chris Short — Open Source, Kubernetes, Disabled Veteran, Detroit
+title: Chris Short
 theme: PaperMod
 pygmentsStyle: trac
 pygmentsUseClasses: true
@@ -23,11 +23,11 @@ Params:
         safari_pinned_tab: /safari_pinned_tab.svg
 
     homeInfoParams:
-        Title: Chris Short
+        Title: Chris Short — Open Source, Kubernetes, Disabled Veteran, Detroit
         Content: >
             Open Source Diplomat | Kubernetes Contributor | Developer Advocate | r/devopsish | Disabled Veteran | Detroit | AWS Open Source Strategy & Marketing | He/Him/His | Views solely mine
 
-    description: "Chris Short's personal website about tech and life as a disable veteran in the US."
+    description: "Chris Short's personal website about information technology, lessons learned, and life as a disable veteran in the US."
     
     socialIcons:
         - name: github
