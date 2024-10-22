@@ -32,8 +32,8 @@ Params:
     socialIcons:
         - name: github
           url: https://github.com/chris-short
-        - name: tiktok
-          url: https://www.tiktok.com/@chrisshort.net
+#        - name: tiktok
+#          url: https://www.tiktok.com/@chrisshort.net
         - name: reddit
           url: https://www.reddit.com/r/devopsish/    
         - name: linkedin
