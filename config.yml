@@ -30,18 +30,18 @@ Params:
     description: "Chris Short's personal website about information technology, lessons learned, and life as a disable veteran in the US."
     
     socialIcons:
+        - name: reddit
+          url: https://www.reddit.com/r/devopsish/
         - name: github
           url: https://github.com/chris-short
 #        - name: tiktok
 #          url: https://www.tiktok.com/@chrisshort.net
-        - name: reddit
-          url: https://www.reddit.com/r/devopsish/    
+        - name: bluesky
+          url: https://bsky.app/profile/chrisshort.net
         - name: linkedin
           url: https://www.linkedin.com/in/thechrisshort
         - name: mastodon
           url: https://hachyderm.io/@ChrisShort
-        - name: bluesky
-          url: https://bsky.app/profile/chrisshort.net
 #        - name: flickr
 #          url: https://www.flickr.com/photos/chris-short/
         - name: instagram
@@ -54,12 +54,12 @@ Params:
           url: https://www.amazon.com/hz/wishlist/ls/35NMKHR0A10N4
         - name: goodreads
           url: https://www.goodreads.com/user/show/38034985-chris-short
-        - name: ycombinator
-          url: https://news.ycombinator.com/user?id=oaf357
-        - name: producthunt
-          url: https://www.producthunt.com/@chrisshort
-        - name: twitter
-          url: https://twitter.com/ChrisShort
+#        - name: ycombinator
+#          url: https://news.ycombinator.com/user?id=oaf357
+#        - name: producthunt
+#          url: https://www.producthunt.com/@chrisshort
+#        - name: twitter
+#          url: https://twitter.com/ChrisShort
         - name: email
           url: mailto:chrisshort@duck.com
         - name: rss
