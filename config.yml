@@ -25,7 +25,9 @@ Params:
     homeInfoParams:
         Title: Chris Short — Open Source, Kubernetes, Disabled Veteran, Detroit
         Content: >
-            Open Source Diplomat | Kubernetes Contributor | Developer Advocate | r/devopsish | Disabled Veteran | Detroit | AWS Open Source Strategy & Marketing | He/Him/His | Views solely mine
+            Open Source Diplomat | Kubernetes Contributor | Developer Advocate, AWS | ex-Red Hat | r/devopsish | Disabled Veteran | Detroit | He/Him/His | Views solely mine
+
+
 
     description: "Chris Short's personal website about information technology, lessons learned, and life as a disable veteran in the US."
     
