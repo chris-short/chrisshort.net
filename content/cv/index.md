@@ -23,21 +23,22 @@ aliases = [
 
 ## Professional Summary
 
-Influential, dynamic, and accomplished professional with a proven DevOps, Kubernetes, and marketing track record. Complemented by a passion for helping others, cross-org collaboration, and building trust. I bring deep experience in teaching developers to build their knowledge and skills while building better products. As a Kubernetes Contributor and Comms co-lead, I have honed my expertise in driving innovation and fostering collaboration within open and closed environments. As a confident public speaker and skilled live stream producer/host at Red Hat and Amazon, I effectively engage audiences while maintaining an influential presence through my personal and professional networking platforms. I have long believed that technology should enhance human existence. I am ready to bring my diverse skill set, inclusiveness, and enthusiasm to drive transformative results in any team or project.
+Influential, dynamic, and accomplished professional with a proven DevOps, Kubernetes, and technical marketing track record. Complemented by a passion for helping others be their best selves, cross-org collaboration, and building trust. I bring deep experience in teaching developers to build their knowledge and skills while building better products. As a Kubernetes Contributor and Comms co-lead, I have honed my expertise in driving innovation and fostering collaboration within open and closed environments. As a confident public speaker and skilled live stream producer/host at Red Hat and Amazon, I effectively engage audiences while maintaining an influential presence through my personal and professional networking platforms. I have long believed that technology should enhance human existence. I am ready to bring my diverse skill set, inclusiveness, and enthusiasm to drive results.
 
 ## Professional Experience
 
-### Senior Developer Advocate, Amazon Web Services — Detroit, MI — Oct 2021 to Present
+### Senior Developer Advocate, Amazon Web Services — Commerce, MI — Oct 2021 to Present
 
-* Built and hosted Kubernetes Day 0 event AWS Container Day at KubeCon EU 2023 Amsterdam
-* Taught AWS devs how to do open source for [Finch](https://github.com/runfinch); worked with the dev team to create a build, pull, push, run tool; helped dev team with tough decisions, built public-facing infrastructure; teacher
-* Trained Kubernetes Product Marketing team in the ways of open source and more about how the CNCF and Kubernetes ecosystem works; used training to provide essential knowledge to team
-* Launched [EKS.news](https://eks.news), a newsletter covering the latest updates on Amazon Elastic Kubernetes Service (EKS); an additional mechanism to inform customers about new features and updates
+* Led key initiatives in Valkey's success: web development, implementation of privacy-compliant analytics, content creation, and active project representative at numerous events around the world
+* Organized and led Amazon's expansive 50+ speaker, 30+ session re:Invent 2023 Kubernetes and Containers track, increased customer satisfaction (CSAT) scoring metrics for track
+* Taught AWS devs how to do open source for Finch; worked with the dev team to create a build, pull, push, run tool; consulted on tough strategy decisions; built public-facing infrastructure for release
+* Launched EKS.news, a newsletter covering the latest updates on Amazon Elastic Kubernetes Service (EKS): an additional mechanism to inform customers about new features and updates
+* Trained Kubernetes Product Marketing team in the ways of open source and more about how the CNCF and Kubernetes ecosystem works; used training to provide essential knowledge to the team
 * Authored Amazon EKS 1.22 & 1.23 release blogs; updated customers on critical product changes
-* Co-lead [Kubernetes Contributor Comms](https://github.com/kubernetes/community/tree/master/communication/contributor-comms) team, spreading the word about what's happening in the Kubernetes community, including event comms, crisis comms, and social media presences
-* Organized and ran GitOpsCon EU 2021, including everything from marketing the CFP to MC’ing
+* Co-lead Kubernetes Contributor Comms team, spreading the word about what's happening in the Kubernetes community, including event comms, crisis comms, and social media presences
+* Produced/Hosted Kubernetes Day 0 event AWS Container Day at KubeCon EU 2023 Amsterdam
 
-### Cloud Native Ambassador, Cloud Native Computing Foundation (CNCF) — Detroit, MI — Jan 2018 to February 2023
+### Cloud Native Ambassador, Cloud Native Computing Foundation (CNCF) — Commerce, MI — Jan 2018 to February 2023
 
 * [GitOpsCon NA 2021 Program Committee member](https://www.credly.com/badges/734ed249-c1ed-460a-9cae-bd36c1b6a5e7/public_url), multiple times speaking at CloudNativeCon + KubeCon, and countless talks at DevOps, Kubernetes, and Cloud Native events
 * Stood up Kubernetes Upstream Marketing team, an approver of tweets from K8sContributors, acquired hardware for streaming community meetings to lessen the load on others
@@ -45,7 +46,7 @@ Influential, dynamic, and accomplished professional with a proven DevOps, Kubern
 * Advocates for Kubernetes and the cloud native ecosystem through the acclaimed and independent newsletter, [DevOps'ish](https://devopsish.com/). Grown subscriber base to 5800+ subscribers since Dec 2016
 * With the help of other Kubernetes community members, created the first-ever [#KubeKhan](https://chrisshort.net/2018-learnings-2019-expectations/#kubekhan) at KubeCon Seattle 2018; brought together community members in a come as you are environment
 
-### Principal Technical Marketing Manager, Red Hat — Detroit, MI — Aug 2019 to Oct 2021
+### Principal Technical Marketing Manager, Red Hat — Commerce, MI — Aug 2019 to Oct 2021
 
 * OpenShift.TV Executive Producer: in charge of finding content, talent, showrunning, marketing, growth, and facilitating technical components of live productions
 * Training others in how to make use of the infrastructure in place for OpenShift.TV to grow the channel's bench of hosts and producers across the globe
@@ -58,7 +59,7 @@ Influential, dynamic, and accomplished professional with a proven DevOps, Kubern
 * Evangelized Red Hat and many other open source offerings through official CNCF communications
 * Gave five talks in three days for IBM FastStart 2020; taught sellers and partners on the advantages of OpenShift for AI/ML workloads, monitoring capabilities of Prometheus, and technical roadmaps
 
-### Principal Product Marketing Manager, Red Hat — Detroit, MI — Jun 2018 to Aug 2019
+### Principal Product Marketing Manager, Red Hat — Commerce, MI — Jun 2018 to Aug 2019
 
 * Evangelized [Kubernetes Operators with Ansible](https://ansible.com/operators) in Business Unit by engaging leadership to prove importance; scheduled developers on podcast, worked w/ team to build landing page, and presented talks at Red Hat Summit 2019
 * Ansible blog curator, editor, and sometimes writer, room facilitator, survey staff management, and official after party event security for AnsibleFest 2018 in Austin, TX
@@ -66,7 +67,7 @@ Influential, dynamic, and accomplished professional with a proven DevOps, Kubern
 * Instrumental in bringing community projects into the Red Hat Ansible Automation suite of tools; helped establish standards for testing and acceptance as well as scoring of Ansible content
 * Selected by leadership, peers as Red Hat Product Marketing Awards — Best New Red Hatter 2019
 
-### Senior DevOps Advocate, SJ Technologies — Detroit, MI — Jan 2018 to Jun 2018
+### Senior DevOps Advocate, SJ Technologies — Commerce, MI — Jan 2018 to Jun 2018
 
 * Built Ansible-based infrastructure testing tool to identify quality concerns between functional areas delivering virtual machines; suggested remedies to reduce handoffs and increase automation
 * Set up Ansible automation to deploy Confluent Kafka; built OpenShift deployment for high-availability Kafka UI
