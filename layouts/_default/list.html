@@ -24,6 +24,7 @@
 
 {{ $paginator := .Paginate $pages }}
 
+<!--
 {{- if and .IsHome .Site.Params.homeInfoParams (eq $paginator.PageNumber 1) }}
 {{- partial "home_info.html" . }}
 {{- end }}
@@ -73,7 +74,7 @@
     <a class="next" href="{{ $paginator.Next.URL | absURL }}">{{ i18n "next_page" }} »</a>
     {{- end }}
   </nav>
-</footer>
+</footer> -->
 {{- end }}
 {{end}}{{/* end profileMode */}}
 {{- end }}{{- /* end main */ -}}
