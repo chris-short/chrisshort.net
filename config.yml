@@ -9,7 +9,7 @@ pygmentsCodefencesGuessSyntax: true
 canonifyURLs: true
 taxonomies:
   tag: tags
-paginate: 5
+paginate: 3
 permalinks:
     post: ":title/"
 Params:
