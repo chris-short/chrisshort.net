@@ -13,6 +13,12 @@ aliases = [
 
 {{< speaker >}}
 
+## Ascension nurse: Ransomware attack makes caring for hospital patients 'so, so dangerous'
+
+Date: 2024-05-21  
+Source: [Ascension nurse: Ransomware attack makes caring for hospital patients 'so, so dangerous'](https://www.freep.com/story/news/health/2024/05/21/ascension-hospital-hack-ransomware-cyber-attack/73776557007/)  
+Download: [PDF](https://shortcdn.com/chrisshort/ascension-hospitals-ransomware-hack-affecting-patient-care.pdf)
+
 ## DevOps Dispatch - Comms in contributor communities with Chris Short
 
 Date: 2023-04-20  
