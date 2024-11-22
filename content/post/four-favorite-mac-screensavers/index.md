@@ -1,6 +1,6 @@
 +++
 author = "Chris Short"
-date = 2021-09-25T07:00:00Z
+date = 2021-09-25
 description = "Chris Short's three favorite macOS screensavers"
 draft = false
 slug = "three-favorite-macos-screensavers"

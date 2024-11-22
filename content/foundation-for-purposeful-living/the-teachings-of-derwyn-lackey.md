@@ -1,6 +1,6 @@
 +++
 author = "Chris Short"
-date = 2005-07-26T20:00:00Z
+date = 2005-07-26
 description = ""
 draft = false
 slug = "the-teachings-of-derwyn-lackey"

@@ -1,6 +1,6 @@
 +++
 author = "Chris Short"
-date = 2021-03-29T07:00:00Z
+date = 2021-03-29
 description = "K Rain Leander inspired a recent DevOps'ish intro topic related to the COVID-19 pandemic and DevOps; sharing here as it's more a personal take on the world today."
 draft = false
 tags = ["pandemic", "year", "people", "K Rain Leander", "world", "cultural shifts", "DevOps", "DevSecOps", "lockdowns", "COVID-19", "Michigan", "Work Life Balance"]

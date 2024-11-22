@@ -1,6 +1,6 @@
 +++
 author = "Chris Short"
-date = 2016-06-28T17:11:49Z
+date = 2016-06-28
 description = ""
 draft = false
 ShowTOC = false

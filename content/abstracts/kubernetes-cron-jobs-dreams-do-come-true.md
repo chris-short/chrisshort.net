@@ -1,6 +1,6 @@
 +++
 author = "Chris Short"
-date = 2018-03-01T16:22:00Z
+date = 2018-03-01
 description = ""
 draft = false
 slug = "kubernetes-cron-jobs-dreams-do-come-true"

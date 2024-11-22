@@ -1,6 +1,6 @@
 +++
 author = "Chris Short"
-date = 2018-05-24T07:00:00Z
+date = 2018-05-24
 description = "History can help prevent conflict when driving change. This talk will analyze human tendencies, historical data, and provide real-world examples of how to avoid conflict during your DevOps journey."
 draft = false
 slug = "devops-not-war-chefconf-2018"

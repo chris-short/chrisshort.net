@@ -1,7 +1,7 @@
 +++
 
 author = "Chris Short"
-date = 2016-09-27T16:15:00Z
+date = 2016-09-27
 description = "Puppet was too cumbersome for simple user management. Ansible came in to save the day in less than half an hour."
 ShowToc = false
 draft = false

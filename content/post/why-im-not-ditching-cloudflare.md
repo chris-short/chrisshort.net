@@ -1,6 +1,6 @@
 +++
 author = "Chris Short"
-date = 2017-08-31T12:00:00Z
+date = 2017-08-31
 description = "Time, bugs, unprecedented events, and reason all played a factor in deciding to stick with Cloudflare"
 draft = true
 ShowTOC = false

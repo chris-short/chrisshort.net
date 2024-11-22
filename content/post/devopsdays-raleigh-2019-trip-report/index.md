@@ -1,6 +1,6 @@
 +++
 author = "Chris Short"
-date = 2019-10-16T15:45:00Z
+date = 2019-10-16
 description = "I had the pleasure of speaking at and attending DevOpsDays Raleigh 2019. This event routinely out punches its weight class as far as quality."
 draft = false
 ShowTOC = false

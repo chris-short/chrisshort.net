@@ -1,6 +1,6 @@
 +++
 author = "Chris Short"
-date = 2021-04-26T07:00:00Z
+date = 2021-04-26
 description = "Jumping back into Search Engine Optimization because I felt forced to by Google Search Console after hours of troubleshooting why it was reporting HTTPS issues"
 draft = false
 tags = ["search", "search engine", "search engine optimization", "SEO", "Google Search Console", "Google", "HTTPS", "error", "header", "permissions policy", "experience", "coverage", "Google"]

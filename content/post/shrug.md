@@ -1,7 +1,7 @@
 +++
 
 author = "Chris Short"
-date = 2019-01-07T18:06:00Z
+date = 2019-01-07
 description = "Shrug emoji or sup son emoji; because answering questions with words is hard."
 draft = false
 ShowTOC = false

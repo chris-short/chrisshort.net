@@ -1,7 +1,7 @@
 +++
 
 author = "Chris Short"
-date = 2019-08-18T07:00:00Z
+date = 2019-08-18
 description = "Curriculum Vitae of a 20+ year veteran of Information Technology and DevOps and current Developer Advocacy professional."
 draft = false
 tags = ["resume", "cv"]

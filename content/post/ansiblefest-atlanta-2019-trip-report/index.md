@@ -1,6 +1,6 @@
 +++
 author = "Chris Short"
-date = 2019-10-14T14:00:00Z
+date = 2019-10-14
 description = "The Ansible team made the Atlanta Hilton into a living and breathing Ansible experience. From the lobby as attendees walked into the hotel to the Open Lounge."
 draft = false
 tags = ["Ansible", "AnsibleFest", "automation", "Kubernetes", "operators", "Red Hat"]

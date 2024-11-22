@@ -1,6 +1,6 @@
 +++
 author = "Chris Short"
-date = 2016-04-17T18:00:00Z
+date = 2016-04-17
 summary = "About Chris Short"
 draft = false
 title = "About Chris Short"

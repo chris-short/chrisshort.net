@@ -1,6 +1,6 @@
 +++
 author = "Chris Short"
-date = 2005-08-05T17:33:00Z
+date = 2005-08-05
 summary = "3C2X1 - Tech Control: What it was, what it meant to be one, and what it morphed into"
 draft = false
 tags = ["tech control", "technical controller", "us air force", "usaf"]

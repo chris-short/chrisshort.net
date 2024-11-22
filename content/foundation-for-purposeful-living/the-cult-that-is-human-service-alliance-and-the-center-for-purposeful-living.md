@@ -1,6 +1,6 @@
 +++
 author = "Chris Short"
-date = 2005-07-08T20:00:00Z
+date = 2005-07-08
 description = ""
 draft = false
 slug = "the-cult-that-is-human-service-alliance-and-the-center-for-purposeful-living"

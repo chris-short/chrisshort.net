@@ -1,6 +1,6 @@
 +++
 author = "Chris Short"
-date = 2016-05-10T17:05:00Z
+date = 2016-05-10
 description = ""
 draft = false
 slug = "tangible-intangibles-questions-to-ask-while-being-interviewed"

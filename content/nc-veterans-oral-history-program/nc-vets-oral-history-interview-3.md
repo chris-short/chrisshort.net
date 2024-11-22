@@ -1,6 +1,6 @@
 +++
 author = "Chris Short"
-date = 2016-08-30T17:17:00Z
+date = 2016-08-30
 description = ""
 draft = false
 slug = "nc-vets-oral-history-interview-3"

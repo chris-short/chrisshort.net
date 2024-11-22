@@ -1,6 +1,6 @@
 +++
 author = "Chris Short"
-date = 2019-06-25T13:19:00Z
+date = 2019-06-25
 description = "The differences between upstream and downstream"
 draft = false
 ShowTOC = false

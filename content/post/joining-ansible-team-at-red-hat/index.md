@@ -1,6 +1,6 @@
 +++
 author = "Chris Short"
-date = 2018-06-25T14:00:00Z
+date = 2018-06-25
 description = "It is with great pleasure that I announce I am joining the Ansible team at Red Hat as Principal Product Marketing Manager."
 draft = false
 slug = "joining-ansible-team-at-red-hat"

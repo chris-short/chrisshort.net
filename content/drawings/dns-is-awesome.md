@@ -1,6 +1,6 @@
 +++
 author = "Chris Short"
-date = 2016-11-29T14:04:00Z
+date = 2016-11-29
 description = ""
 draft = false
 slug = "dns-is-awesome"

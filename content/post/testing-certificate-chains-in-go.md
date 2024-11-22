@@ -1,6 +1,6 @@
 +++
 author = "Chris Short"
-date = 2017-07-22T22:23:32Z
+date = 2017-07-22
 description = ""
 draft = false
 slug = "testing-certificate-chains-in-go"

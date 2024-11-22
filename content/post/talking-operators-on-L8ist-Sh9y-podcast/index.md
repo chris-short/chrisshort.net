@@ -1,6 +1,6 @@
 +++
 author = "Chris Short"
-date = 2020-06-15T03:00:00Z
+date = 2020-06-15
 description = "Chris Short from Red Hat talks Operators and Kubernetes with Rob Zehicle"
 draft = false
 ShowTOC = false

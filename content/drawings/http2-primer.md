@@ -1,6 +1,6 @@
 +++
 author = "Chris Short"
-date = 2016-11-16T13:15:00Z
+date = 2016-11-16
 description = ""
 draft = false
 slug = "http2-primer"

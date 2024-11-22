@@ -1,6 +1,6 @@
 +++
 author = "Chris Short"
-date = 2020-07-26T03:00:00Z
+date = 2020-07-26
 description = "The tale of the July 4th surprise $2700 AWS bill. It is more nuanced than you think and might have exposed a bug."
 draft = false
 slug = "the-aws-bill-heard-around-the-world"

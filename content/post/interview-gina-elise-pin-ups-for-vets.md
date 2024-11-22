@@ -1,6 +1,6 @@
 +++
 author = "Chris Short"
-date = 2007-02-12T05:29:00Z
+date = 2007-02-12
 description = "If you've never heard of Gina Elise and her project Pin Ups for Vets prepare to become very informed and amazed."
 draft = false
 ShowTOC = false

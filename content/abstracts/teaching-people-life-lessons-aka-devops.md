@@ -1,6 +1,6 @@
 +++
 author = "Chris Short"
-date = 2018-11-19T18:19:00Z
+date = 2018-11-19
 description = ""
 draft = true
 slug = "teaching-people-life-lessons-aka-devops"

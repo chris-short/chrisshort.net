@@ -1,6 +1,6 @@
 +++
 author = "Chris Short"
-date = 2003-05-03T22:30:00Z
+date = 2003-05-03
 description = "DSL and cable broadband both have their advantages and disadvantages but DSL seems to be the one lacking in quite a few areas and their marketing shows it."
 draft = false
 ShowTOC = false

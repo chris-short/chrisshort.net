@@ -1,6 +1,6 @@
 +++
 author = "Chris Short"
-date = 2020-11-07T00:00:01Z
+date = 2020-11-07
 description = "Talks Chris Short has given. Webinars Chris Short has moderated."
 draft = false
 tags = ["talks", "speaking", "public speaking", "webinar"]

@@ -1,6 +1,6 @@
 +++
 author = "Chris Short"
-date = 2023-04-10T07:00:00Z
+date = 2023-04-10
 description = "Recognizing and Managing Burnout; What Happens When Burnout Occurs with Other Problems"
 draft = false
 slug = "burnout++"

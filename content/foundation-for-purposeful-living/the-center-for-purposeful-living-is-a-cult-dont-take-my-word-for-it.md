@@ -1,6 +1,6 @@
 +++
 author = "Chris Short"
-date = 2005-07-14T20:00:00Z
+date = 2005-07-14
 description = ""
 draft = false
 slug = "the-center-for-purposeful-living-is-a-cult-dont-take-my-word-for-it-2"

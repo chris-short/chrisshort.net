@@ -1,6 +1,6 @@
 +++
 author = "Chris Short"
-date = 2017-11-30T20:50:00Z
+date = 2017-11-30
 description = "How do you get started with 'an open-source system for automating deployment, scaling, and management of containerized applications'?"
 draft = false
 slug = "kubernetes-getting-started"

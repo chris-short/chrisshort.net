@@ -1,6 +1,6 @@
 +++
 author = "Chris Short"
-date = 2017-12-23T10:30:00Z
+date = 2017-12-23
 description = "A culture of silence around miscarriage helps absolutely no one."
 draft = false
 ShowTOC = false

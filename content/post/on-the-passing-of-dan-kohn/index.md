@@ -1,6 +1,6 @@
 +++
 author = "Chris Short"
-date = 2020-11-07T12:35:00Z
+date = 2020-11-07
 description = "2020 has taken Dan Kohn from us. This whole year has no chill."
 draft = false
 ShowTOC = false

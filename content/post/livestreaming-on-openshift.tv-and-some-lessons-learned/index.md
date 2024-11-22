@@ -1,6 +1,6 @@
 +++
 author = "Chris Short"
-date = 2020-06-24T03:00:00Z
+date = 2020-06-24
 description = "Sharing what it's like to be live streaming on OpenShift.tv and some lessons learned along the way"
 draft = false
 ShowTOC = false

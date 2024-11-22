@@ -1,6 +1,6 @@
 +++
 author = "Chris Short"
-date = 2020-02-26T21:55:00Z
+date = 2020-02-26
 description = "Chris Short is running for the Open Source Initiative 2020 Board of Directors"
 draft = false
 slug = "open-source-initiative-board-of-directors-2020"

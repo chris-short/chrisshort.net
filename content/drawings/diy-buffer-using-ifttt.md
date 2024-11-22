@@ -1,6 +1,6 @@
 +++
 author = "Chris Short"
-date = 2016-11-21T13:03:00Z
+date = 2016-11-21
 description = ""
 draft = false
 slug = "diy-buffer-using-ifttt"

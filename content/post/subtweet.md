@@ -1,7 +1,7 @@
 +++
 
 author = "Chris Short"
-date = 2019-01-19T00:05:00Z
+date = 2019-01-19
 description = "subtweet"
 draft = false
 ShowTOC = false

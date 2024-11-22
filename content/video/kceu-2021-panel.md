@@ -1,6 +1,6 @@
 +++
 author = "Chris Short"
-date = 2021-05-07T07:00:00Z
+date = 2021-05-07
 description = "KubeCon + CloudNativeCon EU 2021: How You Can Tell Your Kubernetes Contributor Story with These Tips - Matt Broberg & Chris Short, Red Hat; Kaslin Fields, Google; Peeyush Gupta, DigitalOcean"
 draft = false
 slug = "kceu-2021-panel"

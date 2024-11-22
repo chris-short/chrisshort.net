@@ -1,6 +1,6 @@
 +++
 author = "Chris Short"
-date = 2016-11-02T11:00:00Z
+date = 2016-11-02
 description = ""
 draft = false
 slug = "ntp-i-need-you-to-go-ahead-and-love-it"

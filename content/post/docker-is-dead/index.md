@@ -1,6 +1,6 @@
 +++
 author = "Chris Short"
-date = 2017-12-30T12:32:00Z
+date = 2017-12-30
 description = "Aside from Uber, I can't think of a more utilized, hyped, and well funded Silicon Valley startup (still in operation) fumbling as bad as Docker did in 2017."
 draft = false
 slug = "docker-is-dead"

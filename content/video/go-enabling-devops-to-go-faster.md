@@ -1,6 +1,6 @@
 +++
 author = "Chris Short"
-date = 2018-01-31T07:00:00Z
+date = 2018-01-31
 description = ""
 draft = false
 slug = "go-enabling-devops-to-go-faster"

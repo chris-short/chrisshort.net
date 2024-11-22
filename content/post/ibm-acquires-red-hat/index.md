@@ -1,6 +1,6 @@
 +++
 author = "Chris Short"
-date = 2018-11-02T07:00:00Z
+date = 2018-11-02
 description = "What it was like for relatively new Red Hat employee, Chris Short, during the IBM acquisition announcement and the week that followed."
 draft = false
 slug = "one-fish-two-fish-blue-fish-sporting-new-red-hat"

@@ -1,6 +1,6 @@
 +++
 author = "Chris Short"
-date = 2019-10-12T07:00:00Z
+date = 2019-10-12
 description = "Roaring Elephant Podcast: Chris Short from Red Hat to discuss Continuous Integration and Continuous Deployment."
 draft = false
 slug = "roaring-elephant-ci-cd-chris-short-part-1"

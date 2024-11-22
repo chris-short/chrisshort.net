@@ -1,6 +1,6 @@
 +++
 author = "Chris Short"
-date = 2017-11-13T10:00:00Z
+date = 2017-11-13
 description = "An open e-mail about why I am deciding to leave Bankrate now"
 draft = false
 ShowTOC = false

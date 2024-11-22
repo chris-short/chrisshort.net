@@ -1,6 +1,6 @@
 +++
 author = "Chris Short"
-date = 2005-01-05T07:00:00Z
+date = 2005-01-05
 description = "A list of search engine optimization best practices when embarking on building a web site optimized for search"
 draft = false
 tags = ["search", "search engine", "search engine rankings", "search engine optimization", "meta tag", "web page", "load time", "domain name", "links", "keywords", "content", "SEO"]

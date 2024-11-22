@@ -1,6 +1,6 @@
 +++
 author = "Chris Short"
-date = 2018-02-23T06:15:00Z
+date = 2018-02-23
 description = ""
 draft = true
 slug = "five-laws-aspiring-devops-folks"

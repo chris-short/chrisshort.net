@@ -1,6 +1,6 @@
 +++
 author = "Chris Short"
-date = 2016-06-08T19:58:34Z
+date = 2016-06-08
 description = ""
 draft = false
 slug = "my-mac-os-x-setup-guide"

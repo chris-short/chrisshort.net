@@ -1,6 +1,6 @@
 +++
 author = "Chris Short"
-date = 2019-09-29T16:15:00Z
+date = 2019-09-29
 description = "Tactical efficiency does not replace strategic efficacy. Work towards a better approach but, don't think because you're a coder you're an all-knowing savant."
 draft = false
 ShowTOC = false

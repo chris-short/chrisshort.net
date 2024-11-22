@@ -1,6 +1,6 @@
 +++
 author = "Chris Short"
-date = 2003-03-20T16:00:00Z
+date = 2003-03-20
 description = "Everyone has their own personality, patterns, tendencies and so forth, this also holds true for Internet usage"
 draft = false
 ShowTOC = false

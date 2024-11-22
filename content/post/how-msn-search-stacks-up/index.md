@@ -1,6 +1,6 @@
 +++
 author = "Chris Short"
-date = 2005-02-02T07:00:00Z
+date = 2005-02-02
 description = "Wired: Microsoft is formally launching its new internet search engine, several months after it debuted in test form. Microsoft's own search engine will permanently replace the Yahoo search technology that has been used on Microsoft's MSN website. But Yahoo's technology..."
 draft = false
 tags = ["SEO"]

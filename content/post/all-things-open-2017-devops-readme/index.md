@@ -1,6 +1,6 @@
 +++
 author = "Chris Short"
-date = 2017-10-27T22:30:00Z
+date = 2017-10-27
 description = "A curated list of things to read to level up your DevOps skills and knowledge."
 draft = false
 ShowToc = false

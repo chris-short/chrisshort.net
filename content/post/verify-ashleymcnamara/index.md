@@ -1,6 +1,6 @@
 +++
 author = "Chris Short"
-date = 2019-04-02T07:00:00Z
+date = 2019-04-02
 description = "认证 @ashleymcnamara — Verify Ashley McNamara"
 draft = true
 tags = ["Twitter", "verified account program", "verified", "Ashley McNamara"]

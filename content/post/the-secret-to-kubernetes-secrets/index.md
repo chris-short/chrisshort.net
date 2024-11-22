@@ -1,6 +1,6 @@
 +++
 author = "Chris Short"
-date = 2019-05-28T11:10:00Z
+date = 2019-05-28
 description = "There are a lot of ways to create a Kubernetes Secret. Let's dive into a few possibilities and some helpful suggestions from the Kubernetes community."
 draft = false
 ShowTOC = false

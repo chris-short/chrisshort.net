@@ -1,7 +1,7 @@
 +++
 
 author = "Chris Short"
-date = 2023-02-20T07:00:00Z
+date = 2023-02-20
 description = "An update on how I'm doing after shuttering the DevOps'ish newsletter"
 draft = false
 slug = "life-after-devopsish"

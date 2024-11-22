@@ -1,6 +1,6 @@
 +++
 author = "Chris Short"
-date = 2017-12-02T10:00:00Z
+date = 2017-12-02
 description = "After fifty-two weeks of uninterrupted DevOps newsletters, I have some things to share about the experience."
 draft = false
 ShowTOC = false

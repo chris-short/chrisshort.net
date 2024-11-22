@@ -1,6 +1,6 @@
 +++
 author = "Chris Short"
-date = 2020-10-11T18:27:00Z
+date = 2020-10-11
 description = "Chris, Julie, and Max venture out to Kensington Metropark to hand feed the local birds"
 draft = false
 ShowTOC = false

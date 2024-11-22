@@ -1,6 +1,6 @@
 +++
 author = "Chris Short"
-date = 2020-10-23T07:00:00Z
+date = 2020-10-23
 description = "Chris Short presents his talk, Security at Cloud Native Speed, at the CNCF Eastern Canadian Meetup: October 2020"
 draft = false
 slug = "security-cloud-native-speed-cncf-eastern-canada-meetup-oct-2020"

@@ -1,6 +1,6 @@
 +++
 author = "Chris Short"
-date = 2021-10-05T07:00:00Z
+date = 2021-10-05
 description = "Comcast had a local area issue that they didn't resolve until I proved there was a widespread issue"
 draft = false
 slug = "comcast-status-page"

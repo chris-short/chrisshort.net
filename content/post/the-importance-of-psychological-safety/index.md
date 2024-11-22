@@ -1,6 +1,6 @@
 +++
 author = "Chris Short"
-date = 2018-08-08T07:00:00Z
+date = 2018-08-08
 description = "The importance of psychological safety in creating effective teams is often overlooked."
 draft = false
 slug = "the-importance-of-psychological-safety"

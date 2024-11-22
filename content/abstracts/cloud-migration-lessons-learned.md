@@ -1,6 +1,6 @@
 +++
 author = "Chris Short"
-date = 2018-03-07T14:49:00Z
+date = 2018-03-07
 description = ""
 draft = false
 slug = "cloud-migration-lessons-learned"

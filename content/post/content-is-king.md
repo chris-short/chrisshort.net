@@ -1,6 +1,6 @@
 +++
 author = "Chris Short"
-date = 2003-06-08T16:00:00Z
+date = 2003-06-08
 description = "The Internet, web sites, web surfers, web developers, and search engine optimizers and promoters should all be focused on creating good content that benefits everyone."
 draft = false
 ShowToc = false

@@ -1,6 +1,6 @@
 +++
 author = "Chris Short"
-date = 2016-07-26T16:06:31Z
+date = 2016-07-26
 description = ""
 draft = false
 slug = "what-does-yahoos-downfall-teach-us"

@@ -1,6 +1,6 @@
 +++
 author = "Chris Short"
-date = 2005-01-05T07:00:00Z
+date = 2005-01-05
 description = "A simple, yet powerful search engine optimization (SEO) checklist"
 draft = false
 tags = ["search engine", "search engine optimization", "SEO", "SEO checklist", "meta tag", "domain name", "content", "keyword", "link", "title attribute", "keyword meta tag"]

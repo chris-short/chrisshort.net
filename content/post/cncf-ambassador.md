@@ -1,6 +1,6 @@
 +++
 author = "Chris Short"
-date = 2018-01-31T14:45:00Z
+date = 2018-01-31
 description = "It is with great pleasure that I can anounce that I have been named a Cloud Native Computing Foundation Ambassador."
 draft = false
 ShowTOC = false

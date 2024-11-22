@@ -1,6 +1,6 @@
 +++
 author = "Chris Short"
-date = 2021-10-25T07:00:00Z
+date = 2021-10-25
 description = "Chris Short is happy to announce that he is joining the Amazon Elastic Kubernetes Service (Amazon EKS) team as a developer advocate"
 draft = false
 slug = "joining-amazon-eks"

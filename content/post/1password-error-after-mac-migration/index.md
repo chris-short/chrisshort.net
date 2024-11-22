@@ -1,7 +1,7 @@
 +++
 
 author = "Chris Short"
-date = 2023-06-17T07:00:00Z
+date = 2023-06-17
 description = "The most annoying 1Password error I've encountered: 1Password has detected an error with your local app database, please contact support@1password.com"
 draft = false
 slug = "1password-error-after-mac-migration"

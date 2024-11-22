@@ -1,6 +1,6 @@
 +++
 author = "Chris Short"
-date = 2016-08-09T18:13:30Z
+date = 2016-08-09
 description = ""
 draft = false
 slug = "technical-debt-and-the-ongoing-battle-against-it"

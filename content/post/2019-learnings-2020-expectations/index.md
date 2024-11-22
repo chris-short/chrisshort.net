@@ -1,6 +1,6 @@
 +++
 author = "Chris Short"
-date = 2020-01-01T07:00:00Z
+date = 2020-01-01
 description = "Chris Short looks back at 2019 and looks ahead to 2020."
 draft = false
 slug = "2019-learnings-2020-expectations"

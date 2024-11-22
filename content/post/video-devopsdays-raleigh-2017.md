@@ -1,6 +1,6 @@
 +++
 author = "Chris Short"
-date = 2017-10-11T07:30:00Z
+date = 2017-10-11
 description = "Video of Chris Short during two DevOpsDays Raleigh 2017 Events"
 draft = false
 ShowTOC = false

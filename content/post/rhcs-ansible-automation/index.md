@@ -1,6 +1,6 @@
 +++
 author = "Chris Short"
-date = 2019-01-07T07:00:00Z
+date = 2019-01-07
 description = "The longer someone uses a tool the less they tend to pick up new features. Getting certified shows that while learning Kubernetes I was still keeping up."
 draft = false
 ShowTOC = true

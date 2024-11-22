@@ -1,7 +1,7 @@
 +++
 
 author = "Chris Short"
-date = 2022-06-20T07:00:00Z
+date = 2022-06-20
 description = "Conway's Law and GitOps go hand in hand."
 draft = false
 slug = "conways-law-and-gitops"

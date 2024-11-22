@@ -1,6 +1,6 @@
 +++
 author = "Chris Short"
-date = 2021-01-06T07:00:00Z
+date = 2021-01-06
 description = ""
 draft = false
 slug = "gitops-implementation-devops"

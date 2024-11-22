@@ -1,6 +1,6 @@
 +++
 author = "Chris Short"
-date = 2007-02-01T05:14:00Z
+date = 2007-02-01
 description = "Four reasons why upgrading to Windows Vista is a REALLY bad idea."
 draft = false
 ShowTOC = false

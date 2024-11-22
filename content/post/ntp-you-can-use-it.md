@@ -1,6 +1,6 @@
 +++
 author = "Chris Short"
-date = 2003-04-23T16:00:00Z
+date = 2003-04-23
 description = "NTP is designed to keep accurate local time keeping."
 draft = false
 ShowTOC = false

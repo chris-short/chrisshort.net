@@ -1,7 +1,7 @@
 +++
 
 author = "Chris Short"
-date = 2022-07-02T16:30:00Z
+date = 2022-07-02
 description = "I think I've discovered my development environment equivalent to nirvana: code-server, Caddy, Tailscale, and Hugo"
 draft = false
 slug = "code-server-caddy-tailscale-and-hugo-my-ultimate-dev-environment"

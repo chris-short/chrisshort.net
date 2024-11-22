@@ -1,6 +1,6 @@
 +++
 author = "Chris Short"
-date = 2017-10-27T23:00:00Z
+date = 2017-10-27
 description = "Causes Chris Short Supports"
 draft = false
 title = "Causes"

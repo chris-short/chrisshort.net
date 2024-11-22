@@ -1,6 +1,6 @@
 +++
 author = "Chris Short"
-date = 2004-09-23T22:30:00Z
+date = 2004-09-23
 description = "A comprehensive review of the Sidekick II. (2004)"
 draft = false
 slug = "tmobile-sidekick-2-review"

@@ -1,6 +1,6 @@
 +++
 author = "Chris Short"
-date = 2021-09-27T07:00:00Z
+date = 2021-09-27
 description = "How to switch from git submodules to Hugo Modules"
 draft = false
 slug = "git-submodules-to-hugo-modules"

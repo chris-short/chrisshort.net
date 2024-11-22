@@ -1,6 +1,6 @@
 +++
 author = "Chris Short"
-date = 2021-11-04T07:00:00Z
+date = 2021-11-04
 description = "Videos of talks Chris Short has given"
 draft = false
 slug = "video"

@@ -1,6 +1,6 @@
 +++
 author = "Chris Short"
-date = 2017-01-01T02:45:18Z
+date = 2017-01-01
 description = ""
 draft = false
 slug = "what-i-learned-in-2016"

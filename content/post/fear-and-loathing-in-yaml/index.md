@@ -1,6 +1,6 @@
 +++
 author = "Chris Short"
-date = 2020-10-21T07:00:00Z
+date = 2020-10-21
 description = "Learning YAML might be table stakes, but we still need to strive for a better solution. One that's more human friendly."
 draft = false
 ShowTOC = false

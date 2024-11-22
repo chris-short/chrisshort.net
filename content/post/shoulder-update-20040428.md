@@ -1,6 +1,6 @@
 +++
 author = "Chris Short"
-date = 2004-04-28T17:25:00Z
+date = 2004-04-28
 description = "Chris Short suffers from Long Thoracic Nerve Palsy with Winging of the Scapula"
 draft = true
 ShowTOC = false

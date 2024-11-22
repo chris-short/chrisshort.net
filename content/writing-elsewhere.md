@@ -1,6 +1,6 @@
 +++
 author = "Chris Short"
-date = 2018-08-14T21:25:00Z
+date = 2018-08-14
 description = "Writing that Chris Short has done outside of his own web properties"
 draft = false
 slug = "writing-elsewhere"

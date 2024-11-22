@@ -1,6 +1,6 @@
 +++
 author = "Chris Short"
-date = 2005-01-05T03:00:00Z
+date = 2005-01-05
 description = ""
 draft = false
 slug = "link-popularity"

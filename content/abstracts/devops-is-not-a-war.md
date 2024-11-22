@@ -1,6 +1,6 @@
 +++
 author = "Chris Short"
-date = 2018-03-02T12:31:00Z
+date = 2018-03-02
 description = ""
 draft = false
 slug = "devops-is-not-war"

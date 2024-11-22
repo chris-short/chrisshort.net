@@ -1,6 +1,6 @@
 +++
 author = "Chris Short"
-date = 2019-09-10T18:00:00Z
+date = 2019-09-10
 description = "Our voices generate so much knowledge yet transmit so little data. It's time respect the metadata we create around the 39 bits per second of our voices."
 draft = false
 ShowTOC = false

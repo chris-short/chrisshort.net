@@ -1,6 +1,6 @@
 +++
 author = "Chris Short"
-date = 2021-12-06T07:00:00Z
+date = 2021-12-06
 description = "GitOps is a prescriptive way of implementing DevOps. You will not succeed in using GitOps if you haven't embraced some DevOps philosophies along the way."
 draft = false
 slug = "gitops-an-implementation-of-devops"

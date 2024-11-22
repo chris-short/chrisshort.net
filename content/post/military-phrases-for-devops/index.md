@@ -1,6 +1,6 @@
 +++
 author = "Chris Short"
-date = 2018-07-23T07:00:00Z
+date = 2018-07-23
 description = "There are many military phrases that I have used for a long time that could be in greater use in the DevOps space."
 draft = false
 slug = "military-phrases-for-devops"

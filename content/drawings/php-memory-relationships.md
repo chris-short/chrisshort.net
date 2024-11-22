@@ -1,6 +1,6 @@
 +++
 author = "Chris Short"
-date = 2015-10-09T17:00:52Z
+date = 2015-10-09
 description = ""
 draft = false
 slug = "php-memory-relationships"

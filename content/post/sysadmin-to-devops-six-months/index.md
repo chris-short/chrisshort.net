@@ -1,6 +1,6 @@
 +++
 author = "Chris Short"
-date = 2017-05-11T12:04:00Z
+date = 2017-05-11
 description = ""
 draft = false
 slug = "sysadmin-to-devops-six-months"

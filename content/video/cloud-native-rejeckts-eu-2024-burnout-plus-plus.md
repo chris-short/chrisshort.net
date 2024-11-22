@@ -1,6 +1,6 @@
 +++
 author = "Chris Short"
-date = 2024-04-04T07:00:00Z
+date = 2024-04-04
 description = "Burnout can happen at any point in everyone's career. But, what happens when burnout is taking place amongst other things?"
 draft = false
 slug = "cloud-native-rejeckts-eu-2024-burnout-plus-plus"

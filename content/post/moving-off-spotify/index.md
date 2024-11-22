@@ -1,7 +1,7 @@
 +++
 
 author = "Chris Short"
-date = 2022-01-29T17:00:00Z
+date = 2022-01-29
 description = "I'm in the middle of moving between a lot of services right now but, moving off Spotify was the easiest thing I've done in a long time."
 draft = false
 slug = "moving-off-spotify"

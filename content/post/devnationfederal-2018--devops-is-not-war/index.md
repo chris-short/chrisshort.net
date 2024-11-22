@@ -1,6 +1,6 @@
 +++
 author = "Chris Short"
-date = 2018-06-07T22:20:00Z
+date = 2018-06-07
 description = "Red Hat invited me to speak at DevNationFederal. The organizers requested I present my DevOps is Not War talk to technologists in the Washington DC area."
 draft = false
 ShowTOC = false

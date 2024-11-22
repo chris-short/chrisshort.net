@@ -1,6 +1,6 @@
 +++
 author = "Chris Short"
-date = 2007-01-20T22:30:00Z
+date = 2007-01-20
 description = "Good news for the Unifour area of North Carolina, Google is building a 210 job, $600 million dollar datacenter to help bolster its online offerings."
 draft = false
 ShowTOC = false

@@ -1,6 +1,6 @@
 +++
 author = "Chris Short"
-date = 2016-06-01T16:44:00Z
+date = 2016-06-01
 description = ""
 draft = false
 slug = "gnu-sed-on-mac-os-x"

@@ -1,6 +1,6 @@
 +++
 author = "Chris Short"
-date = 2003-03-15T07:00:00Z
+date = 2003-03-15
 description = "Maintain a simplistic design and keep web sites easy to use and maintain so that you can focus on content."
 draft = false
 tags = ["web site", "content", "simple", "graphics", "design", "search", "HTML", "users", "clean", "search", "search engine", "search engine optimization", "Google", "Microsoft", "SEO"]

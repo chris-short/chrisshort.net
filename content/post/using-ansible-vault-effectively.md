@@ -1,6 +1,6 @@
 +++
 author = "Chris Short"
-date = 2015-10-17T07:53:00Z
+date = 2015-10-17
 description = ""
 draft = true
 image = "https://shortcdn.com/chrisshort/ansible_circleA_red.png"

@@ -1,6 +1,6 @@
 +++
 author = "Chris Short"
-date = 2019-10-23T07:00:00Z
+date = 2019-10-23
 description = "In this talk, we discuss Kubernetes' killer feature: Cron Jobs"
 draft = false
 slug = "kubernetes-cron-jobs-devopsdays-columbus-2018"

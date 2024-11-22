@@ -1,6 +1,6 @@
 +++
 author = "Chris Short"
-date = 2005-12-19T22:00:00Z
+date = 2005-12-19
 description = ""
 draft = false
 slug = "another-center-for-purposeful-living-recruit-saved"

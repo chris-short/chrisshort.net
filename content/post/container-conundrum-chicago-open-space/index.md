@@ -1,7 +1,7 @@
 +++
 
 author = "Chris Short"
-date = 2022-10-08T07:00:00Z
+date = 2022-10-08
 description = "My notes from a DevOpsDay Chicago 2022 Open Space suggestion: 'Container Conundrum: Pain points around containers'"
 draft = false
 slug = "container-conundrum-devopsdays-chicago-2022"

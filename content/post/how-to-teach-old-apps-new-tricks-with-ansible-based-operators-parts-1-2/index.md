@@ -1,6 +1,6 @@
 +++
 author = "Chris Short"
-date = 2019-07-19T10:50:00Z
+date = 2019-07-19
 description = "Operators help simplify deployment & operations of stateful applications in Kubernetes & OpenShift. Writing Operators with Ansible lowers the barrier to entry."
 draft = false
 tags = ["Kubernetes", "Operator", "Ansible", "operators", "talk", "app"]

@@ -1,6 +1,6 @@
 +++
 author = "Chris Short"
-date = 2019-11-08T19:23:00Z
+date = 2019-11-08
 description = "Chris Short added as co-host on Red Hat's Kubernetes podcast: PodCTL"
 draft = true
 ShowTOC = false

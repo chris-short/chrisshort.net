@@ -1,7 +1,7 @@
 +++
 
 author = "Chris Short"
-date = 2024-06-06T07:00:00Z
+date = 2024-06-06
 description = "Kubernetes contributor Chris Short recounts how the open source project, its community, and access to mental health resources through an employer likely saved his life while struggling with PTSD, anxiety, and depression."
 slug = "kubernetes-likely-saved-my-life"
 tags = ["Kubernetes", "Open Source", "mental health", "EMDR", "community", "therapist", "psychiatrist", "KubeCon"]

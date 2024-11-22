@@ -1,6 +1,6 @@
 +++
 author = "Chris Short"
-date = 2019-10-10T07:00:00Z
+date = 2019-10-10
 description = "In this webinar, Steve Sloka, Sr. Member of Technical Staff at VMware, will share how to use Contour and Envoy efficiently in your Kubernetes clusters."
 draft = false
 slug = "contour-high-performance-ingress-controller-for-kubernetes"

@@ -1,7 +1,7 @@
 +++
 
 author = "Chris Short"
-date = 2022-08-18T12:30:00Z
+date = 2022-08-18
 description = "Installing WSL2 on Windows 11 is a real pain unless you know what you're doing. It's not as simple as installing a distro at the Microsoft Store."
 draft = false
 slug = "windows-11-how-to-install-wsl2"
