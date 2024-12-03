@@ -19,7 +19,9 @@ alt = "The Nintendo Switch lineup"
 
 {{< carbon >}}
 
-**Note:** This post is one of those things that I started writing up for a family member, then realized very quickly I should share this with the broader world. If you feel like something is missing, [please feel free to suggest it](https://github.com/chris-short/chrisshort.net/issues). Also, I may earn compensation for sales from links on this post through [affiliate programs](/terms#affiliate-link-policy).*
+**Update (2024-12-03):** There is a high probability the sequel to the Nintendo Switch will be out some time in the first half of 2025. There's a lot of speculation still but, I want you to know a new version will be available next year.
+
+**Note:** This post is one of those things that I started writing up for a family member, then realized very quickly I should share this with the broader world. If you feel like something is missing, [please feel free to suggest it](https://github.com/chris-short/chrisshort.net/issues). Also, I may earn compensation for sales from links on this post through [affiliate programs](/terms#affiliate-link-policy).
 
 Someone in your life wants a [**Nintendo Switch**][1], and you don't know what to do. You know you don't want to blow it, and here we are. First things first: Is the player (the one getting the Nintendo Switch) a gamer already, or is this their first console?
 
