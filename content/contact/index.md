@@ -4,7 +4,7 @@ date = 2024-12-18
 summary = "Contact Chris Short"
 draft = false
 title = "Contact Chris Short"
-slug = "about"
+slug = "contact"
 ShowTOC = false
 
 +++
