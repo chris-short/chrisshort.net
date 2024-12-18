@@ -5,12 +5,15 @@ summary = "About Chris Short"
 draft = false
 title = "About Chris Short"
 slug = "about"
+ShowTOC = false
 aliases = [
     "bio",
     "biography"
 ]
 
 +++
+
+If you need to get in touch with me, please reach out via the [Contact](/contact/) page.
 
 ## Tagline
 
@@ -51,11 +54,4 @@ Today, Chris has found his passion in the [open source](https://chrisshort.net/t
 * [Books](/books/)
 * [Writing Elsewhere](/writing-elsewhere/)
 
-## PGP Public Key
 
-[98C3B412F8866E56](https://keys.openpgp.org/search?q=98C3B412F8866E56)
-
-I'm also available via these other channels:
-
-* [Signal](https://support.signal.org/hc/en-us/articles/360007060592-Invite-friends-to-join-Signal)
-* [Telegram](https://t.me/ChrisShort)

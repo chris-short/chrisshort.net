@@ -61,7 +61,7 @@ Params:
 #        - name: twitter
 #          url: https://twitter.com/ChrisShort
         - name: email
-          url: mailto:chrisshort@duck.com
+          url: /contact/
         - name: rss
           url: https://chrisshort.net/index.xml
       
