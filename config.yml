@@ -29,8 +29,6 @@ Params:
 
     description: "Chris Short's personal website about information technology, lessons learned, and life as a disable veteran in the US."
     
-    ShowShareButtons: false
-
     socialIcons:
         - name: reddit
           url: https://www.reddit.com/r/devopsish/
@@ -95,7 +93,7 @@ Params:
 
     gcse: "partner-pub-8972983586873269:7437701092"
     ShowReadingTime: true
-    ShowShareButtons: true
+    ShowShareButtons: false
     ShowToc: true
     ShowBreadCrumbs: true
     ShowPostNavLinks: true
