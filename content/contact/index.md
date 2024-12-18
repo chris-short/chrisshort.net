@@ -9,6 +9,8 @@ ShowTOC = false
 
 +++
 
+{{< contact >}}
+
 ## Instant Messaging
 
 * [Signal](https://signal.me/#eu/u5Q8-Afgdo9Ytu46c53tpUAbEHOfI2PlrGcQSdg-FkzBR43NajFPFrReCg95icba)
