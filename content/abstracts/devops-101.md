@@ -301,10 +301,6 @@ MOVIE CLIP
 * DevOps has common tooling but often the tools represent a formalized way to do something
 * The Three Ways have to be applied to the tooling you use too
 
-#### Caveat:
-
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">I could have sworn DevOps was more about outcomes than tooling.</p>&mdash; Chris Short (@ChrisShort) <a href="https://twitter.com/ChrisShort/status/861208965610434560?ref_src=twsrc%5Etfw">May 7, 2017</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
 #### Version Control
 
 * Many benefits:

@@ -29,6 +29,8 @@ Params:
 
     description: "Chris Short's personal website about information technology, lessons learned, and life as a disable veteran in the US."
     
+    ShowShareButtons: false
+
     socialIcons:
         - name: reddit
           url: https://www.reddit.com/r/devopsish/
@@ -60,8 +62,8 @@ Params:
 #          url: https://www.producthunt.com/@chrisshort
 #        - name: twitter
 #          url: https://twitter.com/ChrisShort
-        - name: email
-          url: /contact/
+        # - name: email
+        #  url: /contact/
         - name: rss
           url: https://chrisshort.net/index.xml
       

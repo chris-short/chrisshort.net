@@ -9,7 +9,7 @@ tags = ["books"]
 
 +++
 
-> If you'd like to talk to me about writing for your upcoming project please send me a DM on Twitter ([@ChrisShort](https://twitter.com/ChrisShort)) or [e-mail](mailto:chrisshort@duck.com). Thanks!
+> If you'd like to talk to me about writing for your upcoming project please reach out via the [Contact](/contact/) page. Thank you!
 
 ## What is DevOps
 
