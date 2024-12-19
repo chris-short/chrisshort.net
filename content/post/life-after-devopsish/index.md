@@ -75,7 +75,7 @@ I had the best holiday season since I was a kid this past year. Sadly, Aubree wa
 
 ### I miss my dog
 
-I still have a strong desire for knowledge. I also desire control of my surroundings. Plus, I have an unusual desire for superb situational awareness. My time helping [ISR](https://www.af.mil/ISR/) platforms has made me desire surveillance capabilities of my property. I have a lot of cameras magically, y'all. If someone sneaks into my perimeter without me knowing it, congrats! You have my permission to take me out.
+I still have a strong desire for knowledge. I also desire control of my surroundings. Plus, I have an unusual desire for superb situational awareness. My time helping ISR platforms has made me desire surveillance capabilities of my property. I have a lot of cameras magically, y'all. If someone sneaks into my perimeter without me knowing it, congrats! You have my permission to take me out.
 
 I actually have another camera to cover a blind spot in my Amazon shopping cart as I'm writing this. It's worth mentioning, I'm privacy conscious and do not share footage with local authorities. I also store as little as possible (the woodland creatures might get saved). I'm not the one to judge whether something is permissable in court, get a warrant. I want confirmation authorities aren't overreaching.
 

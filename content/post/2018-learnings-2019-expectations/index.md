@@ -37,7 +37,7 @@ One intriguing idea coming very close to the surface is to use Kubernetes as a h
 
 This enables teams to ask what their hypervisor of choice is gaining them. If it's scalability, [kubeadm join](https://kubernetes.io/docs/reference/setup-tools/kubeadm/kubeadm-join/) can handle adding nodes in a cluster with relative ease. Removing nodes is also a few commands (if you hold your teeth right). If it's redundancy/failover; it's hard to fathom a virtualized environment being faster in this scenario than containers.
 
-If this concept gets the adoption I think it will in 2019, the [$550 million VMware paid for Heptio](https://www.lightreading.com/enterprise-cloud/infrastructure-and-platform/heres-what-vmware-paid-for-kubernetes-startup-heptio/d/d-id/748317) will look like one of its best investments ever. VMware is the Kleenex or Xerox of virtualization. But, the virtualization product market will start to shrink at an increasing rate over the coming years. Especially given cloud adoption rates and the deal VMware made with the devil AWS. With the Heptio acquisition, VMware is now primed to be able to adapt its current customer base to Kubernetes faster than that base could on its own.
+If this concept gets the adoption I think it will in 2019, the [$550 million VMware paid for Heptio](https://www.lightreading.com/it-infrastructure/here-s-what-vmware-paid-for-kubernetes-startup-heptio) will look like one of its best investments ever. VMware is the Kleenex or Xerox of virtualization. But, the virtualization product market will start to shrink at an increasing rate over the coming years. Especially given cloud adoption rates and the deal VMware made with the devil AWS. With the Heptio acquisition, VMware is now primed to be able to adapt its current customer base to Kubernetes faster than that base could on its own.
 
 My friend Paul Czarkowski published an article with a different approach to the same outcome; [The future of Kubernetes is Virtual Machines](https://tech.paulcz.net/blog/future-of-kubernetes-is-virtual-machines/). I read Paul's piece about twelve hours after I finished writing the previous paragraphs. I DM'ed Paul and shared my conclusion with him. His response was classic:
 
@@ -67,7 +67,7 @@ But, Site Reliability Engineering is getting the same treatment as DevOps. Teams
 
 ### A Shorter Note on Serverless
 
-Serverless frameworks on a mainframe-like, almost bulletproof platform could be the future of enterprise compute. Whether the compute is managed by a cloud provider or vendor or the organization itself will become less relevant. As the [on-prem to cloud bridges](https://www.lightreading.com/enterprise-cloud/infrastructure-and-platform/aws-launches-outposts-on-prem-cloud-hardware-with-vmware-help/d/d-id/747887) being built by AWS, Google Cloud, Azure, and others become the norm the landscape will change. Coupled with existing SaaS and Cloud services, the only thing that will begin to matter is how data and business logic are handled. Where the data lives will start to matter a lot less than how the data is treated. Lawmakers started to understand that this year. Hopefully, they will begin to actually regulate more effectively as a result. Serverless will begin to help us truly unlock the API daisy chain future we're all asking for. Whether we like it or not will remain to be seen.
+Serverless frameworks on a mainframe-like, almost bulletproof platform could be the future of enterprise compute. Whether the compute is managed by a cloud provider or vendor or the organization itself will become less relevant. As the [on-prem to cloud bridges](https://www.lightreading.com/it-infrastructure/aws-launches-outposts-on-prem-cloud-hardware-with-vmware-help) being built by AWS, Google Cloud, Azure, and others become the norm the landscape will change. Coupled with existing SaaS and Cloud services, the only thing that will begin to matter is how data and business logic are handled. Where the data lives will start to matter a lot less than how the data is treated. Lawmakers started to understand that this year. Hopefully, they will begin to actually regulate more effectively as a result. Serverless will begin to help us truly unlock the API daisy chain future we're all asking for. Whether we like it or not will remain to be seen.
 
 ## The Whole World is Complex
 
@@ -111,7 +111,7 @@ I added my tweet tagging a few people to let them know what was going on...
 
 Then things took on a life of their own. I grabbed my phone at one point and it was obvious it had restarted. Opening Twitter at one point made my iPhone Xs Max hot. If you don't think it blew up a few peoples' phones, check out this [tree of the Twitter thread](https://treeverse.app/view/rFWfcpbY):
 
-[![Interactive view of the #KubeKhan Twitter Thread](https://shortcdn.com/chrisshort/kubekhan-thread-spidered.png#center)](https://treeverse.app/view/rFWfcpbY)
+![Interactive view of the #KubeKhan Twitter Thread](https://shortcdn.com/chrisshort/kubekhan-thread-spidered.png#center)
 
 [Jaice Singer DuMars](https://twitter.com/jaydumars/status/1071185111025049601) named it [#KubeKhan](https://twitter.com/search?l=&q=%23kubekhan). Although spelled incorrectly at first, like any good thread in tech someone acknowledged the misspelling and fixed it. Words are hard, y'all!
 
