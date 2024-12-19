@@ -9,7 +9,7 @@ ShowTOC = false
 
 +++
 
-If the methods below don't work, **please [fill out this from](https://forms.gle/Y4Z8yeMRFK6ME5fz7)** and I'll be in touch.
+{{< contact >}}
 
 ## Instant Messaging
 
