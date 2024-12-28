@@ -51,5 +51,3 @@ Today, Chris has found his passion in the [open source](https://chrisshort.net/t
 * [Interviews](/interviews/)
 * [Books](/books/)
 * [Writing Elsewhere](/writing-elsewhere/)
-
-
