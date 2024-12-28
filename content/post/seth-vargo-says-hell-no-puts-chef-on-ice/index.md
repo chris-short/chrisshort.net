@@ -1,18 +1,22 @@
-+++
-author = "Chris Short"
-date = 2019-09-22
-description = "Seth Vargo, a former Chef employee, learned something he wasn't comfortable with about code he'd written. Chef had an active contract with the US DHS' ICE"
-draft = false
-ShowTOC = false
-tags = ["DevOps", "Chef", "Seth Vargo", "Open Source", "impact"]
-title = "Seth Vargo says hell no—puts Chef on ICE"
-aliases = [
-  "/seth-vargo-says-hell-no-puts-chef-on-ice/"
-]
-[cover]
-image = "https://shortcdn.com/chrisshort/balance-stacked-stones-2171464.jpg"
-
-+++
+---
+ShowTOC: false
+aliases:
+- /seth-vargo-says-hell-no-puts-chef-on-ice/
+author: Chris Short
+cover:
+  image: https://shortcdn.com/chrisshort/balance-stacked-stones-2171464.jpg
+date: "2019-09-22"
+description: Seth Vargo, a former Chef employee, learned something he wasn't comfortable
+  with about code he'd written. Chef had an active contract with the US DHS' ICE
+draft: false
+tags:
+- DevOps
+- Chef
+- Seth Vargo
+- Open Source
+- impact
+title: Seth Vargo says hell no—puts Chef on ICE
+---
 
 Just when you thought a toxic, old, white guy with lousy hygiene was going to dominate the news this week, in walks [Seth Vargo](https://twitter.com/sethvargo). On Thursday, Seth Vargo, a former Chef employee, learned something he wasn't comfortable with about code he'd written. Seth discovered Chef had an active contract with the US Department of Homeland Security's Immigration and Customs Enforcement (yes, [that one](https://time.com/5623148/migrant-detention-centers-conditions/)). Seth then did something rather extraordinary. He yanked his code (including [chef-sugar](https://github.com/sethvargo/chef-sugar)) from GitHub and RubyGems. This resulted in many production systems going offline across the globe. We could see some metrics about impact in a lawsuit at some point. When DM'ing Seth early Friday AM he told me, "It's almost certain that Chef is going to sue."
 

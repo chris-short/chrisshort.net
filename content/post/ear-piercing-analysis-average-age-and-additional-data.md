@@ -1,17 +1,17 @@
-+++
-author = "Chris Short"
-date = 2009-05-26
-description = ""
-draft = false
-ShowTOC = false
-slug = "ear-piercing-analysis-average-age-and-additional-data"
-tags = ["ear piercing", "kids"]
-title = "Ear Piercing Analysis: Average Age and Additional Data"
-aliases = [
-    "/post/113534254/ear-piercing-analysis-average-age-and-additional-data"
-]
-
-+++
+---
+ShowTOC: false
+aliases:
+- /post/113534254/ear-piercing-analysis-average-age-and-additional-data
+author: Chris Short
+date: "2009-05-26"
+description: ""
+draft: false
+slug: ear-piercing-analysis-average-age-and-additional-data
+tags:
+- ear piercing
+- kids
+title: 'Ear Piercing Analysis: Average Age and Additional Data'
+---
 
 My daughter, Aubree, laid into me hard today about getting her ears pierced.  Aubree, her mother and I had a fairly long conversation about it this afternoon.  Which ended with me having to consider it; not think about it but, honestly consider it.
 

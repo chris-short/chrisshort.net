@@ -1,16 +1,17 @@
-+++
-author = "Chris Short"
-date = 2018-03-01
-description = ""
-draft = false
-slug = "kubernetes-cron-jobs-dreams-do-come-true"
-tags = ["devops", "kubernetes", "cfp"]
-title = "Kubernetes Cron Jobs: Dreams Really Do Come True"
-aliases = [
-    "/cfp/kubernetes-cron-jobs-dreams-do-come-true/"
-]
-
-+++
+---
+aliases:
+- /cfp/kubernetes-cron-jobs-dreams-do-come-true/
+author: Chris Short
+date: "2018-03-01"
+description: ""
+draft: false
+slug: kubernetes-cron-jobs-dreams-do-come-true
+tags:
+- devops
+- kubernetes
+- cfp
+title: 'Kubernetes Cron Jobs: Dreams Really Do Come True'
+---
 
 ## Abstract
 

@@ -1,15 +1,31 @@
-+++
-author = "Chris Short"
-date = 2003-03-15
-description = "Maintain a simplistic design and keep web sites easy to use and maintain so that you can focus on content."
-draft = false
-tags = ["web site", "content", "simple", "graphics", "design", "search", "HTML", "users", "clean", "search", "search engine", "search engine optimization", "Google", "Microsoft", "SEO"]
-title = "Simple is a Good Thing"
-ShowToc = false
-[cover]
-image = "https://shortcdn.com/chrisshort/simple-is-a-good-thing.jpg"
-caption = "Keep it simple"
-+++
+---
+ShowToc: false
+author: Chris Short
+cover:
+  caption: Keep it simple
+  image: https://shortcdn.com/chrisshort/simple-is-a-good-thing.jpg
+date: "2003-03-15"
+description: Maintain a simplistic design and keep web sites easy to use and maintain
+  so that you can focus on content.
+draft: false
+tags:
+- web site
+- content
+- simple
+- graphics
+- design
+- search
+- HTML
+- users
+- clean
+- search
+- search engine
+- search engine optimization
+- Google
+- Microsoft
+- SEO
+title: Simple is a Good Thing
+---
 
 {{< carbon >}}
 

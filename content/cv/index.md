@@ -1,21 +1,21 @@
-+++
-
-author = "Chris Short"
-date = 2019-08-18
-description = "Curriculum Vitae of a 20+ year veteran of Information Technology and DevOps and current Developer Advocacy professional."
-draft = false
-tags = ["resume", "cv"]
-slug = "curriculum-vitae"
-title = "Curriculum Vitae"
-aliases = [
-    "/cv/",
-    "/resume/",
-    "/resume-cv/",
-    "/categories/",
-    "resume"
-]
-
-+++
+---
+aliases:
+- /cv/
+- /resume/
+- /resume-cv/
+- /categories/
+- resume
+author: Chris Short
+date: "2019-08-18"
+description: Curriculum Vitae of a 20+ year veteran of Information Technology and
+  DevOps and current Developer Advocacy professional.
+draft: false
+slug: curriculum-vitae
+tags:
+- resume
+- cv
+title: Curriculum Vitae
+---
 
 [PDF version of Résumé](Chris-Short-Resume.pdf) | [Google Docs version of Résumé](https://bit.ly/cbshort-resume)
 

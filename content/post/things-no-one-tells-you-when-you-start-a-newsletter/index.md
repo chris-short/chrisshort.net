@@ -1,16 +1,28 @@
-+++
-author = "Chris Short"
-date = 2020-03-24
-description = ""
-draft = false
-ShowTOC = true
-slug = "things-no-one-tells-you-when-you-start-a-newsletter"
-tags = ["newsletter", "mail", "Gareth Rushgrove", "Mattias Geniar", "DevOps", "writing", "open source", "email", "template", "rewarding", "VScode", "DNS", "MJML"]
-title = "Things no one tells you when you start a newsletter"
-[cover]
-image = "https://shortcdn.com/chrisshort/reading-the-news.jpg"
-
-+++
+---
+ShowTOC: true
+author: Chris Short
+cover:
+  image: https://shortcdn.com/chrisshort/reading-the-news.jpg
+date: "2020-03-24"
+description: ""
+draft: false
+slug: things-no-one-tells-you-when-you-start-a-newsletter
+tags:
+- newsletter
+- mail
+- Gareth Rushgrove
+- Mattias Geniar
+- DevOps
+- writing
+- open source
+- email
+- template
+- rewarding
+- VScode
+- DNS
+- MJML
+title: Things no one tells you when you start a newsletter
+---
 
 {{< carbon >}}
 

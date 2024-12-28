@@ -1,15 +1,19 @@
-+++
-author = "Chris Short"
-date = 2016-08-09
-description = ""
-draft = false
-slug = "technical-debt-and-the-ongoing-battle-against-it"
-tags = ["technical debt", "DevOps", "systemd", "AWS"]
-title = "Technical Debt and the Ongoing Battle Against It"
-[cover]
-image = "https://shortcdn.com/chrisshort/technical-debt.jpg"
-caption = "Photo: [Twitter](https://twitter.com/Carnage4Life/status/585458646680670208)"
-+++
+---
+author: Chris Short
+cover:
+  caption: 'Photo: [Twitter](https://twitter.com/Carnage4Life/status/585458646680670208)'
+  image: https://shortcdn.com/chrisshort/technical-debt.jpg
+date: "2016-08-09"
+description: ""
+draft: false
+slug: technical-debt-and-the-ongoing-battle-against-it
+tags:
+- technical debt
+- DevOps
+- systemd
+- AWS
+title: Technical Debt and the Ongoing Battle Against It
+---
 
 I have been trying to fit a lot of square pegs into round holes lately. Eliminating technical debt with modern day [**DevOps**](https://devopsish.com/) practices to reduce costs is seldom fun or glamorous but is very often beneficial. Reducing costs should be the mindset of IT and one surefire way to do that is to spend the right amount of time on a task to complete it successfully. Finding that balance is definitely tricky especially when a lot of us are human time division multiplexers now. But, that right combination of good work and adequate time spent is definitely out there.
 

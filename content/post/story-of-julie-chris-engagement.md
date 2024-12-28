@@ -1,19 +1,19 @@
-+++
-author = "Chris Short"
-date = 2011-01-29
-description = "The Biltmore Estate is a special place to Chris and Julie. Chris decided months prior that when the time was right he'd propose to Julie on Biltmore Estate."
-draft = false
-ShowTOC = false
-slug = "story-of-julie-chris-engagement"
-tags = ["life"]
-title = "The Story of Julie and Chris' Engagement"
-aliases = [
-    "/post/16711219859/the-story-of-julie-and-chriss-engagement"
-]
-[cover]
-image = "https://shortcdn.com/chrisshort/diana-biltmore-estate.jpg"
-
-+++
+---
+ShowTOC: false
+aliases:
+- /post/16711219859/the-story-of-julie-and-chriss-engagement
+author: Chris Short
+cover:
+  image: https://shortcdn.com/chrisshort/diana-biltmore-estate.jpg
+date: "2011-01-29"
+description: The Biltmore Estate is a special place to Chris and Julie. Chris decided
+  months prior that when the time was right he'd propose to Julie on Biltmore Estate.
+draft: false
+slug: story-of-julie-chris-engagement
+tags:
+- life
+title: The Story of Julie and Chris' Engagement
+---
 
 Julie and I have been passholders to [Biltmore](http://www.biltmore.com/) since Labor Day weekend 2010.  The Biltmore Estate is a very special place for us because it seems every time we visit we somehow manage to fall deeper in love with each other.  I had decided several months prior that when the time was right I would propose to Julie somewhere on the Biltmore Estate.
 

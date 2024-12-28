@@ -1,17 +1,36 @@
-+++
-author = "Chris Short"
-date = 2020-10-21
-description = "Learning YAML might be table stakes, but we still need to strive for a better solution. One that's more human friendly."
-draft = false
-ShowTOC = false
-slug = "fear-and-loathing-in-yaml"
-tags = ["YAML", "DevOps", "markup", "Puppet", "CFEngine", "Kubernetes", "human-readable", "machine-readable", "code", "YAML spec", "language", "XML", "JSON", "systems", "infrastructure", "yq", "syntax", "git", "open source"]
-title = "Fear and Loathing in YAML"
-canonicalURL = "https://devopsish.com/188/"
-[cover]
-image = "https://shortcdn.com/chrisshort/pexels-christina-morillo-1181325.jpg"
-
-+++
+---
+ShowTOC: false
+author: Chris Short
+canonicalURL: https://devopsish.com/188/
+cover:
+  image: https://shortcdn.com/chrisshort/pexels-christina-morillo-1181325.jpg
+date: "2020-10-21"
+description: Learning YAML might be table stakes, but we still need to strive for
+  a better solution. One that's more human friendly.
+draft: false
+slug: fear-and-loathing-in-yaml
+tags:
+- YAML
+- DevOps
+- markup
+- Puppet
+- CFEngine
+- Kubernetes
+- human-readable
+- machine-readable
+- code
+- YAML spec
+- language
+- XML
+- JSON
+- systems
+- infrastructure
+- yq
+- syntax
+- git
+- open source
+title: Fear and Loathing in YAML
+---
 
 > This post was originally written as the introduction to [DevOps'ish 188](https://devopsish.com/188/), has been modified based on feedback, and deemed worthy to share as its own blog post.
 >

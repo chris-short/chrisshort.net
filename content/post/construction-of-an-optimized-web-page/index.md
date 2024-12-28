@@ -1,15 +1,26 @@
-+++
-author = "Chris Short"
-date = 2003-12-20
-description = ""
-draft = false
-tags = ["master template", "search engine", "search engine optimization", "SEO", "keyword phrases", "keyword", "theme", "template", "optimized", "targeted keywords", "meta description tag"]
-title = "Construction of an Optimized Web Page"
-ShowToc = false
-[cover]
-image = "https://shortcdn.com/chrisshort/constrution-of-an-optimized-web-page.jpg"
-caption = "Construction of an Optimized Web Page"
-+++
+---
+ShowToc: false
+author: Chris Short
+cover:
+  caption: Construction of an Optimized Web Page
+  image: https://shortcdn.com/chrisshort/constrution-of-an-optimized-web-page.jpg
+date: "2003-12-20"
+description: ""
+draft: false
+tags:
+- master template
+- search engine
+- search engine optimization
+- SEO
+- keyword phrases
+- keyword
+- theme
+- template
+- optimized
+- targeted keywords
+- meta description tag
+title: Construction of an Optimized Web Page
+---
 
 {{< carbon >}}
 

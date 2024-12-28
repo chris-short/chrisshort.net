@@ -1,19 +1,34 @@
-+++
-
-author = "Chris Short"
-date = 2022-08-18
-description = "Installing WSL2 on Windows 11 is a real pain unless you know what you're doing. It's not as simple as installing a distro at the Microsoft Store."
-draft = false
-slug = "windows-11-how-to-install-wsl2"
-tags = ["Windows", "Linux", "WSL", "WSL2", "install", "Ubuntu", "error", "run", "command", "Linux distros", "Microsoft", "distro", "Run as Administrator", "Windows Subsystem for Linux", "PowerShell", "Terminal"]
-ShowTOC = true
-title = "Windows 11: How to Install WSL2 and Linux Distros"
-[cover]
-image = "https://shortcdn.com/chrisshort/green-keyboard.webp"
-alt = "Green Windows Keyboard"
-caption = "Photo by [Max DeRoin](https://www.pexels.com/photo/close-up-photography-of-black-and-green-computer-keyboard-keys-51415/)"
-
-+++
+---
+ShowTOC: true
+author: Chris Short
+cover:
+  alt: Green Windows Keyboard
+  caption: Photo by [Max DeRoin](https://www.pexels.com/photo/close-up-photography-of-black-and-green-computer-keyboard-keys-51415/)
+  image: https://shortcdn.com/chrisshort/green-keyboard.webp
+date: "2022-08-18"
+description: Installing WSL2 on Windows 11 is a real pain unless you know what you're
+  doing. It's not as simple as installing a distro at the Microsoft Store.
+draft: false
+slug: windows-11-how-to-install-wsl2
+tags:
+- Windows
+- Linux
+- WSL
+- WSL2
+- install
+- Ubuntu
+- error
+- run
+- command
+- Linux distros
+- Microsoft
+- distro
+- Run as Administrator
+- Windows Subsystem for Linux
+- PowerShell
+- Terminal
+title: 'Windows 11: How to Install WSL2 and Linux Distros'
+---
 
 {{< carbon >}}
 

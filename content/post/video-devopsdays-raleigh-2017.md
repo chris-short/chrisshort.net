@@ -1,16 +1,18 @@
-+++
-author = "Chris Short"
-date = 2017-10-11
-description = "Video of Chris Short during two DevOpsDays Raleigh 2017 Events"
-draft = false
-ShowTOC = false
-slug = "video-devopsdays-raleigh-2017"
-tags = ["devops", "devopsdays", "talks"]
-title = "Video: DevOpsDays Raleigh 2017"
-[cover]
-image = "https://shortcdn.com/chrisshort/Dark_Side_of_DevOps_DevOpsDays_Raleigh_2017.jpg"
-
-+++
+---
+ShowTOC: false
+author: Chris Short
+cover:
+  image: https://shortcdn.com/chrisshort/Dark_Side_of_DevOps_DevOpsDays_Raleigh_2017.jpg
+date: "2017-10-11"
+description: Video of Chris Short during two DevOpsDays Raleigh 2017 Events
+draft: false
+slug: video-devopsdays-raleigh-2017
+tags:
+- devops
+- devopsdays
+- talks
+title: 'Video: DevOpsDays Raleigh 2017'
+---
 
 As previously mentioned, [I spoke at DevOpsDays Raleigh](/devopsdays-raleigh-2017-the-dark-side-of-devops/). It was an awesome experience organizing and participating at the event! Videos from DevOpsDays Raleigh 2017 were [recently released on YouTube](https://www.youtube.com/channel/UC4Xs0UbAdDaMRmStzhSsSag/videos). I wanted to take a moment to share the one's I was a subject in here.
 

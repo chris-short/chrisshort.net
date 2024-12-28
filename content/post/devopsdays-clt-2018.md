@@ -1,20 +1,26 @@
-+++
-author = "Chris Short"
-date = 2018-02-28
-description = "This talk walks through the use case of having to apply new certificates to an unfamiliar application. I built a 50-line Go tool to test and audit certifcate chains and web server configurations."
-draft = false
-ShowTOC = false
-slug = "devopsdays-clt-2018"
-tags = ["open source", "devops", "go", "golang", "talks", "security"]
-title = "DevOpsDays Charlotte 2018 Ignite Talk on Go"
-aliases = [
-    "devopsdays-charlotte-2018-ignite-talk-on-golang",
-    "/devopsdays-clt-2018-ignite-talk-on-go/"
-]
-[cover]
-image = "https://shortcdn.com/chrisshort/chris-short-sj-technologies-devopsdays-clt.jpg"
-
-+++
+---
+ShowTOC: false
+aliases:
+- devopsdays-charlotte-2018-ignite-talk-on-golang
+- /devopsdays-clt-2018-ignite-talk-on-go/
+author: Chris Short
+cover:
+  image: https://shortcdn.com/chrisshort/chris-short-sj-technologies-devopsdays-clt.jpg
+date: "2018-02-28"
+description: This talk walks through the use case of having to apply new certificates
+  to an unfamiliar application. I built a 50-line Go tool to test and audit certifcate
+  chains and web server configurations.
+draft: false
+slug: devopsdays-clt-2018
+tags:
+- open source
+- devops
+- go
+- golang
+- talks
+- security
+title: DevOpsDays Charlotte 2018 Ignite Talk on Go
+---
 
 All other DevOpsDays events should be put on notice. DevOpsDays Charlotte 2018 set the bar unattainably high for the quality of the venue and speaker line up. It'll be insanely hard to beat the great folks who spoke in Charlotte this year. Almost every talk was a home run. The Red Ventures facility was also jaw dropping. Also, I don't think we could have asked for a more inviting and welcoming speaker lounge either.
 

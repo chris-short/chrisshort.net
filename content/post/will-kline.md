@@ -1,14 +1,14 @@
-+++
-author = "Chris Short"
-date = 2007-08-13
-description = "Will Kline: A Heartbeat That Stopped Too Soon"
-draft = false
-ShowTOC = false
-slug = "will-kline"
-tags = ["friends"]
-title = "Will Kline"
-
-+++
+---
+ShowTOC: false
+author: Chris Short
+date: "2007-08-13"
+description: 'Will Kline: A Heartbeat That Stopped Too Soon'
+draft: false
+slug: will-kline
+tags:
+- friends
+title: Will Kline
+---
 
 A tragedy has happened here in Denver; a good friend, co-worker, and fellow Airman has passed away. In a nutshell, it was a sudden and tragic end to a life that was way too short and full of people he touched. The emotions that flow through those that he touched after they heard the news are shock, numbness, sadness, anger… And I really haven't figured out what is going to come after that.
 

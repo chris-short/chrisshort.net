@@ -1,13 +1,20 @@
-+++
-author = "Chris Short"
-date = 2018-02-22
-description = "History can help prevent conflict when driving change. This talk will analyze human tendencies, historical data, and provide real-world examples of how to avoid conflict during your DevOps journey."
-draft = false
-slug = "go-to-the-rescue-devopsdays-nyc-2018"
-tags = ["talks", "speaking", "videos", "public speaking"]
-title = "Golang to the rescue: Saving DevOps from TLS turmoil — DevOpsDays Charlotte 2018"
-ShowTOC = false
-+++
+---
+ShowTOC: false
+author: Chris Short
+date: "2018-02-22"
+description: History can help prevent conflict when driving change. This talk will
+  analyze human tendencies, historical data, and provide real-world examples of how
+  to avoid conflict during your DevOps journey.
+draft: false
+slug: go-to-the-rescue-devopsdays-nyc-2018
+tags:
+- talks
+- speaking
+- videos
+- public speaking
+title: 'Golang to the rescue: Saving DevOps from TLS turmoil — DevOpsDays Charlotte
+  2018'
+---
 
 {{< carbon >}}
 

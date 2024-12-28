@@ -1,16 +1,19 @@
-+++
-author = "Chris Short"
-date = 2017-01-26
-description = ""
-draft = false
-ShowTOC = false
-slug = "find-ec2-instances-that-are-missing-tags"
-tags = ["EC2", "AWS", "jq", "DevOps"]
-title = "Find EC2 Instances That Are Missing Tags"
-[cover]
-image = "https://shortcdn.com/chrisshort/aws.jpg"
-
-+++
+---
+ShowTOC: false
+author: Chris Short
+cover:
+  image: https://shortcdn.com/chrisshort/aws.jpg
+date: "2017-01-26"
+description: ""
+draft: false
+slug: find-ec2-instances-that-are-missing-tags
+tags:
+- EC2
+- AWS
+- jq
+- DevOps
+title: Find EC2 Instances That Are Missing Tags
+---
 
 The team here was trying to align AWS resources for billing by using Tags. Seems easy enough but we were having issues trying to figure out which EC2 instances were not tagged. We also wanted to find EC2 instances that are missing a ROLE tag. We searched high and low and found that several people needed a solution. We tried to cobble something together with the AWS CLI and then Ansible. We could not come up with a viable solution. So we did what any could [**DevOps**](https://devopsish.com/) team should do; we opened a ticket with AWS Support.
 

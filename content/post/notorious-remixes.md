@@ -1,17 +1,22 @@
-+++
-author = "Chris Short"
-date = 2016-09-14
-description = "The Notorious B.I.G. was one of the best rappers ever. This is the definitive collection of the best Notorious B.I.G. remixes and mashups ever created."
-draft = false
-ShowTOC = false
-slug = "notorious-remixes"
-tags = ["notorious big", "mashup", "remix", "hip hop"]
-title = "Notorious Remixes"
-[cover]
-image = "https://shortcdn.com/chrisshort/The_Notorious_B.I.G._graffiti.jpg"
-caption = "Photo: [Biggie smalls](https://www.flickr.com/photos/tombothetominator/5454864996/) by [Tom Check](https://www.flickr.com/people/7536455@N04)"
-
-+++
+---
+ShowTOC: false
+author: Chris Short
+cover:
+  caption: 'Photo: [Biggie smalls](https://www.flickr.com/photos/tombothetominator/5454864996/)
+    by [Tom Check](https://www.flickr.com/people/7536455@N04)'
+  image: https://shortcdn.com/chrisshort/The_Notorious_B.I.G._graffiti.jpg
+date: "2016-09-14"
+description: The Notorious B.I.G. was one of the best rappers ever. This is the definitive
+  collection of the best Notorious B.I.G. remixes and mashups ever created.
+draft: false
+slug: notorious-remixes
+tags:
+- notorious big
+- mashup
+- remix
+- hip hop
+title: Notorious Remixes
+---
 
 Note: If you know of other remixes that showcase the lyrics of Notorious B.I.G., please let me know.
 

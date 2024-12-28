@@ -1,19 +1,34 @@
-+++
-
-author = "Chris Short"
-date = 2022-08-04
-description = "eBPF is VERY powerful because it's so ingrained where all the magic happens (the Linux kernel). eBPF lets you write custom code in the kernel."
-draft = false
-slug = "intro-to-ebpf"
-tags = ["eBPF", "Linux", "kernel", "eBPF programs", "network", "observability", "security", "Kubernetes", "system", "Windows", "Liz Rice", "events", "Cilium", "networking", "magic", "execution"]
-ShowTOC = true
-title = "Intro to eBPF"
-[cover]
-image = "https://shortcdn.com/devopsish/ebpf-logo.webp"
-alt = "eBPF"
-caption = "eBPF bee is named eBee"
-
-+++
+---
+ShowTOC: true
+author: Chris Short
+cover:
+  alt: eBPF
+  caption: eBPF bee is named eBee
+  image: https://shortcdn.com/devopsish/ebpf-logo.webp
+date: "2022-08-04"
+description: eBPF is VERY powerful because it's so ingrained where all the magic happens
+  (the Linux kernel). eBPF lets you write custom code in the kernel.
+draft: false
+slug: intro-to-ebpf
+tags:
+- eBPF
+- Linux
+- kernel
+- eBPF programs
+- network
+- observability
+- security
+- Kubernetes
+- system
+- Windows
+- Liz Rice
+- events
+- Cilium
+- networking
+- magic
+- execution
+title: Intro to eBPF
+---
 
 {{< carbon >}}
 

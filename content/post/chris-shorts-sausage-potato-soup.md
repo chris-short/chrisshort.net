@@ -1,13 +1,14 @@
-+++
-author = "Chris Short"
-date = 2009-08-30
-description = ""
-draft = false
-slug = "chris-shorts-sausage-potato-soup"
-tags = ["food", "recipes"]
-title = "Chris Short's Sausage Potato Soup"
-
-+++
+---
+author: Chris Short
+date: "2009-08-30"
+description: ""
+draft: false
+slug: chris-shorts-sausage-potato-soup
+tags:
+- food
+- recipes
+title: Chris Short's Sausage Potato Soup
+---
 
 ## Ingredients
 

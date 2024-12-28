@@ -1,17 +1,22 @@
-+++
-author = "Chris Short"
-date = 2018-02-19
-description = "Jason Hibbets and Chris Short spoke at Open Source 101 Raleigh 2018 (a VERY diverse and inclusive Open Source software conference)"
-draft = false
-slug = "open-source-101-raleigh-2018"
-tags = ["open source", "diversity", "devops", "talks", "culture"]
-title = "Open Source 101 Raleigh 2018"
-[cover]
-image = "https://shortcdn.com/chrisshort/jason-chris-open-source-101-2018.jpg"
-alt = "Jason Hibbets and Chris Short Talking DevOps at Open Source Raleigh 101"
-caption = "Photo Credit: [VM (Vicky) Brasseur](https://www.vmbrasseur.com/) (CC-BY)"
-
-+++
+---
+author: Chris Short
+cover:
+  alt: Jason Hibbets and Chris Short Talking DevOps at Open Source Raleigh 101
+  caption: 'Photo Credit: [VM (Vicky) Brasseur](https://www.vmbrasseur.com/) (CC-BY)'
+  image: https://shortcdn.com/chrisshort/jason-chris-open-source-101-2018.jpg
+date: "2018-02-19"
+description: Jason Hibbets and Chris Short spoke at Open Source 101 Raleigh 2018 (a
+  VERY diverse and inclusive Open Source software conference)
+draft: false
+slug: open-source-101-raleigh-2018
+tags:
+- open source
+- diversity
+- devops
+- talks
+- culture
+title: Open Source 101 Raleigh 2018
+---
 
 I had the opportunity to attend and speak at [Open Source 101](http://opensource101.com/) at NC State's McKimmon Center for Extension & Continuing Education this past weekend. It's always nice to visit Raleigh, NC and Red Hat Tower. I met several awesome attendees and speakers while I was in town too. The All Things Open team did an absolutely fantastic job at every facet of this conference. If you have the opportunity to attend one of these events you most definitely should!
 

@@ -1,16 +1,23 @@
-+++
-author = "Chris Short"
-date = 2018-11-02
-description = "What it was like for relatively new Red Hat employee, Chris Short, during the IBM acquisition announcement and the week that followed."
-draft = false
-slug = "one-fish-two-fish-blue-fish-sporting-new-red-hat"
-tags = ["red hat", "ibm", "job", "life", "open source", "company", "acquisition"]
-title = "One Fish, Two Fish, Blue Fish Sporting New Red Hat"
-[cover]
-image = "https://shortcdn.com/chrisshort/ibm-to-acquire-red-hat.png"
-caption = "IBM to acquire Red Hat for $34 Billion (with a B)"
-
-+++
+---
+author: Chris Short
+cover:
+  caption: IBM to acquire Red Hat for $34 Billion (with a B)
+  image: https://shortcdn.com/chrisshort/ibm-to-acquire-red-hat.png
+date: "2018-11-02"
+description: What it was like for relatively new Red Hat employee, Chris Short, during
+  the IBM acquisition announcement and the week that followed.
+draft: false
+slug: one-fish-two-fish-blue-fish-sporting-new-red-hat
+tags:
+- red hat
+- ibm
+- job
+- life
+- open source
+- company
+- acquisition
+title: One Fish, Two Fish, Blue Fish Sporting New Red Hat
+---
 
 Since Sunday afternoon, I've been in a whirlwind of meetings, discussions, and calls about IBM's plan to acquire Red Hat for $34 billion. My mind has been racing but, after some consideration, I've decided to share my thoughts as a narrative timeline. Trust me when say that I have given this format considerable thought. It is likely the safest way (regulatory-wise) to deliver my thoughts on the topic.
 

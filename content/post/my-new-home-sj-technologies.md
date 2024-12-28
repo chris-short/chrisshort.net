@@ -1,16 +1,20 @@
-+++
-author = "Chris Short"
-date = 2018-01-09
-description = "I am very happy to announce that I have a new job. I am now a Senior DevOps Consultant with the esteemed SJ Technologies, Inc."
-draft = false
-ShowTOC = false
-slug = "my-new-home-sj-technologies"
-tags = ["job", "DevOps", "life", "impostor syndrome"]
-title = "My New Home is SJ Technologies"
-[cover]
-image = "https://shortcdn.com/chrisshort/sj-technologies.jpg"
-
-+++
+---
+ShowTOC: false
+author: Chris Short
+cover:
+  image: https://shortcdn.com/chrisshort/sj-technologies.jpg
+date: "2018-01-09"
+description: I am very happy to announce that I have a new job. I am now a Senior
+  DevOps Consultant with the esteemed SJ Technologies, Inc.
+draft: false
+slug: my-new-home-sj-technologies
+tags:
+- job
+- DevOps
+- life
+- impostor syndrome
+title: My New Home is SJ Technologies
+---
 
 I am very happy to announce that I have a new job. I am now a **Senior DevOps Advocate** with the esteemed [SJ Technologies, Inc.](http://sjtechcorp.com/) The great job search of 2017 actually ended in 2017. The good folks at SJ Technologies put together my offer letter in the last week of 2017. This allowed me to take a deep breath over the New Year's weekend and decompress. I am truly thankful to everyone for getting the offer together in what was likely your down time. It means a lot to me and my family.
 

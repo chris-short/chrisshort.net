@@ -1,15 +1,20 @@
-+++
-author = "Chris Short"
-date = 2020-02-26
-description = "Chris Short is running for the Open Source Initiative 2020 Board of Directors"
-draft = false
-slug = "open-source-initiative-board-of-directors-2020"
-tags = ["open source", "OSI", "Open Source Initiative", "Board of Directors", "licenses", "election"]
-title = "Open Source Initiative Board of Directors 2020"
-[cover]
-image = "https://shortcdn.com/chrisshort/neon-open.jpg"
-
-+++
+---
+author: Chris Short
+cover:
+  image: https://shortcdn.com/chrisshort/neon-open.jpg
+date: "2020-02-26"
+description: Chris Short is running for the Open Source Initiative 2020 Board of Directors
+draft: false
+slug: open-source-initiative-board-of-directors-2020
+tags:
+- open source
+- OSI
+- Open Source Initiative
+- Board of Directors
+- licenses
+- election
+title: Open Source Initiative Board of Directors 2020
+---
 
 The 2020 election for the [Open Source Initiative Board of Directors](https://wiki.opensource.org/bin/Main/OSI+Board+of+Directors/) is rapidly approaching. Before going to IBM FastStart in Las Vegas last week, I nominated myself for a seat on the board as an Individual Member. I spoke with a few friends in the months prior to submitting my nomination. It sounds like OSI could use my help.
 

@@ -1,16 +1,18 @@
-+++
-author = "Chris Short"
-date = 2017-06-06
-description = ""
-draft = false
-ShowTOC = false
-slug = "the-open-organization-guide-to-it-culture-change"
-tags = ["open source", "culture", "DevOps"]
-title = "The Open Organization Guide to IT Culture Change"
-[cover]
-image = "https://shortcdn.com/chrisshort/theopenorg_guidetoITculturechange_1_0_cover_final.png"
-
-+++
+---
+ShowTOC: false
+author: Chris Short
+cover:
+  image: https://shortcdn.com/chrisshort/theopenorg_guidetoITculturechange_1_0_cover_final.png
+date: "2017-06-06"
+description: ""
+draft: false
+slug: the-open-organization-guide-to-it-culture-change
+tags:
+- open source
+- culture
+- DevOps
+title: The Open Organization Guide to IT Culture Change
+---
 
 The open organization community at Opensource.com (of which [I'm a member](https://opensource.com/users/chrisshort)) is pleased to announce the **immediate** release of its newest book, *The Open Organization Guide to IT Culture Change*.
 

@@ -1,13 +1,15 @@
-+++
-author = "Chris Short"
-date = 2017-01-01
-description = ""
-draft = false
-slug = "what-i-learned-in-2016"
-tags = ["philosophy", "life", "kubernetes"]
-title = "What I Learned in 2016"
-
-+++
+---
+author: Chris Short
+date: "2017-01-01"
+description: ""
+draft: false
+slug: what-i-learned-in-2016
+tags:
+- philosophy
+- life
+- kubernetes
+title: What I Learned in 2016
+---
 
 A former co-worker and now friend used to have a tagline, "Everyday is a school day." I remind myself of this fact nearly every time I learn something new. 2016 brought a lot of new knowledge and skill sets into my ever-expanding arsenal of tools.
 

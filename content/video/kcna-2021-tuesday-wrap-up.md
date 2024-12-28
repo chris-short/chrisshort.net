@@ -1,13 +1,19 @@
-+++
-author = "Chris Short"
-date = 2021-10-12
-description = "Chris Short sits down with KubeCon speakers, attendees, and Cloud Native contributors for the KubeCon NA 2021 (Los Angeles) wrap up show on Day 0 of KubeCon."
-draft = false
-slug = "kcna-2021-tuesday-wrap-up"
-tags = ["talks", "speaking", "videos", "public speaking"]
-title = "KubeCon + CloudNativeCon Daily Wrap Up: Tuesday — KubeCon + CloudNativeCon NA 2021"
-ShowTOC = false
-+++
+---
+ShowTOC: false
+author: Chris Short
+date: "2021-10-12"
+description: Chris Short sits down with KubeCon speakers, attendees, and Cloud Native
+  contributors for the KubeCon NA 2021 (Los Angeles) wrap up show on Day 0 of KubeCon.
+draft: false
+slug: kcna-2021-tuesday-wrap-up
+tags:
+- talks
+- speaking
+- videos
+- public speaking
+title: 'KubeCon + CloudNativeCon Daily Wrap Up: Tuesday — KubeCon + CloudNativeCon
+  NA 2021'
+---
 
 {{< carbon >}}
 

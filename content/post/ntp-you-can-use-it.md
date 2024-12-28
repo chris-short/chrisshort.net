@@ -1,14 +1,16 @@
-+++
-author = "Chris Short"
-date = 2003-04-23
-description = "NTP is designed to keep accurate local time keeping."
-draft = false
-ShowTOC = false
-slug = "ntp-you-can-use-it"
-tags = ["ntp", "time", "clock"]
-title = "NTP: You Can Use It"
-
-+++
+---
+ShowTOC: false
+author: Chris Short
+date: "2003-04-23"
+description: NTP is designed to keep accurate local time keeping.
+draft: false
+slug: ntp-you-can-use-it
+tags:
+- ntp
+- time
+- clock
+title: 'NTP: You Can Use It'
+---
 
 Network Time Protocol (NTP) is a very nice feature for networks that utilize multiple devices that have administrators who view logs on a regular basis, web sites that make financial transactions, and employee time clock management systems (these are just a few examples). NTP is designed to keep accurate local time keeping. Having four different times from four different devices for one event that happened once isn't a good thing. Having every device in your network set to the same time is highly recommended. Computers and routers by themselves use archaic methods for keeping time. NTP ensures the accuracy of time on all devices that use it. For example, the firewall I use at home will automatically e-mail me an alert when there has been an attempted attack or port scan. My home firewall uses NTP to synchronize its time. Therefore, I can then forward that alert to my ISP and the originating ISP. Upon reviewing the alert they can accurately tell by the time the attack/port scan took place and IP address used which one of their users was the perpetrator.
 

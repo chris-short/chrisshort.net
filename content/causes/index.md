@@ -1,13 +1,12 @@
-+++
-author = "Chris Short"
-date = 2017-10-27
-description = "Causes Chris Short Supports"
-draft = false
-title = "Causes"
-aliases = [
-    "/tags/causes/"
-]
-+++
+---
+aliases:
+- /tags/causes/
+author: Chris Short
+date: "2017-10-27"
+description: Causes Chris Short Supports
+draft: false
+title: Causes
+---
 
 There are many causes worth supporting out there. It's important that you help out organizations doing good in the world. Here is a list of causes I support or no longer support for various reasons:
 

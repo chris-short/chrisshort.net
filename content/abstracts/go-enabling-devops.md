@@ -1,16 +1,20 @@
-+++
-author = "Chris Short"
-date = 2018-02-23
-description = ""
-draft = false
-slug = "go-enabling-devops"
-tags = ["open source", "devops", "go", "golang", "security", "cfp"]
-title = "Go: Enabling DevOps to Go Faster"
-aliases = [
-    "/cfp/go-enabling-devops/"
-]
-
-+++
+---
+aliases:
+- /cfp/go-enabling-devops/
+author: Chris Short
+date: "2018-02-23"
+description: ""
+draft: false
+slug: go-enabling-devops
+tags:
+- open source
+- devops
+- go
+- golang
+- security
+- cfp
+title: 'Go: Enabling DevOps to Go Faster'
+---
 
 ## Abstract
 

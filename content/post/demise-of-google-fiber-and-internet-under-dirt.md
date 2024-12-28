@@ -1,17 +1,23 @@
-+++
-author = "Chris Short"
-date = 2016-10-30
-description = "There is movement around how consumers will be gaining access to the Internet. Your future Internet connection will not be a physical connection at all."
-draft = false
-ShowTOC = false
-slug = "demise-of-google-fiber-and-internet-under-dirt"
-tags = ["internet", "google", "fiber", "wireless", "Verizon"]
-title = "The Demise of Google Fiber and Internet Under Dirt"
-aliases = ["demise-of-google-fiber-and-internet-under-dirt"]
-[cover]
-image = "https://shortcdn.com/chrisshort/twc-power-utility-house-connection.jpg"
-
-+++
+---
+ShowTOC: false
+aliases:
+- demise-of-google-fiber-and-internet-under-dirt
+author: Chris Short
+cover:
+  image: https://shortcdn.com/chrisshort/twc-power-utility-house-connection.jpg
+date: "2016-10-30"
+description: There is movement around how consumers will be gaining access to the
+  Internet. Your future Internet connection will not be a physical connection at all.
+draft: false
+slug: demise-of-google-fiber-and-internet-under-dirt
+tags:
+- internet
+- google
+- fiber
+- wireless
+- Verizon
+title: The Demise of Google Fiber and Internet Under Dirt
+---
 
 If you have not heard the news, [Google Fiber is no longer expanding](http://www.usatoday.com/story/tech/news/2016/10/25/google-fiber-halts-rollout-ceo-leaves/92746288/) its installation in the 10 markets they service and the head of Google Access (the Google Fiber overlord company), Craig Barratt, is stepping down.
 

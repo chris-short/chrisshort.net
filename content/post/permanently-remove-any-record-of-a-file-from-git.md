@@ -1,15 +1,22 @@
-+++
-author = "Chris Short"
-date = 2016-06-25
-description = "Distributed version control isn't designed to allow folks to delete every instance of a file. But, if you run into a case where you need to expunge a file in git, here is how we did it."
-draft = false
-slug = "permanently-remove-any-record-of-a-file-from-git"
-tags = ["git", "remove", "scm", "vcs", "repo", "cloud"]
-title = "Permanently Remove Any Record of a File From git"
-[cover]
-image = "https://shortcdn.com/chrisshort/git-logo.png"
-
-+++
+---
+author: Chris Short
+cover:
+  image: https://shortcdn.com/chrisshort/git-logo.png
+date: "2016-06-25"
+description: Distributed version control isn't designed to allow folks to delete every
+  instance of a file. But, if you run into a case where you need to expunge a file
+  in git, here is how we did it.
+draft: false
+slug: permanently-remove-any-record-of-a-file-from-git
+tags:
+- git
+- remove
+- scm
+- vcs
+- repo
+- cloud
+title: Permanently Remove Any Record of a File From git
+---
 
 A co-worker and I needed to remove all instances of a binary blob from one of our git repos a while back. This was a lot harder than I thought it should have been, in my opinion. However, distributed version control is not really designed to easily allow folks to delete every instance of a file. But, if you ever run into a case where you do need to expunge a file in git here is how we did it. This would work to remove a file from any cloud, service, or local git repository.
 

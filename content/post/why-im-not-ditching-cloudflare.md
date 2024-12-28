@@ -1,16 +1,21 @@
-+++
-author = "Chris Short"
-date = 2017-08-31
-description = "Time, bugs, unprecedented events, and reason all played a factor in deciding to stick with Cloudflare"
-draft = true
-ShowTOC = false
-slug = "why-im-not-ditching-cloudflare"
-tags = ["internet", "cloudflare", "hate", "diversity", "bgp"]
-title = "Why I'm Not Ditching Cloudflare"
-[cover]
-image = "https://shortcdn.com/chrisshort/cf-logo-v-rgb.png"
-
-+++
+---
+ShowTOC: false
+author: Chris Short
+cover:
+  image: https://shortcdn.com/chrisshort/cf-logo-v-rgb.png
+date: "2017-08-31"
+description: Time, bugs, unprecedented events, and reason all played a factor in deciding
+  to stick with Cloudflare
+draft: true
+slug: why-im-not-ditching-cloudflare
+tags:
+- internet
+- cloudflare
+- hate
+- diversity
+- bgp
+title: Why I'm Not Ditching Cloudflare
+---
 
 [ARPANET](http://searchnetworking.techtarget.com/definition/ARPANET) (the precursor to the internet) was built to connect scarce computing resources across the country to foster research and development. It's designers say that it was never designed to survive a nuclear attack rather, it was built to work around flaky network links of its era. The Internet of today is powered by the [Border Gateway Protocol (BGP)](https://en.wikipedia.org/wiki/Border_Gateway_Protocol) routing protocol. BGP is powerful as it shares information throughout myriad locations about how to send traffic from one part of the internet to another. I have seen this protocol work in war simulations with almost no service degradation of military networks during "catastrophic events". The Internet, at its core, is designed to be decentralized, survivable, and accessible.
 

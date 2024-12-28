@@ -1,16 +1,18 @@
-+++
-author = "Chris Short"
-date = 2019-11-08
-description = "Chris Short added as co-host on Red Hat's Kubernetes podcast: PodCTL"
-draft = true
-ShowTOC = false
-tags = ["PodCTL", "Kubernetes", "podcast"]
-title = "PodCTL Co-host"
-[cover]
-image = "https://shortcdn.com/chrisshort/PodCTL-Logo-KubernetesFromRedHat-June2019.png"
-alt = "PodCTL - Enterprise Kubernetes"
-
-+++
+---
+ShowTOC: false
+author: Chris Short
+cover:
+  alt: PodCTL - Enterprise Kubernetes
+  image: https://shortcdn.com/chrisshort/PodCTL-Logo-KubernetesFromRedHat-June2019.png
+date: "2019-11-08"
+description: 'Chris Short added as co-host on Red Hat''s Kubernetes podcast: PodCTL'
+draft: true
+tags:
+- PodCTL
+- Kubernetes
+- podcast
+title: PodCTL Co-host
+---
 
 Three years ago, I sat down with Brian Gracely and Josh Atwell and [recorded a podcast](/devops-perspectives-from-the-front-lines/). I hadn't met  Brian before that, but it was obvious Brian knew what he was doing hosting a podcast. I walked into a conference with Brian, Josh, four mics, a TASCAM, and a laptop. This was a legit podcast production I was sitting down to record.
 

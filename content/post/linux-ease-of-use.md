@@ -1,20 +1,22 @@
-+++
-author = "Chris Short"
-date = 2003-06-10
-description = "I decided to do some searching and see what other people were saying about ease of use in Linux. I found the results of my searches to be less than fruitful."
-draft = false
-ShowTOC = false
-slug = "linux-ease-of-use"
-tags = ["linux", "Microsoft", "open source"]
-title = "Linux and Ease of Use"
-aliases = [
-    "/archives/2005/01/linux-and-ease-of-use.php",
-    "linux-and-ease-of-use.php"
-    ]
-[cover]
-image = "https://shortcdn.com/chrisshort/Tux.png"
-
-+++
+---
+ShowTOC: false
+aliases:
+- /archives/2005/01/linux-and-ease-of-use.php
+- linux-and-ease-of-use.php
+author: Chris Short
+cover:
+  image: https://shortcdn.com/chrisshort/Tux.png
+date: "2003-06-10"
+description: I decided to do some searching and see what other people were saying
+  about ease of use in Linux. I found the results of my searches to be less than fruitful.
+draft: false
+slug: linux-ease-of-use
+tags:
+- linux
+- Microsoft
+- open source
+title: Linux and Ease of Use
+---
 
 When I got the idea to write this article I decided to do some searching and see what other people were saying about ease of use in Linux. I found the results of my searches to be less than fruitful, see for your self:
 

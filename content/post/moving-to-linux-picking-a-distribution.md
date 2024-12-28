@@ -1,15 +1,17 @@
-+++
-author = "Chris Short"
-date = 2003-05-10
-description = ""
-draft = false
-ShowTOC = false
-slug = "moving-to-linux-picking-a-distribution"
-tags = ["linux", "open source"]
-title = "Moving to Linux - Picking a Distribution"
-aliases = ["moving-to-linux-picking-a-distribution"]
-
-+++
+---
+ShowTOC: false
+aliases:
+- moving-to-linux-picking-a-distribution
+author: Chris Short
+date: "2003-05-10"
+description: ""
+draft: false
+slug: moving-to-linux-picking-a-distribution
+tags:
+- linux
+- open source
+title: Moving to Linux - Picking a Distribution
+---
 
 After deciding to [move to Linux](/moving-to-linux/) and determining that [my hardware is compatible with Linux](/moving-to-linux-hardware-compatibility/), it's time to pick a Linux distribution.
 

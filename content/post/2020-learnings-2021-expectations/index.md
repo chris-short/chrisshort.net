@@ -1,15 +1,60 @@
-+++
-author = "Chris Short"
-date = 2020-12-30
-description = "Chris Short looks back at 2020 and looks ahead to 2021."
-draft = false
-slug = "2020-learnings-2021-expectations"
-tags = ["developer", "live streaming", "Kubernetes", "cloud native", "GitOps", "DevOps", "ARM", "data", "perfection", "speaking", "developer experience", "platform", "events", "global pandemic", "assumptions", "Edge", "5G", "infrastructure", "marketing", "Kubernetes release team", "chronic pain", "disability", "disabled", "release", "CFP", "open source", "exponential advancement", "automation", "systems", "OpenShift.tv", "software", "code", "joy", "Ford", "Detroit", "distributed systems", "management", "Ansible", "Kat Cosgrove", "ArgoCD", "Flux", "Weaveworks", "DevOps'ish", "conferences", "public speaking", "Christian Hernandez"]
-title = "2020 Learnings, 2021 Expectations"
-[cover]
-image = "https://shortcdn.com/chrisshort/hope.jpg"
-
-+++
+---
+author: Chris Short
+cover:
+  image: https://shortcdn.com/chrisshort/hope.jpg
+date: "2020-12-30"
+description: Chris Short looks back at 2020 and looks ahead to 2021.
+draft: false
+slug: 2020-learnings-2021-expectations
+tags:
+- developer
+- live streaming
+- Kubernetes
+- cloud native
+- GitOps
+- DevOps
+- ARM
+- data
+- perfection
+- speaking
+- developer experience
+- platform
+- events
+- global pandemic
+- assumptions
+- Edge
+- 5G
+- infrastructure
+- marketing
+- Kubernetes release team
+- chronic pain
+- disability
+- disabled
+- release
+- CFP
+- open source
+- exponential advancement
+- automation
+- systems
+- OpenShift.tv
+- software
+- code
+- joy
+- Ford
+- Detroit
+- distributed systems
+- management
+- Ansible
+- Kat Cosgrove
+- ArgoCD
+- Flux
+- Weaveworks
+- DevOps'ish
+- conferences
+- public speaking
+- Christian Hernandez
+title: 2020 Learnings, 2021 Expectations
+---
 
 We've all had challenging years before. However, none were quite as challenging as in 2020. In the conclusion of last year's post, I wrote, "I am hopeful that whatever economic upheaval we face as a society in 2020 is limited." At that time, economic indicators were bubble-ish. However, a global pandemic was not something I had in the cards. No one did. A global pandemic, international protests against horrific injustices, and a US government damn near inept at helping with any of it. These events led to the largest voter turnout in this nation's history. Hopefully, this will change our path and put the country back on track.
 

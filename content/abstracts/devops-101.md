@@ -1,15 +1,23 @@
-+++
-author = "Chris Short"
-date = 2018-02-28
-description = ""
-draft = false
-slug = "devops-101"
-tags = ["devops", "job", "career", "culture", "the three ways", "people", "process", "tools", "cfp"]
-title = "DevOps 101"
-aliases = [
-    "/cfp/devops-101/"
-]
-+++
+---
+aliases:
+- /cfp/devops-101/
+author: Chris Short
+date: "2018-02-28"
+description: ""
+draft: false
+slug: devops-101
+tags:
+- devops
+- job
+- career
+- culture
+- the three ways
+- people
+- process
+- tools
+- cfp
+title: DevOps 101
+---
 
 *This talk has been deprecated and remains for reference*
 

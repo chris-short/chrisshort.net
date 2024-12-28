@@ -1,15 +1,30 @@
-+++
-author = "Chris Short"
-date = 2021-03-29
-description = "K Rain Leander inspired a recent DevOps'ish intro topic related to the COVID-19 pandemic and DevOps; sharing here as it's more a personal take on the world today."
-draft = false
-tags = ["pandemic", "year", "people", "K Rain Leander", "world", "cultural shifts", "DevOps", "DevSecOps", "lockdowns", "COVID-19", "Michigan", "Work Life Balance"]
-title = "Reader question: What are your favorite cultural shifts from the last year (and more)"
-ShowToc = false
-[cover]
-image = "https://shortcdn.com/chrisshort/covid-19-cdc.svg"
-caption = "COVID-19 is more than just a pandemic"
-+++
+---
+ShowToc: false
+author: Chris Short
+cover:
+  caption: COVID-19 is more than just a pandemic
+  image: https://shortcdn.com/chrisshort/covid-19-cdc.svg
+date: "2021-03-29"
+description: K Rain Leander inspired a recent DevOps'ish intro topic related to the
+  COVID-19 pandemic and DevOps; sharing here as it's more a personal take on the world
+  today.
+draft: false
+tags:
+- pandemic
+- year
+- people
+- K Rain Leander
+- world
+- cultural shifts
+- DevOps
+- DevSecOps
+- lockdowns
+- COVID-19
+- Michigan
+- Work Life Balance
+title: 'Reader question: What are your favorite cultural shifts from the last year
+  (and more)'
+---
 
 *This article first appeared in [DevOps'ish 210](https://devopsish.com/210/) and was 100% inspired by [K Rain Leander](https://twitter.com/rainleander/status/1373299864902246400)*
 

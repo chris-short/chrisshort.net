@@ -1,18 +1,32 @@
-+++
-author = "Chris Short"
-date = 2018-12-21
-description = "A recap of what I did at KubeCon + CloudNativeCon North America 2018"
-draft = false
-slug = "my-kubecon-cloudnativecon-na-2018-recap"
-tags = ["kubernetes", "cloud native", "kubekhan", "kubecon", "mentorship", "contributor", "experience", "community", "cloudnativecon", "summit", "BoF", "birds of a feather", "CNCF", "people", "seattle", "volunteering"]
-title = "My KubeCon + CloudNativeCon NA 2018 Recap"
-aliases = [
-    "kubecon-cloudnativecon-na-2018"
-]
-[cover]
-image = "https://shortcdn.com/chrisshort/kubecon-cloudnativecon-2018.jpg"
-
-+++
+---
+aliases:
+- kubecon-cloudnativecon-na-2018
+author: Chris Short
+cover:
+  image: https://shortcdn.com/chrisshort/kubecon-cloudnativecon-2018.jpg
+date: "2018-12-21"
+description: A recap of what I did at KubeCon + CloudNativeCon North America 2018
+draft: false
+slug: my-kubecon-cloudnativecon-na-2018-recap
+tags:
+- kubernetes
+- cloud native
+- kubekhan
+- kubecon
+- mentorship
+- contributor
+- experience
+- community
+- cloudnativecon
+- summit
+- BoF
+- birds of a feather
+- CNCF
+- people
+- seattle
+- volunteering
+title: My KubeCon + CloudNativeCon NA 2018 Recap
+---
 
 I went to [KubeCon + CloudNativeCon North America 2018](https://events.linuxfoundation.org/events/kubecon-cloudnativecon-north-america-2018/) in Seattle, Washington this week. My trip was cut short due to a work meeting in Raleigh, NC. But, I definitely pushed myself to my limits in Seattle. Make no mistake, had I been staying the entire week as planned I would not have done the time on site the way I did. I wore quite a few hats on this trip:
 

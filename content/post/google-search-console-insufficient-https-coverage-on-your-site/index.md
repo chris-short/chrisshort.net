@@ -1,20 +1,35 @@
-+++
-author = "Chris Short"
-date = 2021-04-26
-description = "Jumping back into Search Engine Optimization because I felt forced to by Google Search Console after hours of troubleshooting why it was reporting HTTPS issues"
-draft = false
-tags = ["search", "search engine", "search engine optimization", "SEO", "Google Search Console", "Google", "HTTPS", "error", "header", "permissions policy", "experience", "coverage", "Google"]
-title = "Insufficient HTTPS coverage on your site: What does that mean?"
-ShowToc = true
-[cover]
-image = "https://shortcdn.com/chrisshort/your-site-has-no-urls-with-good-page-experience.webp"
-caption = "Google says a site has no URLs with HTTPS but, according to testing tools like Qualys SSL Labs, HTTPS is fine"
-aliases = [
-    "google-search-console-insufficient-https-coverage-on-your-site",
-    "/google-search-console-insufficient-https-coverage-on-your-site",
-    "https://chrisshort.net/google-search-console-insufficient-https-coverage-on-your-site"
-    ]
-+++
+---
+ShowToc: true
+author: Chris Short
+cover:
+  aliases:
+  - google-search-console-insufficient-https-coverage-on-your-site
+  - /google-search-console-insufficient-https-coverage-on-your-site
+  - https://chrisshort.net/google-search-console-insufficient-https-coverage-on-your-site
+  caption: Google says a site has no URLs with HTTPS but, according to testing tools
+    like Qualys SSL Labs, HTTPS is fine
+  image: https://shortcdn.com/chrisshort/your-site-has-no-urls-with-good-page-experience.webp
+date: "2021-04-26"
+description: Jumping back into Search Engine Optimization because I felt forced to
+  by Google Search Console after hours of troubleshooting why it was reporting HTTPS
+  issues
+draft: false
+tags:
+- search
+- search engine
+- search engine optimization
+- SEO
+- Google Search Console
+- Google
+- HTTPS
+- error
+- header
+- permissions policy
+- experience
+- coverage
+- Google
+title: 'Insufficient HTTPS coverage on your site: What does that mean?'
+---
 
 ## History
 

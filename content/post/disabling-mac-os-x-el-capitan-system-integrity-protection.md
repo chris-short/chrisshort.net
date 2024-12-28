@@ -1,14 +1,21 @@
-+++
-author = "Chris Short"
-date = 2015-10-13
-description = ""
-draft = false
-ShowTOC = false
-slug = "disabling-mac-os-x-el-capitan-system-integrity-protection"
-tags = ["apple", "mac os x", "el capitan", "security", "system integrity protection", "sip", "macos", "users"]
-title = "Disabling Mac OS X El Capitan System Integrity Protection"
-
-+++
+---
+ShowTOC: false
+author: Chris Short
+date: "2015-10-13"
+description: ""
+draft: false
+slug: disabling-mac-os-x-el-capitan-system-integrity-protection
+tags:
+- apple
+- mac os x
+- el capitan
+- security
+- system integrity protection
+- sip
+- macos
+- users
+title: Disabling Mac OS X El Capitan System Integrity Protection
+---
 
 Apple has introduced a new security feature in Mac OS X El Capitan (10.11) called **System Integrity Protection** (sometimes referred to as [rootless](http://arstechnica.co.uk/apple/2015/06/preview-os-x-el-capitans-first-beta-is-a-promising-heap-of-refinements/4/#h1)).
 

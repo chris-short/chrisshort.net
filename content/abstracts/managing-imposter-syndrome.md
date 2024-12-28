@@ -1,16 +1,21 @@
-+++
-author = "Chris Short"
-date = 2018-02-23
-description = ""
-draft = true
-slug = "managing-impostor-syndrome"
-tags = ["devops", "culture", "career", "job", "impostor syndrome", "continuous improvement", "cfp"]
-title = "Managing Imposter Syndrome"
-aliases = [
-    "/cfp/managing-impostor-syndrome/"
-]
-
-+++
+---
+aliases:
+- /cfp/managing-impostor-syndrome/
+author: Chris Short
+date: "2018-02-23"
+description: ""
+draft: true
+slug: managing-impostor-syndrome
+tags:
+- devops
+- culture
+- career
+- job
+- impostor syndrome
+- continuous improvement
+- cfp
+title: Managing Imposter Syndrome
+---
 
 ## Abstract
 

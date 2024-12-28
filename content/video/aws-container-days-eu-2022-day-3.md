@@ -1,13 +1,20 @@
-+++
-author = "Chris Short"
-date = 2022-05-15
-description = "Amazon EKS Anywhere Curated Packages and Cilium on EKS Anywhere"
-draft = false
-slug = "aws-container-days-eu-2022-day-3"
-tags = ["talks", "speaking", "videos", "public speaking", "AWS", "Kubernetes", "Liz Rice"]
-title = "AWS Container Days @ KubeCon + CloudNativeCon Europe 2022 — Day 3"
-ShowTOC = false
-+++
+---
+ShowTOC: false
+author: Chris Short
+date: "2022-05-15"
+description: Amazon EKS Anywhere Curated Packages and Cilium on EKS Anywhere
+draft: false
+slug: aws-container-days-eu-2022-day-3
+tags:
+- talks
+- speaking
+- videos
+- public speaking
+- AWS
+- Kubernetes
+- Liz Rice
+title: AWS Container Days @ KubeCon + CloudNativeCon Europe 2022 — Day 3
+---
 
 {{< carbon >}}
 

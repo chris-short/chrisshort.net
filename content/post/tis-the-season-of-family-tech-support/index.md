@@ -1,16 +1,29 @@
-+++
-author = "Chris Short"
-date = 2018-11-20
-description = "The time of year when everyone gets together with family or friends they haven't seen in forever and they get to ask those pressing tech support questions."
-draft = false
-slug = "tis-the-season-of-family-tech-support"
-tags = ["life", "hardware", "tech support", "home", "wifi", "house", "family", "internet", "support", "modem", "Google WiFi", "comcast", "wireless"]
-title = "'Tis the Season of Family Tech Support"
-[cover]
-image = "https://shortcdn.com/chrisshort/vcr.jpg"
-caption = "Be helpful. But, this isn't your day job."
-
-+++
+---
+author: Chris Short
+cover:
+  caption: Be helpful. But, this isn't your day job.
+  image: https://shortcdn.com/chrisshort/vcr.jpg
+date: "2018-11-20"
+description: The time of year when everyone gets together with family or friends they
+  haven't seen in forever and they get to ask those pressing tech support questions.
+draft: false
+slug: tis-the-season-of-family-tech-support
+tags:
+- life
+- hardware
+- tech support
+- home
+- wifi
+- house
+- family
+- internet
+- support
+- modem
+- Google WiFi
+- comcast
+- wireless
+title: '''Tis the Season of Family Tech Support'
+---
 
 It's the most wonderful time of year! When everyone gets together with family or friends they haven't seen in who knows how long. Of course, the topic of Trump, social media, and burnt gravy stories will come up. But, my personal favorite topic is, "I have this issue with `PIECE OF TECHNOLOGY XYZ`. Please help me!"
 

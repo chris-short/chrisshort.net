@@ -1,16 +1,19 @@
-+++
-author = "Chris Short"
-date = 2016-07-10
-description = ""
-draft = true
-ShowTOC = false
-slug = "weather-in-your-ios-and-macos-calendars"
-tags = ["weather", "ios", "macos", "calendar"]
-title = "Weather in your iOS and macOS Calendars"
-[cover]
-image = "https://shortcdn.com/chrisshort/macos-calender-weather.png"
-
-+++
+---
+ShowTOC: false
+author: Chris Short
+cover:
+  image: https://shortcdn.com/chrisshort/macos-calender-weather.png
+date: "2016-07-10"
+description: ""
+draft: true
+slug: weather-in-your-ios-and-macos-calendars
+tags:
+- weather
+- ios
+- macos
+- calendar
+title: Weather in your iOS and macOS Calendars
+---
 
 *Update: This hasn't been possible for many years.*
 

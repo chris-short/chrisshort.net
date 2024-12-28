@@ -1,17 +1,21 @@
-+++
-author = "Chris Short"
-date = 2006-10-12
-description = "Font Size Comparison was designed to assist web designers in making the switch from absolute to relative font sizes."
-draft = false
-ShowTOC = false
-slug = "font-size-comparison"
-tags = ["font", "font size", "font size comparison", "absolute", "relative"]
-title = "Font Size Comparison"
-aliases = [
-    "/archives/web-site-design/font-size-comparison.php"
-]
-
-+++
+---
+ShowTOC: false
+aliases:
+- /archives/web-site-design/font-size-comparison.php
+author: Chris Short
+date: "2006-10-12"
+description: Font Size Comparison was designed to assist web designers in making the
+  switch from absolute to relative font sizes.
+draft: false
+slug: font-size-comparison
+tags:
+- font
+- font size
+- font size comparison
+- absolute
+- relative
+title: Font Size Comparison
+---
 
 **Font Size Comparison** (this page) was designed to assist web designers in making the switch from **absolute** to **relative** font sizes. Below is a listing of font sizes and how they appear in pixels, points, percentages, and ems.
 

@@ -1,16 +1,23 @@
-+++
-author = "Chris Short"
-date = 2016-05-23
-description = ""
-draft = false
-ShowTOC = false
-slug = "poorly-documented-dependencies"
-tags = ["ansible", "new relic", "nodejs", "npm", "yum", "dependency", "dependencies", "tools"]
-title = "Poorly Documented Dependencies"
-[cover]
-image = "https://shortcdn.com/chrisshort/broken-heart.jpg"
-
-+++
+---
+ShowTOC: false
+author: Chris Short
+cover:
+  image: https://shortcdn.com/chrisshort/broken-heart.jpg
+date: "2016-05-23"
+description: ""
+draft: false
+slug: poorly-documented-dependencies
+tags:
+- ansible
+- new relic
+- nodejs
+- npm
+- yum
+- dependency
+- dependencies
+- tools
+title: Poorly Documented Dependencies
+---
 
 Few things irritate me more than poorly documented dependencies. If your tool or software documentation states you can install your widget with one command and it does not work you are probably annoying people.
 

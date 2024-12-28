@@ -1,14 +1,13 @@
-+++
-author = "Chris Short"
-date = 2018-08-14
-description = "Writing that Chris Short has done outside of his own web properties"
-draft = false
-slug = "writing-elsewhere"
-title = "Writing Elsewhere"
-aliases = [
-    "publications"
-]
-+++
+---
+aliases:
+- publications
+author: Chris Short
+date: "2018-08-14"
+description: Writing that Chris Short has done outside of his own web properties
+draft: false
+slug: writing-elsewhere
+title: Writing Elsewhere
+---
 
 # Kubernetes
 

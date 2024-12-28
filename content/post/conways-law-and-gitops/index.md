@@ -1,17 +1,22 @@
-+++
-
-author = "Chris Short"
-date = 2022-06-20
-description = "Conway's Law and GitOps go hand in hand."
-draft = false
-slug = "conways-law-and-gitops"
-tags = ["GitOps", "Conway's Law", "system", "management", "communication", "structure", "communicate"]
-ShowTOC = false
-title = "Conway's Law and GitOps"
-[cover]
-image = "https://shortcdn.com/chrisshort/laws.webp"
-
-+++
+---
+ShowTOC: false
+author: Chris Short
+cover:
+  image: https://shortcdn.com/chrisshort/laws.webp
+date: "2022-06-20"
+description: Conway's Law and GitOps go hand in hand.
+draft: false
+slug: conways-law-and-gitops
+tags:
+- GitOps
+- Conway's Law
+- system
+- management
+- communication
+- structure
+- communicate
+title: Conway's Law and GitOps
+---
 
 {{< carbon >}}
 

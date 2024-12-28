@@ -1,19 +1,25 @@
-+++
-author = "Chris Short"
-date = 2018-01-17
-description = ""
-draft = false
-ShowTOC = false
-slug = "raspberry-pi-kubernetes-cluster"
-tags = ["open source", "ansible", "containers", "kubernetes", "raspberry pi", "ARM", "k8s", "cluster"]
-title = "Raspberry Pi Kubernetes Cluster"
-aliases = [
-     "my-raspberry-pi-kubernetes-cluster"
-]
-[cover]
-image = "https://shortcdn.com/chrisshort/building-raspberry-pi-kubernetes-cluster.jpg"
-
-+++
+---
+ShowTOC: false
+aliases:
+- my-raspberry-pi-kubernetes-cluster
+author: Chris Short
+cover:
+  image: https://shortcdn.com/chrisshort/building-raspberry-pi-kubernetes-cluster.jpg
+date: "2018-01-17"
+description: ""
+draft: false
+slug: raspberry-pi-kubernetes-cluster
+tags:
+- open source
+- ansible
+- containers
+- kubernetes
+- raspberry pi
+- ARM
+- k8s
+- cluster
+title: Raspberry Pi Kubernetes Cluster
+---
 
 For many months, I have wanted a **Kubernetes** cluster of my very own. One that I can tinker with, break, rebuild, and deploy services to. In the fall of 2017, I decided to stand up a three node cluster in Google Kubernetes Engine (GKE). It was nice and shiny and Googly but it wasn't cheap. Totaling almost $40/month to run I was envious of my friends who have virtually unlimited access to cloud compute.
 

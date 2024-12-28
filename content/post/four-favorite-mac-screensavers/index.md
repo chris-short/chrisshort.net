@@ -1,23 +1,32 @@
-+++
-author = "Chris Short"
-date = 2021-09-25
-description = "Chris Short's three favorite macOS screensavers"
-draft = false
-slug = "three-favorite-macos-screensavers"
-tags = ["macOS", "screensaver", "Aerial", "Apple", "screensavers", "fliqlo", "padbury", "clock", "time", "drift", "favorite"]
-title = "Updated: My three favorite macOS screensavers"
-ShowTOC = false
-[cover]
-image = "https://shortcdn.com/chrisshort/dmitry-chernyshov-mP7aPSUm7aE-unsplash.webp"
-alt = "MacBook Pro"
-aliases = [
-    "/updated-my-four-favorite-macos-screensavers/",
-    "updated-my-four-favorite-macos-screensavers",
-    "my-three-favorite-macos-screensavers",
-    "/my-three-favorite-macos-screensavers/"
-]
-
-+++
+---
+ShowTOC: false
+author: Chris Short
+cover:
+  aliases:
+  - /updated-my-four-favorite-macos-screensavers/
+  - updated-my-four-favorite-macos-screensavers
+  - my-three-favorite-macos-screensavers
+  - /my-three-favorite-macos-screensavers/
+  alt: MacBook Pro
+  image: https://shortcdn.com/chrisshort/dmitry-chernyshov-mP7aPSUm7aE-unsplash.webp
+date: "2021-09-25"
+description: Chris Short's three favorite macOS screensavers
+draft: false
+slug: three-favorite-macos-screensavers
+tags:
+- macOS
+- screensaver
+- Aerial
+- Apple
+- screensavers
+- fliqlo
+- padbury
+- clock
+- time
+- drift
+- favorite
+title: 'Updated: My three favorite macOS screensavers'
+---
 
 Screensavers, you say? They’re more art than function these days. But, why not inject something either beautiful or useful into this mundane task of screen locking. Yes, it would be best if you still were locking your screen unless you want your four-year-old Slack messaging your co-workers. I have used a hot corner to the lower left to start my screen saver, locking the screen after a few seconds (if I accidentally trigger it). My screensaver will kick in after a healthy 10 minutes (I do work on multiple machines throughout the day). But, it’s a security practice you should never get out of the habit of doing. Lock your screen when you walk away.
 

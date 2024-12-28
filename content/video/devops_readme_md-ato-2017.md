@@ -1,16 +1,19 @@
-+++
-author = "Chris Short"
-date = 2018-01-19
-description = "A curated list of things to read to level up your DevOps skills and knowledge."
-draft = false
-slug = "devops_readme_md-ato-2017"
-tags = ["talks", "speaking", "videos", "public speaking"]
-title = "DevOps README.md — All Things Open 2017"
-ShowTOC = false
-aliases = [
-    "video-all-things-open-2017"
-]
-+++
+---
+ShowTOC: false
+aliases:
+- video-all-things-open-2017
+author: Chris Short
+date: "2018-01-19"
+description: A curated list of things to read to level up your DevOps skills and knowledge.
+draft: false
+slug: devops_readme_md-ato-2017
+tags:
+- talks
+- speaking
+- videos
+- public speaking
+title: DevOps README.md — All Things Open 2017
+---
 
 {{< carbon >}}
 

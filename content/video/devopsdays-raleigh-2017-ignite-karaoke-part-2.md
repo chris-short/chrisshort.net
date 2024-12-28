@@ -1,13 +1,17 @@
-+++
-author = "Chris Short"
-date = 2017-09-08
-description = "DevOpsDays Raleigh 2017 Ignite Karoke (Part 2)"
-draft = false
-slug = "devopsdays-raleigh-2017-ignite-karaoke-part-2"
-tags = ["talks", "speaking", "videos", "public speaking"]
-title = "DevOpsDays Raleigh 2017 Ignite Karoke (Part 2)"
-ShowTOC = false
-+++
+---
+ShowTOC: false
+author: Chris Short
+date: "2017-09-08"
+description: DevOpsDays Raleigh 2017 Ignite Karoke (Part 2)
+draft: false
+slug: devopsdays-raleigh-2017-ignite-karaoke-part-2
+tags:
+- talks
+- speaking
+- videos
+- public speaking
+title: DevOpsDays Raleigh 2017 Ignite Karoke (Part 2)
+---
 
 {{< carbon >}}
 

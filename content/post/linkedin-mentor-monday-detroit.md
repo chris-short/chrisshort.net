@@ -1,16 +1,22 @@
-+++
-author = "Chris Short"
-date = 2018-01-25
-description = "I was a mentor at LinkedIn Mentor Monday Detroit. I was able to talk to younger folks and gauge what they are thinking and where they see their careers heading."
-draft = false
-ShowTOC = false
-slug = "linkedin-mentor-monday-detroit"
-tags = ["detroit", "mentor", "linkedin", "mentorship", "volunteering"]
-title = "LinkedIn Mentor Monday Detroit"
-[cover]
-image = "https://shortcdn.com/chrisshort/linkedin-mentor-monday-20180122.jpg"
-
-+++
+---
+ShowTOC: false
+author: Chris Short
+cover:
+  image: https://shortcdn.com/chrisshort/linkedin-mentor-monday-20180122.jpg
+date: "2018-01-25"
+description: I was a mentor at LinkedIn Mentor Monday Detroit. I was able to talk
+  to younger folks and gauge what they are thinking and where they see their careers
+  heading.
+draft: false
+slug: linkedin-mentor-monday-detroit
+tags:
+- detroit
+- mentor
+- linkedin
+- mentorship
+- volunteering
+title: LinkedIn Mentor Monday Detroit
+---
 
 I had the opportunity to be a mentor at [LinkedIn Mentor Monday Detroit](https://www.linkedin.com/feed/update/activity:6362098620212273152/). It was a chance to talk to younger folks to get a gauge on what they are thinking and where they see their careers heading. Plus, I welcome any opportunity to help the good folks of Detroit make Detroit the great city we all know it is. Huge thanks to [Jessica Addison](https://www.linkedin.com/in/jessicaaddison/) of LinkedIn for inviting me. Also, a shout out to [LeGenevieve "Vieve" Squires](https://www.linkedin.com/in/legenevieve-squires-b19448122/) of Starbucks for hosting us in Downtown Detroit.
 

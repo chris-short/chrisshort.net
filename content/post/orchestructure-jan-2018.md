@@ -1,16 +1,23 @@
-+++
-author = "Chris Short"
-date = 2018-02-01
-description = "I created a new Go talk for this group. I hope to reuse it to enlighten people on the awesomeness of Go. This talk is title Go: Enabling DevOps To Go Faster."
-draft = false
-ShowTOC = false
-slug = "orchestructure-jan-2018"
-tags = ["open source", "devops", "go", "golang", "talks", "security", "orchestructure"]
-title = "Orchestructure January 2018 Meetup"
-[cover]
-image = "https://shortcdn.com/chrisshort/orchestruture-jan-2018.jpg"
-
-+++
+---
+ShowTOC: false
+author: Chris Short
+cover:
+  image: https://shortcdn.com/chrisshort/orchestruture-jan-2018.jpg
+date: "2018-02-01"
+description: 'I created a new Go talk for this group. I hope to reuse it to enlighten
+  people on the awesomeness of Go. This talk is title Go: Enabling DevOps To Go Faster.'
+draft: false
+slug: orchestructure-jan-2018
+tags:
+- open source
+- devops
+- go
+- golang
+- talks
+- security
+- orchestructure
+title: Orchestructure January 2018 Meetup
+---
 
 I spoke at the first [Orchestructure](https://www.meetup.com/orchestructure/events/246812066/) Meetup of 2018. I have to admit, this is probably the smoothest run Meetup I've been a part of for quite some time. That's not to say other Meetups weren't well organized. But, Mario, Bob, and Jorge have their poop in a group. Orchestructure is one great Meetup. If you're in Michigan, you're missing out if you haven't attended.
 

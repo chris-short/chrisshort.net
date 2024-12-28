@@ -1,13 +1,20 @@
-+++
-author = "Chris Short"
-date = 2020-01-10
-description = "Solid practices around applying gates during CI/CD,the critical features for container security, tapping the power of native controls in Kubernetes, and leveraging automation to retain velocity"
-draft = false
-slug = "security-at-cloud-native-speed-on-demand"
-tags = ["talks", "speaking", "videos", "public speaking", "webinar"]
-title = "Webinar: Security at Cloud-native Speed On-Demand"
-ShowTOC = false
-+++
+---
+ShowTOC: false
+author: Chris Short
+date: "2020-01-10"
+description: Solid practices around applying gates during CI/CD,the critical features
+  for container security, tapping the power of native controls in Kubernetes, and
+  leveraging automation to retain velocity
+draft: false
+slug: security-at-cloud-native-speed-on-demand
+tags:
+- talks
+- speaking
+- videos
+- public speaking
+- webinar
+title: 'Webinar: Security at Cloud-native Speed On-Demand'
+---
 
 {{< carbon >}}
 

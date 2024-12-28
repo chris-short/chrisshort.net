@@ -1,17 +1,17 @@
-+++
-author = "Chris Short"
-date = 2016-11-29
-description = ""
-draft = false
-slug = "dns-is-awesome"
-tags = ["DNS", "drawing"]
-title = "DNS is Awesome"
-aliases = [
-    "/dns-is-awesome/",
-    "/drawing-dns-is-awesome/"
-    ]
-
-+++
+---
+aliases:
+- /dns-is-awesome/
+- /drawing-dns-is-awesome/
+author: Chris Short
+date: "2016-11-29"
+description: ""
+draft: false
+slug: dns-is-awesome
+tags:
+- DNS
+- drawing
+title: DNS is Awesome
+---
 
 {{< carbon >}}
 

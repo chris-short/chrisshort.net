@@ -1,19 +1,22 @@
-+++
-author = "Chris Short"
-date = 2016-09-06
-description = "Ansible lineinfile module is a cumbersome one to work. Here is a use case and examples of how to utilize Ansible lineinfile"
-draft = false
-ShowToc = false
-image = "https://shortcdn.com/chrisshort/Ansible-Mark-Large-RGB-Black.png"
-slug = "ansible-lineinfile-be-damned"
-tags = ["ansible", "lineinfile", "module", "security"]
-title = "Ansible lineinfile be damned"
-aliases = [
-  "lineinfile-be-damned",
-  "lineinfile-be-d"
-]
-
-+++
+---
+ShowToc: false
+aliases:
+- lineinfile-be-damned
+- lineinfile-be-d
+author: Chris Short
+date: "2016-09-06"
+description: Ansible lineinfile module is a cumbersome one to work. Here is a use
+  case and examples of how to utilize Ansible lineinfile
+draft: false
+image: https://shortcdn.com/chrisshort/Ansible-Mark-Large-RGB-Black.png
+slug: ansible-lineinfile-be-damned
+tags:
+- ansible
+- lineinfile
+- module
+- security
+title: Ansible lineinfile be damned
+---
 
 The [Ansible](/tags/ansible/) [lineinfile](https://docs.ansible.com/ansible/latest/collections/ansible/builtin/lineinfile_module.html) module is designed to search a file for a line, and ensure that it is present or absent. lineinfile is very effective at that particular task. However, when the line has to be in a certain place or before or after a certain line, lineinfile becomes a hassle to manage.
 

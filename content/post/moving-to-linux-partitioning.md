@@ -1,15 +1,17 @@
-+++
-author = "Chris Short"
-date = 2003-05-11
-description = ""
-draft = false
-ShowTOC = false
-slug = "moving-to-linux-partitioning"
-tags = ["linux", "open source", ]
-title = "Moving to Linux - Partitioning"
-aliases = ["moving-to-linux-partitioning"]
-
-+++
+---
+ShowTOC: false
+aliases:
+- moving-to-linux-partitioning
+author: Chris Short
+date: "2003-05-11"
+description: ""
+draft: false
+slug: moving-to-linux-partitioning
+tags:
+- linux
+- open source
+title: Moving to Linux - Partitioning
+---
 
 After deciding to make the [move to Linux](/moving-to-linux/), determining that my [hardware is compatible with Linux](/moving-to-linux-hardware-compatibility/), and after [picking a Linux distro](/moving-to-linux-picking-a-distribution/) it's time to decide how to partition my hard drive.
 

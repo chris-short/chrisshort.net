@@ -1,16 +1,30 @@
-+++
-author = "Chris Short"
-date = 2005-01-05
-description = ""
-draft = false
-slug = "link-popularity"
-title = "Link Popularity"
-tags = ["search", "web", "link", "links", "search engine", "popularity", "link popularity", "keywords", "search engine rankings", "search engine results", "relevant", "niche", "genre", "SEO", "targeted", "inbound links"]
-aliases = [
-    "/archives/2005/01/link-popularity.php"
-]
-
-+++
+---
+aliases:
+- /archives/2005/01/link-popularity.php
+author: Chris Short
+date: "2005-01-05"
+description: ""
+draft: false
+slug: link-popularity
+tags:
+- search
+- web
+- link
+- links
+- search engine
+- popularity
+- link popularity
+- keywords
+- search engine rankings
+- search engine results
+- relevant
+- niche
+- genre
+- SEO
+- targeted
+- inbound links
+title: Link Popularity
+---
 
 ## The Hardest Part of Search Engine Optimization
 

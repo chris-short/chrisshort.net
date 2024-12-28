@@ -1,15 +1,27 @@
-+++
-author = "Chris Short"
-date = 2021-01-31
-description = "Chris Short's desk setup for live streaming circa January 2021"
-draft = false
-slug = "desk-setup-jan-2021"
-tags = ["desk", "mic", "camera", "Focusrite Scarlett", "Shure", "Fully Jarvis", "lighting", "monopods", "Sigma", "Logitech", "live streaming", "mic arm", "Heil"]
-title = "Desk Setup, January 2021"
-[cover]
-image = "https://shortcdn.com/chrisshort/chris-short-desk-setup-jan-2021.jpg"
-
-+++
+---
+author: Chris Short
+cover:
+  image: https://shortcdn.com/chrisshort/chris-short-desk-setup-jan-2021.jpg
+date: "2021-01-31"
+description: Chris Short's desk setup for live streaming circa January 2021
+draft: false
+slug: desk-setup-jan-2021
+tags:
+- desk
+- mic
+- camera
+- Focusrite Scarlett
+- Shure
+- Fully Jarvis
+- lighting
+- monopods
+- Sigma
+- Logitech
+- live streaming
+- mic arm
+- Heil
+title: Desk Setup, January 2021
+---
 
 There’s a metaphor out there that you should write about it if you say, are asked, or explain something more than three times. Since we’ve started [OpenShift.tv](https://openshift.tv), I cannot count how many times folks ask about my setup.
 

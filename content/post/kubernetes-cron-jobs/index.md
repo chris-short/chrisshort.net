@@ -1,15 +1,29 @@
-+++
-author = "Chris Short"
-date = 2018-02-14
-description = "Kubernetes Cron Jobs are a new thing. Since Kuberenetes Cron Jobs build on top of the existing Job functionality, I know that the job will be run to completion."
-draft = false
-slug = "kubernetes-cron-jobs"
-tags = ["kubernetes", "kubernetes cluster", "k8s", "cloud native", "cron", "cron job", "cronjob", "cronjobs", "cron jobs", "raspberry pi", "docker", "docker build", "docker registry", "google container registry"]
-title = "Kubernetes: Cron Jobs"
-[cover]
-image = "https://shortcdn.com/chrisshort/kubernetes-wall-clock.jpg"
-
-+++
+---
+author: Chris Short
+cover:
+  image: https://shortcdn.com/chrisshort/kubernetes-wall-clock.jpg
+date: "2018-02-14"
+description: Kubernetes Cron Jobs are a new thing. Since Kuberenetes Cron Jobs build
+  on top of the existing Job functionality, I know that the job will be run to completion.
+draft: false
+slug: kubernetes-cron-jobs
+tags:
+- kubernetes
+- kubernetes cluster
+- k8s
+- cloud native
+- cron
+- cron job
+- cronjob
+- cronjobs
+- cron jobs
+- raspberry pi
+- docker
+- docker build
+- docker registry
+- google container registry
+title: 'Kubernetes: Cron Jobs'
+---
 
 {{< carbon >}}
 

@@ -1,17 +1,15 @@
-+++
-author = "Chris Short"
-date = 2016-04-17
-summary = "About Chris Short"
-draft = false
-title = "About Chris Short"
-slug = "about"
-ShowTOC = false
-aliases = [
-    "bio",
-    "biography"
-]
-
-+++
+---
+ShowTOC: false
+aliases:
+- bio
+- biography
+author: Chris Short
+date: "2016-04-17"
+draft: false
+slug: about
+summary: About Chris Short
+title: About Chris Short
+---
 
 If you need to get in touch with me, please reach out via the [Contact](/contact/) page.
 
