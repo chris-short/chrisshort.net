@@ -1,16 +1,17 @@
-+++
-author = "Chris Short"
-date = 2007-01-20
-description = "Good news for the Unifour area of North Carolina, Google is building a 210 job, $600 million dollar datacenter to help bolster its online offerings."
-draft = false
-ShowTOC = false
-slug = "google-datacenter-lenoir-nc"
-tags = ["google"]
-title = "Google Building New Datacenter in Lenoir, NC"
-[cover]
-image = "https://shortcdn.com/chrisshort/Google_2007.png"
-
-+++
+---
+ShowTOC: false
+author: Chris Short
+cover:
+  image: https://shortcdn.com/chrisshort/Google_2007.png
+date: "2007-01-20"
+description: Good news for the Unifour area of North Carolina, Google is building
+  a 210 job, $600 million dollar datacenter to help bolster its online offerings.
+draft: false
+slug: google-datacenter-lenoir-nc
+tags:
+- google
+title: Google Building New Datacenter in Lenoir, NC
+---
 
 Good news for the Unifour area of North Carolina (where I lived three years of my early adult life), Google is building a 210 job, $600 million dollar datacenter to help bolster its online offerings.
 

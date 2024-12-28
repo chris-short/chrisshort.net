@@ -1,19 +1,20 @@
-+++
-author = "Chris Short"
-date = 2007-02-12
-description = "If you've never heard of Gina Elise and her project Pin Ups for Vets prepare to become very informed and amazed."
-draft = false
-ShowTOC = false
-slug = "interview-gina-elise-pin-ups-for-vets"
-tags = ["interview", "veteran"]
-title = "Interview with Gina Elise of Pin Ups for Vets"
-aliases = [
-    "/interview-with-gina-elise-of-pin-ups-for-vets/"
-    ]
-[cover]
-image = "https://shortcdn.com/chrisshort/pin-ups-for-vets.jpg"
-
-+++
+---
+ShowTOC: false
+aliases:
+- /interview-with-gina-elise-of-pin-ups-for-vets/
+author: Chris Short
+cover:
+  image: https://shortcdn.com/chrisshort/pin-ups-for-vets.jpg
+date: "2007-02-12"
+description: If you've never heard of Gina Elise and her project Pin Ups for Vets
+  prepare to become very informed and amazed.
+draft: false
+slug: interview-gina-elise-pin-ups-for-vets
+tags:
+- interview
+- veteran
+title: Interview with Gina Elise of Pin Ups for Vets
+---
 
 If you've never heard of Gina Elise and her project [*Pin Ups for Vets*](http://www.pinupsforvets.com/) prepare to become very informed and amazed. Gina Elise is a 24-year-old who majored in theater at UCLA. It's not often that someone of Gina's age gets interested in helping people. It's even less often that someone from the state of California actively supports veterans and our troops like she does. Gina Elise is not your ordinary California girl, college graduate and with her Pin Ups for Vets calendars, specifically designed for troops and veterans, she is supporting the troops overseas, downrange, and veterans recovering here at home.
 

@@ -1,20 +1,39 @@
-+++
-author = "Chris Short"
-date = 2017-12-30
-description = "Aside from Uber, I can't think of a more utilized, hyped, and well funded Silicon Valley startup (still in operation) fumbling as bad as Docker did in 2017."
-draft = false
-slug = "docker-is-dead"
-tags = ["Docker", "Docker, Inc", "Kubernetes", "Moby", "open source", "DevOps", "container", "Docker Swarm", "rise of Kubernetes", "cloud native", "Silicon Valley", "early success", "community", "funding", "investors", "partners", "capital", "leadership", "orchestrator"]
-title = "Docker, Inc is Dead"
-aliases = [
-    "/docker-is-dead/",
-    "/docker-is-dead",
-    "/docker-inc.-is-dead",
-    "/docker-inc.-is-dead/"
-]
-[cover]
-image = "https://shortcdn.com/chrisshort/docker-is-dead.png"
-+++
+---
+aliases:
+- /docker-is-dead/
+- /docker-is-dead
+- /docker-inc.-is-dead
+- /docker-inc.-is-dead/
+author: Chris Short
+cover:
+  image: https://shortcdn.com/chrisshort/docker-is-dead.png
+date: "2017-12-30"
+description: Aside from Uber, I can't think of a more utilized, hyped, and well funded
+  Silicon Valley startup (still in operation) fumbling as bad as Docker did in 2017.
+draft: false
+slug: docker-is-dead
+tags:
+- Docker
+- Docker, Inc
+- Kubernetes
+- Moby
+- open source
+- DevOps
+- container
+- Docker Swarm
+- rise of Kubernetes
+- cloud native
+- Silicon Valley
+- early success
+- community
+- funding
+- investors
+- partners
+- capital
+- leadership
+- orchestrator
+title: Docker, Inc is Dead
+---
 
 > **DISCLAIMER**: The views expressed in this article are solely mine. They do not reflect the opinion of my employer, nor that of any group I am affiliated with, sponsored by, or employed by.
 >

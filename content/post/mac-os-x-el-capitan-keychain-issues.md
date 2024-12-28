@@ -1,14 +1,19 @@
-+++
-author = "Chris Short"
-date = 2015-10-05
-description = ""
-draft = false
-ShowTOC = false
-slug = "mac-os-x-el-capitan-keychain-issues"
-tags = ["apple keychain", "apple", "mac os x", "el capitan", "junos pulse", "macos"]
-title = "Mac OS X El Capitan: Keychain Issues"
-
-+++
+---
+ShowTOC: false
+author: Chris Short
+date: "2015-10-05"
+description: ""
+draft: false
+slug: mac-os-x-el-capitan-keychain-issues
+tags:
+- apple keychain
+- apple
+- mac os x
+- el capitan
+- junos pulse
+- macos
+title: 'Mac OS X El Capitan: Keychain Issues'
+---
 
 I started having some Apple Keychain issues after upgrading to Mac OS X El Capitan. At random, I would be asked to sign back into accounts that I am logged into through Internet Accounts in System Preferences.
 

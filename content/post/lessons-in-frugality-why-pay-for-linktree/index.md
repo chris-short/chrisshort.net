@@ -1,19 +1,29 @@
-+++
-
-author = "Chris Short"
-date = 2022-07-11
-description = "With the help of a static HTML template site, I built my own Linktree alternative enabling total control of the entire site and privacy experience."
-draft = false
-slug = "lessons-in-frugality-why-pay-for-linktree"
-tags = ["analytics", "Linktree", "service", "static site", "hosting", "platform", "privacy", "Zapier", "CSS", "code", "website"]
-ShowTOC = true
-title = "Lessons in Frugality: Why Pay for Linktree?"
-[cover]
-image = "https://shortcdn.com/chrisshort/burning-money.webp"
-alt = "Hands holding burning money"
-caption = "Photo by ArtHouse Studio: <https://www.pexels.com/photo/woman-holding-burning-banknotes-4588670/>"
-
-+++
+---
+ShowTOC: true
+author: Chris Short
+cover:
+  alt: Hands holding burning money
+  caption: 'Photo by ArtHouse Studio: <https://www.pexels.com/photo/woman-holding-burning-banknotes-4588670/>'
+  image: https://shortcdn.com/chrisshort/burning-money.webp
+date: "2022-07-11"
+description: With the help of a static HTML template site, I built my own Linktree
+  alternative enabling total control of the entire site and privacy experience.
+draft: false
+slug: lessons-in-frugality-why-pay-for-linktree
+tags:
+- analytics
+- Linktree
+- service
+- static site
+- hosting
+- platform
+- privacy
+- Zapier
+- CSS
+- code
+- website
+title: 'Lessons in Frugality: Why Pay for Linktree?'
+---
 
 {{< carbon >}}
 

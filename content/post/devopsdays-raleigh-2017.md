@@ -1,16 +1,19 @@
-+++
-author = "Chris Short"
-date = 2017-10-05
-description = "I have seen the light side everyone thinks of in DevOps and have carried the red lightsaber as well. Let's walk into the cave on Dagobah together."
-draft = false
-ShowTOC = false
-slug = "devopsdays-raleigh-2017-dark-side-of-devops"
-tags = ["devops", "talks", "devopsdays"]
-title = "DevOpsDays Raleigh 2017: The Dark Side of DevOps"
-[cover]
-image = "https://shortcdn.com/chrisshort/dark-side-of-devops-raleigh-2017.jpg"
-
-+++
+---
+ShowTOC: false
+author: Chris Short
+cover:
+  image: https://shortcdn.com/chrisshort/dark-side-of-devops-raleigh-2017.jpg
+date: "2017-10-05"
+description: I have seen the light side everyone thinks of in DevOps and have carried
+  the red lightsaber as well. Let's walk into the cave on Dagobah together.
+draft: false
+slug: devopsdays-raleigh-2017-dark-side-of-devops
+tags:
+- devops
+- talks
+- devopsdays
+title: 'DevOpsDays Raleigh 2017: The Dark Side of DevOps'
+---
 
 I helped organize and spoke at [DevOpsDays Raleigh 2017](https://www.devopsdays.org/events/2017-raleigh/welcome/) back in September. From an organizers perspective the team was fantastic! If you ever have the opportunity to organize an event with any of the fine organizers in Raleigh you will be learning from true professionals.
 

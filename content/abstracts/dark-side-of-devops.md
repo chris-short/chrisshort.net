@@ -1,16 +1,17 @@
-+++
-author = "Chris Short"
-date = 2018-02-23
-description = ""
-draft = false
-slug = "dark-side-of-devops"
-tags = ["devops", "culture", "cfp"]
-title = "The Dark Side of DevOps"
-aliases = [
-    "/cfp/dark-side-of-devops/"
-]
-
-+++
+---
+aliases:
+- /cfp/dark-side-of-devops/
+author: Chris Short
+date: "2018-02-23"
+description: ""
+draft: false
+slug: dark-side-of-devops
+tags:
+- devops
+- culture
+- cfp
+title: The Dark Side of DevOps
+---
 
 ## Abstract
 

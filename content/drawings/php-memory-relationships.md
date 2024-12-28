@@ -1,19 +1,20 @@
-+++
-author = "Chris Short"
-date = 2015-10-09
-description = ""
-draft = false
-slug = "php-memory-relationships"
-tags = ["php", "memory", "drawing"]
-title = "PHP Memory Directives Relationship"
-aliases = [
-    "/php-memory-relationships/",
-    "/php-memory-directives-relationship/"
-]
-[cover]
-image = "https://shortcdn.com/chrisshort/drawings/php-logo-large-white.png"
-
-+++
+---
+aliases:
+- /php-memory-relationships/
+- /php-memory-directives-relationship/
+author: Chris Short
+cover:
+  image: https://shortcdn.com/chrisshort/drawings/php-logo-large-white.png
+date: "2015-10-09"
+description: ""
+draft: false
+slug: php-memory-relationships
+tags:
+- php
+- memory
+- drawing
+title: PHP Memory Directives Relationship
+---
 
 {{< carbon >}}
 

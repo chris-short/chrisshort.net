@@ -1,19 +1,29 @@
-+++
-
-author = "Chris Short"
-date = 2023-02-20
-description = "An update on how I'm doing after shuttering the DevOps'ish newsletter"
-draft = false
-slug = "life-after-devopsish"
-tags = ["time", "DevOps'ish", "Work-Life", "Balance", "information", "news", "business", "holidays", "anxiety", "injuries", "high blood pressure", "ailments"]
-ShowTOC = true
-title = "Life after DevOps'ish"
-[cover]
-image = "https://shortcdn.com/chrisshort/burnt_out.webp"
-alt = "A mint leaf and a burnt match"
-caption = "Photo by [Albin Biju](https://www.pexels.com/photo/green-leaf-and-burnt-match-on-white-background-5800355/)"
-
-+++
+---
+ShowTOC: true
+author: Chris Short
+cover:
+  alt: A mint leaf and a burnt match
+  caption: Photo by [Albin Biju](https://www.pexels.com/photo/green-leaf-and-burnt-match-on-white-background-5800355/)
+  image: https://shortcdn.com/chrisshort/burnt_out.webp
+date: "2023-02-20"
+description: An update on how I'm doing after shuttering the DevOps'ish newsletter
+draft: false
+slug: life-after-devopsish
+tags:
+- time
+- DevOps'ish
+- Work-Life
+- Balance
+- information
+- news
+- business
+- holidays
+- anxiety
+- injuries
+- high blood pressure
+- ailments
+title: Life after DevOps'ish
+---
 
 ## Update (2023-06-23)
 

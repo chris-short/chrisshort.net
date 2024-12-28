@@ -1,13 +1,19 @@
-+++
-author = "Chris Short"
-date = 2019-10-10
-description = "In this webinar, Steve Sloka, Sr. Member of Technical Staff at VMware, will share how to use Contour and Envoy efficiently in your Kubernetes clusters."
-draft = false
-slug = "contour-high-performance-ingress-controller-for-kubernetes"
-tags = ["talks", "speaking", "videos", "public speaking", "webinar"]
-title = "Webinar: Contour - High performance ingress controller for Kubernetes"
-ShowTOC = false
-+++
+---
+ShowTOC: false
+author: Chris Short
+date: "2019-10-10"
+description: In this webinar, Steve Sloka, Sr. Member of Technical Staff at VMware,
+  will share how to use Contour and Envoy efficiently in your Kubernetes clusters.
+draft: false
+slug: contour-high-performance-ingress-controller-for-kubernetes
+tags:
+- talks
+- speaking
+- videos
+- public speaking
+- webinar
+title: 'Webinar: Contour - High performance ingress controller for Kubernetes'
+---
 
 {{< carbon >}}
 

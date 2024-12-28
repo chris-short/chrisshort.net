@@ -1,16 +1,21 @@
-+++
-author = "Chris Short"
-date = 2018-02-23
-description = ""
-draft = true
-slug = "five-laws-aspiring-devops-folks"
-tags = ["devops", "job", "career", "culture", "technical debt", "rtfm", "cfp"]
-title = "Five Laws for Aspiring DevOps Folks"
-aliases = [
-    "/cfp/five-laws-aspiring-devops-folks/"
-]
-
-+++
+---
+aliases:
+- /cfp/five-laws-aspiring-devops-folks/
+author: Chris Short
+date: "2018-02-23"
+description: ""
+draft: true
+slug: five-laws-aspiring-devops-folks
+tags:
+- devops
+- job
+- career
+- culture
+- technical debt
+- rtfm
+- cfp
+title: Five Laws for Aspiring DevOps Folks
+---
 
 ## Abstract
 

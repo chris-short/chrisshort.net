@@ -1,17 +1,22 @@
-+++
-author = "Chris Short"
-date = 2018-06-01
-description = ""
-draft = false
-ShowTOC = false
-slug = "devopsdays-toronto-2018"
-tags = ["speaking", "talks", "devops", "devopsdays", "toronto", "military"]
-title = "DevOpsDays Toronto 2018: What the Military Taught Me About DevOps"
-[cover]
-image = "https://shortcdn.com/chrisshort/chris-short-devopsdays-toronto-2018.jpg"
-caption = "Photo Courtesy of [Arthur Maltson](https://twitter.com/amaltson)"
-
-+++
+---
+ShowTOC: false
+author: Chris Short
+cover:
+  caption: Photo Courtesy of [Arthur Maltson](https://twitter.com/amaltson)
+  image: https://shortcdn.com/chrisshort/chris-short-devopsdays-toronto-2018.jpg
+date: "2018-06-01"
+description: ""
+draft: false
+slug: devopsdays-toronto-2018
+tags:
+- speaking
+- talks
+- devops
+- devopsdays
+- toronto
+- military
+title: 'DevOpsDays Toronto 2018: What the Military Taught Me About DevOps'
+---
 
 I was lucky enough to be selected to speak at DevOpsDays Toronto. This was my first trip into Canada and I have to admit, it was amazing! The city of Toronto is a very diverse city teeming with culture. The speaker dinner was at a wonderful restaurant Eastern Mediterrean restaurant, [Byblos](http://byblostoronto.com/). If you are ever in Toronto, I suggest you go to Byblos and get the Turkish Manti Dumplings. I don't typically enjoy eggplant but these dumplings are superb!
 

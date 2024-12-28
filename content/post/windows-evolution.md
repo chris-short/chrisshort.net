@@ -1,16 +1,18 @@
-+++
-author = "Chris Short"
-date = 2003-03-03
-description = "This is not a complete history of the series of Microsoft Windows."
-draft = false
-ShowTOC = false
-slug = "windows-evolution"
-tags = ["windows", "microsoft", "windows xp"]
-title = "Evolution of Windows"
-[cover]
-image = "https://shortcdn.com/chrisshort/windows-xp.jpg"
-
-+++
+---
+ShowTOC: false
+author: Chris Short
+cover:
+  image: https://shortcdn.com/chrisshort/windows-xp.jpg
+date: "2003-03-03"
+description: This is not a complete history of the series of Microsoft Windows.
+draft: false
+slug: windows-evolution
+tags:
+- windows
+- microsoft
+- windows xp
+title: Evolution of Windows
+---
 
 This isn't a complete history of the series of Microsoft Windows. These are my views and opinions of events that took place as I experienced them. My account of events might not even hold true, but it's my account of things that happened, how I experienced them.  It starts when I started in the tech business. A complete timeline of Windows and the Microsoft organization (including the Evolution of Windows) can be found at [about.com](https://web.archive.org/web/20040816081750/http://windows.about.com:80/library/weekly/aa010218a.htm).
 

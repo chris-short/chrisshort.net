@@ -1,16 +1,17 @@
-+++
-author = "Chris Short"
-date = 2020-10-11
-description = "Chris, Julie, and Max venture out to Kensington Metropark to hand feed the local birds"
-draft = false
-ShowTOC = false
-slug = "does-this-make-max-and-i-disney-princesses"
-tags = ["Kensington Metropark"]
-title = "Does this make Max and I Disney Princesses?"
-[cover]
-image = "https://shortcdn.com/chrisshort/kensington_metropark_milford_michigan_hand_feeding_birds.jpg"
-
-+++
+---
+ShowTOC: false
+author: Chris Short
+cover:
+  image: https://shortcdn.com/chrisshort/kensington_metropark_milford_michigan_hand_feeding_birds.jpg
+date: "2020-10-11"
+description: Chris, Julie, and Max venture out to Kensington Metropark to hand feed
+  the local birds
+draft: false
+slug: does-this-make-max-and-i-disney-princesses
+tags:
+- Kensington Metropark
+title: Does this make Max and I Disney Princesses?
+---
 
 (Obvious answer: No)
 

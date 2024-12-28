@@ -1,15 +1,24 @@
-+++
-author = "Chris Short"
-date = 2021-10-25
-description = "Chris Short is happy to announce that he is joining the Amazon Elastic Kubernetes Service (Amazon EKS) team as a developer advocate"
-draft = false
-slug = "joining-amazon-eks"
-tags = ["Amazon", "AWS", "EKS", "developer experience", "developer advocate", "Kubernetes", "product team", "AWS bill", "orange"]
-title = "Joining Amazon Elastic Kubernetes Service team"
-[cover]
-image = "https://shortcdn.com/chrisshort/Amazon_Orange.webp"
-
-+++
+---
+author: Chris Short
+cover:
+  image: https://shortcdn.com/chrisshort/Amazon_Orange.webp
+date: "2021-10-25"
+description: Chris Short is happy to announce that he is joining the Amazon Elastic
+  Kubernetes Service (Amazon EKS) team as a developer advocate
+draft: false
+slug: joining-amazon-eks
+tags:
+- Amazon
+- AWS
+- EKS
+- developer experience
+- developer advocate
+- Kubernetes
+- product team
+- AWS bill
+- orange
+title: Joining Amazon Elastic Kubernetes Service team
+---
 
 "Life is just a gap—get some money in between it." —Lil Wayne
 

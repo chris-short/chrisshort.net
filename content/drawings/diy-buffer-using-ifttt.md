@@ -1,16 +1,18 @@
-+++
-author = "Chris Short"
-date = 2016-11-21
-description = ""
-draft = false
-slug = "diy-buffer-using-ifttt"
-tags = ["social media", "ifttt", "buffer", "drawing"]
-title = "DIY Buffer using IFTTT"
-aliases = [
-    "/diy-buffer-using-ifttt/"
-]
-
-+++
+---
+aliases:
+- /diy-buffer-using-ifttt/
+author: Chris Short
+date: "2016-11-21"
+description: ""
+draft: false
+slug: diy-buffer-using-ifttt
+tags:
+- social media
+- ifttt
+- buffer
+- drawing
+title: DIY Buffer using IFTTT
+---
 
 Update: As of 2019-12-10, it would appear that due to rate limits and other service changes, this process is now broken. I leave this here in memory of the over three years of exemplary service IFTTT has given me.
 

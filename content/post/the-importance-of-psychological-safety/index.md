@@ -1,17 +1,22 @@
-+++
-author = "Chris Short"
-date = 2018-08-08
-description = "The importance of psychological safety in creating effective teams is often overlooked."
-draft = false
-slug = "the-importance-of-psychological-safety"
-tags = ["psychology", "psychological safety", "culture", "job", "life"]
-title = "The Importance of Psychological Safety"
-ShowToc = false
-[cover]
-image = "https://shortcdn.com/chrisshort/project-aristotle.png"
-caption = "Image from [rework.withgoogle.com](https://rework.withgoogle.com/print/guides/5721312655835136/)"
-
-+++
+---
+ShowToc: false
+author: Chris Short
+cover:
+  caption: Image from [rework.withgoogle.com](https://rework.withgoogle.com/print/guides/5721312655835136/)
+  image: https://shortcdn.com/chrisshort/project-aristotle.png
+date: "2018-08-08"
+description: The importance of psychological safety in creating effective teams is
+  often overlooked.
+draft: false
+slug: the-importance-of-psychological-safety
+tags:
+- psychology
+- psychological safety
+- culture
+- job
+- life
+title: The Importance of Psychological Safety
+---
 
 I have mentioned this a few times in various [talks](https://chrisshort.net/speaking/), on social media, and in my [newsletter](https://devopsish.com/087/); the importance of **psychological safety** in creating effective teams is often overlooked. Google did an enormous amount of research to determine, "the secrets of effective teams at Google." Code-named [Project Aristotle](https://rework.withgoogle.com/print/guides/5721312655835136/), Google wanted to nail down, once and for all, what factors contributed to team effectiveness.
 

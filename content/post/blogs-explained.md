@@ -1,18 +1,20 @@
-+++
-author = "Chris Short"
-date = 2003-06-24
-description = "Blogs are essentially evolution of Internet communications. E-mail, instant messaging, newsgroups and forums are all great forms of communication but a weblog or blog offers unique, personal communication on a global scale."
-draft = false
-ShowTOC = false
-slug = "blogs-explained"
-tags = ["internet", "writing"]
-title = "Blogs Explained"
-aliases = [
-    "/archives/2005/01/blogs-explained.php",
-    "blogs-explained.php"
-]
-
-+++
+---
+ShowTOC: false
+aliases:
+- /archives/2005/01/blogs-explained.php
+- blogs-explained.php
+author: Chris Short
+date: "2003-06-24"
+description: Blogs are essentially evolution of Internet communications. E-mail, instant
+  messaging, newsgroups and forums are all great forms of communication but a weblog
+  or blog offers unique, personal communication on a global scale.
+draft: false
+slug: blogs-explained
+tags:
+- internet
+- writing
+title: Blogs Explained
+---
 
 What is a blog? Blog is short for weblog. Blogger.com defines a blog/weblog as, "a web page made up of usually short, frequently updated posts that are arranged chronologically - like a what's new page or a journal. The content and purposes of blogs varies greatly - from links and commentary about other web sites, to news about a company/person/idea, to diaries, photos, poetry, mini-essays, project updates, even fiction."
 

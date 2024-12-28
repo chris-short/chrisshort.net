@@ -1,15 +1,22 @@
-+++
-author = "Chris Short"
-date = 2017-11-30
-description = "How do you get started with 'an open-source system for automating deployment, scaling, and management of containerized applications'?"
-draft = false
-slug = "kubernetes-getting-started"
-tags = ["DevOps", "kubernetes", "minishift", "minikube", "coreos", "tectonic", "cloud native"]
-title = "Kubernetes: Getting Started"
-[cover]
-image = "https://shortcdn.com/chrisshort/kubernetes-getting-started.png"
-
-+++
+---
+author: Chris Short
+cover:
+  image: https://shortcdn.com/chrisshort/kubernetes-getting-started.png
+date: "2017-11-30"
+description: How do you get started with 'an open-source system for automating deployment,
+  scaling, and management of containerized applications'?
+draft: false
+slug: kubernetes-getting-started
+tags:
+- DevOps
+- kubernetes
+- minishift
+- minikube
+- coreos
+- tectonic
+- cloud native
+title: 'Kubernetes: Getting Started'
+---
 
 Getting Started with [Kubernetes](https://kubernetes.io/) sounds like quite a daunting feat. How do you get started with "an open-source system for automating deployment, scaling, and management of containerized applications"? Let's examine Kubernetes' beginning. Containers have been in use for a very long time in the Unix world. Linux containers are popular thanks to projects like Docker. Google created Process Containers in 2006 and later realized they needed a way to maintain all these containers. Borg was born as an internal Google project and many tools sprang from its users. Omega was then built iterating on Borg. Omega maintained cluster state separate from the cluster members thus breaking Borg's monolith. Finally, Kubernetes sprung from Google. Kubernetes is now maintained by [Cloud Native Computing Foundation's](https://www.cncf.io/) members and contributors.
 

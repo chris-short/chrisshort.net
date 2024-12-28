@@ -1,14 +1,18 @@
-+++
-author = "Chris Short"
-date = 2020-11-07
-description = "2020 has taken Dan Kohn from us. This whole year has no chill."
-draft = false
-ShowTOC = false
-slug = "on-the-passing-of-dan-kohn"
-tags = ["Dan Kohn", "CNCF", "Cloud Native Computing Foundation", "cloud native", "community"]
-title = "On the Passing of Dan Kohn"
-
-+++
+---
+ShowTOC: false
+author: Chris Short
+date: "2020-11-07"
+description: 2020 has taken Dan Kohn from us. This whole year has no chill.
+draft: false
+slug: on-the-passing-of-dan-kohn
+tags:
+- Dan Kohn
+- CNCF
+- Cloud Native Computing Foundation
+- cloud native
+- community
+title: On the Passing of Dan Kohn
+---
 
 We've had a tragic loss in the cloud native community. [Last weekend we lost Dan Kohn](https://twitter.com/DrOceanJulie/status/1322957062444326919). Dan Kohn is the former Executive Director of Cloud Native Computing Foundation and was leading up COVID-19 response for the Linux Foundation. He passed away after [losing his battle with stage four colon cancer](https://www.dankohn.com/health). Dan's passing happened far too soon. I knew Dan was battling something, but we hadn't been in the same place for quite some time. It's not one of those things you necessarily want to initiate a conversation about either. I did not know of Dan's blog about it until he was gone. I would encourage all of us to look at our physical ailments as we age (perhaps more rapidly because of 2020) to take care of ourselves.
 

@@ -1,16 +1,22 @@
-+++
-author = "Chris Short"
-date = 2016-04-12
-description = ""
-draft = false
-ShowTOC = false
-slug = "got-badlock-ansible-can-help"
-tags = ["ansible", "samba", "badlock", "yum", "apt", "dpkg", "security"]
-title = "Got Badlock? Ansible Can Help"
-[cover]
-image = "https://shortcdn.com/chrisshort/badlock.png"
-
-+++
+---
+ShowTOC: false
+author: Chris Short
+cover:
+  image: https://shortcdn.com/chrisshort/badlock.png
+date: "2016-04-12"
+description: ""
+draft: false
+slug: got-badlock-ansible-can-help
+tags:
+- ansible
+- samba
+- badlock
+- yum
+- apt
+- dpkg
+- security
+title: Got Badlock? Ansible Can Help
+---
 
 [Badlock](http://badlock.org/) might not be bad for all. If you are using Ansible you can patch your systems with a single playbook (or ad hoc command).
 

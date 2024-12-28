@@ -1,16 +1,17 @@
-+++
-author = "Chris Short"
-date = 2017-02-03
-description = ""
-draft = false
-ShowTOC = false
-slug = "recent-accomplishments"
-tags = ["DevOps", "open source"]
-title = "Recent Accomplishments"
-[cover]
-image = "https://shortcdn.com/chrisshort/success.jpg"
-
-+++
+---
+ShowTOC: false
+author: Chris Short
+cover:
+  image: https://shortcdn.com/chrisshort/success.jpg
+date: "2017-02-03"
+description: ""
+draft: false
+slug: recent-accomplishments
+tags:
+- DevOps
+- open source
+title: Recent Accomplishments
+---
 
 {{< carbon >}}
 

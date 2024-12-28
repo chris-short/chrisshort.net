@@ -1,15 +1,16 @@
-+++
-author = "Chris Short"
-date = 2016-07-20
-description = ""
-draft = false
-ShowTOC = false
-image = "https://shortcdn.com/chrisshort/fbi-hearts-pokemon-go.png"
-slug = "fbi-issues-notice-regarding-pokemon-go"
-tags = ["niantic", "FBI"]
-title = "FBI Issues Notice Regarding Pokemon GO"
-
-+++
+---
+ShowTOC: false
+author: Chris Short
+date: "2016-07-20"
+description: ""
+draft: false
+image: https://shortcdn.com/chrisshort/fbi-hearts-pokemon-go.png
+slug: fbi-issues-notice-regarding-pokemon-go
+tags:
+- niantic
+- FBI
+title: FBI Issues Notice Regarding Pokemon GO
+---
 
 On July 15, 2016 the US Federal Bureau of Investigations (FBI) issued an External Intelligence Note regarding the recent smash hit augmented reality mobile game Pokémon GO. The Note's classification was unclassified/for official use only with the intended audience being the law enforcement and security communities. The completely unclassified summary of the FBI External Intelligence Note states:
 

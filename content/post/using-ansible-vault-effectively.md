@@ -1,14 +1,16 @@
-+++
-author = "Chris Short"
-date = 2015-10-17
-description = ""
-draft = true
-image = "https://shortcdn.com/chrisshort/ansible_circleA_red.png"
-slug = "using-ansible-vault-effectively"
-tags = ["ansible", "ansible-vault", "security"]
-title = "Using Ansible Vault Effectively"
-
-+++
+---
+author: Chris Short
+date: "2015-10-17"
+description: ""
+draft: true
+image: https://shortcdn.com/chrisshort/ansible_circleA_red.png
+slug: using-ansible-vault-effectively
+tags:
+- ansible
+- ansible-vault
+- security
+title: Using Ansible Vault Effectively
+---
 
 [**Ansible**](http://www.ansible.com/) is a great orchestration tool. The low barrier to entry and simplicity of Ansible are why so many people that start using it love it. But there is one feature in Ansible that probably should be used more often. That feature is [**Ansible Vault**](http://docs.ansible.com/ansible/playbooks_vault.html).
 

@@ -1,16 +1,18 @@
-+++
-author = "Chris Short"
-date = 2019-08-07
-description = ""
-draft = false
-slug = "building-kubernetes-operators-with-ansible"
-tags = ["Kubernetes", "Operators", "Ansible", "Kubernetes Operators"]
-title = "Building Kubernetes Operators in an Ansible-native way"
-aliases = [
-    "/cfp/building-kubernetes-operators-with-ansible/"
-]
-
-+++
+---
+aliases:
+- /cfp/building-kubernetes-operators-with-ansible/
+author: Chris Short
+date: "2019-08-07"
+description: ""
+draft: false
+slug: building-kubernetes-operators-with-ansible
+tags:
+- Kubernetes
+- Operators
+- Ansible
+- Kubernetes Operators
+title: Building Kubernetes Operators in an Ansible-native way
+---
 
 {{< speaker >}}
 

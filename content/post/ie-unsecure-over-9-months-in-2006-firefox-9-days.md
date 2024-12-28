@@ -1,20 +1,23 @@
-+++
-author = "Chris Short"
-date = 2007-01-18
-description = "Internet Explorer (IE) is one of the most unsecured browsers on the planet. In 2006, IE was unsecure for 284 according to Brian Krebs."
-draft = false
-ShowTOC = false
-slug = "ie-unsecure-over-9-months-in-2006-firefox-9-days"
-tags = ["firefox", "microsoft", "security", "open source"]
-title = "IE Unsecure for Over 9 Months in 2006, Firefox, Nine Days"
-aliases = [
-    "/ie-unsecure-for-over-9-months-in-2006-firefox-nine-days",
-    "/ie-unsecure-for-over-9-months-in-2006-firefox-9-days"
-]
-[cover]
-image = "https://shortcdn.com/chrisshort/ie7-vs-firefox.png"
-
-+++
+---
+ShowTOC: false
+aliases:
+- /ie-unsecure-for-over-9-months-in-2006-firefox-nine-days
+- /ie-unsecure-for-over-9-months-in-2006-firefox-9-days
+author: Chris Short
+cover:
+  image: https://shortcdn.com/chrisshort/ie7-vs-firefox.png
+date: "2007-01-18"
+description: Internet Explorer (IE) is one of the most unsecured browsers on the planet.
+  In 2006, IE was unsecure for 284 according to Brian Krebs.
+draft: false
+slug: ie-unsecure-over-9-months-in-2006-firefox-9-days
+tags:
+- firefox
+- microsoft
+- security
+- open source
+title: IE Unsecure for Over 9 Months in 2006, Firefox, Nine Days
+---
 
 Most of us probably knew this already but Internet Explorer (IE) is one of the most unsecured browsers on the planet. Last year alone, it was unsecure for 284 according to a Washington Post article by Brian Krebs.
 

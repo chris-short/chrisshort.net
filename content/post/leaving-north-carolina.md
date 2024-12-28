@@ -1,14 +1,19 @@
-+++
-author = "Chris Short"
-date = 2017-06-01
-description = ""
-draft = false
-ShowTOC = false
-slug = "leaving-north-carolina"
-title = "Leaving North Carolina"
-tags = ["job", "work", "life", "balance", "north carolina", "Michigan"]
-
-+++
+---
+ShowTOC: false
+author: Chris Short
+date: "2017-06-01"
+description: ""
+draft: false
+slug: leaving-north-carolina
+tags:
+- job
+- work
+- life
+- balance
+- north carolina
+- Michigan
+title: Leaving North Carolina
+---
 
 I have accepted the position as Manager, Infrastructure & Operations at Bankrate in Detroit. Julie, Max, Sunny, and I will begin moving to Michigan in mid-June! I will be leading [DevOps](https://devopsish.com/) efforts as the Bankrate team transitions software stacks and moves from on-premise data centers to the cloud. I am beyond excited about the position and the work I will be doing.
 

@@ -1,16 +1,16 @@
-+++
-author = "Chris Short"
-date = 2017-02-09
-description = ""
-draft = false
-ShowTOC = false
-slug = "why-im-giving-up-content-blockers"
-tags = ["content blockers"]
-title = "Why I'm Giving Up Content Blockers"
-[cover]
-image = "https://shortcdn.com/chrisshort/content-blocker.png"
-
-+++
+---
+ShowTOC: false
+author: Chris Short
+cover:
+  image: https://shortcdn.com/chrisshort/content-blocker.png
+date: "2017-02-09"
+description: ""
+draft: false
+slug: why-im-giving-up-content-blockers
+tags:
+- content blockers
+title: Why I'm Giving Up Content Blockers
+---
 
 Since the release of [Apple's iOS 9](https://thenextweb.com/apple/2015/08/24/ios-9-content-blocking-will-transform-the-mobile-web-ive-tried-it/), iPhone and iPad owners are able to install content blockers. These content blockers are often referred to as ad blockers. Providing content blocking functionality through third party apps is a reasonable request. Apple has had this functionality in [iOS since 16 September 2015](https://en.wikipedia.org/wiki/IOS_9). As a user of content blockers on the desktop, I jumped at the opportunity to install one on my mobile devices. I have been rotating them in and out of service for well over a year and a half.
 

@@ -1,17 +1,20 @@
-+++
-author = "Chris Short"
-date = 2015-10-06
-description = ""
-draft = false
-ShowTOC = false
-slug = "whats-wrong-with-microsoft-windows-10-marketing"
-tags = ["microsoft", "windows 10", "marketing"]
-title = "What's Wrong with Microsoft's Windows 10 Marketing"
-aliases = ["whats-wrong-with-microsoft-windows-10-marketing"]
-[cover]
-image = "https://shortcdn.com/chrisshort/win10_ad.jpg"
-
-+++
+---
+ShowTOC: false
+aliases:
+- whats-wrong-with-microsoft-windows-10-marketing
+author: Chris Short
+cover:
+  image: https://shortcdn.com/chrisshort/win10_ad.jpg
+date: "2015-10-06"
+description: ""
+draft: false
+slug: whats-wrong-with-microsoft-windows-10-marketing
+tags:
+- microsoft
+- windows 10
+- marketing
+title: What's Wrong with Microsoft's Windows 10 Marketing
+---
 
 I was reading through Wired magazine and saw a Windows 10 ad. If you've turned on a TV the past month you've seen the ad I'm referring to, this is just the print edition of the TV ad.
 

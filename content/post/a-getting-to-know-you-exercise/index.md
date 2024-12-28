@@ -1,16 +1,24 @@
-+++
-author = "Chris Short"
-date = 2019-12-20
-description = "At a team meeting last month I took part in a getting to know you exercise that I found helpful. I feel it's worth putting out there for others."
-draft = false
-tags = ["Ansible", "Linux", "Kubernetes", "team building", "psychological safety", "culture", "job", "life"]
-title = "A getting to know you exercise"
-ShowToc = false
-[cover]
-image = "https://shortcdn.com/chrisshort/three-things-that-make-me-who-i-am.png"
-alt = "Three images that represent who Chris Short is"
-
-+++
+---
+ShowToc: false
+author: Chris Short
+cover:
+  alt: Three images that represent who Chris Short is
+  image: https://shortcdn.com/chrisshort/three-things-that-make-me-who-i-am.png
+date: "2019-12-20"
+description: At a team meeting last month I took part in a getting to know you exercise
+  that I found helpful. I feel it's worth putting out there for others.
+draft: false
+tags:
+- Ansible
+- Linux
+- Kubernetes
+- team building
+- psychological safety
+- culture
+- job
+- life
+title: A getting to know you exercise
+---
 
 In November, I went down to Raleigh to meet my team for planning meetings and team building. For a few of my teammates, this is our first face to face interaction with each other ever. My boss wisely gave us a relatively simple assignment. Create a slide sharing what we've done this year and want to do next year (which I'll share to an extent in a later post). Create another slide listing three things that make us who we are (born in a unique place, grew up on a farm, etc.) and three things we're professionally known for. The assignment seemed simple enough, but it turned out to be way better than I thought it would be. It fostered a shared knowledge amongst the group about each other that I think others could benefit from using potentially.
 

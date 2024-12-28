@@ -1,18 +1,15 @@
-+++
-
-author = "Chris Short"
-date = 2016-12-11
-description = "ChrisShort.net Privacy Policy"
-draft = false
-slug = "privacy"
-title = "Privacy Policy"
-aliases = [
-    "privacy",
-    "cookie-policy",
-    "cookies"
-]
-
-+++
+---
+aliases:
+- privacy
+- cookie-policy
+- cookies
+author: Chris Short
+date: "2016-12-11"
+description: ChrisShort.net Privacy Policy
+draft: false
+slug: privacy
+title: Privacy Policy
+---
 
 {{< boring >}}
 

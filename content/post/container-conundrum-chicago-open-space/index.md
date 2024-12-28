@@ -1,19 +1,36 @@
-+++
-
-author = "Chris Short"
-date = 2022-10-08
-description = "My notes from a DevOpsDay Chicago 2022 Open Space suggestion: 'Container Conundrum: Pain points around containers'"
-draft = false
-slug = "container-conundrum-devopsdays-chicago-2022"
-tags = ["Open Space", "cloud", "Container Conundrum", "team", "security", "pain", "Vault", "Chicago", "agnostic", "problems", "DevOpsDays", "secrets", "containers", "Kubernetes", "clusters", "open source", "developers", "environments"]
-ShowTOC = false
-title = "Container Conundrum: DevOpsDays Chicago 2022 Open Space Notes"
-[cover]
-image = "https://shortcdn.com/chrisshort/shipping-container-pile.webp"
-alt = "Shipping containers piled high"
-caption = "Photo by [Chanaka](https://www.pexels.com/photo/cargo-container-lot-906494/)"
-
-+++
+---
+ShowTOC: false
+author: Chris Short
+cover:
+  alt: Shipping containers piled high
+  caption: Photo by [Chanaka](https://www.pexels.com/photo/cargo-container-lot-906494/)
+  image: https://shortcdn.com/chrisshort/shipping-container-pile.webp
+date: "2022-10-08"
+description: 'My notes from a DevOpsDay Chicago 2022 Open Space suggestion: ''Container
+  Conundrum: Pain points around containers'''
+draft: false
+slug: container-conundrum-devopsdays-chicago-2022
+tags:
+- Open Space
+- cloud
+- Container Conundrum
+- team
+- security
+- pain
+- Vault
+- Chicago
+- agnostic
+- problems
+- DevOpsDays
+- secrets
+- containers
+- Kubernetes
+- clusters
+- open source
+- developers
+- environments
+title: 'Container Conundrum: DevOpsDays Chicago 2022 Open Space Notes'
+---
 
 {{< carbon >}}
 

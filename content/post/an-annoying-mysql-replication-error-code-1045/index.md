@@ -1,16 +1,17 @@
-+++
-author = "Chris Short"
-date = 2015-10-05
-description = ""
-draft = false
-ShowToc = false
-slug = "an-annoying-mysql-replication-error-code-1045"
-tags = ["mysql", "replication"]
-title = "An Annoying MySQL Replication Error Code: 1045"
-[cover]
-image = "https://shortcdn.com/chrisshort/logo-mysql-170x115.png"
-
-+++
+---
+ShowToc: false
+author: Chris Short
+cover:
+  image: https://shortcdn.com/chrisshort/logo-mysql-170x115.png
+date: "2015-10-05"
+description: ""
+draft: false
+slug: an-annoying-mysql-replication-error-code-1045
+tags:
+- mysql
+- replication
+title: 'An Annoying MySQL Replication Error Code: 1045'
+---
 
 I was fixing MySQL replication on a slave this past week. Everything seemed to be ready to go after bringing data over from the master manually. I went to connect the slave to the master and nothing happened.  Whaaaaaa?
 

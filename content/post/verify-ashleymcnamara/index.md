@@ -1,14 +1,17 @@
-+++
-author = "Chris Short"
-date = 2019-04-02
-description = "认证 @ashleymcnamara — Verify Ashley McNamara"
-draft = true
-tags = ["Twitter", "verified account program", "verified", "Ashley McNamara"]
-title = "Verify @ashleymcnamara"
-[cover]
-image = "https://shortcdn.com/chrisshort/verify-ashleymcnamara.png"
-
-+++
+---
+author: Chris Short
+cover:
+  image: https://shortcdn.com/chrisshort/verify-ashleymcnamara.png
+date: "2019-04-02"
+description: 认证 @ashleymcnamara — Verify Ashley McNamara
+draft: true
+tags:
+- Twitter
+- verified account program
+- verified
+- Ashley McNamara
+title: Verify @ashleymcnamara
+---
 
 **认证 @ashleymcnamara** is a form of peaceful protest to have [Ashley McNamara](https://twitter.com/ashleymcnamara) verified on Twitter. Please consider doing something similar with your own Twitter profile.
 

@@ -1,14 +1,16 @@
-+++
-author = "Chris Short"
-date = 2004-06-10
-description = "Chris Short suffers from Long Thoracic Nerve Palsy with Winging of the Scapula"
-draft = true
-ShowTOC = false
-slug = "shoulder-update-20040610"
-tags = ["shoulder", "winged scapula"]
-title = "Shoulder Update 2004-06-10"
-
-+++
+---
+ShowTOC: false
+author: Chris Short
+date: "2004-06-10"
+description: Chris Short suffers from Long Thoracic Nerve Palsy with Winging of the
+  Scapula
+draft: true
+slug: shoulder-update-20040610
+tags:
+- shoulder
+- winged scapula
+title: Shoulder Update 2004-06-10
+---
 
 Well... I just got done with my follow-up to my MRI. I'm very distraught about the entire thing because (even though I wasn't told this) no one in this hospital has ever seen my MRI. I know this because a SrA was scrambling around trying to find my MRI or at least get some kind of information about them (which included me giving the phone number of the MRI place).
 

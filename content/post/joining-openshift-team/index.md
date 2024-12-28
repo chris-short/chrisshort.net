@@ -1,14 +1,20 @@
-+++
-author = "Chris Short"
-date = 2019-08-18
-description = "This Monday (2019-08-19) will be my first day as Principal Technical Marketing Manager on the Cloud Platforms team at Red Hat"
-draft = false
-tags = ["OpenShift", "Red Hat", "Kubernetes", "Ansible", "Operators", "Cloud Native"]
-title = "Joining forces with OpenShift"
-[cover]
-image = "https://shortcdn.com/chrisshort/ansible-to-openshift.png"
-
-+++
+---
+author: Chris Short
+cover:
+  image: https://shortcdn.com/chrisshort/ansible-to-openshift.png
+date: "2019-08-18"
+description: This Monday (2019-08-19) will be my first day as Principal Technical
+  Marketing Manager on the Cloud Platforms team at Red Hat
+draft: false
+tags:
+- OpenShift
+- Red Hat
+- Kubernetes
+- Ansible
+- Operators
+- Cloud Native
+title: Joining forces with OpenShift
+---
 
 This Monday (2019-08-19) will be my first day as Principal Technical Marketing Manager on the Cloud Platforms team at Red Hat. What does that mean? [OpenShift](https://www.openshift.com/) (a lot of OpenShift), Kubernetes, containers, Operators, and all the associated bits will be my day job. Helping folks help themselves with technology is still and always will be the name of my game. But, working full time in the Kubernetes or cloud native ecosystem was a 2020 goal. Crossing off 2020 goals in 2019. #winning
 

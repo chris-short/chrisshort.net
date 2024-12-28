@@ -1,14 +1,16 @@
-+++
-author = "Chris Short"
-date = 2003-03-06
-description = ""
-draft = false
-ShowTOC = false
-slug = "microsoft-and-open-source"
-tags = ["microsoft", "open source", "windows xp"]
-title = "Microsoft and Open Source"
-
-+++
+---
+ShowTOC: false
+author: Chris Short
+date: "2003-03-06"
+description: ""
+draft: false
+slug: microsoft-and-open-source
+tags:
+- microsoft
+- open source
+- windows xp
+title: Microsoft and Open Source
+---
 
 For the past year or so Microsoft has repeatedly said no to Open Source and more recently after numerous attempts to say no has opened up some of its source code to various businesses and governments. Imagine a world where Microsoft Windows and Office were totally open. That's not likely; so let's imagine a world where Microsoft made its products a little more open.
 

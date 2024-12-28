@@ -1,20 +1,20 @@
-+++
-author = "Chris Short"
-date = 2016-11-16
-description = ""
-draft = false
-slug = "http2-primer"
-tags = ["HTTP2", "drawing"]
-title = "HTTP/2 Primer"
-aliases = [
-    "http2-primer",
-    "/http-2-primer-and-drawing/",
-    "/http/2-primer/"
-]
-[cover]
-image = "https://shortcdn.com/chrisshort/drawings/chrome-devtools-h2.png"
-
-+++
+---
+aliases:
+- http2-primer
+- /http-2-primer-and-drawing/
+- /http/2-primer/
+author: Chris Short
+cover:
+  image: https://shortcdn.com/chrisshort/drawings/chrome-devtools-h2.png
+date: "2016-11-16"
+description: ""
+draft: false
+slug: http2-primer
+tags:
+- HTTP2
+- drawing
+title: HTTP/2 Primer
+---
 
 Hypertext Transport Protocol v2 (HTTP/2) is here and is being implemented at an ever quickening pace. HTTP/2 is going to speed up the web and enable new capabilities. There is a lot that stays the same but there are some significant changes coming. In educating myself I decided to illustrate some of the changes in HTTP/2:
 

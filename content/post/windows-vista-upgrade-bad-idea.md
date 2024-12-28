@@ -1,19 +1,21 @@
-+++
-author = "Chris Short"
-date = 2007-02-01
-description = "Four reasons why upgrading to Windows Vista is a REALLY bad idea."
-draft = false
-ShowTOC = false
-slug = "windows-vista-upgrade-bad-idea"
-tags = ["microsoft", "windows", "vista", "windows xp"]
-title = "Windows Vista: Upgrading Seems Like a Really Bad Idea"
-aliases = [
-    "windows-vista-upgrading-seems-like-a-really-bad-idea"
-    ]
-[cover]
-image = "https://shortcdn.com/chrisshort/windows-vista.png"
-
-+++
+---
+ShowTOC: false
+aliases:
+- windows-vista-upgrading-seems-like-a-really-bad-idea
+author: Chris Short
+cover:
+  image: https://shortcdn.com/chrisshort/windows-vista.png
+date: "2007-02-01"
+description: Four reasons why upgrading to Windows Vista is a REALLY bad idea.
+draft: false
+slug: windows-vista-upgrade-bad-idea
+tags:
+- microsoft
+- windows
+- vista
+- windows xp
+title: 'Windows Vista: Upgrading Seems Like a Really Bad Idea'
+---
 I've come to the conclusion that upgrading to Windows Vista would be a horrible decision; allow me to explain why.
 
 1. Cost: The main reason behind doing or not doing most things with PCs is cost.  An upgrade to Windows Vista Ultimate will set you back $200 or more dollars.  But that's just the start!  Chances are the hardware that runs at speed or soars with Windows XP will run dreadfully slow with Windows Vista.  So not only are you looking at the cost of the operating system but you need cutting edge technology to run that operating system.  Why in the world would you want to buy new hardware for your operating system?  I could understand an application or series of applications (for video editing as an example) pushing you to buy new hardware but not the operating system.  The only reason I see in upgrading now would be to learn the new OS and be on the cutting edge.

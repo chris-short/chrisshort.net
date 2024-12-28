@@ -1,16 +1,17 @@
-+++
-author = "Chris Short"
-date = 2016-10-05
-description = ""
-draft = false
-ShowTOC = false
-slug = "notes-on-pagerduty"
-tags = ["pagerduty", "oncall"]
-title = "Notes on PagerDuty"
-[cover]
-image = "https://shortcdn.com/chrisshort/PagerDuty-logo-green.png"
-
-+++
+---
+ShowTOC: false
+author: Chris Short
+cover:
+  image: https://shortcdn.com/chrisshort/PagerDuty-logo-green.png
+date: "2016-10-05"
+description: ""
+draft: false
+slug: notes-on-pagerduty
+tags:
+- pagerduty
+- oncall
+title: Notes on PagerDuty
+---
 
 I have recently been added on to a PagerDuty rotation. I am sure numerous on-call people have a lot of different strategies to managing their rotations. However, there were two pieces of information I immediately wanted from PagerDuty:
 

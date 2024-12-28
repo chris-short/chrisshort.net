@@ -1,21 +1,21 @@
-+++
-author = "Chris Short"
-date = 2005-01-05
-description = ""
-draft = false
-ShowTOC = false
-slug = "windows-and-big-hard-drives"
-tags = ["microsoft", "windows xp"]
-title = "Windows XP and Big Hard Drives"
-aliases = [
-    "/archives/2005/01/windows-and-big-hard-drives.php",
-    "/windows-and-big-hard-drives.php",
-    "/windows-xp-and-"
-]
-[cover]
-image = "https://shortcdn.com/chrisshort/Windows_XP_Logo.png"
-
-+++
+---
+ShowTOC: false
+aliases:
+- /archives/2005/01/windows-and-big-hard-drives.php
+- /windows-and-big-hard-drives.php
+- /windows-xp-and-
+author: Chris Short
+cover:
+  image: https://shortcdn.com/chrisshort/Windows_XP_Logo.png
+date: "2005-01-05"
+description: ""
+draft: false
+slug: windows-and-big-hard-drives
+tags:
+- microsoft
+- windows xp
+title: Windows XP and Big Hard Drives
+---
 
 {{< carbon >}}
 

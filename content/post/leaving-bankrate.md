@@ -1,16 +1,20 @@
-+++
-author = "Chris Short"
-date = 2017-11-13
-description = "An open e-mail about why I am deciding to leave Bankrate now"
-draft = false
-ShowTOC = false
-slug = "leaving-bankrate"
-tags = ["job", "work", "life", "balance", "acquisition"]
-title = "Leaving Bankrate"
-[cover]
-image = "https://shortcdn.com/chrisshort/leaving.jpg"
-
-+++
+---
+ShowTOC: false
+author: Chris Short
+cover:
+  image: https://shortcdn.com/chrisshort/leaving.jpg
+date: "2017-11-13"
+description: An open e-mail about why I am deciding to leave Bankrate now
+draft: false
+slug: leaving-bankrate
+tags:
+- job
+- work
+- life
+- balance
+- acquisition
+title: Leaving Bankrate
+---
 
 *This is the e-mail I sent out this morning to Bankrate folks explaining my decision to leave the company. It's as much business related as it is personal. I'm displaying it here because I believe in openness and transparency.*
 

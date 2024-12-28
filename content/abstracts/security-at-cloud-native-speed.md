@@ -1,16 +1,17 @@
-+++
-author = "Chris Short"
-date = 2019-11-07
-description = ""
-draft = false
-slug = "security-at-cloud-native-speed"
-tags = ["security", "cloud native", "cfp"]
-title = "Security at Cloud Native Speed"
-aliases =[
-    "/cfp/security-at-cloud-native-speed/"
-]
-
-+++
+---
+aliases:
+- /cfp/security-at-cloud-native-speed/
+author: Chris Short
+date: "2019-11-07"
+description: ""
+draft: false
+slug: security-at-cloud-native-speed
+tags:
+- security
+- cloud native
+- cfp
+title: Security at Cloud Native Speed
+---
 
 ## Abstract
 

@@ -1,13 +1,20 @@
-+++
-author = "Chris Short"
-date = 2018-05-24
-description = "History can help prevent conflict when driving change. This talk will analyze human tendencies, historical data, and provide real-world examples of how to avoid conflict during your DevOps journey."
-draft = false
-slug = "devops-not-war-chefconf-2018"
-tags = ["talks", "speaking", "videos", "public speaking", "ChefConf"]
-title = "DevOps is Not War - ChefConf 2018"
-ShowTOC = false
-+++
+---
+ShowTOC: false
+author: Chris Short
+date: "2018-05-24"
+description: History can help prevent conflict when driving change. This talk will
+  analyze human tendencies, historical data, and provide real-world examples of how
+  to avoid conflict during your DevOps journey.
+draft: false
+slug: devops-not-war-chefconf-2018
+tags:
+- talks
+- speaking
+- videos
+- public speaking
+- ChefConf
+title: DevOps is Not War - ChefConf 2018
+---
 
 {{< carbon >}}
 

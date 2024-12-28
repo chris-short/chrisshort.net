@@ -1,16 +1,17 @@
-+++
-author = "Chris Short"
-date = 2018-03-07
-description = ""
-draft = false
-slug = "cloud-migration-lessons-learned"
-tags = ["devops", "cfp", "cloud"]
-title = "Lessons Learned from Cloud Migrations: Planning is Everything"
-aliases = [
-    "/cfp/cloud-migration-lessons-learned/"
-]
-
-+++
+---
+aliases:
+- /cfp/cloud-migration-lessons-learned/
+author: Chris Short
+date: "2018-03-07"
+description: ""
+draft: false
+slug: cloud-migration-lessons-learned
+tags:
+- devops
+- cfp
+- cloud
+title: 'Lessons Learned from Cloud Migrations: Planning is Everything'
+---
 
 ## Abstract
 

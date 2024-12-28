@@ -1,13 +1,18 @@
-+++
-author = "Chris Short"
-date = 2020-10-12
-description = "Roaring Elephant Podcast: Chris Short from Red Hat to discuss Continuous Integration and Continuous Deployment."
-draft = false
-slug = "roaring-elephant-ci-cd-chris-short-part-2"
-tags = ["talks", "interview", "videos", "public speaking"]
-title = "Roaring Elephant CI/CD Chris Short: Part 2"
-ShowTOC = false
-+++
+---
+ShowTOC: false
+author: Chris Short
+date: "2020-10-12"
+description: 'Roaring Elephant Podcast: Chris Short from Red Hat to discuss Continuous
+  Integration and Continuous Deployment.'
+draft: false
+slug: roaring-elephant-ci-cd-chris-short-part-2
+tags:
+- talks
+- interview
+- videos
+- public speaking
+title: 'Roaring Elephant CI/CD Chris Short: Part 2'
+---
 
 {{< carbon >}}
 

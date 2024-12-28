@@ -1,17 +1,20 @@
-+++
-author = "Chris Short"
-date = 2017-12-23
-description = "A culture of silence around miscarriage helps absolutely no one."
-draft = false
-ShowTOC = false
-slug = "miscarriage-culture-of-silence-helps-no-one"
-tags = ["life", "miscarriage", "pregnancy", "culture"]
-title = "Miscarriage: A Culture of Silence Helps No One"
-[cover]
-image = "https://shortcdn.com/chrisshort/grief.jpg"
-alt = "Grief sticken woman"
-
-+++
+---
+ShowTOC: false
+author: Chris Short
+cover:
+  alt: Grief sticken woman
+  image: https://shortcdn.com/chrisshort/grief.jpg
+date: "2017-12-23"
+description: A culture of silence around miscarriage helps absolutely no one.
+draft: false
+slug: miscarriage-culture-of-silence-helps-no-one
+tags:
+- life
+- miscarriage
+- pregnancy
+- culture
+title: 'Miscarriage: A Culture of Silence Helps No One'
+---
 
 Julie and I have experienced a miscarriage. We found out we were pregnant in early November. On Thanksgiving, an episode occurred that demonstrated Julie's life might be in jeopardy as well as the life of the baby. There was a glimmer of hope that all could go well though; we had to give it time. A week before Christmas 2017, we learned that our second child wasn't going to make it. *We had a miscarriage*.
 

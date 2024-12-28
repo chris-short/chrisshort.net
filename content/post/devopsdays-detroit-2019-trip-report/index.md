@@ -1,16 +1,28 @@
-+++
-author = "Chris Short"
-date = 2019-10-26
-description = "I spoke, sponsored, and worked from DevOpsDays Detroit 2019 this week. The event sold out for the first time this year!"
-draft = false
-ShowTOC = false
-tags = ["DevOps", "DevOpsDays", "Detroit", "Site Reliability Engineering", "SRE", "Conway's Law", "business", "metrics", "data", "vendor pitch", "red hat", "engineering"]
-title = "DevOpsDays Detroit 2019 Trip Report"
-[cover]
-image = "https://shortcdn.com/chrisshort/chris-short-devopsdays-detroit-2019.jpg"
-caption = "Photo used with permission from [Brandon Dimcheff](https://twitter.com/bdimcheff)"
-
-+++
+---
+ShowTOC: false
+author: Chris Short
+cover:
+  caption: Photo used with permission from [Brandon Dimcheff](https://twitter.com/bdimcheff)
+  image: https://shortcdn.com/chrisshort/chris-short-devopsdays-detroit-2019.jpg
+date: "2019-10-26"
+description: I spoke, sponsored, and worked from DevOpsDays Detroit 2019 this week.
+  The event sold out for the first time this year!
+draft: false
+tags:
+- DevOps
+- DevOpsDays
+- Detroit
+- Site Reliability Engineering
+- SRE
+- Conway's Law
+- business
+- metrics
+- data
+- vendor pitch
+- red hat
+- engineering
+title: DevOpsDays Detroit 2019 Trip Report
+---
 
 Disclaimer: I work for Red Hat, [my views and opinions are solely mine](/terms/) though.
 

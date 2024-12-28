@@ -1,16 +1,18 @@
-+++
-author = "Chris Short"
-date = 2018-05-16
-description = ""
-draft = false
-ShowTOC = false
-slug = "devops-hiring-guide"
-tags = ["DevOps", "job", "hiring"]
-title = "DevOps Hiring Guide"
-[cover]
-image = "https://shortcdn.com/chrisshort/devops_hiring_guide_lead_image.png"
-
-+++
+---
+ShowTOC: false
+author: Chris Short
+cover:
+  image: https://shortcdn.com/chrisshort/devops_hiring_guide_lead_image.png
+date: "2018-05-16"
+description: ""
+draft: false
+slug: devops-hiring-guide
+tags:
+- DevOps
+- job
+- hiring
+title: DevOps Hiring Guide
+---
 
 The [opensource.com DevOps Community](https://opensource.com/devops-team) and [The Enterprisers Project](https://enterprisersproject.com/) teamed up to create the quintessential guide to hiring for DevOps talent. I contributed the Introduction and the article, "DevOps hiring strategies to attract top talent". This was a significant amount of work from all parties and I love how quickly and beautifully it came together. Hats off to Jason Hibbets and the folks at Red Hat that helped put this together.
 

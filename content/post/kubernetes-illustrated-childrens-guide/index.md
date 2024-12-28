@@ -1,19 +1,22 @@
-+++
-author = "Chris Short"
-date = 2020-01-26
-description = "The Illustrated Children's Guide to Kubernetes and Phippy Goes to the Zoo with bonus giggles from Max Short"
-draft = false
-slug = "kubernetes-illustrated-childrens-guide"
-tags = ["Kubernetes", "Illustrated", "Guide", "Phippy"]
-title = "Kubernetes Illustrated Children's Guide"
-aliases = [
-  "/kubernetes-getting-started/The-Illustrated-Childrens-Guide-to-Kubernetes.pdf",
-  "The-Illustrated-Childrens-Guide-to-Kubernetes.pdf"
-]
-[cover]
-image = "https://shortcdn.com/chrisshort/The-Illustrated-Childrens-Guide-to-Kubernetes.png"
-
-+++
+---
+aliases:
+- /kubernetes-getting-started/The-Illustrated-Childrens-Guide-to-Kubernetes.pdf
+- The-Illustrated-Childrens-Guide-to-Kubernetes.pdf
+author: Chris Short
+cover:
+  image: https://shortcdn.com/chrisshort/The-Illustrated-Childrens-Guide-to-Kubernetes.png
+date: "2020-01-26"
+description: The Illustrated Children's Guide to Kubernetes and Phippy Goes to the
+  Zoo with bonus giggles from Max Short
+draft: false
+slug: kubernetes-illustrated-childrens-guide
+tags:
+- Kubernetes
+- Illustrated
+- Guide
+- Phippy
+title: Kubernetes Illustrated Children's Guide
+---
 
 There are a lot of ways to get started with Kubernetes. But, I've long said there are two paths to [getting started with Kubernetes](/kubernetes-getting-started/): maintaining Kubernetes or consuming Kubernetes. They're distinctly different but, you have to understand consuming Kubernetes before maintaining Kubernetes, in my opinion.
 

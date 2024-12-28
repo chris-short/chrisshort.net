@@ -1,16 +1,17 @@
-+++
-author = "Chris Short"
-date = 2017-12-02
-description = "After fifty-two weeks of uninterrupted DevOps newsletters, I have some things to share about the experience."
-draft = false
-ShowTOC = false
-slug = "notes-on-running-a-newsletter-a-year-of-devopsish"
-tags = ["DevOps"]
-title = "Notes on Running a Newsletter: A Year of DevOps'ish"
-[cover]
-image = "https://shortcdn.com/chrisshort/devopsish-growth-chart.png"
-
-+++
+---
+ShowTOC: false
+author: Chris Short
+cover:
+  image: https://shortcdn.com/chrisshort/devopsish-growth-chart.png
+date: "2017-12-02"
+description: After fifty-two weeks of uninterrupted DevOps newsletters, I have some
+  things to share about the experience.
+draft: false
+slug: notes-on-running-a-newsletter-a-year-of-devopsish
+tags:
+- DevOps
+title: 'Notes on Running a Newsletter: A Year of DevOps''ish'
+---
 
 In late 2016, I set a goal to start and run a successful weekly newsletter. I decided that DevOps would be the topic. On December 11, 2016, [DevOps'ish](https://devopsish.com/) was born. After fifty-two weeks of uninterrupted DevOps newsletters, I have some things to share about the experience.
 

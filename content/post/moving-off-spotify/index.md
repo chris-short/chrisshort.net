@@ -1,16 +1,25 @@
-+++
-
-author = "Chris Short"
-date = 2022-01-29
-description = "I'm in the middle of moving between a lot of services right now but, moving off Spotify was the easiest thing I've done in a long time."
-draft = false
-slug = "moving-off-spotify"
-tags = ["music", "Spotify", "music streaming services", "Apple Music", "moving off Spotify", "podcast", "Verizon", "Amazon Music", "sync", "move playlist off Spotify"]
-title = "Moving off Spotify"
-[cover]
-image = "https://shortcdn.com/chrisshort/moving-off-spotify.webp"
-
-+++
+---
+author: Chris Short
+cover:
+  image: https://shortcdn.com/chrisshort/moving-off-spotify.webp
+date: "2022-01-29"
+description: I'm in the middle of moving between a lot of services right now but,
+  moving off Spotify was the easiest thing I've done in a long time.
+draft: false
+slug: moving-off-spotify
+tags:
+- music
+- Spotify
+- music streaming services
+- Apple Music
+- moving off Spotify
+- podcast
+- Verizon
+- Amazon Music
+- sync
+- move playlist off Spotify
+title: Moving off Spotify
+---
 
 {{< carbon >}}
 

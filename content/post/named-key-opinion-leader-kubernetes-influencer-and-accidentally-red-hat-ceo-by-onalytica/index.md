@@ -1,14 +1,20 @@
-+++
-author = "Chris Short"
-date = 2021-03-10
-description = "Chris Short is accidentally named Red Hat CEO but also a Key Opinion Leader and  Kubernetes Influencer"
-draft = false
-tags = ["Kubernetes", "Onalytica", "report", "Red Hat", "influencer"]
-title = "Named Key Opinion Leader, Kubernetes Influencer, and (accidentally) Red Hat CEO by Onalytica"
-[cover]
-image = "https://shortcdn.com/chrisshort/whos-who-in-hybrid-cloud.webp"
-
-+++
+---
+author: Chris Short
+cover:
+  image: https://shortcdn.com/chrisshort/whos-who-in-hybrid-cloud.webp
+date: "2021-03-10"
+description: Chris Short is accidentally named Red Hat CEO but also a Key Opinion
+  Leader and  Kubernetes Influencer
+draft: false
+tags:
+- Kubernetes
+- Onalytica
+- report
+- Red Hat
+- influencer
+title: Named Key Opinion Leader, Kubernetes Influencer, and (accidentally) Red Hat
+  CEO by Onalytica
+---
 
 ## Reasons I'm writing this
 

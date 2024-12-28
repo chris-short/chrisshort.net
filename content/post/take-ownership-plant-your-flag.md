@@ -1,16 +1,17 @@
-+++
-author = "Chris Short"
-date = 2016-06-28
-description = ""
-draft = false
-ShowTOC = false
-slug = "take-ownership-plant-your-flag"
-tags = ["ownership", "philosophy"]
-title = "Take Ownership; \"Plant Your Flag\""
-[cover]
-image = "https://shortcdn.com/chrisshort/plant-flag.jpg"
-
-+++
+---
+ShowTOC: false
+author: Chris Short
+cover:
+  image: https://shortcdn.com/chrisshort/plant-flag.jpg
+date: "2016-06-28"
+description: ""
+draft: false
+slug: take-ownership-plant-your-flag
+tags:
+- ownership
+- philosophy
+title: Take Ownership; "Plant Your Flag"
+---
 
 Taking ownership or "planting your flag" in an idea, work, or concept is often one of the best things someone can do. To sit in a room full of people and say, "This is mine. I will take care of it." Makes everyone in the room know you are the point person committed to making it happen. The same holds true when discussing documentation, processes, and ideas for long-range planning.
 

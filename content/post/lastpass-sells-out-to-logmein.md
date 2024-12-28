@@ -1,16 +1,19 @@
-+++
-author = "Chris Short"
-date = 2015-10-09
-description = ""
-draft = false
-ShowTOC = false
-slug = "lastpass-sells-out-to-logmein"
-tags = ["lastpass", "logmein", "acquisition", "security"]
-title = "LastPass Sells Out to LogMeIn"
-[cover]
-image = "https://shortcdn.com/chrisshort/lp_blog.png"
-
-+++
+---
+ShowTOC: false
+author: Chris Short
+cover:
+  image: https://shortcdn.com/chrisshort/lp_blog.png
+date: "2015-10-09"
+description: ""
+draft: false
+slug: lastpass-sells-out-to-logmein
+tags:
+- lastpass
+- logmein
+- acquisition
+- security
+title: LastPass Sells Out to LogMeIn
+---
 
 If you have not heard, the phenomenal cloud base SaaS password manager, **[LastPass](https://lastpass.com/)** has [agreed to be acquired](https://blog.lastpass.com/2015/10/lastpass-joins-logmein.html/) be the not so customer friendly [LogMeIn](https://secure.logmein.com/). The IT world immediately panned the anti-idea as anti-consumer and the security world agreed and raised all sorts of red flags as well.
 

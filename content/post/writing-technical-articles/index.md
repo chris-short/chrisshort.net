@@ -1,16 +1,20 @@
-+++
-author = "Chris Short"
-date = 2018-05-25
-description = "Pick three points, add an introduction and conclusion and you have the beginnings of a great article."
-draft = false
-ShowTOC = false
-slug = "writing-technical-articles"
-tags = ["writing", "article", "outline", "proofreading"]
-title = "Writing Technical Articles"
-image = "https://shortcdn.com/chrisshort/typewriter.jpg"
-imagecap = ""
-
-+++
+---
+ShowTOC: false
+author: Chris Short
+date: "2018-05-25"
+description: Pick three points, add an introduction and conclusion and you have the
+  beginnings of a great article.
+draft: false
+image: https://shortcdn.com/chrisshort/typewriter.jpg
+imagecap: ""
+slug: writing-technical-articles
+tags:
+- writing
+- article
+- outline
+- proofreading
+title: Writing Technical Articles
+---
 
 I was helping to staff the [Cloud Native Computing Foundation](https://cncf.io) booth at [ChefConf 2018](/tags/chefconf/) when the topic of encouraging folks to write articles about what they're doing with [Kubernetes](/tags/kubernetes/) came up. One common problem often encountered is convincing folks that what they're doing is interesting work. The next problem is convincing folks that writing is not too difficult.
 

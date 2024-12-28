@@ -1,14 +1,16 @@
-+++
-author = "Chris Short"
-date = 2005-02-22
-description = "Chris Short suffers from Long Thoracic Nerve Palsy with Winging of the Scapula"
-draft = true
-ShowTOC = false
-slug = "shoulder-update-20050222"
-tags = ["shoulder", "winged scapula"]
-title = "Shoulder Update 2005-02-22"
-
-+++
+---
+ShowTOC: false
+author: Chris Short
+date: "2005-02-22"
+description: Chris Short suffers from Long Thoracic Nerve Palsy with Winging of the
+  Scapula
+draft: true
+slug: shoulder-update-20050222
+tags:
+- shoulder
+- winged scapula
+title: Shoulder Update 2005-02-22
+---
 
 Costovertebral Dysfunction of Rib T-8. That's what's wrong with my shoulder. After a year and a half of worthless medical treatment the military doctors have finally figured out what's wrong. There is a rib bulging out from my spine just below my shoulder blade. This is what is pushing back against the muscles in my shoulder thus making my shoulder hurt.
 

@@ -1,18 +1,23 @@
-+++
-author = "Chris Short"
-date = 2016-11-02
-description = ""
-draft = false
-slug = "ntp-i-need-you-to-go-ahead-and-love-it"
-tags = ["ntp", "stratum", "time", "clock", "jitter"]
-title = "NTP: I Need You to Go Ahead and Love It"
-aliases = [
-     "ntp-go-ahead-and-love-it"
-]
-[cover]
-image = "https://shortcdn.com/chrisshort/Trento-Mercatino_dei_Gaudenti-alarm_clocks.jpg"
-caption = "Photo Credit: [Matteo Ianeselli](https://commons.wikimedia.org/wiki/User:Ianezz) via [Wikimedia Commons](http://commons.wikimedia.org/)"
-+++
+---
+aliases:
+- ntp-go-ahead-and-love-it
+author: Chris Short
+cover:
+  caption: 'Photo Credit: [Matteo Ianeselli](https://commons.wikimedia.org/wiki/User:Ianezz)
+    via [Wikimedia Commons](http://commons.wikimedia.org/)'
+  image: https://shortcdn.com/chrisshort/Trento-Mercatino_dei_Gaudenti-alarm_clocks.jpg
+date: "2016-11-02"
+description: ""
+draft: false
+slug: ntp-i-need-you-to-go-ahead-and-love-it
+tags:
+- ntp
+- stratum
+- time
+- clock
+- jitter
+title: 'NTP: I Need You to Go Ahead and Love It'
+---
 
 It's 2016 (almost 2017) why is the time off on your system clocks? It became apparent to me that there are some folks out there that do not realize their clocks are off for a reason. [Julia Evans](https://twitter.com/b0rk) recently made a graphic about [distributed systems](https://twitter.com/b0rk/status/793288477060263936) that mentioned clock issues and it made me really sad.
 

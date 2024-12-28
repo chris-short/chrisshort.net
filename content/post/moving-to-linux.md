@@ -1,15 +1,17 @@
-+++
-author = "Chris Short"
-date = 2003-04-24
-description = ""
-draft = false
-ShowTOC = false
-slug = "moving-to-linux"
-title = "Moving to Linux"
-tags = ["linux", "open source"]
-aliases = ["/archives/2005/01/moving-to-linux.php"]
-
-+++
+---
+ShowTOC: false
+aliases:
+- /archives/2005/01/moving-to-linux.php
+author: Chris Short
+date: "2003-04-24"
+description: ""
+draft: false
+slug: moving-to-linux
+tags:
+- linux
+- open source
+title: Moving to Linux
+---
 
 Like a lot of people, I for one am tired of playing Microsoft's silly little game. Update this, patch that, buy our new operating system that turns out to be nothing but a glorified service pack. I've had it with Microsoft and the money pit that corporation has created. The sheer cost of staying up to date with Windows 2000 or Windows XP (Home or Professional) and Microsoft Office is, by itself, reason enough to look at other operating systems. Then let's not touch too much on the "OS Nothing" experience Microsoft has been serving up. First there was Windows ME, a glorified service pack or third edition to Windows 98 that gave most people a lot of headaches. Now I'm reading about how Windows Server 2003 isn't going to be much of an upgrade but more like a service pack to Windows 2000 Server editions. These are great money making ploys but there are better things that I could do with my money. The alternative: Linux. Linux is an open source, fully customizable operating system that could be engineered to power your microwave if you wanted. I'm moving to Linux.
 

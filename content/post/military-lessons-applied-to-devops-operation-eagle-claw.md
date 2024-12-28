@@ -1,17 +1,18 @@
-+++
-author = "Chris Short"
-date = 2017-01-18
-description = ""
-draft = false
-ShowTOC = false
-slug = "military-lessons-applied-to-devops-operation-eagle-claw"
-tags = ["DevOps", "military"]
-title = "Military Lessons Applied to DevOps: Operation Eagle Claw"
-[cover]
-image = "https://shortcdn.com/chrisshort/operation-eagle-claw.png"
-alt = "Operation Eagle Claw"
-
-+++
+---
+ShowTOC: false
+author: Chris Short
+cover:
+  alt: Operation Eagle Claw
+  image: https://shortcdn.com/chrisshort/operation-eagle-claw.png
+date: "2017-01-18"
+description: ""
+draft: false
+slug: military-lessons-applied-to-devops-operation-eagle-claw
+tags:
+- DevOps
+- military
+title: 'Military Lessons Applied to DevOps: Operation Eagle Claw'
+---
 
 As part of preparing for my talk at [DevOpsDays Detroit](/what-the-military-taught-me-about-devops/), I did a significant amount of research into military failures. It was hard to find a military failure that did not evoke an emotional response or political discussion. But, I was prepared to talk about two: The 1961 Goldsboro B-52 Crash and the failed Iran hostage rescue, Operation Eagle Claw.
 

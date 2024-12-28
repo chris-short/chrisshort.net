@@ -1,17 +1,35 @@
-+++
-author = "Chris Short"
-date = 2020-06-15
-description = "Chris Short from Red Hat talks Operators and Kubernetes with Rob Zehicle"
-draft = false
-ShowTOC = false
-slug = "talking-operators-with-rob-zehicle"
-tags = ["Chris Short", "Rob Zehicle", "Operator", "Operators", "Kubernetes", "OpenShift", "CRD", "cluster", "application", "Operator pattern", "Ansible", "magic", "Red Hat", "clusters", "pods", "DevOps", "podcast", "Operator Framework"]
-title = "Talking Operators with Rob Zehicle on L8ist Sh9y Podcast"
-aliases = ["talking-operators-on-l8ist-sh9y-podcast"]
-[cover]
-image = "https://shortcdn.com/chrisshort/talking-operators-on-L8ist-Sh9y-podcast.png"
-
-+++
+---
+ShowTOC: false
+aliases:
+- talking-operators-on-l8ist-sh9y-podcast
+author: Chris Short
+cover:
+  image: https://shortcdn.com/chrisshort/talking-operators-on-L8ist-Sh9y-podcast.png
+date: "2020-06-15"
+description: Chris Short from Red Hat talks Operators and Kubernetes with Rob Zehicle
+draft: false
+slug: talking-operators-with-rob-zehicle
+tags:
+- Chris Short
+- Rob Zehicle
+- Operator
+- Operators
+- Kubernetes
+- OpenShift
+- CRD
+- cluster
+- application
+- Operator pattern
+- Ansible
+- magic
+- Red Hat
+- clusters
+- pods
+- DevOps
+- podcast
+- Operator Framework
+title: Talking Operators with Rob Zehicle on L8ist Sh9y Podcast
+---
 
 <iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/810685114&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/user-410091210" title="L8ist Sh9y Podcast" target="_blank" rel="noopener" style="color: #cccccc; text-decoration: none;">L8ist Sh9y Podcast</a> · <a href="https://soundcloud.com/user-410091210/chris-short-from-red-hat-talks-operators-and-kubernetes" title="Chris Short from Red Hat talks Operators and Kubernetes" target="_blank" style="color: #cccccc; text-decoration: none;">Chris Short from Red Hat talks Operators and Kubernetes</a></div>
 

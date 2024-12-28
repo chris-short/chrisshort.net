@@ -1,16 +1,18 @@
-+++
-author = "Chris Short"
-date = 2016-02-27
-description = ""
-draft = false
-ShowTOC = false
-slug = "yubikey-4-nano-demands-use-of-yubiswitch"
-tags = ["yubikey", "mac os x", "macos"]
-title = "Yubikey 4 Nano Demands Use of yubiswitch"
-[cover]
-image = "https://shortcdn.com/chrisshort/yubikey-nano.png"
-
-+++
+---
+ShowTOC: false
+author: Chris Short
+cover:
+  image: https://shortcdn.com/chrisshort/yubikey-nano.png
+date: "2016-02-27"
+description: ""
+draft: false
+slug: yubikey-4-nano-demands-use-of-yubiswitch
+tags:
+- yubikey
+- mac os x
+- macos
+title: Yubikey 4 Nano Demands Use of yubiswitch
+---
 
 As more and more security policies demand the use of multi-factor authentication the number of times a day you use a multi-factor token will increase. Hopefully that number will not increase to a level that throws the balance of security and convenience towards the annoyingly secure side of the scale. But, if that ever does happen hopefully you can use an [Yubikey](https://www.yubico.com/) as your token.
 

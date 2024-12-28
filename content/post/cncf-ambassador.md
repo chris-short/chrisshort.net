@@ -1,16 +1,20 @@
-+++
-author = "Chris Short"
-date = 2018-01-31
-description = "It is with great pleasure that I can anounce that I have been named a Cloud Native Computing Foundation Ambassador."
-draft = false
-ShowTOC = false
-slug = "cncf-ambassador"
-tags = ["cloud native", "cncf", "kubernetes", "ambassador"]
-title = "Chris Short named Cloud Native Ambassador"
-[cover]
-image = "https://shortcdn.com/chrisshort/cncf-ambassador-color-horizontal.png"
-
-+++
+---
+ShowTOC: false
+author: Chris Short
+cover:
+  image: https://shortcdn.com/chrisshort/cncf-ambassador-color-horizontal.png
+date: "2018-01-31"
+description: It is with great pleasure that I can anounce that I have been named a
+  Cloud Native Computing Foundation Ambassador.
+draft: false
+slug: cncf-ambassador
+tags:
+- cloud native
+- cncf
+- kubernetes
+- ambassador
+title: Chris Short named Cloud Native Ambassador
+---
 
 While I was in Austin for [KubeCon + CloudNativeCon North America 2017](http://events17.linuxfoundation.org/events/kubecon-and-cloudnativecon-north-america) I was told about the Cloud Native Computing Foundation Ambassador program. After reading up on it and experiencing the first day of the conference I decided to apply to become a Cloud Native Ambassador. The responsibilities are right in line with what I'm trying to do in Detroit. I would love to continue my community building around cloud native and open source projects.
 

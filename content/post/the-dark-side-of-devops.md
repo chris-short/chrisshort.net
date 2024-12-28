@@ -1,16 +1,16 @@
-+++
-author = "Chris Short"
-date = 2017-03-10
-description = ""
-draft = false
-ShowTOC = false
-slug = "the-dark-side-of-devops"
-tags = ["DevOps"]
-title = "The Dark Side of DevOps"
-[cover]
-image = "https://shortcdn.com/chrisshort/dagobah-cave.jpg"
-
-+++
+---
+ShowTOC: false
+author: Chris Short
+cover:
+  image: https://shortcdn.com/chrisshort/dagobah-cave.jpg
+date: "2017-03-10"
+description: ""
+draft: false
+slug: the-dark-side-of-devops
+tags:
+- DevOps
+title: The Dark Side of DevOps
+---
 
 **Disclaimer:** These are real world experiences I have had within organizations that I have been employed by. Identifying information is intentionally anonymous. If you think you are in one of these organizations please consider keeping that to yourself for the sake of others.
 

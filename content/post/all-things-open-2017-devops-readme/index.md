@@ -1,16 +1,20 @@
-+++
-author = "Chris Short"
-date = 2017-10-27
-description = "A curated list of things to read to level up your DevOps skills and knowledge."
-draft = false
-ShowToc = false
-slug = "all-things-open-2017-devops-readme"
-tags = ["DevOps", "books", "culture", "talks"]
-title = "All Things Open 2017: DevOps README"
-[cover]
-image = "https://shortcdn.com/chrisshort/chris-short-all-things-open-devops-readme.jpg"
-caption = "Chris Short speaking at All Things Open 2017"
-+++
+---
+ShowToc: false
+author: Chris Short
+cover:
+  caption: Chris Short speaking at All Things Open 2017
+  image: https://shortcdn.com/chrisshort/chris-short-all-things-open-devops-readme.jpg
+date: "2017-10-27"
+description: A curated list of things to read to level up your DevOps skills and knowledge.
+draft: false
+slug: all-things-open-2017-devops-readme
+tags:
+- DevOps
+- books
+- culture
+- talks
+title: 'All Things Open 2017: DevOps README'
+---
 
 I had the opportunity to participate in [All Things Open](https://allthingsopen.org/) this week. It was quite an experience. 3300+ people who are all part of the open source software community all in one place is truly moving. Even better they let me take a mic on one of the main stages to give a modified version of my [DevOps README.md](/devops-readme.md/) talk. I can't thank the opensource.com crew enough for the opportunity.
 

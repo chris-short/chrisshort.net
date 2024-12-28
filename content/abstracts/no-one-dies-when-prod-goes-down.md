@@ -1,17 +1,18 @@
-+++
-author = "Chris Short"
-date = 2019-03-10
-description = ""
-draft = true
-slug = "no-one-dies-when-prod-goes-down"
-tags = ["devops", "culture", "cfp"]
-title = "DevOps is Not War: No One Dies When Prod Goes Down"
-aliases =[
-    "/cfp/no-one-dies-when-prod-goes-down/",
-    "devops-is-not-war-no-one-dies-when-prod-goes-down"
-]
-
-+++
+---
+aliases:
+- /cfp/no-one-dies-when-prod-goes-down/
+- devops-is-not-war-no-one-dies-when-prod-goes-down
+author: Chris Short
+date: "2019-03-10"
+description: ""
+draft: true
+slug: no-one-dies-when-prod-goes-down
+tags:
+- devops
+- culture
+- cfp
+title: 'DevOps is Not War: No One Dies When Prod Goes Down'
+---
 
 ## Abstract
 

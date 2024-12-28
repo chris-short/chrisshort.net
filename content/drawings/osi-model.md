@@ -1,17 +1,17 @@
-+++
-author = "Chris Short"
-date = 2016-11-13
-description = ""
-draft = false
-slug = "osi-model"
-tags = ["drawing", "OSI Model"]
-title = "OSI Model"
-aliases = [
-    "/osi-model/",
-    "/drawing-osi-model/"
-]
-
-+++
+---
+aliases:
+- /osi-model/
+- /drawing-osi-model/
+author: Chris Short
+date: "2016-11-13"
+description: ""
+draft: false
+slug: osi-model
+tags:
+- drawing
+- OSI Model
+title: OSI Model
+---
 
 {{< carbon >}}
 

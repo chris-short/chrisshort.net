@@ -1,14 +1,22 @@
-+++
-author = "Chris Short"
-date = 2019-07-29
-description = "Oracle has been pitching a Larry Ellison sized fit over JEDI, the $10 billion DoD cloud contract, and endangering US national security in the process."
-draft = false
-tags = ["Oracle", "JEDI", "AWS", "cloud", "DoD", "Interoperability Clearinghouse", "China", "Larry Ellison"]
-title = "Use The Force, Larry: Oracle Playing Politics with Nation's Defense"
-[cover]
-image = "https://shortcdn.com/chrisshort/jedi-oracle-yoda.jpg"
-
-+++
+---
+author: Chris Short
+cover:
+  image: https://shortcdn.com/chrisshort/jedi-oracle-yoda.jpg
+date: "2019-07-29"
+description: Oracle has been pitching a Larry Ellison sized fit over JEDI, the $10
+  billion DoD cloud contract, and endangering US national security in the process.
+draft: false
+tags:
+- Oracle
+- JEDI
+- AWS
+- cloud
+- DoD
+- Interoperability Clearinghouse
+- China
+- Larry Ellison
+title: 'Use The Force, Larry: Oracle Playing Politics with Nation''s Defense'
+---
 
 > This article is based on the introduction to [DevOps'ish on 2019-07-28](https://devopsish.com/138/). Some parts are duplicated but this is a much deeper dive than I could do in the newsletter (and these 1500 words barely do the topic justice). Also, yes, I work for Red Hat. No, these views do not represent theirs. [Please take a moment to read my disclaimer](/disclaimer/). Above all things, I'm an American, and this issue trancends business.
 

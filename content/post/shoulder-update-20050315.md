@@ -1,14 +1,16 @@
-+++
-author = "Chris Short"
-date = 2005-03-15
-description = "Chris Short suffers from Long Thoracic Nerve Palsy with Winging of the Scapula"
-draft = true
-ShowTOC = false
-slug = "shoulder-update-20050315"
-tags = ["shoulder", "winged scapula"]
-title = "Shoulder Update 2005-03-15"
-
-+++
+---
+ShowTOC: false
+author: Chris Short
+date: "2005-03-15"
+description: Chris Short suffers from Long Thoracic Nerve Palsy with Winging of the
+  Scapula
+draft: true
+slug: shoulder-update-20050315
+tags:
+- shoulder
+- winged scapula
+title: Shoulder Update 2005-03-15
+---
 
 When I first started writing this article I decided to write about how bad the military health care system is and what a farce TRICARE (the military's HMO) is. However, I think that's not in the best interests of myself or this web site so I'll provide an update on my shoulder (back, ribs, spine) injury. But, please allow me to say that you get what you pay for and, in the military, you don't pay for health care.
 
