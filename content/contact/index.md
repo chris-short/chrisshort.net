@@ -1,13 +1,12 @@
-+++
-author = "Chris Short"
-date = 2000-12-18
-summary = "Contact Chris Short"
-draft = false
-title = "Contact Chris Short"
-slug = "contact"
-ShowTOC = false
-
-+++
+---
+ShowTOC: false
+author: Chris Short
+date: "2000-12-18"
+draft: false
+slug: contact
+summary: Contact Chris Short
+title: Contact Chris Short
+---
 
 {{< contact >}}
 

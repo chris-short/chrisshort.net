@@ -1,12 +1,16 @@
-+++
-author = "Chris Short"
-date = 2005-08-05
-summary = "3C2X1 - Tech Control: What it was, what it meant to be one, and what it morphed into"
-draft = false
-tags = ["tech control", "technical controller", "us air force", "usaf"]
-title = "3C2X1: Communications - Computer Systems Controller"
-
-+++
+---
+author: Chris Short
+date: "2005-08-05"
+draft: false
+summary: '3C2X1 - Tech Control: What it was, what it meant to be one, and what it
+  morphed into'
+tags:
+- tech control
+- technical controller
+- us air force
+- usaf
+title: '3C2X1: Communications - Computer Systems Controller'
+---
 
 ![Communications and Information Badge 3C251](https://shortcdn.com/chrisshort/commbadge5.jpg) ![Communications and Information Badge 3C271](https://shortcdn.com/chrisshort/commbadge7.jpg) ![Communications and Information Badge 3C291](https://shortcdn.com/chrisshort/commbadge9.jpg)
 

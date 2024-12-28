@@ -1,15 +1,40 @@
-+++
-author = "Chris Short"
-date = 2020-01-01
-description = "Chris Short looks back at 2019 and looks ahead to 2020."
-draft = false
-slug = "2019-learnings-2020-expectations"
-tags = ["DevOps", "developer", "open source", "Kubernetes", "developer experience", "security", "code", "health care", "China", "Docker", "GitOps", "Red Hat", "IBM", "cloud", "cloud native", "API", "WebAssembly", "Wasm", "community", "infrastructure", "AWS", "InfoSec", "software", "chronic pain", "velocity", "medically separated"]
-title = "2019 Learnings, 2020 Expectations"
-[cover]
-image = "https://shortcdn.com/chrisshort/happy-new-year-gold.jpg"
-
-+++
+---
+author: Chris Short
+cover:
+  image: https://shortcdn.com/chrisshort/happy-new-year-gold.jpg
+date: "2020-01-01"
+description: Chris Short looks back at 2019 and looks ahead to 2020.
+draft: false
+slug: 2019-learnings-2020-expectations
+tags:
+- DevOps
+- developer
+- open source
+- Kubernetes
+- developer experience
+- security
+- code
+- health care
+- China
+- Docker
+- GitOps
+- Red Hat
+- IBM
+- cloud
+- cloud native
+- API
+- WebAssembly
+- Wasm
+- community
+- infrastructure
+- AWS
+- InfoSec
+- software
+- chronic pain
+- velocity
+- medically separated
+title: 2019 Learnings, 2020 Expectations
+---
 
 A former co-worker and now friend has a tagline, “Every day is a school day.” I remind myself of this fact almost every time I learn something new. 2019 was the hardest year of my life. I'd like to share some things I picked up on this most recent journey around the sun we call 2019. I'll make some predictions about 2020 in the process too.
 

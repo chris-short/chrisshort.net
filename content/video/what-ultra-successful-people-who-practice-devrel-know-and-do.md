@@ -1,13 +1,19 @@
-+++
-author = "Chris Short"
-date = 2022-08-16
-description = "Join Wesley Faulkner, Sr, Community Manager at AWS and Chris Short, Sr. Developer Advocate for a discussion about getting decision makers to buy-in in the #DevRel space."
-draft = false
-slug = "what-ultra-successful-people-who-practice-devrel-know-and-do"
-tags = ["talks", "speaking", "videos", "DevRel"]
-title = "What ultra successful people who practice DevRel know and do"
-ShowTOC = false
-+++
+---
+ShowTOC: false
+author: Chris Short
+date: "2022-08-16"
+description: 'Join Wesley Faulkner, Sr, Community Manager at AWS and Chris Short,
+  Sr. Developer Advocate for a discussion about getting decision makers to buy-in
+  in the #DevRel space.'
+draft: false
+slug: what-ultra-successful-people-who-practice-devrel-know-and-do
+tags:
+- talks
+- speaking
+- videos
+- DevRel
+title: What ultra successful people who practice DevRel know and do
+---
 
 {{< carbon >}}
 

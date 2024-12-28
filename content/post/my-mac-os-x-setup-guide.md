@@ -1,16 +1,19 @@
-+++
-author = "Chris Short"
-date = 2016-06-08
-description = ""
-draft = false
-slug = "my-mac-os-x-setup-guide"
-tags = ["mac os x", "macos", "virtualbox", "tools"]
-title = "My Mac OS X Setup Guide"
-[cover]
-image = "https://shortcdn.com/chrisshort/macbook.jpg"
-alt = "MacBook Pro on Desk"
-
-+++
+---
+author: Chris Short
+cover:
+  alt: MacBook Pro on Desk
+  image: https://shortcdn.com/chrisshort/macbook.jpg
+date: "2016-06-08"
+description: ""
+draft: false
+slug: my-mac-os-x-setup-guide
+tags:
+- mac os x
+- macos
+- virtualbox
+- tools
+title: My Mac OS X Setup Guide
+---
 
 I happen to be someone that finds themselves setting up new systems for myself often. I have to remind myself there are tools that I need installed before the scenario in which I need to use them (on an airplane, during a crisis, etc.). I use a Mac so this list of software and setup is going to be very Mac OS X centric.
 

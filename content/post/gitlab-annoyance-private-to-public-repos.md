@@ -1,16 +1,21 @@
-+++
-author = "Chris Short"
-date = 2017-01-23
-description = ""
-draft = false
-ShowTOC = false
-slug = "gitlab-annoyance-private-to-public-repos"
-tags = ["gitlab", "git", "test kitchen", "ansible", "DevOps", "vcs"]
-title = "GitLab Annoyance: Private to Public Repos"
-[cover]
-image = "https://shortcdn.com/chrisshort/gitlab-logo.png"
-
-+++
+---
+ShowTOC: false
+author: Chris Short
+cover:
+  image: https://shortcdn.com/chrisshort/gitlab-logo.png
+date: "2017-01-23"
+description: ""
+draft: false
+slug: gitlab-annoyance-private-to-public-repos
+tags:
+- gitlab
+- git
+- test kitchen
+- ansible
+- DevOps
+- vcs
+title: 'GitLab Annoyance: Private to Public Repos'
+---
 
 I was working on a new Ansible role last week and was having problems with [Test Kitchen](http://kitchen.ci/). The issue I was having was that Test Kitchen was unable to pull in dependencies from GitLab for the Ansible role I  was developing. Here is the error message I was seeing:
 

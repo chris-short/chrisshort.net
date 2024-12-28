@@ -1,16 +1,21 @@
-+++
-author = "Chris Short"
-date = 2016-06-14
-description = ""
-draft = true
-ShowTOC = false
-slug = "low-cost-content-delivery-network-cdn"
-tags = ["CDN", "Content Delivery Network", "CloudFlare", "Amazon", "S3", "AWS"]
-title = "Low Cost Content Delivery Network (CDN)"
-[cover]
-image = "https://shortcdn.com/chrisshort/cloudflare-s3-cdn.png"
-
-+++
+---
+ShowTOC: false
+author: Chris Short
+cover:
+  image: https://shortcdn.com/chrisshort/cloudflare-s3-cdn.png
+date: "2016-06-14"
+description: ""
+draft: true
+slug: low-cost-content-delivery-network-cdn
+tags:
+- CDN
+- Content Delivery Network
+- CloudFlare
+- Amazon
+- S3
+- AWS
+title: Low Cost Content Delivery Network (CDN)
+---
 
 A content delivery network (CDN) provides a service that enables public facing, web based responsive access to said resources in an effort to maintain a good user experience across the planet. A CDN provides a localized cache (copy) of your web site and its content closer to end users. CDNs leverage local data centers closer to end users and a little DNS magic to make this work. CDNs help their customers have a significantly smaller infrastructure footprint while maintaining fast load time for services provided. In theory, a CDN allows for web based resources hosted in Miami to be as responsive for the folks in Miami as it would be for the folks in Anchorage, Bangkok, Charlotte, Dallas, Edinburgh, Frankfurt, Glasgow, Helsinki, Instanbul... You get the idea.
 

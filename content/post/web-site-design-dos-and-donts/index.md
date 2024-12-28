@@ -1,15 +1,28 @@
-+++
-author = "Chris Short"
-date = 2005-01-05
-description = "A list of search engine optimization best practices when embarking on building a web site optimized for search"
-draft = false
-tags = ["search", "search engine", "search engine rankings", "search engine optimization", "meta tag", "web page", "load time", "domain name", "links", "keywords", "content", "SEO"]
-title = "Web Site Design Do's and Don'ts"
-ShowToc = true
-[cover]
-image = "https://shortcdn.com/chrisshort/web-site-design-do's-and-don'ts.svg"
-caption = "Web Site Design Do's and Don'ts"
-+++
+---
+ShowToc: true
+author: Chris Short
+cover:
+  caption: Web Site Design Do's and Don'ts
+  image: https://shortcdn.com/chrisshort/web-site-design-do's-and-don'ts.svg
+date: "2005-01-05"
+description: A list of search engine optimization best practices when embarking on
+  building a web site optimized for search
+draft: false
+tags:
+- search
+- search engine
+- search engine rankings
+- search engine optimization
+- meta tag
+- web page
+- load time
+- domain name
+- links
+- keywords
+- content
+- SEO
+title: Web Site Design Do's and Don'ts
+---
 
 {{< carbon >}}
 

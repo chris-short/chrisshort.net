@@ -1,15 +1,16 @@
-+++
-author = "Chris Short"
-date = 2016-12-20
-description = ""
-draft = false
-slug = "perspective"
-tags = ["drawing", "philosophy"]
-title = "Perspective"
-aliases = [
-    "/perspective/"
-]
-+++
+---
+aliases:
+- /perspective/
+author: Chris Short
+date: "2016-12-20"
+description: ""
+draft: false
+slug: perspective
+tags:
+- drawing
+- philosophy
+title: Perspective
+---
 
 {{< carbon >}}
 

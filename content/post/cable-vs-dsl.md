@@ -1,16 +1,19 @@
-+++
-author = "Chris Short"
-date = 2003-05-03
-description = "DSL and cable broadband both have their advantages and disadvantages but DSL seems to be the one lacking in quite a few areas and their marketing shows it."
-draft = false
-ShowTOC = false
-slug = "cable-vs-dsl"
-tags = ["internet", "networking"]
-title = "Cable vs. DSL"
-[cover]
-image = "https://shortcdn.com/chrisshort/network-cables.jpg"
-
-+++
+---
+ShowTOC: false
+author: Chris Short
+cover:
+  image: https://shortcdn.com/chrisshort/network-cables.jpg
+date: "2003-05-03"
+description: DSL and cable broadband both have their advantages and disadvantages
+  but DSL seems to be the one lacking in quite a few areas and their marketing shows
+  it.
+draft: false
+slug: cable-vs-dsl
+tags:
+- internet
+- networking
+title: Cable vs. DSL
+---
 
 Recently there has been a huge push by digital subscriber line (DSL) providers to take a bigger chunk of the broadband market away from cable internet service providers. This has become even more apparent in recently thanks to Verizon and SBC (and I'm sure others will follow suit) dropping their prices dramatically. This is good for broadband subscribers and people looking into broadband because the cost of high speed Internet services is coming down. DSL and cable broadband both have their advantages and disadvantages but DSL seems to be the one lacking in quite a few areas and their marketing shows it.
 

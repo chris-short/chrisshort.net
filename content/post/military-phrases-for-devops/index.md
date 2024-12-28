@@ -1,17 +1,19 @@
-+++
-author = "Chris Short"
-date = 2018-07-23
-description = "There are many military phrases that I have used for a long time that could be in greater use in the DevOps space."
-draft = false
-slug = "military-phrases-for-devops"
-tags = ["devops", "military"]
-title = "Military Phrases For Use in DevOps"
-canonicalURL = "https://opensource.com/article/18/7/military-phrases-devops"
-[cover]
-image = "https://shortcdn.com/chrisshort/low-crawl.jpg"
-caption = "Parental Discretion is Advised"
-
-+++
+---
+author: Chris Short
+canonicalURL: https://opensource.com/article/18/7/military-phrases-devops
+cover:
+  caption: Parental Discretion is Advised
+  image: https://shortcdn.com/chrisshort/low-crawl.jpg
+date: "2018-07-23"
+description: There are many military phrases that I have used for a long time that
+  could be in greater use in the DevOps space.
+draft: false
+slug: military-phrases-for-devops
+tags:
+- devops
+- military
+title: Military Phrases For Use in DevOps
+---
 
 An edited version of this article was originally written for opensource.com: [5 military phrases for DevOps practitioners](https://opensource.com/article/18/7/military-phrases-devops)
 

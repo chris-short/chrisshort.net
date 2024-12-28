@@ -1,15 +1,23 @@
-+++
-author = "Chris Short"
-date = 2016-06-01
-description = ""
-draft = false
-slug = "gnu-sed-on-mac-os-x"
-tags = ["sed", "gnu", "bsd", "mac os x", "apple", "system integrity protection", "sip", "macos", "tools"]
-title = "GNU sed on Mac OS X"
-[cover]
-image = "https://shortcdn.com/chrisshort/hexley-darwin-vs-heckert-gnu.png"
-
-+++
+---
+author: Chris Short
+cover:
+  image: https://shortcdn.com/chrisshort/hexley-darwin-vs-heckert-gnu.png
+date: "2016-06-01"
+description: ""
+draft: false
+slug: gnu-sed-on-mac-os-x
+tags:
+- sed
+- gnu
+- bsd
+- mac os x
+- apple
+- system integrity protection
+- sip
+- macos
+- tools
+title: GNU sed on Mac OS X
+---
 
 Like a lot of systems folks I use sed, a lot. It is probably an unhealthy amount of sed use but so be it. I operate on a lot of Linux servers but my desktop environment of choice is Mac OS X which means BSD tools (not the Linux-y GNU tools).
 

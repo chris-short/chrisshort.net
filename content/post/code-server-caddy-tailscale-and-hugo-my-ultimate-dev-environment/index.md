@@ -1,25 +1,47 @@
-+++
-
-author = "Chris Short"
-date = 2022-07-02
-description = "I think I've discovered my development environment equivalent to nirvana: code-server, Caddy, Tailscale, and Hugo"
-draft = false
-slug = "code-server-caddy-tailscale-and-hugo-my-ultimate-dev-environment"
-tags = ["code-server", "Caddy", "Hugo", "code", "Tailscale", "DNS", "dev environment", "private", "network", "IP", "network", "systemd", "unit file", "script", "fast", "feedback loop", "config", "DNS", "provider", "dev", "security", "ultimate dev environment", "localHugo", ""]
-ShowTOC = true
-title = "code-server, Caddy, Tailscale, and Hugo = My ultimate dev environment"
-[cover]
-image = "https://shortcdn.com/chrisshort/code-server-caddy-tailscale-and-hugo-my-ultimate-dev-environment.webp"
-aliases = [
-  "env",
-  "dev-env",
-  "my-dev-env",
-  "ultimate-dev-env",
-  "my-ultimate-dev-environment",
-  "my-ultimate-development-environment"
-]
-
-+++
+---
+ShowTOC: true
+author: Chris Short
+cover:
+  aliases:
+  - env
+  - dev-env
+  - my-dev-env
+  - ultimate-dev-env
+  - my-ultimate-dev-environment
+  - my-ultimate-development-environment
+  image: https://shortcdn.com/chrisshort/code-server-caddy-tailscale-and-hugo-my-ultimate-dev-environment.webp
+date: "2022-07-02"
+description: 'I think I''ve discovered my development environment equivalent to nirvana:
+  code-server, Caddy, Tailscale, and Hugo'
+draft: false
+slug: code-server-caddy-tailscale-and-hugo-my-ultimate-dev-environment
+tags:
+- code-server
+- Caddy
+- Hugo
+- code
+- Tailscale
+- DNS
+- dev environment
+- private
+- network
+- IP
+- network
+- systemd
+- unit file
+- script
+- fast
+- feedback loop
+- config
+- DNS
+- provider
+- dev
+- security
+- ultimate dev environment
+- localHugo
+- ""
+title: code-server, Caddy, Tailscale, and Hugo = My ultimate dev environment
+---
 
 {{< carbon >}}
 

@@ -1,18 +1,22 @@
-+++
-author = "Chris Short"
-date = 2005-07-08
-description = ""
-draft = false
-slug = "the-cult-that-is-human-service-alliance-and-the-center-for-purposeful-living"
-tags = ["center for purposeful living", "human service alliance", "hsa", "foundation for purposeful living", "derwyn lackey"]
-title = "The Cult that is Human Service Alliance and the Center for Purposeful Living"
-aliases = [
-    "the-cult-that-is-human-service-alliance-and-the-center-for-purposeful-living-2",
-    "/post/65745344/the-cult-that-is-human-service-alliance-and-the-center",
-    "/the-cult-that-is-human-service-alliance-and-the-center-for-purposeful-living-2",
-    "/center-for-purposeful-living/the-cult-that-is-human-service-alliance-and-the-center-for-purposeful-living/"
-]
-+++
+---
+aliases:
+- the-cult-that-is-human-service-alliance-and-the-center-for-purposeful-living-2
+- /post/65745344/the-cult-that-is-human-service-alliance-and-the-center
+- /the-cult-that-is-human-service-alliance-and-the-center-for-purposeful-living-2
+- /center-for-purposeful-living/the-cult-that-is-human-service-alliance-and-the-center-for-purposeful-living/
+author: Chris Short
+date: "2005-07-08"
+description: ""
+draft: false
+slug: the-cult-that-is-human-service-alliance-and-the-center-for-purposeful-living
+tags:
+- center for purposeful living
+- human service alliance
+- hsa
+- foundation for purposeful living
+- derwyn lackey
+title: The Cult that is Human Service Alliance and the Center for Purposeful Living
+---
 
 {{< carbon >}}
 

@@ -1,14 +1,16 @@
-+++
-author = "Chris Short"
-date = 2016-06-09
-description = ""
-draft = false
-ShowTOC = false
-slug = "microsoft-remote-desktop-for-mac"
-tags = ["mac os x", "microsoft", "macos"]
-title = "Microsoft Remote Desktop for Mac"
-
-+++
+---
+ShowTOC: false
+author: Chris Short
+date: "2016-06-09"
+description: ""
+draft: false
+slug: microsoft-remote-desktop-for-mac
+tags:
+- mac os x
+- microsoft
+- macos
+title: Microsoft Remote Desktop for Mac
+---
 
 On June 1, 2016, Microsoft released an update to it's Remote Desktop client for Mac OS X via the Mac App Store. The update to version 8.0.32 broke some functionality for people. The most commonly reported error I have seen is "Connection reset to peer" before authentication.
 

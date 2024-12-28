@@ -1,17 +1,15 @@
-+++
-author = "Chris Short"
-date = 2016-12-11
-description = "Copyright — ChrisShort.net"
-draft = false
-ShowTOC = false
-slug = "cc-by-sa-4.0"
-title = "Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0) license"
-aliases = [
-    "copyright",
-    "license"
-]
-
-+++
+---
+ShowTOC: false
+aliases:
+- copyright
+- license
+author: Chris Short
+date: "2016-12-11"
+description: Copyright — ChrisShort.net
+draft: false
+slug: cc-by-sa-4.0
+title: Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0) license
+---
 
 {{< boring >}}
 

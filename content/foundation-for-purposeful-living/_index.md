@@ -1,20 +1,24 @@
-+++
-author = "Chris Short"
-date = 2015-10-03
-description = "Human Service Alliance, Center for Purposeful Living, Foundation for Purposeful Living, or whatever they're calling themselved this year is undeniably a cult."
-draft = false
-slug = "foundation-for-purposeful-living"
-tags = ["center for purposeful living", "human service alliance", "hsa", "foundation for purposeful living"]
-title = "Foundation for Purposeful Living"
-aliases = [
-    "/post/119631260/center-for-purposeful-living",
-    "/center-for-purposeful-living/",
-    "/cult",
-    "/cults",
-    "/foundation-for-purposeful-living/a-brief-history-of-center-for-purposeful-living-by-john-david-short/"
-]
-
-+++
+---
+aliases:
+- /post/119631260/center-for-purposeful-living
+- /center-for-purposeful-living/
+- /cult
+- /cults
+- /foundation-for-purposeful-living/a-brief-history-of-center-for-purposeful-living-by-john-david-short/
+author: Chris Short
+date: "2015-10-03"
+description: Human Service Alliance, Center for Purposeful Living, Foundation for
+  Purposeful Living, or whatever they're calling themselved this year is undeniably
+  a cult.
+draft: false
+slug: foundation-for-purposeful-living
+tags:
+- center for purposeful living
+- human service alliance
+- hsa
+- foundation for purposeful living
+title: Foundation for Purposeful Living
+---
 
 {{< carbon >}}
 

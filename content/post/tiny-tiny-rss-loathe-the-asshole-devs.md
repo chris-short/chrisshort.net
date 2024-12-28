@@ -1,14 +1,15 @@
-+++
-author = "Chris Short"
-date = 2013-06-01
-description = ""
-draft = false
-ShowTOC = false
-slug = "tiny-tiny-rss-loathe-the-asshole-devs"
-tags = ["development", "culture"]
-title = "Tiny Tiny RSS: Loathe the Asshole Devs"
-
-+++
+---
+ShowTOC: false
+author: Chris Short
+date: "2013-06-01"
+description: ""
+draft: false
+slug: tiny-tiny-rss-loathe-the-asshole-devs
+tags:
+- development
+- culture
+title: 'Tiny Tiny RSS: Loathe the Asshole Devs'
+---
 
 I've been messing around with [Tiny Tiny RSS](http://tt-rss.org/) today. Upon discovering it I posted in their [Google+ Community](https://plus.google.com/communities/110072726694649153528) asking how other users implemented it and what they thought of a specific use case I had. I got some good responses and was quite appreciative of them.
 

@@ -1,18 +1,19 @@
-+++
-author = "Chris Short"
-date = 2003-09-28
-description = ""
-draft = false
-ShowTOC = false
-slug = "moving-to-linux-linux-hopes-dashed"
-tags = ["linux", "open source", "windows xp"]
-title = "Moving to Linux - Linux Hopes Dashed"
-aliases = [
-    "moving-to-linux-linux-hopes-dashed",
-    "/archives/2005/01/moving-to-linux-linux-hopes-dashed.php"
-    ]
-
-+++
+---
+ShowTOC: false
+aliases:
+- moving-to-linux-linux-hopes-dashed
+- /archives/2005/01/moving-to-linux-linux-hopes-dashed.php
+author: Chris Short
+date: "2003-09-28"
+description: ""
+draft: false
+slug: moving-to-linux-linux-hopes-dashed
+tags:
+- linux
+- open source
+- windows xp
+title: Moving to Linux - Linux Hopes Dashed
+---
 
 {{< carbon >}}
 

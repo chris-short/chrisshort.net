@@ -1,16 +1,21 @@
-+++
-author = "Chris Short"
-date = 2016-06-21
-description = ""
-draft = false
-ShowTOC = false
-slug = "understanding-fear-and-hate"
-tags = ["hate", "fear", "lgbt", "lgbtq", "culture", "philosophy"]
-title = "Understanding, Fear, and Hate"
-[cover]
-image = "https://shortcdn.com/chrisshort/lgbt-usa-map.png"
-
-+++
+---
+ShowTOC: false
+author: Chris Short
+cover:
+  image: https://shortcdn.com/chrisshort/lgbt-usa-map.png
+date: "2016-06-21"
+description: ""
+draft: false
+slug: understanding-fear-and-hate
+tags:
+- hate
+- fear
+- lgbt
+- lgbtq
+- culture
+- philosophy
+title: Understanding, Fear, and Hate
+---
 
 >"Fear leads to anger... Anger leads to hate... Hate leads to suffering."
 Jedi Master Yoda

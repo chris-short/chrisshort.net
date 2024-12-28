@@ -1,15 +1,17 @@
-+++
-author = "Chris Short"
-date = 2019-06-25
-description = "The differences between upstream and downstream"
-draft = false
-ShowTOC = false
-tags = ["open source", "upstream", "downstream"]
-title = "Upstream vs Downstream"
-[cover]
-image = "https://shortcdn.com/chrisshort/stream.jpg"
-
-+++
+---
+ShowTOC: false
+author: Chris Short
+cover:
+  image: https://shortcdn.com/chrisshort/stream.jpg
+date: "2019-06-25"
+description: The differences between upstream and downstream
+draft: false
+tags:
+- open source
+- upstream
+- downstream
+title: Upstream vs Downstream
+---
 
 I was working on things for work (as one does) when it dawned on me. Very few folks understand the difference between upstream and downstream as it relates to open source software. I used Red Hat projects as a pointer. Here is the output of that effort (which was scratching the surface).
 

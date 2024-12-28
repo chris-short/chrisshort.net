@@ -1,20 +1,21 @@
-+++
-author = "Chris Short"
-date = 2004-09-23
-description = "A comprehensive review of the Sidekick II. (2004)"
-draft = false
-slug = "tmobile-sidekick-2-review"
-tags = ["hardware", "yahoo", "2004"]
-title = "T-Mobile Sidekick II Review"
-aliases = [
-    "/archives/2004/09/tmobile-sidekick-ii-review.php",
-    "/tmobile-sidekick-ii-review.php"
-]
-[cover]
-image = "https://shortcdn.com/chrisshort/sidekick-II-open.jpg"
-alt = "The T-Mobile Sidekick II from 2004"
-
-+++
+---
+aliases:
+- /archives/2004/09/tmobile-sidekick-ii-review.php
+- /tmobile-sidekick-ii-review.php
+author: Chris Short
+cover:
+  alt: The T-Mobile Sidekick II from 2004
+  image: https://shortcdn.com/chrisshort/sidekick-II-open.jpg
+date: "2004-09-23"
+description: A comprehensive review of the Sidekick II. (2004)
+draft: false
+slug: tmobile-sidekick-2-review
+tags:
+- hardware
+- yahoo
+- "2004"
+title: T-Mobile Sidekick II Review
+---
 
 This is a comprehensive review of the [T-Mobile Sidekick II](https://en.wikipedia.org/wiki/Danger_Hiptop#Hiptop2/T-Mobile_Sidekick_2_(Danger/Sharp)). I wanted to push this review out a lot quicker but I figured that a thorough testing and experience with the Sidekick II was necessary. After spending a year with the original color Sidekick I think I'll be able to write up a very good review.
 

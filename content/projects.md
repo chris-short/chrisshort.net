@@ -1,12 +1,14 @@
-+++
-author = "Chris Short"
-date = 2018-10-24
-description = "Chris Short's projects littered across the fruited interwebs."
-draft = false
-slug = "projects"
-tags = ["projects", "open source"]
-title = "Projects"
-+++
+---
+author: Chris Short
+date: "2018-10-24"
+description: Chris Short's projects littered across the fruited interwebs.
+draft: false
+slug: projects
+tags:
+- projects
+- open source
+title: Projects
+---
 
 Like anyone who has worked on the web long enough, I have a lot of side projects. Some of them are big, some are small. Some are modestly popular, others are barely noticed. But, they are also scattered across the web too. This page serves as a one-stop shop for all my projects big and small, young and old. **Pull requests are welcomed!!!**
 

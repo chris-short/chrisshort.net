@@ -1,17 +1,47 @@
-+++
-author = "Chris Short"
-date = 2021-12-06
-description = "GitOps is a prescriptive way of implementing DevOps. You will not succeed in using GitOps if you haven't embraced some DevOps philosophies along the way."
-draft = false
-slug = "gitops-an-implementation-of-devops"
-tags = ["GitOps", "DevOps", "system", "state", "automation", "teams", "process", "automatically", "change", "GitOps Working Group", "code", "IaC", "deploys", "tooling", "merged", "pull", "source", "approvals", "version", "safeties", "Continuous Deployment", "infrastructure", "immutability", "versioning", "history", "commit", "software agents", "GitOps Principles", "declarative", "OpenGitOps"]
-title = "GitOps: An implementation of DevOps"
-[cover]
-image = "https://shortcdn.com/chrisshort/opengitops-icon-color.svg"
-alt = "Open GitOps logo"
-showTOC = false
-
-+++
+---
+author: Chris Short
+cover:
+  alt: Open GitOps logo
+  image: https://shortcdn.com/chrisshort/opengitops-icon-color.svg
+  showTOC: false
+date: "2021-12-06"
+description: GitOps is a prescriptive way of implementing DevOps. You will not succeed
+  in using GitOps if you haven't embraced some DevOps philosophies along the way.
+draft: false
+slug: gitops-an-implementation-of-devops
+tags:
+- GitOps
+- DevOps
+- system
+- state
+- automation
+- teams
+- process
+- automatically
+- change
+- GitOps Working Group
+- code
+- IaC
+- deploys
+- tooling
+- merged
+- pull
+- source
+- approvals
+- version
+- safeties
+- Continuous Deployment
+- infrastructure
+- immutability
+- versioning
+- history
+- commit
+- software agents
+- GitOps Principles
+- declarative
+- OpenGitOps
+title: 'GitOps: An implementation of DevOps'
+---
 
 {{< carbon >}}
 

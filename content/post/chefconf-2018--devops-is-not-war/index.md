@@ -1,17 +1,24 @@
-+++
-author = "Chris Short"
-date = 2018-05-29
-description = "I was able to meet 1,400 new friends while I was at ChefConf 2018 (not really but kinda). I presented my talk, DevOps is Not War to a standing room only audience."
-draft = false
-ShowTOC = false
-slug = "chefconf-2018-devops-is-not-war"
-tags = ["speaking", "talks", "devops", "chefconf", "war", "cloud"]
-title = "ChefConf 2018: DevOps is Not War"
-[cover]
-image = "https://shortcdn.com/chrisshort/chris-short-thucydides-trap.jpg"
-caption = "Photo Courtesy of Kim McMahon"
-
-+++
+---
+ShowTOC: false
+author: Chris Short
+cover:
+  caption: Photo Courtesy of Kim McMahon
+  image: https://shortcdn.com/chrisshort/chris-short-thucydides-trap.jpg
+date: "2018-05-29"
+description: I was able to meet 1,400 new friends while I was at ChefConf 2018 (not
+  really but kinda). I presented my talk, DevOps is Not War to a standing room only
+  audience.
+draft: false
+slug: chefconf-2018-devops-is-not-war
+tags:
+- speaking
+- talks
+- devops
+- chefconf
+- war
+- cloud
+title: 'ChefConf 2018: DevOps is Not War'
+---
 
 If you read [DevOps'ish](https://devopsish.com/077/), you already know I spoke at [ChefConf 2018](https://chefconf.chef.io/). I was able to meet 1,400 new friends while I was in Chicago (not really but kinda). I presented my talk, DevOps is Not War to a standing room only audience.
 

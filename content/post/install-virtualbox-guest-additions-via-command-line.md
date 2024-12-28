@@ -1,16 +1,17 @@
-+++
-author = "Chris Short"
-date = 2013-05-03
-description = ""
-draft = false
-ShowTOC = false
-slug = "install-virtualbox-guest-additions-via-command-line"
-tags = ["virtualbox", "centos"]
-title = "Install VirtualBox Guest Additions via Command Line"
-[cover]
-image = "https://shortcdn.com/chrisshort/Virtualbox_logo.png"
-
-+++
+---
+ShowTOC: false
+author: Chris Short
+cover:
+  image: https://shortcdn.com/chrisshort/Virtualbox_logo.png
+date: "2013-05-03"
+description: ""
+draft: false
+slug: install-virtualbox-guest-additions-via-command-line
+tags:
+- virtualbox
+- centos
+title: Install VirtualBox Guest Additions via Command Line
+---
 
 I routinely spin up CentOS virtual machines in VirtualBox. Sometimes they are temporary and others might be around for months. These seemingly throw away VMs utilize the CentOS minimal install ISO for speed of setup (I really should just build a standard starting point VM and clone it as needed but I digress).
 

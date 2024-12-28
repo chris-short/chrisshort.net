@@ -1,14 +1,16 @@
-+++
-author = "Chris Short"
-date = 2016-12-09
-description = "Setup Papertrail with a role for Ansible Galaxy"
-draft = true
-ShowToc = false
-slug = "ansible-role-for-papertrail"
-tags = ["ansible", "DevOps", "cloud native"]
-title = "Ansible Role for Papertrail"
-
-+++
+---
+ShowToc: false
+author: Chris Short
+date: "2016-12-09"
+description: Setup Papertrail with a role for Ansible Galaxy
+draft: true
+slug: ansible-role-for-papertrail
+tags:
+- ansible
+- DevOps
+- cloud native
+title: Ansible Role for Papertrail
+---
 
 I have written my first publicly reusable Ansible role. It is freely available for use via Ansible Galaxy at [**chris-short.ansible-role-papertrail**](https://galaxy.ansible.com/chris-short/ansible-role-papertrail/) and helps you get Papertrail up and running.
 

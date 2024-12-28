@@ -1,13 +1,21 @@
-+++
-author = "Chris Short"
-date = 2020-07-09
-description = "An important early step (just after 'Orchestration & Application Definition' in the CNCF trail map) in starting your cloud-native journey is picking solutions for observability, including monitoring, logging, and tracing."
-draft = false
-slug = "top-seven-kubernetes-apis-for-cloud-native-observability"
-tags = ["talks", "speaking", "videos", "public speaking", "webinar"]
-title = "Webinar: The top 7 most useful Kubernetes APIs for comprehensive cloud native observability"
-ShowTOC = false
-+++
+---
+ShowTOC: false
+author: Chris Short
+date: "2020-07-09"
+description: An important early step (just after 'Orchestration & Application Definition'
+  in the CNCF trail map) in starting your cloud-native journey is picking solutions
+  for observability, including monitoring, logging, and tracing.
+draft: false
+slug: top-seven-kubernetes-apis-for-cloud-native-observability
+tags:
+- talks
+- speaking
+- videos
+- public speaking
+- webinar
+title: 'Webinar: The top 7 most useful Kubernetes APIs for comprehensive cloud native
+  observability'
+---
 
 {{< carbon >}}
 

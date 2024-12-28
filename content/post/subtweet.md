@@ -1,15 +1,15 @@
-+++
-
-author = "Chris Short"
-date = 2019-01-19
-description = "subtweet"
-draft = false
-ShowTOC = false
-slug = "subtweet"
-tags = ["subtweet", "twitter"]
-title = "subtweet"
-
-+++
+---
+ShowTOC: false
+author: Chris Short
+date: "2019-01-19"
+description: subtweet
+draft: false
+slug: subtweet
+tags:
+- subtweet
+- twitter
+title: subtweet
+---
 
 {{< carbon >}}
 

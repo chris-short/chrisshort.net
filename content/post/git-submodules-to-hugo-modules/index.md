@@ -1,15 +1,23 @@
-+++
-author = "Chris Short"
-date = 2021-09-27
-description = "How to switch from git submodules to Hugo Modules"
-draft = false
-slug = "git-submodules-to-hugo-modules"
-tags = ["git", "hugo", "modules", "submodules", "theme", "submodule", "Netlify", "branch", "mod"]
-title = "From git submodule to Hugo Modules using Netlify"
-[cover]
-image = "https://shortcdn.com/chrisshort/hugo-logo-wide.svg"
-
-+++
+---
+author: Chris Short
+cover:
+  image: https://shortcdn.com/chrisshort/hugo-logo-wide.svg
+date: "2021-09-27"
+description: How to switch from git submodules to Hugo Modules
+draft: false
+slug: git-submodules-to-hugo-modules
+tags:
+- git
+- hugo
+- modules
+- submodules
+- theme
+- submodule
+- Netlify
+- branch
+- mod
+title: From git submodule to Hugo Modules using Netlify
+---
 
 {{< carbon >}}
 

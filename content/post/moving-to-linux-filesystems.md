@@ -1,15 +1,21 @@
-+++
-author = "Chris Short"
-date = 2003-05-15
-description = ""
-draft = false
-ShowTOC = false
-slug = "moving-to-linux-filesystems"
-tags = ["linux", "xfs", "ext2", "ext3", "filesystems", "open source"]
-title = "Moving to Linux - Filesystems"
-aliases = ["moving-to-linux-filesystems"]
-
-+++
+---
+ShowTOC: false
+aliases:
+- moving-to-linux-filesystems
+author: Chris Short
+date: "2003-05-15"
+description: ""
+draft: false
+slug: moving-to-linux-filesystems
+tags:
+- linux
+- xfs
+- ext2
+- ext3
+- filesystems
+- open source
+title: Moving to Linux - Filesystems
+---
 
 After deciding how my [hard disk will be partitioned in Linux](/moving-to-linux-partitioning/), I need to select a filesystem for those partitions. A filesystem is a system for organizing directories and files, generally in terms of how it is implemented in the disk operating system. In layman's terms it is code that tells your operating system how data is stored, organized, and managed on a hard disk drive.
 

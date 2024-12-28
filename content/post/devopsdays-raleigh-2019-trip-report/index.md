@@ -1,15 +1,21 @@
-+++
-author = "Chris Short"
-date = 2019-10-16
-description = "I had the pleasure of speaking at and attending DevOpsDays Raleigh 2019. This event routinely out punches its weight class as far as quality."
-draft = false
-ShowTOC = false
-tags = ["DevOps", "DevOpsDays", "Raleigh", "Daniel Oh", "Kubernetes", "Quarkus"]
-title = "DevOpsDays Raleigh 2019 Trip Report"
-[cover]
-image = "https://shortcdn.com/chrisshort/cncf-ambassadors-daniel-oh-chris-short.jpg"
-
-+++
+---
+ShowTOC: false
+author: Chris Short
+cover:
+  image: https://shortcdn.com/chrisshort/cncf-ambassadors-daniel-oh-chris-short.jpg
+date: "2019-10-16"
+description: I had the pleasure of speaking at and attending DevOpsDays Raleigh 2019.
+  This event routinely out punches its weight class as far as quality.
+draft: false
+tags:
+- DevOps
+- DevOpsDays
+- Raleigh
+- Daniel Oh
+- Kubernetes
+- Quarkus
+title: DevOpsDays Raleigh 2019 Trip Report
+---
 
 Disclaimer: I work for Red Hat, [my views and opinions are solely mine](/terms/) though.
 

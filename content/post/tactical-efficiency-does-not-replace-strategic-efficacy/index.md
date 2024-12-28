@@ -1,15 +1,21 @@
-+++
-author = "Chris Short"
-date = 2019-09-29
-description = "Tactical efficiency does not replace strategic efficacy. Work towards a better approach but, don't think because you're a coder you're an all-knowing savant."
-draft = false
-ShowTOC = false
-tags = ["tactical", "strategic", "efficacy", "efficiency", "strategy"]
-title = "Tactical efficiency does not replace strategic efficacy"
-[cover]
-image = "https://shortcdn.com/chrisshort/chris-short-thinking.jpg"
-
-+++
+---
+ShowTOC: false
+author: Chris Short
+cover:
+  image: https://shortcdn.com/chrisshort/chris-short-thinking.jpg
+date: "2019-09-29"
+description: Tactical efficiency does not replace strategic efficacy. Work towards
+  a better approach but, don't think because you're a coder you're an all-knowing
+  savant.
+draft: false
+tags:
+- tactical
+- strategic
+- efficacy
+- efficiency
+- strategy
+title: Tactical efficiency does not replace strategic efficacy
+---
 I used to think of industry analysts as 100% worthless to the broader technology world. After meeting [Chris Gardner](https://www.forrester.com/Chris-Gardner) from Forrester, some of the good folks from [RedMonk](https://redmonk.com/), and working with Red Hat's Analyst Relations team, I've warmed up to Analysts a little. They serve an important function that a lot of us forget:
 
 ## *Tactical efficiency does not replace strategic efficacy*

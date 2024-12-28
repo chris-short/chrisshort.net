@@ -1,13 +1,17 @@
-+++
-author = "Chris Short"
-date = 2018-01-31
-description = ""
-draft = false
-slug = "go-enabling-devops-to-go-faster"
-tags = ["talks", "speaking", "videos", "public speaking"]
-title = "Go: Enabling DevOps to Go Faster — Orchestructure January 2018"
-ShowTOC = false
-+++
+---
+ShowTOC: false
+author: Chris Short
+date: "2018-01-31"
+description: ""
+draft: false
+slug: go-enabling-devops-to-go-faster
+tags:
+- talks
+- speaking
+- videos
+- public speaking
+title: 'Go: Enabling DevOps to Go Faster — Orchestructure January 2018'
+---
 
 {{< carbon >}}
 

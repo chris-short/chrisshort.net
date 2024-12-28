@@ -1,14 +1,16 @@
-+++
-author = "Chris Short"
-date = 2003-10-09
-description = ""
-draft = false
-ShowTOC = false
-slug = "microsoft-and-the-death-of-the-internet"
-tags = ["microsoft", "internet", "windows xp"]
-title = "Microsoft and the Death of the Internet"
-
-+++
+---
+ShowTOC: false
+author: Chris Short
+date: "2003-10-09"
+description: ""
+draft: false
+slug: microsoft-and-the-death-of-the-internet
+tags:
+- microsoft
+- internet
+- windows xp
+title: Microsoft and the Death of the Internet
+---
 
 Microsoft and its products and services are slowly destroying the Internet or at the very least changing the dynamics of the Internet. There are three main reasons for this rift in the Internet. The first reason is Microsoft's standards. The second reason is the popularity of Microsoft software. The final reason is the security (or lack thereof) of Microsoft software. When you combine these three reasons together you get a potential Internet killer.
 

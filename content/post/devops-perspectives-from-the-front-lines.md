@@ -1,16 +1,18 @@
-+++
-author = "Chris Short"
-date = 2016-10-31
-description = ""
-draft = false
-ShowTOC = false
-slug = "devops-perspectives-from-the-front-lines"
-tags = ["DevOps", "podcast", "interviews"]
-title = "DevOps Perspectives from the Front Lines"
-[cover]
-image = "https://shortcdn.com/chrisshort/Cloudcast-Logo-2015-Banner-Blue.png"
-
-+++
+---
+ShowTOC: false
+author: Chris Short
+cover:
+  image: https://shortcdn.com/chrisshort/Cloudcast-Logo-2015-Banner-Blue.png
+date: "2016-10-31"
+description: ""
+draft: false
+slug: devops-perspectives-from-the-front-lines
+tags:
+- DevOps
+- podcast
+- interviews
+title: DevOps Perspectives from the Front Lines
+---
 
 The month of October was quite unique for me. I went to a number of conferences and talked to tons of people from all walks of life. All of the events were great; DevOpsDays Raleigh, AnsibleFest Brooklyn, DevOpsDays Detroit, and All Things Open are all events I would recommend to anyone considering them.
 

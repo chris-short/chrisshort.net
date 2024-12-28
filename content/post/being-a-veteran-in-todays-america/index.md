@@ -1,17 +1,23 @@
-+++
-author = "Chris Short"
-date = 2018-05-27
-description = "To hell with 'Thank you for your service'! Have a meaningful conversation instead. Get to know veterans you encounter; it's more meaningful."
-draft = false
-ShowToc = false
-slug = "being-a-veteran-in-todays-america"
-tags = ["veteran", "veterans", "America", "rank", "recognition"]
-title = "Being a Veteran in Today's America"
-[cover]
-image = "https://shortcdn.com/chrisshort/steve-harvey-330899-unsplash.jpg"
-caption = "The Incredibly Few, The Mostly Proud: The Anonymous Veterans of Today's America"
-
-+++
+---
+ShowToc: false
+author: Chris Short
+cover:
+  caption: 'The Incredibly Few, The Mostly Proud: The Anonymous Veterans of Today''s
+    America'
+  image: https://shortcdn.com/chrisshort/steve-harvey-330899-unsplash.jpg
+date: "2018-05-27"
+description: To hell with 'Thank you for your service'! Have a meaningful conversation
+  instead. Get to know veterans you encounter; it's more meaningful.
+draft: false
+slug: being-a-veteran-in-todays-america
+tags:
+- veteran
+- veterans
+- America
+- rank
+- recognition
+title: Being a Veteran in Today's America
+---
 
 > This was originally posted as [a thread on Twitter](https://twitter.com/ChrisShort/status/1000596940197892097). But, at the suggestion of a few friends, I'm turning it into an article here. Please understand that this is my opinion.
 

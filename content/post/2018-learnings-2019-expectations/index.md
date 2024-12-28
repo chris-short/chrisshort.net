@@ -1,18 +1,28 @@
-+++
-author = "Chris Short"
-date = 2018-12-28
-description = "A former co-worker and now friend used to have a tagline, \"Everyday is a school day.\" I remind myself of this fact nearly every time I learn something new."
-draft = false
-slug = "2018-learnings-2019-expectations"
-tags = ["philosophy", "life", "kubernetes", "devops", "site reliability engineering", "sre", "Impostor Syndrome", "kubekhan", "people", "folks"]
-title = "2018 Learnings, 2019 Expectations"
-aliases = [
-    "/what-i-learned-in-2018/"
-]
-[cover]
-image = "https://shortcdn.com/chrisshort/happy-new-year.jpg"
-
-+++
+---
+aliases:
+- /what-i-learned-in-2018/
+author: Chris Short
+cover:
+  image: https://shortcdn.com/chrisshort/happy-new-year.jpg
+date: "2018-12-28"
+description: A former co-worker and now friend used to have a tagline, "Everyday is
+  a school day." I remind myself of this fact nearly every time I learn something
+  new.
+draft: false
+slug: 2018-learnings-2019-expectations
+tags:
+- philosophy
+- life
+- kubernetes
+- devops
+- site reliability engineering
+- sre
+- Impostor Syndrome
+- kubekhan
+- people
+- folks
+title: 2018 Learnings, 2019 Expectations
+---
 
 A former co-worker and now friend used to have a tagline, “Everyday is a school day.” I remind myself of this fact nearly every time I learn something new. Overall, 2018 was great for me professionally. I'd like to share some things I picked up on this most recent journey around the sun we call 2018. I'll make some predictions about 2019 in the process too.
 

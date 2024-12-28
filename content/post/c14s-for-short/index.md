@@ -1,14 +1,15 @@
-+++
-author = "Chris Short"
-date = 2019-01-08
-description = "Christophernetes"
-ShowTOC = false
-draft = false
-slug = "c14s-for-short"
-tags = ["twitter", "kubernetes"]
-title = "c14s for Short"
-
-+++
+---
+ShowTOC: false
+author: Chris Short
+date: "2019-01-08"
+description: Christophernetes
+draft: false
+slug: c14s-for-short
+tags:
+- twitter
+- kubernetes
+title: c14s for Short
+---
 
 I had a random thought pop into my head during a conversation one night so I tweeted it, "Christophernetes"
 

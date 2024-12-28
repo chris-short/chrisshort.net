@@ -1,18 +1,21 @@
-+++
-author = "Chris Short"
-date = 2020-11-07
-description = "Talks Chris Short has given. Webinars Chris Short has moderated."
-draft = false
-tags = ["talks", "speaking", "public speaking", "webinar"]
-title = "Speaking"
-aliases = [
-    "talks",
-    "talk",
-    "webinar",
-    "webinars",
-    "speaker-rider"
-]
-+++
+---
+aliases:
+- talks
+- talk
+- webinar
+- webinars
+- speaker-rider
+author: Chris Short
+date: "2020-11-07"
+description: Talks Chris Short has given. Webinars Chris Short has moderated.
+draft: false
+tags:
+- talks
+- speaking
+- public speaking
+- webinar
+title: Speaking
+---
 
 {{< speaker >}}
 

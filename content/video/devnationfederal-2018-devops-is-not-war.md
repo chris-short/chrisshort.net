@@ -1,13 +1,19 @@
-+++
-author = "Chris Short"
-date = 2019-10-23
-description = "People think that DevOps, Cloud Native, Agile, GROWS, etc. are all rainbows and roses. You start small, work your way up or you decide as an organizational unit to change."
-draft = false
-slug = "devnationfederal-2018-devops-is-not-war"
-tags = ["talks", "speaking", "videos", "public speaking"]
-title = "DevNationFederal: DevOps is Not War"
-ShowTOC = false
-+++
+---
+ShowTOC: false
+author: Chris Short
+date: "2019-10-23"
+description: People think that DevOps, Cloud Native, Agile, GROWS, etc. are all rainbows
+  and roses. You start small, work your way up or you decide as an organizational
+  unit to change.
+draft: false
+slug: devnationfederal-2018-devops-is-not-war
+tags:
+- talks
+- speaking
+- videos
+- public speaking
+title: 'DevNationFederal: DevOps is Not War'
+---
 
 {{< carbon >}}
 

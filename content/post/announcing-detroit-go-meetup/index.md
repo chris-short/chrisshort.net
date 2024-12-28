@@ -1,16 +1,18 @@
-+++
-author = "Chris Short"
-date = 2017-08-10
-description = "Detroit Go Meetup will have its first meeting at Bankrate in Downtown Detroit on Tuesday, August 29, 2017 at 7:00 PM ET"
-draft = true
-ShowToc = false
-slug = "announcing-detroit-go-meetup"
-tags = ["go", "golang"]
-title = "Announcing Detroit Go Meetup"
-[cover]
-image = "https://shortcdn.com/chrisshort/gopher_detroit_twitter_400x400.png"
-
-+++
+---
+ShowToc: false
+author: Chris Short
+cover:
+  image: https://shortcdn.com/chrisshort/gopher_detroit_twitter_400x400.png
+date: "2017-08-10"
+description: Detroit Go Meetup will have its first meeting at Bankrate in Downtown
+  Detroit on Tuesday, August 29, 2017 at 7:00 PM ET
+draft: true
+slug: announcing-detroit-go-meetup
+tags:
+- go
+- golang
+title: Announcing Detroit Go Meetup
+---
 
 While I was at [GopherCon 2017](/video/gophercon-2017-lightning-talk/), it became clear to me that there was no Go Meetup group in the Detroit Metro area. When I returned from Denver, after obtaining sponsorship from Bankrate, Detroit Go Meetup came to life.
 

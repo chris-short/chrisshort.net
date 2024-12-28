@@ -1,17 +1,26 @@
-+++
-
-author = "Chris Short"
-date = 2024-06-06
-description = "Kubernetes contributor Chris Short recounts how the open source project, its community, and access to mental health resources through an employer likely saved his life while struggling with PTSD, anxiety, and depression."
-slug = "kubernetes-likely-saved-my-life"
-tags = ["Kubernetes", "Open Source", "mental health", "EMDR", "community", "therapist", "psychiatrist", "KubeCon"]
-ShowTOC = true
-title = "Kubernetes Likely Saved My Life"
-[cover]
-image = "https://shortcdn.com/chrisshort/KCSNA_2019.webp"
-alt = "Happy 10th Birthday, Kubernetes | Photo from Kubernetes Contributor Summit San Diego 2019"
-
-+++
+---
+ShowTOC: true
+author: Chris Short
+cover:
+  alt: Happy 10th Birthday, Kubernetes | Photo from Kubernetes Contributor Summit
+    San Diego 2019
+  image: https://shortcdn.com/chrisshort/KCSNA_2019.webp
+date: "2024-06-06"
+description: Kubernetes contributor Chris Short recounts how the open source project,
+  its community, and access to mental health resources through an employer likely
+  saved his life while struggling with PTSD, anxiety, and depression.
+slug: kubernetes-likely-saved-my-life
+tags:
+- Kubernetes
+- Open Source
+- mental health
+- EMDR
+- community
+- therapist
+- psychiatrist
+- KubeCon
+title: Kubernetes Likely Saved My Life
+---
 
 {{< carbon >}}
 

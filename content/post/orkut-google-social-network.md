@@ -1,16 +1,18 @@
-+++
-author = "Chris Short"
-date = 2004-01-31
-description = "orkut.com is a social networking service developed in association with Google."
-draft = false
-ShowTOC = false
-slug = "orkut-google-social-network"
-tags = ["social media", "google"]
-title = "orkut.com - Google's Social Network"
-[cover]
-image = "https://shortcdn.com/chrisshort/Orkut_2004.png"
-
-+++
+---
+ShowTOC: false
+author: Chris Short
+cover:
+  image: https://shortcdn.com/chrisshort/Orkut_2004.png
+date: "2004-01-31"
+description: orkut.com is a social networking service developed in association with
+  Google.
+draft: false
+slug: orkut-google-social-network
+tags:
+- social media
+- google
+title: orkut.com - Google's Social Network
+---
 
 [orkut.com](http://www.orkut.com/) is a social networking service developed in association with Google. Why the name Orkut? [Orkut Büyükkökten](https://en.wikipedia.org/wiki/Orkut_B%C3%BCy%C3%BCkk%C3%B6kten), a Google employee that has a significant interest in social networking, developed the service. How did Mr. Orkut have time to develop such a project? Google has a creativity policy of sorts that encourages its employees to use 20% of their time for personal interests.
 

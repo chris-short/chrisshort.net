@@ -1,20 +1,21 @@
-+++
-author = "Chris Short"
-date = 2004-03-27
-description = "Chris Short suffers from Long Thoracic Nerve Palsy with Winging of the Scapula"
-draft = true
-ShowTOC = false
-slug = "shoulder-update-20040327"
-tags = ["shoulder", "winged scapula"]
-title = "Shoulder Update 2004-03-27"
-aliases = [
-    "/shoulder-update-03-27-2004/",
-    "shoulder-update-03-27-2004",
-    "/shoulder-update-03/27/2004/",
-    "shoulder-update-03/27/2004"
-]
-
-+++
+---
+ShowTOC: false
+aliases:
+- /shoulder-update-03-27-2004/
+- shoulder-update-03-27-2004
+- /shoulder-update-03/27/2004/
+- shoulder-update-03/27/2004
+author: Chris Short
+date: "2004-03-27"
+description: Chris Short suffers from Long Thoracic Nerve Palsy with Winging of the
+  Scapula
+draft: true
+slug: shoulder-update-20040327
+tags:
+- shoulder
+- winged scapula
+title: Shoulder Update 2004-03-27
+---
 
 The cortizone shot worked for a good two weeks but it has all but worn off now.
 

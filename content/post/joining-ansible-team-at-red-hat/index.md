@@ -1,16 +1,21 @@
-+++
-author = "Chris Short"
-date = 2018-06-25
-description = "It is with great pleasure that I announce I am joining the Ansible team at Red Hat as Principal Product Marketing Manager."
-draft = false
-slug = "joining-ansible-team-at-red-hat"
-tags = ["red hat", "ansible", "linux", "devops", "usaf"]
-title = "Joining Ansible Team at Red Hat"
-[cover]
-image = "https://shortcdn.com/chrisshort/joining-ansible-team.png"
-imagecap = ""
-
-+++
+---
+author: Chris Short
+cover:
+  image: https://shortcdn.com/chrisshort/joining-ansible-team.png
+  imagecap: ""
+date: "2018-06-25"
+description: It is with great pleasure that I announce I am joining the Ansible team
+  at Red Hat as Principal Product Marketing Manager.
+draft: false
+slug: joining-ansible-team-at-red-hat
+tags:
+- red hat
+- ansible
+- linux
+- devops
+- usaf
+title: Joining Ansible Team at Red Hat
+---
 
 > tl;dr "It is with great pleasure that I announce I am joining the [Ansible](https://www.ansible.com/) team at [Red Hat](https://www.redhat.com/) as Principal Product Marketing Manager."
 

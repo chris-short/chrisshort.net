@@ -1,13 +1,19 @@
-+++
-author = "Chris Short"
-date = 2023-10-18
-description = "Burnout can happen at any point in everyone's career. But, what happens when burnout is taking place amongst other things?"
-draft = false
-slug = "devopsdays-detroit-2023-burnout-plus-plus"
-tags = ["talks", "speaking", "videos", "public speaking", "burnout"]
-title = "Burnout++ - DevOpsDays Detroit 2023"
-ShowTOC = false
-+++
+---
+ShowTOC: false
+author: Chris Short
+date: "2023-10-18"
+description: Burnout can happen at any point in everyone's career. But, what happens
+  when burnout is taking place amongst other things?
+draft: false
+slug: devopsdays-detroit-2023-burnout-plus-plus
+tags:
+- talks
+- speaking
+- videos
+- public speaking
+- burnout
+title: Burnout++ - DevOpsDays Detroit 2023
+---
 
 {{< carbon >}}
 

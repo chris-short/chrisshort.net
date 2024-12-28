@@ -1,15 +1,18 @@
-+++
-author = "Chris Short"
-date = 2019-09-10
-description = "Our voices generate so much knowledge yet transmit so little data. It's time respect the metadata we create around the 39 bits per second of our voices."
-draft = false
-ShowTOC = false
-tags = ["imposter syndrome", "metadata", "privacy"]
-title = "Your 39 bps matters more than you think"
-[cover]
-image = "https://shortcdn.com/chrisshort/sine-wave.jpg"
-
-+++
+---
+ShowTOC: false
+author: Chris Short
+cover:
+  image: https://shortcdn.com/chrisshort/sine-wave.jpg
+date: "2019-09-10"
+description: Our voices generate so much knowledge yet transmit so little data. It's
+  time respect the metadata we create around the 39 bits per second of our voices.
+draft: false
+tags:
+- imposter syndrome
+- metadata
+- privacy
+title: Your 39 bps matters more than you think
+---
 
 > A slightly shorter version of this article was featured in [DevOps'ish 144: Your 39 bps matters, happy little hybrid clouds, Kubernetes with a side of service mesh, HA SQLite, and more](https://devopsish.com/144/)
 

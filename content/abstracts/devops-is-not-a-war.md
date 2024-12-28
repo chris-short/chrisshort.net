@@ -1,19 +1,22 @@
-+++
-author = "Chris Short"
-date = 2018-03-02
-description = ""
-draft = false
-slug = "devops-is-not-war"
-tags = ["devops", "culture", "thucydides", "thucydides trap", "cfp"]
-title = "DevOps is Not War"
-aliases = [
-    "/cfp/devops-as-a-war-crime",
-    "/cfp/devops-is-not-a-war",
-    "cfp/devops-as-a-war-crime",
-    "cfp/devops-is-not-a-war"
-]
-
-+++
+---
+aliases:
+- /cfp/devops-as-a-war-crime
+- /cfp/devops-is-not-a-war
+- cfp/devops-as-a-war-crime
+- cfp/devops-is-not-a-war
+author: Chris Short
+date: "2018-03-02"
+description: ""
+draft: false
+slug: devops-is-not-war
+tags:
+- devops
+- culture
+- thucydides
+- thucydides trap
+- cfp
+title: DevOps is Not War
+---
 
 ## Abstract
 

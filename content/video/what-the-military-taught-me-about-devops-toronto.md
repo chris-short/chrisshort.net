@@ -1,13 +1,19 @@
-+++
-author = "Chris Short"
-date = 2018-05-30
-description = "History can help prevent conflict when driving change. This talk will analyze human tendencies, historical data, and provide real-world examples of how to avoid conflict during your DevOps journey."
-draft = false
-slug = "what-the-military-taught-me-about-devops-toronto"
-tags = ["talks", "speaking", "videos", "public speaking"]
-title = "What the Military Taught Me About DevOps - DevOpsDays Toronto 2018"
-ShowTOC = false
-+++
+---
+ShowTOC: false
+author: Chris Short
+date: "2018-05-30"
+description: History can help prevent conflict when driving change. This talk will
+  analyze human tendencies, historical data, and provide real-world examples of how
+  to avoid conflict during your DevOps journey.
+draft: false
+slug: what-the-military-taught-me-about-devops-toronto
+tags:
+- talks
+- speaking
+- videos
+- public speaking
+title: What the Military Taught Me About DevOps - DevOpsDays Toronto 2018
+---
 
 {{< carbon >}}
 

@@ -1,21 +1,23 @@
-+++
-author = "Chris Short"
-date = 2004-08-17
-description = "I finally did it. I bought a laptop before I headed out to California. Not so much for the trip to California but for another PC in the house and some more horsepower (a lot more horsepower)."
-draft = false
-ShowTOC = false
-slug = "my-hp-pavilion-zv5260us-laptop"
-tags = ["hardware", "laptop"]
-title = "My HP Pavilion zv5260us Laptop"
-aliases = [
-    "/archives/2004/08/chriss-new-hp-pavilion-zv5260us-laptop.php",
-    "/chriss-new-hp-pavilion-zv5260us-laptop/",
-    "/my-new-hp-pavilion-zv5260us-laptop/"
-]
-[cover]
-image = "https://shortcdn.com/chrisshort/hp-pavilion-zv5260us-01.jpg"
-
-+++
+---
+ShowTOC: false
+aliases:
+- /archives/2004/08/chriss-new-hp-pavilion-zv5260us-laptop.php
+- /chriss-new-hp-pavilion-zv5260us-laptop/
+- /my-new-hp-pavilion-zv5260us-laptop/
+author: Chris Short
+cover:
+  image: https://shortcdn.com/chrisshort/hp-pavilion-zv5260us-01.jpg
+date: "2004-08-17"
+description: I finally did it. I bought a laptop before I headed out to California.
+  Not so much for the trip to California but for another PC in the house and some
+  more horsepower (a lot more horsepower).
+draft: false
+slug: my-hp-pavilion-zv5260us-laptop
+tags:
+- hardware
+- laptop
+title: My HP Pavilion zv5260us Laptop
+---
 
 I finally did it. I bought a laptop before I headed out to California. Not so much for the trip to California but for another PC in the house and some more horsepower (a lot more horsepower). I'm not a gamer but I can always use a powerful processor.
 

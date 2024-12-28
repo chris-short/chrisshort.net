@@ -1,13 +1,18 @@
-+++
-author = "Chris Short"
-date = 2020-06-24
-description = "Lesson Learned From Cloud Migrations: Planning is Everything"
-draft = false
-slug = "cloud-migrations-jfrog-swampup-2020"
-tags = ["talks", "speaking", "videos", "public speaking"]
-title = "Lesson Learned From Cloud Migrations: Planning is Everything — JFrog SwampUP 2020"
-ShowTOC = false
-+++
+---
+ShowTOC: false
+author: Chris Short
+date: "2020-06-24"
+description: 'Lesson Learned From Cloud Migrations: Planning is Everything'
+draft: false
+slug: cloud-migrations-jfrog-swampup-2020
+tags:
+- talks
+- speaking
+- videos
+- public speaking
+title: 'Lesson Learned From Cloud Migrations: Planning is Everything — JFrog SwampUP
+  2020'
+---
 
 {{< carbon >}}
 

@@ -1,14 +1,16 @@
-+++
-author = "Chris Short"
-date = 2004-06-25
-description = "Chris Short suffers from Long Thoracic Nerve Palsy with Winging of the Scapula"
-draft = true
-ShowTOC = false
-slug = "shoulder-update-20040625"
-tags = ["shoulder", "winged scapula"]
-title = "Shoulder Update 2004-06-25"
-
-+++
+---
+ShowTOC: false
+author: Chris Short
+date: "2004-06-25"
+description: Chris Short suffers from Long Thoracic Nerve Palsy with Winging of the
+  Scapula
+draft: true
+slug: shoulder-update-20040625
+tags:
+- shoulder
+- winged scapula
+title: Shoulder Update 2004-06-25
+---
 
 The Electromyography (EMG) and Nerve Conduction Study yesterday was a somewhat painful experience but it proved that I don't have any permanent nerve damage.
 

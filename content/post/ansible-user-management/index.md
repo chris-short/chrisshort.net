@@ -1,17 +1,20 @@
-+++
-
-author = "Chris Short"
-date = 2016-09-27
-description = "Puppet was too cumbersome for simple user management. Ansible came in to save the day in less than half an hour."
-ShowToc = false
-draft = false
-image = "https://shortcdn.com/chrisshort/ansible_circleA_blue.png"
-slug = "ansible-user-management"
-tags = ["ansible", "DevOps", "users"]
-title = "User Management with Ansible"
-aliases = ["ansible-user-management"]
-
-+++
+---
+ShowToc: false
+aliases:
+- ansible-user-management
+author: Chris Short
+date: "2016-09-27"
+description: Puppet was too cumbersome for simple user management. Ansible came in
+  to save the day in less than half an hour.
+draft: false
+image: https://shortcdn.com/chrisshort/ansible_circleA_blue.png
+slug: ansible-user-management
+tags:
+- ansible
+- DevOps
+- users
+title: User Management with Ansible
+---
 
 {{< carbon >}}
 

@@ -1,14 +1,15 @@
-+++
-author = "Chris Short"
-date = 2016-12-02
-description = ""
-draft = false
-ShowTOC = false
-slug = "triangle-devops-what-the-military-taught-me-about-devops"
-tags = ["DevOps", "talks"]
-title = "Triangle DevOps: What The Military Taught Me About DevOps"
-
-+++
+---
+ShowTOC: false
+author: Chris Short
+date: "2016-12-02"
+description: ""
+draft: false
+slug: triangle-devops-what-the-military-taught-me-about-devops
+tags:
+- DevOps
+- talks
+title: 'Triangle DevOps: What The Military Taught Me About DevOps'
+---
 
 I had the opportunity to present [What The Military Taught Me About DevOps](/what-the-military-taught-me-about-devops/) at the [Triangle DevOps Meetup](https://www.meetup.com/Triangle-DevOps/events/235751024/) last night. It was a fantastic group of people and I fielded a lot of great feedback after speaking.
 

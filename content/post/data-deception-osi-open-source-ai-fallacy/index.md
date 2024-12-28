@@ -1,18 +1,28 @@
-+++
-
-author = "Chris Short"
-date = 2024-07-23
-description = "The OSI's draft Open Source AI Definition could harm open source by allowing non-reproducible data, enabling openwashing, and threatening transparency."
-slug = "data-deception-osi-open-source-ai-fallacy"
-tags = ["Open Source", "Data", "Artificial Intelligence", "OSI", "Open Source Initiative", "AI", "OSAID", "openwashing", "proprietary"]
-ShowTOC = true
-title = "Data Deception: OSI's Open Source AI Fallacy"
-[cover]
-image = "https://shortcdn.com/chrisshort/AI-drawing-AI.webp"
-alt = "I prompted Stable Diffusion (Generative AI model) to draw itself. It drew something that's a cross between a robot and an electronic toy you'd give a five-year-old."
-caption = "Prompting Stable Diffusion to draw itself. Graphic created by Generative AI."
-
-+++
+---
+ShowTOC: true
+author: Chris Short
+cover:
+  alt: I prompted Stable Diffusion (Generative AI model) to draw itself. It drew something
+    that's a cross between a robot and an electronic toy you'd give a five-year-old.
+  caption: Prompting Stable Diffusion to draw itself. Graphic created by Generative
+    AI.
+  image: https://shortcdn.com/chrisshort/AI-drawing-AI.webp
+date: "2024-07-23"
+description: The OSI's draft Open Source AI Definition could harm open source by allowing
+  non-reproducible data, enabling openwashing, and threatening transparency.
+slug: data-deception-osi-open-source-ai-fallacy
+tags:
+- Open Source
+- Data
+- Artificial Intelligence
+- OSI
+- Open Source Initiative
+- AI
+- OSAID
+- openwashing
+- proprietary
+title: 'Data Deception: OSI''s Open Source AI Fallacy'
+---
 
 {{< carbon >}}
 

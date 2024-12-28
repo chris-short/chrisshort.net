@@ -1,13 +1,12 @@
-+++
-
-author = "Chris Short"
-date = 2017-11-30
-description = "Books Chris Short has Contributed To or Written"
-draft = false
-title = "Books"
-tags = ["books"]
-
-+++
+---
+author: Chris Short
+date: "2017-11-30"
+description: Books Chris Short has Contributed To or Written
+draft: false
+tags:
+- books
+title: Books
+---
 
 > If you'd like to talk to me about writing for your upcoming project please reach out via the [Contact](/contact/) page. Thank you!
 

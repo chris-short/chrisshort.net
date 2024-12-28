@@ -1,16 +1,22 @@
-+++
-author = "Chris Short"
-date = 2018-04-16
-description = ""
-draft = false
-ShowTOC = false
-slug = "microsoft-has-come-a-long-way"
-tags = ["open source", "Microsoft", "Windows", "linux", "Commodore 64", "security", "nmap"]
-title = "Microsoft Has Come a Long Way"
-[cover]
-image = "https://shortcdn.com/chrisshort/romel-velasco-561901-unsplash.jpg"
-
-+++
+---
+ShowTOC: false
+author: Chris Short
+cover:
+  image: https://shortcdn.com/chrisshort/romel-velasco-561901-unsplash.jpg
+date: "2018-04-16"
+description: ""
+draft: false
+slug: microsoft-has-come-a-long-way
+tags:
+- open source
+- Microsoft
+- Windows
+- linux
+- Commodore 64
+- security
+- nmap
+title: Microsoft Has Come a Long Way
+---
 
 Microsoft has come a very long way in its fight back into the graces of all technologists. There will be some die hards that will never forgive Microsoft for what it attempted to do to open source software. Like there will be some die hards that won't embrace PowerShell, WSL, and future Microsoft improvements. But, there is no denying that Microsoft has changed as a company in a way that is beneficial to the open source community and beyond. I'd like to share my personal Microsoft journey thus far.
 

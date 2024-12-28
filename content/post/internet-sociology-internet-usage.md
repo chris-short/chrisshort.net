@@ -1,14 +1,16 @@
-+++
-author = "Chris Short"
-date = 2003-03-20
-description = "Everyone has their own personality, patterns, tendencies and so forth, this also holds true for Internet usage"
-draft = false
-ShowTOC = false
-slug = "internet-sociology-internet-usage"
-tags = ["internet", "users"]
-title = "Internet Sociology and Internet Usage"
-
-+++
+---
+ShowTOC: false
+author: Chris Short
+date: "2003-03-20"
+description: Everyone has their own personality, patterns, tendencies and so forth,
+  this also holds true for Internet usage
+draft: false
+slug: internet-sociology-internet-usage
+tags:
+- internet
+- users
+title: Internet Sociology and Internet Usage
+---
 
 For many years now I've had the belief that Internet sociology exists. The belief came to light during my tenure as the webmaster for SanTech Computer Services. Everyone has their own personality, patterns, tendencies and so forth, this also holds true for Internet usage. Everyone uses the Internet differently. For some, their Internet use revolves around their life. For others, their life revolves around their Internet use. Then for a very small percentage of Internet users, their life and their Internet use form a somewhat symbiotic relationship where the individual has actually gotten to the point of incorporating a lifestyle that includes Internet usage to improve upon that lifestyle. The Internet itself also has its own patterns. These patterns are more noticeable on a local level but global patterns can be identified as well.
 

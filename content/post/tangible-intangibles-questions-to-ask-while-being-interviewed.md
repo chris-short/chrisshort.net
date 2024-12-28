@@ -1,13 +1,19 @@
-+++
-author = "Chris Short"
-date = 2016-05-10
-description = ""
-draft = false
-slug = "tangible-intangibles-questions-to-ask-while-being-interviewed"
-tags = ["interview", "mac os x", "windows 10", "linux", "e-mail", "environment", "macos"]
-title = "Tangible Intangibles: Questions to Ask While Being Interviewed"
-
-+++
+---
+author: Chris Short
+date: "2016-05-10"
+description: ""
+draft: false
+slug: tangible-intangibles-questions-to-ask-while-being-interviewed
+tags:
+- interview
+- mac os x
+- windows 10
+- linux
+- e-mail
+- environment
+- macos
+title: 'Tangible Intangibles: Questions to Ask While Being Interviewed'
+---
 
 A few weeks ago a co-worker and I were discussing some things we really enjoyed about our work environment. It reminded me of a few key questions I ask (or things that I look for) during an interview that typically indicate whether or not a job is going to be a good fit or not.
 

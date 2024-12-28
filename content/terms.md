@@ -1,15 +1,13 @@
-+++
-author = "Chris Short"
-date = 2018-11-01
-description = "Terms of Service"
-draft = false
-slug = "terms"
-title = "Terms of Service"
-aliases = [
-    "disclaimer"
-]
-
-+++
+---
+aliases:
+- disclaimer
+author: Chris Short
+date: "2018-11-01"
+description: Terms of Service
+draft: false
+slug: terms
+title: Terms of Service
+---
 
 {{< boring >}}
 

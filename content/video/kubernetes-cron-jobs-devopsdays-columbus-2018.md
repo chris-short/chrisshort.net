@@ -1,13 +1,17 @@
-+++
-author = "Chris Short"
-date = 2019-10-23
-description = "In this talk, we discuss Kubernetes' killer feature: Cron Jobs"
-draft = false
-slug = "kubernetes-cron-jobs-devopsdays-columbus-2018"
-tags = ["talks", "speaking", "videos", "public speaking"]
-title = "Kubernetes Cron Jobs: Dreams Really Do Come True — DevOpsDays Columbus 2018"
-ShowTOC = false
-+++
+---
+ShowTOC: false
+author: Chris Short
+date: "2019-10-23"
+description: 'In this talk, we discuss Kubernetes'' killer feature: Cron Jobs'
+draft: false
+slug: kubernetes-cron-jobs-devopsdays-columbus-2018
+tags:
+- talks
+- speaking
+- videos
+- public speaking
+title: 'Kubernetes Cron Jobs: Dreams Really Do Come True — DevOpsDays Columbus 2018'
+---
 
 {{< carbon >}}
 

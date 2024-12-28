@@ -1,16 +1,21 @@
-+++
-author = "Chris Short"
-date = 2012-01-07
-description = ""
-draft = false
-ShowTOC = false
-slug = "why-i-dumped-spotify-premium"
-tags = ["Spotify", "streaming music service", "music", "library", "playlists", "iTunes Match"]
-title = "Why I Dumped Spotify Premium"
-[cover]
-image = "https://shortcdn.com/chrisshort/spotify.png"
-
-+++
+---
+ShowTOC: false
+author: Chris Short
+cover:
+  image: https://shortcdn.com/chrisshort/spotify.png
+date: "2012-01-07"
+description: ""
+draft: false
+slug: why-i-dumped-spotify-premium
+tags:
+- Spotify
+- streaming music service
+- music
+- library
+- playlists
+- iTunes Match
+title: Why I Dumped Spotify Premium
+---
 
 {{< carbon >}}
 

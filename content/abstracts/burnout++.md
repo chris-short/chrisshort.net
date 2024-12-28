@@ -1,15 +1,18 @@
-+++
-author = "Chris Short"
-date = 2023-04-10
-description = "Recognizing and Managing Burnout; What Happens When Burnout Occurs with Other Problems"
-draft = false
-slug = "burnout++"
-tags = ["burnout", "mental health", "self care"]
-title = "burnout++"
-aliases = [
-    "/cfp/burnout++/"
-]
-+++
+---
+aliases:
+- /cfp/burnout++/
+author: Chris Short
+date: "2023-04-10"
+description: Recognizing and Managing Burnout; What Happens When Burnout Occurs with
+  Other Problems
+draft: false
+slug: burnout++
+tags:
+- burnout
+- mental health
+- self care
+title: burnout++
+---
 
 ![burnout++ title slide featuring the name on the left and a roaring fire on the right](https://shortcdn.com/chrisshort/burnout++.webp)
 

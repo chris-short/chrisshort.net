@@ -1,14 +1,24 @@
-+++
-author = "Chris Short"
-date = 2003-06-08
-description = "The Internet, web sites, web surfers, web developers, and search engine optimizers and promoters should all be focused on creating good content that benefits everyone."
-draft = false
-ShowToc = false
-slug = "content-is-king"
-tags = ["internet", "search engine optimization", "SEO", "content", "marketing", "search engines", "keywords", "developers", "webmasters"]
-title = "Content is King"
-
-+++
+---
+ShowToc: false
+author: Chris Short
+date: "2003-06-08"
+description: The Internet, web sites, web surfers, web developers, and search engine
+  optimizers and promoters should all be focused on creating good content that benefits
+  everyone.
+draft: false
+slug: content-is-king
+tags:
+- internet
+- search engine optimization
+- SEO
+- content
+- marketing
+- search engines
+- keywords
+- developers
+- webmasters
+title: Content is King
+---
 
 Let's face it, information rules the Information Superhighway we call the Internet. If it weren't for worthwhile information, formulated opinions, and reviews the Internet would not be as popular as it is today. For all intents and purposes in terms of web site design, search engine optimization, and search engine promotion, information is the equivalent to content. There is good content and then there is bad content. Bad content, in my opinion, is content that serves no purpose, has no goal, and doesn't inform anyone reading it about any general or specific topic. Bad content exists to entice search engines to produce results that favor the web site that contains the bad content as opposed to enticing web surfers to read the content. Good content serves a purpose, has a goal, and is worth the time it takes to read it. The Internet, web sites, web surfers, web developers, and search engine optimizers and promoters should all be focused on creating good content that benefits everyone.
 

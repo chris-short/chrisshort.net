@@ -1,20 +1,20 @@
-+++
-author = "Chris Short"
-date = 2004-12-17
-description = "Firefox has taken out a two-page ad in the New York Times! According to Firefox this is the, 'largest open source fundraising campaign in history'"
-draft = false
-ShowTOC = false
-slug = "firefox-hits-the-ny-times"
-tags = ["firefox"]
-title = "Firefox Hits the NY Times"
-aliases = [
-    "/firefox-finally-hits-the-ny-times/",
-    "/archives/2004/10/firefox-gets-ready-for-ad-splash.php"
-]
-[cover]
-image = "https://shortcdn.com/chrisshort/nyt_ad_2004.png"
-
-+++
+---
+ShowTOC: false
+aliases:
+- /firefox-finally-hits-the-ny-times/
+- /archives/2004/10/firefox-gets-ready-for-ad-splash.php
+author: Chris Short
+cover:
+  image: https://shortcdn.com/chrisshort/nyt_ad_2004.png
+date: "2004-12-17"
+description: Firefox has taken out a two-page ad in the New York Times! According
+  to Firefox this is the, 'largest open source fundraising campaign in history'
+draft: false
+slug: firefox-hits-the-ny-times
+tags:
+- firefox
+title: Firefox Hits the NY Times
+---
 
 Firefox has taken out a two-page ad in the New York Times! According to Firefox this is the, "largest open source fundraising campaign in history" and, "these folks were willing to put their name out there and be the first to publicly support Firefox and our community at a scale never before attempted in open source history."
 

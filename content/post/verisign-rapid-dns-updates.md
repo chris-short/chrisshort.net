@@ -1,20 +1,20 @@
-+++
-author = "Chris Short"
-date = 2004-11-06
-description = "Verisign switches to near real-time DNS updates on September 8, 2004"
-draft = false
-ShowTOC = false
-slug = "verisign-rapid-dns-updates"
-tags = ["internet", "DNS"]
-title = "VeriSign's rapid DNS updates in .com and .net"
-aliases = [
-    "/archives/2004/07/verisigns-rapid-dns-updates-in-com/net.php",
-    "/verisigns-rapid-dns-updates-in-.com/.net/",
-    "verisigns-rapid-dns-updates-in-com/net.php",
-    "verisign-rapid-DNS-updates"
-]
-
-+++
+---
+ShowTOC: false
+aliases:
+- /archives/2004/07/verisigns-rapid-dns-updates-in-com/net.php
+- /verisigns-rapid-dns-updates-in-.com/.net/
+- verisigns-rapid-dns-updates-in-com/net.php
+- verisign-rapid-DNS-updates
+author: Chris Short
+date: "2004-11-06"
+description: Verisign switches to near real-time DNS updates on September 8, 2004
+draft: false
+slug: verisign-rapid-dns-updates
+tags:
+- internet
+- DNS
+title: VeriSign's rapid DNS updates in .com and .net
+---
 
 [SlashDot is running a story saying that the twice a day DNS updates of .com and .net domains will cease to exist](https://slashdot.org/story/04/07/11/1741225/verisign-speeds-up-dns-updates); VeriSign Naming and Directory Services will be switching to a near real-time system on September 8, 2004.
 

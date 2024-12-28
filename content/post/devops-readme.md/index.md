@@ -1,15 +1,25 @@
-+++
-author = "Chris Short"
-date = 2017-09-27
-description = "A curated list of things to read to level up your DevOps skills and knowledge."
-draft = false
-slug = "devops-readme.md"
-tags = ["DevOps", "book", "culture", "cloud native", "pros", "cons", "culture", "Site Reliability Engineering", "SRE"]
-title = "DevOps README.md"
-image = ["https://shortcdn.com/chrisshort/devopsdays-raleigh-2017-cropped.jpg"]
-caption = "Photo from [Magnus Hedemark](https://twitter.com/Magnus919/status/1453161676841357326)"
-showTOC = false
-+++
+---
+author: Chris Short
+caption: Photo from [Magnus Hedemark](https://twitter.com/Magnus919/status/1453161676841357326)
+date: "2017-09-27"
+description: A curated list of things to read to level up your DevOps skills and knowledge.
+draft: false
+image:
+- https://shortcdn.com/chrisshort/devopsdays-raleigh-2017-cropped.jpg
+showTOC: false
+slug: devops-readme.md
+tags:
+- DevOps
+- book
+- culture
+- cloud native
+- pros
+- cons
+- culture
+- Site Reliability Engineering
+- SRE
+title: DevOps README.md
+---
 
 {{< carbon >}}
 

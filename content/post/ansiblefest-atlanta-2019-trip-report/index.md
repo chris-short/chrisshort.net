@@ -1,13 +1,20 @@
-+++
-author = "Chris Short"
-date = 2019-10-14
-description = "The Ansible team made the Atlanta Hilton into a living and breathing Ansible experience. From the lobby as attendees walked into the hotel to the Open Lounge."
-draft = false
-tags = ["Ansible", "AnsibleFest", "automation", "Kubernetes", "operators", "Red Hat"]
-title = "AnsibleFest Atlanta 2019 Trip Report"
-image = "https://shortcdn.com/chrisshort/AnsibleFest-2019.png"
-
-+++
+---
+author: Chris Short
+date: "2019-10-14"
+description: The Ansible team made the Atlanta Hilton into a living and breathing
+  Ansible experience. From the lobby as attendees walked into the hotel to the Open
+  Lounge.
+draft: false
+image: https://shortcdn.com/chrisshort/AnsibleFest-2019.png
+tags:
+- Ansible
+- AnsibleFest
+- automation
+- Kubernetes
+- operators
+- Red Hat
+title: AnsibleFest Atlanta 2019 Trip Report
+---
 
 Background: I started using Ansible in 2014 at a datacenter company. I implemented Ansible to deploy our customer portal, which contained hundreds of war files, load balancer changes, database schema changes, etc. I've used Ansible at every position since. I joined Red Hat as part of the Ansible team in [June 2018](/joining-ansible-team-at-red-hat/). I moved over to the OpenShift team in [June 2019](/joining-forces-with-openshift/). I'm a long time Ansible user, advocate, and fan. I work for Red Hat, [these views and opinions are solely](/terms/) though.
 
