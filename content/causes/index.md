@@ -10,12 +10,6 @@ title: Causes
 
 There are many causes worth supporting out there. It's important that you help out organizations doing good in the world. Here is a list of causes I support or no longer support for various reasons:
 
-## Open Source Initiative
-
-Website: [Open Source Initiative](https://opensource.org/)
-
-> We are the stewards of the Open Source Definition (OSD) and the community-recognized body for reviewing and approving licenses as OSD-conformant.
-
 ## Software Freedom Conservancy
 
 Website: [Software Freedom Conservancy](https://sfconservancy.org/)
@@ -96,6 +90,10 @@ Website: [The Cloudcast](http://www.thecloudcast.net/)
 > Since 2013, our community has raised over $27,000 to help the UNC Children's Hospital. We hope to continue that tradition in a big way again this year. Every little bit helps! Please join us through a donation, or come run the race with us!
 
 ## Previously Supported Charities (bad ones)
+
+### Open Source Initiative
+
+The treatment of people with opposing views on what [the definition of Open Source AI](/data-deception-osis-open-source-ai-fallacy/) is was MORE than enough to stop sending money to OSI. I appreciate their work on licenses but, the leadership are monsters.
 
 ### Free Software Foundation
 
