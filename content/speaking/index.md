@@ -187,7 +187,7 @@ Event: [DevOpsDays Columbus 2018](https://www.devopsdays.org/events/2018-columbu
 
 ### Grand Rapids RHUG - Using Ansible for DevOps
 
-Date: 0219-09-12  
+Date: 2019-09-12  
 Event: [Grand Rapids RHUG Ansible, DevOps, and more!](https://www.meetup.com/Grand-Rapids-RHUG/events/253614873/)  
 Slides: [Using Ansible for DevOps](https://speakerdeck.com/chrisshort/using-ansible-for-devops)
 
