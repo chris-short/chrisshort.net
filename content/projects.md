@@ -14,7 +14,7 @@ Like anyone who has worked on the web long enough, I have a lot of side projects
 
 ## DevOps'ish (on hiatus)
 
-No longer in production due to health issues.
+No longer in production.
 
 *Cloud Native, DevOps, GitOps, Open Source, industry news, culture, and the ‘ish between.*
 
