@@ -18,7 +18,6 @@ title: Low Cost Content Delivery Network (CDN)
 
 A content delivery network (CDN) provides a service that enables public facing, web based responsive access to said resources in an effort to maintain a good user experience across the planet. A CDN provides a localized cache (copy) of your web site and its content closer to end users. CDNs leverage local data centers closer to end users and a little DNS magic to make this work. CDNs help their customers have a significantly smaller infrastructure footprint while maintaining fast load time for services provided. In theory, a CDN allows for web based resources hosted in Miami to be as responsive for the folks in Miami as it would be for the folks in Anchorage, Bangkok, Charlotte, Dallas, Edinburgh, Frankfurt, Glasgow, Helsinki, Instanbul... You get the idea.
 
-
 The problem with CDNs is that they are not cheap to build thus are not cheap to utilize. High speed, blended provider connectivity to data centers across the globe is an expensive venture. As is maintaining the servers, network infrastructure, facilities, etc. to provide a local copy of your favorite cat video. For anyone that has ever had issues scaling a reverse proxy service, think of a CDN as a planetary distributed reverse proxy for all of humanity to utilize. When thought of in those terms it is easy to understand why CDNs cost so much to use.
 
 Enter [CloudFlare](https://www.cloudflare.com/); a lower-cost content delivery network for the masses. CloudFlare's objective is, "[helping power and protect the entire Internet.](https://www.cloudflare.com/overview/)" The free tier of CloudFlare will be utilized in our low cost content delivery network.
@@ -47,7 +46,7 @@ This is an optional but exceedingly helpful step. You can make every object you 
 
 * Copy and paste the policy below and click **Save** (make sure to change YOUR\_BUCKET\_NAME to your bucket's actual name (the URL for your CDN)
 
-{{< highlight json >}}
+```json
 {
   "Version":"2012-10-17",
   "Statement":[

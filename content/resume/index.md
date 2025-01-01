@@ -8,14 +8,14 @@ date: "2019-08-18"
 description: Résumé of a 20+ year veteran of Information Technology and
   DevOps and current Developer Advocacy professional.
 tags:
-- Résumé
+- résumé
 - cv
 - Work experience
 - Work history
 title: Résumé
 ---
 
-[PDF version of Résumé](Chris-Short-Resume.pdf) | [Google Docs version of Résumé](https://bit.ly/cbshort-resume)
+[PDF version of Résumé](Chris-Short-Resume.pdf) | [Google Docs version of Résumé](https://docs.google.com/document/d/1rvWbgE6s-_paVDO_4chyPMz1B8ZBamE9BZEk6WdwR5o/edit?usp=sharing)
 
 # Chris Short
 
