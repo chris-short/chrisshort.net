@@ -48,12 +48,14 @@ params:
     iconHeight: 48
     iconWidth: 48
   mainSections:
+    -about
     - abstracts
     - blog
     - drawings
     - interviews
     - microblog
     - projects
+    - speaking
   profileMode:
     buttons:
       - name: About
