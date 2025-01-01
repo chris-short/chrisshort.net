@@ -48,7 +48,7 @@ params:
     iconHeight: 48
     iconWidth: 48
   mainSections:
-    -about
+    - about
     - abstracts
     - blog
     - drawings
