@@ -1,6 +1,7 @@
 ---
 aliases:
 - /center-for-purposeful-living
+- /cult
 - /cults
 - /foundation-for-purposeful-living
 - /foundation-for-purposeful-living/a-brief-history-of-center-for-purposeful-living-by-john-david-short
@@ -8,7 +9,7 @@ aliases:
 - /post/119631260/center-for-purposeful-living
 - /the-cult
 author: Chris Short
-date: "2005-07-08"
+date: "2005-10-03"
 lastmod: "2025-01-01"
 description: Allied Wisdom Foundation, Human Service Alliance, Center for Purposeful Living, Foundation for Purposeful Living, or whatever they're calling themselves this year is undeniably a cult.
 tags:
@@ -21,11 +22,12 @@ tags:
 - University for Human Goodness
 - Derwyn Lackey
 - Lee W Kosub
-slug: the-cult
 title: The cult I was forced to join as child
 ---
 
-**Note:** This cult keeps changing its branding, naming, and other public-facing names due to my work here. As a result, any time I poke this content, I update it with whatever I can find. Feel free to [Contact Me](/contact/) if you'd like to share your stories or help me update this page confidentially.
+## Note
+
+This cult keeps changing its branding, naming, and other public-facing names due to my work here. As a result, any time I poke this content, I update it with whatever I can find. Feel free to [Contact Me](/contact/) if you'd like to share your stories or help me update this page confidentially.
 
 ## Introduction
 
@@ -41,7 +43,7 @@ What followed is six articles (one later removed for personal reasons) that laid
 
 ## The cult with many names
 
-As many already know, there is a cult in ~~Winston-Salem~~ Mocksville, North Carolina, that has been deceiving people and ruining families for dozens of years called ~~Human Service Alliance~~ ~~Center for Purposeful Living~~ ~~Foundation for Purposeful Living~~ **Allied Wisdom Foundation**. 
+As many already know, there is a cult in ~~Winston-Salem~~ Mocksville, North Carolina, that has been deceiving people and ruining families for dozens of years called ~~Human Service Alliance~~ ~~Center for Purposeful Living~~ ~~Foundation for Purposeful Living~~ **Allied Wisdom Foundation**.
 
 Regardless of whatever they've changed their name to, this cult has done irreparable harm to several families and numerous people across the globe. In 2005, I started a series of articles that detailed the acts of those at Allied Wisdom Foundation.
 
@@ -49,4 +51,4 @@ I welcome anyone willing to share their stories to contact me so that I may shar
 
 ## The latest
 
-As of 2025-01-01, I know my mother lives/lived at Sugar Valley Airport in Davie County, North Carolina. One of my step-sisters, Lee W. Kosub, played in the [Civil Air Patrol based there](https://sugarvalley.cap.gov/). Lee W. Kosub is now the signatory on the cult's financial statements.
+As of 2025-01-01, I know my mother lives/lived at Sugar Valley Airport in Davie County, North Carolina. One of my step-sisters, Lee W. Kosub, played in the [Civil Air Patrol](https://sugarvalley.cap.gov/) based there. Lee W. Kosub is a signatory on the cult's recent financial statements.
