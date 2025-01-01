@@ -25,4 +25,3 @@ Blog Post: [DevOpsDays Toronto 2018: What the Military Taught Me About DevOps](/
 Source: [Chris Short - What the Military Taught Me about DevOps](https://youtu.be/TIE1rKkJWyY)
 
 {{< speaker >}}
-
