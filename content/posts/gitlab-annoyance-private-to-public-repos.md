@@ -5,7 +5,6 @@ cover:
   image: https://shortcdn.com/chrisshort/gitlab-logo.png
 date: "2017-01-23"
 description: ""
-draft: false
 tags:
 - gitlab
 - git

@@ -4,7 +4,6 @@ cover:
   image: https://shortcdn.com/chrisshort/hexley-darwin-vs-heckert-gnu.png
 date: "2016-06-01"
 description: ""
-draft: false
 tags:
 - sed
 - gnu

@@ -6,7 +6,6 @@ cover:
 date: "2017-12-02"
 description: After fifty-two weeks of uninterrupted DevOps newsletters, I have some
   things to share about the experience.
-draft: false
 tags:
 - DevOps
 title: 'Notes on Running a Newsletter: A Year of DevOps''ish'

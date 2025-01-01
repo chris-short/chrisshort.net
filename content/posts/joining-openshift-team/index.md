@@ -5,7 +5,6 @@ cover:
 date: "2019-08-18"
 description: This Monday (2019-08-19) will be my first day as Principal Technical
   Marketing Manager on the Cloud Platforms team at Red Hat
-draft: false
 tags:
 - OpenShift
 - Red Hat

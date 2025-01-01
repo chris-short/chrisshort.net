@@ -6,7 +6,6 @@ cover:
   image: https://shortcdn.com/chrisshort/seo-checklist.jpg
 date: "2005-01-05"
 description: A simple, yet powerful search engine optimization (SEO) checklist
-draft: false
 tags:
 - search engine
 - search engine optimization

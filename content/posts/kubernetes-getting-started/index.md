@@ -5,7 +5,6 @@ cover:
 date: "2017-11-30"
 description: How do you get started with 'an open-source system for automating deployment,
   scaling, and management of containerized applications'?
-draft: false
 tags:
 - DevOps
 - kubernetes

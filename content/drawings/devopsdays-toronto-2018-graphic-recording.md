@@ -2,7 +2,6 @@
 author: Chris Short
 date: "2018-06-11"
 description: ""
-draft: false
 tags:
 - drawing
 - devops

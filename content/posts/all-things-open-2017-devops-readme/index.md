@@ -6,7 +6,6 @@ cover:
   image: https://shortcdn.com/chrisshort/chris-short-all-things-open-devops-readme.jpg
 date: "2017-10-27"
 description: A curated list of things to read to level up your DevOps skills and knowledge.
-draft: false
 tags:
 - DevOps
 - books

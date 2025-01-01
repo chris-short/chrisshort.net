@@ -5,7 +5,6 @@ cover:
   image: https://shortcdn.com/chrisshort/lp_blog.png
 date: "2015-10-09"
 description: ""
-draft: false
 tags:
 - lastpass
 - logmein

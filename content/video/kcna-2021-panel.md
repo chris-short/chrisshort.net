@@ -5,7 +5,6 @@ date: "2021-10-23"
 description: 'Panel Discussion: Marketing as Code: How to Rock Out with Non-Code Contributions
   - Bart Farrell, Data on Kubernetes Community; Kunal Kushwaha, Civo; Kaslin Fields,
   Google; Matt Broberg, Red Hat; Chris Short, Red Hat'
-draft: false
 tags:
 - talks
 - speaking

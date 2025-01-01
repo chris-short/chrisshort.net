@@ -2,7 +2,6 @@
 author: Chris Short
 date: "2021-01-06"
 description: ""
-draft: false
 tags:
 - security
 - cloud native

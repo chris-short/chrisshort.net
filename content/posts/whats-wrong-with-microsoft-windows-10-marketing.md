@@ -7,7 +7,6 @@ cover:
   image: https://shortcdn.com/chrisshort/win10_ad.jpg
 date: "2015-10-06"
 description: ""
-draft: false
 tags:
 - microsoft
 - windows 10

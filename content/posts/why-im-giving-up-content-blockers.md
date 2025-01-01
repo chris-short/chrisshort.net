@@ -5,7 +5,6 @@ cover:
   image: https://shortcdn.com/chrisshort/content-blocker.png
 date: "2017-02-09"
 description: ""
-draft: false
 tags:
 - content blockers
 title: Why I'm Giving Up Content Blockers

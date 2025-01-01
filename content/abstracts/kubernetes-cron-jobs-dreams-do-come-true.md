@@ -4,7 +4,6 @@ aliases:
 author: Chris Short
 date: "2018-03-01"
 description: ""
-draft: false
 tags:
 - devops
 - kubernetes

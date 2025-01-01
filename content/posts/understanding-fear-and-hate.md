@@ -5,7 +5,6 @@ cover:
   image: https://shortcdn.com/chrisshort/lgbt-usa-map.png
 date: "2016-06-21"
 description: ""
-draft: false
 tags:
 - hate
 - fear

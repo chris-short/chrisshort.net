@@ -2,7 +2,6 @@
 author: Chris Short
 date: "2017-07-22"
 description: ""
-draft: false
 tags:
 - Go
 - golang

@@ -5,7 +5,6 @@ aliases:
 author: Chris Short
 date: "2013-09-19"
 description: ""
-draft: false
 tags:
 - tim tebow
 - florida gators

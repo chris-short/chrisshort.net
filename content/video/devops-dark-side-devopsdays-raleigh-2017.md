@@ -3,7 +3,6 @@ ShowTOC: false
 author: Chris Short
 date: "2017-09-08"
 description: The Dark Side of DevOps — DevOpsDays Raleigh 2017
-draft: false
 tags:
 - talks
 - speaking

@@ -2,7 +2,6 @@
 author: Chris Short
 date: "2021-05-20"
 description: ""
-draft: false
 tags: []
 title: Managing Disabilities at Large Conferences
 ---

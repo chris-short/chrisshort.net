@@ -4,7 +4,6 @@ aliases:
 author: Chris Short
 date: "2005-01-05"
 description: ""
-draft: false
 tags:
 - search
 - web

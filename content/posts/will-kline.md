@@ -3,7 +3,6 @@ ShowTOC: false
 author: Chris Short
 date: "2007-08-13"
 description: 'Will Kline: A Heartbeat That Stopped Too Soon'
-draft: false
 tags:
 - friends
 title: Will Kline

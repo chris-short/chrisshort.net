@@ -2,7 +2,6 @@
 author: Chris Short
 date: "2018-05-27"
 description: Drawings by Chris Short
-draft: false
 tags:
 - drawings
 title: Drawings

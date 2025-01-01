@@ -13,7 +13,6 @@ cover:
 date: "2022-07-02"
 description: 'I think I''ve discovered my development environment equivalent to nirvana:
   code-server, Caddy, Tailscale, and Hugo'
-draft: false
 tags:
 - code-server
 - Caddy

@@ -13,7 +13,6 @@ date: "2021-04-26"
 description: Jumping back into Search Engine Optimization because I felt forced to
   by Google Search Console after hours of troubleshooting why it was reporting HTTPS
   issues
-draft: false
 tags:
 - search
 - search engine

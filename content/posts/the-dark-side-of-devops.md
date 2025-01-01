@@ -5,7 +5,6 @@ cover:
   image: https://shortcdn.com/chrisshort/dagobah-cave.jpg
 date: "2017-03-10"
 description: ""
-draft: false
 tags:
 - DevOps
 title: The Dark Side of DevOps

@@ -4,7 +4,6 @@ aliases:
 author: Chris Short
 date: "2016-12-20"
 description: ""
-draft: false
 tags:
 - drawing
 - philosophy

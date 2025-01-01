@@ -7,7 +7,6 @@ cover:
 date: "2005-01-05"
 description: A list of search engine optimization best practices when embarking on
   building a web site optimized for search
-draft: false
 tags:
 - search
 - search engine

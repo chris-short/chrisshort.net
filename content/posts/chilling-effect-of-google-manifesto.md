@@ -3,7 +3,6 @@ ShowTOC: false
 author: Chris Short
 date: "2017-08-06"
 description: ""
-draft: false
 tags:
 - Google
 - diversity

@@ -5,7 +5,6 @@ cover:
   image: https://shortcdn.com/chrisshort/theopenorg_guidetoITculturechange_1_0_cover_final.png
 date: "2017-06-06"
 description: ""
-draft: false
 tags:
 - open source
 - culture

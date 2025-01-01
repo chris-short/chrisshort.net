@@ -5,7 +5,6 @@ date: "2021-05-07"
 description: 'KubeCon + CloudNativeCon EU 2021: How You Can Tell Your Kubernetes Contributor
   Story with These Tips - Matt Broberg & Chris Short, Red Hat; Kaslin Fields, Google;
   Peeyush Gupta, DigitalOcean'
-draft: false
 tags:
 - talks
 - speaking

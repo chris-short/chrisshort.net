@@ -4,7 +4,6 @@ aliases:
 author: Chris Short
 date: "2017-10-27"
 description: Causes Chris Short Supports
-draft: false
 title: Causes
 ---
 

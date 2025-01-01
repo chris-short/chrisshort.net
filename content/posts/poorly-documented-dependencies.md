@@ -5,7 +5,6 @@ cover:
   image: https://shortcdn.com/chrisshort/broken-heart.jpg
 date: "2016-05-23"
 description: ""
-draft: false
 tags:
 - ansible
 - new relic

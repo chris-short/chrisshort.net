@@ -7,7 +7,6 @@ cover:
   image: https://shortcdn.com/chrisshort/burnt_out.webp
 date: "2023-02-20"
 description: An update on how I'm doing after shuttering the DevOps'ish newsletter
-draft: false
 tags:
 - time
 - DevOps'ish

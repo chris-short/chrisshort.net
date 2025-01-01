@@ -5,7 +5,6 @@ cover:
   image: https://shortcdn.com/chrisshort/macbook.jpg
 date: "2016-06-08"
 description: ""
-draft: false
 tags:
 - mac os x
 - macos

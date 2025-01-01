@@ -6,7 +6,6 @@ cover:
 date: "2020-06-24"
 description: Sharing what it's like to be live streaming on OpenShift.tv and some
   lessons learned along the way
-draft: false
 tags:
 - live streaming
 - streaming

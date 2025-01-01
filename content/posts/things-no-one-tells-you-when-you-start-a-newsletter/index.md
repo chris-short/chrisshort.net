@@ -5,7 +5,6 @@ cover:
   image: https://shortcdn.com/chrisshort/reading-the-news.jpg
 date: "2020-03-24"
 description: ""
-draft: false
 tags:
 - newsletter
 - mail

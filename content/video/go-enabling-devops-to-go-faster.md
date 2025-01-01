@@ -3,7 +3,6 @@ ShowTOC: false
 author: Chris Short
 date: "2018-01-31"
 description: ""
-draft: false
 tags:
 - talks
 - speaking

@@ -6,7 +6,6 @@ cover:
   image: https://shortcdn.com/chrisshort/grief.jpg
 date: "2017-12-23"
 description: A culture of silence around miscarriage helps absolutely no one.
-draft: false
 tags:
 - life
 - miscarriage

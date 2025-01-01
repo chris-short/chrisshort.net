@@ -7,7 +7,6 @@ cover:
   image: https://shortcdn.com/chrisshort/chris-short-cyber-transport.jpg
 date: "2016-08-30"
 description: ""
-draft: false
 tags:
 - military
 - mission

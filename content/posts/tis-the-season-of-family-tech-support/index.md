@@ -6,7 +6,6 @@ cover:
 date: "2018-11-20"
 description: The time of year when everyone gets together with family or friends they
   haven't seen in forever and they get to ask those pressing tech support questions.
-draft: false
 tags:
 - life
 - hardware

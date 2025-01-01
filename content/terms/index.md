@@ -5,8 +5,8 @@ aliases:
 author: Chris Short
 date: "2018-11-01"
 description: Terms of Service
-draft: false
 title: Terms of Service
+searchHidden: true
 ---
 
 {{< boring >}}

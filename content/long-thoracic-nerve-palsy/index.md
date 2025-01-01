@@ -11,7 +11,6 @@ author: Chris Short
 date: "2023-01-17"
 description: I was unfortunately injured back in 2003 while in the Air Force and have
   lived a pretty full life with disabilities. Learn more about what works for me.
-draft: false
 tags:
 - long thoracic nerve
 - long thoracic nerve palsy

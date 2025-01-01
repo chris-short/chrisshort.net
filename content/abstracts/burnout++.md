@@ -5,7 +5,6 @@ author: Chris Short
 date: "2023-04-10"
 description: Recognizing and Managing Burnout; What Happens When Burnout Occurs with
   Other Problems
-draft: false
 tags:
 - burnout
 - mental health

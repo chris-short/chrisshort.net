@@ -7,7 +7,6 @@ aliases:
 author: Chris Short
 date: "2018-03-02"
 description: ""
-draft: false
 tags:
 - devops
 - culture

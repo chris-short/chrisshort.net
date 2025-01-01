@@ -8,7 +8,6 @@ cover:
   image: https://shortcdn.com/chrisshort/sidekick-II-open.jpg
 date: "2004-09-23"
 description: A comprehensive review of the Sidekick II. (2004)
-draft: false
 tags:
 - hardware
 - yahoo

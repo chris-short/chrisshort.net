@@ -5,7 +5,6 @@ cover:
 date: "2021-10-05"
 description: Comcast had a local area issue that they didn't resolve until I proved
   there was a widespread issue
-draft: false
 tags:
 - Comcast
 - Comcast Business

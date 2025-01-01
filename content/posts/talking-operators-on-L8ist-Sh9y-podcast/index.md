@@ -7,7 +7,6 @@ cover:
   image: https://shortcdn.com/chrisshort/talking-operators-on-L8ist-Sh9y-podcast.png
 date: "2020-06-15"
 description: Chris Short from Red Hat talks Operators and Kubernetes with Rob Zehicle
-draft: false
 tags:
 - Chris Short
 - Rob Zehicle

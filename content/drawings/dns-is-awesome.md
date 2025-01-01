@@ -5,7 +5,6 @@ aliases:
 author: Chris Short
 date: "2016-11-29"
 description: ""
-draft: false
 tags:
 - DNS
 - drawing

@@ -6,7 +6,6 @@ cover:
   image: https://shortcdn.com/chrisshort/constrution-of-an-optimized-web-page.jpg
 date: "2003-12-20"
 description: ""
-draft: false
 tags:
 - master template
 - search engine

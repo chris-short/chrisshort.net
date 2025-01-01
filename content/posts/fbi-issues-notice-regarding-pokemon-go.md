@@ -3,7 +3,6 @@ ShowTOC: false
 author: Chris Short
 date: "2016-07-20"
 description: ""
-draft: false
 image: https://shortcdn.com/chrisshort/fbi-hearts-pokemon-go.png
 tags:
 - niantic

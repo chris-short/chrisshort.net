@@ -6,7 +6,6 @@ cover:
 date: "2004-01-31"
 description: orkut.com is a social networking service developed in association with
   Google.
-draft: false
 tags:
 - social media
 - google

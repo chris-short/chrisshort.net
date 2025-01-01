@@ -7,7 +7,6 @@ cover:
   image: https://shortcdn.com/chrisshort/windows-vista.png
 date: "2007-02-01"
 description: Four reasons why upgrading to Windows Vista is a REALLY bad idea.
-draft: false
 tags:
 - microsoft
 - windows

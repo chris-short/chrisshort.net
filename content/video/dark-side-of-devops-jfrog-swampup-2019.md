@@ -5,7 +5,6 @@ date: "2019-10-23"
 description: People think that DevOps, Cloud Native, Agile, GROWS, etc. are all rainbows
   and roses. You start small, work your way up or you decide as an organizational
   unit to change.
-draft: false
 tags:
 - talks
 - speaking

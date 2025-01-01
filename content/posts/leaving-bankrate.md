@@ -5,7 +5,6 @@ cover:
   image: https://shortcdn.com/chrisshort/leaving.jpg
 date: "2017-11-13"
 description: An open e-mail about why I am deciding to leave Bankrate now
-draft: false
 tags:
 - job
 - work

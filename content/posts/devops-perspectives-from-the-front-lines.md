@@ -5,7 +5,6 @@ cover:
   image: https://shortcdn.com/chrisshort/Cloudcast-Logo-2015-Banner-Blue.png
 date: "2016-10-31"
 description: ""
-draft: false
 tags:
 - DevOps
 - podcast

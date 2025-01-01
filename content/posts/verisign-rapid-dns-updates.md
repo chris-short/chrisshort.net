@@ -8,7 +8,6 @@ aliases:
 author: Chris Short
 date: "2004-11-06"
 description: Verisign switches to near real-time DNS updates on September 8, 2004
-draft: false
 tags:
 - internet
 - DNS

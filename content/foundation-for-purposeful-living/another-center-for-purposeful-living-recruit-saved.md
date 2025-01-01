@@ -4,7 +4,6 @@ aliases:
 author: Chris Short
 date: "2005-12-19"
 description: ""
-draft: false
 tags:
 - center for purposeful living
 - human service alliance

@@ -7,7 +7,6 @@ author: Chris Short
 date: "2016-09-06"
 description: Ansible lineinfile module is a cumbersome one to work. Here is a use
   case and examples of how to utilize Ansible lineinfile
-draft: false
 image: https://shortcdn.com/chrisshort/Ansible-Mark-Large-RGB-Black.png
 tags:
 - ansible

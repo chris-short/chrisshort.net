@@ -6,7 +6,6 @@ cover:
   image: https://shortcdn.com/chrisshort/chris-short-devopsdays-detroit-2016-bridget-kromhout.jpg
 date: "2016-10-13"
 description: ""
-draft: false
 tags:
 - DevOps
 - DevOpsDays

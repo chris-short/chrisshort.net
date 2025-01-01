@@ -5,7 +5,6 @@ cover:
   image: https://shortcdn.com/chrisshort/technical-debt.jpg
 date: "2016-08-09"
 description: ""
-draft: false
 tags:
 - technical debt
 - DevOps

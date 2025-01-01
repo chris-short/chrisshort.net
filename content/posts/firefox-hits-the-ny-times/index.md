@@ -9,7 +9,6 @@ cover:
 date: "2004-12-17"
 description: Firefox has taken out a two-page ad in the New York Times! According
   to Firefox this is the, 'largest open source fundraising campaign in history'
-draft: false
 tags:
 - firefox
 title: Firefox Hits the NY Times

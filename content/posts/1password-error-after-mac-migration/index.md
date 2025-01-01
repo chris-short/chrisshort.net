@@ -7,7 +7,6 @@ cover:
 date: "2023-06-17"
 description: 'The most annoying 1Password error I''ve encountered: 1Password has detected
   an error with your local app database, please contact support@1password.com'
-draft: false
 tags:
 - 1Password
 - database

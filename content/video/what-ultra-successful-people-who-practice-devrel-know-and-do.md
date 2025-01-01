@@ -5,7 +5,6 @@ date: "2022-08-16"
 description: 'Join Wesley Faulkner, Sr, Community Manager at AWS and Chris Short,
   Sr. Developer Advocate for a discussion about getting decision makers to buy-in
   in the #DevRel space.'
-draft: false
 tags:
 - talks
 - speaking

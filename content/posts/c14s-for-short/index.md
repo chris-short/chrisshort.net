@@ -3,7 +3,6 @@ ShowTOC: false
 author: Chris Short
 date: "2019-01-08"
 description: Christophernetes
-draft: false
 tags:
 - twitter
 - kubernetes

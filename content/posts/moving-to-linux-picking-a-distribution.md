@@ -5,7 +5,6 @@ aliases:
 author: Chris Short
 date: "2003-05-10"
 description: ""
-draft: false
 tags:
 - linux
 - open source

@@ -6,7 +6,6 @@ author: Chris Short
 date: "2006-10-12"
 description: Font Size Comparison was designed to assist web designers in making the
   switch from absolute to relative font sizes.
-draft: false
 tags:
 - font
 - font size

@@ -5,7 +5,6 @@ cover:
 date: "2021-10-25"
 description: Chris Short is happy to announce that he is joining the Amazon Elastic
   Kubernetes Service (Amazon EKS) team as a developer advocate
-draft: false
 tags:
 - Amazon
 - AWS

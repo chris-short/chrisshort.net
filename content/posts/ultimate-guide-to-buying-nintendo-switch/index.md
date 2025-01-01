@@ -9,7 +9,6 @@ cover:
 date: "2023-12-13"
 description: Lost on what Nintendo Switch to buy? Which games to get? This guide has
   you covered with tips on models, accessories, parental controls, and must-have games
-draft: false
 tags:
 - Nintendo Switch
 - Nintendo

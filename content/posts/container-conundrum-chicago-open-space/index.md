@@ -8,7 +8,6 @@ cover:
 date: "2022-10-08"
 description: 'My notes from a DevOpsDay Chicago 2022 Open Space suggestion: ''Container
   Conundrum: Pain points around containers'''
-draft: false
 tags:
 - Open Space
 - cloud
