@@ -2,12 +2,13 @@
 <footer class="footer">
     <p><a href="/tags/" title="Tags">Tags</a> &bull; <a href="/projects/" title="Projects">Projects</a></p>
     <!-- <p><a href="/drawings/" title="Drawings">Drawings</a> &bull; <a href="/projects/" title="Projects">Projects</a> &bull; <a href="/causes/" title="Causes">Causes</a> &bull; <a href="/writing-elsewhere/" title="Writing Elsewhere">Writing Elsewhere</a></p> -->
-    <p><a href="https://devopsish.com/firehose/" title="DevOps'ish Firehose">DevOps'ish Firehose</a> &bull; <a href="/long-thoracic-nerve-palsy/" title="Long Thoracic Nerve Palsy">Long Thoracic Nerve Palsy</a> &bull; <a href="/foundation-for-purposeful-living/" title="Foundation for Purposeful Living">Foundation for Purposeful Living</a></p>
+    <p><a href="https://devopsish.com/firehose/" title="DevOps'ish Firehose">DevOps'ish Firehose</a> &bull; <a href="/long-thoracic-nerve-palsy/" title="Disability">Disability</a> &bull; <a href="/foundation-for-purposeful-living/" title="Foundation for Purposeful Living">Foundation for Purposeful Living</a></p>
     {{- if not site.Params.footer.hideCopyright }}
         {{- if site.Copyright }}
         <span>{{ site.Copyright | markdownify }}</span>
         {{- else }}
-        <span><a href="https://creativecommons.org/licenses/by-sa/4.0/" rel="noopener noreferrer" target="_blank">Some rights reserved</a> &copy; 2003-{{ now.Year }} <a href="{{ "https://chrisshort.net" | absLangURL }}">{{ site.Title }}</a> &bull; <a href="/terms/" title="Terms and Conditions">Terms</a> &bull; <a href="/privacy/" title="Privacy Policy">Privacy</a> &bull; <a href="https://www.websitecarbon.com/website/chrisshort-net/" rel="noopener noreferrer" target="_blank">Carbon Footprint</a></span>
+        <span><a href="https://creativecommons.org/licenses/by-sa/4.0/" rel="noopener noreferrer" target="_blank">Some rights reserved</a> &copy; 2003-{{ now.Year }} <a href="{{ "https://chrisshort.net" | absLangURL }}">{{ site.Title }}</a><br />
+        <a href="/terms/" title="Terms and Conditions">Terms</a> &bull; <a href="/privacy/" title="Privacy Policy">Privacy</a> &bull; <a href="https://www.websitecarbon.com/website/chrisshort-net/" rel="noopener noreferrer" target="_blank">Carbon Footprint</a></span>
         {{- end }}
 <!--        {{- print " · "}}-->
     {{- end }}
