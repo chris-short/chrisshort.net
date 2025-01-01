@@ -39,8 +39,6 @@ In 2005, while I was moving from one assignment to another, my mother made yet a
 
 What followed is six articles (one later removed for personal reasons) that laid out my and others' arguments as to why the cult my biological mother forced me into was indeed a cult.
 
-As of 2025-01-01, I know my mother lives/lived at Sugar Valley Airport in Davie County, North Carolina. One of my step-sisters, Lee W. Kosub, played in the [Civil Air Patrol based there](https://sugarvalley.cap.gov/). Lee W. Kosub is now the signatory on the cult's financial statements.
-
 ## The cult with many names
 
 As many already know, there is a cult in ~~Winston-Salem~~ Mocksville, North Carolina, that has been deceiving people and ruining families for dozens of years called ~~Human Service Alliance~~ ~~Center for Purposeful Living~~ ~~Foundation for Purposeful Living~~ **Allied Wisdom Foundation**. 
@@ -48,3 +46,7 @@ As many already know, there is a cult in ~~Winston-Salem~~ Mocksville, North Car
 Regardless of whatever they've changed their name to, this cult has done irreparable harm to several families and numerous people across the globe. In 2005, I started a series of articles that detailed the acts of those at Allied Wisdom Foundation.
 
 I welcome anyone willing to share their stories to contact me so that I may share (anonymously if you'd wish) your trials and tribulations with the Allied Wisdom Foundation and an ever-growing group of individuals hurt by this cult. These writings aim to inform the world about the activities of the cult known as Allied Wisdom Foundation.
+
+## The latest
+
+As of 2025-01-01, I know my mother lives/lived at Sugar Valley Airport in Davie County, North Carolina. One of my step-sisters, Lee W. Kosub, played in the [Civil Air Patrol based there](https://sugarvalley.cap.gov/). Lee W. Kosub is now the signatory on the cult's financial statements.
