@@ -37,7 +37,7 @@ In 1993, by North Carolina law, children 13 years or older could choose the pare
 
 In 2005, while I was moving from one assignment to another, my mother made yet another fruitless attempt to reach out to me. But this time was different. I wasn't overseas, in the middle of national security work, or an exercise. I was guiding movers as they packed up everything. By the time they started loading the moving truck, I had my plan laid out for the response my biological mother never saw coming.
 
-What followed is five articles (one later removed for personal reasons) that laid out my and others' arguments as to why the cult my biological mother forced me into was indeed a cult.
+What followed is six articles (one later removed for personal reasons) that laid out my and others' arguments as to why the cult my biological mother forced me into was indeed a cult.
 
 As of 2025-01-01, I know my mother lives/lived at Sugar Valley Airport in Davie County, North Carolina. One of my step-sisters, Lee W. Kosub, played in the [Civil Air Patrol based there](https://sugarvalley.cap.gov/). Lee W. Kosub is now the signatory on the cult's financial statements.
 
