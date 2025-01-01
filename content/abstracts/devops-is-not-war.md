@@ -14,7 +14,7 @@ tags:
 - thucydides
 - thucydides trap
 - cfp
-title: DevOps is Not War
+title: DevOps is not War
 ---
 
 ## Abstract
