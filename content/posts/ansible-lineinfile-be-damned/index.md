@@ -41,7 +41,7 @@ I should also add that we have some configurations for endpoints that do not req
 
 Here is the Ansible Playbook:
 
-{{< highlight yaml >}}
+```yaml
 ---
 - hosts: webserver
   gather_facts: no
@@ -86,7 +86,7 @@ Here is the Ansible Playbook:
         insertbefore="&lt;/VirtualHost&gt;"
         line='\tHeader always set Strict-Transport-Security "max-age=15768000"'
       with_items: "{{ conf_files.files }}"
-{{< / highlight >}}
+```
 
 There are a few bits I would like to expound on:
 

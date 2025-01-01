@@ -64,7 +64,7 @@ If you are running bare metal, a virtual machine host, or a Docker Engine somewh
 
 There are a lot of metrics that NTP utilizes algorithms to determine the quality of a time source; there is more to it than just stratum. A quick look at a system configured to use NTP will tell you a few metrics NTP uses to determine quality. The tool to query NTP metrics is ntpq:
 
-{{< highlight bash >}}
+```bash
 $ ntpq -p
      remote           refid      st t when poll reach   delay   offset  jitter
 ==============================================================================
@@ -77,7 +77,7 @@ $ ntpq -p
 -time1.google.co 71.79.79.71      2 u 1019 1024  377   29.888    5.037   4.358
 -mlbclock.isis.u 222.188.160.23   3 u  359 1024  377   27.518    3.167   3.281
 +cpe-174-109-154 152.2.133.52     2 u  779 1024  377    1.856   -0.050   0.269
-{{< / highlight >}}
+```
 
 In the output of `ntpq -p` there is a header row and then details about each time source in use:
 

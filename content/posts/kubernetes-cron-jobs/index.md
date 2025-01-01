@@ -67,7 +67,7 @@ CMD [ "/usr/bin/curl -vvv -X POST -d '' ${URL}" ]
 
 As my Kubernetes cluster runs on Raspberry Pi, I make sure to pull this Dockerfile down to a Raspberry Pi dev box I have and build it there:
 
-{{< highlight bash >}}
+```bash
 docker build -t devopsish-netlify-cron .
 {{< /highlight >}}
 
@@ -79,13 +79,13 @@ The next step is to add the image to a Docker registry. I thought about running 
 
 Heptio has a great guide titled [*Google Cloud Registry (GCR) with external Kubernetes*](https://web.archive.org/web/20181109070044/http://docs.heptio.com/content/private-registries/pr-gcr.html). If you are going to use GCR with an external Kubernetes cluster, I highly recommend reading this first. Once GCR is configured, your Kubernetes cluster is configured to use GCR, and the container is built, you have to tag it for GCR:
 
-{{< highlight bash >}}
+```bash
 docker tag devopsish-netlify-cron gcr.io/chrisshort-net/devopsish-netlify-cron
 {{< /highlight >}}
 
 Then push the newly tagged container image to GCR:
 
-{{< highlight bash >}}
+```bash
 gcloud docker -- push gcr.io/chrisshort-net/devopsish-netlify-cron:latest
 {{< /highlight >}}
 
@@ -93,7 +93,7 @@ gcloud docker -- push gcr.io/chrisshort-net/devopsish-netlify-cron:latest
 
 As previously mentioned, the next piece will be the Kubernetes Secret. There are a lot of ways to skin the k8s secret cat. Secrets can be loaded one time via command line or by applying a configuration file. I chose the configuration file method because I will save them in 1Password then delete them. The secret file will look something like this:
 
-{{< highlight yaml >}}
+```yaml
 apiVersion: v1
 kind: Secret
 metadata:
@@ -105,13 +105,13 @@ data:
 
 The redacted url string will be the Netlify build hook URL. As this is an Opaque secret, the string will need to be base64 encoded:
 
-{{< highlight bash >}}
+```bash
 echo -n "<SECRET>" | base64
 {{< /highlight >}}
 
 Once the base64 string is added to the file, apply it:
 
-{{< highlight bash >}}
+```bash
 kubectl apply -f secret.yml
 {{< /highlight >}}
 
@@ -119,7 +119,7 @@ kubectl apply -f secret.yml
 
 Piecing together the [Kubernetes Cron Job](https://kubernetes.io/docs/concepts/workloads/controllers/cron-jobs) configuration file is relatively easy. Schedule is a required field, and if you're familiar with cron, it will look identical to the Cron format string.
 
-{{< highlight yaml >}}
+```yaml
 apiVersion: batch/v1beta1
 kind: CronJob
 metadata:
@@ -156,7 +156,7 @@ Here is what the Kubernetes configuration file is specifying:
 
 Apply the configuration file and you're off to the races:
 
-{{< highlight bash >}}
+```bash
 kubectl apply -f devopsish-netlify-cronjob.yml
 {{< /highlight >}}
 
@@ -164,7 +164,7 @@ kubectl apply -f devopsish-netlify-cronjob.yml
 
 And voilà! You have built a Docker container, deployed the image to Google Container Registry, configured the Kubernetes cluster to pull images from GCR, created a secret to store the build hook, and created the CronJob. If everything works okay, the following command should show an active cron job:
 
-{{< highlight bash >}}
+```bash
 cshort@michiganjfrog ~> kubectl get cronjob
 NAME                        SCHEDULE             SUSPEND   ACTIVE    LAST SCHEDULE   AGE
 devopsish-netlify-cronjob   1 2-14 * * 0-1,5-6   False     0         8h              2d

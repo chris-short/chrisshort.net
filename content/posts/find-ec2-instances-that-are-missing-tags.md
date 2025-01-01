@@ -21,21 +21,22 @@ The response from AWS came quickly and succinctly. Here is what we came up with 
 
 Display instances that have no tags:
 
-{{< highlight bash >}}
+```bash
 aws ec2 describe-instances --query "Reservations[].Instances[].[InstanceId, Tags]" --output text | grep None | awk '{print $1}'
-{{< / highlight >}}
+```
 
 Display instances that are missing a specific tag (defined by key):
 
-{{< highlight bash >}}
+```bash
 aws ec2 describe-instances --query "Reservations[].Instances[].{ID: InstanceId, Tag: Tags[].Key}" --output text | grep -v ROLE
-{{< / highlight >}}
+```
 
 Viola! Problem solved, right? Not quite. We noticed that the output formats are very different based on region.
 
 {{< carbon >}}
 
 In **eu-central-1** we are seeing instances in this format:
+
 ```
 i-cd5ade70
 TAG	Name
@@ -44,6 +45,7 @@ TAG	SYSTEM
 ```
 
 In **us-east-1** we are seeing instances in this format:
+
 ```
 i-0d879e60cb5053af3	['aws:autoscaling:groupName', 'Name']
 ```
@@ -56,8 +58,8 @@ Enter `jq`:
 
 Yeah, I know... Another third party tool. But when all you have to do is pipe the `aws` command to `jq -c '.[]'` and you have a `grep -v`'able output it is well worth it:
 
-{{< highlight bash >}}
+```bash
 aws ec2 describe-instances --query "Reservations[].Instances[].{ID: InstanceId, Tag: Tags[].Key}" --output json | jq -c '.[]' | grep -v ROLE
-{{< / highlight >}}
+```
 
 `jq` is available from brew, epel, and the [jq web site](https://stedolan.github.io/jq/).
