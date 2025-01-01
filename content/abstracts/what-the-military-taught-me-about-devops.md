@@ -5,7 +5,6 @@ author: Chris Short
 date: "2018-02-23"
 description: ""
 draft: false
-slug: what-the-military-taught-me-about-devops
 tags:
 - devops
 - culture

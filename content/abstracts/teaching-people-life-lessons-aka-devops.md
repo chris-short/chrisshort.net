@@ -5,7 +5,6 @@ author: Chris Short
 date: "2018-11-19"
 description: ""
 draft: true
-slug: teaching-people-life-lessons-aka-devops
 tags:
 - devops
 - culture

@@ -6,7 +6,6 @@ author: Chris Short
 date: "2016-11-13"
 description: ""
 draft: false
-slug: osi-model
 tags:
 - drawing
 - OSI Model

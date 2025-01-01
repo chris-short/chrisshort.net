@@ -5,7 +5,6 @@ author: Chris Short
 date: "2019-08-07"
 description: ""
 draft: false
-slug: building-kubernetes-operators-with-ansible
 tags:
 - Kubernetes
 - Operators

@@ -5,7 +5,6 @@ author: Chris Short
 date: "2018-02-28"
 description: ""
 draft: false
-slug: devops-101
 tags:
 - devops
 - job
@@ -21,7 +20,7 @@ title: DevOps 101
 
 *This talk has been deprecated and remains for reference*
 
-# Abstract
+## Abstract
 
 With the need to build, test and release software more rapidly, frequently and reliably the concept of DevOps has never been more popular, and to a degree, more misunderstood.
 
@@ -33,70 +32,69 @@ This meeting will address both issues for both entry level professionals and tho
 2. An overview and hands-on demo's of some of the best practices, tools and processes that result in automating software delivery and infrastructure changes.  
 3. An interactive Q&A
 
+## Description
 
-# Description
+### What is DevOps?
 
-## What is DevOps?
-
-### Not everyone agrees on this
+#### Not everyone agrees on this
 
 * Take a Deep Breath
 * We are all allowed to have an opinion about this
 * http://theoatmeal.com/comics/believe_clean
 
-### What DevOps Isn't
+#### What DevOps Isn't
 
 * Let's rule some things out first
 
-#### I think this tweet puts to bed some IT misnomers
+##### I think this tweet puts to bed some IT misnomers
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Let&#39;s clarify:<br>* Jira is not Agile<br>* Open Source is not Free<br>* Using cloud is not DevOps<br>* Rituals is not Scrum<br>* Developed is not Done</p>&mdash; Lemi Orhan Ergin (@lemiorhan) <a href="https://twitter.com/lemiorhan/status/859158123722010628?ref_src=twsrc%5Etfw">May 1, 2017</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+![DevOps is not these things](https://shortcdn.com/chrisshort/tweet-859158123722010628.webp)
 
-### What DevOps Isn't (cont'd)
+#### What DevOps Isn't (cont'd)
 
 * Not Cloud
 * Not a Tool or a Product You Can Buy
 * Not Job Title or Position
 * Not Department
 
-## So What is DevOps?!?
+### So What is DevOps?!?
 
-### UNICORN IMAGE
+#### UNICORN IMAGE
 
-## DevOps is The Three Ways Applied to Three Things
+### DevOps is The Three Ways Applied to Three Things
 
 * This is what DevOps is to me...
 * "The Three Ways" applied to "The Three Things"
 * Hippy enough for you?
 
-### The Three Ways
+#### The Three Ways
 
 * Let's go over "The Three Ways" first
 * Origin: The Pheonix Project by Kevin Behr, George Spafford, and Gene Kim
 * Backstory: The Pheonix Project authors state the “Three Ways,” are the principles that all of the DevOps patterns can be derived from.
 * Let's discuss each way further
 
-#### The First Way
+##### The First Way
 
 * Entire System Flow
 * Not One Box or Silo
 
-#### The First Way (cont'd)
+##### The First Way (cont'd)
 
 * This is a broken First Way
 * This is how a lot of IT organization operate
 
-#### The First Way (cont'd)
+##### The First Way (cont'd)
 
 * Who has run in to this problem?
 * Developers say it works, Ops says it's broken
 
-#### The Second Way
+##### The Second Way
 
 * Enabling Feedback
 * Amplifying Feedback
 
-#### The Second Way (cont'd)
+##### The Second Way (cont'd)
 
 * John Willis sent me this to represent all Three Ways
 * I removed a couple components to have it apply better to The Second Way

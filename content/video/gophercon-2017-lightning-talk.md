@@ -7,7 +7,6 @@ author: Chris Short
 date: "2017-07-26"
 description: ""
 draft: false
-slug: gophercon-2017-lightning-talk
 tags:
 - Go
 - golang
@@ -27,7 +26,4 @@ My lightning talk, [Golang to the rescue: Saving DevOps from TLS turmoil](https:
 
 Hats off to the organizers for getting these videos up so quickly. It feels like I just got back from Denver. The quality of the videos and the speed at which they were made available lends great credit to all involved in the production efforts.
 
-{{< tweet user="Bankrate" id="890993539257180161" >}}
-
 {{< speaker >}}
-

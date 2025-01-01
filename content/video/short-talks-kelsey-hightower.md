@@ -6,7 +6,6 @@ description: Chris Short, Principal Technical Marketing Manager, OpenShift at Re
   Hat and CNCF Ambassador sits down with Staff Developer Advocate at Google, Kelsey
   Hightower to discuss Kubernetes.
 draft: false
-slug: short-talks-kelsey-hightower
 tags:
 - talks
 - speaking

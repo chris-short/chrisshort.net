@@ -1,18 +1,13 @@
 ---
-author: Chris Short
+author: ["Chris Short"]
+title: "3C2X1: Communications - Computer Systems Controller"
 date: "2005-08-05"
-draft: false
-summary: '3C2X1 - Tech Control: What it was, what it meant to be one, and what it
-  morphed into'
-tags:
-- tech control
-- technical controller
-- us air force
-- usaf
-title: '3C2X1: Communications - Computer Systems Controller'
+description: "3C2X1 - US Air Force Tech Control"
+summary: "3C2X1 - Tech Control: What it was, what it meant to be one, what tech controllers do, and what it morphed into"
+tags: ["Tech Control", "Water Walker", "Technical Controller", "US Air Force", "USAF", "3C231", "3C251", "3C271", "3C291"]
+ShowToc: true
+TocOpen: true
 ---
-
-![Communications and Information Badge 3C251](https://shortcdn.com/chrisshort/commbadge5.jpg) ![Communications and Information Badge 3C271](https://shortcdn.com/chrisshort/commbadge7.jpg) ![Communications and Information Badge 3C291](https://shortcdn.com/chrisshort/commbadge9.jpg)
 
 ## 3C2X1 Specialty Summary
 
@@ -22,13 +17,27 @@ A skill level replaces the "X" in 3C2X1. Skill levels should be viewed as one's 
 
 There is a lot involved in obtaining each skill level but essentially as a 1 and a 3 level you're in a constant state of training. This training could be technical school(s) (located at Keesler AFB, MS), On-the-Job Training (OJT), Computer Based Training (CBTs), and studying Career Development Courses (CDCs) all the while being certified on various tasks. When all objectives of training are complete and the right rank is held an Airman can be awarded the next skill level.
 
-## airforce.com's take on a 3C2X1
+## AirForce.com's take on a 3C2X1
 
 In this day and age, it is important to establish reliable communications links for military personnel, the Joint Chiefs of Staff and the president. As a communications/Computer Systems Control Apprentice, you will ensure quality service for military information systems worldwide. You will be involved in controlling all types of communications circuitry and information systems - voice, data and computer systems used for both local and long distance information exchange.
 
 {{< carbon >}}
 
 You will also work with fixed station, tactical and strategic command and control communications. You will be trained to monitor and analyze the performance of electronic fundamentals, state-of-the-art electronic and computer equipment, computer processed communications, systems, networks and circuits.
+
+## Badges
+
+### 3C251
+
+![Communications and Information Badge 3C251](commbadge5.jpg)
+
+### 3C271
+
+![Communications and Information Badge 3C271](commbadge7.jpg)
+
+### 3C291
+
+![Communications and Information Badge 3C291](commbadge9.jpg)
 
 ## Tech Control in a Nutshell
 
@@ -47,6 +56,4 @@ There is really no limit to what kind of communications a tech controller will d
 * ATM devices
 * Test Equipment
 
-The Tech Control career field was converted to [3D1X2 Cyber Transport Systems](https://www.airforce.com/careers/detail/cyber-transport-systems) in 2009.
-
-{{< amazon >}}
+The Tech Control career field was converted to [3D1X2 Cyber Transport Systems](https://www.airforce.com/careers/intelligence/cyber-transport-systems) in 2009.

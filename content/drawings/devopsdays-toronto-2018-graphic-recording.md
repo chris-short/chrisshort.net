@@ -3,7 +3,6 @@ author: Chris Short
 date: "2018-06-11"
 description: ""
 draft: false
-slug: what-the-military-taught-me-about-devops-graphic-recording
 tags:
 - drawing
 - devops

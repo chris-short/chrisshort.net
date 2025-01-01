@@ -5,7 +5,6 @@ author: Chris Short
 date: "2018-02-23"
 description: ""
 draft: true
-slug: managing-impostor-syndrome
 tags:
 - devops
 - culture

@@ -5,7 +5,6 @@ date: "2020-10-12"
 description: 'Roaring Elephant Podcast: Chris Short from Red Hat to discuss Continuous
   Integration and Continuous Deployment.'
 draft: false
-slug: roaring-elephant-ci-cd-chris-short-part-2
 tags:
 - talks
 - interview

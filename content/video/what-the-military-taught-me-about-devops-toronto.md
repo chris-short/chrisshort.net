@@ -6,7 +6,6 @@ description: History can help prevent conflict when driving change. This talk wi
   analyze human tendencies, historical data, and provide real-world examples of how
   to avoid conflict during your DevOps journey.
 draft: false
-slug: what-the-military-taught-me-about-devops-toronto
 tags:
 - talks
 - speaking
@@ -26,4 +25,3 @@ Blog Post: [DevOpsDays Toronto 2018: What the Military Taught Me About DevOps](/
 Source: [Chris Short - What the Military Taught Me about DevOps](https://youtu.be/TIE1rKkJWyY)
 
 {{< speaker >}}
-

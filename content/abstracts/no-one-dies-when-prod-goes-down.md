@@ -6,7 +6,6 @@ author: Chris Short
 date: "2019-03-10"
 description: ""
 draft: true
-slug: no-one-dies-when-prod-goes-down
 tags:
 - devops
 - culture

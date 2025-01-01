@@ -1,11 +1,11 @@
 ---
-ShowTOC: false
-author: Chris Short
-date: "2000-12-18"
-draft: false
-slug: contact
-summary: Contact Chris Short
-title: Contact Chris Short
+author: ["Chris Short"]
+title: "Contact Chris Short"
+date: "2004-05-13" # the day Chris bought chrisshort.net; yes, it's been around a LONG time
+description: "Get in touch with Chris Short"
+summary: "3C2X1 - Tech Control: What it was, what it meant to be one, and what it morphed into"
+ShowToc: false
+TocOpen: false
 ---
 
 {{< contact >}}

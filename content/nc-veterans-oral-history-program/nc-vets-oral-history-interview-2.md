@@ -9,7 +9,6 @@ cover:
 date: "2016-08-23"
 description: ""
 draft: false
-slug: nc-vets-oral-history-interview-2
 tags:
 - war
 - communications

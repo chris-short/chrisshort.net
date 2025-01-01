@@ -1,0 +1,180 @@
+# hugo.yaml
+baseURL: https://chrisshort.net/
+buildDrafts: false
+buildFuture: false
+buildExpired: false
+canonifyURLs: true
+keywords: [Chris Short, Blog, Microblog, Talks, Speaking, Interviews, Open Source, DevOps, Cloud Native]
+languageCode: en-us
+theme: ["github.com/adityatelange/hugo-PaperMod"]
+timeZone: "America/Detroit"
+title: Chris Short
+enableInlineShortcodes: true
+pygmentsUseClasses: true
+taxonomies:
+  tag: tags
+  series: series
+permalinks:
+  page:
+    posts: ":title/"
+  section:
+    posts: /blog/
+    microblog: /microblog/
+
+minify:
+  disableXML: true
+  minifyOutput: true
+
+module:
+  imports:
+  - path: github.com/adityatelange/hugo-PaperMod
+
+params:
+  env: production
+  assets:
+    disableHLJS: true
+    favicon: "/favicon.ico"
+    favicon16x16: "/favicon-16x16.png"
+    favicon32x32: "/favicon-32x32.png"
+    apple_touch_icon: "/apple-touch-icon.png"
+    safari_pinned_tab: "/safari-pinned-tab.svg"
+  editPost:
+      URL: "https://github.com/chris-short/chrisshort.net/tree/main/content"
+      Text: "Suggest Changes" # edit text
+      appendFilePath: true # to append file path to Edit link
+  label:
+    text: "Chris Short"
+    icon: /img/chrisshort.net.webp
+    iconHeight: 48
+    iconWidth: 48
+  mainSections:
+    - abstracts
+    - blog
+    - drawings
+    - interviews
+    - microblog
+    - projects
+  profileMode:
+    buttons:
+      - name: About
+        url: "/about"
+      - name: Blog
+        url: "/blog"
+      - name: Microblog
+        url: "/microblog"
+      - name: Interviews
+        url: "/interviews"
+      - name: Speaking
+        url: "/speaking"
+      - name: Résumé
+        url: "/resume"
+      - name: Search
+        url: "/search"
+    comments: false
+    cover:
+      linkFullImages: true
+    defaultTheme: auto
+    displayFullLangName: true
+    # disableThemeToggle: true
+    # disableSpecial1stPost: true
+    enabled: true
+    fuseOpts:
+      shouldSort: true
+      threshold: 0.1
+      ignoreLocation: true
+      keys: ["title", "permalink", "summary", "description"]
+    imageUrl: "https://shortcdn.com/chrisshort/about/Chris-Short-Sept-2023-Profile-Pic-Square.jpeg" # optional
+    imageTitle: "Chris Short Headshot (Chris in his office with pictures of Detroit in background)" # optional
+    imageWidth: 256 # custom size
+    imageHeight: 256 # custom size
+    ShowShareButtons: false
+    ShowReadingTime: true
+    ShowPostNavLinks: true
+    ShowBreadCrumbs: true
+    ShowCodeCopyButtons: true
+    ShowRssButtonInSectionTermList: true
+    ShowAllPagesInArchive: true
+    ShowPageNums: true
+    ShowToc: true
+    subtitle: "Open Source | DevOps | Kubernetes Contributor | r/devopsish | Disabled Veteran | Detroit | He/Him | Views solely mine"
+    title: "Chris Short" # optional default will be site title
+
+  schema:
+    publisherType: "Person"
+    sameAs:
+      - "https://bsky.app/profile/chrisshort.net"
+      - "https://www.linkedin.com/in/thechrisshort"
+      - "https://hachyderm.io/@ChrisShort"
+
+  socialIcons: # optional
+    - name: "reddit"
+      url: "https://www.reddit.com/r/devopsish/"
+    - name: "Bluesky"
+      url: "https://bsky.app/profile/chrisshort.net"
+    - name: "LinkedIn"
+      url: "https://www.linkedin.com/in/thechrisshort"
+    - name: "Mastodon"
+      url: "https://hachyderm.io/@ChrisShort"
+    - name: "youtube"
+      url: "https://www.youtube.com/c/ChrisShort"
+    - name: "flickr"
+      url: "https://www.flickr.com/photos/chris-short/"
+    - name: "instagram"
+      url: "https://www.instagram.com/thechrisshort/"
+    - name: "threads"
+      url: "https://www.threads.net/@thechrisshort"
+    - name: "goodreads"
+      url: "https://www.goodreads.com/user/show/38034985-chris-short"
+    - name: "email"
+      url: "/contact"
+    - name: "rss"
+      url: "/index.xml"
+
+imaging:
+  exif:
+    includeFields: ""
+    disableDate: true
+    disableLatLong: true
+
+markup:
+  highlight:
+    codeFences: true
+    guessSyntax: true
+    lineNos: true
+  goldmark:
+    renderer:
+      unsafe: true
+
+outputs:
+  home:
+    - HTML
+    - RSS
+    - JSON # necessary for search
+
+pagination:
+  pagerSize: 5
+
+privacy:
+  disqus:
+    disable: true
+  googleAnalytics:
+    disable: true
+  instagram:
+    disable: false
+    simple: false
+  twitter:
+    disable: false
+    enableDNT: true
+    simple: false
+  vimeo:
+    disable: false
+    simple: false
+  youtube:
+    disable: false
+    privacyEnhanced: true
+
+services:
+  instagram:
+    disableInlineCSS: true
+  twitter:
+    disableInlineCSS: true

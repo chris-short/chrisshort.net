@@ -8,7 +8,6 @@ author: Chris Short
 date: "2005-07-14"
 description: ""
 draft: false
-slug: the-center-for-purposeful-living-is-a-cult-dont-take-my-word-for-it-2
 tags:
 - center for purposeful living
 - human service alliance

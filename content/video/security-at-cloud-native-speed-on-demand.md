@@ -6,7 +6,6 @@ description: Solid practices around applying gates during CI/CD,the critical fea
   for container security, tapping the power of native controls in Kubernetes, and
   leveraging automation to retain velocity
 draft: false
-slug: security-at-cloud-native-speed-on-demand
 tags:
 - talks
 - speaking
