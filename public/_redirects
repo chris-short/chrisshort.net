@@ -1,3 +1,4 @@
+# CDN redirects
 /about/Chris-Short-Sept-2021-Profile-Pic.jpeg https://shortcdn.com/chrisshort/about/Chris-Short-Sept-2021-Profile-Pic.jpeg 301
 /about/Late-2017-Headshot-Square-Optimized.jpg https://shortcdn.com/chrisshort/about/Late-2017-Headshot-Square-Optimized.jpg 301
 /about/Late-2018-Headshot.jpg https://shortcdn.com/chrisshort/about/Late-2018-Headshot.jpg 301
@@ -17,3 +18,6 @@
 /using-ansible-vault-effectively https://github.com/chris-short/chrisshort.net/blob/main/content/post/using-ansible-vault-effectively.md 301
 /verify-ashleymcnamara https://github.com/chris-short/chrisshort.net/blob/main/content/post/verify-ashleymcnamara/index.md 301
 /weather-in-your-ios-and-macos-calendars https://github.com/chris-short/chrisshort.net/blob/main/content/post/weather-in-your-ios-and-macos-calendars/index.md 301
+
+# Other
+/archive /blog 302

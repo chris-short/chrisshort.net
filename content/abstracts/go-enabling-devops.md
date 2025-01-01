@@ -5,7 +5,6 @@ author: Chris Short
 date: "2018-02-23"
 description: ""
 draft: false
-slug: go-enabling-devops
 tags:
 - open source
 - devops

@@ -8,7 +8,6 @@ cover:
 date: "2015-10-09"
 description: ""
 draft: false
-slug: php-memory-relationships
 tags:
 - php
 - memory

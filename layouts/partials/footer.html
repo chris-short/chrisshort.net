@@ -1,44 +1,41 @@
+{{- if not (.Param "hideFooter") }}
 <footer class="footer">
-    <p><a href="https://devopsish.com/what-is-devops/?utm_source=chrisshort.net&utm_medium=web&utm_campaign=books" title="What is DevOps">What is DevOps</a> &bull; <a href="https://devopsish.com/firehose/" title="DevOps'ish Firehose">Firehose</a></p>
-    <p><a href="/drawings/" title="Drawings">Drawings</a> &bull; <a href="/projects/" title="Projects">Projects</a> &bull; <a href="/causes/" title="Causes">Causes</a> &bull; <a href="/writing-elsewhere/" title="Writing Elsewhere">Writing Elsewhere</a> &bull; <a href="/tags/" title="Tags">Tags</a></p>
-    <p><a href="/long-thoracic-nerve-palsy/" title="Long Thoracic Nerve Palsy">Long Thoracic Nerve Palsy</a> &bull; <a href="/foundation-for-purposeful-living/" title="Foundation for Purposeful Living">Foundation for Purposeful Living</a></p>
-    <p>&nbsp;</p>
-    {{- if .Site.Copyright }}
-    <span>{{ .Site.Copyright }}</span>
-    {{- else }}
-    <span><a href="/copyright/" title="Copyright CC BY-SA 4.0">Some rights reserved</a> © 2003 - {{ dateFormat "2006" now }} <a href="https://chrisshort.net" title="Chris Short">Chris Short</a> &bull; <a href="/terms/" title="Terms and Conditions">Terms</a> &bull; <a href="/privacy/" title="Privacy Policy">Privacy</a> &bull; <a href="https://www.websitecarbon.com/website/chrisshort-net/" rel="nofollow">Carbon Footprint</a></span>
+    <p><a href="/tags/" title="Tags">Tags</a> &bull; <a href="/projects/" title="Projects">Projects</a></p>
+    <!-- <p><a href="/drawings/" title="Drawings">Drawings</a> &bull; <a href="/projects/" title="Projects">Projects</a> &bull; <a href="/causes/" title="Causes">Causes</a> &bull; <a href="/writing-elsewhere/" title="Writing Elsewhere">Writing Elsewhere</a></p> -->
+    <p><a href="https://devopsish.com/firehose/" title="DevOps'ish Firehose">DevOps'ish Firehose</a> &bull; <a href="/long-thoracic-nerve-palsy/" title="Long Thoracic Nerve Palsy">Long Thoracic Nerve Palsy</a> &bull; <a href="/foundation-for-purposeful-living/" title="Foundation for Purposeful Living">Foundation for Purposeful Living</a></p>
+    {{- if not site.Params.footer.hideCopyright }}
+        {{- if site.Copyright }}
+        <span>{{ site.Copyright | markdownify }}</span>
+        {{- else }}
+        <span><a href="https://creativecommons.org/licenses/by-sa/4.0/" rel="noopener noreferrer" target="_blank">Some rights reserved</a> &copy; 2003-{{ now.Year }} <a href="{{ "https://chrisshort.net" | absLangURL }}">{{ site.Title }}</a> &bull; <a href="/terms/" title="Terms and Conditions">Terms</a> &bull; <a href="/privacy/" title="Privacy Policy">Privacy</a> &bull; <a href="https://www.websitecarbon.com/website/chrisshort-net/" rel="noopener noreferrer" target="_blank">Carbon Footprint</a></span>
+        {{- end }}
+<!--        {{- print " · "}}-->
+    {{- end }}
+
+    {{- with site.Params.footer.text }}
+        {{ . | markdownify }}
+        {{- print " · "}}
     {{- end }}
 </footer>
-{{- if (not .Site.Params.disableScrollToTop) }}
-<a href="#top" aria-label="go to top" title="Go to Top (Alt + G)">
-    <button class="top-link" id="top-link" type="button" accesskey="g">
-        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 12 6" fill="currentColor">
-            <path d="M12 6H0l6-6z" />
-        </svg>
-    </button>
+{{- end }}
+
+{{- if (not site.Params.disableScrollToTop) }}
+<a href="#top" aria-label="go to top" title="Go to Top (Alt + G)" class="top-link" id="top-link" accesskey="g">
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 12 6" fill="currentColor">
+        <path d="M12 6H0l6-6z" />
+    </svg>
 </a>
 {{- end }}
-{{- partial "extend_footer.html" . -}}
-{{- $isHLJSdisabled := (.Site.Params.assets.disableHLJS | default .Params.disableHLJS ) }}
-{{- if (and (eq .Kind "page") (ne .Layout "archives") (ne .Layout "search") (not $isHLJSdisabled)) }}
-{{- if not .Site.Params.assets.disableFingerprinting }}
-{{- $highlight := slice (resources.Get "js/highlight.min.js") | resources.Concat "assets/js/highlight.js" | minify }}
-<script defer src="{{ $highlight.RelPermalink }}" integrity="{{ $highlight.Data.Integrity }}"
-    onload="hljs.initHighlightingOnLoad();"></script>
-{{- else}}
-{{- $highlight := slice (resources.Get "js/highlight.min.js") | resources.Concat "assets/js/highlight.js" | minify }}
-<script defer src="{{ $highlight.RelPermalink }}" onload="hljs.initHighlightingOnLoad();"></script>
-{{- end}}
-{{- end }}
-<script>
-    window.onload = function () {
-        if (localStorage.getItem("menu-scroll-position")) {
-            document.getElementById('menu').scrollLeft = localStorage.getItem("menu-scroll-position");
-        }
-    }
 
-    function menu_on_scroll() {
-        localStorage.setItem("menu-scroll-position", document.getElementById('menu').scrollLeft);
+{{- partial "extend_footer.html" . }}
+
+<script>
+    let menu = document.getElementById('menu')
+    if (menu) {
+        menu.scrollLeft = localStorage.getItem("menu-scroll-position");
+        menu.onscroll = function () {
+            localStorage.setItem("menu-scroll-position", menu.scrollLeft);
+        }
     }
 
     document.querySelectorAll('a[href^="#"]').forEach(anchor => {
@@ -62,7 +59,7 @@
 
 </script>
 
-{{- if (not .Site.Params.disableScrollToTop) }}
+{{- if (not site.Params.disableScrollToTop) }}
 <script>
     var mybutton = document.getElementById("top-link");
     window.onscroll = function () {
@@ -78,7 +75,7 @@
 </script>
 {{- end }}
 
-{{- if (not .Site.Params.disableThemeToggle) }}
+{{- if (not site.Params.disableThemeToggle) }}
 <script>
     document.getElementById("theme-toggle").addEventListener("click", () => {
         if (document.body.className.includes("dark")) {
@@ -90,5 +87,55 @@
         }
     })
 
+</script>
+{{- end }}
+
+{{- if (and (eq .Kind "page") (ne .Layout "archives") (ne .Layout "search") (.Param "ShowCodeCopyButtons")) }}
+<script>
+    document.querySelectorAll('pre > code').forEach((codeblock) => {
+        const container = codeblock.parentNode.parentNode;
+
+        const copybutton = document.createElement('button');
+        copybutton.classList.add('copy-code');
+        copybutton.innerHTML = '{{- i18n "code_copy" | default "copy" }}';
+
+        function copyingDone() {
+            copybutton.innerHTML = '{{- i18n "code_copied" | default "copied!" }}';
+            setTimeout(() => {
+                copybutton.innerHTML = '{{- i18n "code_copy" | default "copy" }}';
+            }, 2000);
+        }
+
+        copybutton.addEventListener('click', (cb) => {
+            if ('clipboard' in navigator) {
+                navigator.clipboard.writeText(codeblock.textContent);
+                copyingDone();
+                return;
+            }
+
+            const range = document.createRange();
+            range.selectNodeContents(codeblock);
+            const selection = window.getSelection();
+            selection.removeAllRanges();
+            selection.addRange(range);
+            try {
+                document.execCommand('copy');
+                copyingDone();
+            } catch (e) { };
+            selection.removeRange(range);
+        });
+
+        if (container.classList.contains("highlight")) {
+            container.appendChild(copybutton);
+        } else if (container.parentNode.firstChild == container) {
+            // td containing LineNos
+        } else if (codeblock.parentNode.parentNode.parentNode.parentNode.parentNode.nodeName == "TABLE") {
+            // table containing LineNos and code
+            codeblock.parentNode.parentNode.parentNode.parentNode.parentNode.appendChild(copybutton);
+        } else {
+            // code blocks not having highlight as parent class
+            codeblock.parentNode.appendChild(copybutton);
+        }
+    });
 </script>
 {{- end }}

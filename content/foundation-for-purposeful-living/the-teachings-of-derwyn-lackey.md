@@ -5,7 +5,6 @@ author: Chris Short
 date: "2005-07-26"
 description: ""
 draft: false
-slug: the-teachings-of-derwyn-lackey
 tags:
 - center for purposeful living
 - human service alliance

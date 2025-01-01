@@ -5,7 +5,6 @@ date: "2019-06-13"
 description: Caleb Hailey will go over best practices for monitoring workloads on
   K8s, including the sidecar pattern for monitoring.
 draft: false
-slug: monitoring-kubernetes-workloads-sidecar-pattern
 tags:
 - talks
 - speaking

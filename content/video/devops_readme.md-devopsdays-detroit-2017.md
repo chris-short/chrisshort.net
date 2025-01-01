@@ -4,7 +4,6 @@ author: Chris Short
 date: "2018-01-19"
 description: A curated list of things to read to level up your DevOps skills and knowledge.
 draft: false
-slug: devops_readme.md-devopsdays-detroit-2017
 tags:
 - talks
 - speaking

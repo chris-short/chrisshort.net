@@ -6,7 +6,6 @@ description: An important early step (just after 'Orchestration & Application De
   in the CNCF trail map) in starting your cloud-native journey is picking solutions
   for observability, including monitoring, logging, and tracing.
 draft: false
-slug: top-seven-kubernetes-apis-for-cloud-native-observability
 tags:
 - talks
 - speaking

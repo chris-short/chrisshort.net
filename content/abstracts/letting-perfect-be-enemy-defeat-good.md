@@ -5,7 +5,6 @@ author: Chris Short
 date: "2018-03-02"
 description: ""
 draft: true
-slug: letting-perfect-defeat-good
 tags:
 - devops
 - culture

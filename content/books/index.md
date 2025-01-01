@@ -28,8 +28,6 @@ title: Books
 
 [![97 Things Every Cloud Engineer Should Know: Collective Wisdom from the Experts](https://shortcdn.com/chrisshort/97-things-every-cloud-engineer-should-know.jpg#center)](https://amzn.to/3n3g8iU)
 
-
-
 ## Ansible Automation for SysAdmins: A quickstart guide to Ansible
 
 The Ansible Automation for SysAdmins guide is a primer to help you get started using Ansible to give you a better understanding of the capabilities and show you how to automate everyday sysadmin tasks.

@@ -8,7 +8,6 @@ author: Chris Short
 date: "2018-03-02"
 description: ""
 draft: false
-slug: devops-is-not-war
 tags:
 - devops
 - culture

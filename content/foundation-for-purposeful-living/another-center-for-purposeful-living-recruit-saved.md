@@ -5,7 +5,6 @@ author: Chris Short
 date: "2005-12-19"
 description: ""
 draft: false
-slug: another-center-for-purposeful-living-recruit-saved
 tags:
 - center for purposeful living
 - human service alliance

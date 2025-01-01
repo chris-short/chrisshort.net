@@ -5,7 +5,6 @@ author: Chris Short
 date: "2018-03-01"
 description: ""
 draft: false
-slug: kubernetes-cron-jobs-dreams-do-come-true
 tags:
 - devops
 - kubernetes

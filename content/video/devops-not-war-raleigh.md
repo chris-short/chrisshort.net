@@ -5,7 +5,6 @@ date: "2019-10-01"
 description: DevOps needs to focus on more than Dev and Ops to be truly transformative
   for an organization. What about your security folks? What about your network team?
 draft: false
-slug: devops-not-war-raleigh
 tags:
 - talks
 - speaking

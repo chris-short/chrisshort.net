@@ -7,7 +7,6 @@ author: Chris Short
 date: "2005-09-14"
 description: ""
 draft: true
-slug: a-brief-history-of-center-for-purposeful-living-by-john-david-short
 tags:
 - center for purposeful living
 - human service alliance

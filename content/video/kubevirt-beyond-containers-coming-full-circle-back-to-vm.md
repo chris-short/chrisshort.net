@@ -6,7 +6,6 @@ description: A demo of an application that is comprised of VMs, Containers, an R
   and a LoadBalancer-type Service. We'll show how HA scenarios for legacy components
   are automatically handled by Kubernetes and KubeVirt.
 draft: false
-slug: kubevirt-beyond-containers-coming-full-circle-back-to-vm
 tags:
 - talks
 - speaking

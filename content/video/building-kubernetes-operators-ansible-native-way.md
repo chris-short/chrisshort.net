@@ -6,7 +6,6 @@ description: Ansible is a first-class citizen in the Operator SDK. Using Ansible
   up application engineers, maximizes time to automate and orchestrate your applications,
   and doing it across new & existing platforms.
 draft: false
-slug: building-kubernetes-operators-ansible-native-way
 tags:
 - talks
 - speaking

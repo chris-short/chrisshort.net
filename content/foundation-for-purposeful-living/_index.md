@@ -11,7 +11,6 @@ description: Human Service Alliance, Center for Purposeful Living, Foundation fo
   Purposeful Living, or whatever they're calling themselved this year is undeniably
   a cult.
 draft: false
-slug: foundation-for-purposeful-living
 tags:
 - center for purposeful living
 - human service alliance

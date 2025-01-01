@@ -1,73 +1,79 @@
 [build]
 publish = "public"
-command = "curl -L 'https://cdn.carbonads.com/carbon.js?serve=CK7D52QU&placement=chrisshortnet' -o static/js/carbon.js ; cp static/js/carbon.js assets/js/extended/carbon.js ; hugo --minify --enableGitInfo"
+command = "curl -L 'https://cdn.carbonads.com/carbon.js?serve=CK7D52QU&placement=chrisshortnet' -o static/js/carbon.js ; hugo --minify --enableGitInfo"
 
 [context.production.environment]
-HUGO_VERSION = "0.122.0"
+HUGO_VERSION = "0.140.1"
 HUGO_ENV = "production"
-HUGO_ENABLEGITINFO = "false"
+HUGO_ENABLEGITINFO = "true"
 
 [context.split1]
-command = "curl -L 'https://cdn.carbonads.com/carbon.js?serve=CK7D52QU&placement=chrisshortnet' -o static/js/carbon.js ; cp static/js/carbon.js assets/js/extended/carbon.js ; hugo --minify --enableGitInfo"
+command = "curl -L 'https://cdn.carbonads.com/carbon.js?serve=CK7D52QU&placement=chrisshortnet' -o static/js/carbon.js ; hugo --minify --enableGitInfo"
 
 [context.split1.environment]
-HUGO_VERSION = "0.122.0"
+HUGO_VERSION = "0.140.1"
 HUGO_ENV = "production"
 
 [context.deploy-preview]
 command = "hugo -DF -b $DEPLOY_PRIME_URL"
 [context.deploy-preview.environment]
-HUGO_VERSION = "0.122.0"
+HUGO_VERSION = "0.140.1"
 # Skip all post processing in deploy previews,
 # ignoring any other settings
 [context.deploy-preview.processing]
-  skip_processing = true
+skip_processing = true
 
 [context.branch-deploy]
 command = "hugo -DF -b $DEPLOY_PRIME_URL"
 [context.branch-deploy.environment]
-HUGO_VERSION = "0.122.0"
+HUGO_VERSION = "0.140.1"
 
 [context.next.environment]
 HUGO_ENABLEGITINFO = "true"
 
 [[redirects]]
-  from = "https://chrisshort.netlify.app/*"
-  to = "https://chrisshort.net/:splat"
-  status = 301
-  force = true
+from = "https://chrisshort.netlify.app/*"
+to = "https://chrisshort.net/:splat"
+status = 301
+force = true
 
 [[redirects]]
-  from = "/prow-and-tide-for-kubernetes-contributors/"
-  to = "https://www.kubernetes.dev/blog/2022/12/12/prow-and-tide-for-kubernetes-contributors/"
-  status = 301
-  force = true
+from = "/prow-and-tide-for-kubernetes-contributors/"
+to = "https://www.kubernetes.dev/blog/2022/12/12/prow-and-tide-for-kubernetes-contributors/"
+status = 301
+force = true
 
 [[redirects]]
-  from = "/firehose*"
-  to = "https://devopsish.com/firehose"
-  status = 302
-  force = true
+from = "/firehose*"
+to = "https://devopsish.com/firehose"
+status = 302
+force = true
 
 [[redirects]]
-  from = "/categories*"
-  to = "/tags"
-  status = 301
-  force = true
+from = "/categories*"
+to = "/tags"
+status = 301
+force = true
 
 [[redirects]]
-  from = "/resume/Chris-Short-Resume.pdf*"
-  to = "/curriculum-vitae/Chris-Short-Resume.pdf"
-  status = 301
-  force = true
+from = "/resume/Chris-Short-Resume.pdf*"
+to = "/curriculum-vitae/Chris-Short-Resume.pdf"
+status = 301
+force = true
+
+[[redirects]]
+from = "/newsletter"
+to = "https://devopsish.com/"
+status = 302
+force = true
 
 [[headers]]
-  for = "/*"
-  [headers.values]
-    Access-Control-Allow-Origin = 'https://chrisshort.net'
-    Permissions-Policy = 'accelerometer=(), camera=(), geolocation=(), gyroscope=(), magnetometer=(), microphone=(), payment=(), usb=(), interest-cohort=()'
-    Referrer-Policy = 'no-referrer-when-downgrade'
-    Strict-Transport-Security = 'max-age=63072000; includeSubDomains; preload'
-    X-Content-Type-Options = 'nosniff'
-    X-Frame-Options = 'DENY'
-    X-XSS-Protection = '1; mode=block'
+for = "/*"
+[headers.values]
+Access-Control-Allow-Origin = 'https://chrisshort.net'
+Permissions-Policy = 'accelerometer=(), camera=(), geolocation=(), gyroscope=(), magnetometer=(), microphone=(), payment=(), usb=(), interest-cohort=()'
+Referrer-Policy = 'no-referrer-when-downgrade'
+Strict-Transport-Security = 'max-age=63072000; includeSubDomains; preload'
+X-Content-Type-Options = 'nosniff'
+X-Frame-Options = 'DENY'
+X-XSS-Protection = '1; mode=block'

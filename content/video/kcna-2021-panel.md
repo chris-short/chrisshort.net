@@ -6,7 +6,6 @@ description: 'Panel Discussion: Marketing as Code: How to Rock Out with Non-Code
   - Bart Farrell, Data on Kubernetes Community; Kunal Kushwaha, Civo; Kaslin Fields,
   Google; Matt Broberg, Red Hat; Chris Short, Red Hat'
 draft: false
-slug: kcna-2021-panel
 tags:
 - talks
 - speaking

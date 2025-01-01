@@ -6,7 +6,6 @@ description: People think that DevOps, Cloud Native, Agile, GROWS, etc. are all 
   and roses. You start small, work your way up or you decide as an organizational
   unit to change.
 draft: false
-slug: dark-side-of-devops-jfrog-swampup-2019
 tags:
 - talks
 - speaking

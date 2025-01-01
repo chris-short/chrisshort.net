@@ -1,17 +1,15 @@
 ---
-ShowTOC: false
-aliases:
-- bio
-- biography
-author: Chris Short
+author: ["Chris Short"]
+title: "About Chris Short"
 date: "2016-04-17"
-draft: false
-slug: about
-summary: About Chris Short
-title: About Chris Short
+description: "About Chris Short"
+summary: "Learn more about Chris Short"
+tags: ["about"]
+ShowToc: true
+TocOpen: true
 ---
 
-If you need to get in touch with me, please reach out via the [Contact](/contact/) page.
+If you need to get in touch with me, please reach out via the [**Contact**](/contact/) page.
 
 ## Tagline
 
@@ -45,7 +43,6 @@ Today, Chris has found his passion in the [open source](https://chrisshort.net/t
 ## Appearances Elsewhere
 
 * [Projects](/projects/)
-* [Newsletter](/newsletter/)
 * [Video](/video/)
 * [Speaking](/speaking/)
 * [Interviews](/interviews/)

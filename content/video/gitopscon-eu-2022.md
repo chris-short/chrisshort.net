@@ -5,7 +5,6 @@ date: "2022-05-17"
 description: Chris Short opened and closed GitOpsCon as well as hosted Track 2 of
   the Day 0 KubeCon + CloudNativeCon 2022 event
 draft: false
-slug: gitopscon-eu-2022
 tags:
 - talks
 - speaking

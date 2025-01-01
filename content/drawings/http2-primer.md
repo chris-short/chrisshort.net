@@ -9,7 +9,6 @@ cover:
 date: "2016-11-16"
 description: ""
 draft: false
-slug: http2-primer
 tags:
 - HTTP2
 - drawing

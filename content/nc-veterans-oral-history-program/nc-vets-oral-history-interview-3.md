@@ -8,7 +8,6 @@ cover:
 date: "2016-08-30"
 description: ""
 draft: false
-slug: nc-vets-oral-history-interview-3
 tags:
 - military
 - mission

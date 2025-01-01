@@ -8,7 +8,6 @@ cover:
 date: "2016-08-17"
 description: ""
 draft: false
-slug: nc-vets-oral-history-interview-1
 tags:
 - air force
 - us air force
