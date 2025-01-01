@@ -3,7 +3,6 @@ ShowTOC: false
 author: Chris Short
 date: "2015-10-13"
 description: ""
-draft: false
 tags:
 - apple
 - mac os x

@@ -5,7 +5,6 @@ cover:
   image: https://shortcdn.com/chrisshort/badlock.png
 date: "2016-04-12"
 description: ""
-draft: false
 tags:
 - ansible
 - samba

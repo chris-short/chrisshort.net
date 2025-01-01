@@ -5,7 +5,6 @@ cover:
   image: https://shortcdn.com/chrisshort/aws.jpg
 date: "2017-01-26"
 description: ""
-draft: false
 tags:
 - EC2
 - AWS

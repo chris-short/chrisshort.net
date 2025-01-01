@@ -2,7 +2,6 @@
 author: Chris Short
 date: "2017-01-01"
 description: ""
-draft: false
 tags:
 - philosophy
 - life

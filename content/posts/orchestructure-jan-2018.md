@@ -6,7 +6,6 @@ cover:
 date: "2018-02-01"
 description: 'I created a new Go talk for this group. I hope to reuse it to enlighten
   people on the awesomeness of Go. This talk is title Go: Enabling DevOps To Go Faster.'
-draft: false
 tags:
 - open source
 - devops

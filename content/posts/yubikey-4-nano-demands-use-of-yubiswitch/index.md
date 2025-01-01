@@ -5,7 +5,6 @@ cover:
   image: https://shortcdn.com/chrisshort/yubikey-nano.png
 date: "2016-02-27"
 description: ""
-draft: false
 tags:
 - yubikey
 - mac os x

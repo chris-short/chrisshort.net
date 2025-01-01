@@ -5,7 +5,6 @@ date: "2020-07-09"
 description: An important early step (just after 'Orchestration & Application Definition'
   in the CNCF trail map) in starting your cloud-native journey is picking solutions
   for observability, including monitoring, logging, and tracing.
-draft: false
 tags:
 - talks
 - speaking

@@ -7,7 +7,6 @@ cover:
 date: "2018-04-19"
 description: History can help prevent conflict when driving change. This talk analyzes
   historical data to show how to prevent conflict during your DevOps journey.
-draft: false
 tags:
 - open source
 - devops

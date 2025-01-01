@@ -6,7 +6,6 @@ aliases:
 author: Chris Short
 date: "2017-07-26"
 description: ""
-draft: false
 tags:
 - Go
 - golang

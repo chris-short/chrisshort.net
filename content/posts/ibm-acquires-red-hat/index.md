@@ -6,7 +6,6 @@ cover:
 date: "2018-11-02"
 description: What it was like for relatively new Red Hat employee, Chris Short, during
   the IBM acquisition announcement and the week that followed.
-draft: false
 tags:
 - red hat
 - ibm

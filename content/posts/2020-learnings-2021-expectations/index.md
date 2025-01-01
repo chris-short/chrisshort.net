@@ -4,7 +4,6 @@ cover:
   image: https://shortcdn.com/chrisshort/hope.jpg
 date: "2020-12-30"
 description: Chris Short looks back at 2020 and looks ahead to 2021.
-draft: false
 tags:
 - developer
 - live streaming

@@ -5,7 +5,6 @@ date: "2003-06-08"
 description: The Internet, web sites, web surfers, web developers, and search engine
   optimizers and promoters should all be focused on creating good content that benefits
   everyone.
-draft: false
 tags:
 - internet
 - search engine optimization

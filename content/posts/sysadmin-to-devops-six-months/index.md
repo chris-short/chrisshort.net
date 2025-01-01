@@ -6,7 +6,6 @@ cover:
   image: https://shortcdn.com/chrisshort/gears-galore.jpg
 date: "2017-05-11"
 description: ""
-draft: false
 tags:
 - DevOps
 - tools

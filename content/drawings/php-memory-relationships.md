@@ -7,7 +7,6 @@ cover:
   image: https://shortcdn.com/chrisshort/drawings/php-logo-large-white.png
 date: "2015-10-09"
 description: ""
-draft: false
 tags:
 - php
 - memory

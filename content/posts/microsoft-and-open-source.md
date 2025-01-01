@@ -3,7 +3,6 @@ ShowTOC: false
 author: Chris Short
 date: "2003-03-06"
 description: ""
-draft: false
 tags:
 - microsoft
 - open source

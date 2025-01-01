@@ -5,7 +5,6 @@ cover:
   image: https://shortcdn.com/chrisshort/plant-flag.jpg
 date: "2016-06-28"
 description: ""
-draft: false
 tags:
 - ownership
 - philosophy

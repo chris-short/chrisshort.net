@@ -9,7 +9,6 @@ description: 'Wired: Microsoft is formally launching its new internet search eng
   several months after it debuted in test form. Microsoft''s own search engine will
   permanently replace the Yahoo search technology that has been used on Microsoft''s
   MSN website. But Yahoo''s technology...'
-draft: false
 tags:
 - SEO
 title: How MSN Search Stacks Up

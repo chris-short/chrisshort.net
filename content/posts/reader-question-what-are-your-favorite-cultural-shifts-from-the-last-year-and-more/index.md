@@ -8,7 +8,6 @@ date: "2021-03-29"
 description: K Rain Leander inspired a recent DevOps'ish intro topic related to the
   COVID-19 pandemic and DevOps; sharing here as it's more a personal take on the world
   today.
-draft: false
 tags:
 - pandemic
 - year

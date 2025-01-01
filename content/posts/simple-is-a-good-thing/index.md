@@ -7,7 +7,6 @@ cover:
 date: "2003-03-15"
 description: Maintain a simplistic design and keep web sites easy to use and maintain
   so that you can focus on content.
-draft: false
 tags:
 - web site
 - content

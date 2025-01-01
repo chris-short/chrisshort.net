@@ -6,7 +6,6 @@ cover:
   image: https://shortcdn.com/chrisshort/chris-short-devopsdays-toronto-2018.jpg
 date: "2018-06-01"
 description: ""
-draft: false
 tags:
 - speaking
 - talks

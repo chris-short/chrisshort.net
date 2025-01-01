@@ -4,7 +4,6 @@ aliases:
 author: Chris Short
 date: "2019-11-07"
 description: ""
-draft: false
 tags:
 - security
 - cloud native

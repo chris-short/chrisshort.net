@@ -7,7 +7,6 @@ cover:
 date: "2018-02-19"
 description: Jason Hibbets and Chris Short spoke at Open Source 101 Raleigh 2018 (a
   VERY diverse and inclusive Open Source software conference)
-draft: false
 tags:
 - open source
 - diversity

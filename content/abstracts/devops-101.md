@@ -4,7 +4,6 @@ aliases:
 author: Chris Short
 date: "2018-02-28"
 description: ""
-draft: false
 tags:
 - devops
 - job

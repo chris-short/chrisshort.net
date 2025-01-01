@@ -9,7 +9,6 @@ aliases:
 author: Chris Short
 date: "2024-01-08"
 description: Test your internet connection with OpenSpeedTest
-draft: false
 tags:
 - speed
 - speed test

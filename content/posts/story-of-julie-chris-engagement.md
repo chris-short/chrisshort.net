@@ -8,7 +8,6 @@ cover:
 date: "2011-01-29"
 description: The Biltmore Estate is a special place to Chris and Julie. Chris decided
   months prior that when the time was right he'd propose to Julie on Biltmore Estate.
-draft: false
 tags:
 - life
 title: The Story of Julie and Chris' Engagement

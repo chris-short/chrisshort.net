@@ -3,7 +3,6 @@ ShowTOC: false
 author: Chris Short
 date: "2016-12-02"
 description: ""
-draft: false
 tags:
 - DevOps
 - talks

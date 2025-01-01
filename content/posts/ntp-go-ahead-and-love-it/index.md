@@ -8,7 +8,6 @@ cover:
   image: https://shortcdn.com/chrisshort/Trento-Mercatino_dei_Gaudenti-alarm_clocks.jpg
 date: "2016-11-02"
 description: ""
-draft: false
 tags:
 - ntp
 - stratum

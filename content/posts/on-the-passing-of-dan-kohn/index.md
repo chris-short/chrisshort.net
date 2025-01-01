@@ -3,7 +3,6 @@ ShowTOC: false
 author: Chris Short
 date: "2020-11-07"
 description: 2020 has taken Dan Kohn from us. This whole year has no chill.
-draft: false
 tags:
 - Dan Kohn
 - CNCF

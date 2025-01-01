@@ -7,7 +7,6 @@ aliases:
 author: Chris Short
 date: "2003-04-29"
 description: ""
-draft: false
 tags:
 - linux
 - hardware

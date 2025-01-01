@@ -8,7 +8,6 @@ cover:
   image: https://shortcdn.com/chrisshort/chris-short-qatar-firing-range.jpg
 date: "2016-08-23"
 description: ""
-draft: false
 tags:
 - war
 - communications

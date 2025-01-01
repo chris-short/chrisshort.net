@@ -5,7 +5,6 @@ cover:
   image: https://shortcdn.com/chrisshort/laws.webp
 date: "2022-06-20"
 description: Conway's Law and GitOps go hand in hand.
-draft: false
 tags:
 - GitOps
 - Conway's Law

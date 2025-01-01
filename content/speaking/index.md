@@ -8,7 +8,6 @@ aliases:
 author: Chris Short
 date: "2020-11-07"
 description: Talks Chris Short has given. Webinars Chris Short has moderated.
-draft: false
 tags:
 - talks
 - speaking

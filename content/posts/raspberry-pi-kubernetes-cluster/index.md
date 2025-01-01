@@ -7,7 +7,6 @@ cover:
   image: https://shortcdn.com/chrisshort/building-raspberry-pi-kubernetes-cluster.jpg
 date: "2018-01-17"
 description: ""
-draft: false
 tags:
 - open source
 - ansible

@@ -2,7 +2,6 @@
 author: Chris Short
 date: "2009-08-30"
 description: ""
-draft: false
 tags:
 - food
 - recipes

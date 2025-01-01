@@ -8,7 +8,6 @@ cover:
 date: "2022-07-11"
 description: With the help of a static HTML template site, I built my own Linktree
   alternative enabling total control of the entire site and privacy experience.
-draft: false
 tags:
 - analytics
 - Linktree

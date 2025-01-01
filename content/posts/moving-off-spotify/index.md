@@ -5,7 +5,6 @@ cover:
 date: "2022-01-29"
 description: I'm in the middle of moving between a lot of services right now but,
   moving off Spotify was the easiest thing I've done in a long time.
-draft: false
 tags:
 - music
 - Spotify

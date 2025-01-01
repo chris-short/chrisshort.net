@@ -7,7 +7,6 @@ cover:
   image: https://shortcdn.com/chrisshort/handy_recorder.jpg
 date: "2016-08-17"
 description: ""
-draft: false
 tags:
 - air force
 - us air force

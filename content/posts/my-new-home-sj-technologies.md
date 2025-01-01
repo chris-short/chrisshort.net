@@ -6,7 +6,6 @@ cover:
 date: "2018-01-09"
 description: I am very happy to announce that I have a new job. I am now a Senior
   DevOps Consultant with the esteemed SJ Technologies, Inc.
-draft: false
 tags:
 - job
 - DevOps

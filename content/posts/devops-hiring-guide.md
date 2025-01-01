@@ -5,7 +5,6 @@ cover:
   image: https://shortcdn.com/chrisshort/devops_hiring_guide_lead_image.png
 date: "2018-05-16"
 description: ""
-draft: false
 tags:
 - DevOps
 - job

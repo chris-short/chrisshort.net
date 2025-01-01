@@ -4,7 +4,6 @@ author: Chris Short
 date: "2020-07-15"
 description: 'Red Hat® Summit Virtual Experience: Open House - Building Kubernetes
   Operators with Ansible'
-draft: false
 tags:
 - talks
 - speaking

@@ -3,7 +3,6 @@ ShowTOC: false
 author: Chris Short
 date: "2015-09-22"
 description: ""
-draft: false
 image: https://shortcdn.com/chrisshort/ansible_circleA_blue.png
 tags:
 - ansible

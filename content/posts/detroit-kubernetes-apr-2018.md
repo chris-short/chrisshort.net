@@ -7,7 +7,6 @@ cover:
   image: https://shortcdn.com/chrisshort/detroit-kubernetes-apr-2018-cron-jobs.png
 date: "2018-04-30"
 description: ""
-draft: false
 tags:
 - kubernetes
 - Michigan

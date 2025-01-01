@@ -5,7 +5,6 @@ cover:
 date: "2021-03-10"
 description: Chris Short is accidentally named Red Hat CEO but also a Key Opinion
   Leader and  Kubernetes Influencer
-draft: false
 tags:
 - Kubernetes
 - Onalytica

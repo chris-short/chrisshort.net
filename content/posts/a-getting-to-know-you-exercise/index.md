@@ -7,7 +7,6 @@ cover:
 date: "2019-12-20"
 description: At a team meeting last month I took part in a getting to know you exercise
   that I found helpful. I feel it's worth putting out there for others.
-draft: false
 tags:
 - Ansible
 - Linux

@@ -7,7 +7,6 @@ cover:
 date: "2004-09-20"
 description: Microsoft announced that it would share Microsoft Office 2003 source
   code as part of the Microsoft Government Security Program.
-draft: false
 tags:
 - Microsoft
 - open source

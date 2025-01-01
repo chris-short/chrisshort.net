@@ -7,7 +7,6 @@ date: "2018-01-25"
 description: I was a mentor at LinkedIn Mentor Monday Detroit. I was able to talk
   to younger folks and gauge what they are thinking and where they see their careers
   heading.
-draft: false
 tags:
 - detroit
 - mentor

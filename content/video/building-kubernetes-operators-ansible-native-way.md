@@ -5,7 +5,6 @@ date: "2019-10-09"
 description: Ansible is a first-class citizen in the Operator SDK. Using Ansible frees
   up application engineers, maximizes time to automate and orchestrate your applications,
   and doing it across new & existing platforms.
-draft: false
 tags:
 - talks
 - speaking

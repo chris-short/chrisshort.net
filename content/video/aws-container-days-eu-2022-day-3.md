@@ -3,7 +3,6 @@ ShowTOC: false
 author: Chris Short
 date: "2022-05-15"
 description: Amazon EKS Anywhere Curated Packages and Cilium on EKS Anywhere
-draft: false
 tags:
 - talks
 - speaking

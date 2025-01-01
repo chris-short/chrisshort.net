@@ -6,7 +6,6 @@ cover:
   image: https://shortcdn.com/chrisshort/operation-eagle-claw.png
 date: "2017-01-18"
 description: ""
-draft: false
 tags:
 - DevOps
 - military

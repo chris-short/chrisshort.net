@@ -7,7 +7,6 @@ date: "2018-04-30"
 description: I recently spoke at AWS Michigan about cloud migrations. The talk wasn't
   AWS specific. We did talk about it. From defining cloud to prioritization to cost
   overruns...
-draft: false
 tags:
 - devops
 - AWS

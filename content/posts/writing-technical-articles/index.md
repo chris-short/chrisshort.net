@@ -4,7 +4,6 @@ author: Chris Short
 date: "2018-05-25"
 description: Pick three points, add an introduction and conclusion and you have the
   beginnings of a great article.
-draft: false
 image: https://shortcdn.com/chrisshort/typewriter.jpg
 imagecap: ""
 tags:

@@ -3,7 +3,6 @@ ShowTOC: false
 author: Chris Short
 date: "2020-06-24"
 description: 'Lesson Learned From Cloud Migrations: Planning is Everything'
-draft: false
 tags:
 - talks
 - speaking

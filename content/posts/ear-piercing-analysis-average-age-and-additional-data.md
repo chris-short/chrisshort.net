@@ -5,7 +5,6 @@ aliases:
 author: Chris Short
 date: "2009-05-26"
 description: ""
-draft: false
 tags:
 - ear piercing
 - kids

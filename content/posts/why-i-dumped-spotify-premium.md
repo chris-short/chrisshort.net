@@ -5,7 +5,6 @@ cover:
   image: https://shortcdn.com/chrisshort/spotify.png
 date: "2012-01-07"
 description: ""
-draft: false
 tags:
 - Spotify
 - streaming music service

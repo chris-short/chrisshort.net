@@ -7,7 +7,6 @@ cover:
   image: https://shortcdn.com/chrisshort/a-night-of-devops.jpg
 date: "2017-05-30"
 description: ""
-draft: false
 tags:
 - DevOps
 - cloud native

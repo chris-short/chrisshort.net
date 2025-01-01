@@ -8,7 +8,6 @@ cover:
   image: https://shortcdn.com/chrisshort/drawings/chrome-devtools-h2.png
 date: "2016-11-16"
 description: ""
-draft: false
 tags:
 - HTTP2
 - drawing

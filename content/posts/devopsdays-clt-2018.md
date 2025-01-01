@@ -10,7 +10,6 @@ date: "2018-02-28"
 description: This talk walks through the use case of having to apply new certificates
   to an unfamiliar application. I built a 50-line Go tool to test and audit certifcate
   chains and web server configurations.
-draft: false
 tags:
 - open source
 - devops

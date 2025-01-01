@@ -2,7 +2,6 @@
 author: Chris Short
 date: "2018-10-24"
 description: Chris Short's projects littered across the fruited interwebs.
-draft: false
 tags:
 - projects
 - open source

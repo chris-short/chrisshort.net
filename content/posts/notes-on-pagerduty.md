@@ -5,7 +5,6 @@ cover:
   image: https://shortcdn.com/chrisshort/PagerDuty-logo-green.png
 date: "2016-10-05"
 description: ""
-draft: false
 tags:
 - pagerduty
 - oncall

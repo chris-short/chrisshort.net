@@ -8,7 +8,6 @@ cover:
 date: "2022-06-06"
 description: Lucas Käldström has a thesis out, 'Encoding human-like operational knowledge
   using declarative Kubernetes operator patterns.' We sat down to talk about it.
-draft: false
 showToc: true
 tags:
 - Lucas Käldström

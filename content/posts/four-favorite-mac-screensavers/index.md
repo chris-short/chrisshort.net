@@ -11,7 +11,6 @@ cover:
   image: https://shortcdn.com/chrisshort/dmitry-chernyshov-mP7aPSUm7aE-unsplash.webp
 date: "2021-09-25"
 description: Chris Short's three favorite macOS screensavers
-draft: false
 tags:
 - macOS
 - screensaver

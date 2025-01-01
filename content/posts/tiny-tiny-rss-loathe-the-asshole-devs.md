@@ -3,7 +3,6 @@ ShowTOC: false
 author: Chris Short
 date: "2013-06-01"
 description: ""
-draft: false
 tags:
 - development
 - culture

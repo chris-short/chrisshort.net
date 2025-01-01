@@ -5,7 +5,6 @@ cover:
   image: https://shortcdn.com/chrisshort/Virtualbox_logo.png
 date: "2013-05-03"
 description: ""
-draft: false
 tags:
 - virtualbox
 - centos

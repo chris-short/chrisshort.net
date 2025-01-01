@@ -4,7 +4,6 @@ aliases:
 author: Chris Short
 date: "2018-08-14"
 description: Writing that Chris Short has done outside of his own web properties
-draft: false
 title: Writing Elsewhere
 ---
 

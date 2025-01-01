@@ -4,7 +4,6 @@ cover:
   image: https://shortcdn.com/chrisshort/happy-new-year-gold.jpg
 date: "2020-01-01"
 description: Chris Short looks back at 2019 and looks ahead to 2020.
-draft: false
 tags:
 - DevOps
 - developer

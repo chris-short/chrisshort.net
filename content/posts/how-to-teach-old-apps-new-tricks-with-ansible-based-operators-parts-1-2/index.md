@@ -6,7 +6,6 @@ date: "2019-07-19"
 description: Operators help simplify deployment & operations of stateful applications
   in Kubernetes & OpenShift. Writing Operators with Ansible lowers the barrier to
   entry.
-draft: false
 tags:
 - Kubernetes
 - Operator

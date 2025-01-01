@@ -8,7 +8,6 @@ cover:
 date: "2024-05-15"
 description: After the death of my niece, Lucy, I decided to donate a portion of our
   household compute to cancer research through Folding@Home
-draft: false
 tags:
 - cancer
 - Folding@Home

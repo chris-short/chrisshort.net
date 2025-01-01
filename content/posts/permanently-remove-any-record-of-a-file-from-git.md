@@ -6,7 +6,6 @@ date: "2016-06-25"
 description: Distributed version control isn't designed to allow folks to delete every
   instance of a file. But, if you run into a case where you need to expunge a file
   in git, here is how we did it.
-draft: false
 tags:
 - git
 - remove

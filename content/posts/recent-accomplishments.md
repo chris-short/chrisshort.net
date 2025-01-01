@@ -5,7 +5,6 @@ cover:
   image: https://shortcdn.com/chrisshort/success.jpg
 date: "2017-02-03"
 description: ""
-draft: false
 tags:
 - DevOps
 - open source

@@ -6,7 +6,7 @@ aliases:
 author: Chris Short
 date: "2016-12-11"
 description: ChrisShort.net Privacy Policy
-draft: false
+searchHidden: true
 title: Privacy Policy
 ---
 

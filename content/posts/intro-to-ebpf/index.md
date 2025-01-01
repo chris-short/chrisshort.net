@@ -8,7 +8,6 @@ cover:
 date: "2022-08-04"
 description: eBPF is VERY powerful because it's so ingrained where all the magic happens
   (the Linux kernel). eBPF lets you write custom code in the kernel.
-draft: false
 tags:
 - eBPF
 - Linux

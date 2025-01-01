@@ -2,7 +2,6 @@
 author: Chris Short
 date: "2016-05-10"
 description: ""
-draft: false
 tags:
 - interview
 - mac os x

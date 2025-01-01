@@ -9,7 +9,6 @@ cover:
 date: "2003-06-10"
 description: I decided to do some searching and see what other people were saying
   about ease of use in Linux. I found the results of my searches to be less than fruitful.
-draft: false
 tags:
 - linux
 - Microsoft

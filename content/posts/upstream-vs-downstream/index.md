@@ -5,7 +5,6 @@ cover:
   image: https://shortcdn.com/chrisshort/stream.jpg
 date: "2019-06-25"
 description: The differences between upstream and downstream
-draft: false
 tags:
 - open source
 - upstream

@@ -8,7 +8,6 @@ date: "2003-06-24"
 description: Blogs are essentially evolution of Internet communications. E-mail, instant
   messaging, newsgroups and forums are all great forms of communication but a weblog
   or blog offers unique, personal communication on a global scale.
-draft: false
 tags:
 - internet
 - writing

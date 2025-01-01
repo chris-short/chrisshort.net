@@ -8,7 +8,6 @@ cover:
 date: "2007-02-12"
 description: If you've never heard of Gina Elise and her project Pin Ups for Vets
   prepare to become very informed and amazed.
-draft: false
 tags:
 - interview
 - veteran

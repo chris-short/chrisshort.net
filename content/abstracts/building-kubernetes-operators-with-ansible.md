@@ -4,7 +4,6 @@ aliases:
 author: Chris Short
 date: "2019-08-07"
 description: ""
-draft: false
 tags:
 - Kubernetes
 - Operators

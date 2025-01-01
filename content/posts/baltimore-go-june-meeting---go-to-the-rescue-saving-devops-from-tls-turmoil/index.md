@@ -9,7 +9,6 @@ cover:
 date: "2018-06-08"
 description: The Baltimore Go Meetup is top notch. Hosted at the Under Armour headquarters,
   they really left nothing to be desired from my perspective.
-draft: false
 tags:
 - speaking
 - talks

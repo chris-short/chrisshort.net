@@ -3,7 +3,6 @@ ShowTOC: false
 author: Chris Short
 date: "2010-07-27"
 description: ""
-draft: false
 tags:
 - video games
 - wii sports

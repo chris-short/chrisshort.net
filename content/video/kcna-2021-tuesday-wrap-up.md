@@ -4,7 +4,6 @@ author: Chris Short
 date: "2021-10-12"
 description: Chris Short sits down with KubeCon speakers, attendees, and Cloud Native
   contributors for the KubeCon NA 2021 (Los Angeles) wrap up show on Day 0 of KubeCon.
-draft: false
 tags:
 - talks
 - speaking

@@ -6,7 +6,6 @@ date: "2018-01-01"
 description: A former co-worker and now friend used to have a tagline, "Everyday is
   a school day." I remind myself of this fact nearly every time I learn something
   new.
-draft: false
 tags:
 - philosophy
 - life

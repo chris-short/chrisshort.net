@@ -2,7 +2,6 @@
 author: Chris Short
 date: "2017-11-30"
 description: Books Chris Short has Contributed To or Written
-draft: false
 tags:
 - books
 title: Books

@@ -4,7 +4,6 @@ cover:
   image: https://shortcdn.com/chrisshort/yahoo.jpg
 date: "2016-07-26"
 description: ""
-draft: false
 tags:
 - Yahoo
 - Tumblr

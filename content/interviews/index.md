@@ -5,7 +5,6 @@ aliases:
 author: Chris Short
 date: "2016-05-21"
 description: Interviews Chris Short has given, conducted, or participated in
-draft: false
 tags:
 - interviews
 - podcast

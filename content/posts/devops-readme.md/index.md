@@ -3,7 +3,6 @@ author: Chris Short
 caption: Photo from [Magnus Hedemark](https://twitter.com/Magnus919/status/1453161676841357326)
 date: "2017-09-27"
 description: A curated list of things to read to level up your DevOps skills and knowledge.
-draft: false
 image:
 - https://shortcdn.com/chrisshort/devopsdays-raleigh-2017-cropped.jpg
 showTOC: false
