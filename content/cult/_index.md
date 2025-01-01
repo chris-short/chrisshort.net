@@ -1,7 +1,6 @@
 ---
 aliases:
 - /center-for-purposeful-living
-- /cult
 - /cults
 - /foundation-for-purposeful-living
 - /foundation-for-purposeful-living/a-brief-history-of-center-for-purposeful-living-by-john-david-short
@@ -9,7 +8,7 @@ aliases:
 - /post/119631260/center-for-purposeful-living
 - /the-cult
 author: Chris Short
-date: "2005-10-03"
+date: "2005-07-08"
 lastmod: "2025-01-01"
 description: Allied Wisdom Foundation, Human Service Alliance, Center for Purposeful Living, Foundation for Purposeful Living, or whatever they're calling themselves this year is undeniably a cult.
 tags:
@@ -22,7 +21,8 @@ tags:
 - University for Human Goodness
 - Derwyn Lackey
 - Lee W Kosub
-title: Allied Wisdom Foundation
+slug: the-cult
+title: The cult I was forced to join as child
 ---
 
 **Note:** This cult keeps changing its branding, naming, and other public-facing names due to my work here. As a result, any time I poke this content, I update it with whatever I can find. Feel free to [Contact Me](/contact/) if you'd like to share your stories or help me update this page confidentially.
