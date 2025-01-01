@@ -23,7 +23,7 @@ I got lucky, but you could benefit from the guidance. Happy SSGing!
 
 ### TOML to YAML
 
-I find TOML to be better than YAML, in general. But, the world has made YAML our grace and savior. I wanted to edit all of my front matter so that only one markup language was used (Fun fact! YAML was). Hugo has a built-in tool to speed converting front matter:
+I find TOML to be better than YAML, in general. But, the world has made YAML our grace and savior. I wanted to edit all of my front matter so that only one markup language was used. Hugo has a built-in tool to speed converting front matter:
 
 ```bash
 hugo convert toYAML --unsafe
