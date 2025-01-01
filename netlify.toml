@@ -56,8 +56,8 @@ status = 301
 force = true
 
 [[redirects]]
-from = "/resume/Chris-Short-Resume.pdf*"
-to = "/curriculum-vitae/Chris-Short-Resume.pdf"
+from = "/curriculum-vitae/Chris-Short-Resume.pdf*"
+to = "/resume/Chris-Short-Resume.pdf*"
 status = 301
 force = true
 
