@@ -83,7 +83,7 @@ params:
       threshold: 0.1
       ignoreLocation: true
       keys: ["title", "permalink", "summary", "description"]
-    imageUrl: "https://shortcdn.com/chrisshort/about/Chris-Short-Sept-2023-Profile-Pic-Square-256x256.webp" # optional
+    imageUrl: "/img/Chris-Short-Sept-2023-Profile-Pic-Square-256x256.webp" # optional
     imageTitle: "Chris Short Headshot (Chris in his office with pictures of Detroit in background)" # optional
     imageWidth: 256 # custom size
     imageHeight: 256 # custom size
