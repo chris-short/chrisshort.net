@@ -42,7 +42,7 @@ Fliqlo is my new, go-to screensaver of choice for macOS. fliqlo is a simple yet 
 
 ## Drift
 
-![Drift screensaver on macOS](drift_macos.jpg#center)
+![Drift screensaver on macOS](drift_macos.webp#center)
 
 A prepackaged screensaver with macOS since Catalina Beta 3, Drift has a flowy kind of feel. It's a screensaver that makes you feel like you could be sitting in a digital ocean of 1s and 0s washing over you. It's currently the default on my daily driver because it's so relaxing.
 
