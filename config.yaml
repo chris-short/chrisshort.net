@@ -97,7 +97,7 @@ params:
     ShowRssButtonInSectionTermList: true
     ShowAllPagesInArchive: true
     ShowPageNums: true
-    ShowToc: true
+    ShowTOC: true
     subtitle: "Open Source | DevOps | Kubernetes Contributor | r/devopsish | Disabled Veteran | Detroit | He/Him | Views solely mine"
     title: "Chris Short" # optional default will be site title
 

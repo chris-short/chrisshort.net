@@ -1,5 +1,6 @@
 ---
 ShowTOC: true
+TOCOpen: true
 author: Chris Short
 cover:
   alt: I prompted Stable Diffusion (Generative AI model) to draw itself. It drew something

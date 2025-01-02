@@ -1,13 +1,13 @@
 ---
-ShowTOC: true
 aliases:
 - the-ultimate-guide-to-buying-a-nintendo-switch
+- parents-guide-to-nintendo-switch
 author: Chris Short
 cover:
   alt: The Nintendo Switch lineup
   image: https://shortcdn.com/chrisshort/nintendo-switch-lineup.webp
 date: "2023-12-13"
-description: Lost on what Nintendo Switch to buy? Which games to get? This guide has
+description: Parents guide to Nintendo Switch — Lost on what Nintendo Switch to buy? Which games to get? This guide has
   you covered with tips on models, accessories, parental controls, and must-have games
 tags:
 - Nintendo Switch
@@ -29,11 +29,10 @@ tags:
 - storage
 - parental controls
 - Nintendo eShop
-- ""
 title: The Weary Parents Guide to Buying a Nintendo Switch
+ShowTOC: true
+TOCOpen: true
 ---
-
-{{< carbon >}}
 
 **Update (2024-12-03):** There is a high probability the sequel to the Nintendo Switch will be out some time in the first half of 2025. There's a lot of speculation still but, I want you to know a new version will be available next year.
 
@@ -44,6 +43,8 @@ Someone in your life wants a [**Nintendo Switch**][1], and you don't know what t
 If it's their first console and they are under 18 (or an adult who travels frequently), they will play mainly on the Nintendo Switch's screen, not a TV. Even as a traditional gamer, I play the Switch while mobile more often than sitting in front of the TV. All Nintendo Switch screens have a 720p resolution (4K is the leading console standard). The [Zelda games][2] are visually stunning and worth playing on a big screen.
 
 ## Which Switch
+
+{{< carbon >}}
 
 It's important to note that there are three Nintendo Switch to choose from:
 
