@@ -22,8 +22,8 @@ tags:
 - time
 - drift
 title: 'Updated: My three favorite macOS screensavers'
-ShowToc: true
-TocOpen: true
+ShowTOC: true
+TOCOpen: true
 ---
 
 Screensavers, you say? They’re more art than function these days. But, why not inject something either beautiful or useful into this mundane task of screen locking. Yes, it would be best if you still were locking your screen unless you want your four-year-old Slack messaging your co-workers. I have used a hot corner to the lower left to start my screen saver, locking the screen after a few seconds (if I accidentally trigger it). My screensaver will kick in after a healthy 10 minutes (I do work on multiple machines throughout the day). But, it’s a security practice you should never get out of the habit of doing. Lock your screen when you walk away.

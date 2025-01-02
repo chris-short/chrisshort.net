@@ -1,5 +1,6 @@
 ---
 ShowTOC: true
+TOCOpen: true
 author: Chris Short
 cover:
   alt: MacBook Air 15 inch with 1Password logo superimposed

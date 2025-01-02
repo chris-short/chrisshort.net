@@ -1,5 +1,6 @@
 ---
 ShowTOC: true
+TOCOpen: true
 author: Chris Short
 cover:
   alt: Hands holding burning money

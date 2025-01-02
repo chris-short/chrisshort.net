@@ -1,5 +1,6 @@
 ---
 ShowTOC: true
+TOCOpen: true
 author: Chris Short
 cover:
   alt: Happy 10th Birthday, Kubernetes | Photo from Kubernetes Contributor Summit
