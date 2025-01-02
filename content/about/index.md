@@ -5,8 +5,8 @@ date: "2016-04-17"
 description: "About Chris Short"
 summary: "Learn more about Chris Short"
 tags: ["about"]
-ShowToc: true
-TocOpen: true
+ShowTOC: true
+TOCOpen: true
 ---
 
 If you need to get in touch with me, please reach out via the [**Contact**](/contact/) page.

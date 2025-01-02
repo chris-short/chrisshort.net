@@ -5,8 +5,8 @@ date: "2005-08-05"
 description: "3C2X1 - US Air Force Tech Control"
 summary: "3C2X1 - Tech Control: What it was, what it meant to be one, what tech controllers do, and what it morphed into"
 tags: ["Tech Control", "Water Walker", "Technical Controller", "US Air Force", "USAF", "3C231", "3C251", "3C271", "3C291"]
-ShowToc: true
-TocOpen: true
+ShowTOC: true
+TOCOpen: true
 ---
 
 ## 3C2X1 Specialty Summary

@@ -1,5 +1,6 @@
 ---
 ShowTOC: true
+TOCOpen: true
 author: Chris Short
 cover:
   image: https://shortcdn.com/chrisshort/reading-the-news.jpg
