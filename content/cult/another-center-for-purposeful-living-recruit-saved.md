@@ -9,6 +9,7 @@ tags:
 - human service alliance
 - hsa
 - foundation for purposeful living
+series: The cult I was forced to join as child
 title: Another Center for Purposeful Living Recruit Saved
 ---
 

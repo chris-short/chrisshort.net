@@ -12,6 +12,7 @@ author: Chris Short
 date: "2005-10-03"
 lastmod: "2025-01-01"
 description: Allied Wisdom Foundation, Human Service Alliance, Center for Purposeful Living, Foundation for Purposeful Living, or whatever they're calling themselves this year is undeniably a cult.
+series: The cult I was forced to join as child
 tags:
 - Allied Wisdom Foundation
 - Center for Purposeful Living
