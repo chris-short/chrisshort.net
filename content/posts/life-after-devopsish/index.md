@@ -1,5 +1,6 @@
 ---
 ShowTOC: true
+TOCOpen: true
 author: Chris Short
 cover:
   alt: A mint leaf and a burnt match

@@ -1,5 +1,6 @@
 ---
-ShowToc: true
+ShowTOC: true
+TOCOpen: true
 author: Chris Short
 cover:
   aliases:
