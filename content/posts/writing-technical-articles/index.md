@@ -53,7 +53,7 @@ Proofreading is hard. But, the good news is there are some tools available to he
 
     NOTE: If there are other handy tools for proofreading or editing please [submit a pull request](https://github.com/chris-short/chrisshort.net/tree/master/content/post/writing-technical-articles) to this article.
 
-You can also ask for help proofreading. For example, when submitting an article to a site like [opensource.com](https://opensource.com/how-submit-article), they have a team of editors and staff available to assist. When in doubt, ask for help. Perhaps a friend, colleague, supervisor or family member has some skills to assist. It never hurts to ask. But, remember, that people edit for a living. Be sure to include a form of compensation for their time.
+You can also ask for help proofreading. When in doubt, ask for help. Perhaps a friend, colleague, supervisor or family member has some skills to assist. It never hurts to ask. But, remember, that people edit for a living. Be sure to include a form of compensation for their time.
 
 The last (and sometimes most important) thing to consider when writing a technical article is that there are formatting processes to writing any work. Even a blog post needs tags, categories, and images. When it comes to stock images, there are two sites that have a wide selection of free to use, no credit required works:
 
