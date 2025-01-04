@@ -34,8 +34,6 @@ Download: [MP4](https://shortcdn.com/chrisshort/KBE_Insider_E17_Chris_Short.mp4)
 
 > We kick-off 2023 with our guest and former co-host of KBE Insider, Chris Short, Sr. Developer Advocate at AWS. We’ll get updates on upcoming community events such as the Kubernetes Contributors Summit in Europe as well as KubeCon Europe, and we’ll learn more about how you can participate. Chris will also update us on the Kubernetes Contributors Communications project and why this is an important initiative for the community, especially for non-code contributors!
 
-{{< youtube JNK-qtjbkKE >}}
-
 ## KBE Insider Detroit - Chris Short, AWS
 
 Date: 2022-11-26  
@@ -44,8 +42,6 @@ Download: [MP4](https://shortcdn.com/chrisshort/KBE_Insider_Detroit-Chris_Short-
 
 > We catch up with Chris Short, Sr. Developer Advocate at AWS, in his hometown while in Motor City for KubeCon Detroit. This fun car ride covers talk on tech bags and local Detroit tidbits to the importance of contributing to open source. Chris shares what he’s been up to at AWS, CNCF, and gives a few shout-outs to some folks who have made a difference in the community that you may not know of yet, so watch this episode and learn more!
 
-{{< youtube 9IlyDruQY_o >}}
-
 ## How Do We Protect the Software Supply Chain?
 
 Date: 2022-11-08  
@@ -53,8 +49,6 @@ Source: [How Do We Protect the Software Supply Chain? — The New Stack](https:
 Download: [MP3](https://shortcdn.com/chrisshort/How_Do_We_Protect_the_Software_Supply_Chain.mp3) or [MP4](https://shortcdn.com/chrisshort/How_Do_We_Protect_the_Software_Supply_Chain.mp4)
 
 > In this episode of The New Stack Makers podcast, Aeva Black of Microsoft and Chris Short of AWS say more action — and automation — is needed.
-
-{{< youtube aQAFIw4CCJg >}}
 
 ## Screaming in the Cloud: Episode 374 — Kubernetes and OpenGitOps with Chris Short
 
@@ -74,14 +68,10 @@ Source: [Developer Avocados - Chris Short](https://avocados.dev/adventcado/2021/
 Date: 2020-10-12  
 Source: [CI/CD with Chris Short (2/2)](https://youtu.be/gvCNHeSnglY)
 
-{{< youtube gvCNHeSnglY >}}
-
 ## Roaring Elephant: CI/CD with Chris Short (1/2)
 
 Date: 2020-10-12  
 Source: [CI/CD with Chris Short (1/2)](https://youtu.be/3dGESuSggW0)
-
-{{< youtube 3dGESuSggW0 >}}
 
 ## The CloudCast: Learning Streaming from the Experts
 
@@ -104,7 +94,6 @@ Download: [MP3](https://shortcdn.com/chrisshort/ADO_049_DevOps_Open_Source_OpenS
 Date: 2020-09-14  
 Source: [Tech Breakfast Podcast - Chris Short](https://anchor.fm/techbreakfast/episodes/Chris-Short-K8s-Release-Team---Cloud-Native-Computing-Foundation---NVIDIA-to-buy-Arm-for-40B---Oracle-and-TikTok---OpenShift-TV---Walmart-Brings-Back-Gateway-Computers-ejk8n1)
 
-<iframe src="https://creators.spotify.com/pod/show/techbreakfast/embed/episodes/73-Chris-Short-K8s-Release-Team---Cloud-Native-Computing-Foundation---NVIDIA-to-buy-Arm-for-40B---Oracle-and-TikTok---OpenShift-TV---Walmart-Brings-Back-Gateway-Computers-ejk8n1/a-a21k3cq" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
 
 ## Security, Open Links and BIG AW$ Bills [Chris Short, Aug 11]
 
@@ -113,8 +102,6 @@ Source: [Security, Open Links and BIG AW$ Bills [Chris Short, Aug 11]](https://y
 Download: [MP4](https://shortcdn.com/chrisshort/Security-Open-Links-and-BIG-AWS-Bills-Chris-Short-20200811.mp4)
 
 > Discussion about how a series of issues including leaving large files publicly accessible lead to over $2500 in AWS charges in 24 hours!  We discuss how it happened and what you can do to prevent it.
-
-{{< youtube asTE7JbNRXw >}}
 
 ## The 20 Best Podcasts About All Things Tech
 
@@ -152,8 +139,6 @@ Date: 2020-03-31
 Source: [[DevOpsSpeakeasy Podcast] S01E07: Chris Short on Openshift, K8S Operators, and kubectl pronunciation](https://youtu.be/SYRAFc0h6a0)  
 Download: [MP3](https://shortcdn.com/chrisshort/devops-speakeasy-s01e01-chris-short-openshift-kubernetes-operators-how-to-pronounce-kubectl.mp3)
 
-{{< youtube SYRAFc0h6a0 >}}
-
 ## Migrating applications to containers and Kubernetes: 5 best practices
 
 Date: 2020-03-04  
@@ -180,8 +165,6 @@ Source: [Red Hat's Chris Short On Redirecting A War Vet's Energy To Lifelong Lea
 Date: 2019-11-21  
 Source: [DevOps Speakeasy at Kubecon San Diego 2019: Chris Short on DevOps!](https://youtu.be/EO54iYYDZoU)  
 Download: [MP4](https://shortcdn.com/chrisshort/DevOps-Speakeasy-Kubecon-San-Diego-2019-Chris-Short-on-DevOps.mp4)
-
-{{< youtube EO54iYYDZoU >}}
 
 ## The Intersection of DevOps and Kubernetes
 
@@ -290,8 +273,6 @@ Download: [MP3](https://shortcdn.com/chrisshort/tcp-episode-16-mix.mp3)
 Date: 2019-01-11  
 Source: [DevOps Defined - What is Kubernetes?](https://youtu.be/ES2ShEzVyaI)
 
-{{< youtube ES2ShEzVyaI >}}
-
 ## On-Call Nightmares Podcast: Episode 3
 
 Date: 2018-12-27  
@@ -344,8 +325,6 @@ Download: [MP3](https://shortcdn.com/chrisshort/chris-short-on-sre-devsecops-pip
 Date: 2018-06-01  
 Source: [Chris Short describing his talk at DevOpsDays Toronto](https://youtu.be/gwOmVh7lCEA)  
 Download: [MP4](https://shortcdn.com/chrisshort/devopsdays-toronto-2018-ken-mugrage-chris-short.mp4) [MP3](https://shortcdn.com/chrisshort/devopsdays-toronto-2018-ken-muckrage-chris-short.mp3)
-
-{{< youtube gwOmVh7lCEA >}}
 
 ## Discussing DevOps Details aka The 3D Podcast: Episode 113
 
