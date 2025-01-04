@@ -95,7 +95,7 @@ Analytics: <https://app.usefathom.com/share/zoibslyn/kubereadme.com>
 {{< youtube Ibnj-YZTypU >}}
 
 Source: [DevOps-README.md](https://github.com/chris-short/devopsreadme.com)  
-Analytics: <https://app.usefathom.com/share/ilzvzsfr/devopsreadme.com>
+Analytics: <https://app.usefathom.com/share/zjfvvlgv/devopsreadme.com>
 
 ## DevOps Newsletters
 

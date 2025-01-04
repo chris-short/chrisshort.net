@@ -7,6 +7,7 @@ author: John David Short
 date: "2005-09-14"
 description: ""
 draft: true
+series: The cult I was forced to join as child
 tags:
 - center for purposeful living
 - human service alliance

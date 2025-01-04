@@ -7,6 +7,7 @@ aliases:
 author: Chris Short
 date: "2005-07-14"
 description: ""
+series: The cult I was forced to join as child
 tags:
 - center for purposeful living
 - human service alliance

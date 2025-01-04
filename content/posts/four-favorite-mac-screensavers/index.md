@@ -1,13 +1,14 @@
 ---
+aliases:
+- /updated-my-four-favorite-macos-screensavers/
+- updated-my-four-favorite-macos-screensavers
+- my-three-favorite-macos-screensavers
+- /my-three-favorite-macos-screensavers/
 author: Chris Short
 cover:
-  aliases:
-  - /updated-my-four-favorite-macos-screensavers/
-  - updated-my-four-favorite-macos-screensavers
-  - my-three-favorite-macos-screensavers
-  - /my-three-favorite-macos-screensavers/
   alt: MacBook Pro
   image: dmitry-chernyshov-mP7aPSUm7aE-unsplash.webp
+  relative: true
 date: "2021-09-25"
 description: Chris Short's three favorite macOS screensavers
 tags:

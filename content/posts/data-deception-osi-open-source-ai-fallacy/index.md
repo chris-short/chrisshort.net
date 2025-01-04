@@ -7,7 +7,8 @@ cover:
     that's a cross between a robot and an electronic toy you'd give a five-year-old.
   caption: Prompting Stable Diffusion to draw itself. Graphic created by Generative
     AI.
-  image: https://shortcdn.com/chrisshort/AI-drawing-AI.webp
+  image: AI-drawing-AI.webp
+  relative: true
 date: "2024-07-23"
 description: The OSI's draft Open Source AI Definition could harm open source by allowing
   non-reproducible data, enabling openwashing, and threatening transparency.
