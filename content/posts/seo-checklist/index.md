@@ -1,5 +1,6 @@
 ---
-ShowToc: true
+ShowTOC: true
+TOCOpen: true
 author: Chris Short
 cover:
   caption: A simple, yet powerful search engine optimization (SEO) checklist

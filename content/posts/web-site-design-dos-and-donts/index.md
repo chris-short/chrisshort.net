@@ -1,5 +1,6 @@
 ---
-ShowToc: true
+ShowTOC: true
+TOCOpen: true
 author: Chris Short
 cover:
   caption: Web Site Design Do's and Don'ts
