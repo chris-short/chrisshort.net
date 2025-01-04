@@ -67,6 +67,18 @@ to = "https://devopsish.com/"
 status = 302
 force = true
 
+[[redirects]]
+from = "/archive"
+to = "/tags"
+status = 302
+force = true
+
+[[redirects]]
+from = "/archives"
+to = "/tags"
+status = 302
+force = true
+
 [[headers]]
 for = "/*"
 [headers.values]
