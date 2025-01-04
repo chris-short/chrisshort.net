@@ -116,7 +116,7 @@ Anything is possible with the proper care. In conclusion, a kid with a rough upb
 
 ### Comments
 
-**Feel free to comment about this blog on [Reddit][20], [Hacker News][21], or the social media network of your choice.**
+Feel free to comment about this blog on [Reddit][20], [Hacker News][21], or the social media network of your choice.
 
 [1]: https://k8s.io
 [2]: https://k8s.dev
