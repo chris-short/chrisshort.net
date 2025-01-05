@@ -88,7 +88,7 @@ But Most Importantly, I'm a Gopher
 
 ### Now what
 
-![Dispicable](mj-annoyed.mp4#center)
+![Dispicable](mj-annoyed.mp4)
 
 * What do we do?
 * Look at statistical probabilities and start shuffling keys around?
