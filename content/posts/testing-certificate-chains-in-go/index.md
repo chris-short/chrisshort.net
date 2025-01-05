@@ -40,9 +40,9 @@ But Most Importantly, I'm a Gopher
 * Before we could do any re-engineering work, we had to resolve a critical issue.
 * The certificates were about to expire!
 
-### ...
+### Groundhog Day
 
-{{< relvideo bill-murray-toaster.mp4 >}}
+{{< autovideo bill-murray-toaster.mp4 >}}
 
 * Oh!
 * And the only environment this application was in was production
@@ -88,7 +88,7 @@ But Most Importantly, I'm a Gopher
 
 ### Now what
 
-{{< relvideo mj-annoyed.mp4 >}}
+{{< autovideo mj-annoyed.mp4 >}}
 
 * What do we do?
 * Look at statistical probabilities and start shuffling keys around?
