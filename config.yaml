@@ -89,15 +89,15 @@ params:
     imageTitle: "Chris Short Headshot (Chris in his office with pictures of Detroit in background)" # optional
     imageWidth: 256 # custom size
     imageHeight: 256 # custom size
-    ShowShareButtons: false
-    ShowReadingTime: true
-    ShowPostNavLinks: true
     ShowBreadCrumbs: true
     ShowCodeCopyButtons: true
-    ShowRssButtonInSectionTermList: true
-    ShowAllPagesInArchive: true
+    ShowFullTextinRSS: true
     ShowPageNums: true
+    ShowPostNavLinks: true
+    ShowReadingTime: true
+    ShowRssButtonInSectionTermList: true
     ShowTOC: true
+    ShowShareButtons: false
     subtitle: "Open Source | DevOps | Kubernetes Contributor | r/devopsish | Disabled Veteran | Detroit | He/Him | Views solely mine"
     title: "Chris Short" # optional default will be site title
 
@@ -180,3 +180,5 @@ services:
     disableInlineCSS: true
   twitter:
     disableInlineCSS: true
+  rss:
+    limit: 12
