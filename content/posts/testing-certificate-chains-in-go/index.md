@@ -42,7 +42,7 @@ But Most Importantly, I'm a Gopher
 
 ### ...
 
-![This Sound Familiar?](bill-murray-toaster.mp4#center)
+{{< relvideo bill-murray-toaster.mp4 >}}
 
 * Oh!
 * And the only environment this application was in was production
