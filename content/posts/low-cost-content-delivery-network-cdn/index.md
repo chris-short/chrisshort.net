@@ -4,6 +4,7 @@ author: Chris Short
 cover:
   image: cloudflare-s3-cdn.webp
   alt: Cloudflare logo + S3 logo = Love
+  relative: true
 date: "2016-06-14"
 description: ""
 draft: true
