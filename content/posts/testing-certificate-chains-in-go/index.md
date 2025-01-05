@@ -42,7 +42,7 @@ But Most Importantly, I'm a Gopher
 
 ### ...
 
-![This Sound Familiar?](bill-murray-toaster.gif#center)
+![This Sound Familiar?](bill-murray-toaster.mp4#center)
 
 * Oh!
 * And the only environment this application was in was production
@@ -86,9 +86,9 @@ But Most Importantly, I'm a Gopher
 * This is when you learn...
 * Cryptography is hard but implementing cryptographic best practices might be even harder
 
-### ...
+### Now what
 
-![Dispicable](mj-annoyed.gif#center)
+![Dispicable](mj-annoyed.mp4#center)
 
 * What do we do?
 * Look at statistical probabilities and start shuffling keys around?
