@@ -1,0 +1,14 @@
+---
+    name: Scheduled Netlify Site Build
+    on:
+      schedule:
+      - cron: '01 03 * * *'
+    jobs:
+      build:
+        runs-on: ubuntu-latest
+        steps:
+        - name: Trigger build on Netlify
+          env:
+            TOKEN: ${{ secrets.NETLIFY_BUILD_HOOK_KEY }}
+          run: >-
+              curl -X POST -d {} https://api.netlify.com/build_hooks/${TOKEN}
