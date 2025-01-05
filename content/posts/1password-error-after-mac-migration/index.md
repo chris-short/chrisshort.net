@@ -5,6 +5,7 @@ author: Chris Short
 cover:
   alt: MacBook Air 15 inch with 1Password logo superimposed
   image: mba15-1password.webp
+  relative: false
 date: "2023-06-17"
 description: 'The most annoying 1Password error I''ve encountered: 1Password has detected
   an error with your local app database, please contact support@1password.com'
