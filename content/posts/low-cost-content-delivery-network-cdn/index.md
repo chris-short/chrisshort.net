@@ -2,7 +2,9 @@
 ShowTOC: false
 author: Chris Short
 cover:
-  image: https://shortcdn.com/chrisshort/cloudflare-s3-cdn.png
+  image: cloudflare-s3-cdn.webp
+  alt: Cloudflare logo + S3 logo = Love
+  relative: false
 date: "2016-06-14"
 description: ""
 draft: true
@@ -30,11 +32,11 @@ First, setup a [CloudFlare](https://www.cloudflare.com/a/sign-up) (you will need
 
 In your AWS Console create an S3 bucket with the URL for your new CDN (cdn.chrisshort.net is my URL for content delivery):
 
-[![AWS S3 Management Console](https://shortcdn.com/chrisshort/S3-Management-Console-01.png)](https://shortcdn.com/chrisshort/S3-Management-Console-01.png)
+[![AWS S3 Management Console](S3-Management-Console-01.webp)](S3-Management-Console-01.webp)
 
 Next, right-click your new bucket and select **Properties**. Make note of the **Endpoint** URL (1). Select **Enable website hosting** (2), and optionally specify index.html as a **Index Document** (3):
 
-[![AWS S3 Management Console](https://shortcdn.com/chrisshort/S3-Management-Console-02.png)](https://shortcdn.com/chrisshort/S3-Management-Console-02.png)
+[![AWS S3 Management Console](S3-Management-Console-02.webp)](S3-Management-Console-02.webp)
 
 This is an optional but exceedingly helpful step. You can make every object you place in your S3 bucket publicly readable by setting an [S3 Policy](http://docs.aws.amazon.com/AmazonS3/latest/dev/access-control-overview.html). This will ensure that the permissions on everything uploaded to your S3 bucket will not need to be changed upon upload.[^n]
 
@@ -42,7 +44,7 @@ This is an optional but exceedingly helpful step. You can make every object you 
 * Expand the **Permissions** section
 * Click **Add bucket policy** (the image below shows Edit bucket policy because I have already set up public readability)
 
-[![AWS S3 Management Console](https://shortcdn.com/chrisshort/S3-Management-Console-03.png)](https://shortcdn.com/chrisshort/S3-Management-Console-03.png)
+[![AWS S3 Management Console](S3-Management-Console-03.webp)](S3-Management-Console-03.webp)
 
 * Copy and paste the policy below and click **Save** (make sure to change YOUR\_BUCKET\_NAME to your bucket's actual name (the URL for your CDN)
 
@@ -61,21 +63,19 @@ This is an optional but exceedingly helpful step. You can make every object you 
 }
 ```
 
-[![Amazon S3 Bucket Policy Editor](https://shortcdn.com/chrisshort/Bucket-Policy-Editor.png)](https://shortcdn.com/chrisshort/Bucket-Policy-Editor.png)
+[![Amazon S3 Bucket Policy Editor](Bucket-Policy-Editor.webp)](Bucket-Policy-Editor.webp)
 
 Next, login to your CloudFlare account, open your DNS configuration, and add a CNAME that points to your Amazon AWS S3 Endpoint:
 
-[![CloudFlare DNS CNAME](https://shortcdn.com/chrisshort/DNS-CloudFlare.png)](https://shortcdn.com/chrisshort/DNS-CloudFlare.png)
+[![CloudFlare DNS CNAME](DNS-CloudFlare.webp)](DNS-CloudFlare.webp)
 
 Last we will need to setup a CloudFlare Page Rule to Cache Everything. Open your Page Rules configuration, click **Create Page Rule**, type in your CDN's URL with a trailing slash followed by a splat (For example: cdn.chrisshort.net/*). Add settings for SSL (if you want to use SSL with S3, and you should, the Flexible setting is necessary), Browser Cache TTL, Always Online, Edge Cache TTL, and the most important setting of all is Cache Level **Cache Everything**:
 
-[![CloudFlare Page Rules](https://shortcdn.com/chrisshort/Page-Rules-CloudFlare.png)](https://shortcdn.com/chrisshort/Page-Rules-CloudFlare.png)
+[![CloudFlare Page Rules](Page-Rules-CloudFlare.webp)](Page-Rules-CloudFlare.webp)
 
 Your new CDN is up and running. Upload objects to S3 and serve them up via CloudFlare's CDN. To confirm that the files are being cached by CloudFlare you can the following command:
 
-```bash
-curl -I htps://URL/FILE | grep CF-Cache-Status
-```
+`curl -I htps://URL/FILE | grep CF-Cache-Status`
 
 If this is the first time an object has evert been accessed or after the Edge Cache TTL has expired you will see `CF-Cache-Status: MISS`. Run the command again and you should see `CF-Cache-Status: HIT`.
 

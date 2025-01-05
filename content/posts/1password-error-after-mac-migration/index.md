@@ -4,7 +4,8 @@ TOCOpen: true
 author: Chris Short
 cover:
   alt: MacBook Air 15 inch with 1Password logo superimposed
-  image: https://shortcdn.com/chrisshort/mba15-1password.webp
+  image: mba15-1password.webp
+  relative: false
 date: "2023-06-17"
 description: 'The most annoying 1Password error I''ve encountered: 1Password has detected
   an error with your local app database, please contact support@1password.com'
@@ -28,14 +29,16 @@ I recently decided to buy one of the new 15" MacBook Air M2 models announced at 
 
 I went through migrating from one Mac to another with Migration Assistant. The migration was long (I have a lot of data) but very smooth, requiring no intervention until it was ready for the usual setup prompts. Then two problems popped up around licensing, which were easy enough to fix. But, while trying to log in, I discovered 1Password had a blocking issue.
 
-![1Password has detected an error with your local app database, please contact support@1password.com](https://shortcdn.com/chrisshort/1Password-has-detected-an-error-with-your-local-app-database.webp#center)
+## Error Message
 
-## `1Password has detected an error with your local app database, please contact support@1password.com`
+![1Password has detected an error with your local app database, please contact support@1password.com](1Password-has-detected-an-error-with-your-local-app-database.webp#center)
+
+**`1Password has detected an error with your local app database, please contact support@1password.com`**
 
 1Password would not work at all. The error I was getting could have been more helpful too. I immediately had two choices:
 
 1. Contact Support to see if they need specific data or, at the very least, ask for a better error message.
-1. Find and destroy all remnants of 1Password, including the database and re-install
+2. Find and destroy all remnants of 1Password, including the database and re-install
 
 I went with #1 in case the error message did need customer support. It turns out I didn't. I sent in a support message and got an auto-reply acknowledging it. Then support responded, asking for a bunch of data I couldn't get because 1Password did not open. Eventually, I got the correct response from them, but I didn't want to wait for Support. I was blocked from logging in to a lot of things.
 
