@@ -2,7 +2,7 @@
 ShowTOC: false
 author: Chris Short
 cover:
-  image: cloudflare-s3-cdn.webp
+  image: ../cloudflare-s3-cdn.webp
   alt: Cloudflare logo + S3 logo = Love
   relative: false
 date: "2016-06-14"
