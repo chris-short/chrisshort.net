@@ -2,7 +2,7 @@
     name: Scheduled Netlify Site Build
     on:
       schedule:
-      - cron: '01 03 * * *'
+      - cron: '01 08 * * *'
     jobs:
       build:
         runs-on: ubuntu-latest
