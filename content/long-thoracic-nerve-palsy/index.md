@@ -2,7 +2,7 @@
 aliases:
 - long-thoracic-nerve-palsy-winging-scapula
 - ltn
-- disability
+- long-thoracic-nerve-palsy
 - disabled-veteran
 - disabled
 - pain
@@ -16,7 +16,7 @@ tags:
 - long thoracic nerve palsy
 - winged scapula
 - nerve damage
-title: Long Thoracic Nerve Palsy
+title: My Disability
 ---
 
 {{< carbon >}}
