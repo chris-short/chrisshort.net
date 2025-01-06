@@ -9,7 +9,7 @@ ShowToc: false
 TocOpen: false
 ---
 
-My time at AWS is drawing to a close. It's been an incredible three years of work on open source projects like Finch, Valkey, and Kubernetes (both products and upstream project)! **If you're hiring, we should talk.**
+My time at Amazon Web Services (AWS) is drawing to a close. It's been an incredible three years of work on open source projects like Finch, Valkey, and Kubernetes (both products and upstream project)! **If you're hiring, we should talk.**
 
 ## What I am looking for in my next role
 
