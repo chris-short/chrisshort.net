@@ -30,7 +30,7 @@ Notes:
 I'm many things
 But Most Importantly, I'm a Gopher
 
-### Not Too Long Ago in a Place of Work Far, Far Away...
+### Not Too Long Ago in a Place of Work Far, Far Away
 
 ![Star Wars Scroll Y'all](backstory.webp#center)
 
@@ -42,7 +42,7 @@ But Most Importantly, I'm a Gopher
 
 ### Groundhog Day
 
-{{< autovideo bill-murray-toaster.mp4 >}}
+{{< video bill-murray-toaster.mp4 >}}
 
 * Oh!
 * And the only environment this application was in was production
@@ -88,7 +88,7 @@ But Most Importantly, I'm a Gopher
 
 ### Now what
 
-{{< autovideo mj-annoyed.mp4 >}}
+{{< video mj-annoyed.mp4 >}}
 
 * What do we do?
 * Look at statistical probabilities and start shuffling keys around?
