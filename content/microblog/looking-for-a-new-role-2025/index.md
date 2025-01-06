@@ -2,7 +2,7 @@
 author: ["Chris Short"]
 title: "Looking for a new role"
 date: "2025-01-07"
-description: "Principal Cloud Native advocate with deep Kubernetes community experience. From AWS to Red Hat, I've done developer advocacy, technical marketing, and product marketing. Let's connect!"
+description: "From AWS to Red Hat, I've done developer advocacy, technical marketing, and product marketing. This is in addition to the upstream work I do for Kubernetes. Let's connect!"
 summary: "I'm looking for a new role"
 tags: ["Job Hunting", "Hire Me", "2025"]
 ShowToc: false
