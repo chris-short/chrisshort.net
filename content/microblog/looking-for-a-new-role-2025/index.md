@@ -9,7 +9,7 @@ ShowToc: false
 TocOpen: false
 ---
 
-My time at Amazon Web Services (AWS) is drawing to a close. It's been an incredible three years of work on open source projects like Finch, Valkey, and Kubernetes (both products and upstream project)! **If you're hiring, we should talk.**
+My time at Amazon Web Services (AWS) is drawing to a close. It's been an incredible three years of work on open source projects like Finch, Valkey, and Kubernetes (both products and upstream project)! **If you're hiring, [we should talk](/contact/).**
 
 ## What I am looking for in my next role
 
@@ -17,7 +17,7 @@ I'm looking for a role at the intersection of technology, marketing, and/or advo
 
 ### Open source, cloud native, Kubernetes, and a partridge in a pear tree
 
-If you are building cloud native tools or Kubernetes-based platforms, we should talk as I have extensive experience, connections, and influence in this space. As a Kubernetes Contributor Communications co-lead and Senior Developer Advocate at AWS, I've helped shape the cloud native ecosystem.
+If you are building cloud native tools or Kubernetes-based platforms, I have extensive experience, connections, and influence in this space. As a Kubernetes Contributor Communications co-lead, Senior Developer Advocate at AWS, and during my time at Red Hat, I've helped shape the cloud native ecosystem.
 
 I've demonstrated practical expertise by organizing major events like AWS re:Invent's EKS track (with 50+ speakers and 30+ sessions) and leading GitOpsCon EU 2021 as an organizer and host/emcee. My hands-on experience includes teaching AWS developers about open source, consulting on strategy for tools like Finch, and previously leading a successful $1M cloud migration to AWS. From writing – including launching newsletters and authoring critical release blogs – to building demos and workshops to creating compelling live streams and videos – these are skills I've been developing since the late 1990s.
 
@@ -31,6 +31,6 @@ At Red Hat and AWS, I spent significant time in offices: meetings, launches, eve
 
 ## Résumé
 
-My résumé is available as a [web page here on chrisshort.net](/resume/), a [PDF](/resume/Chris-Short-Resume.pdf), or you can go straight to the [Google Doc itself](https://docs.google.com/document/d/1rvWbgE6s-_paVDO_4chyPMz1B8ZBamE9BZEk6WdwR5o/edit?usp=sharing). If those formats don't work, let me know as I am happy to convert it to whatever format you need.
+My résumé is available as a [web page here on chrisshort.net](/resume/), a [PDF](/resume/Chris-Short-Resume.pdf), or you can go straight to the [Google Doc itself](https://docs.google.com/document/d/1rvWbgE6s-_paVDO_4chyPMz1B8ZBamE9BZEk6WdwR5o/edit?usp=sharing).
 
 You can also find the many [talks](https://chrisshort.net/speaking) and [interviews](/interviews) I've done over the years.
