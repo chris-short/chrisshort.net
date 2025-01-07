@@ -109,6 +109,8 @@ params:
       - "https://hachyderm.io/@ChrisShort"
 
   socialIcons: # optional
+    - name: "github"
+      url: "https://github.com/chris-short"
     - name: "reddit"
       url: "https://www.reddit.com/r/devopsish/"
     - name: "Bluesky"
