@@ -1,4 +1,6 @@
 ---
+aliases:
+- /microblog/looking-for-a-new-role-2025
 author: ["Chris Short"]
 title: "Looking for a new role"
 date: "2025-01-07"
@@ -29,7 +31,7 @@ My track record includes producing and hosting over 700 hours of content through
 
 The role needs to be remote. My injuries (disabled veteran), coupled with anxiety and PTSD, are properly managed here at home. My medical team agrees with this. It's tough to re-establish a medical team like the one I've been able to build here, especially for nerve and spine damage.
 
-At Red Hat and AWS, I spent significant time in offices: meetings, launches, event planning, onboarding new folks, etc. Having a major international airport and Delta hub in my backyard enables me to be anywhere with little notice. On the open source team at AWS, I went to an AWS London Summit with one day's notice to fill in for a colleague who fell ill over the weekend. No sweat.
+At Red Hat and AWS, I spent significant time in offices: meetings, launches, event planning, onboarding new folks, etc. Having a major international airport and Delta hub in my backyard enables me to be anywhere with little notice. On the open source team at AWS, I went to an AWS Summit in London with one day's notice to fill in for a colleague who fell ill over the weekend. No sweat.
 
 ## Résumé
 
