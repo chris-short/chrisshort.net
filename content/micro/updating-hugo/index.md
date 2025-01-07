@@ -1,4 +1,6 @@
 ---
+aliases:
+- /microblog/updating-hugo/
 author: ["Chris Short"]
 title: "Hugo: Upgrading and Updating"
 date: "2024-12-29"
@@ -11,7 +13,7 @@ TocOpen: false
 
 Upgrading Hugo or your chosen theme along with Hugo is often unreasonably burdensome. These two things are managed independently: Hugo by the Hugo dev team and your theme by its designer. This is what creates the difficulty in upgrading Hugo and updating your theme. Well, that and time.
 
-I like to tinker with themes. I want that to be bigger. I don't want that. Oh! Drop down menu here! This has bitten me quite hard in my years with Hugo. But for the previous iteration of chrisshort.net, I made a conscious effort to customize the theme only via Hugo partials and shortcodes. 
+I like to tinker with themes. I want that to be bigger. I don't want that. Oh! Drop down menu here! This has bitten me quite hard in my years with Hugo. But for the previous iteration of chrisshort.net, I made a conscious effort to customize the theme only via Hugo partials and shortcodes.
 
 I also really like the [PaperMod][1] theme, and it's wonderfully maintained. During the most recent updates, I was considering a whole new theme. Then I realized that PaperMod has a clean update process. For me, I look at the diff in the partials to make sure I can reuse what's there. The theme's maintainer, [Aditya Telange][2], has been porting more things into the hugo.yaml (config.yaml). A few of my customizations weren't needed at all and were instead changed into configuration.
 
@@ -44,7 +46,7 @@ site.permalinks:
     posts: ":title/"
   section:
     posts: /blog/
-    microblog: /microblog/
+    microblog: /micro/
 ```
 
 ```yaml

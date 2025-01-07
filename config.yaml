@@ -19,7 +19,7 @@ permalinks:
     posts: ":title/"
   section:
     posts: /blog/
-    microblog: /microblog/
+    microblog: /micro/
 
 minify:
   disableXML: true
@@ -53,7 +53,7 @@ params:
     - blog
     - drawings
     - interviews
-    - microblog
+    - micro
     - projects
     - speaking
   profileMode:
@@ -63,7 +63,7 @@ params:
       - name: Blog
         url: "/blog"
       - name: Microblog
-        url: "/microblog"
+        url: "/micro"
       - name: Interviews
         url: "/interviews"
       - name: Speaking
@@ -77,8 +77,8 @@ params:
       linkFullImages: true
     defaultTheme: auto
     displayFullLangName: true
-    # disableThemeToggle: true
-    # disableSpecial1stPost: true
+    disableThemeToggle: false
+    disableSpecial1stPost: true
     enabled: true
     fuseOpts:
       shouldSort: true
@@ -86,7 +86,7 @@ params:
       ignoreLocation: true
       keys: ["title", "permalink", "summary", "description"]
     imageUrl: "/img/Chris-Short-Sept-2023-Profile-Pic-Square-256x256.webp" # optional
-    imageTitle: "Chris Short Headshot (Chris in his office with pictures of Detroit in background)" # optional
+    imageTitle: "Chris Short Headshot (Chris in his office with canvas panels picturing Detroit in background)" # optional
     imageWidth: 256 # custom size
     imageHeight: 256 # custom size
     ShowBreadCrumbs: true
@@ -107,6 +107,10 @@ params:
       - "https://bsky.app/profile/chrisshort.net"
       - "https://www.linkedin.com/in/thechrisshort"
       - "https://hachyderm.io/@ChrisShort"
+      - "https://www.youtube.com/c/ChrisShort"
+      - "https://www.flickr.com/photos/chris-short/"
+      - "https://www.instagram.com/thechrisshort/"
+      - "https://www.threads.net/@thechrisshort"
 
   socialIcons: # optional
     - name: "github"
@@ -137,7 +141,7 @@ params:
 imaging:
   exif:
     includeFields: ""
-    disableDate: true
+    disableDate: false
     disableLatLong: true
 
 markup:
@@ -183,4 +187,4 @@ services:
   twitter:
     disableInlineCSS: true
   rss:
-    limit: 12
+    limit: 10
