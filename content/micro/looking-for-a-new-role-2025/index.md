@@ -6,7 +6,7 @@ title: "Looking for a new role"
 date: "2025-01-07"
 description: "From Red Hat to AWS, I've done developer advocacy, technical marketing, and product marketing. This is in addition to the upstream work I do for Kubernetes. I welcome new opportunities."
 summary: "I'm looking for a new role"
-tags: ["Job Hunting", "Hire Me", "2025"]
+tags: ["Job Hunting", "Hire Me", "Kubernetes", "Cloud Native", "marketing", "2025"]
 ShowToc: false
 TocOpen: false
 ---
