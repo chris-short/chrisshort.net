@@ -1,4 +1,6 @@
 ---
+aliases:
+- /microblog/happy-new-year-2025/
 author: ["Chris Short"]
 title: "Happy New Year (2025)"
 date: "2025-01-01"
