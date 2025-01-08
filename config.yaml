@@ -56,6 +56,8 @@ params:
     - micro
     - projects
     - speaking
+    - speed
+    - video
   profileMode:
     buttons:
       - name: About
@@ -64,12 +66,22 @@ params:
         url: "/blog"
       - name: Microblog
         url: "/micro"
+      - name: "Abstracts"
+        url: "/abstracts"
       - name: Interviews
         url: "/interviews"
       - name: Speaking
         url: "/speaking"
+      - name: Video
+        url: "/video"
       - name: Résumé
         url: "/resume"
+      - name: "Speed Test"
+        url: "/speed"
+      - name: "Drawings"
+        url: "/drawings"
+      - name: "Contact"
+        url: "/contact"
       - name: Search
         url: "/search"
     comments: false
@@ -85,8 +97,8 @@ params:
       threshold: 0.1
       ignoreLocation: true
       keys: ["title", "permalink", "summary", "description"]
-    imageUrl: "/img/Chris-Short-Sept-2023-Profile-Pic-Square-256x256.webp" # optional
-    imageTitle: "Chris Short Headshot (Chris in his office with canvas panels picturing Detroit in background)" # optional
+    imageUrl: "/img/Chris-Short-Sept-2023-Profile-Pic-Square-256x256.webp"
+    imageTitle: "Chris Short Headshot (Chris in his office with canvas panels picturing Detroit in background)"
     imageWidth: 256 # custom size
     imageHeight: 256 # custom size
     ShowBreadCrumbs: true
@@ -99,7 +111,7 @@ params:
     ShowTOC: true
     ShowShareButtons: false
     subtitle: "Open Source | DevOps | Kubernetes Contributor | r/devopsish | Disabled Veteran | Detroit | He/Him | Views solely mine"
-    title: "Chris Short" # optional default will be site title
+    title: "Chris Short"
 
   schema:
     publisherType: "Person"

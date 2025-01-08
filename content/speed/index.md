@@ -16,4 +16,6 @@ tags:
 title: Speed Test
 ---
 
+This runs 100% in your browser and no data is saved on this website.
+
 {{< openspeedtest >}}
