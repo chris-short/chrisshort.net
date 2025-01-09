@@ -80,7 +80,7 @@ Sampling of the episodes with the most reach (as of 2025-01-09):
 
 More of the content I've had a hand in creating is available on the following pages:
 
-* [Speaking](/speaking/)
-* [Interviews](/interviews/)
 * [Books](/books/)
 * [Drawings](/drawings/)
+* [Interviews](/interviews/)
+* [Speaking](/speaking/)
