@@ -26,7 +26,6 @@ This is not an exhaustive list. The order is latest to oldest.
 
 ## Amazon Web Services (AWS)
 
-* [Whiteboard Confessional: The Curious Case of the 9,000% AWS Bill Increase](https://youtu.be/lzLJQg8bXZw?si=TuM7mLUzadl4wg8j) (Last Week in AWS, 2024-11-22)
 * [10 Years of Kubernetes](https://kubernetes.io/blog/2024/06/06/10-years-of-kubernetes/) (Kubernetes blog, 2024-06-06)
 * 🏆 [Kubernetes Contributor Awards 2023](https://www.kubernetes.dev/community/awards/2023/#contributor-experience) 🏆 (Kubernetes Contributor site, 2023-11-06)
 * [Amazon EKS and Kubernetes sessions at AWS re:Invent 2023](https://aws.amazon.com/blogs/containers/amazon-eks-and-kubernetes-sessions-at-aws-reinvent-2023/) (AWS blog, 2023-11-15)
