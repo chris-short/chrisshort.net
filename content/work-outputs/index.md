@@ -20,7 +20,7 @@ ShowTOC: false
 TOCOpen: false
 ---
 
-This section of the web site highlights some of the work outputs I've created over the years.
+This page highlights some of the work outputs I've created over the years.
 
 This is not an exhaustive list. The order is latest to oldest.
 
