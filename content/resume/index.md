@@ -6,50 +6,53 @@ aliases:
 - curriculum-vitae
 author: Chris Short
 date: "2019-08-18"
-description: Résumé of a 20+ year veteran of Information Technology and
-  DevOps and current Developer Advocacy professional.
+lastmod: "2025-01-09"
+description: Seasoned developer advocate and technical leader with over 30 years of experience spanning IT operations, DevOps, and technical marketing. Transforms complex technologies into understandable solutions that drive business value.
 tags:
 - résumé
 - cv
-- Work experience
-- Work history
-title: Résumé
+- work experience
+- work history
+title: Chris Short Résumé
+ShowTOC: true
+TOCOpen: false
 ---
 
-[PDF version of Résumé](/resume/Chris-Short-Resume.pdf) | [Google Docs version of Résumé](https://docs.google.com/document/d/1rvWbgE6s-_paVDO_4chyPMz1B8ZBamE9BZEk6WdwR5o/edit?usp=sharing)
-
-# Chris Short
+{{< resume-buttons >}}
 
 ## Professional Summary
 
-Influential, dynamic, and accomplished professional with a proven DevOps, Kubernetes, and technical marketing track record. Complemented by a passion for helping others be their best selves, cross-org collaboration, and building trust. I bring deep experience in teaching developers to build their knowledge and skills while building better products. As a Kubernetes Contributor and Comms co-lead, I have honed my expertise in driving innovation and fostering collaboration within open and closed environments. As a confident public speaker and skilled live stream producer/host at Red Hat and Amazon, I effectively engage audiences while maintaining an influential presence through my personal and professional networking platforms. I have long believed that technology should enhance human existence. I am ready to bring my diverse skill set, inclusiveness, and enthusiasm to drive results.
+Senior developer advocate and technical marketing leader with 30 years of experience in systems, DevOps, and cloud technologies, specializing in making complex technical concepts accessible and understandable. Proven track record of building developer communities and leading high-visibility projects like AWS Container Days, GitOpsCon, and Kubernetes events while maintaining active Kubernetes community leadership. Known for cross-organizational collaboration and creating educational content that bridges technical capabilities with business value. Deep expertise in infrastructure automation, containerization, and cloud-native technologies. Driven by the belief that technology should improve humanity.
 
 ## Professional Experience
 
 ### Senior Developer Advocate, Amazon Web Services — Commerce, MI — Oct 2021 to Present
 
-* Led key initiatives in Valkey's success: web development, implementation of privacy-compliant analytics, content creation, and active project representative at numerous events around the world
+* Led key components of Valkey's developer engagement strategy through targeted content creation and global event representation, resulting in increased project participation and product adoption
 * Organized and led Amazon's expansive 50+ speaker, 30+ session re:Invent 2023 Kubernetes and Containers track, increased customer satisfaction (CSAT) scoring metrics for track
 * Taught AWS devs how to do open source for Finch; worked with the dev team to create a build, pull, push, run tool; consulted on tough strategy decisions; built public-facing infrastructure for release
+* Produced multiple AWS Open Source Partner videos in-studio; simplified technical language for a broader audience, drove understanding between partners, product marketing, and program teams
+* Updated the AWS Open Source website; analyzed metrics, established benchmarks, improved performance, and SEO metrics. Updated to the latest design standards. #1 Google rankings.
 * Launched EKS.news, a newsletter covering the latest updates on Amazon Elastic Kubernetes Service (EKS): an additional mechanism to inform customers about new features and updates
 * Trained Kubernetes Product Marketing team in the ways of open source and more about how the CNCF and Kubernetes ecosystem works; used training to provide essential knowledge to the team
 * Authored Amazon EKS 1.22 & 1.23 release blogs; updated customers on critical product changes
-* Co-lead Kubernetes Contributor Comms team, spreading the word about what's happening in the Kubernetes community, including event comms, crisis comms, and social media presences
+* Co-lead Kubernetes Contributor Comms team, spreading the word about significant events in the Kubernetes community, including event comms, crisis comms, ecosystem changes, and socials
 * Produced/Hosted Kubernetes Day 0 event AWS Container Day at KubeCon EU 2023 Amsterdam
+* Organized and ran GitOpsCon EU 2021, including everything from marketing, talk selection, and hosting the event with fellow organizers
 
 ### Cloud Native Ambassador, Cloud Native Computing Foundation (CNCF) — Commerce, MI — Jan 2018 to February 2023
 
 * [GitOpsCon NA 2021 Program Committee member](https://www.credly.com/badges/734ed249-c1ed-460a-9cae-bd36c1b6a5e7/public_url), multiple times speaking at CloudNativeCon + KubeCon, and countless talks at DevOps, Kubernetes, and Cloud Native events
 * Stood up Kubernetes Upstream Marketing team, an approver of tweets from K8sContributors, acquired hardware for streaming community meetings to lessen the load on others
 * [KubeWeekly](https://www.cncf.io/kubeweekly/) curator, Kubernetes YouTube channel admin, Contributor Summit workshop facilitator, Community Meeting and webinar moderator, and SIG-Contributor Experience member
-* Advocates for Kubernetes and the cloud native ecosystem through the acclaimed and independent newsletter, [DevOps'ish](https://devopsish.com/). Grown subscriber base to 5800+ subscribers since Dec 2016
+* Advocates for Kubernetes and the cloud native ecosystem through the acclaimed and independent newsletter, [DevOps'ish](https://devopsish.com/). Grew subscriber base to 6,300+ subscribers from Dec 2016 to Nov 2022
 * With the help of other Kubernetes community members, created the first-ever [#KubeKhan](https://chrisshort.net/2018-learnings-2019-expectations/#kubekhan) at KubeCon Seattle 2018; brought together community members in a come as you are environment
 
 ### Principal Technical Marketing Manager, Red Hat — Commerce, MI — Aug 2019 to Oct 2021
 
 * OpenShift.TV Executive Producer: in charge of finding content, talent, showrunning, marketing, growth, and facilitating technical components of live productions
 * Training others in how to make use of the infrastructure in place for OpenShift.TV to grow the channel's bench of hosts and producers across the globe
-* Turned OpenShift.TV into a Red Hat corporate branded product: [Red Hat Livestreaming](https://www.redhat.com/en/livestreaming)
+* Turned OpenShift.TV into a Red Hat corporate branded product: [Red Hat Live Streaming](https://www.redhat.com/en/livestreaming)
 * Hosted and/or produced over 700 hours of content with over 2 years of live watch time.
 * Primary community interface as a CNCF Ambassador who is also focused on Operators and their usage for operations teams; led Ansible Operator workshops at AnsibleFest and Red Hat Summit
 * Acted as a liaison between an Infosec team and a product team after a critical vulnerability was discovered; facilitated responsible disclosure of the vulnerability
