@@ -74,7 +74,7 @@ Sampling of the episodes with the most reach (as of 2025-01-09):
 9. [Ask an OpenShift Admin (Ep 21): Etcd - the heart of the control plane](https://www.youtube.com/live/YY62Mof5plY?si=OWkrCTNCX1BGNYPE) (3.1K)
 10. [GitOps Guide to the Galaxy (Ep 16): Using RBAC with ArgoCD](https://www.youtube.com/watch?v=XsiPPjnKFGw) (2.8K)
 11. [Ask an OpenShift Admin (Ep 25): Installation methods redux](https://www.youtube.com/live/BYaFd7KKdtU?si=b3DtOHI5DhJyG-AF) (2.4K)
-12. [OpenShift Commons — Chris Short with Kelsey Hightower](https://youtu.be/VTsPqSz3F2k?si=mjam3gnwy5TfKkuB) ⭐
+12. [OpenShift Commons — Chris Short with **Kelsey Hightower**](https://youtu.be/VTsPqSz3F2k?si=mjam3gnwy5TfKkuB) ⭐
 
 ## Elsewhere on chrisshort.net
 
