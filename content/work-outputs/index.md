@@ -20,9 +20,9 @@ ShowTOC: false
 TOCOpen: false
 ---
 
-This section of the web site highlights various work outputs I've created over the many years I've spent in public facing roles. The order is latest to oldest.
+This section of the web site highlights some of the work outputs I've created over the years.
 
-This page solely focuses on work outputs. All the talks I've done at available on the [Speaking](/speaking) page.
+This is not an exhaustive list. The order is latest to oldest.
 
 ## Amazon Web Services (AWS)
 
@@ -75,3 +75,12 @@ Sampling of the episodes with the most reach (as of 2025-01-09):
 10. [GitOps Guide to the Galaxy (Ep 16): Using RBAC with ArgoCD](https://www.youtube.com/watch?v=XsiPPjnKFGw) (2.8K)
 11. [Ask an OpenShift Admin (Ep 25): Installation methods redux](https://www.youtube.com/live/BYaFd7KKdtU?si=b3DtOHI5DhJyG-AF) (2.4K)
 12. [OpenShift Commons — Chris Short with Kelsey Hightower](https://youtu.be/VTsPqSz3F2k?si=mjam3gnwy5TfKkuB) ⭐
+
+## Elsewhere on chrisshort.net
+
+More of the content I've had a hand in creating is available on the following pages:
+
+* [Speaking](/speaking/)
+* [Interviews](/interviews/)
+* [Books](/books/)
+* [Drawings](/drawings/)
