@@ -6,19 +6,19 @@ aliases:
 - curriculum-vitae
 author: Chris Short
 date: "2019-08-18"
-description: Résumé of a 20+ year veteran of Information Technology and
-  DevOps and current Developer Advocacy professional.
+lastmod: "2025-01-09"
+description: Seasoned developer advocate and technical leader with over 30 years of experience spanning IT operations, DevOps, and technical marketing. Transforms complex technologies into understandable solutions that drive business value.
 tags:
 - résumé
 - cv
-- Work experience
-- Work history
-title: Résumé
+- work experience
+- work history
+title: Chris Short Résumé
+ShowTOC: true
+TOCOpen: false
 ---
 
-[PDF version of Résumé](/resume/Chris-Short-Resume.pdf) | [Google Docs version of Résumé](https://docs.google.com/document/d/1rvWbgE6s-_paVDO_4chyPMz1B8ZBamE9BZEk6WdwR5o/edit?usp=sharing)
-
-# Chris Short
+{{< resume-buttons >}}
 
 ## Professional Summary
 
@@ -49,7 +49,7 @@ Influential, dynamic, and accomplished professional with a proven DevOps, Kubern
 
 * OpenShift.TV Executive Producer: in charge of finding content, talent, showrunning, marketing, growth, and facilitating technical components of live productions
 * Training others in how to make use of the infrastructure in place for OpenShift.TV to grow the channel's bench of hosts and producers across the globe
-* Turned OpenShift.TV into a Red Hat corporate branded product: [Red Hat Livestreaming](https://www.redhat.com/en/livestreaming)
+* Turned OpenShift.TV into a Red Hat corporate branded product: [Red Hat Live Streaming](https://www.redhat.com/en/livestreaming)
 * Hosted and/or produced over 700 hours of content with over 2 years of live watch time.
 * Primary community interface as a CNCF Ambassador who is also focused on Operators and their usage for operations teams; led Ansible Operator workshops at AnsibleFest and Red Hat Summit
 * Acted as a liaison between an Infosec team and a product team after a critical vulnerability was discovered; facilitated responsible disclosure of the vulnerability
@@ -157,3 +157,4 @@ Influential, dynamic, and accomplished professional with a proven DevOps, Kubern
 ## Formal Training Courses
 
 Global Knowledge Network Security I & II, UNIX/LINUX Security Course, Defense Information Systems Agency CONUS Telecom Seminar, Information Technology Infrastructure Library (ITIL) Foundation Workshop, USAF Communications-Computer Systems Control Apprentice & Craftsman Courses, REDCOM Theory and Application Training Course in Distributed Digital Switching, Microsoft Learning Course 5927A: Microsoft Office Project 2007, Managing Projects, RHCSA Rapid Track Course, Enterasys Switching NMS, Puppet Fundamentals Training, Pentaho Business Analytics User Console Training, Pragmatic Marketing Certified Level II (PMC-II; Foundations and Focus), Automation with Ansible I (DO407)
+
