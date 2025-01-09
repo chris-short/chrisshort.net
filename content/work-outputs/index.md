@@ -49,6 +49,7 @@ This page solely focuses on work outputs. All the talks I've done at available o
 * [How to choose a SIG as a non-code Kubernetes contributor](https://www.kubernetes.dev/blog/2021/07/09/how-to-choose-a-sig-as-a-non-code-kubernetes-contributor/) (Kubernetes Contributor site, 2021-07-09)
 * * [Building Kubernetes operators in an ansible-native way](https://www.cncf.io/online-programs/building-kubernetes-operators-in-an-ansible-native-way/) (CNCF Webinar, 2019-10-09)
 * [Command Line Heroes — The Infrastructure Effect](https://www.redhat.com/en/command-line-heroes/season-3/the-infrastructure-effect) (Red Hat podcast, 2019-08-20)
+* [The Intersection of DevOps and Kubernetes](https://podcasts.apple.com/gb/podcast/the-intersection-of-devops-and-kubernetes/id1270983443?i=1000456263929) (PodCTL podcast, 2019-08-19)
 
 ### Red Hat Live Streaming
 
