@@ -29,7 +29,7 @@ This is not an exhaustive list. The order is latest to oldest.
 * [10 Years of Kubernetes](https://kubernetes.io/blog/2024/06/06/10-years-of-kubernetes/) (Kubernetes blog, 2024-06-06)
 * 🏆 [Kubernetes Contributor Awards 2023](https://www.kubernetes.dev/community/awards/2023/#contributor-experience) 🏆 (Kubernetes Contributor site, 2023-11-06)
 * [Amazon EKS and Kubernetes sessions at AWS re:Invent 2023](https://aws.amazon.com/blogs/containers/amazon-eks-and-kubernetes-sessions-at-aws-reinvent-2023/) (AWS blog, 2023-11-15)
-* Kubernetes Legacy Package Repositories Will Be Frozen On September 13, 2023 (Kubernetes blog, 2023-08-31)
+* [Kubernetes Legacy Package Repositories Will Be Frozen On September 13, 2023](https://kubernetes.io/blog/2023/08/31/legacy-package-repository-deprecation/) (Kubernetes blog, 2023-08-31)
 * [Changes to the Kubernetes Container Image Registry](https://aws.amazon.com/blogs/containers/changes-to-the-kubernetes-container-image-registry/) (AWS blog, 2023-03-20)
 * [k8s.gcr.io Redirect to registry.k8s.io - What You Need to Know](https://kubernetes.io/blog/2023/03/10/image-registry-redirect/) (Kubernetes blog, 2023-03-10)
 * [KBE Insider E17: Chris Short / Contributors Summit](https://www.youtube.com/live/JNK-qtjbkKE?si=t5hACOUNh0hY45UF) (Red Hat's Kubernetes By Example, 2023-01-31)
