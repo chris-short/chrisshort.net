@@ -3,15 +3,21 @@ author: Chris Short
 date: "2025-01-09"
 description: Chris Short's video, blog, and additional work outputs
 tags:
-- content
-- technical content
-- work outputs
-- public-facing work outputs
+- AWS
+- Kubernetes
+- Openshift
+- Red Hat
+- YouTube
+- blog
 - blogs
+- content
+- public-facing work outputs
+- technical content
 - videos
+- work outputs
 title: Work Outputs
-ShowTOC: true
-TOCOpen: true
+ShowTOC: false
+TOCOpen: false
 ---
 
 This section of the web site highlights various work outputs I've created over the many years I've spent in public facing roles. The order is latest to oldest.
