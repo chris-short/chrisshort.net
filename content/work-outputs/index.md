@@ -52,7 +52,7 @@ This is not an exhaustive list. The order is latest to oldest.
 * [swampUP 2019 | The Dark Side of DevOps - Chris Short](https://youtu.be/gi-i5NvxVLM?si=rVS94k-QTxMZxbvr) (JFrog YouTube, 2019-07-27)
 * [Security, Open Links And BIG AW$ Bills w/ Chris Short](https://the2030.cloud/2021/07/19/security-open-links-and-big-aw-bills-w-chris-short-distance-devops-16/) (Cloud2030 Podcast, 2021-07-19)
 * [How to choose a SIG as a non-code Kubernetes contributor](https://www.kubernetes.dev/blog/2021/07/09/how-to-choose-a-sig-as-a-non-code-kubernetes-contributor/) (Kubernetes Contributor site, 2021-07-09)
-* * [Building Kubernetes operators in an ansible-native way](https://www.cncf.io/online-programs/building-kubernetes-operators-in-an-ansible-native-way/) (CNCF Webinar, 2019-10-09)
+* [Building Kubernetes operators in an ansible-native way](https://www.cncf.io/online-programs/building-kubernetes-operators-in-an-ansible-native-way/) (CNCF Webinar, 2019-10-09)
 * [Command Line Heroes — The Infrastructure Effect](https://www.redhat.com/en/command-line-heroes/season-3/the-infrastructure-effect) (Red Hat podcast, 2019-08-20)
 * [The Intersection of DevOps and Kubernetes](https://podcasts.apple.com/gb/podcast/the-intersection-of-devops-and-kubernetes/id1270983443?i=1000456263929) (PodCTL podcast, 2019-08-19)
 
