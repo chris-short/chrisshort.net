@@ -74,12 +74,12 @@ params:
         url: "/speaking"
       - name: Video
         url: "/video"
-      - name: Résumé
-        url: "/resume"
       - name: "Speed Test"
         url: "/speed"
       - name: "Drawings"
         url: "/drawings"
+      - name: Résumé
+        url: "/resume"
       - name: "Contact"
         url: "/contact"
       - name: Search
@@ -110,7 +110,7 @@ params:
     ShowRssButtonInSectionTermList: true
     ShowTOC: true
     ShowShareButtons: false
-    subtitle: "Open Source | DevOps | Kubernetes Contributor | r/devopsish | Disabled Veteran | Detroit | He/Him | Views solely mine"
+    subtitle: "Open Source | DevOps | Kubernetes Contributor | r/devopsish | Disabled Veteran | LEGO | Corgis | Detroit | He/Him | Views solely mine"
     title: "Chris Short"
 
   schema:
