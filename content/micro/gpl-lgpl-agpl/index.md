@@ -2,7 +2,7 @@
 author: ["Chris Short"]
 title: "GPL vs. LGPL vs. APGL"
 date: "2025-01-10"
-description: ""
+description: "A comprehensive comparison of GPL, LGPL, and AGPL licenses, examining their key differences, use cases, and impact on software development and distribution"
 summary: "A comparison of GPL, LGPL, and AGPL licenses"
 tags: ["GNU", "license", "open source", "software", "copyleft", "code", "General Public License", "GPL", "LGPL", "AGPL", "2025"]
 ShowToc: true
