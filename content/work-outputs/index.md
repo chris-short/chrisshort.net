@@ -3,6 +3,7 @@ author: Chris Short
 date: "2025-01-09"
 description: Chris Short's video, blog, and additional work outputs
 tags:
+- Awards
 - AWS
 - Kubernetes
 - Openshift
@@ -27,7 +28,6 @@ This is not an exhaustive list. The order is latest to oldest.
 ## Amazon Web Services (AWS)
 
 * [10 Years of Kubernetes](https://kubernetes.io/blog/2024/06/06/10-years-of-kubernetes/) (Kubernetes blog, 2024-06-06)
-* 🏆 [Kubernetes Contributor Awards 2023](https://www.kubernetes.dev/community/awards/2023/#contributor-experience) 🏆 (Kubernetes Contributor site, 2023-11-06)
 * [Amazon EKS and Kubernetes sessions at AWS re:Invent 2023](https://aws.amazon.com/blogs/containers/amazon-eks-and-kubernetes-sessions-at-aws-reinvent-2023/) (AWS blog, 2023-11-15)
 * [Kubernetes Legacy Package Repositories Will Be Frozen On September 13, 2023](https://kubernetes.io/blog/2023/08/31/legacy-package-repository-deprecation/) (Kubernetes blog, 2023-08-31)
 * [Changes to the Kubernetes Container Image Registry](https://aws.amazon.com/blogs/containers/changes-to-the-kubernetes-container-image-registry/) (AWS blog, 2023-03-20)
@@ -74,6 +74,13 @@ Sampling of the episodes with the most reach (as of 2025-01-09):
 10. [GitOps Guide to the Galaxy (Ep 16): Using RBAC with ArgoCD](https://www.youtube.com/watch?v=XsiPPjnKFGw) (2.8K)
 11. [Ask an OpenShift Admin (Ep 25): Installation methods redux](https://www.youtube.com/live/BYaFd7KKdtU?si=b3DtOHI5DhJyG-AF) (2.4K)
 12. [OpenShift Commons — Chris Short with **Kelsey Hightower**](https://youtu.be/VTsPqSz3F2k?si=mjam3gnwy5TfKkuB) ⭐
+
+## Awards
+
+* [Kubernetes Contributor Awards 2023](https://www.kubernetes.dev/community/awards/2023/#contributor-experience) (Kubernetes Contributor site, 2023-11-06)
+* Red Hat Product Marketing Awards — Best New Red Hatter 2019
+* McClatchy Interactive Employee of the Month – June 2011
+* 43d Airlift Wing Communications & Information NCO of the Year 2008
 
 ## Elsewhere on chrisshort.net
 
