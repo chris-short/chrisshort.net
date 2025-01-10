@@ -37,4 +37,4 @@ At Red Hat and AWS, I spent significant time in offices: meetings, launches, eve
 
 My résumé is available [here on chrisshort.net](/resume/), as [a PDF](/resume/Chris-Short-Resume.pdf), or you can go straight [to the Google Doc](https://docs.google.com/document/d/1rvWbgE6s-_paVDO_4chyPMz1B8ZBamE9BZEk6WdwR5o/edit?usp=sharing).
 
-You can also find the many [talks](https://chrisshort.net/speaking) and [interviews](/interviews) I've done over the years.
+You can also find the many [talks](https://chrisshort.net/speaking) and [interviews](/interviews) I've done over the years. I've put together some work outputs that I've made: [Work Outputs](/work-outputs/)
