@@ -1,19 +1,17 @@
 ---
 author: ["Chris Short"]
 title: "GPL vs. LGPL vs. APGL"
-date: "2025-01-07"
+date: "2025-01-10"
 description: ""
-summary: "GNU License Comparison"
-tags: ["GNU", "License", "Open Source", "GPL", "2025"]
+summary: "A comparison of GPL, LGPL, and AGPL licenses"
+tags: ["GNU", "license", "open source", "software", "copyleft", "code", "General Public License", "GPL", "LGPL", "AGPL", "2025"]
 ShowToc: true
 TocOpen: true
 ---
 
-I'm no fan of GNU or FSF, but their licenses are open source friendly and worth a comparison occasionally. It is worth looking at these copyleft licenses before considering adopting one.
+**Disclaimer**: I'm not a lawyer and this is not legal advice
 
-How do these licenses impact contributions from external developers? I'll use myself as an example:
-
-If we exclude Linux distros and adjacent tooling, it's been a long time since I've worked on a project that uses a copyleft license. More recently, I have seen these licenses the most:
+I'm no fan of GNU or FSF, but their licenses are open source friendly and worth a comparison. It is worth looking at these copyleft licenses before considering adopting one. How do these licenses impact contributions from external developers? I'll use myself as an example. If we exclude Linux distros and adjacent tooling, it's been a long time since I've worked on a project that uses a copyleft license. More recently, I have seen these licenses the most:
 
 - BSD 3-clause (Valkey)
 - Apache License v2 (almost all AWS open source projects, Kubernetes, Bluefin/Universal Blue)
@@ -26,7 +24,7 @@ If we exclude Linux distros and adjacent tooling, it's been a long time since I'
 - Covers distribution and modification of software
 - Does not have special provisions for network use or library linking (linking is a topic for a separate long-form post, in my opinion)
 
-### Projects that use GPL
+### Projects using GPL
 
 - Linux
 - Ansible
@@ -41,7 +39,7 @@ If we exclude Linux distros and adjacent tooling, it's been a long time since I'
 - You can use LGPL libraries in proprietary software without having to release your entire software under LGPL
 - Still requires sharing modifications to the LGPL library itself
 
-### Projects that use LGPL
+### Projects using LGPL
 
 - OpenOffice
 - QT
@@ -56,7 +54,7 @@ If we exclude Linux distros and adjacent tooling, it's been a long time since I'
 - Closes the "application service provider loophole" where software with changes here and there could power services over a network without sharing the code (this is the Big Tech poison pill)
 - With the license changes of 2024, we saw AGPL show up quite a bit
 
-### Projects that use AGPL
+### Projects using AGPL
 
 - MongoDB
 - ownCloud/Nextcloud
