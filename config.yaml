@@ -72,12 +72,14 @@ params:
         url: "/interviews"
       - name: Speaking
         url: "/speaking"
+      - name: "Books"
+        url: "/books"
       - name: Video
         url: "/video"
-      - name: "Speed Test"
-        url: "/speed"
       - name: "Drawings"
         url: "/drawings"
+      - name: "Speed Test"
+        url: "/speed"
       - name: Résumé
         url: "/resume"
       - name: "Contact"
