@@ -4,6 +4,7 @@ aliases:
 author: Chris Short
 date: "2016-11-21"
 description: ""
+draft: true
 tags:
 - social media
 - ifttt
@@ -16,7 +17,7 @@ Update: As of 2019-12-10, it would appear that due to rate limits and other serv
 
 [Buffer](https://buffer.com/) is a great tool for scheduling and posting content to social media. But, it costs money to do any sort of real sharing. I prefer to share more content from others than I do my own. Paying money to share other people's content is fine but not for me. I came up with an alternative that might be useful to others so here it is:
 
-![DIY Buffer](https://shortcdn.com/chrisshort/drawings/DIY-Buffer.png)
+![DIY Buffer](/drawings/DIY-Buffer.webp)
 
 You will need a place to save links like Pocket (Instapaper or any other comparable service that interfaces with IFTTT works).
 
