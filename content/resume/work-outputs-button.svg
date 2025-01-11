@@ -3,7 +3,7 @@
 <svg width="200" height="48" viewBox="0 0 200 48" xmlns="http://www.w3.org/2000/svg">
     <g id="Group">
         <path id="Path" fill="#2563eb" stroke="none" d="M 7.9872 0 L 191.692795 0 C 196.104004 0 199.679993 3.581722 199.679993 8 L 199.679993 40 C 199.679993 44.418278 196.104004 48 191.692795 48 L 7.9872 48 C 3.575991 48 -0 44.418278 -0 40 L -0 8 C -0 3.581722 3.575991 0 7.9872 0 Z"/>
-        <path id="Path-copy" fill="none" stroke="#ffffff" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" d="M 157 15 L 169 15 L 169 27 M 169 15 L 157 27 M 162 21 L 154 21 L 154 33 L 166 33 L 166 25"/>
-        <text id="Work-Outputs" xml:space="preserve" x="33" y="31" font-family="Arial" font-size="15.9872" font-weight="700" fill="#ffffff">Work Outputs</text>
+        <path id="outbox-icon" fill="none" stroke="#ffffff" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" d="M 153 25 L 153 31 C 153 32.104568 153.895432 33 155 33 L 169 33 C 170.104568 33 171 32.104568 171 31 L 171 25 M 156 21 L 162 15 L 168 21 M 162 15 L 162 27"/>
+        <text id="Work-Outputs" xml:space="preserve" x="32" y="31" font-family="Arial" font-size="15.9872" font-weight="700" fill="#ffffff">Work Outputs</text>
     </g>
 </svg>
