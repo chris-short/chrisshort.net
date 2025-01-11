@@ -37,4 +37,3 @@ Source: [AWS Container Days @ KubeCon + CloudNativeCon Europe 2022 — Day 3](h
 Source: [AWS Container Days @ KubeCon + CloudNativeCon Europe 2022 — Day 3](https://www.twitch.tv/videos/1481899649?t=01h00m42s)
 
 {{< speaker >}}
-

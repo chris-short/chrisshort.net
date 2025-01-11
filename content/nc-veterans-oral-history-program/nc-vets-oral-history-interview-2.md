@@ -5,7 +5,7 @@ author: Chris Short
 cover:
   caption: Weapons qualification in Qatar in 2002; two men on camels walked across
     the active firing range
-  image: https://shortcdn.com/chrisshort/chris-short-qatar-firing-range.jpg
+  image: https://shortcdn.com/chrisshort/chris-short-qatar-firing-range.webp
 date: "2016-08-23"
 description: ""
 tags:
