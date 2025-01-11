@@ -1,7 +1,7 @@
 ---
 author: Chris Short
 cover:
-  image: https://shortcdn.com/chrisshort/happy-new-year-gold.jpg
+  image: /2019-learnings-2020-expectations/happy-new-year-gold.jpg
 date: "2020-01-01"
 description: Chris Short looks back at 2019 and looks ahead to 2020.
 tags:

@@ -1,7 +1,7 @@
 ---
 author: Chris Short
 cover:
-  image: https://shortcdn.com/chrisshort/hopefully.jpg
+  image: /2021-learnings-2022-expectations/hopefully.jpg
 date: "2022-01-08"
 description: Chris Short looks back at 2021 and looks ahead to 2022.
 tags:

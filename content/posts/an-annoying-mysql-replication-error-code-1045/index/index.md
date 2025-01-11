@@ -2,7 +2,7 @@
 ShowToc: false
 author: Chris Short
 cover:
-  image: https://shortcdn.com/chrisshort/logo-mysql-170x115.png
+  image: /an-annoying-mysql-replication-error-code-1045/logo-mysql-170x115.png
 date: "2015-10-05"
 description: ""
 tags:
