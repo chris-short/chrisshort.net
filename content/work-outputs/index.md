@@ -17,7 +17,7 @@ tags:
 - videos
 - work outputs
 title: Work Outputs
-ShowTOC: false
+ShowTOC: true
 TOCOpen: false
 ---
 
