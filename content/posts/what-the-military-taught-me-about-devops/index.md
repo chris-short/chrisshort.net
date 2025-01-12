@@ -3,7 +3,7 @@ ShowTOC: false
 author: Chris Short
 cover:
   caption: 'Photo: [Bridget Kromhout](http://bridgetkromhout.com/)'
-  image: https://shortcdn.com/chrisshort/chris-short-devopsdays-detroit-2016-bridget-kromhout.jpg
+  image: chris-short-devopsdays-detroit-2016-bridget-kromhout.jpg
 date: "2016-10-13"
 description: ""
 tags:

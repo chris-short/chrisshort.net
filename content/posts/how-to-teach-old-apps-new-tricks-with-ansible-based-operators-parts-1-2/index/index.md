@@ -1,7 +1,8 @@
 ---
 author: Chris Short
 cover:
-  image: https://shortcdn.com/chrisshort/how-to-teach-old-apps-new-tricks-with-ansible-based-operators-parts-1-2.png
+  image: how-to-teach-old-apps-new-tricks-with-ansible-based-operators-parts-1-2.png
+  relative: true
 date: "2019-07-19"
 description: Operators help simplify deployment & operations of stateful applications
   in Kubernetes & OpenShift. Writing Operators with Ansible lowers the barrier to

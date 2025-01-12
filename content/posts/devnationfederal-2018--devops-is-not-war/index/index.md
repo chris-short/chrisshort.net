@@ -3,7 +3,7 @@ ShowTOC: false
 author: Chris Short
 cover:
   caption: Photos Courtesy of [Derek Weeks](https://twitter.com/weekstweets)
-  image: https://shortcdn.com/chrisshort/chris-short-devnationfederal-2018.jpg
+  image: chris-short-devnationfederal-2018.jpg
 date: "2018-06-07"
 description: Red Hat invited me to speak at DevNationFederal. The organizers requested
   I present my DevOps is Not War talk to technologists in the Washington DC area.

@@ -4,7 +4,7 @@ aliases:
 - windows-vista-upgrading-seems-like-a-really-bad-idea
 author: Chris Short
 cover:
-  image: https://shortcdn.com/chrisshort/windows-vista.png
+  image: windows-vista.png
 date: "2007-02-01"
 description: Four reasons why upgrading to Windows Vista is a REALLY bad idea.
 tags:

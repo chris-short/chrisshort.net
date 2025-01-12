@@ -23,8 +23,9 @@ tags:
 title: 2018 Learnings, 2019 Expectations
 ---
 
-A former co-worker and now friend used to have a tagline, “Everyday is a school day.” I remind myself of this fact nearly every time I learn something new. Overall, 2018 was great for me professionally. I'd like to share some things I picked up on this most recent journey around the sun we call 2018. I'll make some predictions about 2019 in the process too.
+{{< carbon >}}
 
+A former co-worker and now friend used to have a tagline, “Everyday is a school day.” I remind myself of this fact nearly every time I learn something new. Overall, 2018 was great for me professionally. I'd like to share some things I picked up on this most recent journey around the sun we call 2018. I'll make some predictions about 2019 in the process too.
 
 ## Kubernetes Will Get Easier
 
@@ -41,8 +42,6 @@ One intriguing idea coming very close to the surface is to use Kubernetes as a h
 > Benefits are broad and significant. Teams with a reliance on existing virtual machine-based workloads are empowered to rapidly containerize applications. With virtualized workloads placed directly in development workflows, teams can decompose them over time while still leveraging remaining virtualized components as is comfortably desired.
 >
 > This means a virtual machine could be containerized with little modification. With some already planned work, Kubernetes as a hypervisor will start to change the datacenter and cloud landscapes.
-
-{{< carbon >}}
 
 This enables teams to ask what their hypervisor of choice is gaining them. If it's scalability, [kubeadm join](https://kubernetes.io/docs/reference/setup-tools/kubeadm/kubeadm-join/) can handle adding nodes in a cluster with relative ease. Removing nodes is also a few commands (if you hold your teeth right). If it's redundancy/failover; it's hard to fathom a virtualized environment being faster in this scenario than containers.
 
@@ -120,7 +119,7 @@ I added my tweet tagging a few people to let them know what was going on...
 
 Then things took on a life of their own. I grabbed my phone at one point and it was obvious it had restarted. Opening Twitter at one point made my iPhone Xs Max hot. If you don't think it blew up a few peoples' phones, check out this [tree of the Twitter thread](https://treeverse.app/view/rFWfcpbY):
 
-[![Interactive view of the #KubeKhan Twitter Thread](2018-learnings-2019-expectations/kubekhan-thread-spidered.png#center)](https://treeverse.app/view/rFWfcpbY)
+[![Interactive view of the #KubeKhan Twitter Thread](/2018-learnings-2019-expectations/kubekhan-thread-spidered.png#center)](https://treeverse.app/view/rFWfcpbY)
 
 [Jaice Singer DuMars](https://twitter.com/jaydumars/status/1071185111025049601) named it [#KubeKhan](https://twitter.com/search?l=&q=%23kubekhan). Although spelled incorrectly at first, like any good thread in tech someone acknowledged the misspelling and fixed it. Words are hard, y'all!
 

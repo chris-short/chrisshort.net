@@ -2,7 +2,7 @@
 ShowTOC: false
 author: Chris Short
 cover:
-  image: https://shortcdn.com/chrisshort/cf-logo-v-rgb.png
+  image: cf-logo-v-rgb.png
 date: "2017-08-31"
 description: Time, bugs, unprecedented events, and reason all played a factor in deciding
   to stick with Cloudflare

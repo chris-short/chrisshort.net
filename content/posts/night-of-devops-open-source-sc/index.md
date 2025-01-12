@@ -4,7 +4,7 @@ aliases:
 - night-of-devops-open-source-sc
 author: Chris Short
 cover:
-  image: https://shortcdn.com/chrisshort/a-night-of-devops.jpg
+  image: a-night-of-devops.jpg
 date: "2017-05-30"
 description: ""
 tags:

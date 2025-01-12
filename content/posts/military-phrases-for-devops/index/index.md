@@ -3,7 +3,7 @@ author: Chris Short
 canonicalURL: https://opensource.com/article/18/7/military-phrases-devops
 cover:
   caption: Parental Discretion is Advised
-  image: https://shortcdn.com/chrisshort/low-crawl.jpg
+  image: low-crawl.jpg
 date: "2018-07-23"
 description: There are many military phrases that I have used for a long time that
   could be in greater use in the DevOps space.

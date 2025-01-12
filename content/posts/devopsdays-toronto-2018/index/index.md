@@ -3,7 +3,7 @@ ShowTOC: false
 author: Chris Short
 cover:
   caption: Photo Courtesy of [Arthur Maltson](https://twitter.com/amaltson)
-  image: https://shortcdn.com/chrisshort/chris-short-devopsdays-toronto-2018.jpg
+  image: chris-short-devopsdays-toronto-2018.jpg
 date: "2018-06-01"
 description: ""
 tags:

@@ -1,7 +1,7 @@
 ---
 author: Chris Short
 cover:
-  image: https://shortcdn.com/chrisshort/whos-who-in-hybrid-cloud.webp
+  image: whos-who-in-hybrid-cloud.webp
 date: "2021-03-10"
 description: Chris Short is accidentally named Red Hat CEO but also a Key Opinion
   Leader and  Kubernetes Influencer

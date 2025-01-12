@@ -2,7 +2,7 @@
 ShowTOC: false
 author: Chris Short
 cover:
-  image: https://shortcdn.com/chrisshort/PagerDuty-logo-green.png
+  image: PagerDuty-logo-green.png
 date: "2016-10-05"
 description: ""
 tags:

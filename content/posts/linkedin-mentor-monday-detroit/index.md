@@ -2,7 +2,7 @@
 ShowTOC: false
 author: Chris Short
 cover:
-  image: https://shortcdn.com/chrisshort/linkedin-mentor-monday-20180122.jpg
+  image: linkedin-mentor-monday-20180122.jpg
 date: "2018-01-25"
 description: I was a mentor at LinkedIn Mentor Monday Detroit. I was able to talk
   to younger folks and gauge what they are thinking and where they see their careers

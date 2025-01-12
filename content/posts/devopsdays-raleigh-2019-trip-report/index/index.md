@@ -2,7 +2,7 @@
 ShowTOC: false
 author: Chris Short
 cover:
-  image: https://shortcdn.com/chrisshort/cncf-ambassadors-daniel-oh-chris-short.jpg
+  image: cncf-ambassadors-daniel-oh-chris-short.jpg
 date: "2019-10-16"
 description: I had the pleasure of speaking at and attending DevOpsDays Raleigh 2019.
   This event routinely out punches its weight class as far as quality.

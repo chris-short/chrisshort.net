@@ -3,7 +3,7 @@ ShowTOC: false
 author: Chris Short
 cover:
   alt: PodCTL - Enterprise Kubernetes
-  image: https://shortcdn.com/chrisshort/PodCTL-Logo-KubernetesFromRedHat-June2019.png
+  image: PodCTL-Logo-KubernetesFromRedHat-June2019.png
 date: "2019-11-08"
 description: 'Chris Short added as co-host on Red Hat''s Kubernetes podcast: PodCTL'
 draft: true

@@ -1,7 +1,7 @@
 ---
 author: Chris Short
 cover:
-  image: https://shortcdn.com/chrisshort/Amazon_Orange.webp
+  image: Amazon_Orange.webp
 date: "2021-10-25"
 description: Chris Short is happy to announce that he is joining the Amazon Elastic
   Kubernetes Service (Amazon EKS) team as a developer advocate

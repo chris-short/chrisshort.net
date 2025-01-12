@@ -2,7 +2,7 @@
 ShowTOC: false
 author: Chris Short
 cover:
-  image: https://shortcdn.com/chrisshort/devops_hiring_guide_lead_image.png
+  image: devops_hiring_guide_lead_image.png
 date: "2018-05-16"
 description: ""
 tags:

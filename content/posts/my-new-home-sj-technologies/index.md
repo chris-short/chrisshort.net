@@ -2,7 +2,7 @@
 ShowTOC: false
 author: Chris Short
 cover:
-  image: https://shortcdn.com/chrisshort/sj-technologies.jpg
+  image: sj-technologies.jpg
 date: "2018-01-09"
 description: I am very happy to announce that I have a new job. I am now a Senior
   DevOps Consultant with the esteemed SJ Technologies, Inc.

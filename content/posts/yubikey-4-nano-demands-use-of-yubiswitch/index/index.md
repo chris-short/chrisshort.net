@@ -2,7 +2,7 @@
 ShowTOC: false
 author: Chris Short
 cover:
-  image: https://shortcdn.com/chrisshort/yubikey-nano.png
+  image: yubikey-nano.png
 date: "2016-02-27"
 description: ""
 tags:

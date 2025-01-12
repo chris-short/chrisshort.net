@@ -3,7 +3,9 @@ author: Chris Short
 date: "2015-10-17"
 description: ""
 draft: true
-image: https://shortcdn.com/chrisshort/ansible_circleA_red.png
+cover: 
+    image: ansible_circleA_red.png
+    alt: Red Ansible logo
 tags:
 - ansible
 - ansible-vault

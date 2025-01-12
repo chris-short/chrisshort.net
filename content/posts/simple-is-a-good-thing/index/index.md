@@ -3,7 +3,7 @@ ShowToc: false
 author: Chris Short
 cover:
   caption: Keep it simple
-  image: https://shortcdn.com/chrisshort/simple-is-a-good-thing.jpg
+  image: simple-is-a-good-thing.jpg
 date: "2003-03-15"
 description: Maintain a simplistic design and keep web sites easy to use and maintain
   so that you can focus on content.

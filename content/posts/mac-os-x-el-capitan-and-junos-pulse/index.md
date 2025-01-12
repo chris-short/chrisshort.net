@@ -2,7 +2,7 @@
 ShowTOC: false
 author: Chris Short
 cover:
-  image: https://shortcdn.com/chrisshort/Pulse-Secure-Logo-Medium_optimized.png
+  image: Pulse-Secure-Logo-Medium_optimized.png
 date: "2015-10-06"
 description: ""
 tags:

@@ -2,7 +2,7 @@
 ShowTOC: false
 author: Chris Short
 cover:
-  image: https://shortcdn.com/chrisshort/encryption.jpg
+  image: encryption.jpg
 date: "2017-06-05"
 description: ""
 tags:

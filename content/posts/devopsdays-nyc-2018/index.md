@@ -5,7 +5,7 @@ aliases:
 - devopsdays-2018-ignite-talk-on-golang
 author: Chris Short
 cover:
-  image: https://shortcdn.com/chrisshort/chris-short-sj-technologies-devopsdays-nyc.jpg
+  image: chris-short-sj-technologies-devopsdays-nyc.jpg
 date: "2018-01-19"
 description: This talk walks through the use case of having to apply new certificates
   to an unfamiliar application. I built a 40-line Go tool to test and audit certifcate

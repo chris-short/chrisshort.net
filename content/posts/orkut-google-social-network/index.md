@@ -2,7 +2,7 @@
 ShowTOC: false
 author: Chris Short
 cover:
-  image: https://shortcdn.com/chrisshort/Orkut_2004.png
+  image: Orkut_2004.png
 date: "2004-01-31"
 description: orkut.com is a social networking service developed in association with
   Google.

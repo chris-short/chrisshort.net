@@ -2,7 +2,7 @@
 author: Chris Short
 cover:
   alt: MacBook Pro on Desk
-  image: https://shortcdn.com/chrisshort/macbook.jpg
+  image: macbook.jpg
 date: "2016-06-08"
 description: ""
 tags:

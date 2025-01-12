@@ -6,7 +6,7 @@ aliases:
 - /windows-xp-and-
 author: Chris Short
 cover:
-  image: https://shortcdn.com/chrisshort/Windows_XP_Logo.png
+  image: Windows_XP_Logo.png
 date: "2005-01-05"
 description: ""
 tags:

@@ -3,7 +3,7 @@ ShowTOC: true
 TOCOpen: true
 author: Chris Short
 cover:
-  image: https://shortcdn.com/chrisshort/rhcs-ansible-automation-chris-short.png
+  image: rhcs-ansible-automation-chris-short.png
 date: "2019-01-07"
 description: The longer someone uses a tool the less they tend to pick up new features.
   Getting certified shows that while learning Kubernetes I was still keeping up.

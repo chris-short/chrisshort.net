@@ -1,16 +1,14 @@
 ---
+aliases:
+  - /my-dev-env
+  - /ultimate-dev-env
+  - /my-ultimate-dev-environment
+  - /my-ultimate-development-environment
 ShowTOC: true
 TOCOpen: true
 author: Chris Short
 cover:
-  aliases:
-  - env
-  - dev-env
-  - my-dev-env
-  - ultimate-dev-env
-  - my-ultimate-dev-environment
-  - my-ultimate-development-environment
-  image: https://shortcdn.com/chrisshort/code-server-caddy-tailscale-and-hugo-my-ultimate-dev-environment.webp
+  image: code-server-caddy-tailscale-and-hugo-my-ultimate-dev-environment.webp
 date: "2022-07-02"
 description: 'I think I''ve discovered my development environment equivalent to nirvana:
   code-server, Caddy, Tailscale, and Hugo'
@@ -38,7 +36,6 @@ tags:
 - security
 - ultimate dev environment
 - localHugo
-- ""
 title: code-server, Caddy, Tailscale, and Hugo = My ultimate dev environment
 ---
 

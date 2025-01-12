@@ -5,7 +5,7 @@ author: Chris Short
 cover:
   caption: 'Photo Credit: [Matteo Ianeselli](https://commons.wikimedia.org/wiki/User:Ianezz)
     via [Wikimedia Commons](http://commons.wikimedia.org/)'
-  image: https://shortcdn.com/chrisshort/Trento-Mercatino_dei_Gaudenti-alarm_clocks.jpg
+  image: Trento-Mercatino_dei_Gaudenti-alarm_clocks.jpg
 date: "2016-11-02"
 description: ""
 tags:

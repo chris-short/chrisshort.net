@@ -2,7 +2,7 @@
 ShowTOC: false
 author: Chris Short
 cover:
-  image: https://shortcdn.com/chrisshort/dark-side-of-devops-raleigh-2017.jpg
+  image: dark-side-of-devops-raleigh-2017.jpg
 date: "2017-10-05"
 description: I have seen the light side everyone thinks of in DevOps and have carried
   the red lightsaber as well. Let's walk into the cave on Dagobah together.

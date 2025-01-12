@@ -2,7 +2,7 @@
 ShowTOC: false
 author: Chris Short
 cover:
-  image: https://shortcdn.com/chrisshort/richard-childress-racing-visit-2010.jpg
+  image: richard-childress-racing-visit-2010.jpg
 date: "2016-05-27"
 description: ""
 draft: true

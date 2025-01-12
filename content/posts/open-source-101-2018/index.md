@@ -3,7 +3,7 @@ author: Chris Short
 cover:
   alt: Jason Hibbets and Chris Short Talking DevOps at Open Source Raleigh 101
   caption: 'Photo Credit: [VM (Vicky) Brasseur](https://www.vmbrasseur.com/) (CC-BY)'
-  image: https://shortcdn.com/chrisshort/jason-chris-open-source-101-2018.jpg
+  image: jason-chris-open-source-101-2018.jpg
 date: "2018-02-19"
 description: Jason Hibbets and Chris Short spoke at Open Source 101 Raleigh 2018 (a
   VERY diverse and inclusive Open Source software conference)

@@ -2,7 +2,7 @@
 ShowTOC: false
 author: Chris Short
 cover:
-  image: https://shortcdn.com/chrisshort/devopsish-growth-chart.png
+  image: devopsish-growth-chart.png
 date: "2017-12-02"
 description: After fifty-two weeks of uninterrupted DevOps newsletters, I have some
   things to share about the experience.

@@ -4,7 +4,7 @@ aliases:
 - demise-of-google-fiber-and-internet-under-dirt
 author: Chris Short
 cover:
-  image: https://shortcdn.com/chrisshort/twc-power-utility-house-connection.jpg
+  image: twc-power-utility-house-connection.jpg
 date: "2016-10-30"
 description: There is movement around how consumers will be gaining access to the
   Internet. Your future Internet connection will not be a physical connection at all.

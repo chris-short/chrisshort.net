@@ -3,7 +3,7 @@ ShowTOC: false
 author: Chris Short
 cover:
   alt: Operation Eagle Claw
-  image: https://shortcdn.com/chrisshort/operation-eagle-claw.png
+  image: operation-eagle-claw.png
 date: "2017-01-18"
 description: ""
 tags:

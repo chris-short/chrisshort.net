@@ -2,7 +2,7 @@
 ShowTOC: false
 author: Chris Short
 cover:
-  image: https://shortcdn.com/chrisshort/aws.jpg
+  image: aws.jpg
 date: "2017-01-26"
 description: ""
 tags:

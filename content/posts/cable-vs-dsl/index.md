@@ -2,7 +2,7 @@
 ShowTOC: false
 author: Chris Short
 cover:
-  image: https://shortcdn.com/chrisshort/network-cables.jpg
+  image: network-cables.jpg
 date: "2003-05-03"
 description: DSL and cable broadband both have their advantages and disadvantages
   but DSL seems to be the one lacking in quite a few areas and their marketing shows

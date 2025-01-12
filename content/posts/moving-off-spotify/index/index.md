@@ -1,7 +1,7 @@
 ---
 author: Chris Short
 cover:
-  image: https://shortcdn.com/chrisshort/moving-off-spotify.webp
+  image: moving-off-spotify.webp
 date: "2022-01-29"
 description: I'm in the middle of moving between a lot of services right now but,
   moving off Spotify was the easiest thing I've done in a long time.

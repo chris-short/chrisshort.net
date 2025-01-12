@@ -8,6 +8,8 @@ tags:
 title: Chris Short's Sausage Potato Soup
 ---
 
+{{< carbon >}}
+
 ## Ingredients
 
 1 lb. Jimmy Dean Sage Pork Sausage *
@@ -21,14 +23,11 @@ title: Chris Short's Sausage Potato Soup
 2-3 cups of Milk (depending on how much soup you want)
 Cheddar Cheese (for garnish)
 
-
 ## Directions
 
 Start heating up your Crock Pot. Add water (or wine instead, just be sure to wipe the condensation a few times from the lid with a paper towel) and chicken broth to Crock Pot (season to taste**).  Using a microplane or grater, add garlic into Crock Pot.
 
 Heat skillet on medium-high heat; add sausage (season to taste**).  Brown sausage until it crumbles insuring that it is cooked through.  Reserve a tablespoon or two of the drippings.  After you completely cook your sausage drain it well using a suitably sized colander.
-
-{{< carbon >}}
 
 Dice onions.  Using the reserved sausage drippings; caramelize onions (season to taste**).  Add to Crock Pot while hot.
 

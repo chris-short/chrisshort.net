@@ -1,10 +1,12 @@
 ---
+aliases:
+- /notorious-remixes
 ShowTOC: false
 author: Chris Short
 cover:
   caption: 'Photo: [Biggie smalls](https://www.flickr.com/photos/tombothetominator/5454864996/)
     by [Tom Check](https://www.flickr.com/people/7536455@N04)'
-  image: https://shortcdn.com/chrisshort/The_Notorious_B.I.G._graffiti.jpg
+  image: The_Notorious_B.I.G._graffiti.jpg
 date: "2016-09-14"
 description: The Notorious B.I.G. was one of the best rappers ever. This is the definitive
   collection of the best Notorious B.I.G. remixes and mashups ever created.
@@ -13,7 +15,7 @@ tags:
 - mashup
 - remix
 - hip hop
-title: Notorious Remixes
+title: Notorious B.I.G. Remixes
 ---
 
 Note: If you know of other remixes that showcase the lyrics of Notorious B.I.G., please let me know.
@@ -64,13 +66,12 @@ There are also some pretty good Notorious B.I.G. mashup/remix singles that are w
 
 ### Tupac - Runnin' (Dying To Live) Ft. Notorious B.I.G.
 
-[YouTube](https://www.youtube.com/watch?v=IsHBnS3ZLSY)
+{{< youtube IsHBnS3ZLSY >}}
 
 ### Victory (Nine Inch Nails Remix) - Puff Daddy and the Family, The Notorious B.I.G., and Busta Rhymes
 
-[YouTube](https://www.youtube.com/watch?v=EoAXc9Rm8Z8)
+{{< youtube EoAXc9Rm8Z8 >}}
 
 ### Mo Free Mo Fallin
 
-[MP3](https://shortcdn.com/chrisshort/Mo%20Free%20Mo%20Fallin.mp3)
-
+{{< audio Mo-Free-Mo-Fallin.mp3 >}}

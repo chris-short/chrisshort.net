@@ -1,7 +1,7 @@
 ---
 author: Chris Short
 cover:
-  image: https://shortcdn.com/chrisshort/hugo-logo-wide.svg
+  image: hugo-logo-wide.svg
 date: "2021-09-27"
 description: How to switch from git submodules to Hugo Modules
 tags:

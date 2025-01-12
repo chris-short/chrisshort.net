@@ -5,7 +5,7 @@ aliases:
 - /devopsdays-clt-2018-ignite-talk-on-go/
 author: Chris Short
 cover:
-  image: https://shortcdn.com/chrisshort/chris-short-sj-technologies-devopsdays-clt.jpg
+  image: chris-short-sj-technologies-devopsdays-clt.jpg
 date: "2018-02-28"
 description: This talk walks through the use case of having to apply new certificates
   to an unfamiliar application. I built a 50-line Go tool to test and audit certifcate

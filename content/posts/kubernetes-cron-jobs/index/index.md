@@ -1,7 +1,7 @@
 ---
 author: Chris Short
 cover:
-  image: https://shortcdn.com/chrisshort/kubernetes-wall-clock.jpg
+  image: kubernetes-wall-clock.jpg
 date: "2018-02-14"
 description: Kubernetes Cron Jobs are a new thing. Since Kuberenetes Cron Jobs build
   on top of the existing Job functionality, I know that the job will be run to completion.

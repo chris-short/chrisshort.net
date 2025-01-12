@@ -1,7 +1,7 @@
 ---
 author: Chris Short
 cover:
-  image: https://shortcdn.com/chrisshort/neon-open.jpg
+  image: neon-open.jpg
 date: "2020-02-26"
 description: Chris Short is running for the Open Source Initiative 2020 Board of Directors
 tags:

@@ -2,7 +2,7 @@
 ShowTOC: false
 author: Chris Short
 cover:
-  image: https://shortcdn.com/chrisshort/theopenorg_guidetoITculturechange_1_0_cover_final.png
+  image: theopenorg_guidetoITculturechange_1_0_cover_final.png
 date: "2017-06-06"
 description: ""
 tags:

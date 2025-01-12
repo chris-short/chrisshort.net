@@ -2,7 +2,7 @@
 ShowTOC: false
 author: Chris Short
 cover:
-  image: https://shortcdn.com/chrisshort/badlock.png
+  image: badlock.png
 date: "2016-04-12"
 description: ""
 tags:

@@ -2,7 +2,7 @@
 ShowTOC: false
 author: Chris Short
 cover:
-  image: https://shortcdn.com/chrisshort/success.jpg
+  image: success.jpg
 date: "2017-02-03"
 description: ""
 tags:

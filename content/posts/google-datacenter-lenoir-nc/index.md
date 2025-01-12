@@ -2,7 +2,7 @@
 ShowTOC: false
 author: Chris Short
 cover:
-  image: https://shortcdn.com/chrisshort/Google_2007.png
+  image: Google_2007.png
 date: "2007-01-20"
 description: Good news for the Unifour area of North Carolina, Google is building
   a 210 job, $600 million dollar datacenter to help bolster its online offerings.

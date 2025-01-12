@@ -5,7 +5,7 @@ aliases:
 author: Chris Short
 cover:
   alt: The T-Mobile Sidekick II from 2004
-  image: https://shortcdn.com/chrisshort/sidekick-II-open.jpg
+  image: sidekick-II-open.jpg
 date: "2004-09-23"
 description: A comprehensive review of the Sidekick II. (2004)
 tags:

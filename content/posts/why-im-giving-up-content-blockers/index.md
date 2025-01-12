@@ -2,7 +2,7 @@
 ShowTOC: false
 author: Chris Short
 cover:
-  image: https://shortcdn.com/chrisshort/content-blocker.png
+  image: content-blocker.png
 date: "2017-02-09"
 description: ""
 tags:

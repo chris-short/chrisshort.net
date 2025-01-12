@@ -5,7 +5,7 @@ author: Chris Short
 cover:
   alt: A mint leaf and a burnt match
   caption: Photo by [Albin Biju](https://www.pexels.com/photo/green-leaf-and-burnt-match-on-white-background-5800355/)
-  image: https://shortcdn.com/chrisshort/burnt_out.webp
+  image: burnt_out.webp
 date: "2023-02-20"
 description: An update on how I'm doing after shuttering the DevOps'ish newsletter
 tags:

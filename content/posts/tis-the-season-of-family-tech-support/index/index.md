@@ -2,7 +2,7 @@
 author: Chris Short
 cover:
   caption: Be helpful. But, this isn't your day job.
-  image: https://shortcdn.com/chrisshort/vcr.jpg
+  image: vcr.jpg
 date: "2018-11-20"
 description: The time of year when everyone gets together with family or friends they
   haven't seen in forever and they get to ask those pressing tech support questions.

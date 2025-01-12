@@ -4,7 +4,7 @@ aliases:
 - /post/16711219859/the-story-of-julie-and-chriss-engagement
 author: Chris Short
 cover:
-  image: https://shortcdn.com/chrisshort/diana-biltmore-estate.jpg
+  image: diana-biltmore-estate.jpg
 date: "2011-01-29"
 description: The Biltmore Estate is a special place to Chris and Julie. Chris decided
   months prior that when the time was right he'd propose to Julie on Biltmore Estate.

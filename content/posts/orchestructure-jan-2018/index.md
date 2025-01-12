@@ -2,7 +2,7 @@
 ShowTOC: false
 author: Chris Short
 cover:
-  image: https://shortcdn.com/chrisshort/orchestruture-jan-2018.jpg
+  image: orchestruture-jan-2018.jpg
 date: "2018-02-01"
 description: 'I created a new Go talk for this group. I hope to reuse it to enlighten
   people on the awesomeness of Go. This talk is title Go: Enabling DevOps To Go Faster.'

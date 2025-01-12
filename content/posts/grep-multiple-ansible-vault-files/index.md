@@ -3,7 +3,9 @@ ShowTOC: false
 author: Chris Short
 date: "2015-09-22"
 description: ""
-image: https://shortcdn.com/chrisshort/ansible_circleA_blue.png
+cover:
+    image: ansible_circleA_blue.png
+    alt: Blue Ansible logo
 tags:
 - ansible
 - ansible-vault

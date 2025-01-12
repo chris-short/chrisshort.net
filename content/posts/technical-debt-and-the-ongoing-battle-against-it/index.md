@@ -2,7 +2,7 @@
 author: Chris Short
 cover:
   caption: 'Photo: [Twitter](https://twitter.com/Carnage4Life/status/585458646680670208)'
-  image: https://shortcdn.com/chrisshort/technical-debt.jpg
+  image: technical-debt.jpg
 date: "2016-08-09"
 description: ""
 tags:

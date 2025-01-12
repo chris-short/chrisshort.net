@@ -3,7 +3,7 @@ ShowToc: false
 author: Chris Short
 cover:
   caption: Construction of an Optimized Web Page
-  image: https://shortcdn.com/chrisshort/constrution-of-an-optimized-web-page.jpg
+  image: constrution-of-an-optimized-web-page.jpg
 date: "2003-12-20"
 description: ""
 tags:

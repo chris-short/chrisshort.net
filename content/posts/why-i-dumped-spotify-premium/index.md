@@ -2,7 +2,7 @@
 ShowTOC: false
 author: Chris Short
 cover:
-  image: https://shortcdn.com/chrisshort/spotify.png
+  image: spotify.png
 date: "2012-01-07"
 description: ""
 tags:

@@ -4,7 +4,7 @@ aliases:
 - detroit-kubernetes--kubernetes-cron-jobs
 author: Chris Short
 cover:
-  image: https://shortcdn.com/chrisshort/detroit-kubernetes-apr-2018-cron-jobs.png
+  image: detroit-kubernetes-apr-2018-cron-jobs.png
 date: "2018-04-30"
 description: ""
 tags:

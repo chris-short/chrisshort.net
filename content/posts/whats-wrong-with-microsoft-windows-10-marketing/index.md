@@ -4,7 +4,7 @@ aliases:
 - whats-wrong-with-microsoft-windows-10-marketing
 author: Chris Short
 cover:
-  image: https://shortcdn.com/chrisshort/win10_ad.jpg
+  image: win10_ad.jpg
 date: "2015-10-06"
 description: ""
 tags:

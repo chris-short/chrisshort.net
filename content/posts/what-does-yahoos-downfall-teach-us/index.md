@@ -1,7 +1,7 @@
 ---
 author: Chris Short
 cover:
-  image: https://shortcdn.com/chrisshort/yahoo.jpg
+  image: yahoo.jpg
 date: "2016-07-26"
 description: ""
 tags:

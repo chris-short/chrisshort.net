@@ -2,7 +2,7 @@
 ShowTOC: false
 author: Chris Short
 cover:
-  image: https://shortcdn.com/chrisshort/plant-flag.jpg
+  image: plant-flag.jpg
 date: "2016-06-28"
 description: ""
 tags:

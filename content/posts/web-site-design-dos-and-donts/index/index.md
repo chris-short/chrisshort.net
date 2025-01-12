@@ -4,7 +4,7 @@ TOCOpen: true
 author: Chris Short
 cover:
   caption: Web Site Design Do's and Don'ts
-  image: https://shortcdn.com/chrisshort/web-site-design-do's-and-don'ts.svg
+  image: web-site-design-do's-and-don'ts.svg
 date: "2005-01-05"
 description: A list of search engine optimization best practices when embarking on
   building a web site optimized for search

@@ -3,7 +3,7 @@ aliases:
 - sysadmin-to-devops-six-months
 author: Chris Short
 cover:
-  image: https://shortcdn.com/chrisshort/gears-galore.jpg
+  image: gears-galore.jpg
 date: "2017-05-11"
 description: ""
 tags:

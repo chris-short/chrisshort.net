@@ -2,7 +2,7 @@
 ShowTOC: false
 author: Chris Short
 cover:
-  image: https://shortcdn.com/chrisshort/dagobah-cave.jpg
+  image: dagobah-cave.jpg
 date: "2017-03-10"
 description: ""
 tags:

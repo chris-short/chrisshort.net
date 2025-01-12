@@ -3,7 +3,7 @@ ShowToc: false
 author: Chris Short
 cover:
   caption: Chris Short speaking at All Things Open 2017
-  image: /all-things-open-2017-devops-readme/chris-short-all-things-open-devops-readme.jpg
+  image: chris-short-all-things-open-devops-readme.jpg
 date: "2017-10-27"
 description: A curated list of things to read to level up your DevOps skills and knowledge.
 tags:

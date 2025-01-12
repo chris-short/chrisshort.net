@@ -2,7 +2,7 @@
 ShowTOC: false
 author: Chris Short
 cover:
-  image: https://shortcdn.com/chrisshort/gitlab-logo.png
+  image: gitlab-logo.png
 date: "2017-01-23"
 description: ""
 tags:

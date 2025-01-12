@@ -4,7 +4,7 @@ aliases:
 - /interview-with-gina-elise-of-pin-ups-for-vets/
 author: Chris Short
 cover:
-  image: https://shortcdn.com/chrisshort/pin-ups-for-vets.jpg
+  image: pin-ups-for-vets.jpg
 date: "2007-02-12"
 description: If you've never heard of Gina Elise and her project Pin Ups for Vets
   prepare to become very informed and amazed.

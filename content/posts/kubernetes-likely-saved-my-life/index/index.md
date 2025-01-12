@@ -5,7 +5,7 @@ author: Chris Short
 cover:
   alt: Happy 10th Birthday, Kubernetes | Photo from Kubernetes Contributor Summit
     San Diego 2019
-  image: https://shortcdn.com/chrisshort/KCSNA_2019.webp
+  image: KCSNA_2019.webp
 date: "2024-06-06"
 description: Kubernetes contributor Chris Short recounts how the open source project,
   its community, and access to mental health resources through an employer likely

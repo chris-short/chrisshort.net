@@ -2,7 +2,7 @@
 ShowTOC: false
 author: Chris Short
 cover:
-  image: https://shortcdn.com/chrisshort/Virtualbox_logo.png
+  image: Virtualbox_logo.png
 date: "2013-05-03"
 description: ""
 tags:

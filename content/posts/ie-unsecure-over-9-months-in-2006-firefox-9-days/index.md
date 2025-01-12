@@ -5,7 +5,7 @@ aliases:
 - /ie-unsecure-for-over-9-months-in-2006-firefox-9-days
 author: Chris Short
 cover:
-  image: https://shortcdn.com/chrisshort/ie7-vs-firefox.png
+  image: ie7-vs-firefox.png
 date: "2007-01-18"
 description: Internet Explorer (IE) is one of the most unsecured browsers on the planet.
   In 2006, IE was unsecure for 284 according to Brian Krebs.
