@@ -16,7 +16,7 @@ I have written my first publicly reusable Ansible role. It is freely available f
 
 What is [Papertrail](https://papertrailapp.com/)? A hosted log management tool that, in my opinion, can bridge the gap between your terminal and a full blown ELK stack. It is no frills streaming log aggregation and search.
 
-[![Papertrail](https://shortcdn.com/chrisshort/papertrail-screenshot.png)](https://shortcdn.com/chrisshort/papertrail-screenshot.png)
+[![Papertrail](/ansible-role-for-papertrail/papertrail-screenshot.png)](/ansible-role-for-papertrail/papertrail-screenshot.png)
 
 Being my first Ansible role I have submitted to Galaxy I am pretty stoked about it. It did not come without finding a quirk or two but [the role is updating from GitHub despite my issue](https://github.com/ansible/galaxy-issues/issues/217). The role somehow makes it through to Galaxy regardless of this error. A huge thanks to [**Jeff Geerling**](http://www.jeffgeerling.com/) for his work to make this so much easier and his advice.
 

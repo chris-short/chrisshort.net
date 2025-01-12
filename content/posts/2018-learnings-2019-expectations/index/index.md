@@ -3,7 +3,7 @@ aliases:
 - /what-i-learned-in-2018/
 author: Chris Short
 cover:
-  image: /2018-learnings-2019-expectations/happy-new-year.jpg
+  image: happy-new-year.jpg
   relative: true
 date: "2018-12-28"
 description: A former co-worker and now friend used to have a tagline, "Everyday is
