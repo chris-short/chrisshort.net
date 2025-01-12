@@ -5,6 +5,7 @@ cover:
   image: success.jpg
 date: "2017-02-03"
 description: ""
+draft: true
 tags:
 - DevOps
 - open source
