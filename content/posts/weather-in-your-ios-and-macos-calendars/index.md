@@ -2,7 +2,8 @@
 ShowTOC: false
 author: Chris Short
 cover:
-  image: https://shortcdn.com/chrisshort/macos-calender-weather.png
+  image: macos-calender-weather.png
+  relative: true
 date: "2016-07-10"
 description: ""
 draft: true

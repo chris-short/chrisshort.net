@@ -3,7 +3,8 @@ ShowToc: false
 author: Chris Short
 cover:
   caption: COVID-19 is more than just a pandemic
-  image: https://shortcdn.com/chrisshort/covid-19-cdc.svg
+  image: covid-19-cdc.svg
+  relative: true
 date: "2021-03-29"
 description: K Rain Leander inspired a recent DevOps'ish intro topic related to the
   COVID-19 pandemic and DevOps; sharing here as it's more a personal take on the world

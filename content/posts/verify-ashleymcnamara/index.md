@@ -1,7 +1,8 @@
 ---
 author: Chris Short
 cover:
-  image: https://shortcdn.com/chrisshort/verify-ashleymcnamara.png
+  image: verify-ashleymcnamara.png
+  relative: true
 date: "2019-04-02"
 description: 认证 @ashleymcnamara — Verify Ashley McNamara
 draft: true

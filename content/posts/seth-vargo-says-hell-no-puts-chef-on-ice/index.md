@@ -4,7 +4,8 @@ aliases:
 - /seth-vargo-says-hell-no-puts-chef-on-ice/
 author: Chris Short
 cover:
-  image: https://shortcdn.com/chrisshort/balance-stacked-stones-2171464.jpg
+  image: balance-stacked-stones-2171464.jpg
+  relative: true
 date: "2019-09-22"
 description: Seth Vargo, a former Chef employee, learned something he wasn't comfortable
   with about code he'd written. Chef had an active contract with the US DHS' ICE

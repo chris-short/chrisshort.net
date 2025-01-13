@@ -4,7 +4,7 @@ aliases:
 - /php-memory-directives-relationship/
 author: Chris Short
 cover:
-  image: https://shortcdn.com/chrisshort/drawings/php-logo-large-white.png
+  image: https://shortcdn.com/chrisshort/drawings/php-logo-large-white.webp
 date: "2015-10-09"
 description: ""
 tags:
@@ -41,5 +41,5 @@ memory\_limit > post\_max\_size > upload\_max\_filesize
 
 Or...
 
-![PHP Memory Relationships](https://shortcdn.com/chrisshort/drawings/php-memory-relationships.png)
+![PHP Memory Relationships](/drawings/php-memory-relationships.webp)
 

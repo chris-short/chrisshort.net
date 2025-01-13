@@ -1,7 +1,8 @@
 ---
 author: Chris Short
 cover:
-  image: https://shortcdn.com/chrisshort/chris-short-desk-setup-jan-2021.jpg
+  image: chris-short-desk-setup-jan-2021.jpg
+  relative: true
 date: "2021-01-31"
 description: Chris Short's desk setup for live streaming circa January 2021
 tags:

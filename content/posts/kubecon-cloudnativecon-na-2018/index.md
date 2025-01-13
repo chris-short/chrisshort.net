@@ -3,7 +3,8 @@ aliases:
 - kubecon-cloudnativecon-na-2018
 author: Chris Short
 cover:
-  image: https://shortcdn.com/chrisshort/kubecon-cloudnativecon-2018.jpg
+  image: kubecon-cloudnativecon-2018.jpg
+  relative: true
 date: "2018-12-21"
 description: A recap of what I did at KubeCon + CloudNativeCon North America 2018
 tags:

@@ -70,13 +70,19 @@ force = true
 [[redirects]]
 from = "/archive"
 to = "/tags"
-status = 302
+status = 301
 force = true
 
 [[redirects]]
 from = "/archives"
 to = "/tags"
-status = 302
+status = 301
+force = true
+
+[[redirects]]
+from = "/drawings/diy-buffer-using-ifttt/"
+to = "/"
+status = 301
 force = true
 
 [[headers]]

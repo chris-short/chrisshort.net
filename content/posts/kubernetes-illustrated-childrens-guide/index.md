@@ -4,7 +4,8 @@ aliases:
 - The-Illustrated-Childrens-Guide-to-Kubernetes.pdf
 author: Chris Short
 cover:
-  image: https://shortcdn.com/chrisshort/The-Illustrated-Childrens-Guide-to-Kubernetes.png
+  image: The-Illustrated-Childrens-Guide-to-Kubernetes.png
+  relative: true
 date: "2020-01-26"
 description: The Illustrated Children's Guide to Kubernetes and Phippy Goes to the
   Zoo with bonus giggles from Max Short

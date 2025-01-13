@@ -79,6 +79,7 @@ Sampling of the episodes with the most reach (as of 2025-01-09):
 
 * [Kubernetes Contributor Awards 2023](https://www.kubernetes.dev/community/awards/2023/#contributor-experience) (Kubernetes Contributor site, 2023-11-06)
 * Red Hat Product Marketing Awards — Best New Red Hatter 2019
+* [opensource.com 2017 Emerging Contributor Awards](https://opensource.com/article/17/2/community-awards-2017) (please note: my picture isn't linked correctly on the page and the site is no longer maintained.)
 * McClatchy Interactive Employee of the Month – June 2011
 * 43d Airlift Wing Communications & Information NCO of the Year 2008
 

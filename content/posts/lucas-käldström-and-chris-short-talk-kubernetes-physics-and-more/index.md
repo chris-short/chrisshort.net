@@ -2,9 +2,9 @@
 author: Chris Short
 cover:
   alt: Lucas Käldström and Chris Short talking at KubeCon + CloudNativeCon EU 2022
-  caption: Lucas Käldström and Chris Short talking at KubeCon + CloudNativeCon EU
-    2022
-  image: https://shortcdn.com/chrisshort/lucas-kaldstrom-and-chris-short-talk-kubernetes-physics-and-more.webp
+  caption: Lucas Käldström and Chris Short talking at KubeCon + CloudNativeCon EU 2022
+  image: lucas-kaldstrom-and-chris-short-talk-kubernetes-physics-and-more.webp
+  relative: true
 date: "2022-06-06"
 description: Lucas Käldström has a thesis out, 'Encoding human-like operational knowledge
   using declarative Kubernetes operator patterns.' We sat down to talk about it.

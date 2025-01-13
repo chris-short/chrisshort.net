@@ -1,9 +1,7 @@
 ---
 aliases:
-- /updated-my-four-favorite-macos-screensavers/
-- updated-my-four-favorite-macos-screensavers
-- my-three-favorite-macos-screensavers
-- /my-three-favorite-macos-screensavers/
+- /updated-my-four-favorite-macos-screensavers
+- /my-three-favorite-macos-screensavers
 author: Chris Short
 cover:
   alt: MacBook Pro

@@ -3,7 +3,8 @@ aliases:
 - /what-i-learned-in-2018/
 author: Chris Short
 cover:
-  image: https://shortcdn.com/chrisshort/happy-new-year.jpg
+  image: happy-new-year.jpg
+  relative: true
 date: "2018-12-28"
 description: A former co-worker and now friend used to have a tagline, "Everyday is
   a school day." I remind myself of this fact nearly every time I learn something
@@ -22,8 +23,9 @@ tags:
 title: 2018 Learnings, 2019 Expectations
 ---
 
-A former co-worker and now friend used to have a tagline, “Everyday is a school day.” I remind myself of this fact nearly every time I learn something new. Overall, 2018 was great for me professionally. I'd like to share some things I picked up on this most recent journey around the sun we call 2018. I'll make some predictions about 2019 in the process too.
+{{< carbon >}}
 
+A former co-worker and now friend used to have a tagline, “Everyday is a school day.” I remind myself of this fact nearly every time I learn something new. Overall, 2018 was great for me professionally. I'd like to share some things I picked up on this most recent journey around the sun we call 2018. I'll make some predictions about 2019 in the process too.
 
 ## Kubernetes Will Get Easier
 
@@ -40,8 +42,6 @@ One intriguing idea coming very close to the surface is to use Kubernetes as a h
 > Benefits are broad and significant. Teams with a reliance on existing virtual machine-based workloads are empowered to rapidly containerize applications. With virtualized workloads placed directly in development workflows, teams can decompose them over time while still leveraging remaining virtualized components as is comfortably desired.
 >
 > This means a virtual machine could be containerized with little modification. With some already planned work, Kubernetes as a hypervisor will start to change the datacenter and cloud landscapes.
-
-{{< carbon >}}
 
 This enables teams to ask what their hypervisor of choice is gaining them. If it's scalability, [kubeadm join](https://kubernetes.io/docs/reference/setup-tools/kubeadm/kubeadm-join/) can handle adding nodes in a cluster with relative ease. Removing nodes is also a few commands (if you hold your teeth right). If it's redundancy/failover; it's hard to fathom a virtualized environment being faster in this scenario than containers.
 
@@ -91,7 +91,7 @@ In 2018, I learned a lot from folks about privilege and how lucky I truly am (de
 
 ### Impostor Syndrome
 
-[![XKCD: Impostor Syndrome](https://shortcdn.com/chrisshort/impostor_syndrome.png#center)](https://xkcd.com/1954/)
+[![XKCD: Impostor Syndrome](/2018-learnings-2019-expectations/impostor_syndrome.png#center)](https://xkcd.com/1954/)
 
 Impostor Syndrome is something most people struggle with at some point. I might be lucky enough to have less of a challenge than most getting over my confidence issues. But, no one wants to hear from me about impostor syndrome. Make no mistake, impostor syndrome is a real thing and people *really* struggle with it. I would like to help some folks get over their impostor syndrome issues (assuming they're ready to).
 
@@ -101,11 +101,11 @@ Impostor Syndrome is something most people struggle with at some point. I might 
 
 I tried to set the record straight early on but was asked to delete this tweet (there's always a tweet):
 
-![Screenshot of original tweet assigning credit to folks for KubeKhan NA 2018](https://shortcdn.com/chrisshort/original-credit-tweet.png#center)
+![Screenshot of original tweet assigning credit to folks for KubeKhan NA 2018](/2018-learnings-2019-expectations/original-credit-tweet.png#center)
 
 **Kim McMahon** and I were talking before KubeCon trying to set up dinner, lunch, drinks, or something while in Seattle. But, then a meeting popped up that required me to leave Seattle at noon on Wednesday. I told Kim and asked how can we ever have time to catch up with everyone we want to see at KubeCon? She had an idea a few hours later:
 
-![iMessage thread between Kim McMahon and Chris Short prior to KubeCon NA 2018](https://shortcdn.com/chrisshort/kim-mcmahon-one-to-many.png#center)
+![iMessage thread between Kim McMahon and Chris Short prior to KubeCon NA 2018](/2018-learnings-2019-expectations/kim-mcmahon-one-to-many.png#center)
 
 > [W]e just hang in the Sheraton lobby bar Sunday night and see how many people we can talk with. We'll see some and they will see us.
 
@@ -117,13 +117,13 @@ I added my tweet tagging a few people to let them know what was going on...
 
 <blockquote class="twitter-tweet"><p lang="und" dir="ltr">FYI <a href="https://twitter.com/nathenharvey?ref_src=twsrc%5Etfw">@nathenharvey</a> <a href="https://twitter.com/amanda_katona?ref_src=twsrc%5Etfw">@amanda_katona</a> <a href="https://twitter.com/cra?ref_src=twsrc%5Etfw">@cra</a> <a href="https://twitter.com/mbbroberg?ref_src=twsrc%5Etfw">@mbbroberg</a> <a href="https://twitter.com/jrrickard?ref_src=twsrc%5Etfw">@jrrickard</a></p>&mdash; Chris Short (@ChrisShort) <a href="https://twitter.com/ChrisShort/status/1070708893460910080?ref_src=twsrc%5Etfw">December 6, 2018</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-Then things took on a life of their own. I grabbed my phone at one point and it was obvious it had restarted. Opening Twitter at one point made my iPhone Xs Max hot. If you don't think it blew up a few peoples' phones, check out this [tree of the Twitter thread](https://treeverse.app/view/rFWfcpbY):
+Then things took on a life of their own. I grabbed my phone at one point and it was obvious it had restarted. Opening Twitter at one point made my iPhone Xs Max hot. If you don't think it blew up a few peoples' phones, check out this tree of the Twitter thread:
 
-[![Interactive view of the #KubeKhan Twitter Thread](https://shortcdn.com/chrisshort/kubekhan-thread-spidered.png#center)](https://treeverse.app/view/rFWfcpbY)
+![Interactive view of the #KubeKhan Twitter Thread](/2018-learnings-2019-expectations/kubekhan-thread-spidered.png#center)
 
 [Jaice Singer DuMars](https://twitter.com/jaydumars/status/1071185111025049601) named it [#KubeKhan](https://twitter.com/search?l=&q=%23kubekhan). Although spelled incorrectly at first, like any good thread in tech someone acknowledged the misspelling and fixed it. Words are hard, y'all!
 
-[Bob Killen](https://twitter.com/MrBobbyTables) brought us the fantastic `:khanparrot:` which is available in the Kubernetes Slack and as a higher resolution [Khan Parrot GIF](https://shortcdn.com/chrisshort/kubekhan-parrot.gif).
+[Bob Killen](https://twitter.com/MrBobbyTables) brought us the fantastic `:khanparrot:` which is available in the Kubernetes Slack and as a higher resolution [Khan Parrot GIF](/2018-learnings-2019-expectations/kubekhan-parrot.gif).
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">:khanparrot: <a href="https://t.co/eTL1EXxgj4">pic.twitter.com/eTL1EXxgj4</a></p>&mdash; Bob Killen (@MrBobbyTables) <a href="https://twitter.com/MrBobbyTables/status/1071566233424646145?ref_src=twsrc%5Etfw">December 9, 2018</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 

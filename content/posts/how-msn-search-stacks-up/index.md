@@ -3,12 +3,11 @@ ShowToc: false
 author: Chris Short
 cover:
   caption: How MSN Search Stacks Up
-  image: https://shortcdn.com/chrisshort/msn-logo.webp
+  image: msn-logo.webp
+  relative: true
 date: "2005-02-02"
-description: 'Wired: Microsoft is formally launching its new internet search engine,
-  several months after it debuted in test form. Microsoft''s own search engine will
-  permanently replace the Yahoo search technology that has been used on Microsoft''s
-  MSN website. But Yahoo''s technology...'
+description: 'Wired: Microsoft is formally launching its new internet search engine, several months after it debuted in test form. Microsoft''s own search engine will permanently replace the Yahoo search technology that has been used on Microsoft''s MSN website. But Yahoo''s technology...'
+draft: true
 tags:
 - SEO
 title: How MSN Search Stacks Up

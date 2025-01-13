@@ -3,9 +3,9 @@ aliases:
 - ntp-go-ahead-and-love-it
 author: Chris Short
 cover:
-  caption: 'Photo Credit: [Matteo Ianeselli](https://commons.wikimedia.org/wiki/User:Ianezz)
-    via [Wikimedia Commons](http://commons.wikimedia.org/)'
-  image: https://shortcdn.com/chrisshort/Trento-Mercatino_dei_Gaudenti-alarm_clocks.jpg
+  caption: 'Photo Credit: [Matteo Ianeselli](https://commons.wikimedia.org/wiki/User:Ianezz)  via [Wikimedia Commons](http://commons.wikimedia.org/)'
+  image: Trento-Mercatino_dei_Gaudenti-alarm_clocks.jpg
+  relative: true
 date: "2016-11-02"
 description: ""
 tags:

@@ -2,7 +2,8 @@
 ShowTOC: false
 author: Chris Short
 cover:
-  image: https://shortcdn.com/chrisshort/laws.webp
+  image: laws.webp
+  relative: true
 date: "2022-06-20"
 description: Conway's Law and GitOps go hand in hand.
 tags:

@@ -1,11 +1,10 @@
 ---
 author: Chris Short
 cover:
-  image: https://shortcdn.com/chrisshort/joining-ansible-team.png
-  imagecap: ""
+  image: joining-ansible-team.png
+  relative: true
 date: "2018-06-25"
-description: It is with great pleasure that I announce I am joining the Ansible team
-  at Red Hat as Principal Product Marketing Manager.
+description: It is with great pleasure that I announce I am joining the Ansible team at Red Hat as Principal Product Marketing Manager.
 tags:
 - red hat
 - ansible

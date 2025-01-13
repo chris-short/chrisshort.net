@@ -1,7 +1,8 @@
 ---
 author: Chris Short
 cover:
-  image: https://shortcdn.com/chrisshort/hopefully.jpg
+  image: hopefully.jpg
+  relative: true
 date: "2022-01-08"
 description: Chris Short looks back at 2021 and looks ahead to 2022.
 tags:

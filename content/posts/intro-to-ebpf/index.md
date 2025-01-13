@@ -5,7 +5,8 @@ author: Chris Short
 cover:
   alt: eBPF
   caption: eBPF bee is named eBee
-  image: https://shortcdn.com/devopsish/ebpf-logo.webp
+  image: ebpf-logo.webp
+  relative: true
 date: "2022-08-04"
 description: eBPF is VERY powerful because it's so ingrained where all the magic happens
   (the Linux kernel). eBPF lets you write custom code in the kernel.

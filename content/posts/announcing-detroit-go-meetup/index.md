@@ -2,7 +2,8 @@
 ShowToc: false
 author: Chris Short
 cover:
-  image: https://shortcdn.com/chrisshort/gopher_detroit_twitter_400x400.png
+  image: gopher_detroit_twitter_400x400.png
+  relative: true
 date: "2017-08-10"
 description: Detroit Go Meetup will have its first meeting at Bankrate in Downtown
   Detroit on Tuesday, August 29, 2017 at 7:00 PM ET

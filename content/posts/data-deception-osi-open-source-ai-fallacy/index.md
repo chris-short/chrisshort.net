@@ -3,10 +3,8 @@ ShowTOC: true
 TOCOpen: true
 author: Chris Short
 cover:
-  alt: I prompted Stable Diffusion (Generative AI model) to draw itself. It drew something
-    that's a cross between a robot and an electronic toy you'd give a five-year-old.
-  caption: Prompting Stable Diffusion to draw itself. Graphic created by Generative
-    AI.
+  alt: I prompted Stable Diffusion (Generative AI model) to draw itself. It drew something that's a cross between a robot and an electronic toy you'd give a five-year-old.
+  caption: Prompting Stable Diffusion to draw itself. Graphic created by Generative AI.
   image: AI-drawing-AI.webp
   relative: true
 date: "2024-07-23"

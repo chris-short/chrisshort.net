@@ -2,10 +2,10 @@
 ShowTOC: false
 author: Chris Short
 cover:
-  image: https://shortcdn.com/chrisshort/sine-wave.jpg
+  image: sine-wave.jpg
+  relative: true
 date: "2019-09-10"
-description: Our voices generate so much knowledge yet transmit so little data. It's
-  time respect the metadata we create around the 39 bits per second of our voices.
+description: Our voices generate so much knowledge yet transmit so little data. It's time respect the metadata we create around the 39 bits per second of our voices.
 tags:
 - imposter syndrome
 - metadata

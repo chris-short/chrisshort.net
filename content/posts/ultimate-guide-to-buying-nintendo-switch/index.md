@@ -5,7 +5,8 @@ aliases:
 author: Chris Short
 cover:
   alt: The Nintendo Switch lineup
-  image: https://shortcdn.com/chrisshort/nintendo-switch-lineup.webp
+  image: nintendo-switch-lineup.webp
+  relative: true
 date: "2023-12-13"
 description: Parents guide to Nintendo Switch — Lost on what Nintendo Switch to buy? Which games to get? This guide has
   you covered with tips on models, accessories, parental controls, and must-have games
