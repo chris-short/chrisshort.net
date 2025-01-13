@@ -3,9 +3,9 @@ ShowTOC: false
 author: Chris Short
 cover:
   image: devopsish-growth-chart.png
+  relative: true
 date: "2017-12-02"
-description: After fifty-two weeks of uninterrupted DevOps newsletters, I have some
-  things to share about the experience.
+description: After fifty-two weeks of uninterrupted DevOps newsletters, I have some things to share about the experience.
 tags:
 - DevOps
 title: 'Notes on Running a Newsletter: A Year of DevOps''ish'

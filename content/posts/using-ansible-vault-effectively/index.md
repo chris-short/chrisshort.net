@@ -6,6 +6,7 @@ draft: true
 cover: 
     image: ansible_circleA_red.png
     alt: Red Ansible logo
+    relative: true
 tags:
 - ansible
 - ansible-vault

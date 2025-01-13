@@ -4,6 +4,7 @@ author: Chris Short
 cover:
   alt: Microsoft Office
   image: Office03.png
+  relative: true
 date: "2004-09-20"
 description: Microsoft announced that it would share Microsoft Office 2003 source
   code as part of the Microsoft Government Security Program.

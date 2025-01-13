@@ -3,6 +3,7 @@ ShowTOC: false
 author: Chris Short
 cover:
   image: dagobah-cave.jpg
+  relative: true
 date: "2017-03-10"
 description: ""
 tags:

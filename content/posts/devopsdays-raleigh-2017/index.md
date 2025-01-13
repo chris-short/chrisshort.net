@@ -3,9 +3,9 @@ ShowTOC: false
 author: Chris Short
 cover:
   image: dark-side-of-devops-raleigh-2017.jpg
+  relative: true
 date: "2017-10-05"
-description: I have seen the light side everyone thinks of in DevOps and have carried
-  the red lightsaber as well. Let's walk into the cave on Dagobah together.
+description: I have seen the light side everyone thinks of in DevOps and have carried the red lightsaber as well. Let's walk into the cave on Dagobah together.
 tags:
 - devops
 - talks

@@ -4,6 +4,7 @@ author: Chris Short
 cover:
   image: cncf-ambassador-color-horizontal.png
   alt: CNCF Ambassador logo
+  relative: true
 date: "2018-01-31"
 description: It is with great pleasure that I can anounce that I have been named a
   Cloud Native Computing Foundation Ambassador.

@@ -3,6 +3,7 @@ ShowTOC: false
 author: Chris Short
 cover:
   image: Virtualbox_logo.png
+  relative: true
 date: "2013-05-03"
 description: ""
 tags:

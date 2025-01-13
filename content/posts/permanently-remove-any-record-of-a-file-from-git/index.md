@@ -2,10 +2,9 @@
 author: Chris Short
 cover:
   image: git-logo.png
+  relative: true
 date: "2016-06-25"
-description: Distributed version control isn't designed to allow folks to delete every
-  instance of a file. But, if you run into a case where you need to expunge a file
-  in git, here is how we did it.
+description: Distributed version control isn't designed to allow folks to delete every instance of a file. But, if you run into a case where you need to expunge a file in git, here is how we did it.
 tags:
 - git
 - remove

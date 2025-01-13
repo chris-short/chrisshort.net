@@ -1,23 +1,25 @@
 ---
+aliases:
+- /orkut.com-googles-social-network
 ShowTOC: false
 author: Chris Short
 cover:
   image: Orkut_2004.png
+  relative: true
 date: "2004-01-31"
-description: orkut.com is a social networking service developed in association with
-  Google.
+lastmod: "2025-01-12"
+description: orkut.com is a social networking service developed in association with Google.
 tags:
 - social media
 - google
-title: orkut.com - Google's Social Network
+title: orkut.com - Google's First Social Network
 ---
+
+{{< carbon >}}
 
 [orkut.com](http://www.orkut.com/) is a social networking service developed in association with Google. Why the name Orkut? [Orkut Büyükkökten](https://en.wikipedia.org/wiki/Orkut_B%C3%BCy%C3%BCkk%C3%B6kten), a Google employee that has a significant interest in social networking, developed the service. How did Mr. Orkut have time to develop such a project? Google has a creativity policy of sorts that encourages its employees to use 20% of their time for personal interests.
 
-
 Google has officially stated that orkut.com is not part of their service offerings (yet) but the fact that the phrase, "in affiliation with Google" appears on every page leads one to believe that this social networking service isn't going to spin-off into a non-Google entity any time soon.
-
-{{< carbon >}}
 
 Google has officially stated that orkut.com is not part of their service offerings (yet) but the fact that the phrase, "in affiliation with Google" appears on every page leads one to believe that this social networking service isn't going to spin-off into a non-Google entity any time soon.
 

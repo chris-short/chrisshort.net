@@ -7,6 +7,7 @@ aliases:
 author: Chris Short
 cover:
   image: Windows_XP_Logo.png
+  relative: true
 date: "2005-01-05"
 description: ""
 tags:

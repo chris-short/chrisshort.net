@@ -3,6 +3,7 @@ ShowTOC: false
 author: Chris Short
 cover:
   image: spotify.png
+  relative: true
 date: "2012-01-07"
 description: ""
 tags:

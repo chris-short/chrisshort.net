@@ -3,6 +3,7 @@ ShowTOC: false
 author: Chris Short
 cover:
   image: broken-heart.jpg
+  relative: true
 date: "2016-05-23"
 description: ""
 tags:

@@ -3,6 +3,7 @@ ShowTOC: false
 author: Chris Short
 cover:
   image: Dark_Side_of_DevOps_DevOpsDays_Raleigh_2017.jpg
+  relative: true
 date: "2017-10-11"
 description: Video of Chris Short during two DevOpsDays Raleigh 2017 Events
 tags:

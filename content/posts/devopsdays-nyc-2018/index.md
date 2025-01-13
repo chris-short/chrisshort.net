@@ -6,10 +6,9 @@ aliases:
 author: Chris Short
 cover:
   image: chris-short-sj-technologies-devopsdays-nyc.jpg
+  relative: true
 date: "2018-01-19"
-description: This talk walks through the use case of having to apply new certificates
-  to an unfamiliar application. I built a 40-line Go tool to test and audit certifcate
-  chains and web server configurations.
+description: This talk walks through the use case of having to apply new certificates to an unfamiliar application. I built a 40-line Go tool to test and audit certifcate chains and web server configurations.
 tags:
 - open source
 - devops

@@ -5,7 +5,7 @@ author: Chris Short
 cover:
   caption: Recording device used to record this extensive interview
   image: /nc-veterans-oral-history-program/handy_recorder.webp
-  relative: true
+  relative: false
 date: "2016-08-17"
 description: ""
 tags:

@@ -8,7 +8,7 @@ date: "2016-09-06"
 description: Ansible lineinfile module is a cumbersome one to work. Here is a use
   case and examples of how to utilize Ansible lineinfile
 cover:
-  image: /ansible-lineinfile-be-damned/Ansible-Mark-Large-RGB-Black.png
+  image: Ansible-Mark-Large-RGB-Black.png
   relative: true
 tags:
 - ansible

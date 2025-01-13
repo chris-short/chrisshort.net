@@ -3,6 +3,7 @@ ShowTOC: false
 author: Chris Short
 cover:
   image: romel-velasco-561901-unsplash.jpg
+  relative: true
 date: "2018-04-16"
 description: ""
 tags:

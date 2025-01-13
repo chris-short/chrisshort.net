@@ -5,6 +5,7 @@ aliases:
 author: Chris Short
 cover:
   image: win10_ad.jpg
+  relative: true
 date: "2015-10-06"
 description: ""
 tags:

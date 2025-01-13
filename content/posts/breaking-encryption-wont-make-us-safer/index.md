@@ -3,6 +3,7 @@ ShowTOC: false
 author: Chris Short
 cover:
   image: encryption.jpg
+  relative: true
 date: "2017-06-05"
 description: ""
 tags:

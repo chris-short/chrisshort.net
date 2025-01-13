@@ -4,6 +4,7 @@ author: Chris Short
 cover:
   alt: Grief sticken woman
   image: grief.jpg
+  relative: true
 date: "2017-12-23"
 description: A culture of silence around miscarriage helps absolutely no one.
 tags:

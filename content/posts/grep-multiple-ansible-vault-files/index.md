@@ -4,8 +4,9 @@ author: Chris Short
 date: "2015-09-22"
 description: ""
 cover:
-    image: ansible_circleA_blue.png
-    alt: Blue Ansible logo
+  image: ansible_circleA_blue.png
+  alt: Blue Ansible logo
+  relative: true
 tags:
 - ansible
 - ansible-vault

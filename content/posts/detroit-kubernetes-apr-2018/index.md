@@ -5,6 +5,7 @@ aliases:
 author: Chris Short
 cover:
   image: detroit-kubernetes-apr-2018-cron-jobs.png
+  relative: true
 date: "2018-04-30"
 description: ""
 tags:

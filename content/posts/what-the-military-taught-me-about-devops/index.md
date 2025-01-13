@@ -4,6 +4,7 @@ author: Chris Short
 cover:
   caption: 'Photo: [Bridget Kromhout](http://bridgetkromhout.com/)'
   image: chris-short-devopsdays-detroit-2016-bridget-kromhout.jpg
+  relative: true
 date: "2016-10-13"
 description: ""
 tags:

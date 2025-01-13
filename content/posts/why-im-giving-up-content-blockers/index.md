@@ -3,6 +3,7 @@ ShowTOC: false
 author: Chris Short
 cover:
   image: content-blocker.png
+  relative: true
 date: "2017-02-09"
 description: ""
 tags:

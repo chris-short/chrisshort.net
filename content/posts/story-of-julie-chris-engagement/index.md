@@ -5,6 +5,7 @@ aliases:
 author: Chris Short
 cover:
   image: diana-biltmore-estate.jpg
+  relative: true
 date: "2011-01-29"
 description: The Biltmore Estate is a special place to Chris and Julie. Chris decided
   months prior that when the time was right he'd propose to Julie on Biltmore Estate.

@@ -3,6 +3,7 @@ ShowTOC: false
 author: Chris Short
 cover:
   image: leaving.jpg
+  relative: true
 date: "2017-11-13"
 description: An open e-mail about why I am deciding to leave Bankrate now
 tags:

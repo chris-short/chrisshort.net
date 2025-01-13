@@ -3,6 +3,7 @@ ShowTOC: false
 author: Chris Short
 cover:
   image: PagerDuty-logo-green.png
+  relative: true
 date: "2016-10-05"
 description: ""
 tags:

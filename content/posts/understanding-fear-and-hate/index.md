@@ -3,6 +3,7 @@ ShowTOC: false
 author: Chris Short
 cover:
   image: lgbt-usa-map.png
+  relative: true
 date: "2016-06-21"
 description: ""
 tags:

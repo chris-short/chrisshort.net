@@ -2,6 +2,7 @@
 author: Chris Short
 cover:
   image: hexley-darwin-vs-heckert-gnu.png
+  relative: true
 date: "2016-06-01"
 description: ""
 tags:

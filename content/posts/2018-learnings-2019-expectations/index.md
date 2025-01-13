@@ -117,9 +117,9 @@ I added my tweet tagging a few people to let them know what was going on...
 
 <blockquote class="twitter-tweet"><p lang="und" dir="ltr">FYI <a href="https://twitter.com/nathenharvey?ref_src=twsrc%5Etfw">@nathenharvey</a> <a href="https://twitter.com/amanda_katona?ref_src=twsrc%5Etfw">@amanda_katona</a> <a href="https://twitter.com/cra?ref_src=twsrc%5Etfw">@cra</a> <a href="https://twitter.com/mbbroberg?ref_src=twsrc%5Etfw">@mbbroberg</a> <a href="https://twitter.com/jrrickard?ref_src=twsrc%5Etfw">@jrrickard</a></p>&mdash; Chris Short (@ChrisShort) <a href="https://twitter.com/ChrisShort/status/1070708893460910080?ref_src=twsrc%5Etfw">December 6, 2018</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-Then things took on a life of their own. I grabbed my phone at one point and it was obvious it had restarted. Opening Twitter at one point made my iPhone Xs Max hot. If you don't think it blew up a few peoples' phones, check out this [tree of the Twitter thread](https://treeverse.app/view/rFWfcpbY):
+Then things took on a life of their own. I grabbed my phone at one point and it was obvious it had restarted. Opening Twitter at one point made my iPhone Xs Max hot. If you don't think it blew up a few peoples' phones, check out this tree of the Twitter thread:
 
-[![Interactive view of the #KubeKhan Twitter Thread](/2018-learnings-2019-expectations/kubekhan-thread-spidered.png#center)](https://treeverse.app/view/rFWfcpbY)
+![Interactive view of the #KubeKhan Twitter Thread](/2018-learnings-2019-expectations/kubekhan-thread-spidered.png#center)
 
 [Jaice Singer DuMars](https://twitter.com/jaydumars/status/1071185111025049601) named it [#KubeKhan](https://twitter.com/search?l=&q=%23kubekhan). Although spelled incorrectly at first, like any good thread in tech someone acknowledged the misspelling and fixed it. Words are hard, y'all!
 

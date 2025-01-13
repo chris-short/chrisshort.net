@@ -6,6 +6,7 @@ author: Chris Short
 cover:
   caption: Gopher Art Always Courtesy of [Ashley McNamara](https://github.com/ashleymcnamara/gophers)
   image: This_is_Fine_Gopher.png
+  relative: true
 date: "2018-06-08"
 description: The Baltimore Go Meetup is top notch. Hosted at the Under Armour headquarters,
   they really left nothing to be desired from my perspective.

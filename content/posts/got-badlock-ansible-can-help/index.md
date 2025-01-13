@@ -3,6 +3,7 @@ ShowTOC: false
 author: Chris Short
 cover:
   image: badlock.png
+  relative: true
 date: "2016-04-12"
 description: ""
 tags:

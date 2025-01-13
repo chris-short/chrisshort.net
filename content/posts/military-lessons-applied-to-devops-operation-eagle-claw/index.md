@@ -4,6 +4,7 @@ author: Chris Short
 cover:
   alt: Operation Eagle Claw
   image: operation-eagle-claw.png
+  relative: true
 date: "2017-01-18"
 description: ""
 tags:

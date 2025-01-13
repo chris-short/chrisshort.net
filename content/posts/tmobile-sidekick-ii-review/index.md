@@ -6,6 +6,7 @@ author: Chris Short
 cover:
   alt: The T-Mobile Sidekick II from 2004
   image: sidekick-II-open.jpg
+  relative: true
 date: "2004-09-23"
 description: A comprehensive review of the Sidekick II. (2004)
 tags:

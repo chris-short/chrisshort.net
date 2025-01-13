@@ -2,6 +2,7 @@
 author: Chris Short
 cover:
   image: yahoo.jpg
+  relative: true
 date: "2016-07-26"
 description: ""
 tags:

@@ -5,6 +5,7 @@ aliases:
 author: Chris Short
 cover:
   image: windows-vista.png
+  relative: true
 date: "2007-02-01"
 description: Four reasons why upgrading to Windows Vista is a REALLY bad idea.
 tags:

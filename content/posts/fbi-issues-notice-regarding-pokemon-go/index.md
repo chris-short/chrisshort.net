@@ -6,6 +6,7 @@ description: ""
 cover:
   image: fbi-hearts-pokemon-go.webp
   alt: FBI loves Pokemon Go
+  relative: true
 tags:
 - Niantic
 - FBI

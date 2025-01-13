@@ -3,6 +3,7 @@ ShowTOC: false
 author: Chris Short
 cover:
   image: aws.jpg
+  relative: true
 date: "2017-01-26"
 description: ""
 tags:

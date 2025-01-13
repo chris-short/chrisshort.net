@@ -3,6 +3,7 @@ ShowTOC: false
 author: Chris Short
 cover:
   image: richard-childress-racing-visit-2010.jpg
+  relative: true
 date: "2016-05-27"
 description: ""
 draft: true

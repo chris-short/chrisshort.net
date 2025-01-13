@@ -3,6 +3,7 @@ ShowTOC: false
 author: Chris Short
 cover:
   image: Pulse-Secure-Logo-Medium_optimized.png
+  relative: true
 date: "2015-10-06"
 description: ""
 tags:

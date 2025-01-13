@@ -3,9 +3,9 @@ aliases:
 - /nc-vets-oral-history-interview-2/
 author: Chris Short
 cover:
-  caption: Weapons qualification in Qatar in 2002; two men on camels walked across
-    the active firing range
-  image: https://shortcdn.com/chrisshort/chris-short-qatar-firing-range.webp
+  caption: Weapons qualification in Qatar in 2002; two men on camels walked across the active firing range
+  image: /nc-veterans-oral-history-program/chris-short-qatar-firing-range.webp
+  relative: false
 date: "2016-08-23"
 description: ""
 tags:

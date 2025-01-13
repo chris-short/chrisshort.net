@@ -3,9 +3,9 @@ ShowTOC: false
 author: Chris Short
 cover:
   image: sj-technologies.jpg
+  relative: true
 date: "2018-01-09"
-description: I am very happy to announce that I have a new job. I am now a Senior
-  DevOps Consultant with the esteemed SJ Technologies, Inc.
+description: I am very happy to announce that I have a new job. I am now a Senior DevOps Consultant with the esteemed SJ Technologies, Inc.
 tags:
 - job
 - DevOps

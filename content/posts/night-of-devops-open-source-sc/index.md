@@ -5,6 +5,7 @@ aliases:
 author: Chris Short
 cover:
   image: a-night-of-devops.jpg
+  relative: true
 date: "2017-05-30"
 description: ""
 tags:

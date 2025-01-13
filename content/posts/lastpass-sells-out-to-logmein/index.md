@@ -3,6 +3,7 @@ ShowTOC: false
 author: Chris Short
 cover:
   image: lp_blog.png
+  relative: true
 date: "2015-10-09"
 description: ""
 tags:

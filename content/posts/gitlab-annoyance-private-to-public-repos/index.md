@@ -3,6 +3,7 @@ ShowTOC: false
 author: Chris Short
 cover:
   image: gitlab-logo.png
+  relative: true
 date: "2017-01-23"
 description: ""
 tags:

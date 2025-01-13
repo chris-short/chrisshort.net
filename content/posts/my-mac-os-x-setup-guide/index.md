@@ -3,6 +3,7 @@ author: Chris Short
 cover:
   alt: MacBook Pro on Desk
   image: macbook.jpg
+  relative: true
 date: "2016-06-08"
 description: ""
 tags:

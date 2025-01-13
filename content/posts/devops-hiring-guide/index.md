@@ -3,6 +3,7 @@ ShowTOC: false
 author: Chris Short
 cover:
   image: devops_hiring_guide_lead_image.png
+  relative: true
 date: "2018-05-16"
 description: ""
 tags:

@@ -6,6 +6,7 @@ aliases:
 author: Chris Short
 cover:
   image: ie7-vs-firefox.png
+  relative: true
 date: "2007-01-18"
 description: Internet Explorer (IE) is one of the most unsecured browsers on the planet.
   In 2006, IE was unsecure for 284 according to Brian Krebs.

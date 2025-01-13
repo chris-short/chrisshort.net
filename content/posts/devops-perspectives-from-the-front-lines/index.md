@@ -2,7 +2,7 @@
 ShowTOC: false
 author: Chris Short
 cover:
-  image: /devops-perspectives-from-the-front-lines/Cloudcast-Logo-2015-Banner-Blue.png
+  image: Cloudcast-Logo-2015-Banner-Blue.png
   relative: true
 date: "2016-10-31"
 description: ""

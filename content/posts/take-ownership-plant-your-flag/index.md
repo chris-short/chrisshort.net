@@ -3,6 +3,7 @@ ShowTOC: false
 author: Chris Short
 cover:
   image: plant-flag.jpg
+  relative: true
 date: "2016-06-28"
 description: ""
 tags:
