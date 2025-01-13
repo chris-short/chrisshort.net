@@ -13,7 +13,7 @@ By accessing the website at <https://chrisshort.net>, you are agreeing to be bou
 
 ## Use License
 
-Except where otherwise noted, content on this site is licensed under a [Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0) license](/copyright/).
+Except where otherwise noted, content on this site is licensed under a [Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0) license](https://creativecommons.org/licenses/by-sa/4.0/).
 
 ## Disclaimer
 
