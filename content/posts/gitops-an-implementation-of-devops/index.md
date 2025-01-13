@@ -2,8 +2,9 @@
 author: Chris Short
 cover:
   alt: Open GitOps logo
-  image: https://shortcdn.com/chrisshort/opengitops-icon-color.svg
-  showTOC: false
+  image: opengitops-icon-color.svg
+  relative: true
+showTOC: false
 date: "2021-12-06"
 description: GitOps is a prescriptive way of implementing DevOps. You will not succeed
   in using GitOps if you haven't embraced some DevOps philosophies along the way.

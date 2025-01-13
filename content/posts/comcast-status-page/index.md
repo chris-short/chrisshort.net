@@ -1,10 +1,11 @@
 ---
 author: Chris Short
 cover:
-  image: https://shortcdn.com/chrisshort/UptimeRobot_Home.webp
+  image: UptimeRobot_Home.webp
+  alt: UptimeRobot screenshot
+  relative: true
 date: "2021-10-05"
-description: Comcast had a local area issue that they didn't resolve until I proved
-  there was a widespread issue
+description: Comcast had a local area issue that they didn't resolve until I proved there was a widespread issue
 tags:
 - Comcast
 - Comcast Business

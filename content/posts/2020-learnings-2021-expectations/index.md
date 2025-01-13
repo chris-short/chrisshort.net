@@ -1,7 +1,8 @@
 ---
 author: Chris Short
 cover:
-  image: https://shortcdn.com/chrisshort/hope.jpg
+  image: hope.jpg
+  relative: true
 date: "2020-12-30"
 description: Chris Short looks back at 2020 and looks ahead to 2021.
 tags:

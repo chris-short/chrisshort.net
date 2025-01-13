@@ -2,7 +2,8 @@
 ShowTOC: false
 author: Chris Short
 cover:
-  image: https://shortcdn.com/chrisshort/openshift.tv.png
+  image: openshift.tv.png
+  relative: true
 date: "2020-06-24"
 description: Sharing what it's like to be live streaming on OpenShift.tv and some
   lessons learned along the way

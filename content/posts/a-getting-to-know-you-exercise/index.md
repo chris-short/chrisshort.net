@@ -3,7 +3,8 @@ ShowToc: false
 author: Chris Short
 cover:
   alt: Three images that represent who Chris Short is
-  image: https://shortcdn.com/chrisshort/three-things-that-make-me-who-i-am.png
+  image: three-things-that-make-me-who-i-am.png
+  relative: true
 date: "2019-12-20"
 description: At a team meeting last month I took part in a getting to know you exercise
   that I found helpful. I feel it's worth putting out there for others.
@@ -25,7 +26,7 @@ In November, I went down to Raleigh to meet my team for planning meetings and te
 
 First, the two slide limit felt constraining. I wanted to use a standard template because I legit loathe thinking about layouts, presentation, etc. I used that as an excuse to build two slides to describe who I was and what I was known for. Second, choosing three things that make me who I am was a lot harder than I thought it would be. Narrow what makes you uniquely you down to three things. Also, I implied the context that it would need to help coworkers understand who you were better.
 
-![Three images that represent who Chris Short is](https://shortcdn.com/chrisshort/three-things-that-make-me-who-i-am.png)
+![Three images that represent who Chris Short is](/a-getting-to-know-you-exercise/three-things-that-make-me-who-i-am.png)
 
 For my first slide, "Three things that make me who I am," I chose three visuals to aid my coworkers better understand who I was at my core. The first image is a thermal image detecting increased blood flow to injured areas of the body. I do not recall my exact wording, but I made the following notes.
 
@@ -51,7 +52,7 @@ I do recall making a few specific points on the "justice and the American way" p
 * "The American way" demonstrating to me that it is indeed truly just.
 
 <a id="three-things"></a>
-![Three things Chris Short is professionally known for](https://shortcdn.com/chrisshort/professionally-known-for.png)
+![Three things Chris Short is professionally known for](/a-getting-to-know-you-exercise/professionally-known-for.png)
 
 The second slide contained three logos that I think a lot of folks reading this blog will be familiar with: Linux, Ansible, and Kubernetes. My professional career stands on a lot of different things, but these three projects define mine in a foundational way. I made the following notes to steer whatever conversation would ensue.
 

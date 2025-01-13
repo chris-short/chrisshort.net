@@ -2,7 +2,8 @@
 ShowTOC: false
 author: Chris Short
 cover:
-  image: https://shortcdn.com/chrisshort/stream.jpg
+  image: stream.jpg
+  relative: true
 date: "2019-06-25"
 description: The differences between upstream and downstream
 tags:

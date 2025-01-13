@@ -3,7 +3,8 @@ ShowToc: false
 author: Chris Short
 cover:
   alt: geopolitics.dev — Ethics. Policy. Tech.
-  image: https://shortcdn.com/chrisshort/geopolitics.dev-logo.png
+  image: geopolitics.dev-logo.png
+  relative: true
 date: "2019-12-07"
 description: Chris Short is launching geopolitics.dev to to help technologists, nerds,
   journalists, and politicians understand where their worlds intersect.

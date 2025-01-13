@@ -4,7 +4,8 @@ aliases:
 - talking-operators-on-l8ist-sh9y-podcast
 author: Chris Short
 cover:
-  image: https://shortcdn.com/chrisshort/talking-operators-on-L8ist-Sh9y-podcast.png
+  image: talking-operators-on-L8ist-Sh9y-podcast.png
+  relative: true
 date: "2020-06-15"
 description: Chris Short from Red Hat talks Operators and Kubernetes with Rob Zehicle
 tags:

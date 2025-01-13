@@ -6,10 +6,10 @@ aliases:
 - /docker-inc.-is-dead/
 author: Chris Short
 cover:
-  image: https://shortcdn.com/chrisshort/docker-is-dead.png
+  image: docker-is-dead.png
+  relative: true
 date: "2017-12-30"
-description: Aside from Uber, I can't think of a more utilized, hyped, and well funded
-  Silicon Valley startup (still in operation) fumbling as bad as Docker did in 2017.
+description: Aside from Uber, I can't think of a more utilized, hyped, and well funded Silicon Valley startup (still in operation) fumbling as bad as Docker did in 2017.
 tags:
 - Docker
 - Docker, Inc

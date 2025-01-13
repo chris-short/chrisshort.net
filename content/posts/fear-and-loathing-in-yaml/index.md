@@ -3,7 +3,8 @@ ShowTOC: false
 author: Chris Short
 canonicalURL: https://devopsish.com/188/
 cover:
-  image: https://shortcdn.com/chrisshort/pexels-christina-morillo-1181325.jpg
+  image: pexels-christina-morillo-1181325.jpg
+  relative: true
 date: "2020-10-21"
 description: Learning YAML might be table stakes, but we still need to strive for
   a better solution. One that's more human friendly.

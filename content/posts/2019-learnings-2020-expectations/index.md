@@ -1,7 +1,8 @@
 ---
 author: Chris Short
 cover:
-  image: https://shortcdn.com/chrisshort/happy-new-year-gold.jpg
+  image: happy-new-year-gold.jpg
+  relative: true
 date: "2020-01-01"
 description: Chris Short looks back at 2019 and looks ahead to 2020.
 tags:

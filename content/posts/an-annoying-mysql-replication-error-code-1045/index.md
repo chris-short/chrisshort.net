@@ -2,7 +2,9 @@
 ShowToc: false
 author: Chris Short
 cover:
-  image: https://shortcdn.com/chrisshort/logo-mysql-170x115.png
+  image: logo-mysql-170x115.png
+  alt: MySQL logo
+  relative: true
 date: "2015-10-05"
 description: ""
 tags:

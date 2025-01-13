@@ -3,7 +3,8 @@ ShowToc: false
 author: Chris Short
 cover:
   caption: Image from [rework.withgoogle.com](https://rework.withgoogle.com/print/guides/5721312655835136/)
-  image: https://shortcdn.com/chrisshort/project-aristotle.png
+  image: project-aristotle.png
+  relative: true
 date: "2018-08-08"
 description: The importance of psychological safety in creating effective teams is
   often overlooked.

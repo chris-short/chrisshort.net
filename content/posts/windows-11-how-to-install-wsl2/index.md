@@ -5,7 +5,8 @@ author: Chris Short
 cover:
   alt: Green Windows Keyboard
   caption: Photo by [Max DeRoin](https://www.pexels.com/photo/close-up-photography-of-black-and-green-computer-keyboard-keys-51415/)
-  image: https://shortcdn.com/chrisshort/green-keyboard.webp
+  image: green-keyboard.webp
+  relative: true
 date: "2022-08-18"
 description: Installing WSL2 on Windows 11 is a real pain unless you know what you're
   doing. It's not as simple as installing a distro at the Microsoft Store.

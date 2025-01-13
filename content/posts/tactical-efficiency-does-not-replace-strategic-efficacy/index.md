@@ -2,7 +2,8 @@
 ShowTOC: false
 author: Chris Short
 cover:
-  image: https://shortcdn.com/chrisshort/chris-short-thinking.jpg
+  image: chris-short-thinking.jpg
+  relative: true
 date: "2019-09-29"
 description: Tactical efficiency does not replace strategic efficacy. Work towards
   a better approach but, don't think because you're a coder you're an all-knowing

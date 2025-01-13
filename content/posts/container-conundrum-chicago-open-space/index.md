@@ -4,7 +4,8 @@ author: Chris Short
 cover:
   alt: Shipping containers piled high
   caption: Photo by [Chanaka](https://www.pexels.com/photo/cargo-container-lot-906494/)
-  image: https://shortcdn.com/chrisshort/shipping-container-pile.webp
+  image: shipping-container-pile.webp
+  relative: true
 date: "2022-10-08"
 description: 'My notes from a DevOpsDay Chicago 2022 Open Space suggestion: ''Container
   Conundrum: Pain points around containers'''

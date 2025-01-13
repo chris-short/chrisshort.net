@@ -1,7 +1,8 @@
 ---
 author: Chris Short
 cover:
-  image: https://shortcdn.com/chrisshort/kubernetes-getting-started.png
+  image: kubernetes-getting-started.png
+  relative: true
 date: "2017-11-30"
 description: How do you get started with 'an open-source system for automating deployment,
   scaling, and management of containerized applications'?

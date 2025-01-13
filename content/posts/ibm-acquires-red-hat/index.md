@@ -2,10 +2,10 @@
 author: Chris Short
 cover:
   caption: IBM to acquire Red Hat for $34 Billion (with a B)
-  image: https://shortcdn.com/chrisshort/ibm-to-acquire-red-hat.png
+  image: ibm-to-acquire-red-hat.png
+  relative: true
 date: "2018-11-02"
-description: What it was like for relatively new Red Hat employee, Chris Short, during
-  the IBM acquisition announcement and the week that followed.
+description: What it was like for relatively new Red Hat employee, Chris Short, during the IBM acquisition announcement and the week that followed.
 tags:
 - red hat
 - ibm

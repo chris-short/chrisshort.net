@@ -2,9 +2,9 @@
 ShowTOC: false
 author: Chris Short
 cover:
-  alt: The tweet where I announced my intention to dedicate 25% of household compute
-    to cancer research through Folding@Home
-  image: https://shortcdn.com/chrisshort/folding-for-lucy-tweet.webp
+  alt: The tweet where I announced my intention to dedicate 25% of household compute to cancer research through Folding@Home
+  image: folding-for-lucy-tweet.webp
+  relative: true
 date: "2024-05-15"
 description: After the death of my niece, Lucy, I decided to donate a portion of our
   household compute to cancer research through Folding@Home

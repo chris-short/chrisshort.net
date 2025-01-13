@@ -6,7 +6,8 @@ aliases:
 - /my-new-hp-pavilion-zv5260us-laptop/
 author: Chris Short
 cover:
-  image: https://shortcdn.com/chrisshort/hp-pavilion-zv5260us-01.jpg
+  image: hp-pavilion-zv5260us-01.jpg
+  relative: true
 date: "2004-08-17"
 description: I finally did it. I bought a laptop before I headed out to California.
   Not so much for the trip to California but for another PC in the house and some

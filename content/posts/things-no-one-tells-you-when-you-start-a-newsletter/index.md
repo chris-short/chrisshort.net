@@ -3,7 +3,8 @@ ShowTOC: true
 TOCOpen: true
 author: Chris Short
 cover:
-  image: https://shortcdn.com/chrisshort/reading-the-news.jpg
+  image: reading-the-news.jpg
+  relative: true
 date: "2020-03-24"
 description: ""
 tags:

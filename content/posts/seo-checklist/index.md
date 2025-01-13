@@ -4,7 +4,8 @@ TOCOpen: true
 author: Chris Short
 cover:
   caption: A simple, yet powerful search engine optimization (SEO) checklist
-  image: https://shortcdn.com/chrisshort/seo-checklist.jpg
+  image: seo-checklist.jpg
+  relative: true
 date: "2005-01-05"
 description: A simple, yet powerful search engine optimization (SEO) checklist
 tags:

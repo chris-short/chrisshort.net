@@ -4,7 +4,8 @@ aliases:
 author: Chris Short
 cover:
   caption: Talking with Airmen at Pope AFB
-  image: https://shortcdn.com/chrisshort/chris-short-cyber-transport.jpg
+  image: /nc-veterans-oral-history-program/chris-short-cyber-transport.webp
+  relative: false
 date: "2016-08-30"
 description: ""
 tags:
