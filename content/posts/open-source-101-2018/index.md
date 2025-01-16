@@ -6,7 +6,7 @@ cover:
   image: jason-chris-open-source-101-2018.jpg
   relative: true
 date: "2018-02-19"
-description: Jason Hibbets and Chris Short spoke at Open Source 101 Raleigh 2018 (a VERY diverse and inclusive Open Source software conference)
+description: Jason Hibbets and Chris Short spoke about the DevOps Pit of Misery at Open Source 101 Raleigh 2018
 tags:
 - open source
 - diversity
@@ -16,8 +16,9 @@ tags:
 title: Open Source 101 Raleigh 2018
 ---
 
-I had the opportunity to attend and speak at [Open Source 101](http://opensource101.com/) at NC State's McKimmon Center for Extension & Continuing Education this past weekend. It's always nice to visit Raleigh, NC and Red Hat Tower. I met several awesome attendees and speakers while I was in town too. The All Things Open team did an absolutely fantastic job at every facet of this conference. If you have the opportunity to attend one of these events you most definitely should!
+{{< carbon >}}
 
+I had the opportunity to attend and speak at [Open Source 101](http://opensource101.com/) at NC State's McKimmon Center for Extension & Continuing Education this past weekend. It's always nice to visit Raleigh, NC and Red Hat Tower. I met several awesome attendees and speakers while I was in town too. The All Things Open team did an absolutely fantastic job at every facet of this conference. If you have the opportunity to attend one of these events you most definitely should!
 
 ## What is Open Source 101?
 
@@ -29,17 +30,13 @@ I had the opportunity to attend and speak at [Open Source 101](http://opensource
 
 We kept the talk pretty high level but dived into outcomes focused DevOps. We brought some stats to bear from the 2017 State of DevOps report. We discussed The Three Ways and why change is difficult. I feel like we did a great job providing technical reasoning behind the importance of diversity. We also backed up the benefits of diversity and inclusion with hard numbers to argue with.
 
-{{< carbon >}}
-
 Touching on my favorite topic, failure, we mentioned, "If it fails in production you're not doing DevOps." I think there are some caveats to that but, when it comes to deployments and testing, it's 100% accurate in my opinion. I mentioned shifting left as a way to continually improve on your failure models. We also touched on blameless postmortems. Needless to say, you can turn almost any one of these points into a full-blown talk.
 
 The last part of the talk we point people to some tips and tricks to help them on their DevOps journeys. It is hard to prepare a person or organization to facilitate a DevOps transition in a thirty-minute talk. One thing to keep in mind is, "You're not Netflix, but you could be one day."
 
-[Slides](https://shortcdn.com/chrisshort/avoiding-the-DevOps-pit-of-misery_Tips-from-the-trenches.pdf) and [video](https://shortcdn.com/chrisshort/jason-hibbets-chris-short-open-source-101-raleigh-2018.mp4) of the talk are available:
+{{< pdf avoiding-the-DevOps-pit-of-misery_Tips-from-the-trenches.pdf >}}
 
-<embed src="https://shortcdn.com/chrisshort/avoiding-the-DevOps-pit-of-misery_Tips-from-the-trenches.pdf" width="100%" height="500px" alt="pdf" />
-
-<iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fjhibbets%2Fvideos%2F10215153138403454%2F&show_text=0&width=267" width="100%" height="476" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allowFullScreen="true"></iframe>
+{{< streaming db7b4d37-d637-4595-9bf2-7bc6e2785b21 >}}
 
 ## Thoughts on Diversity at Open Source 101
 
