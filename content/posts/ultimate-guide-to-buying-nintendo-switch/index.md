@@ -2,6 +2,7 @@
 aliases:
 - the-ultimate-guide-to-buying-a-nintendo-switch
 - parents-guide-to-nintendo-switch
+- the-weary-parents-guide-to-buying-a-nintendo-switch
 author: Chris Short
 cover:
   alt: The Nintendo Switch lineup
@@ -30,14 +31,18 @@ tags:
 - storage
 - parental controls
 - Nintendo eShop
-title: The Weary Parents Guide to Buying a Nintendo Switch
+title: Parents Guide to Buying a Nintendo Switch
 ShowTOC: true
 TOCOpen: true
 ---
 
-**Update (2024-12-03):** There is a high probability the sequel to the Nintendo Switch will be out some time in the first half of 2025. There's a lot of speculation still but, I want you to know a new version will be available next year.
+## Nintendo Switch 2 officially announced
 
-**Note:** This post is one of those things that I started writing up for a family member, then realized very quickly I should share this with the broader world. If you feel like something is missing, [please feel free to suggest it](https://github.com/chris-short/chrisshort.net/issues). Also, I may earn compensation for sales from links on this post through [affiliate programs](/terms#affiliate-link-policy).
+The Nintendo Switch 2 was announced and will be **available in the US on 2025-04-02**. Sadly, the Joy-Cons are different; you'll need to invest in new Joy-Cons and associated hardware. But they won't slide off mid-game anymore, which is great.
+
+{{< streaming 49b0f15e-c5ff-4ced-8519-ed177227b074 >}}
+
+**Update (2024-12-03):** There is a high probability the sequel to the Nintendo Switch will be out some time in the first half of 2025. There's a lot of speculation still but, I want you to know a new version will be available next year.
 
 Someone in your life wants a [**Nintendo Switch**][1], and you don't know what to do. You know you don't want to blow it, and here we are. First things first: Is the player (the one getting the Nintendo Switch) a gamer already, or is this their first console?
 
@@ -126,6 +131,8 @@ I like the feel of the [Pro Controller][42] when I'm playing from the couch. But
 We got my Nintendo Switch (brand new) for less than retail at Kohl's when no Nintendo Switch was available anywhere. Some were going for double the price or more on eBay. It was a "right time at the right moment" purchase. They had some locked in a display case squirreled away on the floor of the home goods section. I would've missed it if the packaging wasn't so distinctive.
 
 We went to GameStop to get Max his Nintendo Switch Lite (brand new). I traded in some games and got additional discounts, which made the console more affordable. We got Max's to play [Mario Kart Live Circuit][47], which is worth every penny. Just make sure you don't drive through any WiFi dead spots!
+
+**Note:** This post is one of those things that I started writing up for a family member, then realized very quickly I should share this with the broader world. If you feel like something is missing, [please feel free to suggest it](https://github.com/chris-short/chrisshort.net/issues). Also, I may earn compensation for sales from links on this post through [affiliate programs](/terms#affiliate-link-policy).
 
 [1]: https://amzn.to/4adW3Qx
 [2]: https://amzn.to/41kWkx6
