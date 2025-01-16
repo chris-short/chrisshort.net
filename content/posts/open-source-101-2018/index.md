@@ -38,7 +38,7 @@ The last part of the talk we point people to some tips and tricks to help them o
 
 {{< streaming db7b4d37-d637-4595-9bf2-7bc6e2785b21 >}}
 
-## Thoughts on Diversity at Open Source 101
+## Diversity at Open Source 101
 
 One thing I wanted to point out about Open Source 101 was the fact I felt like an outsider at this conference. *I mean this in the best possible way too*. As a white male, I definitely felt like a minority at this conference. There were so many young, underrepresented minorities attending and speaking! It was great to be able to socialize and network with so many diverse people. All of whom were so enthusiastic about open source. Even the keynotes were dominated by women which was amazing to see. Todd Lewis and the [All Things Open](https://allthingsopen.org/) team did an amazing job welcoming everyone to this event.
 
