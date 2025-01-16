@@ -6,7 +6,7 @@ cover:
   image: jason-chris-open-source-101-2018.jpg
   relative: true
 date: "2018-02-19"
-description: Jason Hibbets and Chris Short spoke at Open Source 101 Raleigh 2018 (a VERY diverse and inclusive Open Source software conference)
+description: Jason Hibbets and Chris Short spoke about the DevOps Pit of Misery at Open Source 101 Raleigh 2018
 tags:
 - open source
 - diversity
@@ -34,11 +34,9 @@ Touching on my favorite topic, failure, we mentioned, "If it fails in production
 
 The last part of the talk we point people to some tips and tricks to help them on their DevOps journeys. It is hard to prepare a person or organization to facilitate a DevOps transition in a thirty-minute talk. One thing to keep in mind is, "You're not Netflix, but you could be one day."
 
-[Slides](https://shortcdn.com/chrisshort/avoiding-the-DevOps-pit-of-misery_Tips-from-the-trenches.pdf) and [video](https://iframe.mediadelivery.net/play/368745/0ee3458e-2e58-4c13-a658-fda7bb64ed86) of the talk are available:
-
-{{< streaming 122f1d5f-24f6-4848-b6ce-78d9a50ff0e8 >}}
-
 {{< pdf avoiding-the-DevOps-pit-of-misery_Tips-from-the-trenches.pdf >}}
+
+{{< streaming db7b4d37-d637-4595-9bf2-7bc6e2785b21 >}}
 
 ## Thoughts on Diversity at Open Source 101
 
