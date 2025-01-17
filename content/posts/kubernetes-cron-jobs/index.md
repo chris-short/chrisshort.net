@@ -51,7 +51,7 @@ The Dockerfile is pretty simple. Pull from `alpine:latest`, install `curl`, and 
 ```bash
 FROM alpine:latest
 
-LABEL maintainer="Chris Short <chrisshort@duck.com>"
+LABEL maintainer="Chris 'Not So' Short"
 
 RUN set -x \
         && apk update \

@@ -39,7 +39,7 @@ This meeting will address both issues for both entry level professionals and tho
 
 * Take a Deep Breath
 * We are all allowed to have an opinion about this
-* http://theoatmeal.com/comics/believe_clean
+* <http://theoatmeal.com/comics/believe_clean>
 
 #### What DevOps Isn't
 
@@ -47,7 +47,7 @@ This meeting will address both issues for both entry level professionals and tho
 
 ##### I think this tweet puts to bed some IT misnomers
 
-![DevOps is not these things](/abstracts/tweet-859158123722010628.webp)
+![DevOps is not these things](/abstracts/devops-101/tweet-859158123722010628.webp)
 
 #### What DevOps Isn't (cont'd)
 
@@ -69,8 +69,8 @@ This meeting will address both issues for both entry level professionals and tho
 #### The Three Ways
 
 * Let's go over "The Three Ways" first
-* Origin: The Pheonix Project by Kevin Behr, George Spafford, and Gene Kim
-* Backstory: The Pheonix Project authors state the “Three Ways,” are the principles that all of the DevOps patterns can be derived from.
+* Origin: The Phoenix Project by Kevin Behr, George Spafford, and Gene Kim
+* Backstory: The Phoenix Project authors state the “Three Ways,” are the principles that all of the DevOps patterns can be derived from.
 * Let's discuss each way further
 
 ##### The First Way
@@ -275,7 +275,7 @@ MOVIE CLIP
 #### Infrastructure as Code
 
 * NOT JUST FOR CLOUDS
-* You can build pipelines in your own datacenter too
+* You can build pipelines in your own data center too
 * Think of each step in this process as a feedback loop
 * We want to automate as much of this as possible
 * Ops can enable Devs and vice versa if we work together
@@ -355,7 +355,7 @@ MOVIE CLIP
 * ChatOps
 * The third rail of ChatOps is doing most of your production work in chat!
 
-#### DevOps Booksmarks
+#### DevOps Bookmarks
 
 * If you are looking for a tool to do something there are two useful resources
 * DevOps Bookmarks is one
