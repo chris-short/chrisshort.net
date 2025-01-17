@@ -97,8 +97,8 @@ As for the money, with hundreds of dollars pouring into the restaurant every nig
 
 They teach students that explanations are to be avoided because in so doing, the lesson isn't learned, yet I attended teaching session after teaching session where their leaders EXPLAINED and wrote about why they were not a cult. Looking around at the audience, I did not see thinking people "humming" as they say, but instead glassy eyes ready to worship whatever The Mentor said. That's why I decided to finally read up on cults, and discovered that many of these cult books could have been written about Center for Purposeful Living as the model. That's scary. A cult profile, a leader who is worshipped (with other leaders to worship in training), never wrong or never questioned and obvious mind control techniques going on… this group is NOT what they say they are, and I had to eat humble pie with friends and family and acknowledge they were right. I am so grateful to be out and thinking clearly again and am glad to report that service and "soulfulness" did not begin nor end with CPL.
 
-![Derwyn Lackey (Derwin Lackey)](https://shortcdn.com/chrisshort/recent-derwin-lackey-derwyn.jpg#center)
+![Derwyn Lackey (Derwin Lackey)](/cult/recent-derwin-lackey-derwyn.jpg)
 
-![Derwyn Lackey (Derwin Lackey)](https://shortcdn.com/chrisshort/derwin-lackey-derwyn-lackey.jpg#center)
+![Derwyn Lackey (Derwin Lackey)](/cult/derwin-lackey-derwyn-lackey.jpg#center)
 
 Derwyn Lackey, Supreme Ruler of the Center for Purposeful Living

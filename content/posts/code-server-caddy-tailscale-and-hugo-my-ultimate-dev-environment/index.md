@@ -178,7 +178,7 @@ The real cherry on top of this setup is if your browser allows you to [create we
 
 It's wonderful, like unicorns and rainbows, y'all. 🦄🌈🦄🌈🦄🌈
 
-[![My ultimate dev environment](https://shortcdn.com/chrisshort/code-server-app.webp)](https://shortcdn.com/chrisshort/code-server-app.png)
+[![My ultimate dev environment](code-server-app.webp)](code-server-app.webp)
 
 ## Next steps
 

@@ -33,7 +33,9 @@ Website: [Internet Archive](https://archive.org/)
 
 > Internet Archive is a non-profit library of millions of free books, movies, software, music, websites, and more.
 
-This is also where I archive larger videos for various uses. I make sure I'm paying my fair share.
+Back when I used [Cloudflare](https://www.nocloudflare.com/), I hosted files above the 512 MB limit in archive.org. This is a lesson learned from [The AWS bill heard around the world](/the-aws-bill-heard-around-the-world/)
+
+Nowadays, I run my CDN on [bunny.net](https://bunny.net?ref=ntj8lzdwyl) which does cost money (pennies a month). But, it prevents any exposure of bugs between services like, Amazon S3 and Cloudflare which was the case with my $2,700 AWS bill.
 
 ## Previously Supported Charities (good ones)
 
@@ -89,6 +91,8 @@ Website: [The Cloudcast](http://www.thecloudcast.net/)
 > Since 2013, our community has raised over $27,000 to help the UNC Children's Hospital. We hope to continue that tradition in a big way again this year. Every little bit helps! Please join us through a donation, or come run the race with us!
 
 ## Previously Supported Charities (bad ones)
+
+Funny how these are all tech related.
 
 ### Open Source Initiative
 

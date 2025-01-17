@@ -43,7 +43,7 @@ Seeking a DevOps job? Hiring for a DevOps team? Get practical advice from your p
 
 This free download provides advice, tactics, and information about the state of DevOps hiring for both job seekers and hiring managers.
 
-[![DevOps Hiring Guide](https://shortcdn.com/chrisshort/devops_hiring_guide_v1_cover.webp#center)](https://opensource.com/downloads/devops-hiring-guide?utm_source=chrisshort.net&utm_medium=books)
+[![DevOps Hiring Guide](/books/devops_hiring_guide_v1_cover.webp#center)](https://opensource.com/downloads/devops-hiring-guide?utm_source=chrisshort.net&utm_medium=books)
 
 ## The Open Organization Guide to IT Culture Change
 

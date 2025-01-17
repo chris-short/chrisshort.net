@@ -48,9 +48,10 @@ I moved my newsletter, [DevOps'ish](https://devopsish.com/), off of Medium and o
 
 The Dockerfile is pretty simple. Pull from `alpine:latest`, install `curl`, and run a `curl` command. But, I don't want the build hook URL exposed in the Dockerfile. Loading the URL as a variable via a [Kubernetes Secret](https://kubernetes.io/docs/concepts/configuration/secret/) is advisable. Do this so that the artifacts have no sensitive data and so that they can be shared publicly. Here is the Dockerfile:
 
-```FROM alpine:latest
+```bash
+FROM alpine:latest
 
-LABEL maintainer="Chris Short <chrisshort@duck.com>"
+LABEL maintainer="Chris 'Not So' Short"
 
 RUN set -x \
         && apk update \

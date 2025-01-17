@@ -5,7 +5,8 @@ aliases:
 - /http/2-primer/
 author: Chris Short
 cover:
-  image: https://shortcdn.com/chrisshort/drawings/chrome-devtools-h2.webp
+  image: /drawings/chrome-devtools-h2.webp
+  alt: Google Chrome DevTools
 date: "2016-11-16"
 description: ""
 tags:
@@ -16,7 +17,7 @@ title: HTTP/2 Primer
 
 Hypertext Transport Protocol v2 (HTTP/2) is here and is being implemented at an ever quickening pace. HTTP/2 is going to speed up the web and enable new capabilities. There is a lot that stays the same but there are some significant changes coming. In educating myself I decided to illustrate some of the changes in HTTP/2:
 
-![HTTP/2](/drawings/http2.webp)
+![HTTP/2](/drawings/http2.webp "HTTP2")
 
 The first thing to keep in mind is the primary reason for HTTP/2 even being a protocol is to improve performance (and not necessarily security). With that in mind let's hit the highlights (this is not intended to be a [fully formed guide](https://http2.github.io/faq/)):
 

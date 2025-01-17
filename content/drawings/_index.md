@@ -8,4 +8,4 @@ title: Drawings
 ---
 
 I'm a terrible artist but, if you have an idea for a technical drawing please feel free to [reach out](/contact
-). Thanks!
+).

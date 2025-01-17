@@ -1,9 +1,8 @@
 ---
 aliases:
-- the-cult-that-is-human-service-alliance-and-the-center-for-purposeful-living-2
 - /post/65745344/the-cult-that-is-human-service-alliance-and-the-center
 - /the-cult-that-is-human-service-alliance-and-the-center-for-purposeful-living-2
-- /center-for-purposeful-living/the-cult-that-is-human-service-alliance-and-the-center-for-purposeful-living/
+- /center-for-purposeful-living/the-cult-that-is-human-service-alliance-and-the-center-for-purposeful-living
 author: Chris Short
 date: "2005-07-08"
 description: ""
@@ -97,5 +96,6 @@ Discoveries of the Inquiring Mind can be found on [Amazon](https://amzn.to/2FxTc
 
 2) Also, a lot of people have been making comments about Derwyn Lackey; allow me to put a face with the name:
 
-![Derwyn Lackey (Derwin Lackey)](https://shortcdn.com/chrisshort/derwin-lackey-derwyn-lackey.jpg#center)
+![Derwyn Lackey (Derwin Lackey)](/cult/derwin-lackey-derwyn-lackey.jpg)
+
 Derwyn Lackey, Supreme Ruler of the Center for Purposeful Living
