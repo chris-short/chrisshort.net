@@ -351,7 +351,7 @@ Date: 2017-09-08
 >
 > In Ignite Karaoke, the slides auto advance, but there are only 5 slides per talk, except you have no idea what your slides will look like! It leads to some pretty funny improv.
 
-Event: [DevOpsDays Raleigh 2017](https://dodral2017.busyconf.com/schedule#day_597f51db67de73d3e8000210)
+Event: DevOpsDays Raleigh 2017
 
 ### The Dark Side of DevOps — DevOpsDays Raleigh 2017
 
@@ -359,7 +359,7 @@ Date: 2017-09-08
 
 [**Watch Now**](/video/devops-dark-side-devopsdays-raleigh-2017/)
 
-Event: [DevOpsDays Raleigh 2017](https://dodral2017.busyconf.com/schedule#day_597f51db67de73d3e8000210)
+Event: DevOpsDays Raleigh 2017
 
 ### DevOps README.md — DevOpsDays Detroit 2017
 

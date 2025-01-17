@@ -1,9 +1,7 @@
 ---
 aliases:
-- /docker-is-dead/
 - /docker-is-dead
 - /docker-inc.-is-dead
-- /docker-inc.-is-dead/
 author: Chris Short
 cover:
   image: docker-is-dead.png
@@ -37,12 +35,13 @@ title: Docker, Inc is Dead
 >
 > Please read my [Disclaimer](/terms/) before breaking out the tar and feathers.
 
-To say that [Docker](http://petty.company/) had a very rough 2017 is an understatement. Aside from Uber, I can't think of a more utilized, hyped, and well funded Silicon Valley startup (still in operation) fumbling as bad as Docker did in 2017. People will look back on 2017 as the year Docker, a great piece of software, was completely ruined by bad business practices leading to its end in 2018. This is an outside facing retrospective on how and where Docker went wrong and how Docker's efforts to fix it are far too little way too late.
+{{< carbon >}}
+
+To say that **Docker** had a very rough 2017 is an understatement. Aside from Uber, I can't think of a more utilized, hyped, and well funded Silicon Valley startup (still in operation) fumbling as bad as Docker did in 2017. People will look back on 2017 as the year Docker, a great piece of software, was completely ruined by bad business practices leading to its end in 2018. This is an outside facing retrospective on how and where Docker went wrong and how Docker's efforts to fix it are far too little way too late.
 
 ## Docker is Good Software
 
 To be clear, Docker has helped revolutionize software development. Taking Linux primitives like cgroups, namespaces, process isolation, etc. and putting them into a single tool is an amazing feat. In 2012, I was trying to figure out how development environments could be more portable. Docker's rise allowed a development environment to become a simple, version controllable Dockerfile. The tooling went from Packer, Vagrant, VirtualBox, and a ton of infrastructure to Docker. The Docker UI is actually pretty good too! It's a good tool with many applications. The folks on the Docker team should be very proud of the tooling they built.
-
 
 ## Docker is a Silicon Valley Darling
 
@@ -53,8 +52,6 @@ But, like most well funded, win at all cost start-ups of the 2010s, Docker made 
 ## Kubernetes Dealt Damage to Docker
 
 Docker's doom has been accelerated by the rise of [Kubernetes](https://kubernetes.io/). Docker did itself no favors in its handling of Kubernetes, the open source community's darling container orchestrator. Docker's competing product, Docker Swarm, was the only container orchestrator in Docker's mind. This decision was made despite Kubernetes preferring Docker containers at first. Off the record, Docker Captains confirmed early in 2017 that Kubernetes discussions in articles, at meetups, and at conferences was frowned upon by Docker.
-
-{{< carbon >}}
 
 Through dockercon17 in Austin this Kubernetes-less mantra held. Then, rather abruptly, at dockercon EU 17 [Docker decided to go all in on Kubernetes](https://blog.docker.com/2017/10/kubernetes-docker-platform-and-moby-project/). The sudden change was an obvious admission to Kubernetes' rise and impending dominance. This is only exacerbated by the fact that Docker sponsored and had a booth at KubeCon + CloudNativeCon North America 2017.
 
@@ -74,7 +71,7 @@ The real problem with Docker is a lack of coherent leadership. There appears to 
 
 ### Bonus: Conspiracy Theory
 
-I floated out [a theory on Twitter](https://twitter.com/ChrisShort/status/946724417249345536) about the awkward moments for Docker in 2017. It is possible Docker knows the end is near for the company itself. As organizational changes have indicated a pending exit (likely through acquisition), the technical core of the company prioritized some changes. [Donating containerd to CNCF](https://blog.docker.com/2017/03/docker-donates-containerd-to-cncf/), making Moby the [upstream](/upstream-vs-downstream/) of Docker, and embracing Kubernetes will immortalize the good work done by the folks at Docker. This allows a large organization like Oracle or Microsoft to come along and acquire the company without worrying about the technological advances made by Docker employees being locked behind licenses. This provides the best of both worlds for the software teams and company itself. Needless to say, 2018 will be an interesting year for Docker.
+I floated out a theory on Twitter about the awkward moments for Docker in 2017. It is possible Docker folks know the end is near for the company itself. As organizational changes have indicated a pending exit (likely through acquisition), the technical core of the company prioritized some changes. [Donating containerd to CNCF](https://blog.docker.com/2017/03/docker-donates-containerd-to-cncf/), making Moby the [upstream](/upstream-vs-downstream/) of Docker, and embracing Kubernetes will immortalize the good work done by the folks at Docker. This allows a large organization like Oracle or Microsoft to come along and acquire the company without worrying about the technological advances made by Docker employees being locked behind licenses. This provides the best of both worlds for the software teams and company itself. Needless to say, 2018 will be an interesting year for Docker.
 
 ### Continuing Coverage
 

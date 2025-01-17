@@ -101,7 +101,7 @@ Burnout can happen at any point in everyone's career. But, what happens when bur
 
 ### Sources
 
-* https://burnoutindex.yerbo.co/
+* https://web.archive.org/web/20240121220209/https://burnoutindex.yerbo.co/ (Archive.org)
 * https://www.psychologytoday.com/us/blog/high-octane-women/201311/the-tell-tale-signs-burnout-do-you-have-them
 * https://www.mayoclinic.org/healthy-lifestyle/adult-health/in-depth/burnout/art-20046642
 * https://www.helpguide.org/articles/stress/burnout-prevention-and-recovery.htm
