@@ -1,9 +1,8 @@
 ---
 aliases:
 - /cv/
-- /resume-cv/
-- cv
-- curriculum-vitae
+- /resume-cv
+- /curriculum-vitae
 author: Chris Short
 date: "2019-08-18"
 lastmod: "2025-01-09"

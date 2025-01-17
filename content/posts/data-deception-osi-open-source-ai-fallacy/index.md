@@ -25,7 +25,7 @@ title: 'Data Deception: OSI''s Open Source AI Fallacy'
 
 {{< carbon >}}
 
-If the current [Open Source Initiative's](https://opensource.org/) (OSI) [Open Source AI Definition](https://opensource.org/deepdive/drafts/the-open-source-ai-definition-draft-v-0-0-8) (OSAID) is implemented as is, it could potentially lead to a catastrophe for the open source software community and the OSI itself. The fact that the data doesn't necessarily have to be reproducible in the draft OSAID is a major concern, paving the way for increased openwashing. Even the NY Times has a page dedicated to [openwashing](https://www.nytimes.com/2024/05/17/business/what-is-openwashing-ai.html), a clear indication of the significant harm this could inflict.
+If the current [Open Source Initiative's](https://opensource.org/) (OSI) [Open Source AI Definition](https://opensource.org/ai/open-source-ai-definition) (OSAID) is implemented as is, it could potentially lead to a catastrophe for the open source software community and the OSI itself. The fact that the data doesn't necessarily have to be reproducible in the draft OSAID is a major concern, paving the way for increased openwashing. Even the NY Times has a page dedicated to [openwashing](https://www.nytimes.com/2024/05/17/business/what-is-openwashing-ai.html), a clear indication of the significant harm this could inflict.
 
 ## Openwashing
 

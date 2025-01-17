@@ -26,6 +26,6 @@ Something I learned by giving this talk is that discussing personal experiences 
 
 ## Slides
 
-<embed src="https://shortcdn.com/chrisshort/The%20Dark%20Side%20of%20DevOps.pdf" width="100%" height="480" alt="pdf" />
+{{< pdf "The%20Dark%20Side%20of%20DevOps.pdf" >}}
 
 These slides are also available on [Speaker Deck](https://speakerdeck.com/chrisshort/the-dark-side-of-devops) and [video is also available](/video-devopsdays-raleigh-2017/).

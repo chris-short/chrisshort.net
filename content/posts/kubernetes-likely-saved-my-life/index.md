@@ -132,11 +132,11 @@ Feel free to comment about this blog on [Reddit][20], [Hacker News][21], or the 
 [12]: https://youtu.be/wyKQe_i9yyo
 [13]: https://www.youtube.com/@OpenShift/search?query=chris%20short
 [14]: https://www.emdr.com/what-is-emdr/
-[15]: https://shortcdn.com/chrisshort/professionally-known-for.png
+[15]: /professionally-known-for.png
 [16]: https://chrisshort.net/a-getting-to-know-you-exercise/#three-things
 [17]: https://techcrunch.com/2019/08/03/stockx-hacked-millions-records/
-[18]: https://shortcdn.com/chrisshort/EMDR-Therapy-Before-After.jpg
-[19]: https://shortcdn.com/chrisshort/chris-short_CNCF_ContribCard.webp
+[18]: /EMDR-Therapy-Before-After.jpg
+[19]: /chris-short_CNCF_ContribCard.webp
 [20]: https://www.reddit.com/r/devopsish/comments/1d9c6r0/kubernetes_likely_saved_my_life/
 [21]: https://news.ycombinator.com/item?id=40597378
 [22]: https://kubernetes.io/blog/2024/06/06/10-years-of-kubernetes/
