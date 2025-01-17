@@ -77,4 +77,3 @@ The second slide contained three logos that I think a lot of folks reading this 
 * If you want to amp something up with CNCF or get something done in the Kubernetes community; let me know
 
 Hopefully, this is useful for folks to use during their face to face or team meetings in the future. I got a lot out of creating my portion and way more out of listening to my coworkers.
-
