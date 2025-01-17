@@ -4,7 +4,7 @@ aliases:
 - /php-memory-directives-relationship/
 author: Chris Short
 cover:
-  image: https://shortcdn.com/chrisshort/drawings/php-logo-large-white.webp
+  image: /drawings/php-logo-large-white.webp
 date: "2015-10-09"
 description: ""
 tags:

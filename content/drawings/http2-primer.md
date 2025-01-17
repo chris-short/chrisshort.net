@@ -5,7 +5,7 @@ aliases:
 - /http/2-primer/
 author: Chris Short
 cover:
-  image: https://shortcdn.com/chrisshort/drawings/chrome-devtools-h2.webp
+  image: /drawings/chrome-devtools-h2.webp
 date: "2016-11-16"
 description: ""
 tags:
