@@ -5,7 +5,6 @@ date: "2022-05-15"
 description: Amazon EKS Anywhere Curated Packages and Cilium on EKS Anywhere
 tags:
 - talks
-- speaking
 - videos
 - public speaking
 - AWS

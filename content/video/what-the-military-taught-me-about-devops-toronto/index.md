@@ -7,7 +7,6 @@ description: History can help prevent conflict when driving change. This talk wi
   to avoid conflict during your DevOps journey.
 tags:
 - talks
-- speaking
 - videos
 - public speaking
 title: What the Military Taught Me About DevOps - DevOpsDays Toronto 2018

@@ -7,7 +7,6 @@ description: Chris Short, Principal Technical Marketing Manager, OpenShift at Re
   Hightower to discuss Kubernetes.
 tags:
 - talks
-- speaking
 - videos
 - public speaking
 - podcast

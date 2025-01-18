@@ -6,7 +6,6 @@ description: Burnout can happen at any point in everyone's career. But, what hap
   when burnout is taking place amongst other things?
 tags:
 - talks
-- speaking
 - videos
 - public speaking
 - burnout

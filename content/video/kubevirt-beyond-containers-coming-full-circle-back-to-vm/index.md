@@ -7,7 +7,6 @@ description: A demo of an application that is comprised of VMs, Containers, an R
   are automatically handled by Kubernetes and KubeVirt.
 tags:
 - talks
-- speaking
 - videos
 - public speaking
 - webinar

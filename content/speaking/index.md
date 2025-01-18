@@ -10,7 +10,6 @@ date: "2020-11-07"
 description: Talks Chris Short has given. Webinars Chris Short has moderated.
 tags:
 - talks
-- speaking
 - public speaking
 - webinar
 title: Speaking
