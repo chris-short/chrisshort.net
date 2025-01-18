@@ -38,6 +38,6 @@ Download as [MP4](https://shortcdn.com/chrisshort/How-to-get-involved-in-OpenGit
 
 Source: [CTA | How to Get involved + Project Update - What's Next - Dan Garfield, Scott Rigby & Chris Short](https://youtu.be/0zDzH6KRHMs)
 
-Slides: [CTA | How to Get involved + Project Update - What's Next- Dan Garfield, Codefresh; Scott Rigby, Weaveworks & Chris Short, AWS](https://speakerdeck.com/chrisshort/cta-how-to-get-involved-plus-project-update-whats-next-dan-garfield-codefresh-scott-rigby-weaveworks-and-chris-short-aws) | [PDF](https://shortcdn.com/pdf/chrisshort/GitOpsCon-EU-2022-Outro.pdf)
+Slides: [CTA | How to Get involved + Project Update - What's Next- Dan Garfield, Codefresh; Scott Rigby, Weaveworks & Chris Short, AWS](https://speakerdeck.com/chrisshort/cta-how-to-get-involved-plus-project-update-whats-next-dan-garfield-codefresh-scott-rigby-weaveworks-and-chris-short-aws) | [PDF](https://shortcdn.com/chrisshort/pdf/GitOpsCon-EU-2022-Outro.pdf)
 
 {{< speaker >}}
