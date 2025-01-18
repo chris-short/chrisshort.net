@@ -30,7 +30,7 @@ Amazon S3 is a cheap place to host content. As of June 12, 2016, S3 storage cost
 
 First, setup a [CloudFlare](https://www.cloudflare.com/a/sign-up) (you will need to change the nameservers for the domain you intend to use as instructed) and [Amazon AWS](https://portal.aws.amazon.com/gp/aws/developer/registration/index.html) account if you don't already have one.
 
-In your AWS Console create an S3 bucket with the URL for your new CDN (cdn.chrisshort.net is my URL for content delivery):
+In your AWS Console create an S3 bucket with the URL for your new CDN (shortcdn.com is my URL for content delivery):
 
 [![AWS S3 Management Console](S3-Management-Console-01.webp)](S3-Management-Console-01.webp)
 
@@ -69,7 +69,7 @@ Next, login to your CloudFlare account, open your DNS configuration, and add a C
 
 [![CloudFlare DNS CNAME](DNS-CloudFlare.webp)](DNS-CloudFlare.webp)
 
-Last we will need to setup a CloudFlare Page Rule to Cache Everything. Open your Page Rules configuration, click **Create Page Rule**, type in your CDN's URL with a trailing slash followed by a splat (For example: cdn.chrisshort.net/*). Add settings for SSL (if you want to use SSL with S3, and you should, the Flexible setting is necessary), Browser Cache TTL, Always Online, Edge Cache TTL, and the most important setting of all is Cache Level **Cache Everything**:
+Last we will need to setup a CloudFlare Page Rule to Cache Everything. Open your Page Rules configuration, click **Create Page Rule**, type in your CDN's URL with a trailing slash followed by a splat (For example: shortcdn.com/*). Add settings for SSL (if you want to use SSL with S3, and you should, the Flexible setting is necessary), Browser Cache TTL, Always Online, Edge Cache TTL, and the most important setting of all is Cache Level **Cache Everything**:
 
 [![CloudFlare Page Rules](Page-Rules-CloudFlare.webp)](Page-Rules-CloudFlare.webp)
 

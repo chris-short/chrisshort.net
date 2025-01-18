@@ -50,7 +50,7 @@ I've learned from a ton of experience delivering email en masse. Mail delivery o
 * CSS
 * *And I'm certainly missing something*
 
-![Neo from The Matrix saying, "I know DNS" instead of "I know Kung Fu."](https://cdn.chrisshort.net/chrisshort/matrix-neo-i-know-dns.jpg#center)
+![Neo from The Matrix saying, "I know DNS" instead of "I know Kung Fu."](https://shortcdn.com/chrisshort/matrix-neo-i-know-dns.jpg#center)
 
 [mxtoolbox.com](https://mxtoolbox.com/) is going to become your friend as you learn about a whole bunch of DNS you never wanted to learn but now have to. If you want readers to be able to reply to your messages, you will need to set up mail infrastructure that enables folks to do so. Most newsletter writers want people to be able to respond directly. Quality feedback is in short supply. Enabling every avenue for feedback to come in is vital. Use a service, don't do any part of this you're uncomfortable  managing on your own.
 

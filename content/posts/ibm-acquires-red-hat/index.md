@@ -34,7 +34,7 @@ I opened Gmail so I could see what Red Hat's stream of consciousness (aka memo-l
 
 It was an odd feeling. Like, maybe I could have said something knowing it wouldn't have mattered. It was a sensation of not even getting a chance to do something. In the span of 24 minutes, I went from having a pretty great day to having what was akin to a panic attack.
 
-"I have to get home," I thought to myself. I made a hasty goodbye to the family and walk out the door. I sent the [IBM press release](https://cdn.chrisshort.net/chrisshort/IBM-RED-HAT-Press-Release-10-2018.pdf) to my boss to make sure she knew. I didn't know why I was driving home but, home was also the office and it felt like the right thing to do. If push came to shove I could get people up to speed as they popped up online.
+"I have to get home," I thought to myself. I made a hasty goodbye to the family and walk out the door. I sent the [IBM press release](https://shortcdn.com/chrisshort/IBM-RED-HAT-Press-Release-10-2018.pdf) to my boss to make sure she knew. I didn't know why I was driving home but, home was also the office and it felt like the right thing to do. If push came to shove I could get people up to speed as they popped up online.
 
 The drive home was filled with nausea and worry. “I should get home and go straight down to the office and login,” I think to myself. My boss texts back, "Holy Shit!" I get home to a lot of notifications. My boss and I go back and forth for a minute vis text as I'm walking inside. But, there wasn't much to be done. I took some anxiety meds and laid face down for a little bit on my bed.
 
