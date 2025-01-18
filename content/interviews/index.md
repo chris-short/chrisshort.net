@@ -20,7 +20,7 @@ Date: 2024-05-21
 
 Source: [Ascension nurse: Ransomware attack makes caring for hospital patients 'so, so dangerous'](https://www.freep.com/story/news/health/2024/05/21/ascension-hospital-hack-ransomware-cyber-attack/73776557007/)
 
-Download: [PDF](https://shortcdn.com/chrisshort/ascension-hospitals-ransomware-hack-affecting-patient-care.pdf)
+Download: [PDF](https://shortcdn.com/chrisshort/pdf/ascension-hospitals-ransomware-hack-affecting-patient-care.pdf)
 
 ## DevOps Dispatch - Comms in contributor communities with Chris Short
 
@@ -279,7 +279,7 @@ Source: [China, Huawei and the future of global technology — The Frontier Pod
 
 Download: [MP3](https://shortcdn.com/chrisshort/61-chris-short-final-bounce.mp3)
 
-Transcript: [PDF](https://shortcdn.com/chrisshort/Frontier-Podcast-China-Huawei-and-the-future-of-global-technology.pdf)
+Transcript: [PDF](https://shortcdn.com/chrisshort/pdf/Frontier-Podcast-China-Huawei-and-the-future-of-global-technology.pdf)
 
 ## 7 advantages of open source for agile teams
 

@@ -81,7 +81,7 @@ I also take [glucosamine, chondroitin, and MSM](https://amzn.to/48VgrEO) supplem
 
 Trigger point injections into two regions have been the go to relief option. However, getting trigger points in a hurry can be next to impossible. I typically get injections at least once a quarter.
 
-### Pulsed Radiofrequency Lesioning
+### Pulsed Radio Frequency Lesioning
 
 While deemed "experimental" by insurance companies due to overuse, pulsed radiofrequency lesioning has provided significant pain relief to me when done on a regularly scheduled basis. But, outside the VA systems this is impossible to get.
 
@@ -93,10 +93,10 @@ For whatever reason, Lyrica puts me excessively on edge and makes me very irrita
 
 As a result, we've flipped to superscapular nerve blocks. This is an injection of lidocaine and a steroid that floods the area in the superscapular region where the long thoracic nerve ventures further down into the body. I can get them as frequently as once a quarter, but in theory, they should last longer than that.
 
-### Radiofrequency Ablation
+### Radio Frequency Ablation (RFA/Rhizotomy)
 
 The latest treatment is going into my pain management office every six months and cooking the nerves in the facet joints in the C-spine so that they detach from the spinal cord. Nerves: The separation of the nerves is measured in millimeters, and as young as I am, my nerves tend to reconnect over time somehow.
 
 The procedure is excruciating and is not for the faint of heart. Seriously consider all your options before going down this route. It's effective for me. But the recovery time is sometimes measured in weeks.
 
-We do know after a few of these that regular doses of anesthesia are pretty ineffective. However, my doctor and I have figured out the why and what to do as a result. I mention this because when you are on as many drugs as I am, certain anesthesia meds don't have as significant an impact, so we've had to go down the Propofol route ([this is the drug that killed Michael Jackson](https://shortcdn.com/chrisshort/Propofol_the_drug_that_killed_Michael_Jackson-Harvard_Health.pdf))
+We do know after a few of these that regular doses of anesthesia are pretty ineffective. However, my doctor and I have figured out the why and what to do as a result. I mention this because when you are on as many drugs as I am, certain anesthesia meds don't have as significant an impact, so we've had to go down the Propofol route ([this is the drug that killed Michael Jackson](https://shortcdn.com/chrisshort/pdf/Propofol_the_drug_that_killed_Michael_Jackson-Harvard_Health.pdf))
