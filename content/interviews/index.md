@@ -231,7 +231,7 @@ Source: [Command Line Heroes Season 3: The Infrastructure Effect](https://www.re
 
 Download: [MP3](https://shortcdn.com/chrisshort/Command_Line_Heroes_S3_EP5_The_Infrastructure_Effect.mp3)
 
-Transcript: [PDF](https://shortcdn.com/chrisshort/Command_Line_Heroes_Season_3_The_Infrastructure_Effect.pdf)
+Transcript: [PDF](https://shortcdn.com/chrisshort/pdf/Command_Line_Heroes_Season_3_The_Infrastructure_Effect.pdf)
 
 ## CloudSkills.fm 030: Cloud Native Ops with Ansible and Kubernetes
 
