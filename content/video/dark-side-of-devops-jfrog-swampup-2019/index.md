@@ -25,7 +25,7 @@ title: The Dark Side of DevOps — JFrog swampUP 2019
 
 Slides: [The Dark Side of DevOps](https://speakerdeck.com/chrisshort/the-dark-side-of-devops)
 
-Download as [MP4](https://cdn.chrisshort.net/chrisshort/The_Dark_Side_of_DevOps-Chris_Short-JFrog_SwampUP_2019.mp4) (right click, Save As...)
+Download as [MP4](https://shortcdn.com/chrisshort/The_Dark_Side_of_DevOps-Chris_Short-JFrog_SwampUP_2019.mp4) (right click, Save As...)
 
 Source: [The Dark Side of DevOps - Chris Short - JFrog swampUP 2019](https://youtu.be/gi-i5NvxVLM)
 

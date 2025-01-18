@@ -21,7 +21,7 @@ title: Heaven is Not a Cloud — AWS Michigan
 
 Blog Post: [AWS Michigan: Heaven is Not a Cloud](/aws-michigan-heaven-is-not-a-cloud/)
 
-Download as [MP4](https://cdn.chrisshort.net/chrisshort/AWS-Michigan-Meetup-April%202018-Heaven-is-Not-a-Cloud-by-Chris-Short.mp4) (right click, Save As...)
+Download as [MP4](https://shortcdn.com/chrisshort/AWS-Michigan-Meetup-April%202018-Heaven-is-Not-a-Cloud-by-Chris-Short.mp4) (right click, Save As...)
 
 Source: [AWS Michigan Meetup April 2018 - Heaven is Not a Cloud by Chris Short](https://youtu.be/_qx9d5JSRvw)
 

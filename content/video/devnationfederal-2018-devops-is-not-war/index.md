@@ -25,7 +25,7 @@ title: 'DevNationFederal: DevOps is Not War'
 
 Slides: [DevNationFederal: DevOps is Not War](https://speakerdeck.com/chrisshort/devnationfederal-devops-is-not-war)
 
-Download as [MP4](https://cdn.chrisshort.net/chrisshort/DevNation-Federal-2018-DevOps-is-Not-War.mp4)
+Download as [MP4](https://shortcdn.com/chrisshort/DevNation-Federal-2018-DevOps-is-Not-War.mp4)
 
 Source: [DevNation Federal 2018 - DevOps is Not War](https://youtu.be/bnyDETdyNfw)
 

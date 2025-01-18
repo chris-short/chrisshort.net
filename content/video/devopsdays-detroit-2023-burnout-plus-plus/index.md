@@ -21,7 +21,7 @@ title: Burnout++ - DevOpsDays Detroit 2023
 
 Slides: [Burnout++](https://speakerdeck.com/chrisshort/burnout-plus-plus)
 
-Download as [MP4](https://cdn.chrisshort.net/chrisshort/chris-short-devopsdays-detroit-2023-burnout-plus-plus.mp4) (right click, Save As...)
+Download as [MP4](https://shortcdn.com/chrisshort/chris-short-devopsdays-detroit-2023-burnout-plus-plus.mp4) (right click, Save As...)
 
 Source: [Chris Short - Burnout++ - DevOpsDays Detroit 2023](https://youtu.be/v_hM3VkDoeA)
 

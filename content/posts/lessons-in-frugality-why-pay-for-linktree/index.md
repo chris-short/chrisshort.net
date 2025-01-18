@@ -37,13 +37,13 @@ I almost forgot about the analytics that Linktree gives me. This past week, I po
 
 I also notice I've only received two newsletter signups since April through this. Linktree is not a good way to garner newsletter subscribers, it would appear. Plus, the Zapier integration to get newsletter signups uses a webhook rule in Zapier. Do you know how expensive Zapier can get? I'm lucky that I had an extra one to spare for this.
 
-![Lifetime Linktree Analytics](https://cdn.chrisshort.net/chrisshort/linktree-lifetime-analytics.webp)
+![Lifetime Linktree Analytics](https://shortcdn.com/chrisshort/linktree-lifetime-analytics.webp)
 
 Aggressive analytics tools will get less accurate data from the industry's devs, engineers, advocates, and privacy-conscious folks. These metrics are wrong, too, because most nerds I know roll around the internet with DNS filtering and many layers of protection in their browsers. I'd bet money that many clicks weren't tracked at all.
 
 I use Fathom Analytics because of the privacy it gives users and the right amount of visibility it provides me. I can track how traffic comes and goes without using invasive analytics tools. I really like Fathom Analytics a lot. They also have monitoring (and a [lovely affiliate program][1]) bundled in as a _chef's kiss_ on top.
 
-[![Fathom Analytics](https://cdn.chrisshort.net/chrisshort/aff04.png)](https://usefathom.com/ref/Z8NTXN)
+[![Fathom Analytics](https://shortcdn.com/chrisshort/aff04.png)](https://usefathom.com/ref/Z8NTXN)
 
 ## I'm already paying for web hosting
 

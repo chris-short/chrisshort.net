@@ -25,7 +25,7 @@ On Tuesday, my Sidekick II came and like a gleeful school boy I dropped my SIM c
 
 The first thing I noticed about the Sidekick II is that it was thinner, narrower, longer, and lighter than its predecessor. It looked more like a phone and less like a PDA (or a brick as some of my friends called the Sidekick).
 
-![Top View of the original Sidekick and Sidekick II](https://cdn.chrisshort.net/chrisshort/top-view-sidekick-sidekick-II.jpg)
+![Top View of the original Sidekick and Sidekick II](https://shortcdn.com/chrisshort/top-view-sidekick-sidekick-II.jpg)
 
 The next major improvement that the Sidekick II brings to the table is the flat face. With the original Sidekick the ear piece would not sit up against your ear completely due to the fact the screen was positioned on top of the device. The Sidekick II's screen is flush with the rest of the device and the keyboard is sunken in underneath it. The directional pad is no longer part of the keyboard and sits on the outside of the device and has become the ear piece of the phone.
 
@@ -102,10 +102,10 @@ The Sidekick II as a camera is easy to use especially since the shutter button i
 Here is an example from SeaWorld comparing the Sidekick II's 1.3 megapixel camera to the Sony DSC-P72 Cyber-shot 3.2 megapixel digital camera:
 
 Sidekick II
-![Sidekick II](https://cdn.chrisshort.net/chrisshort/sidekick-II-seaworld-comparison.jpg)
+![Sidekick II](https://shortcdn.com/chrisshort/sidekick-II-seaworld-comparison.jpg)
 
 Sony DSC-P72 Cyber-shot 3.2 megapixel digital camera
-![Sony DSC-P72 Cyber-shot 3.2 megapixel digital camera](https://cdn.chrisshort.net/chrisshort/sony-sidekick-II-seaworld-comparison.jpg)
+![Sony DSC-P72 Cyber-shot 3.2 megapixel digital camera](https://shortcdn.com/chrisshort/sony-sidekick-II-seaworld-comparison.jpg)
 
 ### Other Applications
 

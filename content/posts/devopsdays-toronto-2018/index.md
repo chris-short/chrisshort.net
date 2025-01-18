@@ -32,7 +32,7 @@ One thing I did need to mention was the fact that freedom of speech is great but
 
 {{< speakerdeck fe9b2a9711ec4e6a9fac37f0f04c25a6 >}}
 
-[**A graphic recording of this talk is available:** ![What the Military Taught Me About DevOps Graphic Recording](https://cdn.chrisshort.net/chrisshort/devopsdaysto_may30_2018_chrisshort.jpg)](/drawings/devopsdays-toronto-2018-graphic-recording/)
+[**A graphic recording of this talk is available:** ![What the Military Taught Me About DevOps Graphic Recording](https://shortcdn.com/chrisshort/devopsdaysto_may30_2018_chrisshort.jpg)](/drawings/devopsdays-toronto-2018-graphic-recording/)
 
 ## Video
 

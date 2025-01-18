@@ -23,7 +23,7 @@ title: Burnout++ - Cloud Native Rejekts EU 2024
 
 Slides: [Burnout++](https://docs.google.com/presentation/d/1zpRNJtSTj6RrBZk2oMFr8rokILFCodkY4ZiXbfoLunw/edit?usp=sharing) (Google Slides)
 
-Download as [MP4](https://cdn.chrisshort.net/chrisshort/Burnout++_Recognizing-and-Managing-Burnout.mp4) (right click, Save As...)
+Download as [MP4](https://shortcdn.com/chrisshort/Burnout++_Recognizing-and-Managing-Burnout.mp4) (right click, Save As...)
 
 Source: [Burnout++ - Cloud Native Rejekts EU 2024 - Chris Short](https://youtu.be/F6-VZ8eOlg8)
 

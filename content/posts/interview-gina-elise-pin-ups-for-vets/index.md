@@ -17,7 +17,7 @@ title: Interview with Gina Elise of Pin Ups for Vets
 
 If you've never heard of Gina Elise and her project [*Pin Ups for Vets*](http://www.pinupsforvets.com/) prepare to become very informed and amazed. Gina Elise is a 24-year-old who majored in theater at UCLA. It's not often that someone of Gina's age gets interested in helping people. It's even less often that someone from the state of California actively supports veterans and our troops like she does. Gina Elise is not your ordinary California girl, college graduate and with her Pin Ups for Vets calendars, specifically designed for troops and veterans, she is supporting the troops overseas, downrange, and veterans recovering here at home.
 
-![Gina Elise of Pin Ups for Vets](https://cdn.chrisshort.net/chrisshort/pin-ups-for-vets-gina-elise.jpg)
+![Gina Elise of Pin Ups for Vets](https://shortcdn.com/chrisshort/pin-ups-for-vets-gina-elise.jpg)
 
 A year ago Gina Elise decided to take her, "love for retro and do something to help injured soldiers at the same time." Gina told me that the inspiration for Pin Ups for Vets is, "The stories I hear about injured soldiers returning home from overseas really has a huge effect on me. Their lives have changed forever because of these injuries — because they served our country. The motivation and energy they have is inspiring to me. I want to do something for them."
 
