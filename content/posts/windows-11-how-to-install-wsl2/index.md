@@ -73,7 +73,7 @@ Push the Windows key, search for "Turn Windows features on or off" and click it.
 1. Virtual Machine Platform
 2. Windows Subsystem for Linux
 
-![Open Turn Windows features on or off and tick the two boxes](https://shortcdn.com/chrisshort/turn-windows-features-on-or-off.webp)
+![Open Turn Windows features on or off and tick the two boxes](https://cdn.chrisshort.net/chrisshort/turn-windows-features-on-or-off.webp)
 
 ## Install a Linux Distribution
 
@@ -83,7 +83,7 @@ Installing Linux distros from the Microsoft Store should work. However, I sugges
 
 Run PowerShell as an Administrator. Of course, there are two ways to do this. If you have the `Terminal` app installed, you can right-click the Start button, and there should be an option for `Terminal (Admin)`. The other way is to push the Windows key, search for PowerShell, and select Run as Administrator.
 
-The first command you should run is `wsl --help`. That will give you a ton of info about the `wsl` command line tool ([this is the output of the help flag](https://shortcdn.com/chrisshort/wsl-help.txt).)
+The first command you should run is `wsl --help`. That will give you a ton of info about the `wsl` command line tool ([this is the output of the help flag](https://cdn.chrisshort.net/chrisshort/wsl-help.txt).)
 
 If you want to list available Linux distros, run `wsl --list --online` and you should see something like this:
 
@@ -104,7 +104,7 @@ OracleLinux_8_5    Oracle Linux 8.5
 OracleLinux_7_9    Oracle Linux 7.9
 ```
 
-When you've made your choice and are ready to install, **don't follow the command in the above output**, as I don't think that worked for me. I had to dig a little deeper into the [help file](https://shortcdn.com/chrisshort/wsl-help.txt). Instead, run:
+When you've made your choice and are ready to install, **don't follow the command in the above output**, as I don't think that worked for me. I had to dig a little deeper into the [help file](https://cdn.chrisshort.net/chrisshort/wsl-help.txt). Instead, run:
 
 ```ps
 wsl --install -d Ubuntu-20.04

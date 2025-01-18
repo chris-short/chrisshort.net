@@ -30,7 +30,7 @@ title: 'Webinar: KubeVirt - Beyond Containers: Coming full circle back to VMs!'
 >
 > We will show a demo of an application that is comprised of VMs, Containers, an RDBMS and a LoadBalancer-type Service. We'll show how HA scenarios for legacy components are automatically handled by Kubernetes and KubeVirt, along with a couple cool surprises!
 
-Download as [MP4](https://shortcdn.com/chrisshort/KubeVirt-Beyond-Containers-Coming-full-circle-back-to-VMs.mp4) (right click, Save As...)
+Download as [MP4](https://cdn.chrisshort.net/chrisshort/KubeVirt-Beyond-Containers-Coming-full-circle-back-to-VMs.mp4) (right click, Save As...)
 
 Source: [KubeVirt - Beyond Containers: Coming full circle back to VMs! - Cloud Native Computing Foundation](https://www.cncf.io/online-programs/kubevirt-beyond-containers-coming-full-circle-back-to-vms/)
 

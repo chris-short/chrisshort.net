@@ -19,7 +19,7 @@ title: 'Kubernetes Cron Jobs: Dreams Really Do Come True — DevOpsDays Columbus
 
 Slides: [Kubernetes Cron Jobs: Dreams Really Do Come True — DevOpsDays Columbus 2018](https://speakerdeck.com/chrisshort/devopsdays-columbus-2018-kubernetes-cron-jobs)
 
-Download as [MP4](https://shortcdn.com/chrisshort/kubernetes-cron-jobs-devopsdays-columbus-2018.mp4) (right click, Save As...)
+Download as [MP4](https://cdn.chrisshort.net/chrisshort/kubernetes-cron-jobs-devopsdays-columbus-2018.mp4) (right click, Save As...)
 
 Source: [Chris Short Ignite - Kubernetes Cron Jobs: Dreams Really Do Come True](https://youtu.be/75T_-YJ5Vag)
 

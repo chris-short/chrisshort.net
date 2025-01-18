@@ -21,6 +21,6 @@ Blog Post: [DevOpsDays Raleigh 2017: The Dark Side of DevOps](/devopsdays-raleig
 
 Source: [The Dark Side of DevOps - Chris Short](https://youtu.be/P6Wvt5GUvlU)
 
-Download as [MP4](https://shortcdn.com/chrisshort/The-Dark-Side-of-DevOps-Chris-Short.mp4)  (right click, Save As...)
+Download as [MP4](https://cdn.chrisshort.net/chrisshort/The-Dark-Side-of-DevOps-Chris-Short.mp4)  (right click, Save As...)
 
 {{< speaker >}}

@@ -23,7 +23,7 @@ Slides: [DevOps is Not War - DevOpsDays Detroit 2019](https://speakerdeck.com/ch
 
 Blog post: [DevOpsDays Detroit 2019 Trip Report](/devopsdays-detroit-2019-trip-report/)
 
-Download as [MP4](https://shortcdn.com/chrisshort/DevOps-is-Not-War-DOD-Detroit.mp4) (right click, Save As...)
+Download as [MP4](https://cdn.chrisshort.net/chrisshort/DevOps-is-Not-War-DOD-Detroit.mp4) (right click, Save As...)
 
 Source: [Chris Short - DevOps is Not War](https://youtu.be/x8p9-GIVPos)
 

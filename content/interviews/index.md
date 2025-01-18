@@ -20,7 +20,7 @@ Date: 2024-05-21
 
 Source: [Ascension nurse: Ransomware attack makes caring for hospital patients 'so, so dangerous'](https://www.freep.com/story/news/health/2024/05/21/ascension-hospital-hack-ransomware-cyber-attack/73776557007/)
 
-Download: [PDF](https://shortcdn.com/chrisshort/ascension-hospitals-ransomware-hack-affecting-patient-care.pdf)
+Download: [PDF](https://cdn.chrisshort.net/chrisshort/ascension-hospitals-ransomware-hack-affecting-patient-care.pdf)
 
 ## DevOps Dispatch - Comms in contributor communities with Chris Short
 
@@ -32,7 +32,7 @@ Date: 2023-04-20
 
 Source: [DevOps Dispatch - Comms in contributor communities with Chris Short](https://youtu.be/rT_WiRyUXt0?si=S4CAkYZHvTqPaVZf)
 
-Download: [MP4](https://shortcdn.com/chrisshort/DevOps-Dispatch-Comms-in-contributor-communities-with-Chris-Short.mp4)
+Download: [MP4](https://cdn.chrisshort.net/chrisshort/DevOps-Dispatch-Comms-in-contributor-communities-with-Chris-Short.mp4)
 
 ## KBE Insider (E17) - Chris Short
 
@@ -41,7 +41,7 @@ Download: [MP4](https://shortcdn.com/chrisshort/DevOps-Dispatch-Comms-in-contrib
 Date: 2023-01-31
 
 Source: [KBE Insider (E17) - Chris Short](https://www.youtube.com/live/JNK-qtjbkKE)
-Download: [MP4](https://shortcdn.com/chrisshort/KBE_Insider_E17_Chris_Short.mp4)
+Download: [MP4](https://cdn.chrisshort.net/chrisshort/KBE_Insider_E17_Chris_Short.mp4)
 
 ## KBE Insider Detroit - Chris Short, AWS
 
@@ -51,7 +51,7 @@ Date: 2022-11-26
 
 Source: [KBE Insider - Detroit](https://kubebyexample.com/community/kbe-insider-detroit)
 
-Download: [MP4](https://shortcdn.com/chrisshort/KBE_Insider_Detroit-Chris_Short-AWS.mp4)
+Download: [MP4](https://cdn.chrisshort.net/chrisshort/KBE_Insider_Detroit-Chris_Short-AWS.mp4)
 
 ## How Do We Protect the Software Supply Chain?
 
@@ -61,7 +61,7 @@ Date: 2022-11-08
 
 Source: [How Do We Protect the Software Supply Chain? — The New Stack](https://thenewstack.io/how-do-we-protect-the-software-supply-chain/)
 
-Download: [MP3](https://shortcdn.com/chrisshort/How_Do_We_Protect_the_Software_Supply_Chain.mp3) or [MP4](https://shortcdn.com/chrisshort/How_Do_We_Protect_the_Software_Supply_Chain.mp4)
+Download: [MP3](https://cdn.chrisshort.net/chrisshort/How_Do_We_Protect_the_Software_Supply_Chain.mp3) or [MP4](https://cdn.chrisshort.net/chrisshort/How_Do_We_Protect_the_Software_Supply_Chain.mp4)
 
 ## Screaming in the Cloud: Episode 374 — Kubernetes and OpenGitOps with Chris Short
 
@@ -71,7 +71,7 @@ Date: 2022-07-14
 
 Source: [Kubernetes and OpenGitOps with Chris Short - Last Week in AWS Podcast](https://www.lastweekinaws.com/podcast/screaming-in-the-cloud/kubernetes-and-opengitops-with-chris-short/)
 
-Download: [MP3](https://shortcdn.com/chrisshort/374-Kubernetes-OpenGitOps-Chris-Short-Last-Week-in-AWS-Podcast.mp3)
+Download: [MP3](https://cdn.chrisshort.net/chrisshort/374-Kubernetes-OpenGitOps-Chris-Short-Last-Week-in-AWS-Podcast.mp3)
 
 ## ✨#adventcado of the day✨
 
@@ -98,7 +98,7 @@ Date: 2020-09-30
 
 Source: [Learning Streaming from the Experts](https://www.thecloudcast.net/2020/09/learning-streaming-from-experts.html)
 
-Download: [MP3](https://shortcdn.com/chrisshort/learn-streaming-from-the-experts.mp3)
+Download: [MP3](https://cdn.chrisshort.net/chrisshort/learn-streaming-from-the-experts.mp3)
 
 ## Devchat.tv DevOps 049: DevOps, Open Source, and OpenShift with Chris Short
 
@@ -108,7 +108,7 @@ Date: 2020-09-25
 
 Source: [DevOps 049: DevOps, Open Source, and OpenShift with Chris Short](https://topenddevs.com/podcasts/adventures-in-devops/episodes/devops-049-devops-open-source-and-openshift-with-chris-short)
 
-Download: [MP3](https://shortcdn.com/chrisshort/ADO_049_DevOps_Open_Source_OpenShift_and_OpenShift_tv_with_Chris_Short.mp3)
+Download: [MP3](https://cdn.chrisshort.net/chrisshort/ADO_049_DevOps_Open_Source_OpenShift_and_OpenShift_tv_with_Chris_Short.mp3)
 
 ## Chris Short: K8s Release Team - Cloud Native Computing Foundation - NVIDIA to buy Arm for $40B - Oracle and TikTok - OpenShift TV - Walmart Brings Back Gateway Computers
 
@@ -125,7 +125,7 @@ Date: 2020-08-11
 
 Source: [Security, Open Links and BIG AW$ Bills [Chris Short, Aug 11]](https://youtu.be/asTE7JbNRXw)
 
-Download: [MP4](https://shortcdn.com/chrisshort/Security-Open-Links-and-BIG-AWS-Bills-Chris-Short-20200811.mp4)
+Download: [MP4](https://cdn.chrisshort.net/chrisshort/Security-Open-Links-and-BIG-AWS-Bills-Chris-Short-20200811.mp4)
 
 ## The 20 Best Podcasts About All Things Tech
 
@@ -145,7 +145,7 @@ Date: 2020-05-20
 
 Source: [Podcast - Carving out a Cloud Native Culture in Established Organizations](https://web.archive.org/web/20231207111541/https://www.weave.works/blog/podcast-carving-out-a-cloud-native-culture-in-established-organizations)
 
-Download: [MP3](https://shortcdn.com/chrisshort/Carving-out-Cloud-Native-Culture-in-Established-Organizations.mp3)
+Download: [MP3](https://cdn.chrisshort.net/chrisshort/Carving-out-Cloud-Native-Culture-in-Established-Organizations.mp3)
 
 ## Chris Short from Red Hat talks Operators and Kubernetes
 
@@ -155,7 +155,7 @@ Source: [L8istSh9y Podcast: Chris Short from Red Hat talks Operators and Kuberne
 
 Blog Post: [Talking Operators on L8ist Sh9y Podcast](/talking-operators-on-l8ist-sh9y-podcast/)
 
-Download: [MP3](https://shortcdn.com/chrisshort/L8istSh9y-Chris-Short-Red-Hat-talks-Operators-Kubernetes.mp3)
+Download: [MP3](https://cdn.chrisshort.net/chrisshort/L8istSh9y-Chris-Short-Red-Hat-talks-Operators-Kubernetes.mp3)
 
 ## [DevOpsSpeakeasy Podcast] S01E07: Chris Short on Openshift, K8S Operators, and kubectl pronunciation
 
@@ -165,7 +165,7 @@ Date: 2020-03-31
 
 Source: [[DevOpsSpeakeasy Podcast] S01E07: Chris Short on Openshift, K8S Operators, and kubectl pronunciation](https://youtu.be/SYRAFc0h6a0)
 
-Download: [MP3](https://shortcdn.com/chrisshort/devops-speakeasy-s01e01-chris-short-openshift-kubernetes-operators-how-to-pronounce-kubectl.mp3)
+Download: [MP3](https://cdn.chrisshort.net/chrisshort/devops-speakeasy-s01e01-chris-short-openshift-kubernetes-operators-how-to-pronounce-kubectl.mp3)
 
 ## Migrating applications to containers and Kubernetes: 5 best practices
 
@@ -199,7 +199,7 @@ Date: 2019-11-21
 
 Source: [DevOps Speakeasy at Kubecon San Diego 2019: Chris Short on DevOps!](https://youtu.be/EO54iYYDZoU)
 
-Download: [MP4](https://shortcdn.com/chrisshort/DevOps-Speakeasy-Kubecon-San-Diego-2019-Chris-Short-on-DevOps.mp4)
+Download: [MP4](https://cdn.chrisshort.net/chrisshort/DevOps-Speakeasy-Kubecon-San-Diego-2019-Chris-Short-on-DevOps.mp4)
 
 ## The Intersection of DevOps and Kubernetes
 
@@ -209,7 +209,7 @@ Date: 2019-11-08
 
 Source: [The Intersection of DevOps and Kubernetes](https://podcasts.apple.com/gb/podcast/the-intersection-of-devops-and-kubernetes/id1270983443?i=1000456263929)
 
-Download: [MP3](https://shortcdn.com/chrisshort/the-intersection-of-devops-and-kubernetes.mp3)
+Download: [MP3](https://cdn.chrisshort.net/chrisshort/the-intersection-of-devops-and-kubernetes.mp3)
 
 ## How to explain DevOps in plain English
 
@@ -229,9 +229,9 @@ Date: 2019-08-20
 
 Source: [Command Line Heroes Season 3: The Infrastructure Effect](https://www.redhat.com/en/command-line-heroes/season-3/the-infrastructure-effect)
 
-Download: [MP3](https://shortcdn.com/chrisshort/Command_Line_Heroes_S3_EP5_The_Infrastructure_Effect.mp3)
+Download: [MP3](https://cdn.chrisshort.net/chrisshort/Command_Line_Heroes_S3_EP5_The_Infrastructure_Effect.mp3)
 
-Transcript: [PDF](https://shortcdn.com/chrisshort/Command_Line_Heroes_Season_3_The_Infrastructure_Effect.pdf)
+Transcript: [PDF](https://cdn.chrisshort.net/chrisshort/Command_Line_Heroes_Season_3_The_Infrastructure_Effect.pdf)
 
 ## CloudSkills.fm 030: Cloud Native Ops with Ansible and Kubernetes
 
@@ -241,7 +241,7 @@ Date: 2019-07-17
 
 Source: [030: Cloud Native Ops with Ansible and Kubernetes](https://cloudskills.fm/030)
 
-Download: [MP3](https://shortcdn.com/chrisshort/CloudSkills_Episode_30.mp3)
+Download: [MP3](https://cdn.chrisshort.net/chrisshort/CloudSkills_Episode_30.mp3)
 
 ## DevOps for introverted people
 
@@ -265,7 +265,7 @@ Date: 2019-06-19
 
 Source: [Chris Short, Red Hat | JFrog SwampUp 2019 | Digital Anarchist](https://videopress.com/v/V3TIte3s)
 
-Download: [MP4](https://shortcdn.com/chrisshort/chris-short-red-hat-jfrog-swampup-2019)
+Download: [MP4](https://cdn.chrisshort.net/chrisshort/chris-short-red-hat-jfrog-swampup-2019)
 
 ## China, Huawei and the future of global technology
 
@@ -277,9 +277,9 @@ Date: 2019-05-28
 
 Source: [China, Huawei and the future of global technology — The Frontier Podcast — Episode 61](https://www.gun.io/frontier/2019/episode-61)
 
-Download: [MP3](https://shortcdn.com/chrisshort/61-chris-short-final-bounce.mp3)
+Download: [MP3](https://cdn.chrisshort.net/chrisshort/61-chris-short-final-bounce.mp3)
 
-Transcript: [PDF](https://shortcdn.com/chrisshort/Frontier-Podcast-China-Huawei-and-the-future-of-global-technology.pdf)
+Transcript: [PDF](https://cdn.chrisshort.net/chrisshort/Frontier-Podcast-China-Huawei-and-the-future-of-global-technology.pdf)
 
 ## 7 advantages of open source for agile teams
 
@@ -297,7 +297,7 @@ Date: 2019-04-25
 
 Source: [DevOps'ish with Chris Short – Newsletterers – The Tim Show – S02E01](https://timhildred.com/devopsish-with-chris-short-newsletterers-the-tim-show-s02e01/)
 
-Download: [MP3](https://shortcdn.com/chrisshort/the-tim-show-s02e01.mp3)
+Download: [MP3](https://cdn.chrisshort.net/chrisshort/the-tim-show-s02e01.mp3)
 
 ## The Cloud Pod — Episode 16: This week in the cloud blob
 
@@ -307,7 +307,7 @@ Date: 2019-03-29
 
 Source: [Episode 16: This week in the cloud blob](https://www.thecloudpod.net/podcast/episode-16-this-week-in-the-cloud-blob/)
 
-Download: [MP3](https://shortcdn.com/chrisshort/tcp-episode-16-mix.mp3)
+Download: [MP3](https://cdn.chrisshort.net/chrisshort/tcp-episode-16-mix.mp3)
 
 ## DevOps Defined — What is Kubernetes?
 
@@ -326,7 +326,7 @@ Date: 2018-12-27
 
 Source: [On-Call Nightmares Podcast — Episode 3 - Chris Short - Red Hat](https://www.podomatic.com/podcasts/oncallnightmares/episodes/2018-12-27T09_00_12-08_00)
 
-Download: [MP3](https://shortcdn.com/chrisshort/oncallnightmares_2018-12-27T09_00_12-08_00.mp3)
+Download: [MP3](https://cdn.chrisshort.net/chrisshort/oncallnightmares_2018-12-27T09_00_12-08_00.mp3)
 
 ## Business Travel Life: Chris Short
 
@@ -348,7 +348,7 @@ Date: 2018-08-10
 
 Source: [Product Marketing Management](http://foodfightshow.org/2018/08/product-marketing.html)
 
-Download: [MP3](https://shortcdn.com/chrisshort/FFS123.mp3)
+Download: [MP3](https://cdn.chrisshort.net/chrisshort/FFS123.mp3)
 
 ## Stand-up meetings: 5 reasons to kiss traditional meetings goodbye
 
@@ -366,7 +366,7 @@ Date: 2018-06-05
 
 Source: [The Best CI/CD Tool for Kubernetes Doesn't Exist](https://thenewstack.io/the-best-ci-cd-tool-for-kubernetes-doesnt-exist/)
 
-Download: [MP3](https://shortcdn.com/chrisshort/tns-best-ci-cd-for-kubernetes-doesnt-exist.mp3)
+Download: [MP3](https://cdn.chrisshort.net/chrisshort/tns-best-ci-cd-for-kubernetes-doesnt-exist.mp3)
 
 ## L8ist Sh9y Podcast: Chris Short on SRE, DevSecOps, Pipelines, Immutability, and Kubernetes
 
@@ -385,7 +385,7 @@ Date: 2018-06-02
 
 Source: [Chris Short on SRE, DevSecOps, Pipelines, Immutability, and Kubernetes](https://soundcloud.com/user-410091210/chris-short-on-sre-devsecops-pipelines-immutability-and-kubernetes)
 
-Download: [MP3](https://shortcdn.com/chrisshort/chris-short-on-sre-devsecops-pipelines-immutability-and-kubernetes.mp3)
+Download: [MP3](https://cdn.chrisshort.net/chrisshort/chris-short-on-sre-devsecops-pipelines-immutability-and-kubernetes.mp3)
 
 ## DevOpsDays Toronto 2018 — What the military taught me about DevOps
 
@@ -393,7 +393,7 @@ Date: 2018-06-01
 
 {{< streaming e670778f-9a28-4cf6-ad43-e5617ebba08d >}}
 
-Download: [MP4](https://shortcdn.com/chrisshort/devopsdays-toronto-2018-ken-mugrage-chris-short.mp4) or [MP3](https://shortcdn.com/chrisshort/devopsdays-toronto-2018-ken-muckrage-chris-short.mp3)
+Download: [MP4](https://cdn.chrisshort.net/chrisshort/devopsdays-toronto-2018-ken-mugrage-chris-short.mp4) or [MP3](https://cdn.chrisshort.net/chrisshort/devopsdays-toronto-2018-ken-muckrage-chris-short.mp3)
 
 ## Discussing DevOps Details aka The 3D Podcast: Episode 113
 
@@ -403,7 +403,7 @@ Date: 2018-04-04
 
 Source: [Discussing DevOps Details Episode 113: Refactoring Giant Monoliths](https://podtail.com/podcast/discussing-devops-details/episode-113-refactoring-giant-monoliths/)
 
-Download: [MP3](https://shortcdn.com/chrisshort/2018-04-04_3d_podcast_recording_session_113_-_refactoring_giant_monoliths.mp3)
+Download: [MP3](https://cdn.chrisshort.net/chrisshort/2018-04-04_3d_podcast_recording_session_113_-_refactoring_giant_monoliths.mp3)
 
 ## Screaming in the Cloud: Episode 2
 
@@ -411,7 +411,7 @@ Date: 2018-03-21
 
 Source: [Episode 2: Shoving a SAN into us-east-1](https://www.screaminginthecloud.com/episodes/episode-2-shoving-a-san-into-us-east-1)
 
-Download: [MP3](https://shortcdn.com/chrisshort/Episode-2-Shoving-a-SAN-into-us-east-1.mp3)
+Download: [MP3](https://cdn.chrisshort.net/chrisshort/Episode-2-Shoving-a-SAN-into-us-east-1.mp3)
 
 ## DevOps Perspectives from the Front Lines
 
@@ -423,7 +423,7 @@ Source: [The Cloudcast #277 - DevOps Perspectives from the Front Lines](http://w
 
 Blog Post: [DevOps Perspectives from the Front Lines](/devops-perspectives-from-the-front-lines/)
 
-Download: [MP3](https://shortcdn.com/chrisshort/the-cloudcast-277-devops-perspectives-from-the-front-lines.mp3)
+Download: [MP3](https://cdn.chrisshort.net/chrisshort/the-cloudcast-277-devops-perspectives-from-the-front-lines.mp3)
 
 ## North Carolina Veterans Oral History Interview Part 3
 
@@ -433,7 +433,7 @@ Source: [Christopher B. Short Interview, 2016-05-21](https://archive.org/details
 
 Blog Post: [North Carolina Veterans Oral History Interview Part 3](/nc-veterans-oral-history-program/nc-vets-oral-history-interview-3/)
 
-Download: [MP3](https://shortcdn.com/chrisshort/nc-veterans-oral-history-interview-3.mp3)
+Download: [MP3](https://cdn.chrisshort.net/chrisshort/nc-veterans-oral-history-interview-3.mp3)
 
 ## North Carolina Veterans Oral History Interview Part 2
 
@@ -443,7 +443,7 @@ Source: [Christopher B. Short Interview, 2016-05-21](https://archive.org/details
 
 Blog Post: [North Carolina Veterans Oral History Interview Part 2](/nc-veterans-oral-history-program/nc-vets-oral-history-interview-2/)
 
-Download: [MP3](https://shortcdn.com/chrisshort/nc-veterans-oral-history-interview-2.mp3)
+Download: [MP3](https://cdn.chrisshort.net/chrisshort/nc-veterans-oral-history-interview-2.mp3)
 
 ## North Carolina Veterans Oral History Interview Part 1
 
@@ -453,4 +453,4 @@ Source: [Christopher B. Short Interview, 2016-05-21](https://archive.org/details
 
 Blog Post: [North Carolina Veterans Oral History Interview Part 1](/nc-veterans-oral-history-program/nc-vets-oral-history-interview-1/)
 
-Download: [MP3](https://shortcdn.com/chrisshort/nc-veterans-oral-history-interview-1.mp3)
+Download: [MP3](https://cdn.chrisshort.net/chrisshort/nc-veterans-oral-history-interview-1.mp3)

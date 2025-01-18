@@ -21,6 +21,6 @@ title: DevOpsDays Raleigh 2017 Ignite Karaoke (Part 2)
 
 Source: [DevOpsDays Raleigh 2017 Ignite Karaoke (Part 2)](https://youtu.be/Pz2r2eDCR74)
 
-Download as [MP4](https://shortcdn.com/chrisshort/DevOpsDays-Raleigh-2017-Ignite-Karaoke-Part-2.mp4) (right click, Save As...)
+Download as [MP4](https://cdn.chrisshort.net/chrisshort/DevOpsDays-Raleigh-2017-Ignite-Karaoke-Part-2.mp4) (right click, Save As...)
 
 {{< speaker >}}

@@ -38,7 +38,7 @@ These are things I maintain outside of this website for the benefit of everyone.
 
 ### Content Delivery Network
 
-shortcdn.com is the domain that I use to share files that are large or otherwise shouldn't be stored in a git repo. The main premise behind chrisshort.net is that it's an archive of all the things I have done. This archive should be available for the long term (think grand kids and their kids).
+cdn.chrisshort.net is the domain that I use to share files that are large or otherwise shouldn't be stored in a git repo. The main premise behind chrisshort.net is that it's an archive of all the things I have done. This archive should be available for the long term (think grand kids and their kids).
 
 ### Suggested Reads
 

@@ -47,10 +47,10 @@ I wanted to compress that 2U server to a smaller footprint (like that [Crush iPa
 
 I’ve run these systems like this for a long time. They’ve been plugging away at the Folding@Home workloads. They’ve done so admirably and with little fuss. I’m glad to say I passed 100 million “points.” I also completed over 4,000 work units. All of that is dedicated to cancer research. I hope someday, children don’t have to die due to cancer. I’m working to hasten that pace in memory of my niece, Lucy. #FoldingForLucy
 
-[![Folding@Home Certificate for 100,000,000 points](https://shortcdn.com/chrisshort/FoldingAtHome-points-certificate-69764384.jpg)](https://stats.foldingathome.org/donor/id/69764384)
+[![Folding@Home Certificate for 100,000,000 points](https://cdn.chrisshort.net/chrisshort/FoldingAtHome-points-certificate-69764384.jpg)](https://stats.foldingathome.org/donor/id/69764384)
 
-[![Folding@Home Certificate for 4,000 Work Units](https://shortcdn.com/chrisshort/FoldingAtHome-wus-certificate-69764384.jpg)](https://stats.foldingathome.org/donor/id/69764384)
+[![Folding@Home Certificate for 4,000 Work Units](https://cdn.chrisshort.net/chrisshort/FoldingAtHome-wus-certificate-69764384.jpg)](https://stats.foldingathome.org/donor/id/69764384)
 
 [1]: https://www.flickr.com/photos/chris-short/albums/72177720316779405
-[2]: https://shortcdn.com/chrisshort/crush-apple-ipad-pro.mp4
+[2]: https://cdn.chrisshort.net/chrisshort/crush-apple-ipad-pro.mp4
 [3]: https://www.qnap.com/en-us/product/ts-873a

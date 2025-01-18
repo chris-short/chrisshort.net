@@ -25,6 +25,6 @@ title: 'Webinar: Security at Cloud-native Speed On-Demand'
 > * tapping the power of native controls in Kubernetes
 > * leveraging automation to retain velocity
 
-Download as [MP4](https://shortcdn.com/chrisshort/Security-at-Cloud-native-Speed.mp4) (right click, Save As...)
+Download as [MP4](https://cdn.chrisshort.net/chrisshort/Security-at-Cloud-native-Speed.mp4) (right click, Save As...)
 
 {{< speaker >}}

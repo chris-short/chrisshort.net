@@ -189,7 +189,7 @@ Event: [Ansible Automates: Tampa](https://www.eventbrite.com/e/ansible-automates
 
 Video: Ansible and Red Hat Management - better...stronger...faster (source unavailable)
 
-Slides: [Making Red Hat Management Better... Faster... Stronger](https://shortcdn.com/chrisshort/Ansible%20and%20Red%20Hat%20Management_Chris%20Short.pdf)
+Slides: [Making Red Hat Management Better... Faster... Stronger](https://cdn.chrisshort.net/chrisshort/Ansible%20and%20Red%20Hat%20Management_Chris%20Short.pdf)
 
 I also participated in the Ansible Q&A Panel at the end of this event.
 

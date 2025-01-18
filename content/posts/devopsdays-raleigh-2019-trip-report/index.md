@@ -20,7 +20,7 @@ Disclaimer: I work for Red Hat, [my views and opinions are solely mine](/terms/)
 
 I had the pleasure of speaking at and attending [DevOpsDays Raleigh 2019](https://devopsdays.org/events/2019-raleigh/welcome/). First off, this event routinely out punches its weight class as far as quality. Don't get me wrong the McKimmon Center on NC State's campus has gotten very dated but, this five-year-old event keeps getting better.
 
-![DevOpsDays Raleigh 2019 had a packed house](https://shortcdn.com/chrisshort/devopsdays-raleigh-2019-audience.jpg)
+![DevOpsDays Raleigh 2019 had a packed house](https://cdn.chrisshort.net/chrisshort/devopsdays-raleigh-2019-audience.jpg)
 
 Note: If you are not familiar with [DevOpsDays](https://devopsdays.org/), please consider attending one near you in the next year. They are affordable and encourage networking better than most events I've been to. I spoke at my first DevOpsDays in [Detroit in 2016](https://www.devopsdays.org/events/2016-detroit/program/what-the-military-taught-me/). We lived in Raleigh, and I wanted to work for Red Hat. Now we live in Detroit near my wife's family, and I work for Red Hat. ***Who says DevOps doesn't make dreams come true?***
 
@@ -32,7 +32,7 @@ I did an ignite karaoke talk (one minute, four random slides; about how Kubernet
 
 This one minute talk resulted in two folks asking how to [get started contributing to Kubernetes](https://github.com/kubernetes/community/tree/master/contributors/guide). I introduced another speaker to [SIG-Docs' Zach Corleissen](https://github.com/kubernetes/community/tree/master/sig-docs). They were really interested in making the docs easier for their spouse to consume and learn for career advancement.
 
-![Chris Short presenting at DevOpsDays Raleigh 2019](https://shortcdn.com/chrisshort/chris-short-devopsdays-raleigh-2019.jpg)
+![Chris Short presenting at DevOpsDays Raleigh 2019](https://cdn.chrisshort.net/chrisshort/chris-short-devopsdays-raleigh-2019.jpg)
 
 I did my [DevOps is Not War](https://docs.google.com/presentation/d/1-oMxRqk1Xs9mEWKofd3o5QYt2PvIx4ysbVAV5JxLQ24/) talk. It was well-received. But, there were actually folks grabbing me afterward saying I might have just solved a ton of their organizational issues. The persona of people who pulled me aside the most were Business Analysts and technical leads. All of them were trying to figure out how to push "classic" teams into the now. It was a DevOpsDays event, after all.
 

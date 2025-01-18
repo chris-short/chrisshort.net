@@ -23,7 +23,7 @@ title: 'KubeCon + CloudNativeCon NA 2021 — Panel Discussion: Marketing as Cod
 
 Note: The Kubernetes Contributor Communications (Comms) is what replaced Marketing.
 
-Download as [MP4](https://shortcdn.com/chrisshort/Panel_Discussion-Marketing_as_Code-How_to_Rock_Out_with_Non-Code_Contributions.mp4) (right click, Save As...)
+Download as [MP4](https://cdn.chrisshort.net/chrisshort/Panel_Discussion-Marketing_as_Code-How_to_Rock_Out_with_Non-Code_Contributions.mp4) (right click, Save As...)
 
 Source: [Panel Discussion: Marketing as Code: How to Rock Out with Non-Code Contributions](https://youtu.be/rbBmbN3dTHY)
 

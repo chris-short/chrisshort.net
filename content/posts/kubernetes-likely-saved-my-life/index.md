@@ -44,7 +44,7 @@ SIGs have leads. These leads volunteer to provide guidance, continuity, and lead
 
 I built relationships with everyone in Contributor Experience; it felt like home. I also met all the Michigan CNCF Ambassadors (Jorge Castro, Bob Killen, and Jeffrey "Jeefy" Sica) in these meetings (I'd go down to Ann Arbor often in the following years). When I lost all job prospects in late 2017, Dan Kohn at CNCF stepped up to cover my hotel and admission so that I could go to Austin for KubeCon to do some significant job searching. At a crowded hotel bar/restaurant in Austin, Jorge told me I should volunteer to be a CNCF Ambassador (another life-altering event). It also snowed on us in Austin; I was coming from Michigan and was not expecting that. I didn't have a hoodie, jacket, or any outerwear, so I threw on a DigitalOcean hoodie from the show floor and continued my business. Bob and Jeefy have since moved, but for a while there, Michigan had an unusually high number of significant Kubernetes contributors.
 
-[![chris-short Kubernetes Contributions | CNCF ContribCard](https://shortcdn.com/chrisshort/chris-short_CNCF_ContribCard.webp)][19]
+[![chris-short Kubernetes Contributions | CNCF ContribCard](https://cdn.chrisshort.net/chrisshort/chris-short_CNCF_ContribCard.webp)][19]
 
 ## First Signs of Mental Health Trouble
 

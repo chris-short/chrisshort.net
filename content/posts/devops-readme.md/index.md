@@ -24,7 +24,7 @@ title: DevOps README.md
 
 After [DevOpsDays Raleigh 2017](https://www.devopsdays.org/events/2017-raleigh/welcome/) I was going to dinner with friends. Along the way the topic of what's up next came up. I mentioned I had a talk coming up at [All Things Open](https://allthingsopen.org/) but had no idea what I was going to discuss. We began batting ideas around and came up with a few good ones. One that we latched on to was creating a curated list of things to read to level up your [DevOps](https://devopsish.com) skills and knowledge. [DevOps README.md](https://devopsreadme.com/) was born. Today I had the opportunity to trial run the this as an Ignite Talk at [DevOpsDays Detroit 2017](https://www.devopsdays.org/events/2017-detroit/welcome/).
 
-Slides used at the genesis of this list are [available here](https://shortcdn.com/chrisshort/pdf/DevOps%20README.md.pdf).
+Slides used at the genesis of this list are [available here](https://cdn.chrisshort.net/chrisshort/pdf/DevOps%20README.md.pdf).
 
 An up to date version of the contents of this talk are now available at [devopsreadme.com](https://devopsreadme.com)
 
