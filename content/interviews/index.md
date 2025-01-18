@@ -239,7 +239,7 @@ Transcript: [PDF](https://shortcdn.com/chrisshort/pdf/Command_Line_Heroes_Season
 
 Date: 2019-07-17
 
-Source: [030: Cloud Native Ops with Ansible and Kubernetes](https://cloudskills.fm/030)
+Source: [030: Cloud Native Ops with Ansible and Kubernetes](https://web.archive.org/web/20200915184337/https://cloudskills.fm/030)
 
 Download: [MP3](https://shortcdn.com/chrisshort/CloudSkills_Episode_30.mp3)
 
