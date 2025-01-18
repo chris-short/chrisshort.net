@@ -5,7 +5,6 @@ date: "2017-09-08"
 description: Every event should have ignite karaoke with the audience
 tags:
 - talks
-- speaking
 - videos
 - public speaking
 title: DevOpsDays Raleigh 2017 Ignite Karaoke (Part 2)

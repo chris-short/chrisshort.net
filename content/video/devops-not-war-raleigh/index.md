@@ -6,7 +6,6 @@ description: DevOps needs to focus on more than Dev and Ops to be truly transfor
   for an organization. What about your security folks? What about your network team?
 tags:
 - talks
-- speaking
 - videos
 - public speaking
 title: DevOps is Not War - DevOpsDays Raleigh 2019

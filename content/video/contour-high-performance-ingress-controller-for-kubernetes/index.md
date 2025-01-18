@@ -6,7 +6,6 @@ description: In this webinar, Steve Sloka, Sr. Member of Technical Staff at VMwa
   will share how to use Contour and Envoy efficiently in your Kubernetes clusters.
 tags:
 - talks
-- speaking
 - videos
 - public speaking
 - webinar

@@ -7,7 +7,6 @@ description: Ansible is a first-class citizen in the Operator SDK. Using Ansible
   and doing it across new & existing platforms.
 tags:
 - talks
-- speaking
 - videos
 - public speaking
 - webinar

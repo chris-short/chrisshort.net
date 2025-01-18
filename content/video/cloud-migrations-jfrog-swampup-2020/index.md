@@ -5,7 +5,6 @@ date: "2020-06-24"
 description: 'Lesson Learned From Cloud Migrations: Planning is Everything'
 tags:
 - talks
-- speaking
 - videos
 - public speaking
 title: 'Lesson Learned From Cloud Migrations: Planning is Everything — JFrog SwampUP

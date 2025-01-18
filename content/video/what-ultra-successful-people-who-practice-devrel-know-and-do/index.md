@@ -7,7 +7,7 @@ description: 'Join Wesley Faulkner, Sr, Community Manager at AWS and Chris Short
   in the #DevRel space.'
 tags:
 - talks
-- speaking
+- public speaking
 - videos
 - DevRel
 title: What ultra successful people who practice DevRel know and do

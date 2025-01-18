@@ -6,8 +6,8 @@ date: "2021-11-04"
 description: Videos of talks Chris Short has given
 tags:
 - talks
-- speaking
 - videos
+- public speaking
 title: Video Library
 ---
 

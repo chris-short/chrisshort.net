@@ -6,7 +6,6 @@ description: Caleb Hailey will go over best practices for monitoring workloads o
   K8s, including the sidecar pattern for monitoring.
 tags:
 - talks
-- speaking
 - videos
 - public speaking
 - webinar

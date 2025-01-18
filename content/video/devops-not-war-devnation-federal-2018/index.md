@@ -7,7 +7,6 @@ description: History can help prevent conflict when driving change. This talk wi
   to avoid conflict during your DevOps journey.
 tags:
 - talks
-- speaking
 - videos
 - public speaking
 title: DevOps is Not War - DevNation Federal 2018

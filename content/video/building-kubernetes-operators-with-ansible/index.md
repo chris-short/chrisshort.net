@@ -6,7 +6,6 @@ description: 'Red Hat® Summit Virtual Experience: Open House - Building Kuberne
   Operators with Ansible'
 tags:
 - talks
-- speaking
 - videos
 - public speaking
 title: Building Kubernetes Operators with Ansible — Red Hat® Summit Lab

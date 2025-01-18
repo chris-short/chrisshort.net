@@ -7,7 +7,6 @@ description: An important early step (just after 'Orchestration & Application De
   for observability, including monitoring, logging, and tracing.
 tags:
 - talks
-- speaking
 - videos
 - public speaking
 - webinar

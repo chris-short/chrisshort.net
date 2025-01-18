@@ -7,7 +7,6 @@ description: 'Panel Discussion: Marketing as Code: How to Rock Out with Non-Code
   Google; Matt Broberg, Red Hat; Chris Short, Red Hat'
 tags:
 - talks
-- speaking
 - videos
 - public speaking
 - KubeCon

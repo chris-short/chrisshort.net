@@ -7,7 +7,6 @@ description: 'KubeCon + CloudNativeCon EU 2021: How You Can Tell Your Kubernetes
   Peeyush Gupta, DigitalOcean'
 tags:
 - talks
-- speaking
 - videos
 - public speaking
 - KubeCon

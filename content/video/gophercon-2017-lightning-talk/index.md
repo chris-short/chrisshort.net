@@ -10,7 +10,6 @@ tags:
 - golang
 - devops
 - talks
-- speaking
 - videos
 - public speaking
 title: GopherCon 2017 Lightning Talk Video

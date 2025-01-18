@@ -7,7 +7,7 @@ description: The Ansible community has begun the journey of providing our users 
   this journey started, where we are currently, and where we would like some feedback.
 tags:
 - talks
-- speaking
+
 - videos
 - public speaking
 - webinar

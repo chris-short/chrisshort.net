@@ -6,7 +6,6 @@ description: Chris Short sits down with KubeCon speakers, attendees, and Cloud N
   contributors for the KubeCon NA 2021 (Los Angeles) wrap up show on Day 0 of KubeCon.
 tags:
 - talks
-- speaking
 - videos
 - public speaking
 title: 'KubeCon + CloudNativeCon Daily Wrap Up: Tuesday — KubeCon + CloudNativeCon
