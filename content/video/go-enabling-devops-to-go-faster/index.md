@@ -5,7 +5,6 @@ date: "2018-01-31"
 description: ""
 tags:
 - talks
-- speaking
 - videos
 - public speaking
 title: 'Go: Enabling DevOps to Go Faster — Orchestructure January 2018'

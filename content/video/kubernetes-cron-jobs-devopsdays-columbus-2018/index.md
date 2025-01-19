@@ -5,7 +5,6 @@ date: "2019-10-23"
 description: 'In this talk, we discuss Kubernetes'' killer feature: Cron Jobs'
 tags:
 - talks
-- speaking
 - videos
 - public speaking
 title: 'Kubernetes Cron Jobs: Dreams Really Do Come True — DevOpsDays Columbus 2018'

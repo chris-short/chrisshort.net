@@ -15,7 +15,6 @@ tags:
 - ARM
 - data
 - perfection
-- speaking
 - developer experience
 - platform
 - events

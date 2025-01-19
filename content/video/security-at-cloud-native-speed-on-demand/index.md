@@ -7,7 +7,6 @@ description: Solid practices around applying gates during CI/CD,the critical fea
   leveraging automation to retain velocity
 tags:
 - talks
-- speaking
 - videos
 - public speaking
 - webinar

@@ -7,7 +7,6 @@ description: People think that DevOps, Cloud Native, Agile, GROWS, etc. are all 
   unit to change.
 tags:
 - talks
-- speaking
 - videos
 - public speaking
 title: The Dark Side of DevOps — JFrog swampUP 2019

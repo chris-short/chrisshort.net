@@ -6,7 +6,6 @@ description: 'Chris Short presents his talk, Security at Cloud Native Speed, at 
   CNCF Eastern Canadian Meetup: October 2020'
 tags:
 - talks
-- speaking
 - videos
 - public speaking
 title: 'Security at Cloud Native Speed — CNCF Eastern Canadian Meetup: October 2020'
