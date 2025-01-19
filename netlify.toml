@@ -101,4 +101,4 @@ Strict-Transport-Security = 'max-age=63072000; includeSubDomains; preload'
 X-Content-Type-Options = 'nosniff'
 X-Frame-Options = 'DENY'
 X-XSS-Protection = '1; mode=block'
-Content-Security-Policy = "default-src 'self'; script-src 'self' cdn.usefathom.com speakerdeck.com platform.twitter.com; img-src 'self' imgs.xkcd.com live.staticflickr.com; connect-src 'self'; object-src 'none'; media-src 'none'; frame-src 'self' www.youtube-nocookie.com w.soundcloud.com docs.google.com iframe.mediadelivery.net; child-src 'none'; frame-ancestors 'none'"
+Content-Security-Policy = "default-src 'self'; base-uri 'self'; script-src 'self' 'nonce-Ewo7GNsCtqgwpBwk9TGZ9w==' 'strict-dynamic' 'unsafe-inline' 'wasm-unsafe-eval' speakerdeck.com platform.twitter.com cdn.usefathom.com; img-src 'self' live.staticflickr.com imgs.xkcd.com; connect-src 'self'; object-src 'none'; media-src 'none'; frame-src 'self' w.soundcloud.com docs.google.com iframe.mediadelivery.net www.youtube-nocookie.com; child-src 'none'; frame-ancestors 'none'; require-trusted-types-for 'script'; trusted-types default"
