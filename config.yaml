@@ -1,16 +1,17 @@
 # hugo.yaml
 baseURL: https://chrisshort.net/
 buildDrafts: false
-buildFuture: false
 buildExpired: false
+buildFuture: false
 canonifyURLs: true
+description: "Chris makes complex tech accessible and understandable by combining military experience with cloud expertise to help others with life, DevOps, and Kubernetes."
+enableInlineShortcodes: true
 keywords: [Chris Short, Blog, Microblog, Talks, Speaking, Interviews, Open Source, DevOps, Cloud Native]
 languageCode: en-us
+pygmentsUseClasses: true
 theme: ["github.com/adityatelange/hugo-PaperMod"]
 timeZone: "America/Detroit"
 title: Chris Short
-enableInlineShortcodes: true
-pygmentsUseClasses: true
 taxonomies:
   tag: tags
   series: series
@@ -48,15 +49,14 @@ params:
     iconHeight: 48
     iconWidth: 48
   mainSections:
-    - about
     - abstracts
     - blog
     - drawings
     - interviews
-    - micro
+    - microblog
     - projects
     - speaking
-    - speed
+    - speedtest
     - video
   profileMode:
     buttons:
@@ -79,7 +79,7 @@ params:
       - name: "Drawings"
         url: "/drawings"
       - name: "Speed Test"
-        url: "/speed"
+        url: "/speedtest"
       - name: Résumé
         url: "/resume"
       - name: "Contact"
@@ -145,6 +145,8 @@ params:
       url: "https://www.instagram.com/thechrisshort/"
     - name: "threads"
       url: "https://www.threads.net/@thechrisshort"
+    - name: "twitter"
+      url: "https://twitter.com/ChrisShort"
     - name: "goodreads"
       url: "https://www.goodreads.com/user/show/38034985-chris-short"
     - name: "email"
@@ -182,14 +184,14 @@ privacy:
   googleAnalytics:
     disable: true
   instagram:
-    disable: false
+    disable: true
     simple: false
   twitter:
-    disable: false
+    disable: true
     enableDNT: true
     simple: false
   vimeo:
-    disable: false
+    disable: true
     simple: false
   youtube:
     disable: false
