@@ -6,6 +6,7 @@ aliases:
 - test
 - openspeed
 - fast
+- speed
 author: Chris Short
 date: "2024-01-08"
 description: Test your internet connection with OpenSpeedTest
@@ -16,6 +17,8 @@ tags:
 title: Speed Test
 ---
 
-This runs 100% in your browser and no data is saved on this website.
+No data is collected by this website or Chris Short. This runs 100% in your browser.
+
+Bookmark it for later!
 
 {{< openspeedtest >}}
