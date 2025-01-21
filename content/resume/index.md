@@ -148,7 +148,7 @@ Senior developer advocate and technical marketing leader with 30 years of experi
 
 ## Education and Certifications
 
-* AAS, Community College of the Air Force, Electronic Systems Technology, Aug 2010
+* AAS, Community College of the Air Force, Electronic Systems Technology
 * CompTIA Network+ (Verification [ZZ6VGN6LSCBEYCBN](https://shortcdn.com/chrisshort/pdf/CompTIA-Network-certificate.pdf))
 * Red Hat Certified System Administrator (RHEL 6 — Certification ID: [120-179-858](https://www.redhat.com/rhtapps/services/verify/?certId=120-179-858))
 * Enterasys Certified Specialist — Switching NMS (License a1780000000eXhqAAE)
