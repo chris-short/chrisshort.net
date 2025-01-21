@@ -12,7 +12,7 @@ tags:
 title: What the Military Taught Me About DevOps - DevOpsDays Toronto 2018
 ---
 
-{{< youtube TIE1rKkJWyY >}}
+{{< streaming 47f6f982-46b7-4e5b-a0b0-00119d8041aa >}}
 
 {{< carbon >}}
 

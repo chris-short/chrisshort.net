@@ -12,7 +12,7 @@ tags:
 title: Burnout++ - DevOpsDays Detroit 2023
 ---
 
-{{< youtube v_hM3VkDoeA >}}
+{{< streaming 6d8ae962-e227-4f3b-9b2d-e79e2ebf3fc5 >}}
 
 {{< carbon >}}
 

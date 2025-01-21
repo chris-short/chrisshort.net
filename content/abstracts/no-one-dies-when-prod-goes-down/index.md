@@ -26,13 +26,12 @@ Numerous talks have described how NASA, the US military, and countless other ent
 * Brands
 * Experience
 * Disabled Veteran
-* [https://cshort.co/veteran](https://cshort.co/veteran)
 
 ### Background
 
-This talk is a spinoff of the talk [DevOps is Not War](https://chrisshort.net/chefconf-2018-devops-is-not-war/). It dives into themes around conflict management in digital transformations. Using examples from 500 years of history it details how to better navigate change.
+This talk is a spinoff of the talk [DevOps is Not War](/chefconf-2018-devops-is-not-war). It dives into themes around conflict management in digital transformations. Using examples from 500 years of history it details how to better navigate change.
 
-{{< youtube MDu6wL1DWY4 >}}
+{{< streaming 2a5b396e-5f26-42d9-93e0-5589815ff868 >}}
 
 ### Incident Response in Your Org
 

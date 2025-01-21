@@ -10,7 +10,7 @@ tags:
 title: The Dark Side of DevOps — DevOpsDays Raleigh 2017
 ---
 
-{{< youtube P6Wvt5GUvlU >}}
+{{< streaming 366e6462-57b9-489b-92ec-64241b52fc3b >}}
 
 {{< carbon >}}
 

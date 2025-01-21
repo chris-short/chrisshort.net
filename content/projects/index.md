@@ -12,7 +12,7 @@ Like anyone who has worked on the web long enough, I have a lot of side things I
 
 ## Internal Projects
 
-Things hosted here on [chrisshort.net](https://chrisshort.net)
+Things hosted here on [chrisshort.net](/)
 
 ### [Drawings](/drawings/)
 
@@ -92,7 +92,7 @@ Analytics: <https://app.usefathom.com/share/zoibslyn/kubereadme.com>
 
 [DevOps README.md](https://devopsreadme.com/): What books 📚 to read to learn more about DevOps.
 
-{{< youtube Ibnj-YZTypU >}}
+{{< streaming d171c15d-ba1c-43c7-8aac-f21ca8ef3a51 >}}
 
 Source: [DevOps-README.md](https://github.com/chris-short/devopsreadme.com)  
 Analytics: <https://app.usefathom.com/share/zjfvvlgv/devopsreadme.com>

@@ -10,7 +10,7 @@ tags:
 title: DevOps README.md — DevOpsDays Detroit 2017
 ---
 
-{{< youtube hJDp6CLvTAQ >}}
+{{< streaming d171c15d-ba1c-43c7-8aac-f21ca8ef3a51 >}}
 
 {{< carbon >}}
 

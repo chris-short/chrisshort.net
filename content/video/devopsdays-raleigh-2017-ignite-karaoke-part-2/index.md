@@ -10,7 +10,7 @@ tags:
 title: DevOpsDays Raleigh 2017 Ignite Karaoke (Part 2)
 ---
 
-{{< youtube Pz2r2eDCR74 >}}
+{{< streaming 9f120668-d1a5-4d28-bbe3-4cc43ad59770 >}}
 
 {{< carbon >}}
 

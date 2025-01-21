@@ -28,6 +28,12 @@ tags:
 title: The AWS bill heard around the world
 ---
 
+## Update
+
+I joined Rob Hirschfeld on the [The 2030 Cloud](https://the2030.cloud/2021/07/19/security-open-links-and-big-aw-bills-w-chris-short-distance-devops-16/) where we discussed some additional behind the scenes investigatory work that went on by a nameless Amazon Web Services (AWS) employee.
+
+{{< streaming ddaed974-5266-4a35-9f48-bccd4a6b5f95 >}}
+
 ## Summary
 
 Here's a summary in case you just got a scary AWS bill:
@@ -38,12 +44,6 @@ I received an AWS bill for $2,700, which was much higher than expected. I traced
 
 My experience highlights the importance of understanding how AWS billing works and how to control your costs. He also recommends using a cloud cost management tool to help you track your spending.
 
-## Update
-
-I joined Rob Hirschfeld on the [The 2030 Cloud](https://the2030.cloud/2021/07/19/security-open-links-and-big-aw-bills-w-chris-short-distance-devops-16/) where we discussed some additional behind the scenes investigatory work that went on by a nameless Amazon Web Services (AWS) employee.
-
-{{< youtube asTE7JbNRXw >}}
-
 ## Scene
 
 It was a bright, Saturday morning, July 4, 2020. I had just gotten Max all situated with breakfast and cartoons (Mighty Mike, if you're curious). Julie was sleeping in like she usually does on every day I have off. I'm an early riser and this is a cherished part of our co-parenting. It gives Max and I time to bond (when he's not stuffing his face and laughing at cartoons). I sat down with my laptop to plow through the week's personal email.
@@ -51,8 +51,6 @@ It was a bright, Saturday morning, July 4, 2020. I had just gotten Max all situa
 ### The e-mail
 
 "Oh look, the AWS bill, I should have a laugh at that," I thought to myself. Until recently, it had been pennies a month for some very light SES usage. In February, I moved off Google Cloud back to AWS. The primary motivation was that Google had so intertwined GSuite and GCP IAM that it became overly confusing.
-
-{{< carbon >}}
 
 Along with that migration came the CDN for this web site (shortcdn.com). I mean a Cloudflare fronted S3 bucket that holds assets deemed too big for git when I say CDN. It's not even [ChrisShort.net](https://chrisshort.net) itself, as it is hosted on Netlify's CDN and every other static site I own or manage. I've been a Cloudflare user for a long time. The CDN is less than 300 files and has existed for over five years on various clouds. Moving it back to AWS from GCP bumped the AWS bill to an average of $23/month. Not too bad given the [site's traffic](https://app.usefathom.com/share/suwvjwwc/chrisshort.net).
 

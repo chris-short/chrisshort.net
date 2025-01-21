@@ -15,7 +15,7 @@ title: 'KubeCon + CloudNativeCon EU 2021: How You Can Tell Your Kubernetes Contr
   Peeyush Gupta, DigitalOcean'
 ---
 
-{{< youtube Y9Umfsig6WQ >}}
+{{< streaming 37b9c1ac-4385-4109-9a32-efbc2af2b516 >}}
 
 {{< carbon >}}
 

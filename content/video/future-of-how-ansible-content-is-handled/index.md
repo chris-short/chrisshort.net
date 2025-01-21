@@ -14,7 +14,7 @@ tags:
 title: 'Webinar: The future of how Ansible content is handled'
 ---
 
-{{< youtube CGjDarrqBjg >}}
+{{< streaming c9c65ed2-ee85-4fdc-93e7-cb3cdb022b4f >}}
 
 {{< carbon >}}
 

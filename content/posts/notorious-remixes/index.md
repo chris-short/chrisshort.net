@@ -66,11 +66,11 @@ There are also some pretty good Notorious B.I.G. mashup/remix singles that are w
 
 ### Tupac - Runnin' (Dying To Live) Ft. Notorious B.I.G.
 
-{{< youtube IsHBnS3ZLSY >}}
+{{< streaming 436fd595-25c9-49bd-8b22-5913de7af247 >}}
 
 ### Victory (Nine Inch Nails Remix) - Puff Daddy and the Family, The Notorious B.I.G., and Busta Rhymes
 
-{{< youtube EoAXc9Rm8Z8 >}}
+{{< streaming db8eebf6-b548-4b98-9f52-40ee7c0bcbb0 >}}
 
 ### Mo Free Mo Fallin
 

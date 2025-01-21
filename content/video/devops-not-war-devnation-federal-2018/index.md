@@ -12,7 +12,7 @@ tags:
 title: DevOps is Not War - DevNation Federal 2018
 ---
 
-{{< youtube bnyDETdyNfw >}}
+{{< streaming 11781974-d057-4b1b-8f25-f5dea71430b8 >}}
 
 {{< carbon >}}
 

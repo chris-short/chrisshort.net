@@ -14,7 +14,7 @@ title: 'KubeCon + CloudNativeCon NA 2021 — Panel Discussion: Marketing as Cod
   to Rock Out with Non-Code Contributions'
 ---
 
-{{< youtube rbBmbN3dTHY >}}
+{{< streaming d59dfada-236d-49f0-9079-d072a8d9c016 >}}
 
 {{< carbon >}}
 

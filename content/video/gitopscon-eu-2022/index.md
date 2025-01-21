@@ -17,7 +17,7 @@ All GitOpsCon EU 2022 videos are available in a [YouTube playlist](https://youtu
 
 ## GitOps As a Journey - Dan Garfield, Codefresh; Scott Rigby, Weaveworks & Chris Short, AWS
 
-{{< youtube LQgsxT3SlN8 >}}
+{{< streaming 9a2f3131-5c58-4cd5-8e1e-a9ba2a76e2a2 >}}
 
 {{< carbon >}}
 
@@ -29,7 +29,7 @@ Source: [GitOps As a Journey - Dan Garfield, Codefresh; Scott Rigby, Weaveworks 
 
 ## CTA | How to Get involved + Project Update - What's Next - Dan Garfield, Scott Rigby & Chris Short
 
-{{< youtube 0zDzH6KRHMs >}}
+{{< streaming feb48ede-41bb-4f9f-9ed0-8c079590efdb >}}
 
 > How to get involved in the OpenGitOps project: Showing up is 80% of the work
 

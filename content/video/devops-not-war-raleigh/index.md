@@ -11,7 +11,7 @@ tags:
 title: DevOps is Not War - DevOpsDays Raleigh 2019
 ---
 
-{{< youtube eKOGQKHOBNg >}}
+{{< streaming 2ad2eb90-754c-4293-8b36-434c44d4f29d >}}
 
 {{< carbon >}}
 

@@ -11,7 +11,7 @@ tags:
 title: 'Security at Cloud Native Speed — CNCF Eastern Canadian Meetup: October 2020'
 ---
 
-{{< youtube "l_EEZV1P15U?t=1233" >}}
+{{< streaming ddaed974-5266-4a35-9f48-bccd4a6b5f95 >}}
 
 {{< carbon >}}
 
