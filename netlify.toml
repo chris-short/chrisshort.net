@@ -39,7 +39,7 @@ force = true
 
 [[redirects]]
 from = "/page/*"
-to = "/blog/page/*"
+to = "/blog/page/:splat"
 status = 301
 force = true
 
@@ -56,8 +56,8 @@ status = 302
 force = true
 
 [[redirects]]
-from = "/categories*"
-to = "/tags"
+from = "/categories/*"
+to = "/tags/:splat"
 status = 301
 force = true
 
@@ -87,7 +87,7 @@ force = true
 
 [[redirects]]
 from = "/drawings/diy-buffer-using-ifttt/"
-to = "/"
+to = "/drawings"
 status = 301
 force = true
 
