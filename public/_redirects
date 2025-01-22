@@ -19,9 +19,6 @@
 /verify-ashleymcnamara https://github.com/chris-short/chrisshort.net/blob/main/content/post/verify-ashleymcnamara/index.md 301
 /weather-in-your-ios-and-macos-calendars https://github.com/chris-short/chrisshort.net/blob/main/content/post/weather-in-your-ios-and-macos-calendars/index.md 301
 
-# Other
-/archive /blog 302
-
 # From netlify.toml
 https://chrisshort.netlify.app/*            https://chrisshort.net/:splat 301!
 /page/*                                     /blog/page/:splat 301!
