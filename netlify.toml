@@ -31,66 +31,6 @@ HUGO_VERSION = "0.140.2"
 [context.next.environment]
 HUGO_ENABLEGITINFO = "true"
 
-[[redirects]]
-from = "https://chrisshort.netlify.app/*"
-to = "https://chrisshort.net/:splat"
-status = 301
-force = true
-
-[[redirects]]
-from = "/page/*"
-to = "/blog/page/:splat"
-status = 301
-force = true
-
-[[redirects]]
-from = "/prow-and-tide-for-kubernetes-contributors/"
-to = "https://www.kubernetes.dev/blog/2022/12/12/prow-and-tide-for-kubernetes-contributors/"
-status = 301
-force = true
-
-[[redirects]]
-from = "/firehose*"
-to = "https://devopsish.com/firehose"
-status = 302
-force = true
-
-[[redirects]]
-from = "/categories/*"
-to = "/tags/:splat"
-status = 301
-force = true
-
-[[redirects]]
-from = "/curriculum-vitae/Chris-Short-Resume.pdf*"
-to = "/resume/Chris-Short-Resume.pdf*"
-status = 301
-force = true
-
-[[redirects]]
-from = "/newsletter"
-to = "https://devopsish.com/"
-status = 302
-force = true
-
-[[redirects]]
-from = "/archive"
-to = "/tags"
-status = 301
-force = true
-
-[[redirects]]
-from = "/archives"
-to = "/tags"
-status = 301
-force = true
-
-[[redirects]]
-from = "/drawings/diy-buffer-using-ifttt/"
-to = "/drawings"
-status = 301
-force = true
-
 [[headers]]
 for = "/*"
 [headers.values]
