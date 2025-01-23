@@ -111,11 +111,11 @@ I tried to set the record straight early on but was asked to delete this tweet (
 
 Later, Kim tagged me in a reply to a tweet from [Swarna Podila](https://twitter.com/skpodila/)...
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">I'll be there too!!! Thinking of holding ‘office hours' &lt;wink wink&gt; at the Sheraton Sunday night in the lobby bar. I think the amazing <a href="https://twitter.com/ChrisShort?ref_src=twsrc%5Etfw">@ChrisShort</a> will join. Swarna, when do you arrive?</p>&mdash; Kim McMahon - Winter Park ☀️⛰️🌲🐕🍷 (@kamcmahon) <a href="https://twitter.com/kamcmahon/status/1070707964011368448?ref_src=twsrc%5Etfw">December 6, 2018</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+> I'll be there too!!! Thinking of holding ‘office hours' &lt;wink wink&gt; at the Sheraton Sunday night in the lobby bar. I think the amazing @ChrisShort will join. Swarna, when do you arrive? Kim McMahon - Winter Park ☀️⛰️🌲🐕🍷, December 6, 2018
 
 I added my tweet tagging a few people to let them know what was going on...
 
-<blockquote class="twitter-tweet"><p lang="und" dir="ltr">FYI <a href="https://twitter.com/nathenharvey?ref_src=twsrc%5Etfw">@nathenharvey</a> <a href="https://twitter.com/amanda_katona?ref_src=twsrc%5Etfw">@amanda_katona</a> <a href="https://twitter.com/cra?ref_src=twsrc%5Etfw">@cra</a> <a href="https://twitter.com/mbbroberg?ref_src=twsrc%5Etfw">@mbbroberg</a> <a href="https://twitter.com/jrrickard?ref_src=twsrc%5Etfw">@jrrickard</a></p>&mdash; Chris Short (@ChrisShort) <a href="https://twitter.com/ChrisShort/status/1070708893460910080?ref_src=twsrc%5Etfw">December 6, 2018</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+> FYI @nathenharvey, @amanda_katona, @cra, @mbbroberg, @jrrickard — Chris Short, December 6, 2018
 
 Then things took on a life of their own. I grabbed my phone at one point and it was obvious it had restarted. Opening Twitter at one point made my iPhone Xs Max hot. If you don't think it blew up a few peoples' phones, check out this tree of the Twitter thread:
 
@@ -125,11 +125,7 @@ Then things took on a life of their own. I grabbed my phone at one point and it 
 
 [Bob Killen](https://twitter.com/MrBobbyTables) brought us the fantastic `:khanparrot:` which is available in the Kubernetes Slack and as a higher resolution [Khan Parrot GIF](/2018-learnings-2019-expectations/kubekhan-parrot.gif).
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">:khanparrot: <a href="https://t.co/eTL1EXxgj4">pic.twitter.com/eTL1EXxgj4</a></p>&mdash; Bob Killen (@MrBobbyTables) <a href="https://twitter.com/MrBobbyTables/status/1071566233424646145?ref_src=twsrc%5Etfw">December 9, 2018</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
 [Vallery Lancey](https://twitter.com/vllry) did the amazing KubeKhan stickers. She was also a driving force in spreading the message. She was even named [the first official KubeKhan Ambassador](https://twitter.com/vllry/status/1078477965015445504). And there are rumors about a KubeKhan Barcelona in 2019.
-
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Find me tomorrow!!! <a href="https://t.co/kOTO2Qzgf3">pic.twitter.com/kOTO2Qzgf3</a></p>&mdash; Vallery Lancey (@vllry) <a href="https://twitter.com/vllry/status/1072738257387962368?ref_src=twsrc%5Etfw">December 12, 2018</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 None of this might have happened if it weren't for Kim McMahon. She opened a way to create a safe space for folks to gather. Making sure folks saw everyone they could during KubeCon. For that, I am truly thankful.
 

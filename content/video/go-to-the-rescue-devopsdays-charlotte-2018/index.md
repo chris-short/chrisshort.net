@@ -13,7 +13,7 @@ title: 'Golang to the rescue: Saving DevOps from TLS turmoil — DevOpsDays Cha
   2018'
 ---
 
-{{< youtube -jg_SyoIIsA >}}
+{{< streaming 50fc5408-36a6-4f97-b5de-7dff746b1b4e >}}
 
 {{< carbon >}}
 

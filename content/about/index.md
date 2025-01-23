@@ -4,7 +4,17 @@ title: "About Chris Short"
 date: "2016-04-17"
 description: "About Chris Short"
 summary: "Learn more about Chris Short"
-tags: ["about"]
+tags:
+- About
+- Chris Short
+- Cloud Native
+- Detroit
+- DevOps
+- Kubernetes
+- Kubernetes contributor
+- disabled veteran
+- open source
+- tech
 ShowTOC: true
 TOCOpen: true
 ---
@@ -23,13 +33,13 @@ Open Source | DevOps | Kubernetes Contributor | r/devopsish | Disabled Veteran |
 
 Meet Chris Short, a seasoned professional with a remarkable journey in the Information Technology field beginning in his youth in 1995. His first steps into the tech world were taken during summers and vacations while working for manufacturing and textile companies, where he quickly developed a keen interest in the ever-evolving tech sector.
 
-During his senior year in high school, Chris made his mark as the webmaster at sandtech.net, a dial-up Internet Service Provider based in Hickory, NC. During this time, he found his passion for Linux, embracing it as an alternative platform in the predominantly Windows-oriented late '90s tech landscape.
+During his senior year in high school, Chris made his mark as the webmaster at [SandTech.net](https://web.archive.org/web/20170610072205/http://sandtech.net/), a dial-up Internet Service Provider based in Hickory, NC. During this time, he found his passion for Linux embracing it as an alternative platform in the predominantly Windows-oriented late '90s tech landscape.
 
 In response to changes in the job market from the [Dot-com bubble burst](https://en.wikipedia.org/wiki/Dot-com_bubble), Chris joined the US Air Force as a [Tech Controller (3C2X1)](/3c2x1-tech-control/), displaying a deep sense of dedication and service to others. Over eleven years, he served at four duty stations, including Langley AFB, VA; MacDill AFB, FL; Buckley AFB, CO; and Pope AFB, NC. Throughout his service, Chris participated in various exercises globally and underwent deployments to regions like the Middle East and Central America. During his service, he served under three US Presidents: Clinton, Bush, and Obama, which provided him with new and unique experiences and perspectives.
 
 In 2003, Chris encountered an unfortunate injury that affected his [long thoracic nerve](/long-thoracic-nerve-palsy/), neck, spine, and shoulder during a training exercise (after two deployments to the Middle East). Despite this challenge, he remained resilient and continued to excel, even amidst continuous pain. His dedication and exceptional performance were recognized when he received the Air Force Communications-Computer Systems Outstanding NCO of the Year for Pope Air Force Base in 2008. Ultimately, in 2010, Chris was medically separated from the Air Force during the drawdowns in Iraq and Afghanistan, marking the end of a significant chapter in his life.
 
-Today, Chris has found his passion in the [open source](/tags/open-source/), [Linux](/tags/linux/), [Cloud Native](/tags/cloud-native/) (and [Kubernetes](/tags/kubernetes)), and [DevOps](https://devopsish.com/what-is-devops/) domains, where he continues to make valuable contributions. With his home base in the Greater Metro Detroit area, Chris's [Résumé](/resume/?ref=about) or [Curriculum Vitae](/resume/?ref=about) showcases his extensive knowledge and diverse experiences. His journey is a testament to his commitment to technology and innovation, inspiring others in the tech community through his humility and expertise.
+Today, Chris has found his passion in the [open source](/tags/open-source/), [Linux](/tags/linux/), [Cloud Native](/tags/cloud-native/) (and [Kubernetes](/tags/kubernetes)), and [DevOps](https://devopsish.com/what-is-devops/) domains, where he continues to make valuable contributions. With his home base in the Greater Metro Detroit area, Chris's [Résumé](/resume/?ref=about) (complete work history as well) showcases his extensive knowledge and diverse experiences. His journey is a testament to his commitment to technology and innovation, inspiring others in the tech community through his humility and expertise.
 
 ## Headshot
 

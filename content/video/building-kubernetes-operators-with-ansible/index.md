@@ -11,7 +11,7 @@ tags:
 title: Building Kubernetes Operators with Ansible — Red Hat® Summit Lab
 ---
 
-{{< youtube "6scP0L1oCP4?t=302" >}}
+{{< streaming 6097fdab-b8a8-4fb7-8d89-a03cc1c82b66 >}}
 
 {{< carbon >}}
 

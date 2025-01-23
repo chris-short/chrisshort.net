@@ -14,7 +14,7 @@ title: 'Webinar: The top 7 most useful Kubernetes APIs for comprehensive cloud n
   observability'
 ---
 
-{{< youtube 5LjTApwydao >}}
+{{< streaming f1690fd2-dcd4-480a-a192-029d359ced6d >}}
 
 {{< carbon >}}
 

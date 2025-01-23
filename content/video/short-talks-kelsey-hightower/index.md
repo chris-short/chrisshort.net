@@ -14,7 +14,7 @@ tags:
 title: 'Short Talks: A Conversation with Kelsey Hightower'
 ---
 
-{{< youtube YYHp0oksor4 >}}
+{{< streaming eb604971-fdd1-4400-bf26-399a801ed29a >}}
 
 {{< carbon >}}
 

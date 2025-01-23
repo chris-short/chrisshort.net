@@ -13,7 +13,7 @@ tags:
 title: 'Webinar: KubeVirt - Beyond Containers: Coming full circle back to VMs!'
 ---
 
-{{< youtube ULDG6udoVts >}}
+{{< streaming f4f5c716-e421-4a95-afc1-4fd4b7d05da5 >}}
 
 {{< carbon >}}
 

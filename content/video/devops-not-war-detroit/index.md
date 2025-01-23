@@ -12,7 +12,7 @@ tags:
 title: DevOps is Not War - DevOpsDays Detroit 2019
 ---
 
-{{< youtube x8p9-GIVPos >}}
+{{< streaming a9e253b4-a45b-47fa-961b-d3a12dbf1326 >}}
 
 {{< carbon >}}
 

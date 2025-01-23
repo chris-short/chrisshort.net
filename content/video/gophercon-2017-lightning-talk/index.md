@@ -15,7 +15,7 @@ tags:
 title: GopherCon 2017 Lightning Talk Video
 ---
 
-{{< youtube nIlM_HUfyw0 >}}
+{{< streaming d60aafa5-af33-42f3-bcc5-921234df7094 >}}
 
 {{< carbon >}}
 

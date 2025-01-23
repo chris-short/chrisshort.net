@@ -12,7 +12,7 @@ tags:
 title: 'Webinar: Monitoring Kubernetes Workloads: The Sidecar Pattern'
 ---
 
-{{< youtube X14nPCoNUg0 >}}
+{{< streaming ab909753-89e1-43f3-8a99-288df7fc6f50 >}}
 
 {{< carbon >}}
 

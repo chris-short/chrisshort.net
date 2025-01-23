@@ -12,7 +12,7 @@ title: 'KubeCon + CloudNativeCon Daily Wrap Up: Tuesday — KubeCon + CloudNati
   NA 2021'
 ---
 
-{{< youtube JOvp4o09fZs >}}
+{{< streaming da08e702-55d6-4c23-b741-57dc55944d90 >}}
 
 {{< carbon >}}
 

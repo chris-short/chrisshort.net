@@ -12,7 +12,7 @@ tags:
 title: 'Roaring Elephant CI/CD Chris Short: Part 1'
 ---
 
-{{< youtube 3dGESuSggW0 >}}
+{{< streaming 72dd601b-0bfd-4583-ba51-b5e79b04473e >}}
 
 {{< carbon >}}
 

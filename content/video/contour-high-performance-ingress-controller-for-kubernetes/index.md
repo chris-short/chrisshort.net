@@ -12,7 +12,7 @@ tags:
 title: 'Webinar: Contour - High performance ingress controller for Kubernetes'
 ---
 
-{{< youtube 764YUk-wSa0 >}}
+{{< streaming a2033071-5917-4513-852a-d0de96d225ff >}}
 
 {{< carbon >}}
 
