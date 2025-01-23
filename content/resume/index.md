@@ -5,7 +5,7 @@ aliases:
 - /curriculum-vitae
 author: Chris Short
 date: "2019-08-18"
-lastmod: "2025-01-09"
+lastmod: "2025-01-23"
 description: Seasoned developer advocate and technical leader with over 30 years of experience spanning IT operations, DevOps, and technical marketing. Transforms complex technologies into understandable solutions that drive business value.
 tags:
 - résumé
@@ -27,17 +27,17 @@ Senior developer advocate and technical marketing leader with 30 years of experi
 
 ### Senior Developer Advocate, Amazon Web Services — Commerce, MI — Oct 2021 to Present
 
-* Led key components of Valkey's developer engagement strategy through targeted content creation and global event representation, resulting in increased project participation and product adoption
-* Organized and led Amazon's expansive 50+ speaker, 30+ session re:Invent 2023 Kubernetes and Containers track, increased customer satisfaction (CSAT) scoring metrics for track
-* Taught AWS devs how to do open source for Finch; worked with the dev team to create a build, pull, push, run tool; consulted on tough strategy decisions; built public-facing infrastructure for release
-* Produced multiple AWS Open Source Partner videos in-studio; simplified technical language for a broader audience, drove understanding between partners, product marketing, and program teams
+* Led key components of Valkey's developer engagement strategy through targeted content creation and global event representation, resulting in Valkey becoming the defacto Redis fork worldwide
+* Organized and led Amazon's expansive 50+ speaker, 30+ session re:Invent 2023 Kubernetes and Containers track, increased customer satisfaction (CSAT) scoring metrics YoY for track
+* Taught AWS devs how to do open source for Finch; worked with the dev team to create a build, pull, push, run tool; consulted on strategy, design, and release content; >2K GitHub stars in two weeks
 * Updated the AWS Open Source website; analyzed metrics, established benchmarks, improved performance, and SEO metrics. Updated to the latest design standards. #1 Google rankings.
-* Launched EKS.news, a newsletter covering the latest updates on Amazon Elastic Kubernetes Service (EKS): an additional mechanism to inform customers about new features and updates
-* Trained Kubernetes Product Marketing team in the ways of open source and more about how the CNCF and Kubernetes ecosystem works; used training to provide essential knowledge to the team
-* Authored Amazon EKS 1.22 & 1.23 release blogs; updated customers on critical product changes
-* Co-lead Kubernetes Contributor Comms team, spreading the word about significant events in the Kubernetes community, including event comms, crisis comms, ecosystem changes, and socials
+* Launched EKS.news, a newsletter covering the latest updates on Amazon Elastic Kubernetes Service (EKS): an additional mechanism to inform customers on new features and changes
+* Trained Kubernetes Product Marketing team on open source; how the cloud native ecosystem works; created and executed training materials for PMMs; exceeded 3P event CSAT goals
+* Authored Amazon EKS 1.22 & 1.23 release blogs; thousands of views by global customers
+* Co-lead Kubernetes Contributor Comms: sharing messaging on changes in project; duties include leading the team in creating event comms, crisis comms, and social media; awarded in 2023
 * Produced/Hosted Kubernetes Day 0 event AWS Container Day at KubeCon EU 2023 Amsterdam
-* Organized and ran GitOpsCon EU 2021, including everything from marketing, talk selection, and hosting the event with fellow organizers
+* Organized and ran GitOpsCon EU 2021, including marketing, speaker selection, and hosting the event with fellow organizers. 300+ attendees; top two for attendance at Day 0 KubeCon 2021 event
+* Produced multiple AWS Open Source Partner videos in-studio; simplified technical language for a broader audience, drove understanding between partners, product marketing, and video teams
 
 ### Cloud Native Ambassador, Cloud Native Computing Foundation (CNCF) — Commerce, MI — Jan 2018 to February 2023
 
@@ -49,24 +49,23 @@ Senior developer advocate and technical marketing leader with 30 years of experi
 
 ### Principal Technical Marketing Manager, Red Hat — Commerce, MI — Aug 2019 to Oct 2021
 
-* OpenShift.TV Executive Producer: in charge of finding content, talent, showrunning, marketing, growth, and facilitating technical components of live productions
-* Training others in how to make use of the infrastructure in place for OpenShift.TV to grow the channel's bench of hosts and producers across the globe
-* Turned OpenShift.TV into a Red Hat corporate branded product: [Red Hat Live Streaming](https://www.redhat.com/en/livestreaming)
+* Gave 5 talks in 3 days for IBM FastStart 2020; taught 100s of sellers/partners about the advantages of OpenShift for AI/ML workloads, monitoring with Prometheus, and technical roadmaps
+* OpenShift.TV Executive Producer: responsible for finding content, talent, showrunning, marketing, growth, and facilitating live productions; elevated to global brand initiative: Red Hat Live Streaming
+* Training others in how to make use of the infrastructure in place for OpenShift.TV to grow the channel’s bench of hosts and producers across the globe
 * Hosted and/or produced over 700 hours of content with over 2 years of live watch time.
 * Primary community interface as a CNCF Ambassador who is also focused on Operators and their usage for operations teams; led Ansible Operator workshops at AnsibleFest and Red Hat Summit
 * Acted as a liaison between an Infosec team and a product team after a critical vulnerability was discovered; facilitated responsible disclosure of the vulnerability
-* Built workshops, Katacoda, and other instructional materials to enabling the field to be informed about Red Hat's cloud native offerings plus competitive intelligence to position products in the market
+* Built workshops, Katacoda, and other instructional materials to enabling the field to be informed about Red Hat’s cloud native offerings plus competitive intelligence to position products in the market
 * Worked with Red Hat D+I, Events teams to make inclusive, constructive learning spaces at events
 * Evangelized Red Hat and many other open source offerings through official CNCF communications
-* Gave five talks in three days for IBM FastStart 2020; taught sellers and partners on the advantages of OpenShift for AI/ML workloads, monitoring capabilities of Prometheus, and technical roadmaps
 
 ### Principal Product Marketing Manager, Red Hat — Commerce, MI — Jun 2018 to Aug 2019
 
+* Selected by leadership and peers as Red Hat Product Marketing Awards — Best New Red Hatter 2019
 * Evangelized [Kubernetes Operators with Ansible](https://ansible.com/operators) in Business Unit by engaging leadership to prove importance; scheduled developers on podcast, worked w/ team to build landing page, and presented talks at Red Hat Summit 2019
 * Ansible blog curator, editor, and sometimes writer, room facilitator, survey staff management, and official after party event security for AnsibleFest 2018 in Austin, TX
 * Speaker and content creator for multiple public and private Red Hat events over the globe; enabled field to sell and market Ansible to customers intelligently
 * Instrumental in bringing community projects into the Red Hat Ansible Automation suite of tools; helped establish standards for testing and acceptance as well as scoring of Ansible content
-* Selected by leadership, peers as Red Hat Product Marketing Awards — Best New Red Hatter 2019
 
 ### Senior DevOps Advocate, SJ Technologies — Commerce, MI — Jan 2018 to Jun 2018
 
