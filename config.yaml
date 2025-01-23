@@ -140,7 +140,7 @@ params:
     - name: "youtube"
       url: "https://www.youtube.com/c/ChrisShort"
     - name: "flickr"
-      url: "https://www.flickr.com/photos/chris-short/
+      url: "https://www.flickr.com/photos/chris-short/"
     - name: "goodreads"
       url: "https://www.goodreads.com/user/show/38034985-chris-short"
     - name: "email"
