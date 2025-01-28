@@ -9,7 +9,7 @@ ShowToc: false
 TocOpen: false
 ---
 
-I talked to Kaslin Fields about the [social media landscape in 2025]() last week. The topic quickly turned to improving experiences on various platforms using Muted Words. I shared my **Muted Words** with Kaslin to improve her experiences.
+I talked to Kaslin Fields about the [social media landscape in 2025](/social-media-landscape-in-early-2025/) last week. The topic quickly turned to improving experiences on various platforms using Muted Words. I shared my **Muted Words** with Kaslin to improve her experiences.
 
 Using social media can be hazardous to one's health. I mute many words to protect my peace while still engaging in the communities where I work and live. Occasionally, I need a break from specific trending news topics; that's where my Situational words come in.
 
