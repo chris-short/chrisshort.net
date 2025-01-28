@@ -6,7 +6,7 @@ cover:
   image: social-media-landscape-2025.webp
   relative: true
 title: "Social Media Landscape in 2025"
-date: "2025-01-22"
+date: "2025-01-29"
 description: "Analysis of social media's evolution in 2025, examining the challenges of centralized platforms and the rise of decentralized alternatives like Mastodon and Bluesky."
 summary: "There's some shady stuff happening with centralized social media platforms. The only good places left are decentralized. This a reckoning for traditional social media"
 tags:
