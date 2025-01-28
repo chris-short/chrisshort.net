@@ -58,8 +58,6 @@ Facebook is for connecting to family and folks back home. Meta owns it, and Mark
 
 Meta also owns Instagram. I have concerns about Meta's use of Instagram photos to train AI, let alone the above-mentioned issues with Zuckerberg. Also, the forced following of accounts I wouldn't typically follow is utterly insane. I want no part in Instagram anymore.
 
-#### Flickr
-
 Meanwhile, [**Flickr**](https://www.flickr.com/photos/chris-short/) is still going strong. I have had a Pro account there off and on for a LONG, LONG time. Flickr is my go-to place for picture/graphics sharing.
 
 ### Threads
@@ -73,8 +71,6 @@ Twitter/X is unmoderated and toxic. Elon Musk owns it. If you are willing to [th
 ### TikTok
 
 TikTok has serious issues here in the US. The federal government employee ban on TikTok is real. I believe the TikTok ban is legitimate after my years in national security. Legitimate concerns are being expressed by the [Five Eyes](https://en.wikipedia.org/wiki/Five_Eyes) and [US intelligence community](https://www.dni.gov/index.php/what-we-do/members-of-the-ic). As the TikTok ban grew closer, I observed Bytedance putting its thumb on the scales to build opposition to the TikTok ban (which worked). The current US administration could easily change its opinion on the ban (I suspect if/when it does, it'll be far broader than only TikTok).
-
-#### YouTube
 
 I have YouTube. Between me watching tech and household-related videos and Max watching LEGO Builders and Mr. Beast, we spend plenty of time on that platform. I prefer building a following on YouTube over starting fresh on another video-based social network.
 
