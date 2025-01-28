@@ -1,13 +1,17 @@
 ---
 aliases:
 author: ["Chris Short"]
-title: "Social Media Landscape in early 2025"
+cover:
+  caption: The Social Media Landscape as of early 2025 (not an exhaustive list)
+  image: social-media-landscape-2025.webp
+  relative: true
+title: "Social Media Landscape in 2025"
 date: "2025-01-22"
 description: ""
-summary: "There's some shady stuff happening with centralized social media platforms. The only good places are decentralized (but have their own problems). Is this a reckoning for social media?"
+summary: "There's some shady stuff happening with centralized social media platforms. The only good places left are decentralized. This a reckoning for traditional social media"
 tags: ["2025"]
 ShowToc: true
-TocOpen: false
+TocOpen: true
 ---
 
 Kaslin Fields and I were talking about the social media landscape in 2025. The Kubernetes Contributor Comms team has been fielding requests to modify our community's social media policies to continue improving the project's vitality. During our discussion, I stated that "**Social media might be coming to the end of its usefulness.**"
@@ -30,9 +34,9 @@ Facebook is for connecting to family and folks back home. Meta owns it, and Mark
 
 Meta also owns Instagram. I have concerns about Meta's use of Instagram photos to train AI, let alone the above-mentioned issues with Zuckerberg. Also, the forced following of accounts I wouldn't typically follow is utterly insane. I want no part in Instagram anymore.
 
-SCREENSHOT
+![My Instagram account prior to deletion showing my latest followers to be the evil from within in the US](Fuck-Zuck.webp)
 
-Meanwhile, [**Flickr**](https://www.flickr.com/photos/chris-short/) is still going strong. Flickr is my go-to place for picture/graphics sharing. Automation will propagate it to Mastodon and Bluesky. All I have to remember is to title and caption my Flickr posts.
+Meanwhile, [**Flickr**](https://www.flickr.com/photos/chris-short/) is still going strong. Flickr is my go-to place for picture/graphics sharing. Automation will propagate it to Mastodon and Bluesky. I need to remember to title and caption my Flickr posts.
 
 ### Threads
 
@@ -40,17 +44,17 @@ Meta also owns Threads. I posted there for a while, but I never got much engagem
 
 ### X, formerly known as Twitter
 
-Twitter/X is unmoderated and toxic. Elon Musk owns it and no offense, if you are willing to throw up Nazi salutes in public, I'm not going to use anything you make. We have a "No Elon" buying philosophy in the Short Household. However, this example continues to reinforce this policy. Besides, most people I followed on X, fka Twitter, have moved to decentralized platforms. My muted words were often not applied to ads, platform growth content, and other practices I'm not fond of. Many of us still have our Twitter accounts because that's where our largest audience is (the Kubernetes community is a part of this group).
+Twitter/X is unmoderated and toxic. Elon Musk owns it. If you are willing to [throw up Nazi salutes in public](https://www.theguardian.com/technology/2025/jan/26/elon-musk-far-right-antisemitism), I'm not going to use anything you make. We have a "No Elon" buying philosophy in the Short Household. However, this example continues to reinforce this policy. Besides, most people I followed on X, fka Twitter, have moved to decentralized platforms. My muted words were often not applied to ads, platform growth content, and other practices I'm not fond of. Many of us still have our Twitter accounts because that's where our largest audience is (the Kubernetes community is a part of this group).
+
+### TikTok
+
+TikTok has serious issues here in the US. The federal government employee ban on TikTok is real. I believe the TikTok ban is legitimate after my years in national security. Legitimate concerns are being expressed by the [Five Eyes](https://en.wikipedia.org/wiki/Five_Eyes) and [US intelligence community](https://www.dni.gov/index.php/what-we-do/members-of-the-ic). As the TikTok ban grew closer, I observed Bytedance putting its thumb on the scales to build opposition to the TikTok ban (which worked). The current US administration could easily change its opinion on the ban (I suspect if/when it does, it'll be far broader than only TikTok).
+
+I have YouTube. Between me watching tech and household-related videos and Max watching LEGO Builders and Mr. Beast, we spend plenty of time on that platform. I prefer building a following on YouTube over starting fresh on another video-based social network.
 
 ### LinkedIn
 
 LinkedIn is starting to become people's text-based social media outlet of choice (at least for things deemed "professional" enough). There's a penalty if your content links off the site and other algorithm shenanigans. However, LinkedIn has benefited from other networks' mistakes and is becoming people's default choice. I can't blame folks for that; look at the alternatives. LinkedIn could do nothing and pick up more users naturally at this point.
-
-### TikTok
-
-TikTok has serious issues here in the US. The federal government employee ban on TikTok is real and based on what I believe are legitimate concerns (too bad I can't share anything directly to convince others). As the TikTok ban grew closer, I saw TikTok putting its thumb on the scales to build opposition to the ban.
-
-I have no intention of using TikTok for anything personal or on my personal devices. I have YouTube and spend a lot of time on that platform. I prefer building a following on YouTube over other social networks.
 
 ### Reddit
 
@@ -60,7 +64,7 @@ They are selling data to AI companies as fuel for their Large Language Models (L
 
 ## Decentralized
 
-Decentralized, non-algorithmic platforms are beginning to pick up significant speed. The reason for this is that gaming of the algorithm isn't possible here. People see things from their followers in chronological order, and ever since 2006, we've all wanted this to be the default on a particular network, and that's been taken away completely. These are the networks I'm spending more of my time on. The networks mentioned are not an exhaustive list, as some social media networks I'm not on or don't know about.
+Decentralized, non-algorithmic platforms are beginning to pick up significant speed. The increasing adoption rate is because gaming the algorithm isn't possible here because there is no algorithm to game. People see things from their followers chronologically, and ever since 2006, most of us have wanted this to be the default on a particular network. These are the networks I'm spending more of my time on. The networks mentioned are not an exhaustive list, as some social media networks I'm not on or don't know about.
 
 ### Mastodon
 
@@ -76,4 +80,4 @@ You can also verify yourself through a domain you own without hosting anything y
 
 ## Muted Words
 
-I use muted words across all social media networks because I don't want to see hate, vitriol, abuse of power, or other unwanted information on a routine basis. I brought these up during Kaslin and I's conversation. I hope it will help others. I put [**my social media muted words**](/micro/social-media-muted-words/) up on my microblog so I can update them easily.
+I use muted words across all social media networks because I don't want to see hate, vitriol, abuse of power, or other unwanted information on a routine basis. I brought these up during Kaslin and I's conversation. I hope it will help others. I put [**my social media muted words**](/micro/social-media-muted-words/) up on my microblog to update them easily.
