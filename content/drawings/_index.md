@@ -7,5 +7,5 @@ tags:
 title: Drawings
 ---
 
-I'm a terrible artist but, if you have an idea for a technical drawing please feel free to [reach out](/contact
-).
+I'm a terrible artist but, if there is a technical challenge you're facing that you think would benefit more folks than you, please send ideas via the [Contact](/contact
+) form.
