@@ -9,10 +9,10 @@ description: ""
 draft: true
 series: The cult I was forced to join as child
 tags:
-- center for purposeful living
-- human service alliance
-- hsa
-- foundation for purposeful living
+- Center for Purposeful Living
+- Human Service Alliance
+- HSA
+- Foundation for Purposeful Living
 title: A Brief History of Center for Purposeful Living by John David Short
 ---
 
