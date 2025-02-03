@@ -151,7 +151,7 @@ Download: [MP3](https://shortcdn.com/chrisshort/Carving-out-Cloud-Native-Culture
 
 Date: 2020-05-02
 
-Source: [L8istSh9y Podcast: Chris Short from Red Hat talks Operators and Kubernetes](https://l8istsh9y.com/2020/05/02/chris-short-from-red-hat-talks-operators-and-kubernetes/)
+Source: L8istSh9y Podcast: Chris Short from Red Hat talks Operators and Kubernetes
 
 Blog Post: [Talking Operators on L8ist Sh9y Podcast](/talking-operators-on-l8ist-sh9y-podcast/)
 
@@ -265,7 +265,7 @@ Date: 2019-06-19
 
 Source: [Chris Short, Red Hat | JFrog SwampUp 2019 | Digital Anarchist](https://videopress.com/v/V3TIte3s)
 
-Download: [MP4](https://shortcdn.com/chrisshort/chris-short-red-hat-jfrog-swampup-2019)
+Download: [MP4](https://shortcdn.com/chrisshort/chris-short-red-hat-jfrog-swampup-2019.mp4)
 
 ## China, Huawei and the future of global technology
 
@@ -275,7 +275,7 @@ Download: [MP4](https://shortcdn.com/chrisshort/chris-short-red-hat-jfrog-swampu
 
 Date: 2019-05-28
 
-Source: [China, Huawei and the future of global technology — The Frontier Podcast — Episode 61](https://www.gun.io/frontier/2019/episode-61)
+Source: [China, Huawei and the future of global technology — The Frontier Podcast — Episode 61](https://web.archive.org/web/20201107233622/https://www.gun.io/frontier/2019/episode-61)
 
 Download: [MP3](https://shortcdn.com/chrisshort/61-chris-short-final-bounce.mp3)
 
@@ -295,7 +295,7 @@ Source: [7 advantages of open source for agile teams](https://enterprisersprojec
 
 Date: 2019-04-25
 
-Source: [DevOps'ish with Chris Short – Newsletterers – The Tim Show – S02E01](https://timhildred.com/devopsish-with-chris-short-newsletterers-the-tim-show-s02e01/)
+Source: [DevOps'ish with Chris Short – Newsletterers – The Tim Show – S02E01](https://web.archive.org/web/20200810190156/https://timhildred.com/devopsish-with-chris-short-newsletterers-the-tim-show-s02e01/)
 
 Download: [MP3](https://shortcdn.com/chrisshort/the-tim-show-s02e01.mp3)
 
@@ -332,7 +332,7 @@ Download: [MP3](https://shortcdn.com/chrisshort/oncallnightmares_2018-12-27T09_0
 
 Date: 2018-09-28
 
-Source: [Business Travel Life: Chris Short](https://www.tripit.com/blog/2018/09/business-travel-tips-chris-short.html)
+Source: [Business Travel Life: Chris Short](https://web.archive.org/web/20200803091616/https://www.tripit.com/web/blog/2018/09/business-travel-tips-chris-short.html)
 
 ## 7 leadership skills that will make or break your DevOps transformation
 
