@@ -5,17 +5,22 @@ cover:
   image: Ford-Field-Endzone-Choose-Love.webp
   relative: true
 date: "2025-02-03"
-description: ""
-summary: ""
+description: "Experience a family's VIP adventure at Ford Field, home of the Detroit Lions, including playing on the NFL turf and exclusive locker room access"
+summary: "The family enjoyed a VIP experience at Ford Field, playing on the Detroit Lions' turf and touring exclusive areas including the locker rooms and press box"
 tags:
-- 
+- Ford Field
+- locker rooms
+- Detroit Lions
+- Detroit
+- press box
+- Dan Campbell
+- end zone
+- NFL
 - 2025
 title: "Ford Field Experience 2025"
 ShowToc: true
 TocOpen: false
 ---
-
-Photos from this experience are [available on Flickr](https://www.flickr.com/photos/chris-short/albums/72177720323541265/)
 
 {{< carbon >}}
 
@@ -25,7 +30,7 @@ We had no idea what was in store for us; all we kept telling Max was, "This is a
 
 After playing hard on the field, we had lunch. Then we went on our Ford Field tour. We learned a lot about Ford Field and its history. There's an office building inside Ford Field that the Detroit Lions now lease, but wow, that would have been a fantastic place to work. The basement we walked through used to be a storage area for Macy's. We discussed that the Lions' recent increase in wins and popularity requires more staff and space for them to work.
 
-[![NFL mandated signage for all NFL locker rooms](Ford-Field-visitor-locker-room-nfl-required sign.webp)](https://www.flickr.com/photos/chris-short/54301103694/in/album-72177720323541265)
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/chris-short/albums/72177720323541265" title="Ford Field Experience 2025"><img src="https://live.staticflickr.com/65535/54301103574_395c6fdb08_b.jpg" width="100%" alt="Ford Field Experience 2025"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 We walked through the visitors' locker room and saw the league's bare minimum standards for visitor locker rooms. One thing in the visitor's locker room that wasn't in the Lions' locker was the locks on the lockers. The tour guide explained that Detroit's outmoded negative perception worldwide extended into Ford Field's basement and the visitor's locker room. Despite all the security and cameras on a gameday, it didn't put visiting players' minds at ease. They requested locks because they were in Detroit. This perception is a false narrative about Detroit, as I've been telling folks since 2017.
 
