@@ -30,14 +30,11 @@ tags:
 title: Talking Operators with Rob Zehicle on L8ist Sh9y Podcast
 ---
 
-<iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/810685114&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/user-410091210" title="L8ist Sh9y Podcast" target="_blank" rel="noopener" style="color: #cccccc; text-decoration: none;">L8ist Sh9y Podcast</a> · <a href="https://soundcloud.com/user-410091210/chris-short-from-red-hat-talks-operators-and-kubernetes" title="Chris Short from Red Hat talks Operators and Kubernetes" target="_blank" style="color: #cccccc; text-decoration: none;">Chris Short from Red Hat talks Operators and Kubernetes</a></div>
-
-[![Operator Framework](https://shortcdn.com/chrisshort/operator-framework-logo-color.png)](https://github.com/Operator-framework)
-
-On May 2nd, I joined my friends over at L8ist Sh9y Podcast as [Rob Zehicle](https://twitter.com/zehicle) was trying to wrap his mind around [Kubernetes Operators](https://red.ht/operators/). I've created the [transcript](https://shortcdn.com/chrisshort/whxmHvMw1QIi.128.txt) so folks can read it if they desire.
-
+{{< audio Chris-Short-from-Red-Hat-talks-Operators-and-Kubernetes.mp3 >}}
 
 {{< carbon >}}
+
+On May 2nd, I joined my friends over at L8ist Sh9y Podcast as [Rob Zehicle](https://twitter.com/zehicle) was trying to wrap his mind around [Kubernetes Operators](https://kubernetes.io/docs/concepts/extend-kubernetes/operator/) via [Operator Framework](https://github.com/Operator-framework). I've created the [transcript](whxmHvMw1QIi.128.txt) so folks can read it if they desire.
 
 **Rob Zehicle:**
 Hello everybody and welcome to another episode of the Latest Shiny. This is Rob Zehicle. I am driving, uh, without my cohost so we'll probably take some more jigs and jags and I have to do my own timekeeping. Uh, so we'll figure that out as we go. Uh, somebody here will help me keep it short.

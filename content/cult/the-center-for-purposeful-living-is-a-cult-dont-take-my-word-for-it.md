@@ -11,7 +11,7 @@ series: The cult I was forced to join as child
 tags:
 - center for purposeful living
 - human service alliance
-- hsa
+- HSA
 - foundation for purposeful living
 - derwyn lackey
 title: 'The Center for Purposeful Living is a Cult: Don''t Take My Word For It'
