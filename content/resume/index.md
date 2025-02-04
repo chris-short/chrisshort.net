@@ -25,7 +25,7 @@ Senior developer advocate and technical marketing leader with 30 years of experi
 
 ## Professional Experience
 
-### Sr. Developer Advocate, Amazon Web Services — Commerce, MI — Oct 2021 to Jan 2025
+### Sr. Developer Advocate, Amazon Web Services — Remote — Oct 2021 to Jan 2025
 
 * Led key components of Valkey's developer engagement strategy through targeted content creation and global event representation, resulting in Valkey becoming the defacto Redis fork worldwide
 * Organized and led Amazon's expansive 50+ speaker, 30+ session re:Invent 2023 Kubernetes and Containers track, increased customer satisfaction (CSAT) scoring metrics YoY for track
@@ -39,7 +39,7 @@ Senior developer advocate and technical marketing leader with 30 years of experi
 * Organized and ran GitOpsCon EU 2021, including marketing, speaker selection, and hosting the event with fellow organizers. 300+ attendees; top two for attendance at Day 0 KubeCon 2021 event
 * Produced multiple AWS Open Source Partner videos in-studio; simplified technical language for a broader audience, drove understanding between partners, product marketing, and video teams
 
-### Cloud Native Ambassador, Cloud Native Computing Foundation (CNCF) — Commerce, MI — Jan 2018 to February 2023
+### Cloud Native Ambassador, Cloud Native Computing Foundation (CNCF) — Remote — Jan 2018 to February 2023
 
 * [GitOpsCon NA 2021 Program Committee member](https://www.credly.com/badges/734ed249-c1ed-460a-9cae-bd36c1b6a5e7/public_url), multiple times speaking at CloudNativeCon + KubeCon, and countless talks at DevOps, Kubernetes, and Cloud Native events
 * Stood up Kubernetes Upstream Marketing team, an approver of tweets from K8sContributors, acquired hardware for streaming community meetings to lessen the load on others
@@ -47,7 +47,7 @@ Senior developer advocate and technical marketing leader with 30 years of experi
 * Advocates for Kubernetes and the cloud native ecosystem through the acclaimed and independent newsletter, [DevOps'ish](https://devopsish.com/). Grew subscriber base to 6,300+ subscribers from Dec 2016 to Nov 2022
 * With the help of other Kubernetes community members, created the first-ever [#KubeKhan](https://chrisshort.net/2018-learnings-2019-expectations/#kubekhan) at KubeCon Seattle 2018; brought together community members in a come as you are environment
 
-### Principal Technical Marketing Manager, Red Hat — Commerce, MI — Aug 2019 to Oct 2021
+### Principal Technical Marketing Manager, Red Hat — Remote — Aug 2019 to Oct 2021
 
 * Gave 5 talks in 3 days for IBM FastStart 2020; taught 100s of sellers/partners about the advantages of OpenShift for AI/ML workloads, monitoring with Prometheus, and technical roadmaps
 * OpenShift.TV Executive Producer: responsible for finding content, talent, showrunning, marketing, growth, and facilitating live productions; elevated to global brand initiative: Red Hat Live Streaming
@@ -59,7 +59,7 @@ Senior developer advocate and technical marketing leader with 30 years of experi
 * Worked with Red Hat D+I, Events teams to make inclusive, constructive learning spaces at events
 * Evangelized Red Hat and many other open source offerings through official CNCF communications
 
-### Principal Product Marketing Manager, Red Hat — Commerce, MI — Jun 2018 to Aug 2019
+### Principal Product Marketing Manager, Red Hat — Remote — Jun 2018 to Aug 2019
 
 * Selected by leadership and peers as Red Hat Product Marketing Awards — Best New Red Hatter 2019
 * Evangelized [Kubernetes Operators with Ansible](https://ansible.com/operators) in Business Unit by engaging leadership to prove importance; scheduled developers on podcast, worked w/ team to build landing page, and presented talks at Red Hat Summit 2019
@@ -67,7 +67,7 @@ Senior developer advocate and technical marketing leader with 30 years of experi
 * Speaker and content creator for multiple public and private Red Hat events over the globe; enabled field to sell and market Ansible to customers intelligently
 * Instrumental in bringing community projects into the Red Hat Ansible Automation suite of tools; helped establish standards for testing and acceptance as well as scoring of Ansible content
 
-### Senior DevOps Advocate, SJ Technologies — Commerce, MI — Jan 2018 to Jun 2018
+### Senior DevOps Advocate, SJ Technologies — Remote — Jan 2018 to Jun 2018
 
 * Built Ansible-based infrastructure testing tool to identify quality concerns between functional areas delivering virtual machines; suggested remedies to reduce handoffs and increase automation
 * Set up Ansible automation to deploy Confluent Kafka; built OpenShift deployment for high-availability Kafka UI
