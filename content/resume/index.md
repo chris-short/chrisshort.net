@@ -25,7 +25,7 @@ Senior developer advocate and technical marketing leader with 30 years of experi
 
 ## Professional Experience
 
-### Sr. Developer Advocate, Amazon Web Services — Commerce, MI — Oct 2021 to January 2025
+### Sr. Developer Advocate, Amazon Web Services — Commerce, MI — Oct 2021 to Jan 2025
 
 * Led key components of Valkey's developer engagement strategy through targeted content creation and global event representation, resulting in Valkey becoming the defacto Redis fork worldwide
 * Organized and led Amazon's expansive 50+ speaker, 30+ session re:Invent 2023 Kubernetes and Containers track, increased customer satisfaction (CSAT) scoring metrics YoY for track
