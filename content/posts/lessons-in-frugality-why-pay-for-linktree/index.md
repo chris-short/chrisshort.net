@@ -77,7 +77,7 @@ The moral of the story is, don't pay for something when you already have the ser
 [2]: https://chrisshort.net
 [3]: https://aws.amazon.com/getting-started/hands-on/host-static-website/
 [4]: https://github.com/chris-short/chrisshort.net
-[5]: https://devopsi.sh/env
+[5]: https://chrisshort.net/code-server-caddy-tailscale-and-hugo-my-ultimate-dev-environment/
 [6]: https://dev.to/jihedkdiss/how-to-create-a-portfolio-website-for-free-4d0a
 [7]: https://html5up.net/aerial
 [8]: https://html5up.net/

@@ -19,7 +19,7 @@ title: 'NTP: I Need You to Go Ahead and Love It'
 
 It's 2016 (almost 2017) why is the time off on your system clocks? It became apparent to me that there are some folks out there that do not realize their clocks are off for a reason. [Julia Evans](https://twitter.com/b0rk) recently made a graphic about [distributed systems](https://twitter.com/b0rk/status/793288477060263936) that mentioned clock issues and it made me really sad.
 
-![Clocks Lie](https://shortcdn.com/chrisshort/clocks-lie.jpg#center)
+![Clocks Lie](clocks-lie.jpg#center)  
 Photo Credit: [Julia Evans](http://jvns.ca/)
 
 We had a saying when I was in the Air Force, "*Timing is everything.*" We lugged around GPS receivers that hooked up to our bulk and circuit encryption devices so that they would have accurate, consistent time with other encryption devices around the world.
@@ -49,11 +49,9 @@ Source: [RFC 5905](https://tools.ietf.org/html/rfc5905)
 
 In a nutshell, stratum 0 sources are things like GPS, Cesium clocks, or cell networks (CDMA/GSM). Stratum 1 sources are systems that connect to stratum 0; stratum 2 sources are systems that connect to stratum 1 and so on. The lower the number the more accurate the clock source is; zero (0) through fifteen (15) are available. Stratum 16 represents an unsynchronized clock. Unsynchronized clocks are bad.
 
-The absolute best graphical representation of the NTP stratum hierarchy I have seen comes from [Aaron Toponce](https://pthree.org/):
+The absolute best graphical representation of the NTP stratum hierarchy I have seen comes from Aaron Toponce:
 
-![NTP Stratum](https://shortcdn.com/chrisshort/stratum.png)
-
-Photo Credit: [Aaron Toponce](https://pthree.org/)
+![NTP Stratum](stratum.png)
 
 If you are running bare metal, a virtual machine host, or a Docker Engine somewhere you need NTP. It will solve a lot of problems related to time. *I cannot emphasize enough the importance of NTP*. Many organizations have problems related to time that can be solved by a simple [Ansible playbook](https://galaxy.ansible.com/geerlingguy/ntp/), [yum](http://www.cyberciti.biz/faq/howto-install-ntp-to-synchronize-server-clock/), or [apt](https://help.ubuntu.com/lts/serverguide/NTP.html). Think of having accurate and consistent time across every device, log, and packet on your network. I actually run NTP on the AWS EC2 instance that I am writing this post on at the moment (scheduling posts for maximum exposure relies on good timing).
 

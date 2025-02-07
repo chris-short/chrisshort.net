@@ -47,7 +47,7 @@ Implementing the automation-first process is hard when development and test envi
 If your aspiring engineer needs a nudge in the right direction on processes, encourage them to read two books:
 
 * [The Phoenix Project: A Novel about IT, DevOps, and Helping Your Business Win](https://amzn.to/2DBVoM3)
-* [The DevOps Handbook: How to Create World-Class Agility, Reliability, and Security in Technology Organizations](https://amzn.to/2DBARXO)
+* [The DevOps Handbook: How to Create World-Class Agility, Reliability, and Security in Technology Organizations](https://a.co/d/7HOIJsb)
 
 *Note: ChrisShort.net may earn compensation for sales from links on this post through [affiliate programs](/terms#affiliate-link-policy).*
 

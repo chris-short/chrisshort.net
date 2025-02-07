@@ -25,7 +25,7 @@ It's also a way to passive-aggressively escalate an interpersonal issue. This is
 
 > "Switching communication venues is an escalation. —[Nathen Harvey](https://twitter.com/nathenharvey)"
 
-But, even the Washington Post believes subtweets are terrible, [*Study confirms what you always knew: People who subtweet are terrible*](https://www.washingtonpost.com/news/the-intersect/wp/2016/06/06/study-confirms-what-you-always-knew-people-who-subtweet-are-terrible/). Thus, the general impression is a subtweet is a very negative thing. But, here is one potential example of a positive subtweet:
+But, even the Washington Post believes subtweets are terrible, [*Study confirms what you always knew: People who subtweet are terrible*](https://www.removepaywall.com/search?url=https://www.washingtonpost.com/news/the-intersect/wp/2016/06/06/study-confirms-what-you-always-knew-people-who-subtweet-are-terrible/). Thus, the general impression is a subtweet is a very negative thing. But, here is one potential example of a positive subtweet:
 
 > I love this community. I think in two of my past three trips to Raleigh I've managed to leave something expensive behind and someone has always been there to find the thing and send it to me. Thank y'all! I'll try and keep up with my stuff better.
 
