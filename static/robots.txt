@@ -1,3 +1,6 @@
+User-agent: haters
+Disallow: /
+
 # Block AI scrapers
 # Source: https://www.cyberciti.biz/web-developer/block-openai-bard-bing-ai-crawler-bots-using-robots-txt-file/
 # Not blocking Common Crawl intentionally
@@ -38,6 +41,7 @@ Disallow: /
 User-Agent: *
 Disallow: /terms
 Disallow: /privacy
+Disallow: /contact
 Allow: /
 
 Sitemap: https://chrisshort.net/sitemap.xml
