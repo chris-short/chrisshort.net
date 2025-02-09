@@ -88,4 +88,4 @@ Meanwhile, that same team said most of their problems were staying cloud agnosti
   * Tons of groans around upgrading Kubernetes
   * People really don't want to manage control planes
 
-If you happened to be in the same Open Space and would like to clarify some points, please feel free to reach out or submit [Pull Requests via GitHub](https://github.com/chris-short/chrisshort.net/tree/main/content/post/container-conundrum-chicago-open-space). Thank you!
+If you happened to be in the same Open Space and would like to clarify some points, please feel free to reach out or submit [Pull Requests via GitHub](https://github.com/chris-short/chrisshort.net/tree/main/content/posts/container-conundrum-chicago-open-space). Thank you!
