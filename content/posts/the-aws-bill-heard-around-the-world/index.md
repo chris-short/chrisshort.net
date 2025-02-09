@@ -3,9 +3,10 @@ aliases:
 - aws-bill
 author: Chris Short
 cover:
-  image: june-2020-aws-bill-header.png
+  image: june-2020-aws-bill-header.webp
   relative: true
 date: "2020-07-26"
+lastmod: "2025-02-09"
 description: The tale of the July 4th surprise $2700 AWS bill. It is more nuanced
   than you think and might have exposed a bug.
 tags:
@@ -27,6 +28,8 @@ tags:
 - surprise
 title: The AWS bill heard around the world
 ---
+
+{{< carbon >}}
 
 ## Update
 
@@ -56,7 +59,7 @@ Along with that migration came the CDN for this web site (shortcdn.com). I mean 
 
 ### The shock
 
-Not on this Saturday morning, nope. June 2020's AWS bill was a heart palpitation causing **$2,657.68** ([JPG](https://shortcdn.com/chrisshort/invoice498711077_redacted.jpg)). I audibly gasped, "Keep your shit together." I thought to myself. Max was leaned up against me drinking his milk. I know he could tell something was wrong because he looked at the laptop screen. I only assume when he saw letters and numbers, he thought, "Adult stuff... These cartoons and this Cinnamon Toast Crunch tho." 2020 being the year that it is and my military history being what it is, I've been diagnosed with a panic disorder (on top of the PTSD and physical injuries).
+Not on this Saturday morning, nope. June 2020's AWS bill was a heart palpitation causing **$2,657.68** ([JPG](invoice498711077_redacted.jpg)). I audibly gasped, "Keep your shit together." I thought to myself. Max was leaned up against me drinking his milk. I know he could tell something was wrong because he looked at the laptop screen. I only assume when he saw letters and numbers, he thought, "Adult stuff... These cartoons and this Cinnamon Toast Crunch tho." 2020 being the year that it is and my military history being what it is, I've been diagnosed with a panic disorder (on top of the PTSD and physical injuries).
 
 ### The panic
 
@@ -75,16 +78,15 @@ What's diverged?
 
 How do we get things back to normal?
 
-
 I login to the AWS console, hoping I got some output that was uniquely off this month. Weirder stuff has happened (like [S3 going down](https://aws.amazon.com/message/41926/)). This bill couldn't be more out of the norm than ever. This AWS bill is several hundred dollars more than our mortgage! I hit the AWS Billing page and am deeply saddened by what I see:
 
-![AWS Billing landing page showing a $2,657.68 balance](https://shortcdn.com/chrisshort/aws-bill-landing-page.png)
+![AWS Billing landing page showing a $2,657.68 balance](aws-bill-landing-page.webp)
 
 There it was. **$2,657.68**, staring at me. "This can't be legit." Drilling down even further, it looks like it is indeed legitimate traffic from the shortcdn.com S3 bucket in us-east-2. In total, **more than 30.6 terabytes of traffic** had moved out of that one S3 bucket. WHEN?!? Did this just happen? Nope.
 
-![AWS data transfer billing break down](https://shortcdn.com/chrisshort/aws-june-2020-data-transfer.png)
+![AWS data transfer billing break down](aws-june-2020-data-transfer.webp)
 
-![S3 Activity](https://shortcdn.com/chrisshort/june-23-24-2020-s3-breakdown.png)
+![S3 Activity](june-23-24-2020-s3-breakdown.webp)
 
 **30.6 TB?!?!** how is that even possible???
 $1,011.59 on 23 June 2020.
@@ -92,10 +94,10 @@ $1,639.07 on 24 June 2020.
 
 I immediately open a ticket with AWS Support frantically wondering what broke? How is this even possible? Did someone bypass Cloudflare? What the hell is Cloudflare saying?
 
-![Cloudflare 22 June 2020](https://shortcdn.com/chrisshort/cloudflare_june_22_2020.png)
+![Cloudflare 22 June 2020](cloudflare_june_22_2020.webp)
 Oh cool, Cloudflare let those 2,700 requests passthrough completely uncached? How is that not anomaly detected as a DDoS??? How is it that barely a fraction of the traffic is cached (more on that later)?
 
-![Cloudflare 23 June 2020](https://shortcdn.com/chrisshort/cloudflare_june_23_2020.png)
+![Cloudflare 23 June 2020](cloudflare_june_23_2020.webp)
 Oh, another 4,400 requests the next day... Sweet, baby Jesus. Oh, but you served 9 GB from cache. Thanks, Cloudflare.
 
 ## Help Arrives
@@ -140,7 +142,7 @@ If you're sitting at home doing the math, something might not be adding up. The 
 
 ## The Resolution
 
-As I mentioned, I've removed the multiple gigabyte files from the bucket the day I got the bill (July 4). [Corey pointed that out here](https://twitter.com/QuinnyPig/status/1280282363461726208). That might have hindered the investigation from the AWS side. I won't be so quick to delete in the future. I will lock files down though. But, let's face it. Now that I'm aware of the [512 MB file limit at Cloudflare](https://support.cloudflare.com/hc/en-us/articles/200172516-Understanding-Cloudflare-s-CDN#:~:text=The%20maximum%20file%20size%20Cloudflare's,request%20caching%20of%20larger%20files.), I am moving other larger files in that bucket to [archive.org](https://archive.org/) for now (and will add them to my supported [Causes](/causes/)).
+As I mentioned, I've removed the multiple gigabyte files from the bucket the day I got the bill (July 4). [Corey pointed that out here](https://twitter.com/QuinnyPig/status/1280282363461726208). That might have hindered the investigation from the AWS side. I won't be so quick to delete in the future. I will lock files down though. But, let's face it. Now that I'm aware of the [512 MB file limit at Cloudflare](https://support.cloudflare.com/hc/en-us/articles/200172516-Understanding-Cloudflare-s-CDN#:~:text=The%20maximum%20file%20size%20Cloudflare's,request%20caching%20of%20larger%20files.), ~~I am moving other larger files in that bucket to [archive.org](https://archive.org/) for now (and will add them to my supported [Causes](/causes/)).~~ These larger files are being hosted on shortcdn.com again as it's now backed by [bunny.net](https://bunny.net?ref=ntj8lzdwyl). Bunny.net makes it cheap and easy to host everything I need how I need it, including streaming video.
 
 Long term, I won't want to store files in multiple places. I don’t feel like archive.org should be my site’s dumping ground since it can turn a profit if it gets popular. archive.org is a stop-gap for two files for the time being. But, I could do some cleanup of that bucket now that I have proper logging enabled (oh and AWS Budget Alerts). I will also be researching user-friendly alternatives to Cloudflare even if it will cost me a few bucks a month. I will also never co-mingle work and personal file sharing EVER again.
 

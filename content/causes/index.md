@@ -61,15 +61,6 @@ Website: [Global Zero](https://www.globalzero.org/)
 > 
 > Working with political leaders, senior military commanders and national security experts from across the political spectrum and in every nuclear-armed region of the world, we are working to achieve historic Global Zero Accords that would ensure that all nuclear weapons are permanently dismantled.
 
-### The Privilege Escalation Foundation
-
-> We believe brilliant minds deserve safe bodies.
-[Founded by Kris Nóva](https://privilegeescalation.org/stories/founders-statement/) in 2021 with nothing more than a broken heart, hope, and a linux server in San Francisco, California.
-> 
-> Our dream is to enable gender confirming healthcare, financial resources, and overall support for transgender minds in STEM.
-> 
-> We believe that a brilliant mind should never be held back by their body.
-
 ### Pin-Ups for Vets
 
 Run by Chris Short's longtime friend, Gina Elise, this charity helped me get through some tough deployments while I served in the [US Air Force](/3c2x1-tech-control/).
@@ -90,9 +81,9 @@ Website: [The Cloudcast](http://www.thecloudcast.net/)
 
 > Since 2013, our community has raised over $27,000 to help the UNC Children's Hospital. We hope to continue that tradition in a big way again this year. Every little bit helps! Please join us through a donation, or come run the race with us!
 
-## Previously Supported Charities (bad ones)
+## Previously Supported Charities
 
-Funny how these are all tech related.
+These organizations have gone bad. Funny how these are all tech related.
 
 ### Open Source Initiative
 

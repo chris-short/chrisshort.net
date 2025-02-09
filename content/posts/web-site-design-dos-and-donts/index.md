@@ -105,6 +105,5 @@ If you're trying to get better rankings in search engines check out my [SEO Chec
 When adding something to your site ask yourself how it will effect users. If it benefits them then go for it. If it doesn't benefit them in any way then it would probably be best to think twice about it.
 * Add content often, no one likes a site that doesn't change. Stale pages drop quickly is search engine rankings.
 * Validate, validate, validate! Conform to web standards. They're there for a reason.
-* Make sure your site has well formed HTML or XHTML with the [W3C Markup Validation Service](https://validator.w3.org/) and the [WDG HTML Validator](http://gnu.univ.gda.pl/wdg-html-validator/).
+* Make sure your site has well formed HTML or XHTML with the [W3C Markup Validation Service](https://validator.w3.org/).
 * Nothing drives people away more than broken links.  Use a link checker to check all links within and leaving your site. [W3C Link Checker](https://validator.w3.org/checklink) and Dr. Watson (RIP) are two good places to check your links.
-

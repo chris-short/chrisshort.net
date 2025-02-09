@@ -4,7 +4,7 @@ cover:
   image: whos-who-in-hybrid-cloud.webp
   relative: true
 date: "2021-03-10"
-description: Chris Short is accidentally named Red Hat CEO but also a Key Opinion Leader and  Kubernetes Influencer
+description: Chris Short is accidentally named Red Hat CEO but also a Key Opinion Leader and Kubernetes Influencer
 tags:
 - Kubernetes
 - Onalytica
@@ -28,7 +28,7 @@ A thank you to Onalytica is in order here. I'm listed next to some truly wonderf
 
 ## Red Hat CEO???
 
-What made this merit a blog post here was the mislabeling of me as CEO, Red Hat, in the [original version](https://shortcdn.com/chrisshort/Whos-Who-In-Hybrid-Cloud-Mistake.png) of the report ([which has since been corrected](https://onalytica.com/blog/posts/whos-who-in-hybrid-cloud/), thankfully).
+What made this merit a blog post here was the mislabeling of me as CEO, Red Hat, in the [original version](Whos-Who-In-Hybrid-Cloud-Mistake.webp) of the report ([which has since been corrected](https://onalytica.com/blog/posts/whos-who-in-hybrid-cloud/), thankfully).
 
 The day after this report came out, a friend from the Kubernetes community sent me a link to the report and congratulated me on the promotion dead smack in the middle of my team's weekly get together. Which then led to some chuckles in the meeting as well as in other channels and DMs.
 

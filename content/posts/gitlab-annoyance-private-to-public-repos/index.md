@@ -26,6 +26,6 @@ I realized that on our internal, private GitLab server a repo needed to be chang
 
 After a significant amount of testing and tweaking this morning we found a GitLab issue titled, [Switching project from private to public, still requires authentication](https://gitlab.com/gitlab-org/gitlab-foss/-/issues/24947) and [this issue pointed out by GitLab](https://gitlab.com/gitlab-org/gitlab-foss/-/issues/27049) in the comments below. It turns out that there is an additional dropdown to change when switching from Private to Public. Under "Feature Visibility" there is a drop down titled, "**Repository**: *Push files to be stored in this project*"
 
-[![GitLab Private to Public Repo Change](https://shortcdn.com/chrisshort/gitlab-private-public-repo.png#center)](https://shortcdn.com/chrisshort/gitlab-private-public-repo.png)
+[![GitLab Private to Public Repo Change](gitlab-private-public-repo.png#center)](gitlab-private-public-repo.png)
 
 This is a minor annoyance. There is an issue filed to resolve it. But, we spent almost an hour trying to figure out what was going wrong so hopefully, you can benefit from our struggles.
