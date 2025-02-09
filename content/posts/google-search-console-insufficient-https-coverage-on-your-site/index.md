@@ -31,11 +31,11 @@ title: 'Insufficient HTTPS coverage on your site: What does that mean?'
 
 ## History
 
+{{< carbon >}}
+
 In the early 2000s, I did a lot of side hustle work around [Search Engine Optimization](/tags/seo/) (SEO). I'd help clients with their search engine rankings. Back then, folks cared about all the search engines. Nowadays, there's only one search engine people care enough to write about, Google.
 
 As [Matthew Broberg so eloquently put on Twitter](https://twitter.com/mbbroberg/status/1385987372223979521) the other day, "Google is both the monopoly and trend setter. It's a good target either way you look at it." If you own a website and you care about it enough that you want people to look at it, do some SEO basics and [add your site](https://support.google.com/webmasters/answer/34592?hl=en) to the [Google Search Console](https://search.google.com/search-console).
-
-{{< carbon >}}
 
 ## Renewed interest in search engine optimization
 
@@ -45,7 +45,7 @@ I've been reading more SEO-related content lately as I've been trying to grow th
 
 If you're not serving your site over [HTTPS](https://developers.google.com/search/docs/advanced/security/https), you're going to have a harder time getting good results on Google Search Results Pages (SERPs). Everyone wants to be on the front page of Google. There are many jokes about how the second page of Google search results is akin to being thrown into an abyss. I could make a joke about how SEO content is nothing but a series of links to pages with a series of additional links to other pages, all of which you must consume and apply to get to the first page of Google.
 
-![HTTPS is vitally important for good search engine results](https://shortcdn.com/chrisshort/page-experience-signals-https-failing.webp "HTTPS is vitally important for good search engine results. But, this warning is not helpful.")
+![HTTPS is vitally important for good search engine results](page-experience-signals-https-failing.webp "HTTPS is vitally important for good search engine results. But, this warning is not helpful.")
 
 The **LEARN MORE** that I was naively hopeful would provide an answer was indeed worthless. All pages on [ChrisShort.net are being served over HTTPS](https://www.ssllabs.com/ssltest/analyze.html?d=chrisshort.net&hideResults=on&ignoreMismatch=on&latest) and have been for *years*. There was no obvious answer to this problem. Google documentation left a lot to be desired. Even [the discussion matching the error message, "Insufficient HTTPS coverage on your site"](https://support.google.com/webmasters/thread/106824024?hl=en) featured questions from others in an equal state of confusion as I.
 
@@ -62,4 +62,3 @@ Then I saw this tiny, one-line error message. Something was wrong with my  [Perm
 ## Conclusion
 
 What does this mean? Well, if you have implemented headers and happen to make a simple syntax error, it will impact Google’s interpretation of your website’s HTTPS configuration. The TLS encryption itself was NOT compromised or even made weaker by the poorly implemented Permissions Policy header. But, because it was an improper header, Google penalized the entire site by showing the HTTPS as somehow broken. Google can and should do better than this when it comes to the Google Search Console. It’s a vital tool for businesses across the planet. At the end of the day, “A page must be served over HTTPS to be eligible for Good page experience status.” It shouldn’t error on HTTPS when that wasn’t the actual issue, though.
-

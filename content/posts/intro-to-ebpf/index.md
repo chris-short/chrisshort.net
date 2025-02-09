@@ -44,7 +44,7 @@ I occasionally ask for writing prompts from folks on Twitter for DevOps'ish. Som
 
 > eBPF programs are event-driven and are run when the kernel or an application passes a certain hook point. Pre-defined hooks include system calls, function entry/exit, kernel tracepoints, network events, and several others.
 
-[![eBPF Overview courtesy of eBPF.io](https://shortcdn.com/devopsish/ebpf-overview.webp)][2]
+[![eBPF Overview courtesy of eBPF.io](ebpf-overview.webp)][2]
 
 The eBPF Overview is provided by [eBPF.io][2] under the [Creative Commons Attribution 4.0 International License][28].
 

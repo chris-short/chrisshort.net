@@ -44,7 +44,7 @@ SIGs have leads. These leads volunteer to provide guidance, continuity, and lead
 
 I built relationships with everyone in Contributor Experience; it felt like home. I also met all the Michigan CNCF Ambassadors (Jorge Castro, Bob Killen, and Jeffrey "Jeefy" Sica) in these meetings (I'd go down to Ann Arbor often in the following years). When I lost all job prospects in late 2017, Dan Kohn at CNCF stepped up to cover my hotel and admission so that I could go to Austin for KubeCon to do some significant job searching. At a crowded hotel bar/restaurant in Austin, Jorge told me I should volunteer to be a CNCF Ambassador (another life-altering event). It also snowed on us in Austin; I was coming from Michigan and was not expecting that. I didn't have a hoodie, jacket, or any outerwear, so I threw on a DigitalOcean hoodie from the show floor and continued my business. Bob and Jeefy have since moved, but for a while there, Michigan had an unusually high number of significant Kubernetes contributors.
 
-[![chris-short Kubernetes Contributions | CNCF ContribCard](https://shortcdn.com/chrisshort/chris-short_CNCF_ContribCard.webp)][19]
+[![chris-short Kubernetes Contributions | CNCF ContribCard](chris-short_CNCF_ContribCard.webp)][19]
 
 ## First Signs of Mental Health Trouble
 
@@ -68,7 +68,7 @@ I had interviewed there previously, and I rejected the offer when the recruiters
 
 For the second time in my civilian career, I suddenly had no idea how my future would unfold. It was an incredibly stressful period. [We had a miscarriage][9], we had a terrible Christmas, and all I felt was anger and sadness at the whole situation (this was a new thing for me). But, thanks to Dan Kohn for sending me to KubeCon. Without that, I wouldn't have talked to as many people as I did at KubeCon in Austin in 2017.
 
-During the downtime, like a fool, I binge-watched an entire Netflix series that followed a [National Reconnaissance Office (NRO)][10] site in Australia. I was stationed at another facility similiar to the one in this series; a joint NSA, NRO, and [Five Eyes][11] intelligence facility. I was there for an eventful bit over two years. The crew must've had some former intelligence folks helping with production because the plotlines crammed all my years working with and for intelligence agencies into an 8 episode, triggering event. The series compressed my time in and around the intelligence community into 8 hours.
+During the downtime, like a fool, I binge-watched an entire Netflix series that followed a [National Reconnaissance Office (NRO)][10] site in Australia. I was stationed at another facility similar to the one in this series; a joint NSA, NRO, and [Five Eyes][11] intelligence facility. I was there for an eventful bit over two years. The crew must've had some former intelligence folks helping with production because the plotlines crammed all my years working with and for intelligence agencies into an 8 episode, triggering event. The series compressed my time in and around the intelligence community into 8 hours.
 
 All the memories rush back in as I relived them with every episode. This show pushed me beyond the brink. It broke me mentally. It took the knowledge I had tried to forget due to its classification and the knowledge Snowden unleashed on the world and made them one consciousness (they had not been before). It made me realize I had unknowingly aided in violating multiple laws while working in the intelligence community. Compartmentalization brings a profound personal responsibility you're never told about: [Don't cross the streams][12].
 
@@ -135,7 +135,7 @@ Feel free to comment about this blog on [Reddit][20], [Hacker News][21], or the 
 [15]: /a-getting-to-know-you-exercise/professionally-known-for.png
 [16]: https://chrisshort.net/a-getting-to-know-you-exercise/#three-things
 [17]: https://techcrunch.com/2019/08/03/stockx-hacked-millions-records/
-[18]: /kubernetes-likely-saved-my-life/EMDR-Therapy-Before-After.jpg
+[18]: /kubernetes-likely-saved-my-life/EMDR-Therapy-Before-After.webp
 [19]: /kubernetes-likely-saved-my-life/chris-short_CNCF_ContribCard.webp
 [20]: https://www.reddit.com/r/devopsish/comments/1d9c6r0/kubernetes_likely_saved_my_life/
 [21]: https://news.ycombinator.com/item?id=40597378
