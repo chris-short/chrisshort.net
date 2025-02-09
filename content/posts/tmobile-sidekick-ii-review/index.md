@@ -5,7 +5,7 @@ aliases:
 author: Chris Short
 cover:
   alt: The T-Mobile Sidekick II from 2004
-  image: sidekick-II-open.jpg
+  image: sidekick-II-open.webp
   relative: true
 date: "2004-09-23"
 description: A comprehensive review of the Sidekick II. (2004)
@@ -16,8 +16,9 @@ tags:
 title: T-Mobile Sidekick II Review
 ---
 
-This is a comprehensive review of the [T-Mobile Sidekick II](https://en.wikipedia.org/wiki/Danger_Hiptop#Hiptop2/T-Mobile_Sidekick_2_(Danger/Sharp)). I wanted to push this review out a lot quicker but I figured that a thorough testing and experience with the Sidekick II was necessary. After spending a year with the original color Sidekick I think I'll be able to write up a very good review.
+{{< carbon >}}
 
+This is a comprehensive review of the [T-Mobile Sidekick II](https://en.wikipedia.org/wiki/Danger_Hiptop#Hiptop2/T-Mobile_Sidekick_2_(Danger/Sharp)). I wanted to push this review out a lot quicker but I figured that a thorough testing and experience with the Sidekick II was necessary. After spending a year with the original color Sidekick I think I'll be able to write up a very good review.
 
 On Tuesday, my Sidekick II came and like a gleeful school boy I dropped my SIM card in it and plugged in it to charge. I analyzed, prodded, poked, and so on then took it to SeaWorld the next day.
 
@@ -25,13 +26,11 @@ On Tuesday, my Sidekick II came and like a gleeful school boy I dropped my SIM c
 
 The first thing I noticed about the Sidekick II is that it was thinner, narrower, longer, and lighter than its predecessor. It looked more like a phone and less like a PDA (or a brick as some of my friends called the Sidekick).
 
-![Top View of the original Sidekick and Sidekick II](https://shortcdn.com/chrisshort/top-view-sidekick-sidekick-II.jpg)
+![Top View of the original Sidekick and Sidekick II](top-view-sidekick-sidekick-II.webp)
 
 The next major improvement that the Sidekick II brings to the table is the flat face. With the original Sidekick the ear piece would not sit up against your ear completely due to the fact the screen was positioned on top of the device. The Sidekick II's screen is flush with the rest of the device and the keyboard is sunken in underneath it. The directional pad is no longer part of the keyboard and sits on the outside of the device and has become the ear piece of the phone.
 
 This new form factor when compared to the plethora of Nokia phones I have around the house definitely makes it more phone like which is a good thing. The Sidekick II is still a powerful PDA-like device despite its new phone-ish look.
-
-{{< carbon >}}
 
 Another improvement in the construction of the Sidekick II is a clip that holds the SIM chip firmly in place. The days of random "SIM not ready" warning messages should be a thing of the past due to this new stability in the SIM chip compartment.
 
@@ -91,7 +90,7 @@ The Sidekick II sports the same great calendar as before just a lot more storage
 
 ### To Do and Notes
 
-I decided to review both of these applications together because they are both identical to how they were in the original Sidekick. The To Do list program is still a helpful way to organize a dayâ€™s task as well as make a grocery list. The Notes application is still a wonderfully useful tool to take quick notes reminding you where you parked at the airport as well as write long articles like a lot of my rough drafts for chrisshort.net.
+I decided to review both of these applications together because they are both identical to how they were in the original Sidekick. The To Do list program is still a helpful way to organize a day's task as well as make a grocery list. The Notes application is still a wonderfully useful tool to take quick notes reminding you where you parked at the airport as well as write long articles like a lot of my rough drafts for chrisshort.net.
 
 ### Camera
 
@@ -102,10 +101,10 @@ The Sidekick II as a camera is easy to use especially since the shutter button i
 Here is an example from SeaWorld comparing the Sidekick II's 1.3 megapixel camera to the Sony DSC-P72 Cyber-shot 3.2 megapixel digital camera:
 
 Sidekick II
-![Sidekick II](https://shortcdn.com/chrisshort/sidekick-II-seaworld-comparison.jpg)
+![Sidekick II](sidekick-II-seaworld-comparison.webp)
 
 Sony DSC-P72 Cyber-shot 3.2 megapixel digital camera
-![Sony DSC-P72 Cyber-shot 3.2 megapixel digital camera](https://shortcdn.com/chrisshort/sony-sidekick-II-seaworld-comparison.jpg)
+![Sony DSC-P72 Cyber-shot 3.2 megapixel digital camera](sony-sidekick-II-seaworld-comparison.webp)
 
 ### Other Applications
 
@@ -137,6 +136,6 @@ Danger, Inc. has definitely turned the Sidekick II into a better phone.
 
 Overall the Sidekick II is a vast improvement over the Sidekick. It smokes similar devices as well. It's being marketed to the young and hip crowd but could definitely be used by business professionals as well. Don't get me wrong, there is room for improvement but before you run out and spend gobs of money on a Pocket PC or a Blackberry consider the Sidekick II.
 
-If you have more questions about the Sidekick II don't hesitate to leave a comment or send me an e-mail (chris -AT- chrisshort -DOT- net).
+If you have more questions about the Sidekick II don't hesitate [contact me](/contact).
 
 The [T-Mobile Sidekick II](https://en.wikipedia.org/wiki/Danger_Hiptop#Hiptop2/T-Mobile_Sidekick_2_(Danger/Sharp)) is designed by [Danger, Inc.](https://en.wikipedia.org/wiki/Danger_Inc.)

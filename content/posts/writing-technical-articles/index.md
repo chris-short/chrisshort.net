@@ -52,7 +52,7 @@ Proofreading is hard. But, the good news is there are some tools available to he
 1. [Grammarly](https://www.grammarly.com/): The name says it all but, Grammarly will find the not so obvious mistakes in your works.
 2. [Hemingway Editor](http://www.hemingwayapp.com/): Hemingway Editor takes the concepts embued by Ernest Hemingway to make writing easier to digest.
 
-    NOTE: If there are other handy tools for proofreading or editing please [submit a pull request](https://github.com/chris-short/chrisshort.net/tree/master/content/post/writing-technical-articles) to this article.
+    NOTE: If there are other handy tools for proofreading or editing please [submit a pull request](https://github.com/chris-short/chrisshort.net/blob/main/content/posts/writing-technical-articles/index.md) to this article.
 
 You can also ask for help proofreading. When in doubt, ask for help. Perhaps a friend, colleague, supervisor or family member has some skills to assist. It never hurts to ask. But, remember, that people edit for a living. Be sure to include a form of compensation for their time.
 

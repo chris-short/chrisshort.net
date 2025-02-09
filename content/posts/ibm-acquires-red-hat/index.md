@@ -17,10 +17,11 @@ tags:
 title: One Fish, Two Fish, Blue Fish Sporting New Red Hat
 ---
 
+{{< carbon >}}
+
 Since Sunday afternoon, I've been in a whirlwind of meetings, discussions, and calls about IBM's plan to acquire Red Hat for $34 billion. My mind has been racing but, after some consideration, I've decided to share my thoughts as a narrative timeline. Trust me when say that I have given this format considerable thought. It is likely the safest way (regulatory-wise) to deliver my thoughts on the topic.
 
 I would like to point out that I have updated [my **disclaimer** and this site's terms](/terms/). My views do not reflect those of my employer or entities I'm affiliated with. Names are withheld for obvious reasons.
-
 
 ## "At least it wasn't Oracle"
 
@@ -29,8 +30,6 @@ On Sunday, October 29, 2018, I was watching my two older nephews play with Max a
 I opened the story, skimmed it, and got up to go find my wife, Julie. I show her the story. Julie knows IBM from living in Raleigh for a decade (not a good decade for IBM either). I don't recall exactly what she said or did but, it made me start looking for more information. While opening Inoreader an alert from Reuters came in, [IBM nears deal to acquire cyber security company Red Hat: sources](https://www.reuters.com/article/us-red-hat-m-a-ibm/ibm-nears-deal-to-acquire-cyber-security-company-red-hat-sources-idUSKCN1N20N3).
 
 I opened Gmail so I could see what Red Hat's stream of consciousness (aka memo-list) is saying; it was calm (only four e-mails, some wondering if it's a hoax). Then Business Insider broke their story, [IT'S OFFICIAL: IBM is acquiring software company Red Hat for $34 billion](https://www.businessinsider.com/ibm-is-reportedly-nearing-a-deal-to-acquire-redhat-the-software-company-valued-at-20-billion-2018-10).
-
-{{< carbon >}}
 
 It was an odd feeling. Like, maybe I could have said something knowing it wouldn't have mattered. It was a sensation of not even getting a chance to do something. In the span of 24 minutes, I went from having a pretty great day to having what was akin to a panic attack.
 
@@ -60,7 +59,7 @@ My next all-hands was with my business unit leadership. They were very open, hon
 >
 > Please keep in mind, IBM has been building, for a decade or more, negative thoughts in peoples minds. Their own actions have affected friends and family negatively. I know companies exist to deliver value to investors. But, we live in a very different world. Red Hat was this shining beacon of hope for people. Peoples' hopes and dreams are on uncertain footing now.
 >
-> Some of us now have this fear of an IBM blue washing of Red Hat. Google has shown for years that, psychological safety is important to effective teams (<https://rework.withgoogle.com/blog/five-keys-to-a-successful-google-team/>). Being as psychologically safe at a company as I am at Red Hat has never happened to me before. It has been liberating. I don't feel safe being as open as I was last week and this is the first twelve hours. Please help folks try to feel safe through this acquisition.
+> Some of us now have this fear of an IBM blue washing of Red Hat. Google has shown for years that, psychological safety is important to effective teams (<https://rework.withgoogle.com/en/guides/understanding-team-effectiveness/>). Being as psychologically safe at a company as I am at Red Hat has never happened to me before. It has been liberating. I don't feel safe being as open as I was last week and this is the first twelve hours. Please help folks try to feel safe through this acquisition.
 >
 > Last week, I told a friend I finally found a place to call home in Red Hat. That friend is now trying to recruit me away from Red Hat. As I'm sure you're painfully aware, the industry moves way faster than this acquisition ever will. Please keep that in mind
 >
