@@ -22,7 +22,7 @@ title: The Demise of Google Fiber and Internet Under Dirt
 
 If you have not heard the news, [Google Fiber is no longer expanding](http://www.usatoday.com/story/tech/news/2016/10/25/google-fiber-halts-rollout-ceo-leaves/92746288/) its installation in the 10 markets they service and the head of Google Access (the Google Fiber overlord company), Craig Barratt, is stepping down.
 
-Also in the news, was a [little-publicized statement from AT&T's chief executive, Randall Stephenson](http://www.nytimes.com/2016/10/24/business/making-sense-of-atts-bid-for-time-warner.html), where he said, "I will be sorely disappointed if we are not going head-to-head" with cable companies by 2021.
+Also in the news, was a [little-publicized statement from AT&T's chief executive, Randall Stephenson](https://www.nytimes.com/2016/10/24/business/making-sense-of-atts-bid-for-time-warner.html), where he said, "I will be sorely disappointed if we are not going head-to-head" with cable companies by 2021.
 
 As an aside, AT&T's plan to compete with cable providers is already feasible. [AT&T is already testing its 5G network](https://about.att.com/story/unveils_5g_roadmap_including_trials.html) and expects a full 5G deployment by 2020-2021. A 5G network will be more than capable of providing TV over internet. AT&T's acquisition of DirecTV and their upcoming 5G network means they have the ability to go head-to-head with cable companies in a big way. They only need Time Warner to compete with Comcast because Comcast owns content creators; AT&T does not.
 
