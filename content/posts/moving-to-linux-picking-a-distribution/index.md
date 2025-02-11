@@ -11,14 +11,13 @@ tags:
 title: Moving to Linux - Picking a Distribution
 ---
 
+{{< carbon >}}
+
 After deciding to [move to Linux](/moving-to-linux/) and determining that [my hardware is compatible with Linux](/moving-to-linux-hardware-compatibility/), it's time to pick a Linux distribution.
 
 Choosing the right distribution for you is exactly that. You have to choose the right distribution for YOU. There is no one size fits all Linux distro. You have to think about what you're looking for in a Linux distro and essentially rule out the ones that won't fit you. Lou Grinzo said it best. In an article on ZDNet on 11 Sep 2000 he wrote, "Picking the right version just takes planning." This still holds true today. I'm trying to determine which Linux distro is going to work for me and the users in my household. Should I go with a major or minor distro? Should I pick an easy to use distro or a more pure Linux distro? What about support? What differentiates the distros? There are a few things I'm looking for specifically for my Windows replacement Linux distro.
 
-
 The first hurdle I'll clear is whether or not I should choose a major or minor Linux distribution. There are questions about which Linux distros are major Linux distributions. I've done quite a bit of looking around and have seem to found a common grouping of five major Linux distributions; Red Hat, Mandrake, SuSE, Debian, and Slackware are all very good and widely distributed Linux distros. They are also what I'm going to refer to as major Linux distributions. There are hundreds (if not thousands) of minor Linux distros out as well. CollegeLinux, Caldera OpenLinux, and Gentoo Linux are all viable Linux distributions but aren't exactly designed for the commercial or "Oh dear God, who can I call to fix this" user. The minor Linux distros also don't have the robust support networks that the major Linux distributions do nor do they have as wide a user base. So needless to say, due to the need for corporate as well as user support and the need for dependability, in terms of the development cycle/capability, my distribution needs to be a major one. So potentially thousands of choices are narrowed down to five. Now I just have to take five and narrow it down to one.
-
-{{< carbon >}}
 
 The next question is: Should I choose an easy to use Linux distribution or a more pure Linux distribution. The advantage of going with an easy to use Linux distro is obvious. The learning curve won't be as steep, the installation will go easier, and the total move to Linux will go faster. The advantages behind going with a purer Linux distro is that I'll be pushing towards a Linux PhD from day one, adherence to standards, and rock hard stability. The advantages of easy to use are the disadvantages of a more pure Linux distro and vice versa. The easy to use Linux distribution will adhere to standards but may deviate slightly in certain areas while the pure Linux distro will hurdle after hurdle just trying to get everything the way it needs to be for all users in my house. The idea is to find the right combination of purity and ease. In my case, I'll be leaning a little towards the easy to use Linux distributions. So that rules out Debian and Slackware. Both are great distributions but both have a reputation of being the Linux user's Linux. Debian is a rock steady, openly developed Linux distro but is usually a little slower with hardware support because of that. Slackware typically distributes the sources to its distribution and requires that user compiles and installs everything. This definitely has its advantages but I don't want my learning curve to be completely vertical so I'll have to choose between Red Hat, Mandrake, and SuSE. Five have been narrowed down to three.
 
@@ -39,5 +38,4 @@ So from that it seems that Mandrake Linux is more suited for the desktop. Mandra
 ~~[Red Hat Linux](https://www.redhat.com/)~~
 [**CentOS**](https://www.centos.org/)
 
-**Resources**: [DistroWatch](http://distrowatch.com/), [Linux Questions ISOs](http://iso.linuxquestions.org/), [Red Hat Network](https://access.redhat.com/), [SuSE](https://www.suse.com/)
-
+**Resources**: [DistroWatch](https://distrowatch.com/), [Linux Questions ISOs](http://iso.linuxquestions.org/), [Red Hat Network](https://access.redhat.com/), [SuSE](https://www.suse.com/)

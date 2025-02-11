@@ -11,10 +11,11 @@ tags:
 title: Moving to Linux - Partitioning
 ---
 
+{{< carbon >}}
+
 After deciding to make the [move to Linux](/moving-to-linux/), determining that my [hardware is compatible with Linux](/moving-to-linux-hardware-compatibility/), and after [picking a Linux distro](/moving-to-linux-picking-a-distribution/) it's time to decide how to partition my hard drive.
 
 Unlike Microsoft Windows where one partition is usually the case, Linux users agree that a few partitions should be made for certain paths that Linux uses. I've done some research on the [Linux Directory Structure](/linux-directory-structure/) and that would be very helpful information to read before continuing if you're not too familiar with Linux already.
-
 
 A lot of people agree that the only things a home user should have to really worry about, in terms of partitioning are a swap partition and the root partition. Swap is similar to the Windows page file or virtual memory (virtual memory is the total of RAM and swap space). Root is used in Linux as the directory that everything else falls under, even devices (like hard drives, CD-ROMs, etc.). In most cases a home user really should just have a swap and root partition, it keeps things simple. But in my case I'm going to be using a huge drive (200 GB) and want certain things sorted a certain way. I also want the ability of positioning things on the hard disk so that MP3s for example aren't sharing the same space with critical files and documents. I'll also be using a second hard drive (20 GB) for simple file storage and activities that have a high disk usage (burning CDs).
 
@@ -23,8 +24,6 @@ I've seen some very complex Linux partitioning schemes before. A lot of distribu
 ## Swap
 
 First, I had to determine a few things like, max swap partition sizes, a recommended size for a /boot partition, and how much empty space I'd need to edit digital video and how much storage space I want for MP3s. While doing all this I ran into a few stumbling blocks and a few tips. First, swap partitions on the i386 architecture can have a max size of 2 GB (on kernels newer than version 2.1). There can also be a maximum of eight swap partitions. The Linux Partition HOWTO recommends putting the swap partition on a fast part of the disk, placing the swap partition on a low activity disk, and if possible creating swap partitions on multiple disks and controllers. So essentially, on newer disks, it would be advisable to put the swap partition on the outside of the disk.
-
-{{< carbon >}}
 
 Being that I have two hard drives available (both on different controllers) I'll create a swap partition after the /boot partition on the 200 GB disk and the first partition on the 20 GB drive will be a swap partition. This should create optimal swap performance. The size of both partitions, being that available space isn't an issue in my case, will be 1 GB each, totaling 2 GB of swap space.
 
@@ -72,7 +71,5 @@ This overall partitioning scheme allows the most flexibility and best performanc
 #### Resources
 
 * [Linux Directory Structure](/linux-directory-structure/)
-* [Linux Partition HOWTO](http://www.tldp.org/HOWTO/Partition/index.html)
+* [Linux Partition HOWTO](https://tldp.org/HOWTO/Partition/index.html)
 * [comp.os.linux](https://groups.google.com/forum/#!search/comp.os.linux)
-
-

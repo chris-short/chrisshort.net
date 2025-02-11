@@ -14,6 +14,8 @@ tags:
 title: Joining Ansible Team at Red Hat
 ---
 
+{{< carbon >}}
+
 > tl;dr "It is with great pleasure that I announce I am joining the [Ansible](https://www.ansible.com/) team at [Red Hat](https://www.redhat.com/) as Principal Product Marketing Manager."
 
 ## In The Beginning...
@@ -24,8 +26,6 @@ In 1998, I was working at a dial-up ISP in Hickory, NC. We were heavily invested
 When the [Dot-com bubble](https://en.wikipedia.org/wiki/Dot-com_bubble) began to burst and trouble loomed on the horizon for tech jobs, I joined the US Air Force. Soon after arriving at my first duty station, I was asked to take part in an exercise, [JEFX 2000](https://en.wikipedia.org/wiki/JEFX). During one of the experiments, I set up a Red Hat-based distro to monitor network device activity. This might have been the first use of Linux in the Air Force (confirming that is difficult). As the Red Teams worked their magic we were able to watch spikes in activity across the network in real-time on a Red Hat Linux-based system.
 
 From that point forward, I carried the Linux and open source mantles into battle. I find ways to solve complex problems on Defense Department networks using Linux and open source tools. SELinux paved the way for DoD to be able to embrace Red Hat Enterprise Linux when it was made available. This was my future and I knew it in the late 1990s.
-
-{{< carbon >}}
 
 ## The Ansible Journey Begins
 
@@ -49,4 +49,4 @@ Most importantly, I want to facilitate more collaboration between all the projec
 
 ## Conclusion
 
-I would like to thank Karen Lawton and John Willis of [SJ Technologies](https://sjtechcorp.com). They brought me on board to help a few clients and I feel like I was able to accomplish that in six short months. Thank you to the DevOps community for embracing me in a way that few other communities have. I might not be as active on the DevOpsDays speaking circuit but, I'll definitely be around (and will still be submitting [Abstracts](/abstracts/) as appropriate). Most importantly, thank you to Justin Nemmers and all my new colleagues at Red Hat. I am looking forward to working with you all. I think this is a fantastic fit!
+I would like to thank Karen Lawton and John Willis of SJ Technologies. They brought me on board to help a few clients and I feel like I was able to accomplish that in six short months. Thank you to the DevOps community for embracing me in a way that few other communities have. I might not be as active on the DevOpsDays speaking circuit but, I'll definitely be around (and will still be submitting [Abstracts](/abstracts/) as appropriate). Most importantly, thank you to Justin Nemmers and all my new colleagues at Red Hat. I am looking forward to working with you all. I think this is a fantastic fit!

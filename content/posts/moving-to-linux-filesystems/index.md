@@ -87,4 +87,4 @@ swap                1 GB  Linux swap filesystem
 
 ### Resources
 
-[Filesystems HOWTO](https://www.tldp.org/HOWTO/html_single/Filesystems-HOWTO/), [Design and Implementation of the Second Extended Filesystem](http://e2fsprogs.sourceforge.net/ext2intro.html),  [Linux ext3 FAQ](http://batleth.sapienti-sat.org/projects/FAQs/ext3-faq.html), [NAMESYS](https://en.wikipedia.org/wiki/Namesys) (ReiserFS), [Linux XFS FAQ](https://web.archive.org/web/20090105174540/http://xfs.org/index.php/XFS_FAQ)
+[Filesystems HOWTO](https://www.tldp.org/HOWTO/html_single/Filesystems-HOWTO/), [Design and Implementation of the Second Extended Filesystem](https://e2fsprogs.sourceforge.net/ext2intro.html),  [Linux ext3 FAQ](http://batleth.sapienti-sat.org/projects/FAQs/ext3-faq.html), [NAMESYS](https://en.wikipedia.org/wiki/Namesys) (ReiserFS), [Linux XFS FAQ](https://web.archive.org/web/20090105174540/http://xfs.org/index.php/XFS_FAQ)
