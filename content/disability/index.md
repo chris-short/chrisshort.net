@@ -10,20 +10,36 @@ aliases:
 author: Chris Short
 date: "2023-01-17"
 lastmod: "2025-02-11"
-description: I was unfortunately injured back in 2003 while in the Air Force and have lived a pretty full life with disabilities. Learn more about what works for me.
+description: A disabled veteran shares his comprehensive experience managing long thoracic nerve palsy, chronic pain, and various treatments, including medications, injections, and alternative therapies after a military service injury.
 tags:
+- Edward Snowden
+- disability
+- disabled
+- disabled veteran
+- health
+- healthcare
+- inflammation
+- injections
+- injury
 - long thoracic nerve
 - long thoracic nerve palsy
-- winged scapula
-- nerve damage
-- disabled veteran
+- medication
 - mental health
+- nerve damage
 - opioid
+- pain
 - painkillers
+- paralysis
+- physical therapy
+- shoulder
+- spasms
+- spine
+- spine damage
+- trigger point
 - trigger point injections
 - trigger points
-- spine damage
-- 
+- winged scapula
+- winging scapula
 title: My Disability
 ---
 
@@ -35,13 +51,15 @@ I'm [Chris Short](/about), and I am a **disabled veteran**. On October 12, 2003,
 
 My life has changed dramatically since I got hurt. Pain is something that I am constantly trying to live with and occasionally thrive with. I have more issues and diagnoses to list here, but I think listing some of them here helps.
 
+I was in the Veterans Administration (VA) healthcare system for over a decade and have since switched to using my private insurance as the care is more modern and easily accessible. If you like the VA, good for you! However, it utterly failed me.
+
 ## Issues
 
 ### Winging of the Scapula
 
 According to Wikipedia, "A **winged scapula** (scapula alata) is a condition in which the shoulder blade, or shoulder bone, protrudes from a person's back in an abnormal position. It is a rare condition with the potential to lead to limited functional activity in the upper extremity with which it is adjacent. It can affect a person's ability to lift, pull, and push weighty objects."
 
-My winging is "managed," meaning the only change is when there's an increase in inflammation under the scapula. Where it currently sits is its new normal. It took a ton of grueling physical therapy. With every round of physical therapy for this, there was a diminishing point of return. Doing physical therapy when the scapula's position was not improving led to an increase in prescription pain medication consumption. That's ultimately how all my stints in physical therapy end.
+My winging is "managed," meaning the only change is when there's an increase in inflammation under the scapula. Where it currently sits is the new normal. It took a ton of grueling physical therapy. With every round of physical therapy for this, there was a diminishing point of return. Doing physical therapy when the scapula's position was not improving led to an increase in prescription pain medication consumption. That's ultimately how all my stints in physical therapy end.
 
 ### Long Thoracic Nerve (LTN) Palsy
 
@@ -55,11 +73,14 @@ The **long thoracic nerve** (LTN) is a nerve that arises from the fifth, sixth, 
 
 ### Mental Health
 
-Needless to say, having a permanent injury (aka disability) is taxing on one's mind and psyche. Also, I worked a big chunk of my time in the intelligence community, mainly in joint assignments with all the services. I know a lot about the US national security apparatus and its adversaries.
+Needless to say, having a permanent injury (aka disability) is taxing on one's mind and psyche. Also, I worked a lot of my time in the intelligence community, mainly in joint assignments with all the services. I know a lot about the US national security apparatus and its adversaries.
 
 My time also overlapped with Edward Snowden. I did not know or work with Snowden directly. Still, the breaking down of the walls of the compartmentalization inside the US national security apparatus has led to mental health issues. "The curse of knowledge" has a different meaning to me. Compounding matters, I had a rough childhood. I didn't know this until I started dating my wife and saw how her family acted 110% differently than mine. Treatment led me to realize that my issues are tied to my rocky upbringing and the Snowden leaks. The leaks broke my mental model of what I thought was a solid government career in service to a nation cut short by injury. The knowledge has turned that period of my life into an 11-year regrettable moment.
 
-**Note**: if a mental health professional prescribes you clonazepam (Klonopin), fire them and find a younger one. It is a highly addictive drug that takes a long time to get off of and puts real obstacles in the way of pain management. I hope to be off these by mid-2025 (almost two years of tapering me off this med).
+**Tips**
+
+1. If a mental health professional prescribes you clonazepam (Klonopin), fire them and find a younger one. It is a highly addictive drug that takes a long time to get off of and puts real obstacles in the way of pain management. I hope to be off these by mid-2025 (almost two years of tapering me off this med).
+2. If a health professional in the VA ever says, "You'll eat them alive," that's your queue to get out of the VA as it's not designed for your specific needs. Trying to use the VA no matter what is not a good plan. Think about what's best for you and not your wallet if you're able. It's not cheap, but private health insurance will always give you higher quality care than the VA.
 
 ## Pain Relief
 
@@ -87,9 +108,9 @@ At one point, I was taking Baclofen, Cyclobenzaprine, and Methocarbamol during t
 
 ### Non-traditional Remedies
 
-I have experimented with some herbal remedies at the advice of a handful of doctors, a chiropractor, and acupuncture. Acupuncture is not effective for me. Acupuncture makes things way worse for me. Chiropractors usually increase my pain medication intake and that's a very, very bad idea.
+I have experimented with some herbal remedies at the advice of a handful of doctors, a chiropractor, and acupuncture. Acupuncture is not effective for me. Acupuncture makes things way worse for me. Chiropractors usually increase my pain medication intake, and that's a very, very bad idea.
 
-After researching everyday chemicals and their ability to help muscle spasms, I added [Magnesium Citrate](https://a.co/d/7Xh6GW7) to the mix. It helps with the knocking or tapping spasms (it won't touch the big ones). It also supports digestive and nervous system functions. Friends have also recommended [Chelated Magnesium](https://a.co/d/6MIyKTG) if you want to avoid increased digestive functions.
+After researching everyday chemicals and their ability to help muscle spasms, I added [Magnesium Citrate](https://a.co/d/7Xh6GW7) to the mix. It helps with the knocking or tapping spasms (it won't touch the big ones). It also supports digestive and nervous system functions. Friends have also recommended [Chelated Magnesium](https://a.co/d/6MIyKTG) to avoid increased digestive functions.
 
 I have also taken [turmeric](https://amzn.to/3S3QN9P) to help with inflammation. However, it interacts with other meds I need to take. It wasn't a game-changer for me. But if it boosts your anti-inflammatory response, that can't be all bad.
 
@@ -97,7 +118,7 @@ I also take [glucosamine, chondroitin, and MSM](https://amzn.to/48VgrEO) supplem
 
 My primary care doctor told me to take vitamins C and D religiously. Vitamin C boosts my immune system (any sickness on top of my typical ailments is often debilitating). Vitamin D is due to the long winters in Michigan, causing a deficiency.
 
-I also deal with low sodium levels in my blood (hyponatremia). I drink a [Liquid IV](https://a.co/d/3Oaztya) every day, and when I can feel the low sodium level, I will drink two Liquid IVs a day to get it back to acceptable levels.
+I also deal with low sodium levels in my blood (hyponatremia). I drink a [Liquid IV](https://a.co/d/3Oaztya) every day, and when I can feel the low sodium level, I will drink two Liquid IVs daily to get it back to acceptable levels.
 
 ### Injections
 
