@@ -26,11 +26,11 @@ These three directives values' are actually tied together. **memory\_limit** is 
 
 {{< carbon >}}
 
-It's not until you read the documentation on [post\_max\_size](http://php.net/manual/en/ini.core.php#ini.post-max-size) that it is clearly laid out that these three directives are related:
+It's not until you read the documentation on [post\_max\_size](https://www.php.net/manual/en/ini.core.php#ini.post-max-size) that it is clearly laid out that these three directives are related:
 
 >This setting also affects file upload. To upload large files, this value must be larger than upload\_max\_filesize. Generally speaking, memory_limit should be larger than post\_max\_size.
 
-To summarize, memory\_limit must be greater than post\_max\_size and if your uploading files with a [POST method](http://www.w3schools.com/tags/ref_httpmethods.asp) post\_max\_size should be greater than upload\_max\_filesize.
+To summarize, memory\_limit must be greater than post\_max\_size and if your uploading files with a [POST method](https://www.w3schools.com/tags/ref_httpmethods.asp) post\_max\_size should be greater than upload\_max\_filesize.
 
 post\_max\_size > upload\_max\_filesize
 memory\_limit > post\_max\_size

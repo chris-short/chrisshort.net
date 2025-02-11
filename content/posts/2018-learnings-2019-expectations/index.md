@@ -37,7 +37,7 @@ Kubernetes vendors and the community as a whole will need to focus on ease of us
 
 As Kubernetes skills develop across the industry and the barrier to entry trends downward, new uses will emerge. There is already a big push for [Kubeflow](https://github.com/kubeflow/kubeflow) to become the defacto machine learning (ML) platform on Kubernetes. ML is only one of many solid uses for Kubernetes.
 
-One intriguing idea coming very close to the surface is to use Kubernetes as a hypervisor. Tools like [KubeVirt](http://kubevirt.io/) and [Kata Containers](https://katacontainers.io/) enable organizations to shorten onboarding of Kubernetes. These tools allow teams to keep legacy or hard to break apart virtualized workloads in Kubernetes environments. The KubeVirt homepage says it best:
+One intriguing idea coming very close to the surface is to use Kubernetes as a hypervisor. Tools like [KubeVirt](https://kubevirt.io/) and [Kata Containers](https://katacontainers.io/) enable organizations to shorten onboarding of Kubernetes. These tools allow teams to keep legacy or hard to break apart virtualized workloads in Kubernetes environments. The KubeVirt homepage says it best:
 
 > Benefits are broad and significant. Teams with a reliance on existing virtual machine-based workloads are empowered to rapidly containerize applications. With virtualized workloads placed directly in development workflows, teams can decompose them over time while still leveraging remaining virtualized components as is comfortably desired.
 >
@@ -61,7 +61,7 @@ This means there will be a ripe environment for new, niche buzzwords. We are alr
 
 [Goldratt](https://en.wikipedia.org/wiki/Eliyahu_M._Goldratt), [Deming](https://en.wikipedia.org/wiki/W._Edwards_Deming), etc. are as important now as they ever were. The core tenets of DevOps matter WAY more than whatever the term DevOps means to folks this week. Smaller batches of work, releasing more often, and reducing the cost of change are all good things if they improve business outcomes. The culture changes and retooling needed to make this happen will almost always be worth it to the business.
 
-The good news is some in the DevOps community have adapted to this new world. People like [Nicole Forsgren](http://nicolefv.com/) are charging to the helm armed with data. I learned more about DevOps and how to talk to people about it from [**Accelerate: The Science of Lean Software and DevOps: Building and Scaling High Performing Technology Organizations**](https://amzn.to/2BFXzLU) than a lot of other books I've read. Real world experiences and real outcomes are what's going to win in the long run. Buy the book, read it.
+The good news is some in the DevOps community have adapted to this new world. People like [Nicole Forsgren](https://nicolefv.com/) are charging to the helm armed with data. I learned more about DevOps and how to talk to people about it from [**Accelerate: The Science of Lean Software and DevOps: Building and Scaling High Performing Technology Organizations**](https://amzn.to/2BFXzLU) than a lot of other books I've read. Real world experiences and real outcomes are what's going to win in the long run. Buy the book, read it.
 
 *Note: ChrisShort.net may earn compensation for sales from links on this post through [affiliate programs](/terms#affiliate-link-policy).*
 

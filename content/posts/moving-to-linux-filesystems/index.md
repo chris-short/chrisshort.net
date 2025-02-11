@@ -15,12 +15,11 @@ tags:
 title: Moving to Linux - Filesystems
 ---
 
+{{< carbon >}}
+
 After deciding how my [hard disk will be partitioned in Linux](/moving-to-linux-partitioning/), I need to select a filesystem for those partitions. A filesystem is a system for organizing directories and files, generally in terms of how it is implemented in the disk operating system. In layman's terms it is code that tells your operating system how data is stored, organized, and managed on a hard disk drive.
 
-
 Every operating system has a filesystem of some sort. In the Microsoft Windows world you're fairly limited as to what filesystems are available to you. FAT, FAT32, NTFS, and eventually WinFS are really your only options. In Linux however, there are quite a few filesystems available. They all have their own unique advantages and disadvantages and can have application specific reasons for existence. In this article I'll be discussing what I believe the four candidate filesystems are for my move to Linux.
-
-{{< carbon >}}
 
 I have narrowed my four potential filesystems (based on popularity) to ext2, ext3, XFS, and ReiserFS. The last three in that list are journaling filesystems. A journaling filesystem basically creates a log (or journal) for each partition and keeps track of that partitions structural information (called metadata). The Filesystem HOWTO explained it best, here is a quote:
 
@@ -88,5 +87,4 @@ swap                1 GB  Linux swap filesystem
 
 ### Resources
 
-[Filesystems HOWTO](http://www.tldp.org/HOWTO/html_single/Filesystems-HOWTO/), 
-[Design and Implementation of the Second Extended Filesystem](http://e2fsprogs.sourceforge.net/ext2intro.html),  [Linux ext3 FAQ](http://batleth.sapienti-sat.org/projects/FAQs/ext3-faq.html), [NAMESYS](https://en.wikipedia.org/wiki/Namesys) (ReiserFS), [Linux XFS FAQ](https://web.archive.org/web/20090105174540/http://xfs.org/index.php/XFS_FAQ)
+[Filesystems HOWTO](https://www.tldp.org/HOWTO/html_single/Filesystems-HOWTO/), [Design and Implementation of the Second Extended Filesystem](http://e2fsprogs.sourceforge.net/ext2intro.html),  [Linux ext3 FAQ](http://batleth.sapienti-sat.org/projects/FAQs/ext3-faq.html), [NAMESYS](https://en.wikipedia.org/wiki/Namesys) (ReiserFS), [Linux XFS FAQ](https://web.archive.org/web/20090105174540/http://xfs.org/index.php/XFS_FAQ)

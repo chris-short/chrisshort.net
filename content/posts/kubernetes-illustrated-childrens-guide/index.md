@@ -47,4 +47,4 @@ When I first got a copy of The Illustrated Children's Guide to Kubernetes at an 
 
 {{< streaming d9498364-05b0-4c99-87f7-8a1067d1ff8c >}}
 
-Head over to [phippy.io](http://phippy.io/) for shenanigans with Phippy and Friends.
+Head over to [phippy.io](https://www.cncf.io/phippy/) for shenanigans with Phippy and Friends.

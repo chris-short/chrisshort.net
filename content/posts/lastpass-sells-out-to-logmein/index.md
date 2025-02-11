@@ -31,7 +31,7 @@ The response from LastPass has been a lot of damage control it would seem. But, 
 
 In a lunchtime update to the original LastPass statement, Joe Siegrist, CEO of LastPass wrote, "[W]e (LogMeIn/LastPass) have no plans to change our existing business model." Siegrist continues with some damage control, "It is also important to note that the current LastPass team is staying in place and remains committed to deliver on the promise of privacy, security and convenience that has been our mission since day one."
 
-It remains to be seen whether or not LastPass will be torn apart by LogMeIn. There are going to be a lot of people that are not going to wait around to find out. People abandoning ship is bad for investors in LastPass given [the deal that was struck with LogMeIn](http://blog.logmein.com/investors/logmein-acquire-password-management-leader-lastpass):
+It remains to be seen whether or not LastPass will be torn apart by LogMeIn. There are going to be a lot of people that are not going to wait around to find out. People abandoning ship is bad for investors in LastPass given the deal that was struck with LogMeIn:
 
 >**Transaction Details**:
 Under the terms of the transaction, LogMeIn will pay $110 million in cash for all outstanding equity interests in LastPass upon close, with up to an additional $15 million in cash payable in contingent payments expected to be paid to equity holders and key employees of LastPass upon the achievement of certain milestone and retention targets over the two-year period following the closing of the transaction.

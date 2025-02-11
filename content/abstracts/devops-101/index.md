@@ -39,7 +39,7 @@ This meeting will address both issues for both entry level professionals and tho
 
 * Take a Deep Breath
 * We are all allowed to have an opinion about this
-* <http://theoatmeal.com/comics/believe_clean>
+* <https://theoatmeal.com/comics/believe_clean>
 
 #### What DevOps Isn't
 
@@ -77,14 +77,8 @@ This meeting will address both issues for both entry level professionals and tho
 
 * Entire System Flow
 * Not One Box or Silo
-
-##### The First Way (cont'd)
-
 * This is a broken First Way
 * This is how a lot of IT organization operate
-
-##### The First Way (cont'd)
-
 * Who has run in to this problem?
 * Developers say it works, Ops says it's broken
 
@@ -105,9 +99,6 @@ This meeting will address both issues for both entry level professionals and tho
 * Continual Learning and Experimentation
 * This should be the goal of every IT organization
 * This is the process in which developers and operations are iterating small improvements to system and they are being pushed out to production through an often automate process
-
-#### The Third Way (cont'd)
-
 * This is The Third Way infinity loop
 * A process of Continuous Integration and Continuous Deployment (CI/CD)
 * This is very achievable and it's a great place to be
