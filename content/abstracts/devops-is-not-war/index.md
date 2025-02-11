@@ -138,7 +138,7 @@ Source: [Belfer Center for Science and International Affairs](https://www.belfer
 * Imagine if your network folks could automate and iterate as fast as the rest of your organization
 * Bring your network people into your DevOps transformation it will reduce conflict and alienation
 * Version controlled network configs are a thing network teams have struggled with for years
-    * [RANCID](http://www.shrubbery.net/rancid/)
+    * [RANCID](https://www.shrubbery.net/rancid/)
 * Concessions:
     * Greater purview into projects; knowing more sooner
     * More people available for on-call rotation

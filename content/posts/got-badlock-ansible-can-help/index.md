@@ -17,12 +17,12 @@ tags:
 title: Got Badlock? Ansible Can Help
 ---
 
-[Badlock](http://badlock.org/) might not be bad for all. If you are using Ansible you can patch your systems with a single playbook (or ad hoc command).
+{{< carbon >}}
+
+Badlock might not be bad for all. If you are using Ansible you can patch your systems with a single playbook (or ad hoc command).
 
 For RPM based OS users Badlock (samba) patching is as easy as:
 `ansible -m shell -a "yum update *samba*" all`
-
-{{< carbon >}}
 
 Or you can be very granular and use an Ansible Playbook to audit and patch samba packages:
 

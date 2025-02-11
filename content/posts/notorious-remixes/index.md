@@ -28,13 +28,13 @@ The Notorious B.I.G., Biggie, Biggie Smalls, Big Poppa, The Black Frank White, T
 
 the notorious xx is a mashup of The xx (a British group) with various Notorious B.I.G. songs. It was mixed by [wait what](http://waitwhatmusic.com/). It is a fantastically cool and fun remix that was called "best mashup album of 2010" by [The Guardian](https://www.theguardian.com/music/2010/sep/16/click-download-shuffler-charlie-kubal). Download [**the notorious xx**](https://shortcdn.com/chrisshort/the%20notorious%20xx.zip) or stream it
 
-<iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=807865423/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/transparent=true/" seamless><a href="http://waitwhat.bandcamp.com/album/the-notorious-xx">the notorious xx by wait what</a></iframe>
+<iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=807865423/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/transparent=true/" seamless><a href="https://waitwhat.bandcamp.com/album/the-notorious-xx">the notorious xx by wait what</a></iframe>
 
 ## B​.​I​.​G. Flume
 
 Produced by [Jaymee Franchina](https://soundcloud.com/jaymeefranchina) and Jeremy Smith, B.I.G. Flume combines the works of Notorious B.I.G. with the sounds from down under of Flume. This is a very well done uptempo, electric mashup of Biggie's works. Download [**B.I.G. Flume**](https://shortcdn.com/chrisshort/Blue%20Eyes%20Meets%20Bed%20Stuy.zip) or stream it
 
-<iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=1211830762/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/transparent=true/" seamless><a href="http://jaymeefranchinajeremysmith.bandcamp.com/album/b-i-g-flume">B.I.G. Flume by Jaymee Franchina &amp; Jeremy Smith</a></iframe>
+<iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=1211830762/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/transparent=true/" seamless><a href="https://jaymeefranchinajeremysmith.bandcamp.com/album/b-i-g-flume">B.I.G. Flume by Jaymee Franchina &amp; Jeremy Smith</a></iframe>
 
 ## Life After Death Star
 
@@ -52,7 +52,7 @@ A tribute to two of New York's greatest exports (Frank Sinatra and The Notorious
 
 ## Watching OVER The Throne
 
-This remix is very special. Watching Over The Throne includes the fantastic lyrics of two of the greatest rappers of all time; The Notorious B.I.G. and Tupac. [DJ Rob Dinero](http://djrobdinero.com/) remixes these two great rappers lyrics with Jay-Z and Kanye's Watch The Throne album and it is really good. You can download [Watching OVER The Throne]( https://shortcdn.com/chrisshort/DJ%20Rob%20Dinero%20Presents%20-%20Watching%20OVER%20The%20Throne%20(Remastered).zip)
+This remix is very special. Watching Over The Throne includes the fantastic lyrics of two of the greatest rappers of all time; The Notorious B.I.G. and Tupac. [DJ Rob Dinero](https://djrobdinero.com/) remixes these two great rappers lyrics with Jay-Z and Kanye's Watch The Throne album and it is really good. You can download [Watching OVER The Throne]( https://shortcdn.com/chrisshort/DJ%20Rob%20Dinero%20Presents%20-%20Watching%20OVER%20The%20Throne%20(Remastered).zip)
 
 ## Gratefully D.E.A.D. - Notorious B.I.G. vs Grateful Dead
 

@@ -3,7 +3,7 @@ aliases:
 - ntp-go-ahead-and-love-it
 author: Chris Short
 cover:
-  caption: 'Photo Credit: [Matteo Ianeselli](https://commons.wikimedia.org/wiki/User:Ianezz)  via [Wikimedia Commons](http://commons.wikimedia.org/)'
+  caption: 'Photo Credit: [Matteo Ianeselli](https://commons.wikimedia.org/wiki/User:Ianezz)  via [Wikimedia Commons](https://commons.wikimedia.org/)'
   image: Trento-Mercatino_dei_Gaudenti-alarm_clocks.jpg
   relative: true
 date: "2016-11-02"
@@ -17,13 +17,14 @@ tags:
 title: 'NTP: I Need You to Go Ahead and Love It'
 ---
 
+{{< carbon >}}
+
 It's 2016 (almost 2017) why is the time off on your system clocks? It became apparent to me that there are some folks out there that do not realize their clocks are off for a reason. [Julia Evans](https://twitter.com/b0rk) recently made a graphic about [distributed systems](https://twitter.com/b0rk/status/793288477060263936) that mentioned clock issues and it made me really sad.
 
 ![Clocks Lie](clocks-lie.jpg#center)  
-Photo Credit: [Julia Evans](http://jvns.ca/)
+Photo Credit: [Julia Evans](https://jvns.ca/)
 
 We had a saying when I was in the Air Force, "*Timing is everything.*" We lugged around GPS receivers that hooked up to our bulk and circuit encryption devices so that they would have accurate, consistent time with other encryption devices around the world.
-
 
 The same theory still exists in modern encryption tools today. Set your clock to some arbitrary time and try to go to an HTTPS site. You might run into some issues.
 
@@ -35,9 +36,7 @@ The problem of clocks "lying" has been solved for years. What made me sad about 
 
 Source: [Wikipedia](https://en.wikipedia.org/wiki/Network_Time_Protocol)
 
-In a nutshell, if you properly set up NTP on your network devices and systems you can have consistently set clocks across your enterprise. Keep in mind, NTP is time zone agnostic, it will not solve your time zone problems (you still need to address time zones in your environment). I would highly recommend bookmarking [RFC 5905](https://tools.ietf.org/html/rfc5905) and [ntp.org](http://www.ntp.org/) for future reference.
-
-{{< carbon >}}
+In a nutshell, if you properly set up NTP on your network devices and systems you can have consistently set clocks across your enterprise. Keep in mind, NTP is time zone agnostic, it will not solve your time zone problems (you still need to address time zones in your environment). I would highly recommend bookmarking [RFC 5905](https://tools.ietf.org/html/rfc5905) and [ntp.org](https://www.ntp.org/) for future reference.
 
 NTP utilizes UDP so it is very much a fire and forget protocol (which might be why NTP is so often unknown or poorly configured). ntpd (EL 6 or lower and Ubuntu) or chronyd (EL 7 or higher) are the Linux daemons (services) that are most commonly used to manage NTP (there are others but I have not used them lately).
 
@@ -53,7 +52,7 @@ The absolute best graphical representation of the NTP stratum hierarchy I have s
 
 ![NTP Stratum](stratum.png)
 
-If you are running bare metal, a virtual machine host, or a Docker Engine somewhere you need NTP. It will solve a lot of problems related to time. *I cannot emphasize enough the importance of NTP*. Many organizations have problems related to time that can be solved by a simple [Ansible playbook](https://galaxy.ansible.com/geerlingguy/ntp/), [yum](http://www.cyberciti.biz/faq/howto-install-ntp-to-synchronize-server-clock/), or [apt](https://help.ubuntu.com/lts/serverguide/NTP.html). Think of having accurate and consistent time across every device, log, and packet on your network. I actually run NTP on the AWS EC2 instance that I am writing this post on at the moment (scheduling posts for maximum exposure relies on good timing).
+If you are running bare metal, a virtual machine host, or a Docker Engine somewhere you need NTP. It will solve a lot of problems related to time. *I cannot emphasize enough the importance of NTP*. Many organizations have problems related to time that can be solved by a simple [Ansible playbook](https://galaxy.ansible.com/geerlingguy/ntp/), [yum](https://www.cyberciti.biz/faq/howto-install-ntp-to-synchronize-server-clock/), or [apt](https://help.ubuntu.com/lts/serverguide/NTP.html). Think of having accurate and consistent time across every device, log, and packet on your network. I actually run NTP on the AWS EC2 instance that I am writing this post on at the moment (scheduling posts for maximum exposure relies on good timing).
 
 ## How Does NTP Determine Quality?
 
@@ -84,10 +83,10 @@ In the output of `ntpq -p` there is a header row and then details about each tim
 * **t**: Stands for types available and it is usually u for unicast (I have not seen others in my twenty some years of using NTP)
 * **when**: The last time (in seconds) the source was checked
 * **poll**: How frequently (in seconds) the daemon will check the source for timing. This number goes up incrementally as a source is deemed reliable (the max is usually 1024 but is configurable).
-* **reach**: This is an octal value of the last eight polls. 377 is eight successful polls in a row. NTP is UDP based so there is no delivery guarantee. If you want to know more about this check out [Understanding NTP Reachability Statistics](http://www.linuxjournal.com/article/6812) (or [archived here as a PDF](https://shortcdn.com/chrisshort/pdf/Understanding_NTP_Reachability_Statistics_Linux_Journal.pdf) since it's a twelve-year-old article).
+* **reach**: This is an octal value of the last eight polls. 377 is eight successful polls in a row. NTP is UDP based so there is no delivery guarantee. If you want to know more about this check out [Understanding NTP Reachability Statistics](https://www.linuxjournal.com/article/6812) (or [archived here as a PDF](https://shortcdn.com/chrisshort/pdf/Understanding_NTP_Reachability_Statistics_Linux_Journal.pdf) since it's a twelve-year-old article).
 * **delay**: Represents the round-trip time (in milliseconds) to obtain a response from the remote. This could represent many things; usually, it is a representation of network congestion (from my experience).
 * **offset**: Shows the difference between the client (your system) and the remote (in milliseconds).
-* **jitter**: Jitter is by far the weirdest metric here. According to the [RFC](http://www.ietf.org/rfc/rfc5905.txt), "jitter is a valuable indicator of fundamental timekeeping performance and network congestion state." [ntp.org](http://www.ntp.org/ntpfaq/NTP-s-sw-clocks-quality.htm) states, "When repeatedly reading the time, the difference may vary almost randomly. The difference of these differences (second derivation) is called jitter."
+* **jitter**: Jitter is by far the weirdest metric here. According to the [RFC](https://www.ietf.org/rfc/rfc5905.txt), "jitter is a valuable indicator of fundamental timekeeping performance and network congestion state." [ntp.org](https://www.ntp.org/ntpfaq/NTP-s-sw-clocks-quality.htm) states, "When repeatedly reading the time, the difference may vary almost randomly. The difference of these differences (second derivation) is called jitter."
 
 But what are those symbols on the far left of the results table? The dashes (-), asterisks (*), and pluses (+) all represent something important as well. These are called **tally codes** and live in the left margin (the following is straight from the [ntpq man page](https://linux.die.net/man/8/ntpq)):
 
@@ -102,7 +101,7 @@ But what are those symbols on the far left of the results table? The dashes (-),
 
 ## NTP Pool
 
-It is trivial to setup NTP these days thanks to the [NTP Pool Project](http://www.pool.ntp.org/). What is an NTP Pool?
+It is trivial to setup NTP these days thanks to the [NTP Pool Project](https://www.pool.ntp.org/). What is an NTP Pool?
 
 >The pool.ntp.org project is a big virtual cluster of timeservers providing reliable easy to use NTP service for millions of clients.
 >
@@ -110,16 +109,16 @@ It is trivial to setup NTP these days thanks to the [NTP Pool Project](http://ww
 
 If you are running a popular Linux distro or supported AWS AMI chances are when you install an NTP daemon (if it is not setup with one already) it will come pre-configured with NTP pool servers by default. This completely takes the guess work out of determining quality NTP servers.
 
-I run an NTP pool server from my house. If you are using the pool in the US there is a chance you could be using timing from ntp.chrisshort.net. The more servers in the pools the better off systems using the pool will be. But, do not take adding a server to the pool lightly. There are some security concerns and configuration best practices that need to be taken into account when running a public NTP server that are outside the scope of this article.
+The more servers in the pools the better off systems using the pool will be. But, do not take adding a server to the pool lightly. There are some security concerns and configuration best practices that need to be taken into account when running a public NTP server that are outside the scope of this article.
 
 ## How Many NTP Sources Do I Need?
 
-I have personally seen in far too many places where the number of NTP sources has been set too low. I have also argued with co-workers about the "right" number of NTP sources to use in your NTP configuration. My recommendation to folks new to NTP is to use the [NTP pool servers](http://www.pool.ntp.org/). However, according to [ntp.org](http://support.ntp.org/bin/view/Support/SelectingOffsiteNTPServers#Section_5.3.3.), you should have an **absolute minimum of four NTP sources** on your systems:
+I have personally seen in far too many places where the number of NTP sources has been set too low. I have also argued with co-workers about the "right" number of NTP sources to use in your NTP configuration. My recommendation to folks new to NTP is to use the [NTP pool servers](https://www.pool.ntp.org/). However, according to [ntp.org](https://support.ntp.org/bin/view/Support/SelectingOffsiteNTPServers#Section_5.3.3.), you should have an **absolute minimum of four NTP sources** on your systems:
 
 > With three servers, you have the minimum number of time sources needed to allow ntpd to detect if one time source is a "falseticker". However ntpd will then be in the position of choosing from the two remaining sources.This configuration provides no redundancy.
 >
 > With at least four upstream servers, one (or more) can be a "falseticker", or just unreachable, and ntpd will have a sufficient number of sources to choose from.
 
-Not one, not two, not even three NTP sources is technically good enough. Use an absolute minimum of four, period. I encourage you to use more if you can but do not go overboard. ntp.chrisshort.net (the output from its `ntpq -p` is used above) is intentionally using a higher number of servers and peers to keep timing consistent on somewhat less than great hardware.
+Not one, not two, not even three NTP sources is technically good enough. Use an absolute minimum of four, period. I encourage you to use more if you can but do not go overboard.
 
 There is so much more that I could write about NTP. It is a truly fascinating protocol that has such a rich history. I encourage you to be aware of NTP and time in your day-to-day work. I also highly recommend researching more about NTP while I work on a follow-up to this piece.

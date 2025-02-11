@@ -42,7 +42,7 @@ Air travel is generally okay for me. I don't seem to mind the crowds at airports
 
 {{< carbon >}}
 
-I was not looking forward to four hours on a plane. My busted ankles do weird things on longer flights. Couple that with the fact I'm huge, which makes it hard to stay comfortable long in small seats. Also, don't  get me started on the hell that flying put [my shoulder and back](/long-thoracic-nerve-palsy/) through. I mentioned my unfortunate seat selection to [Emily Freeman](http://editingemily.com) she asked if I thought about upgrading myself to First Class. Emily made a very logical argument and I'm very glad she did (thank you, Ems). I had to hit the ground running in Seattle. Being a ball of knots and high on painkillers wasn't an option.
+I was not looking forward to four hours on a plane. My busted ankles do weird things on longer flights. Couple that with the fact I'm huge, which makes it hard to stay comfortable long in small seats. Also, don't  get me started on the hell that flying put [my shoulder and back](/disability/) through. I mentioned my unfortunate seat selection to [Emily Freeman](https://emilyfreeman.io) she asked if I thought about upgrading myself to First Class. Emily made a very logical argument and I'm very glad she did (thank you, Ems). I had to hit the ground running in Seattle. Being a ball of knots and high on painkillers wasn't an option.
 
 I sat up front on the way to Seattle. What it costs me monetarily more than paid for itself in reduced pain and lower anxiety as a result. It worked better than expected. I didn't hurt too bad when we landed despite it already being a long day (Max got up in the five o'clock hour that morning). I met [Chuck Svoboda](https://twitter.com/Chuckernetes/) onboard too!
 

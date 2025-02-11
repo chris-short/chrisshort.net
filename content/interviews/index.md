@@ -419,7 +419,7 @@ Download: [MP3](https://shortcdn.com/chrisshort/Episode-2-Shoving-a-SAN-into-us-
 
 Date: 2016-10-30
 
-Source: [The Cloudcast #277 - DevOps Perspectives from the Front Lines](http://www.thecloudcast.net/2016/10/the-cloudcast-277-devops-perspective.html)
+Source: [The Cloudcast #277 - DevOps Perspectives from the Front Lines](https://www.thecloudcast.net/2016/10/the-cloudcast-277-devops-perspective.html)
 
 Blog Post: [DevOps Perspectives from the Front Lines](/devops-perspectives-from-the-front-lines/)
 

@@ -37,7 +37,7 @@ Your domain name should be brandable (example: Google, Amazon, Yahoo, etc.), eas
 
 ### www or not www
 
-The choice is yours, `http://www.mysite.com/` or `http://mysite.com/` pick one and stick with it. I recommend using the www because the basic Joe Schmoe web server tends to type in www any way.
+The choice is yours, `https://www.mysite.com/` or `https://mysite.com/` pick one and stick with it. I recommend using the www because the basic Joe Schmoe web server tends to type in www any way.
 
 ### Simple Design
 
@@ -53,7 +53,7 @@ Your filenames and directory names should contain keywords. If your page is abou
 
 ### Static URLs
 
-Static URLs are URLs that are not dynamically generated. A static URL looks like `http://www.mysite.com/directory/file-name.html` and dynamic URLs look like `http://www.mysite.com/index.html?page-name=`. You can make dynamic URLs spiderable by search engines but it's a lot easier to get things indexed with static URLs.
+Static URLs are URLs that are not dynamically generated. A static URL looks like `https://www.mysite.com/directory/file-name.html` and dynamic URLs look like `https://www.mysite.com/index.html?page-name=`. You can make dynamic URLs spiderable by search engines but it's a lot easier to get things indexed with static URLs.
 
 ### Think Small
 

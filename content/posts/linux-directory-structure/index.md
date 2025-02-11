@@ -13,7 +13,7 @@ tags:
 title: Linux Directory Structure
 ---
 
-![Tux Directory Tree](tux-tree.gif) For more information about the Linux directory structure see the [Filesystem Hierarchy Standard (FHS)](http://www.pathname.com/fhs/) which is part of the [Linux Standard Base (LSB)](http://www.linuxbase.org/) which is a workgroup of the [Free Standards Group](http://www.freestandards.org/).
+![Tux Directory Tree](tux-tree.gif) For more information about the Linux directory structure see the [Filesystem Hierarchy Standard (FHS)](https://www.pathname.com/fhs/) which is part of the [Linux Standard Base (LSB)](https://wiki.linuxfoundation.org/lsb/start).
 
 {{< carbon >}}
 
@@ -25,7 +25,7 @@ title: Linux Directory Structure
 
 `/dev` This directory contains the devices available to Linux. Remember that Linux treats devices like files and you can read and write to them as if they were. Everything from floppy drives to printers to your mouse is contained in this directory. Included in this directory is the notorious /dev/null which is most useful for deleting outputs of various functions and programs.
 
-`/etc` Linux uses this directory to store system configuration files. Most files in this directory are text and can be edited with your favorite text editor (my favorite is ~~JED~~ [vim](http://www.vim.org/)). This is one of Linux's greatest advantages because there is never a hidden check box and just about all your configurations are in one place. **/etc/inittab** is a text file that details what processes are started at system boot up and during regular operation. **/etc/fstab** identifies file systems and their mount points (like floppy, CD-ROM, and hard disk drives). **/etc/passwd** is where users are defined.
+`/etc` Linux uses this directory to store system configuration files. Most files in this directory are text and can be edited with your favorite text editor (my favorite is ~~JED~~ [vim](https://www.vim.org/)). This is one of Linux's greatest advantages because there is never a hidden check box and just about all your configurations are in one place. **/etc/inittab** is a text file that details what processes are started at system boot up and during regular operation. **/etc/fstab** identifies file systems and their mount points (like floppy, CD-ROM, and hard disk drives). **/etc/passwd** is where users are defined.
 
 `/home` This is where every user on a Linux system will have a personal directory. If your username is "chris" then your home directory will be "/home/chris". A quick way to return to your home directory is by entering the "cd" command. Your current working directory will be changed to your home directory. Usually, the permissions on user directories are set so that only root and the user the directory belongs to can access or store information inside of it. When partioning a Linux file system this directory will typically need the most space.
 

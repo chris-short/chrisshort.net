@@ -15,7 +15,7 @@ tags:
 title: Interview with Gina Elise of Pin Ups for Vets
 ---
 
-If you've never heard of Gina Elise and her project [*Pin Ups for Vets*](http://www.pinupsforvets.com/) prepare to become very informed and amazed. Gina Elise is a 24-year-old who majored in theater at UCLA. It's not often that someone of Gina's age gets interested in helping people. It's even less often that someone from the state of California actively supports veterans and our troops like she does. Gina Elise is not your ordinary California girl, college graduate and with her Pin Ups for Vets calendars, specifically designed for troops and veterans, she is supporting the troops overseas, downrange, and veterans recovering here at home.
+If you've never heard of Gina Elise and her project [*Pin Ups for Vets*](https://www.pinupsforvets.com/) prepare to become very informed and amazed. Gina Elise is a 24-year-old who majored in theater at UCLA. It's not often that someone of Gina's age gets interested in helping people. It's even less often that someone from the state of California actively supports veterans and our troops like she does. Gina Elise is not your ordinary California girl, college graduate and with her Pin Ups for Vets calendars, specifically designed for troops and veterans, she is supporting the troops overseas, downrange, and veterans recovering here at home.
 
 ![Gina Elise of Pin Ups for Vets](pin-ups-for-vets-gina-elise.jpg)
 
@@ -34,4 +34,4 @@ When I asked how many calendars Gina had sold through Pin Ups for Vets I was a l
 
 I shouldn't say no one supports Gina Elise's Pin Ups for Vets though, "If it weren't for bloggers and the blog readers the project would not have been as successful. This is where I received the majority of support and sales. I want to thank all of them."
 
-I've already [ordered](http://pinupsforvets.mybigcommerce.com/) my [Pin Ups for Vets](http://www.pinupsforvets.com/) calendar and you should definitely buy one for yourself and send a few overseas. I'm positive no one will be disappointed.
+I've already [ordered](https://pinupsforvets.mybigcommerce.com/) my [Pin Ups for Vets](https://www.pinupsforvets.com/) calendar and you should definitely buy one for yourself and send a few overseas. I'm positive no one will be disappointed.

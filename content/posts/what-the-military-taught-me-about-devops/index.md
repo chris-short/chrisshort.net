@@ -2,7 +2,7 @@
 ShowTOC: false
 author: Chris Short
 cover:
-  caption: 'Photo: [Bridget Kromhout](http://bridgetkromhout.com/)'
+  caption: 'Photo: [Bridget Kromhout](https://bridgetkromhout.com/)'
   image: chris-short-devopsdays-detroit-2016-bridget-kromhout.jpg
   relative: true
 date: "2016-10-13"
@@ -19,4 +19,3 @@ I was invited to speak at [DevOpsDays Detroit 2016](https://www.devopsdays.org/e
 ## Slides
 
 {{< speakerdeck f384650d165c43ec89349d2b5cd51871 >}}
-

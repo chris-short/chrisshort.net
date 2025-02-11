@@ -200,7 +200,7 @@ Event: [All Day DevOps 2018](https://alldaydevops2018.sched.com/event/GEhz/devop
 
 Slides: [All Day DevOps - DevOps is Not a War](https://speakerdeck.com/chrisshort/all-day-devops-devops-is-not-a-war)
 
-Video: [All Day DevOps 2018 - DevOps is Not a War](http://play.sonatype.com/watch/PbTS2zEEfXF7M8dbNrXEQN?)
+Video: [All Day DevOps 2018 - DevOps is Not a War](https://play.sonatype.com/watch/PbTS2zEEfXF7M8dbNrXEQN?)
 
 ### Kubernetes Cron Jobs — DevOpsDays Columbus 2018
 

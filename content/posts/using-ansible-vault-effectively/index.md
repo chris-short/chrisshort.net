@@ -14,8 +14,9 @@ tags:
 title: Using Ansible Vault Effectively
 ---
 
-[**Ansible**](http://www.ansible.com/) is a great orchestration tool. The low barrier to entry and simplicity of Ansible are why so many people that start using it love it. But there is one feature in Ansible that probably should be used more often. That feature is [**Ansible Vault**](http://docs.ansible.com/ansible/playbooks_vault.html).
+{{< carbon >}}
 
+[**Ansible**](https://www.ansible.com/) is a great orchestration tool. The low barrier to entry and simplicity of Ansible are why so many people that start using it love it. But there is one feature in Ansible that probably should be used more often. That feature is [**Ansible Vault**](https://docs.ansible.com/ansible/latest/vault_guide/index.html).
 
 > "Vault" is a feature of ansible that allows keeping sensitive data such as passwords or keys in encrypted files, rather than as plaintext in your playbooks or roles. These vault files can then be distributed or placed in source control.
 
@@ -66,7 +67,7 @@ The ansible-vault-helper scripts assume your Ansible Vault password is in a file
 
 Scripts are intended to be somewhere in your path for convenience. Adding this repo to your path is highly recommended.
 
-More on Ansible Vault at http://docs.ansible.com/ansible/playbooks_vault.html
+More on Ansible Vault at https://docs.ansible.com/ansible/playbooks_vault.html
 
 **avcreate**: Creates Ansible Vault files
 
@@ -77,5 +78,3 @@ More on Ansible Vault at http://docs.ansible.com/ansible/playbooks_vault.html
 **avencrypt**: Encrypts file using Ansible Vault
 
 **avview**: Read-only view of an Ansible Vault file (less for Ansible Vaults)
-
-

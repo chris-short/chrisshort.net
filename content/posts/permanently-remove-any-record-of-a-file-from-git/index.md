@@ -45,6 +45,6 @@ Replace the centralized repo (aka REPO LOCATION) and any copies (cloud or otherw
 
 There are several guides and HOWTOs that we stumbled across to do this; those might work better for your use case (Google is your friend). But, this five step process worked very well for us.
 
-* [http://stackoverflow.com/questions/9224754/how-to-remove-origin-from-git-repository](http://stackoverflow.com/questions/9224754/how-to-remove-origin-from-git-repository)
-* [http://git-scm.com/docs/git-filter-branch](http://git-scm.com/docs/git-filter-branch)
+* [https://stackoverflow.com/questions/9224754/how-to-remove-origin-from-git-repository](https://stackoverflow.com/questions/9224754/how-to-remove-origin-from-git-repository)
+* [https://git-scm.com/docs/git-filter-branch](https://git-scm.com/docs/git-filter-branch)
 * [https://rtyley.github.io/bfg-repo-cleaner/](https://rtyley.github.io/bfg-repo-cleaner/)

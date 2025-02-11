@@ -50,7 +50,7 @@ In general, *try* to make three main topic points with no more than three subpoi
 Proofreading is hard. But, the good news is there are some tools available to help with proofreading. Obviously, re-reading the article is the preferred way to proofread. One suggestion is to take a break between writing the article and proofreading it. Have a meal, talk a walk, meditate, etc. This allows the mind to reset so the writer can more easily see typos or spelling mistakes. There are also two recommended tools for proofreading:
 
 1. [Grammarly](https://www.grammarly.com/): The name says it all but, Grammarly will find the not so obvious mistakes in your works.
-2. [Hemingway Editor](http://www.hemingwayapp.com/): Hemingway Editor takes the concepts embued by Ernest Hemingway to make writing easier to digest.
+2. [Hemingway Editor](https://hemingwayapp.com/): Hemingway Editor takes the concepts embued by Ernest Hemingway to make writing easier to digest.
 
     NOTE: If there are other handy tools for proofreading or editing please [submit a pull request](https://github.com/chris-short/chrisshort.net/blob/main/content/posts/writing-technical-articles/index.md) to this article.
 

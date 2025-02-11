@@ -77,7 +77,7 @@ Website: [Pin-Ups For Vets](https://www.pinupsforvets.com/)
 
 ### K2 Challenge via The Cloudcast
 
-Website: [The Cloudcast](http://www.thecloudcast.net/)
+Website: [The Cloudcast](https://www.thecloudcast.net/)
 
 > Since 2013, our community has raised over $27,000 to help the UNC Children's Hospital. We hope to continue that tradition in a big way again this year. Every little bit helps! Please join us through a donation, or come run the race with us!
 

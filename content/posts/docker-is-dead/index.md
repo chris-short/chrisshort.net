@@ -80,4 +80,4 @@ I floated out a theory on Twitter about the awkward moments for Docker in 2017. 
 * [DevOps'ish 154](https://devopsish.com/154/): Docker on life support, The Unicorn Project, KubeCon, Helm 3, Adidas DevOps Framework, and more
 * [Continuing coverage](https://devopsish.com/tags/docker/)
 
-> Japanese Translation: [Docker社は死んだ](http://itosho525.hatenablog.com/entry/2018/01/01/074358)
+> Japanese Translation: [Docker社は死んだ](https://itosho525.hatenablog.com/entry/2018/01/01/074358)
