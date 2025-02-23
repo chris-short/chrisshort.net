@@ -31,7 +31,7 @@ Open Source | DevOps | Kubernetes Contributor | r/devopsish | Disabled Veteran |
 
 ## Brief Bio
 
-**Chris Short** has been a proponent of open source solutions throughout his 30+ years in various IT disciplines, including systems, security, networks, DevOps management, and cloud native advocacy across the public and private sectors. He is an active [Kubernetes contributor](https://kubernetes.dev) and co-lead the [Kubernetes Contributor Comms](https://github.com/kubernetes/community/tree/master/communication/contributor-comms) team. Chris is a disabled US Air Force veteran living with his wife and son in Metro Detroit. Chris writes about Cloud Native, DevOps, and other topics at [ChrisShort.net](/).
+**Chris Short** has been a proponent of open source solutions throughout his 30+ years in various IT disciplines, including systems, security, networks, DevOps management, and cloud native advocacy across the public and private sectors. He is an active [Kubernetes contributor](https://kubernetes.dev) and co-lead the [Kubernetes Contributor Comms](https://github.com/kubernetes/community/tree/master/communication/contributor-comms) team. Chris is a disabled veteran (US Air Force) living with his wife and son in Metro Detroit. Chris writes about Cloud Native, DevOps, and other topics at [ChrisShort.net](/).
 
 ## Extended Bio
 
