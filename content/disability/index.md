@@ -77,10 +77,9 @@ Needless to say, having a permanent injury (aka disability) is taxing on one's m
 
 My time also overlapped with Edward Snowden. I did not know or work with Snowden directly. Still, the breaking down of the walls of the compartmentalization inside the US national security apparatus has led to mental health issues. "The curse of knowledge" has a different meaning to me. Compounding matters, I had a rough childhood. I didn't know this until I started dating my wife and saw how her family acted 110% differently than mine. Treatment led me to realize that my issues are tied to my rocky upbringing and the Snowden leaks. The leaks broke my mental model of what I thought was a solid government career in service to a nation cut short by injury. The knowledge has turned that period of my life into an 11-year regrettable moment.
 
-**Tips**
+If a mental health professional prescribes you clonazepam (Klonopin), fire them and find a younger one. It is a highly addictive drug that takes a long time to get off of and puts real obstacles in the way of pain management. I hope to be off these by mid-2025 (almost two years of tapering me off this med).
 
-1. If a mental health professional prescribes you clonazepam (Klonopin), fire them and find a younger one. It is a highly addictive drug that takes a long time to get off of and puts real obstacles in the way of pain management. I hope to be off these by mid-2025 (almost two years of tapering me off this med).
-2. If a health professional in the VA ever says, "You'll eat them alive," that's your queue to get out of the VA as it's not designed for your specific needs. Trying to use the VA no matter what is not a good plan. Think about what's best for you and not your wallet if you're able. It's not cheap, but private health insurance will always give you higher quality care than the VA.
+If a health professional in the VA ever says, "You'll eat them alive," when referring to group therapy that's your queue to get out of the VA as it's not designed for your specific needs. Trying to use the VA no matter what is not a good plan. Think about what's best for you and not your wallet if you're able. It's not cheap, but private health insurance will always give you higher quality care than the VA.
 
 ## Pain Relief
 

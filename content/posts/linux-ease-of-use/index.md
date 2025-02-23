@@ -19,8 +19,8 @@ title: Linux and Ease of Use
 
 When I got the idea to write this article I decided to do some searching and see what other people were saying about ease of use in Linux. I found the results of my searches to be less than fruitful, see for your self:
 
-[https://search.yahoo.com/search?p=linux+ease+of+use](https://search.yahoo.com/search?p=linux+ease+of+use)
-[http://www.google.com/search?q=linux+ease+of+use](http://www.google.com/search?q=linux+ease+of+use)
+<https://search.yahoo.com/search?p=linux+ease+of+use>  
+<https://www.google.com/search?q=linux+ease+of+use>
 
 What came up were a few useful writings but nothing significant in terms of Linux ease of use. It has been said that 2003 will be the year of Linux on the desktop so why isn't there more information out there about Linux ease of use? Hopefully, this article will explain why.
 

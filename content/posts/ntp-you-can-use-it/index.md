@@ -28,7 +28,8 @@ The most secure implementation of using NTP is to setup an independent NTP serve
 Should you just decide to go for the no holds bar approach of letting all your devices on your network poll public NTP servers then choosing good NTP servers is the key to your success. Here again, I would recommend selecting two or three servers to poll from. Make sure that the servers you choose are used in the same order on all your devices unless they all have the same reliability of timing sources. Do realize that in doing this every time there is an NTP poll from a device on your network that there will be traffic going all the way out to the server then coming back to the polling device. If you're using this method I would make sure that the polls are staggered so as to not flood your network and the server with NTP polls. Someone at the server might not enjoy that as it could appear as an attack to an unknowing eye.
 
 Network Time Protocol related RFCs:
+
 * RFC 2030 - Simple Network Time Protocol (SNTP) Version 4 for IPv4, IPv6 and OSI
 * RFC 1305 - Network Time Protocol (Version 3)
 
-[NTP.org](http://ntp.org/) - The official Network Time Protocol (NTP) site
+[NTP.org](https://ntp.org/) - The official Network Time Protocol (NTP) site

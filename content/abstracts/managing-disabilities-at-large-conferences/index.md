@@ -27,7 +27,7 @@ Managing your travel and conference experience is often stressful and highly err
 
 * Hurt in 2003 during a hurricane evacuation exercise after getting through two wars
 * I'm a service connected, 70% disabled veteran (how you get to 70% is dictated by Congress)
-* https://chrisshort.net/ltn
+* <https://chrisshort.net/disability>
 * Growing up: Whenever something changed I asked how the day was going to go
 * Anxiety: Growing up the way I did (mother left father to join a cult and took me with her), you lived kinda day to day; my experience in the military reinforced this mindset
 * Variability I can live with; but not accomplishing one thing because something else happened was pretty common

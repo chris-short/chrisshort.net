@@ -23,16 +23,16 @@ I happen to be someone that finds themselves setting up new systems for myself o
 * [Evernote](https://evernote.com/) - My brain lives here
 * [Google Drive](https://www.google.com/drive/download/) - I keep some .files (dot files) here
 * [iTerm](https://www.iterm2.com/) - My Terminal of choice
-* [Shuttle](http://fitztrev.github.io/shuttle/) - Super awesome ssh config menu creator
+* [Shuttle](https://fitztrev.github.io/shuttle/) - Super awesome ssh config menu creator
 * [Little Snitch](https://www.obdev.at/products/littlesnitch/download.html) - I don't trust any one or any code
 * [Shimo](https://www.shimovpn.com/) - Need to use more than one VPN? Shimo is for you
 * [GPG Tools](https://gpgtools.org/)
-* [MySQL Workbench](http://dev.mysql.com/downloads/workbench/) - When you login to a MySQL server and say, "WTF?!?" you might want a GUI as a safety
+* [MySQL Workbench](https://dev.mysql.com/downloads/workbench/) - When you login to a MySQL server and say, "WTF?!?" you might want a GUI as a safety
 * [Witch](https://manytricks.com/witch/) - CMD + TAB will never be the same
 * [Spectacle](https://www.spectacleapp.com/) - Position your windows where you want them
 * [Skitch](https://evernote.com/skitch/) - Screeenshot tool that saves to Evernote
 * [Dropbox](https://www.dropbox.com/)
-* [CleanMyMac](http://macpaw.com/cleanmymac) - I use this to uninstall software and clear caches (among other things)
+* [CleanMyMac](https://macpaw.com/cleanmymac) - I use this to uninstall software and clear caches (among other things)
 * [DaisyDisk](https://daisydiskapp.com/) - Find wasted disk
 * [Wireshark](https://www.wireshark.org/)
 * [Postman](https://www.getpostman.com/)
@@ -45,7 +45,7 @@ I happen to be someone that finds themselves setting up new systems for myself o
 * [Firefox Developer Edition](https://www.mozilla.org/en-US/firefox/developer/)
 * [Safari Technology Preview](https://developer.apple.com/safari/download/)
 * [Telegram](https://desktop.telegram.org/)
-* [VLC](http://www.videolan.org/)
+* [VLC](https://www.videolan.org/)
 
 {{< carbon >}}
 

@@ -18,7 +18,7 @@ Based on a conversation during a Lyft ride. Watch as DevOps is explained in simp
 
 ## Description
 
-While speaking at [Open Source 101](http://opensource101.com/) in 2018, I had a seven-mile Lyft ride in Raleigh. On this ride, I explained I was doing a talk about DevOps. I explained what DevOps is to my Lyft driver. She brought up a relative who wanted to buy a house. But, the relative is concerned about the process and complexity. When she asked how we tackle complexity in DevOps I explained how we break problems into smaller pieces of work. I explained some Agile practices around Sprints and Kanban to manage and track resources and workflows. I concluded the explanation with,  "But, how do you eat an elephant? One bite at a time." Shocked, the driver turns around and says, "Chris, you're teaching people life lessons!"
+While speaking at [Open Source 101](https://opensource101.com/) in 2018, I had a seven-mile Lyft ride in Raleigh. On this ride, I explained I was doing a talk about DevOps. I explained what DevOps is to my Lyft driver. She brought up a relative who wanted to buy a house. But, the relative is concerned about the process and complexity. When she asked how we tackle complexity in DevOps I explained how we break problems into smaller pieces of work. I explained some Agile practices around Sprints and Kanban to manage and track resources and workflows. I concluded the explanation with,  "But, how do you eat an elephant? One bite at a time." Shocked, the driver turns around and says, "Chris, you're teaching people life lessons!"
 
 ### What Will You Learn:
 

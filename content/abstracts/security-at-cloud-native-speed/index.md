@@ -74,7 +74,7 @@ Source: [Sysdig 2019 Container Usage Report](https://sysdig.com/blog/sysdig-2019
 * Service restorations happen in less than an hour
 * Change failure rates are between 0-15%
 
-Source: [2019 Accelerate State of DevOps Report](http://cloud.google.com/devops/state-of-devops/)
+Source: [2019 Accelerate State of DevOps Report](https://cloud.google.com/devops/state-of-devops/)
 
 ## CD for Security
 

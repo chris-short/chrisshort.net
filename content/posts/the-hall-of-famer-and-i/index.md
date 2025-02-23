@@ -18,7 +18,7 @@ tags:
 title: The Hall of Famer and I
 ---
 
-I try to keep the content tech related around here but some times an event triggers a fond memory in your past and you feel the need to write about it. In January 2010, I was in the Air Force and had the opportunity to get up earlier in the morning than normal to get on a bus and drive over to Welcome, North Carolina. For those of you that are not familiar with NASCAR, Welcome, NC is the home of [Richard Childress Racing](http://www.rcrracing.com/). Richard Childress Racing (RCR) at that point in time had an affiliation with a group on Pope Air Force Base and Fort Bragg to bring active duty military members over, give them a tour of the museum and workshops, treat them to lunch, and meet some of the staff at RCR.
+I try to keep the content tech related around here but some times an event triggers a fond memory in your past and you feel the need to write about it. In January 2010, I was in the Air Force and had the opportunity to get up earlier in the morning than normal to get on a bus and drive over to Welcome, North Carolina. For those of you that are not familiar with NASCAR, Welcome, NC is the home of Richard Childress Racing (RCR). RCR at that point in time had an affiliation with a group on Pope Air Force Base and Fort Bragg to bring active duty military members over, give them a tour of the museum and workshops, treat them to lunch, and meet some of the staff at RCR.
 
 {{< carbon >}}
 

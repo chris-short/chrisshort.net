@@ -38,7 +38,7 @@ Next, right-click your new bucket and select **Properties**. Make note of the **
 
 [![AWS S3 Management Console](S3-Management-Console-02.webp)](S3-Management-Console-02.webp)
 
-This is an optional but exceedingly helpful step. You can make every object you place in your S3 bucket publicly readable by setting an [S3 Policy](http://docs.aws.amazon.com/AmazonS3/latest/dev/access-control-overview.html). This will ensure that the permissions on everything uploaded to your S3 bucket will not need to be changed upon upload.[^n]
+This is an optional but exceedingly helpful step. You can make every object you place in your S3 bucket publicly readable by setting an [S3 Policy](https://docs.aws.amazon.com/AmazonS3/latest/dev/access-control-overview.html). This will ensure that the permissions on everything uploaded to your S3 bucket will not need to be changed upon upload.[^n]
 
 * Right click your S3 bucket and select **Properties**
 * Expand the **Permissions** section

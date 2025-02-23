@@ -86,15 +86,13 @@ I'm sure after all of this information I've presented to you might generate ques
 
 UPDATE 10 JULY 2005: I have a few more tidbits of information for those that still might be skeptical about some of these things I've mentioned here:
 
-1) The temple. It would appear that the temple is now gone from the site of the Center for Purposeful Living however don't take my word that there was a temple there, take the word of [Hinduism Today and the Himalayan Academy](http://www.hinduismtoday.com/modules/smartsection/item.php?itemid=796):
+The temple. It would appear that the temple is now gone from the site of the Center for Purposeful Living however don't take my word that there was a temple there, take the word of [Hinduism Today and the Himalayan Academy](https://web.archive.org/web/20120531081737/http://www.hinduismtoday.com/modules/smartsection/item.php?itemid=796):
 
-> ... About one in every fifteen people who come in contact with [Human Service Alliance] senses there is more to the group than meets the eye. These people are gradually introduced to the group's teachings, first through Lackey's book. Discoveries of the Inquiring Mind, and then through the teachings of Alice Bailey and various Hindu sources. Eventually they would be invited to the top floor of the HSA's center, a Siva temple (not open to outsiders) where simple but regular rituals honoring the deities are performed, along with meditations and chanting. ...
+> ... About one in every fifteen people who come in contact with Human Service Alliance senses there is more to the group than meets the eye. These people are gradually introduced to the group's teachings, first through Lackey's book. Discoveries of the Inquiring Mind, and then through the teachings of Alice Bailey and various Hindu sources. Eventually they would be invited to the top floor of the HSA's center, a Siva temple (not open to outsiders) where simple but regular rituals honoring the deities are performed, along with meditations and chanting. ...
 
-Discoveries of the Inquiring Mind can be found on [Amazon](https://amzn.to/2FxTcHW)
+Discoveries of the Inquiring Mind can be found on [The Internet Archive](https://archive.org/details/discoveriesofinq00lack)
 
-*Note: ChrisShort.net may earn compensation for sales from links on this post through [affiliate programs](/terms#affiliate-link-policy).*
-
-2) Also, a lot of people have been making comments about Derwyn Lackey; allow me to put a face with the name:
+Also, a lot of people have been making comments about Derwyn Lackey; allow me to put a face with the name:
 
 ![Derwyn Lackey (Derwin Lackey)](/cult/derwin-lackey-derwyn-lackey.jpg)
 
