@@ -20,6 +20,7 @@ Using social media can be hazardous to one's health. I mute many words to protec
 * Elon Musk
 * FTX
 * GOP
+* JD Vance
 * Laura Ingraham
 * NRA
 * Snowden # The curse of knowledge is incredibly unsettling; I should write about this
