@@ -29,3 +29,9 @@ https://chrisshort.netlify.app/*            https://chrisshort.net/:splat 301!
 /newsletter                                 https://devopsish.com/ 302
 /archive*                                   /tags 302
 /drawings/diy-buffer-using-ifttt            /drawings 301
+/bsky                                       https://bsky.app/profile/chrisshort.net 301
+/bluesky                                    https://bsky.app/profile/chrisshort.net 301
+/mastodon                                   https://hachyderm.io/@ChrisShort 301
+/x                                          https://x.com/ChrisShort 301
+/twitter                                    https://x.com/ChrisShort 301
+/linkedin                                   https://www.linkedin.com/in/thechrisshort 301
