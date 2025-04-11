@@ -1,4 +1,5 @@
 # CDN redirects
+
 /about/Chris-Short-Sept-2021-Profile-Pic.jpeg https://shortcdn.com/chrisshort/about/Chris-Short-Sept-2021-Profile-Pic.jpeg 301
 /about/Late-2017-Headshot-Square-Optimized.jpg https://shortcdn.com/chrisshort/about/Late-2017-Headshot-Square-Optimized.jpg 301
 /about/Late-2018-Headshot.jpg https://shortcdn.com/chrisshort/about/Late-2018-Headshot.jpg 301
@@ -12,14 +13,17 @@
 /fonts/* https://shortcdn.com/chrisshort/fonts/:splat 301
 
 # Deprecated posts
+
 /announcing-detroit-go-meetup https://github.com/chris-short/chrisshort.net/blob/main/content/post/announcing-detroit-go-meetup/index.md 301
 /ansible-galaxy-is-open https://github.com/chris-short/chrisshort.net/blob/main/content/post/ansible-galaxy-is-open/index.md 301
 /ansible-role-for-papertrail https://github.com/chris-short/chrisshort.net/blob/main/content/post/ansible-role-for-papertrail/index.md 301
 /using-ansible-vault-effectively https://github.com/chris-short/chrisshort.net/blob/main/content/post/using-ansible-vault-effectively.md 301
 /verify-ashleymcnamara https://github.com/chris-short/chrisshort.net/blob/main/content/posts/verify-ashleymcnamara/index.md 301
 /weather-in-your-ios-and-macos-calendars https://github.com/chris-short/chrisshort.net/blob/main/content/post/weather-in-your-ios-and-macos-calendars/index.md 301
+/abstracts/gitops-implementation-devops https://chrisshort.net 301
 
 # From netlify.toml
+
 https://chrisshort.netlify.app/*            https://chrisshort.net/:splat 301!
 /page/*                                     /blog/page/:splat 301!
 /prow-and-tide-for-kubernetes-contributors  https://www.kubernetes.dev/blog/2022/12/12/prow-and-tide-for-kubernetes-contributors/ 301
