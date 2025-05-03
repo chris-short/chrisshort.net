@@ -182,7 +182,7 @@ privacy:
   instagram:
     disable: true
     simple: false
-  twitter:
+  x:
     disable: true
     enableDNT: true
     simple: false
@@ -196,7 +196,7 @@ privacy:
 services:
   instagram:
     disableInlineCSS: true
-  twitter:
+  x:
     disableInlineCSS: true
   rss:
     limit: 10
