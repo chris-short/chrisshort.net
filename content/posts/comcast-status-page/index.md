@@ -12,10 +12,10 @@ tags:
 - Xfinity
 - status page
 - internet
+- internet service provider
 - house
 - home
 - network
-- tech
 - forced
 - outage
 - outages
