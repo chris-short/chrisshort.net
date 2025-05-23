@@ -4,18 +4,21 @@ aliases:
 author: ["Chris Short"]
 title: "Hugo: Upgrading and Updating"
 date: "2024-12-29"
+lastmod: "2025-05-25"
 description: "Updating Hugo is hard. Here's what I did to help the upgrade process."
 summary: "Updating Hugo is hard. Here's what I did to help the upgrade process."
 tags: ["hugo", "theme", "upgrading", "upgrades", "PaperMod", "2024"]
-ShowToc: false
-TocOpen: false
+ShowToc: true
+TocOpen: true
 ---
 
 {{< carbon >}}
 
 Upgrading Hugo or your chosen theme along with Hugo is often unreasonably burdensome. These two things are managed independently: Hugo by the Hugo dev team and your theme by its designer. This is what creates the difficulty in upgrading Hugo and updating your theme. Well, that and time.
 
-I like to tinker with themes. I want that to be bigger. I don't want that. Oh! Drop down menu here! This has bitten me quite hard in my years with Hugo. But for the previous iteration of <chrisshort.net>, I made a conscious effort to customize the theme only via Hugo partials and shortcodes.
+I like to tinker with themes. I want that to be bigger. I don't want that. Oh! Drop down menu here! This has bitten me quite hard in my nearly a decade with Hugo. But for the previous iteration of <chrisshort.net>, I made a conscious effort to customize the theme only via Hugo partials and shortcodes. This has made life **much** easier and is the best advice I can give.
+
+## Importance of Hugo theme choice
 
 I also really like the [PaperMod][1] theme, and it's wonderfully maintained. During the most recent updates, I was considering a whole new theme. Then I realized that PaperMod has a clean update process. For me, I look at the diff in the partials to make sure I can reuse what's there. The theme's maintainer, [Aditya Telange][2], has been porting more things into the hugo.yaml (config.yaml). A few of my customizations weren't needed at all and were instead changed into configuration.
 
@@ -56,6 +59,15 @@ site.Params.mainSections:
     - blog
     - microblog
 ```
+
+## Update: 23 May 2025
+
+### Lessons learned: Kubernetes Community Websites
+
+As Hugo has introduced more breaking changes (0.145.1 through the latest 0.147.x release) and I am looking to update Hugo versions again, I think of a few things I have picked up from maintaining the Kubernetes websites (yes, two big Hugo sites):
+
+* Keep changes manageable: Adding complex functions through shortcodes and partials will create a problem eventually.
+* 
 
 [1]: https://github.com/adityatelange/hugo-PaperMod "PaperMod Hugo theme"
 [2]: https://adityatelange.in/ "Aditya Telange"
