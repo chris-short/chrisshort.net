@@ -1,6 +1,6 @@
 [build]
 publish = "public"
-command = "curl -L 'https://cdn.carbonads.com/carbon.js?serve=CK7D52QU&placement=chrisshortnet' -o assets/js/carbon.js ; hugo --minify --enableGitInfo"
+command = "curl -L 'https://cdn.carbonads.com/carbon.js?serve=CK7D52QU&placement=chrisshortnet&format=cover' -o static/js/carbon.js ; hugo --minify --enableGitInfo"
 
 [context.production.environment]
 HUGO_VERSION = "0.147.5"
@@ -8,7 +8,7 @@ HUGO_ENV = "production"
 HUGO_ENABLEGITINFO = "true"
 
 [context.split1]
-command = "curl -L 'https://cdn.carbonads.com/carbon.js?serve=CK7D52QU&placement=chrisshortnet' -o assets/js/carbon.js ; hugo --minify --enableGitInfo"
+command = "curl -L 'https://cdn.carbonads.com/carbon.js?serve=CK7D52QU&placement=chrisshortnet&format=cover' -o static/js/carbon.js ; hugo --minify --enableGitInfo"
 
 [context.split1.environment]
 HUGO_VERSION = "0.147.5"
