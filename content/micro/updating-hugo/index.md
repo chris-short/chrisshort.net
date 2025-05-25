@@ -74,6 +74,14 @@ Adding complex functions through Hugo shortcodes and partials will inevitably cr
 
 Git submodules can be a real pain. Using [Hugo Modules][3] (aka Go modules) can ease some frustrations when upgrading Hugo (and themes).
 
+Case in point, I updated the PaperMod theme on this site after writing this with one command:
+
+```bash
+hugo mod get -u
+```
+
+This command updates the theme and all of its dependencies. Running the build locally worked like a charm.
+
 #### Theme choice matters
 
 The Kubernetes sites use Hugo with the [Docsy][4] theme. Docsy is not trivial to maintain or upgrade on any site, let alone a big, ever-evolving website with complexity built out of necessity. Imagine trying to add a social media icon for a new network, and it taking a shockingly long time to do all because of how the theme was installed and customized.
