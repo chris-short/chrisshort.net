@@ -7,7 +7,7 @@ date: "2024-12-29"
 lastmod: "2025-05-25"
 description: "Updating Hugo is hard. Here's what I did to help the upgrade process."
 summary: "Updating Hugo is hard. Here's what I did to help the upgrade process."
-tags: ["hugo", "theme", "upgrading", "upgrades", "PaperMod", "2024"]
+tags: ["hugo", "theme", "upgrading", "upgrades", "PaperMod", "2024", "2025"]
 ShowToc: true
 TocOpen: true
 ---
@@ -66,8 +66,19 @@ site.Params.mainSections:
 
 As Hugo has introduced more breaking changes (0.145.1 through the latest 0.147.x release) and I am looking to update Hugo versions again, I think of a few things I have picked up from maintaining the Kubernetes websites (yes, two big Hugo sites):
 
-* Keep changes manageable: Adding complex functions through shortcodes and partials will create a problem eventually.
-* 
+#### Keep customizations manageable
+
+Adding complex functions through Hugo shortcodes and partials will inevitably create a problem during an upgrade at some point.
+
+#### Using Hugo modules
+
+Git submodules can be a real pain. Using [Hugo Modules][3] (aka Go modules) can ease some frustrations when upgrading Hugo (and themes ).
+
+#### Theme choice matters
+
+The Kubernetes sites use Hugo with the [Docsy][4] theme. Docsy is not trivial to maintain or upgrade on simple sites. Imagine trying to add a social media icon for a new network and it taking a shockingly long time to do all because of the way the theme was installed and customized.
 
 [1]: https://github.com/adityatelange/hugo-PaperMod "PaperMod Hugo theme"
 [2]: https://adityatelange.in/ "Aditya Telange"
+[3]: https://chrisshort.net/from-git-submodule-to-hugo-modules-using-netlify/ "From git submodule to Hugo Modules using Netlify"
+[4]: https://www.docsy.dev "Docsy"
