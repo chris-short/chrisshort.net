@@ -150,6 +150,18 @@ params:
     - name: "rss"
       url: "/index.xml"
 
+related:
+  includeNewer: true
+  threshold: 20
+  toLower: true
+  indices:
+    - name: "tags"
+      weight: 100
+    - name: "keywords"
+      weight: 75
+    - name: "date"
+      weight: 10
+
 imaging:
   exif:
     includeFields: ""

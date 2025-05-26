@@ -1,4 +1,4 @@
-{{ $related := .Site.RegularPages.Related . | first 3 }}
+{{ $related := site.RegularPages.Related . | first 4 }}
 {{ with $related }}
 <h4>See Also</h4>
 <ul>
