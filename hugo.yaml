@@ -152,7 +152,7 @@ params:
 
 related:
   includeNewer: true
-  threshold: 50
+  threshold: 20
   toLower: true
   indices:
     - name: "tags"
