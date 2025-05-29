@@ -36,6 +36,8 @@ ShowToc: true
 TocOpen: true
 ---
 
+{{< carbon >}}
+
 Kaslin Fields and I were talking about the social media landscape in 2025. The Kubernetes Contributor Comms team has been fielding requests to modify our community's social media policies to continue improving the project's vitality. During our discussion, I stated that "**Social media might be coming to the end of its usefulness.**"
 
 From my perspective, social media platforms are changing from helpful tools to straight-up propaganda machines for literally anyone wanting to conduct [information operations](https://en.wikipedia.org/wiki/Information_warfare) (including the CEOs/owners of these platforms) or sway influence.
