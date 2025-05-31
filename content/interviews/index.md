@@ -14,6 +14,22 @@ title: Interviews
 
 {{< speaker >}}
 
+## CIQ Establishes Open Source Program Office, Names Chris Short as Head of Open Source (Press Release)
+
+Date: 2025-05-29
+
+Source: [CIQ Establishes Open Source Program Office, Names Chris Short as Head of Open Source](https://finance.yahoo.com/news/ciq-establishes-open-source-program-160000859.html)
+
+> "Advocating for our upstream communities is our primary responsibility; proving our value is a close second," said Short. "We want to ensure the health and long-term viability of the open source projects we rely on—and that means showing up with engineering contributions, governance support and consistent collaboration. I'm energized about this role at CIQ, because the company's leadership walks the talk when it comes to open source."
+
+## Passport Discomfort: Americans Afraid to Travel (French)
+
+Date: 2025-05-12
+
+Source: [Malaise sous le passeport : ces Américains qui ont peur de voyager](https://projetarcadie.com/americains-peur-voyage/)
+
+> Chris relates the following anecdote: "I recently returned from a conference in London, and it struck me that about 40 to 50 percent of the Americans I spoke with were seriously considering leaving the United States permanently or had already moved to a country in the European Union."
+
 ## Ascension nurse: Ransomware attack makes caring for hospital patients 'so, so dangerous'
 
 Date: 2024-05-21
