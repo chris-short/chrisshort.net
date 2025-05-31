@@ -7,6 +7,12 @@ description: Writing that Chris Short has done outside of his own web properties
 title: Writing Elsewhere
 ---
 
+## CIQ
+
+### [Open Source Thrives on Contribution, Not Just Consumption](https://ciq.com/blog/open-source-thrives-on-contribution-not-just-consumption/)
+
+> But if you build on open source, you have a responsibility to the communities making that software possible. That means investing time. It means showing up consistently. It means treating maintainers and contributors as collaborators—not as an extension of your dev team, and definitely not as a marketing bullet point.
+
 ## Kubernetes
 
 ### [Kubernetes Legacy Package Repositories Will Be Frozen On September 13, 2023](https://kubernetes.io/blog/2023/08/31/legacy-package-repository-deprecation/)
@@ -49,7 +55,7 @@ title: Writing Elsewhere
 
 ### [Amazon EKS and Kubernetes sessions at AWS re:Invent 2023](https://aws.amazon.com/blogs/containers/amazon-eks-and-kubernetes-sessions-at-aws-reinvent-2023/)
 
->AWS re:Invent 2023 is right around the corner, offering a full track of sessions focused on Kubernetes and cloud-native related topics. To help you discover and select the right sessions for you, we’ve listed the sessions below grouped by core focus area with links to the re:Invent sessions catalog.
+> AWS re:Invent 2023 is right around the corner, offering a full track of sessions focused on Kubernetes and cloud-native related topics. To help you discover and select the right sessions for you, we’ve listed the sessions below grouped by core focus area with links to the re:Invent sessions catalog.
 
 ### [Changes to the Kubernetes Container Image Registry](https://aws.amazon.com/blogs/containers/changes-to-the-kubernetes-container-image-registry/)
 
