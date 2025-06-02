@@ -58,6 +58,7 @@ params:
     - speaking
     - speedtest
     - video
+    - writing
   profileMode:
     buttons:
       - name: About
@@ -66,6 +67,8 @@ params:
         url: "/blog"
       - name: Microblog
         url: "/micro"
+      - name: Writing
+        url: "/writing"
       - name: "Abstracts"
         url: "/abstracts"
       - name: Interviews

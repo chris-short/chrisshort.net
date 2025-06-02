@@ -1,10 +1,13 @@
 ---
 aliases:
 - publications
+- writing-elsewhere
 author: Chris Short
 date: "2018-08-14"
 description: Writing that Chris Short has done outside of his own web properties
-title: Writing Elsewhere
+tags:
+- writing
+title: Writing
 ---
 
 ## CIQ
