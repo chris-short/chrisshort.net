@@ -28,7 +28,7 @@ Like every good service provider, I maintain a status page for my projects: <htt
 
 This comes in handy when [trying to convince Comcast/Xfinity there's an issue in their network](/having-a-status-page-forced-comcast-to-fix-my-internet/).
 
-### [Writing Elsewhere](/writing-elsewhere/)
+### [Writing Elsewhere](/writing/)
 
 I like to keep track of the things I've written across the web. This page lists all the things written on other web properties or for work.
 
@@ -83,19 +83,13 @@ Analytics: <https://app.usefathom.com/share/acmuyzfw/devopsish.com>
 
 ### Kubernetes README
 
-[Kubernetes README](https://kubereadme.com/): What books 📚 to read to learn more about Kubernetes.
-
-Source: <https://github.com/chris-short/kubereadme.com>
-Analytics: <https://app.usefathom.com/share/zoibslyn/kubereadme.com>
+[Kubernetes README](/kubernetes-news/): What books 📚 to read to learn more about Kubernetes.
 
 ### DevOps README.md
 
-[DevOps README.md](https://devopsreadme.com/): What books 📚 to read to learn more about DevOps.
+[DevOps README.md](/devops-readme/): What books 📚 to read to learn more about DevOps.
 
 {{< streaming d171c15d-ba1c-43c7-8aac-f21ca8ef3a51 >}}
-
-Source: [DevOps-README.md](https://github.com/chris-short/devopsreadme.com)  
-Analytics: <https://app.usefathom.com/share/zjfvvlgv/devopsreadme.com>
 
 ## DevOps Newsletters
 
@@ -105,19 +99,13 @@ DevOps Newsletters is an idea that sprung out of an opensource.com article: [16 
 > 
 > DevOps and systems folks have less of a need to keep up with the day-to-day doings of front-end work. The inverse applies to front-end folks. Both disciplines are equally difficult to master, and to excel in either one requires an enormous amount of self-discipline. Regardless of what discipline you follow, it helps to stay current. Being well-read means reading long-form pieces as well as short-form ones such as blogs, newsletters, and occasionally social media posts.
 
-[DevOps Newsletters](https://devopsnewsletters.com/) intends to be a one stop shop for the best DevOps content from around the world.
+[DevOps Newsletters](/devops-news/) intends to be a one stop shop for the best DevOps content from around the world.
 
 > Continuous learning is a critical part of DevOps. Staying current is imperative. These are DevOps newsletters of note from several well regarded DevOps leaders.
 
-Source: <https://github.com/chris-short/devopsnewsletters.com>  
-Analytics: <https://app.usefathom.com/share/feqaqjah/devopsnewsletters.com>
-
 ### Kubernetes News
 
-Inspired by [DevOps Newsletters](https://devopsnewsletters.com/) and Peter Benjamin's [How do you keep up with Kubernetes?](https://dev.to/petermbenjamin/how-do-you-keep-up-with-kubernetes-2209), [**Kubernetes News**](https://kubenews.net/) intends to be a resource to help keep up with the wide ranging and rapidly evolving world of Kubernetes.
-
-Source: <https://github.com/chris-short/kubenews.net>  
-Analytics: <https://app.usefathom.com/share/bjbntbho/kubenews.net>
+Inspired by [DevOps Newsletters](https://devopsnewsletters.com/) and Peter Benjamin's [How do you keep up with Kubernetes?](https://dev.to/petermbenjamin/how-do-you-keep-up-with-kubernetes-2209), [**Kubernetes News**](/kubernetes-news/) intends to be a resource to help keep up with the wide ranging and rapidly evolving world of Kubernetes.
 
 ### No Medium
 

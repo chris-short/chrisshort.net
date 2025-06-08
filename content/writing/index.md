@@ -2,8 +2,10 @@
 aliases:
 - publications
 - writing-elsewhere
+- work-outputs
 author: Chris Short
 date: "2018-08-14"
+lastmod: "2025-06-06"
 description: Writing that Chris Short has done outside of his own web properties
 tags:
 - writing
