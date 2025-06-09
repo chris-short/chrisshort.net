@@ -78,4 +78,3 @@ References:
 <https://github.com/theNewDynamic/gohugo-theme-ananke#installation>  
 <https://gohugo.io/hugo-modules/configuration/>  
 <https://gohugo.io/hugo-modules/use-modules/>
-

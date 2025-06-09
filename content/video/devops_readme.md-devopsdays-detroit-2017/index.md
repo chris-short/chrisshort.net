@@ -16,9 +16,7 @@ title: DevOps README.md — DevOpsDays Detroit 2017
 
 > A curated list of things to read to level up your DevOps skills and knowledge.
 
-This list has grown significantly since this talk. Find the latest version at [devopsreadme.com](https://devopsreadme.com/)  
-
-This site does take [pull requests](https://github.com/chris-short/devopsreadme.com).
+This list has grown significantly since this talk. Find the latest version at [DevOps README](/devops-readme/)  
 
 Slides: [DevOps README.MD](https://speakerdeck.com/chrisshort/devops-readme-dot-md)
 

@@ -105,7 +105,7 @@ DevOps Newsletters is an idea that sprung out of an opensource.com article: [16 
 
 ### Kubernetes News
 
-Inspired by [DevOps Newsletters](https://devopsnewsletters.com/) and Peter Benjamin's [How do you keep up with Kubernetes?](https://dev.to/petermbenjamin/how-do-you-keep-up-with-kubernetes-2209), [**Kubernetes News**](/kubernetes-news/) intends to be a resource to help keep up with the wide ranging and rapidly evolving world of Kubernetes.
+Inspired by [DevOps Newsletters](/devops-news/) and Peter Benjamin's [How do you keep up with Kubernetes?](https://dev.to/petermbenjamin/how-do-you-keep-up-with-kubernetes-2209), [**Kubernetes News**](/kubernetes-news/) intends to be a resource to help keep up with the wide ranging and rapidly evolving world of Kubernetes.
 
 ### No Medium
 
