@@ -39,3 +39,7 @@ https://chrisshort.netlify.app/*            https://chrisshort.net/:splat 301!
 /x                                          https://x.com/ChrisShort 301
 /twitter                                    https://x.com/ChrisShort 301
 /linkedin                                   https://www.linkedin.com/in/thechrisshort 301
+
+# Ads
+
+/ads.txt https://srv.adstxtmanager.com/19390/chrisshort.net 301
