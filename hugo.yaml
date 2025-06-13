@@ -38,7 +38,6 @@ params:
     favicon16x16: "/favicon-16x16.png"
     favicon32x32: "/favicon-32x32.png"
     apple_touch_icon: "/apple-touch-icon.png"
-    safari_pinned_tab: "/safari-pinned-tab.svg"
   editPost:
       URL: "https://github.com/chris-short/chrisshort.net/tree/main/content"
       Text: "Suggest Changes" # edit text
