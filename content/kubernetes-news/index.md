@@ -7,7 +7,7 @@ alias:
 - kubenews
 author: Chris Short
 date: "2025-06-08"
-description: What books 📚 to read to learn more about Kubernetes
+description: Newsletters and resources to keep up with Kubernetes and Cloud Native news
 tags:
 - kubernetes
 - news
