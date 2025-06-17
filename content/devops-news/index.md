@@ -6,7 +6,7 @@ alias:
 - devops-newsletter
 author: Chris Short
 date: "2025-06-08"
-description: "Continuous learning is a critical part of DevOps. Staying current is imperative. These are DevOps newsletters of note from several well regarded DevOps leaders."
+description: "Essential weekly reads covering AWS, SRE, programming, and DevOps trends for professional development.​​​​​​​​​​​​​​​​"
 tags:
 - DevOps
 - README
