@@ -49,7 +49,3 @@ As many already know, there is a cult in ~~Winston-Salem~~ Mocksville, North Car
 Regardless of whatever they've changed their name to, this cult has done irreparable harm to several families and numerous people across the globe. In 2005, I started a series of articles that detailed the acts of those at Allied Wisdom Foundation.
 
 I welcome anyone willing to share their stories to contact me so that I may share (anonymously if you'd wish) your trials and tribulations with the Allied Wisdom Foundation and an ever-growing group of individuals hurt by this cult. These writings aim to inform the world about the activities of the cult known as Allied Wisdom Foundation.
-
-## The latest
-
-As of 2025-01-01, I know my mother lives/lived at Sugar Valley Airport in Davie County, North Carolina. One of my step-sisters, Lee W. Kosub, played in the [Civil Air Patrol](https://sugarvalley.cap.gov/) based there. Lee W. Kosub is a signatory on the cult's recent financial statements.
