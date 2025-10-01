@@ -16,7 +16,6 @@ tags:
 title: Windows XP and Big Hard Drives
 ---
 
-{{< carbon >}}
 
 After having issues with a Western Digital 200 GB hard drive and Windows XP I thought it would be beneficial to put my notes into some sort of guide for other people that might have a problem with Windows and drives that are bigger than 137 GB (128 GB binary).
 

@@ -15,7 +15,6 @@ title: What ultra successful people who practice DevRel know and do
 
 {{< streaming 23063242-3e26-4398-b8fe-b253a75b775e >}}
 
-{{< carbon >}}
 
 Wesley Faulkner, Sr, Community Manager at AWS and Chris Short, Sr. Developer Advocate for a discussion about getting decision makers to buy-in in the #DevRel space.
 

@@ -16,7 +16,6 @@ tags:
 title: A Brief History of Center for Purposeful Living by John David Short
 ---
 
-{{< carbon >}}
 
 Last week my brother, John David Short, and I had a conversation about all the statements and articles that have been written about the Center for Purposeful Living (formally known as Human Service Alliance). In that conversation he told me that he'd be willing to write about Human Service Alliance (what it was aptly named while he and I were involved in it). He sent me a very well written article that is just too good not to add to the mountain of information forming in regards to the Center for Purposeful Living. Below is what he titled "A Brief History of Human Service Alliance":
 

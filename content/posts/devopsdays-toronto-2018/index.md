@@ -19,7 +19,6 @@ title: 'DevOpsDays Toronto 2018: What the Military Taught Me About DevOps'
 
 {{< streaming 47f6f982-46b7-4e5b-a0b0-00119d8041aa >}}
 
-{{< carbon >}}
 
 I was lucky enough to be selected to speak at DevOpsDays Toronto. This was my first trip into Canada and I have to admit, it was amazing! The city of Toronto is a very diverse city teeming with culture. The speaker dinner was at a wonderful restaurant Eastern Mediterrean restaurant, Byblos. If you are ever in Toronto, I suggest you go to Byblos and get the Turkish Manti Dumplings. I don't typically enjoy eggplant but these dumplings are superb!
 

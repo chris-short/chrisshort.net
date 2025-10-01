@@ -13,7 +13,6 @@ tags:
 title: Yubikey 4 Nano Demands Use of yubiswitch
 ---
 
-{{< carbon >}}
 
 As more and more security policies demand the use of multi-factor authentication the number of times a day you use a multi-factor token will increase. Hopefully that number will not increase to a level that throws the balance of security and convenience towards the annoyingly secure side of the scale. But, if that ever does happen hopefully you can use an [Yubikey](https://www.yubico.com/) as your token.
 

@@ -24,7 +24,6 @@ I had the pleasure of speaking at and attending [DevOpsDays Raleigh 2019](https:
 
 Note: If you are not familiar with [DevOpsDays](https://devopsdays.org/), please consider attending one near you in the next year. They are affordable and encourage networking better than most events I've been to. I spoke at my first DevOpsDays in [Detroit in 2016](https://www.devopsdays.org/events/2016-detroit/program/what-the-military-taught-me/). We lived in Raleigh, and I wanted to work for Red Hat. Now we live in Detroit near my wife's family, and I work for Red Hat. ***Who says DevOps doesn't make dreams come true?***
 
-{{< carbon >}}
 
 I did an ignite karaoke talk (one minute, four random slides; about how Kubernetes is as complicated as you make it, "It's just a shitload of YAML and some APIs." The premise was to start slow and build skills iteratively (like with DevOps). It came together when a picture of Jeff Goldblum attempting to outrace some vicious dinosaur from a Jurassic Park movie. I said something along the lines of, "[T. Rex was clocked at 34 MPH.](https://books.google.com/books?id=gSBdDwAAQBAJ&pg=PA250&lpg=PA250&dq=jurassic+park+tyrannosaurus+rex+clocked+at+34+mph&source=bl&ots=jR6tHY2qxD&sig=ACfU3U1AiFB7fUbVhk2s_VO9xmuIdHBy4g&hl=en&sa=X&ved=2ahUKEwiTyIfI_qDlAhUDOH0KHUgMCXEQ6AEwF3oECAkQAQ#v=onepage&q=jurassic%20park%20tyrannosaurus%20rex%20clocked%20at%2034%20mph&f=false) You don't need 25 nodes. Start small."
 

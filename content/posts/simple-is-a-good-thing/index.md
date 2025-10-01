@@ -27,7 +27,6 @@ tags:
 title: Simple is a Good Thing
 ---
 
-{{< carbon >}}
 
 You've finally set off to design a great web site. You have a good grasp of Flash, a great understanding of JavaScript and Microsoft FrontPage. In addition, you've got great ideas for content and you've even gone through the ChrisShort.net [Web Site Design Do's and Don'ts](/web-site-design-dos-and-donts/) and got some great ideas on how to design your web site better. The problem is that with Microsoft FrontPage alone your site will be limited by the code it produces. Throwing up a lot of Flash and using JavaScript will limit it even more. HTML, the heart and soul of the World Wide Web, at its core is a simple language. Shouldn't simple web sites be the result of it? No? How about simple looking web sites with great content? Now you get the idea.
 

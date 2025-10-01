@@ -17,7 +17,6 @@ tags:
 title: User Management with Ansible
 ---
 
-{{< carbon >}}
 
 A few weeks ago, one of my [**DevOps**](https://devopsish.com/) counterparts was working on building out a new environment for one of our applications. This deployment included a new Puppet server (we are in an orchestration/configuration management state of flux) and my teammate was having some issues provisioning users (I did not ask why nor did I really care). My teammate asked if I could help with some Ansible knowledge.
 

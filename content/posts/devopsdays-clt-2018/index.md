@@ -22,7 +22,6 @@ title: DevOpsDays Charlotte 2018 Ignite Talk on Go
 
 {{< streaming 50fc5408-36a6-4f97-b5de-7dff746b1b4e >}}
 
-{{< carbon >}}
 
 All other DevOpsDays events should be put on notice. DevOpsDays Charlotte 2018 set the bar unattainably high for the quality of the venue and speaker line up. It'll be insanely hard to beat the great folks who spoke in Charlotte this year. Almost every talk was a home run. The Red Ventures facility was also jaw dropping. Also, I don't think we could have asked for a more inviting and welcoming speaker lounge either.
 

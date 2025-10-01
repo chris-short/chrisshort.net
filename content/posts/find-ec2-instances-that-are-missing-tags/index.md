@@ -33,7 +33,6 @@ aws ec2 describe-instances --query "Reservations[].Instances[].{ID: InstanceId, 
 
 Viola! Problem solved, right? Not quite. We noticed that the output formats are very different based on region.
 
-{{< carbon >}}
 
 In **eu-central-1** we are seeing instances in this format:
 

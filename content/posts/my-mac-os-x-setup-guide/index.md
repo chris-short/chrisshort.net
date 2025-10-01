@@ -47,7 +47,6 @@ I happen to be someone that finds themselves setting up new systems for myself o
 * [Telegram](https://desktop.telegram.org/)
 * [VLC](https://www.videolan.org/)
 
-{{< carbon >}}
 
 **From the Mac App Store:**
 

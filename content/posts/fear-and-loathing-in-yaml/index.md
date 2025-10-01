@@ -41,7 +41,6 @@ Let me level set here. I routinely joke about how I’m a “Calendar Driven YAM
 
 In 2012, I worked at McClatchy Interactive (before the really dark times) and enjoyed the systems and security work I was doing. We had our machine creation down to a finite science. Bare metal spun up, you punched the MAC address into a database file, and off the machine went to get all the needed packaging and code to run as its defined purpose in our infrastructure.
 
-{{< carbon >}}
 
 [CFEngine](https://en.wikipedia.org/wiki/CFEngine) provisioned the machine accordingly based on purpose and positioned it in the network ready for code deployment. DevOps was something the company was embracing at the time. So instead of using the existing CFEngine infrastructure, the DevOps tandem at the time was using [Puppet](https://en.wikipedia.org/wiki/Puppet_(company)) for code deploys. This system worked fine until it didn't. There were clear lines between infrastructure (typical IT in the datacenter) and software deployment and configuration (developers). In our case, DevOps represented the development team more so than the Operations team. Sound familiar?
 

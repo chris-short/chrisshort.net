@@ -25,7 +25,6 @@ tags:
 title: Web Site Design Do's and Don'ts
 ---
 
-{{< carbon >}}
 
 ### Domain Name
 

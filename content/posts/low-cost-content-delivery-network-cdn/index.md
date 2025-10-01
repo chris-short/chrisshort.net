@@ -26,7 +26,6 @@ Enter [CloudFlare](https://www.cloudflare.com/); a lower-cost content delivery n
 
 Amazon S3 is a cheap place to host content. As of June 12, 2016, S3 storage costs are, at most, $0.03 per gigabyte in the United States. With the combination of low cost storage and free CDN (and DNS services) there isn't much of a reason not to get your own CDN up and running. Let's get started:
 
-{{< carbon >}}
 
 First, setup a [CloudFlare](https://www.cloudflare.com/a/sign-up) (you will need to change the nameservers for the domain you intend to use as instructed) and [Amazon AWS](https://portal.aws.amazon.com/gp/aws/developer/registration/index.html) account if you don't already have one.
 

@@ -15,7 +15,6 @@ title: 'Webinar: Security at Cloud-native Speed On-Demand'
 
 {{< streaming e07c091d-1273-4209-a92e-7dcef1778180 >}}
 
-{{< carbon >}}
 
 > Join us for this on-demand webinar where our speaker, Chris Short, draws on his experience as a principal technical marketing manager for Red Hat, CNCF Ambassador, and editor of KubeWeekly and DevOps'ish to share best practices on:
 >

@@ -13,7 +13,6 @@ tags:
 title: Recent Accomplishments
 ---
 
-{{< carbon >}}
 
 I feel like I should say I don't like to toot my own horn. But, if I don't toot it who will? December and January were very busy months for me and February is definitely going to be busy. You should always be working outside your personal and professional comfort zones.
 

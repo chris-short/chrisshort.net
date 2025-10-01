@@ -11,7 +11,6 @@ tags:
 title: DNS is Awesome
 ---
 
-{{< carbon >}}
 
 There are so many cool things about DNS one drawing is not going to do it justice. Please let this drawing serve as an inspiration to learn more about DNS.
 

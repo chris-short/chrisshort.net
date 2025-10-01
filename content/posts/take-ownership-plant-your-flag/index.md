@@ -12,7 +12,6 @@ tags:
 title: Take Ownership; "Plant Your Flag"
 ---
 
-{{< carbon >}}
 
 Taking ownership or "planting your flag" in an idea, work, or concept is often one of the best things someone can do. To sit in a room full of people and say, "This is mine. I will take care of it." Makes everyone in the room know you are the point person committed to making it happen. The same holds true when discussing documentation, processes, and ideas for long-range planning.
 

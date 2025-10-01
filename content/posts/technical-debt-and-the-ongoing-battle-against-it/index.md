@@ -16,7 +16,6 @@ title: Technical Debt and the Ongoing Battle Against It
 
 I have been trying to fit a lot of square pegs into round holes lately. Eliminating technical debt with modern day [**DevOps**](https://devopsish.com/) practices to reduce costs is seldom fun or glamorous but is very often beneficial. Reducing costs should be the mindset of IT and one surefire way to do that is to spend the right amount of time on a task to complete it successfully. Finding that balance is definitely tricky especially when a lot of us are human time division multiplexers now. But, that right combination of good work and adequate time spent is definitely out there.
 
-{{< carbon >}}
 
 ### Time + Technical Debt + Competing Priorities = Short-Term, Single Use Solutions To Long-Term Problems
 

@@ -14,7 +14,6 @@ title: 'KubeCon + CloudNativeCon Daily Wrap Up: Tuesday — KubeCon + CloudNati
 
 {{< streaming da08e702-55d6-4c23-b741-57dc55944d90 >}}
 
-{{< carbon >}}
 
 > Chris Short sits down with KubeCon speakers, attendees, and Cloud Native contributors for the KubeCon NA 2021 (Los Angeles) wrap up show on Day 0 of KubeCon.
 

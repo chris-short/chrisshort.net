@@ -11,7 +11,6 @@ tags:
 title: Moving to Linux - Partitioning
 ---
 
-{{< carbon >}}
 
 After deciding to make the [move to Linux](/moving-to-linux/), determining that my [hardware is compatible with Linux](/moving-to-linux-hardware-compatibility/), and after [picking a Linux distro](/moving-to-linux-picking-a-distribution/) it's time to decide how to partition my hard drive.
 

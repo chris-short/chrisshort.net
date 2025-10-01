@@ -10,7 +10,6 @@ tags:
 title: 'Triangle DevOps: What The Military Taught Me About DevOps'
 ---
 
-{{< carbon >}}
 
 I had the opportunity to present [What The Military Taught Me About DevOps](/what-the-military-taught-me-about-devops/) at the [Triangle DevOps Meetup](https://www.meetup.com/Triangle-DevOps/events/235751024/) last night. It was a fantastic group of people and I fielded a lot of great feedback after speaking.
 

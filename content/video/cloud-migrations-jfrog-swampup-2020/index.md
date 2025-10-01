@@ -13,7 +13,6 @@ title: 'Lesson Learned From Cloud Migrations: Planning is Everything — JFrog S
 
 {{< streaming 25d20551-eba6-40a2-8eec-d3c87973d498 >}}
 
-{{< carbon >}}
 
 > "Migrating to the cloud saves money!" "Not running your own infrastructure reduces your bottom line!" "Lift and shift is a legitimate first step towards moving to the cloud!" These are all potential pitfalls if you're not careful. Proper planning prevents piss poor performance. Using a real chaotic cloud migration as a guide, we'll walk through the pitfalls of cloud migrations and how to avoid them and the terrifying vendor lock-in (when it makes sense).
 

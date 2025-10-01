@@ -44,7 +44,6 @@ title: 2021 Learnings, 2022 Expectations
 
 Photo by [Aaron Burden](https://www.pexels.com/@aaronburden?utm_content=attributionCopyText&utm_medium=referral&utm_source=pexels) from [Pexels](https://www.pexels.com/photo/white-daisy-flower-bloom-2449543/?utm_content=attributionCopyText&utm_medium=referral&utm_source=pexels)
 
-{{< carbon >}}
 
 It's been one of the more challenging years of my life for many reasons. Please allow me the space to do some healing in this intro. I promise the juicy tech bits are [a header away](#last-years-predictions).
 

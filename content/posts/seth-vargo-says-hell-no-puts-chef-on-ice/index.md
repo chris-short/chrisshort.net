@@ -20,7 +20,6 @@ title: Seth Vargo says hell no—puts Chef on ICE
 
 Just when you thought a toxic, old, white guy with lousy hygiene was going to dominate the news this week, in walks [Seth Vargo](https://twitter.com/sethvargo). On Thursday, Seth Vargo, a former Chef employee, learned something he wasn't comfortable with about code he'd written. Seth discovered Chef had an active contract with the US Department of Homeland Security's Immigration and Customs Enforcement (yes, [that one](https://time.com/5623148/migrant-detention-centers-conditions/)). Seth then did something rather extraordinary. He yanked his code (including [chef-sugar](https://github.com/sethvargo/chef-sugar)) from GitHub and RubyGems. This resulted in many production systems going offline across the globe. We could see some metrics about impact in a lawsuit at some point. When DM'ing Seth early Friday AM he told me, "It's almost certain that Chef is going to sue."
 
-{{< carbon >}}
 
 Before we get into the reasoning, let's think about that for a second. A former employee (and current open source contributor) could bring an entire DevOps toolchain company to its knees. Sending it into a complete tailspin as it tried to restore production code it didn't have control over (or maybe even good backups for). Chef CEO, Barry Crist, [had to issue a statement](https://blog.chef.io/2019/09/19/chefs-position-on-customer-engagement-in-the-public-and-private-sectors/) damn near immediately.
 

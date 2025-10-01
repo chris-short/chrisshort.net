@@ -14,7 +14,6 @@ title: The Dark Side of DevOps — JFrog swampUP 2019
 
 {{< streaming 63f2bd07-eb9f-41d4-9ae2-7c212512686a >}}
 
-{{< carbon >}}
 
 > People think that DevOps, Cloud Native, Agile, GROWS, etc. are all rainbows and roses. You start small, work your way up or you decide as an organizational unit to change.
 >

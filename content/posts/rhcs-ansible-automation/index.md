@@ -28,7 +28,6 @@ The one thing I wanted most from this class was a skills assessment. The longer 
 
 Good capital 'M' Marketing flows from the product through to the users even after the curriculum creation process. Good Marketing isn't “cloud” and “hyper-converged” and “serverless” (dibs on the first product that does all three of those). Good Marketing is a mixture of both technical “How?” and practical “Why?”
 
-{{< carbon >}}
 
 “How” to use something is often less important than the “Why” folks are using it. The documentation for a product could be phenomenal. But, if that product doesn't solve a problem folks have, who should use it? In the case of [Ansible](https://www.ansible.com/), I need to know more of the "Why" folks are using it versus anything else. With Ansible, the "How" and "Why" are often blurred. The Why folks use Ansible is often, "It's easier than <X>." But, that's the "How" isn't it? If something is easier to use that is a legitimate "Why" but, it's a design decision too.
 

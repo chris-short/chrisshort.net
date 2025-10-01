@@ -14,7 +14,6 @@ tags:
 title: The Teachings of Derwyn Lackey
 ---
 
-{{< carbon >}}
 
 I've told you about the cult known as the Center for Purposeful Living, another person has shared their experiences with the [Center for Purposeful Living](/center-for-purposeful-living/the-cult-that-is-human-service-alliance-and-the-center-for-purposeful-living/), and now another individual has come out denouncing the [Center for Purposeful Living](/center-for-purposeful-living/the-cult-that-is-human-service-alliance-and-the-center-for-purposeful-living/) which is also known as Human Service Alliance.
 
@@ -48,7 +47,6 @@ So current CPL students who read this are supposed to be in awe? This is typical
 
 The notion that cults try to hold onto people is, intriguingly, a misinformed one. Sure, at CPL, they "release" students, and then a series of follow-up messages from the guru get sent out that spin how the student was flawed, adversely influenced, or unsalvageable ("we did our best"). NEVER do they hold themselves accountable as a group or demonstrate a collective example of TRP. Rather, notes like these, razzing students, are standard MO, (all couched as "learning" of course).
 
-{{< carbon >}}
 
 Students are informed that they should be open to feedback, but not offer any to CPL until they've been there for 6 months. If ever a student departs, any private discussion about the departure is called "gossip" and anyone who gossips or criticizes is branded a detractor and, if persistent, they will certainly be purged.
 

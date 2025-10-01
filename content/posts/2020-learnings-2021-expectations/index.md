@@ -62,7 +62,6 @@ Internationally, things were nuts as well. Global trade wars, nations locked dow
 
 Let's take a look at the predictions I made last year and how they panned out.
 
-{{< carbon >}}
 
 ### Developer Definition
 

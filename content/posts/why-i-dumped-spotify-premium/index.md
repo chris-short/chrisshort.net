@@ -16,7 +16,6 @@ tags:
 title: Why I Dumped Spotify Premium
 ---
 
-{{< carbon >}}
 
 Yesterday I was reading an article by [Steve Kovach](https://plus.google.com/102737788855280055354/) about [Spotify and its six month free (ad supported) listening period coming to an end](https://www.businessinsider.com/spotify-unlimited-streaming-ends-for-some-free-users-2012-1). There seemed to be quite a bit of buzz about this ploy to lure US users in my Flipboard too. I have to admit, I was a huge proponent of Spotify but more importantly I was a huge supporter of streaming music.
 

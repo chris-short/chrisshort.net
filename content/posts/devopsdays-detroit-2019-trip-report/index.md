@@ -28,7 +28,6 @@ Disclaimer: I work for Red Hat, [my views and opinions are solely mine](/terms/)
 
 I [spoke](https://speakerdeck.com/chrisshort/devops-is-not-war-df415c22-a29d-4cab-8689-143f9922c0f3), [sponsored](https://devopsdays.org/events/2019-detroit/sponsor) (as did Red Hat, my employer, thank you), and worked from the front row of [**DevOpsDays Detroit 2019**](https://devopsdays.org/events/2019-detroit/) this week. The event sold out for the first time this year. The venue has been the [College for Creative Studies](https://www.collegeforcreativestudies.edu/) in downtown Detroit for the past four years.
 
-{{< carbon >}}
 
 The venue is awesome, in my opinion, because it puts systems thinkers in a venue space on top of an arts school overflowing with creative ideas. There is art around every corner. Attendees share the elevators with students going up to the event space. It's both humbling and inspiring. Detroit is a real-life Phoenix Project. Instead of an auto parts manufacturer, it's the 23rd most populous city in the US (and is ironically, The Motor City). But, the school is [putting its students' ideas to use to rebuild Detroit](https://www.collegeforcreativestudies.edu/experience/detroit). Detroit vs. Everybody.
 

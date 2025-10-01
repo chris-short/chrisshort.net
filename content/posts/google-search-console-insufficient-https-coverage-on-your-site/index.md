@@ -31,7 +31,6 @@ title: 'Insufficient HTTPS coverage on your site: What does that mean?'
 
 ## History
 
-{{< carbon >}}
 
 In the early 2000s, I did a lot of side hustle work around [Search Engine Optimization](/tags/seo/) (SEO). I'd help clients with their search engine rankings. Back then, folks cared about all the search engines. Nowadays, there's only one search engine people care enough to write about, Google.
 

@@ -13,7 +13,6 @@ tags:
 title: AWS Container Days @ KubeCon + CloudNativeCon Europe 2022 — Day 3
 ---
 
-{{< carbon >}}
 
 > In the days leading up to KubeCon + CloudNativeCon we'll be spending the week talking about how you can deploy, manage, and scale containerized applications using Kubernetes on AWS. These sessions, led by our AWS Kubernetes team and guest speakers, will contain technical deep dives, product demos, and best practices.
 >

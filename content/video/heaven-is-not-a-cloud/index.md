@@ -14,7 +14,6 @@ title: Heaven is Not a Cloud — AWS Michigan
 
 {{< streaming f95acedd-c581-445d-9411-636542f9dcc3 >}}
 
-{{< carbon >}}
 
 > "Migrating to the cloud saves money!” “Not running your own infrastructure reduces your bottom line!” “Lift and shift is a legitimate first step towards moving to the cloud!” These are all potential pitfalls if you’re not careful. Proper planning prevents piss poor performance. Using a real chaotic cloud migration as a guide, we’ll walk through the pitfalls of cloud migrations and how to avoid vendor lock-in (when it makes sense).
 

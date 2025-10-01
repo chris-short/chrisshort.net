@@ -23,7 +23,6 @@ From the announcement:
 
 This is awesome because the number one complaint I get from folks is, "We just bought the domain name why can't I see the site?"
 
-{{< carbon >}}
 
 Once the switch to the rapid update system happens I can at least tell clients it doesn't take as long as it used to as opposed to telling them it will take at least 72 hours for things to update across the Internet. Hopefully I'll be able to tell them in five minutes you'll see your new web site.
 

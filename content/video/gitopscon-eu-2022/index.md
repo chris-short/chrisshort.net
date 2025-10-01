@@ -19,7 +19,6 @@ All GitOpsCon EU 2022 videos are available in a [YouTube playlist](https://youtu
 
 {{< streaming 9a2f3131-5c58-4cd5-8e1e-a9ba2a76e2a2 >}}
 
-{{< carbon >}}
 
 > The term "GitOps" goes back to Alexis Richardson's initial blog post on operations by pull request but over time it became clear that GitOps was poorly understood. At the end of 2020, Amazon, Azure, Codefresh, Github, Redhat, and Weaveworks came together to start the GitOps Working Group. The goal was to work together and invite the community to collaborate on clear principles and definitions around GitOps. In this talk, two Open GitOps Co-Chairs will share how the principles were created, what they mean, and some common misunderstanding about what is and isn't GitOps.
 

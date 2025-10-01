@@ -32,7 +32,6 @@ title: Talking Operators with Rob Zehicle on L8ist Sh9y Podcast
 
 {{< audio Chris-Short-from-Red-Hat-talks-Operators-and-Kubernetes.mp3 >}}
 
-{{< carbon >}}
 
 On May 2nd, I joined my friends over at L8ist Sh9y Podcast as [Rob Zehicle](https://twitter.com/zehicle) was trying to wrap his mind around [Kubernetes Operators](https://kubernetes.io/docs/concepts/extend-kubernetes/operator/) via [Operator Framework](https://github.com/Operator-framework). I've created the [transcript](whxmHvMw1QIi.128.txt) so folks can read it if they desire.
 

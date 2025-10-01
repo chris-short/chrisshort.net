@@ -13,7 +13,6 @@ tags:
 title: '"Good SysAdmin to DevOps Engineer in Six Months"'
 ---
 
-{{< carbon >}}
 
 The other day my Vice President asked me a question, "What would it take to turn a good SysAdmin into a [DevOps](https://devopsish.com/) engineer?" He followed it up with, "Don't spend more than ten minutes thinking about it." He was not disappointed when I told him the next day I am spending way more than ten minutes on answering the question. This is a hard question for me to answer. This is a question that you won't know if your answer is right for at least six months.
 

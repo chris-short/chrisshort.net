@@ -31,7 +31,6 @@ title: Having a status page forced Comcast to fix my internet
 
 TL;DR: Comcast had a local area issue. I set up a status page for my house after many outages. The status page actively monitoring connectivity forced Comcast to look outside our home for a fix after several visits.
 
-{{< carbon >}}
 
 ## Forced switch to Comcast Business
 

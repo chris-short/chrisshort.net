@@ -17,7 +17,6 @@ tags:
 title: Conway's Law and GitOps
 ---
 
-{{< carbon >}}
 
 *Pulled directly from the introduction of [DevOps'ish 272](https://devopsish.com/272)*
 

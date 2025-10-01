@@ -14,7 +14,6 @@ title: 'Webinar: Monitoring Kubernetes Workloads: The Sidecar Pattern'
 
 {{< streaming ab909753-89e1-43f3-8a99-288df7fc6f50 >}}
 
-{{< carbon >}}
 
 > Kubernetes has entirely changed the way we build our infrastructure, enabling organizations to ship more changes faster. But, with all that speed comes challenges — containers introduce a non-trivial level of complexity when it comes to maintaining visibility into your infrastructure. Just as Kubernetes has required us to rethink how we build and deploy our applications, so too must we rethink the traditional approach to monitoring.
 >

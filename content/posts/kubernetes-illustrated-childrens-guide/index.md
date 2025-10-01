@@ -17,7 +17,6 @@ tags:
 title: Kubernetes Illustrated Children's Guide
 ---
 
-{{< carbon >}}
 
 There are a lot of ways to get started with Kubernetes. But, I've long said there are two paths to [getting started with Kubernetes](/kubernetes-getting-started/): maintaining Kubernetes or consuming Kubernetes. They're distinctly different but, you have to understand consuming Kubernetes before maintaining Kubernetes, in my opinion.
 

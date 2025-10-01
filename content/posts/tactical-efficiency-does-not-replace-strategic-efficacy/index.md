@@ -21,7 +21,6 @@ I used to think of industry analysts as 100% worthless to the broader technology
 
 ## *Tactical efficiency does not replace strategic efficacy*
 
-{{< carbon >}}
 
 We as technologists spend a lot of our time tackling the next problem put in front of us. These problems are tactical challenges that need to be addressed. We are in the habit of blocking and tackling. We often forget we are working as part of a team in a more extensive system. We are moving towards a grander strategic vision. Analysts serve as a data point in a much larger world around us. They're, for lack of a better term, intelligence assets.
 

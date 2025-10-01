@@ -13,7 +13,6 @@ tags:
 title: Moving to Linux - Linux Hopes Dashed
 ---
 
-{{< carbon >}}
 
 This will be the final article in the "[Moving to Linux](/moving-to-linux/)" series.
 

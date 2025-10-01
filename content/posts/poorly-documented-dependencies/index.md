@@ -43,4 +43,3 @@ Once that is complete you should be able to successfully run:
 
 `sudo npm install newrelic`
 
-{{< carbon >}}

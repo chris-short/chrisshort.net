@@ -12,7 +12,6 @@ title: 'Go: Enabling DevOps to Go Faster — Orchestructure January 2018'
 
 {{< streaming ac8ee956-7c57-402c-af28-18a3179a079a >}}
 
-{{< carbon >}}
 
 > Key Presentation Points:
 > -> What is Go?

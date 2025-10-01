@@ -29,7 +29,6 @@ tags:
 title: The AWS bill heard around the world
 ---
 
-{{< carbon >}}
 
 ## Update
 

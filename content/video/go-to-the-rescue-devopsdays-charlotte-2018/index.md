@@ -15,7 +15,6 @@ title: 'Golang to the rescue: Saving DevOps from TLS turmoil — DevOpsDays Cha
 
 {{< streaming 50fc5408-36a6-4f97-b5de-7dff746b1b4e >}}
 
-{{< carbon >}}
 
 > If you ever need to validate certificates or certificate chains before deploying them, Golang provides a near foolproof test method.
 > A 3rd party developed a tool that was then handed off to our DevOps team to manage and maintain. Before I could do any re-engineering work, I had to resolve a critical issue—the certificates on the ELBs were about to expire and needed updating.

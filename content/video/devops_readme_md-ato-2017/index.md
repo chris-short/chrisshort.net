@@ -14,7 +14,6 @@ title: DevOps README.md — All Things Open 2017
 
 {{< streaming d171c15d-ba1c-43c7-8aac-f21ca8ef3a51 >}}
 
-{{< carbon >}}
 
 > A curated list of things to read to level up your DevOps skills and knowledge.
 

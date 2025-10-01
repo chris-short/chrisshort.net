@@ -29,7 +29,6 @@ The interview was well worth the time it took to coordinate and conduct it. I wo
 
 Also available as an [MP3 download](https://shortcdn.com/chrisshort/nc-veterans-oral-history-interview-1.mp3)
 
-{{< carbon >}}
 
 **MP:** We'll get started. Hello. Today is May 21st, 2016. My name is Matthew Peek, I'm the Military Collection Archivist at the State Archives in North Carolina, and we're here at the State Archives in downtown Raleigh to interview Chris Short a US Air Force Veteran. Thank you for doing this.
 

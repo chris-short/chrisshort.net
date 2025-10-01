@@ -20,7 +20,6 @@ tags:
 title: 'DevOpsDays Atlanta 2018: DevOps is Not War'
 ---
 
-{{< carbon >}}
 
 I went to DevOpsDays Atlanta for the first time this week. I hadn't been in Atlanta in a very long time. It sure has changed a ton. Originally, I was going to help run the SJ Technologies booth. But, a speaker had to back out at the last minute and I was asked to fill the spot. I was working on a talk for ChefConf so I quickly finished that up and gave it to the good folks at [DevOpsDays Atlanta](https://www.devopsdays.org/events/2018-atlanta/).
 

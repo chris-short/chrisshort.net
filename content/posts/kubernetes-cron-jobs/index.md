@@ -24,7 +24,6 @@ tags:
 title: 'Kubernetes: Cron Jobs'
 ---
 
-{{< carbon >}}
 
 One of the reasons I stood up a [Kubernetes cluster on Raspberry Pis](/my-raspberry-pi-kubernetes-cluster/) in my house was because of the savings I wanted to gain by not running high-available, redundant infrastructure in the cloud. Kubernetes provides high-availability by design. It's pretty awesome the possibilities that exist given this capability. Need a web server to constantly run? Build a container and throw it in the Kubernetes cluster. Need a service available all the time? Package it and ship it to the Kubernetes cluster.
 

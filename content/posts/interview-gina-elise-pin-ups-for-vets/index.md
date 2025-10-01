@@ -21,7 +21,6 @@ If you've never heard of Gina Elise and her project [*Pin Ups for Vets*](https:/
 
 A year ago Gina Elise decided to take her, "love for retro and do something to help injured soldiers at the same time." Gina told me that the inspiration for Pin Ups for Vets is, "The stories I hear about injured soldiers returning home from overseas really has a huge effect on me. Their lives have changed forever because of these injuries — because they served our country. The motivation and energy they have is inspiring to me. I want to do something for them."
 
-{{< carbon >}}
 
 Gina Elise is supported by American Legion Post 360 in Lake Arrowhead, CA and makes calendars that she models in; the proceeds from which go to VA programs such as eyeglasses for Veterans, the home health program, recreational therapy, spinal cord injury & amputee programs, substance abuse program, women's Veterans' program, homeless program, reading materials and subscriptions for the Veterans, social relief fund, televisions, wheelchairs, and outreach programs for the visually impaired. She poses for each month in a World War II kind of retro look because Gina says she is a, "HUGE fan of all things retro. I've been a performer my entire life — love costumes, anything from another time period." I'm just glad she decided to grace our time period with her looks (she's a looker, ain't she, fellas), grace, and caring nature.
 

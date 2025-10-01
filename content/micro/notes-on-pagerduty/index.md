@@ -14,7 +14,6 @@ tags:
 title: Notes on PagerDuty
 ---
 
-{{< carbon >}}
 
 I have recently been added on to a PagerDuty rotation. I am sure numerous on-call people have a lot of different strategies to managing their rotations. However, there were two pieces of information I immediately wanted from PagerDuty:
 

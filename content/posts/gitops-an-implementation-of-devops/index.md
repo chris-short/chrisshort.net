@@ -42,7 +42,6 @@ tags:
 title: 'GitOps: An implementation of DevOps'
 ---
 
-{{< carbon >}}
 
 *This post does not reflect the views of OpenGitOps or the GitOps Working Group. These are my opinions from years of experience in DevOps and in working with GitOps.*
 

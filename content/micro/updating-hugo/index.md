@@ -12,7 +12,6 @@ ShowToc: true
 TocOpen: true
 ---
 
-{{< carbon >}}
 
 Upgrading Hugo or your chosen theme along with Hugo is often unreasonably burdensome. These two things are managed independently: Hugo by the Hugo dev team and your theme by its designer. This is what creates the difficulty in upgrading Hugo and updating your theme. Well, that and time.
 

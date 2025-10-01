@@ -22,7 +22,6 @@ tags:
 title: Construction of an Optimized Web Page
 ---
 
-{{< carbon >}}
 
 This article is designed to help individuals build web pages that are search engine optimized as well as human friendly. It will focus intently on the process used to develop web pages for this web site and how pages are optimized before being published on this web site.
 

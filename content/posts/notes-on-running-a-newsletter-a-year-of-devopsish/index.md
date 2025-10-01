@@ -20,7 +20,6 @@ The process for writing the newsletter is simplistic enough. Throughout the week
 
 The next optimization I made was to stop writing commentary on every single link I share. Instead doing, at a minimum, a weekly monologue at the beginning of the newsletter became the norm. This made it very easy to broadcast my thoughts in a concise manner then assemble links and pithy comments. The newsletter went from four hours of work to two hours at the absolute most with now welcomed distractions of life.
 
-{{< carbon >}}
 
 There is a constant hurdle when running a newsletter though; marketing. No matter what, you want to see what you're building grow. There is no silver projectile for this. A brief foray with paid ads on Twitter, Facebook, and Google proved this to be the case. Writing good content is still the key to any successful project.
 

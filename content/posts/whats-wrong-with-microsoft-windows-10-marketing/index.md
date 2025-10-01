@@ -15,7 +15,6 @@ tags:
 title: What's Wrong with Microsoft's Windows 10 Marketing
 ---
 
-{{< carbon >}}
 
 I was reading through Wired magazine and saw a Windows 10 ad. If you've turned on a TV the past month you've seen the ad I'm referring to, this is just the print edition of the TV ad.
 

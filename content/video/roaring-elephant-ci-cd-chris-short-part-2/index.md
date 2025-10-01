@@ -14,7 +14,6 @@ title: 'Roaring Elephant CI/CD Chris Short: Part 2'
 
 {{< streaming aeba95b3-8526-4006-ae86-d30144b23c68 >}}
 
-{{< carbon >}}
 
 > We're joined by Chris Short from Red Hat to discuss the ins and outs of Continuous Integration and Continuous Deployment.
 

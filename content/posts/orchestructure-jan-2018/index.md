@@ -22,7 +22,6 @@ I spoke at the first [Orchestructure](https://www.meetup.com/orchestructure/even
 
 I created a new Go talk for this group. I hope to reuse it to enlighten people on the awesomeness of Go. This talk is title *Go: Enabling DevOps To Go Faster*. The talk walks through why and who created Go, examples of the things that makes Go great, three uses of Go and the why behind them, and finally walks through how Go has bailed me out in the past.
 
-{{< carbon >}}
 
 If the second half of this talk looks familiar it's because it's from my [*Golang to the rescue: Saving DevOps from TLS turmoil*](/video/gophercon-2017-lightning-talk/) talk. I feel like telling the whole story of Go provides significantly better context to the DevOps use cases for Go. PDFs of the talk are available; one [with speaker notes](https://shortcdn.com/chrisshort/pdf/Go-Enabling-DevOps-to-Go-Faster-Notes.pdf) and the other [without notes](https://shortcdn.com/chrisshort/pdf/Go-Enabling-DevOps-to-Go-Faster.pdf).
 

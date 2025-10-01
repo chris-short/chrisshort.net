@@ -40,7 +40,6 @@ I went to [KubeCon + CloudNativeCon North America 2018](https://events.linuxfoun
 
 Air travel is generally okay for me. I don't seem to mind the crowds at airports like I do crowds of people sitting (more on that in a minute). I'm usually through security in single digit minutes thanks to NEXUS and Clear. I also am perfectly capable of keeping myself busy in the short bursts of waiting around for the next thing to happen. Flying from DTW, my trips are usually shorter, east coast bound ones. The flight to Seattle was my longest this year.
 
-{{< carbon >}}
 
 I was not looking forward to four hours on a plane. My busted ankles do weird things on longer flights. Couple that with the fact I'm huge, which makes it hard to stay comfortable long in small seats. Also, don't  get me started on the hell that flying put [my shoulder and back](/disability/) through. I mentioned my unfortunate seat selection to [Emily Freeman](https://emilyfreeman.io) she asked if I thought about upgrading myself to First Class. Emily made a very logical argument and I'm very glad she did (thank you, Ems). I had to hit the ground running in Seattle. Being a ball of knots and high on painkillers wasn't an option.
 

@@ -17,7 +17,6 @@ tags:
 title: The Importance of Psychological Safety
 ---
 
-{{< carbon >}}
 
 I have mentioned this a few times in various [talks](/speaking/), on social media, and in my [newsletter](https://devopsish.com/087/); the importance of **psychological safety** in creating effective teams is often overlooked. Google did an enormous amount of research to determine, "the secrets of effective teams at Google." Code-named [Project Aristotle](https://web.archive.org/web/20181226063615/https://rework.withgoogle.com/print/guides/5721312655835136/), Google wanted to nail down, once and for all, what factors contributed to team effectiveness.
 

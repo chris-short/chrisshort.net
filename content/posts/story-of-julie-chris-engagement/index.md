@@ -14,7 +14,6 @@ tags:
 title: The Story of Julie and Chris' Engagement
 ---
 
-{{< carbon >}}
 
 Julie and I have been pass holders to [Biltmore](https://www.biltmore.com/) since Labor Day weekend 2010.  The Biltmore Estate is a very special place for us because it seems every time we visit we somehow manage to fall deeper in love with each other.  I had decided several months prior that when the time was right I would propose to Julie somewhere on the Biltmore Estate.
 

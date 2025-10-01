@@ -31,7 +31,6 @@ Another example is when leadership decides that your well-trained developers are
 
 The urge to rush to the airport so you can get through security and relax at the gate or in a lounge—that's "hurry up and wait." It's neither good nor bad, and it's sometimes the best thing to do. In the military, folks are quickly marshaled to a place so they can wait for the next thing to hurry up and do.
 
-{{< carbon >}}
 
 It's much better to get a function or system deployed early and have it lying in wait rather than trying to rush it out the door. A project finishing too early can be bad, too. The requirements can change, requiring rework, which is a DevOps anti-pattern. The trick is finding the balance between readiness and waiting.
 

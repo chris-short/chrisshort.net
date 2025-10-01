@@ -11,7 +11,6 @@ tags:
 title: Moving to Linux - Picking a Distribution
 ---
 
-{{< carbon >}}
 
 After deciding to [move to Linux](/moving-to-linux/) and determining that [my hardware is compatible with Linux](/moving-to-linux-hardware-compatibility/), it's time to pick a Linux distribution.
 

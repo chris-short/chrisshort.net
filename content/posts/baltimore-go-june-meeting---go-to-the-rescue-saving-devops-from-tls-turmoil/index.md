@@ -25,6 +25,5 @@ I was in the DC metro area when I received an e-mail about the [Baltimore Go Mee
 
 Of course I said yes. I was [already doing a talk that morning at DevNationFederal](/devnationfederal-2018-devops-is-not-war/). What's another talk in the evening? I'd move heaven and earth for Johnny. His diversity and inclusion efforts are th enormous cherry on top of his substantial contributions to the Go community.
 
-{{< carbon >}}
 
 By the way, the Baltimore Go Meetup is top notch. Hosted at the Under Armour headquarters, they really left nothing to be desired from my perspective. The RSVP to turn out ratio was really good, the room was large, and had two large screens so code samples didn't look too terrible. A huge thanks to tbe folks that attended and asked questions!

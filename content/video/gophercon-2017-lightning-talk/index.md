@@ -17,7 +17,6 @@ title: GopherCon 2017 Lightning Talk Video
 
 {{< streaming d60aafa5-af33-42f3-bcc5-921234df7094 >}}
 
-{{< carbon >}}
 
 Video of all the GopherCon 2017 talks are now available. Fifty-eight videos in all; it's *almost* like being there. You can watch [Ashley McNamara's goosebump inducing talk](https://youtu.be/6sBBTFXOq44?list=PL2ntRZ1ySWBdD9bru6IR-_WXUgJqvrtx9), [Kris Nova's refreshing take on purging technical debt](https://youtu.be/IiYHDDz_7mE?list=PL2ntRZ1ySWBdD9bru6IR-_WXUgJqvrtx9) from [kops](https://github.com/kubernetes/kops), or [Sam Boyer's dep talk](https://youtu.be/5LtMb090AZI?list=PL2ntRZ1ySWBdD9bru6IR-_WXUgJqvrtx9).
 

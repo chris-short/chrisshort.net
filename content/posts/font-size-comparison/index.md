@@ -21,7 +21,6 @@ If you have customized the way your browser displays text there is a strong poss
 
 If this isn't what you were looking for please click your back button or go to [chrisshort.net](https://chrisshort.net)
 
-{{< carbon >}}
 
 <div style="font-size:36px">This line is 36 pixels.</div>
 <div style="font-size:27pt">This line is 27 points.</div>

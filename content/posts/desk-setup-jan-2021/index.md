@@ -34,7 +34,6 @@ I'll explain the reasoning for each purchase and any accessories that I found ne
 
 In the mid-00s, I picked up photography as a hobby. I learned a lot about photography from my good friend [Jonathan Jackson](https://www.mountainmultimedia.net/) too. Hence, I've always been a fan of external cameras for home/office use. I picked up a [Logitech C920S HD Pro Webcam](https://amzn.to/3a1xYhy) in early February. That worked very well until a show I did featured someone with a fantastic DSLR setup. I looked like I had a tinker toy in comparison and I wanted to up my game.
 
-{{< carbon >}}
 
 In August, I set off to eBay to pick up a used Sony A6000. With some advice from [Jeff Geerling](https://www.jeffgeerling.com/), I picked up the things that made the best use of that A6000 frame. First was the [Sigma 30mm lens](https://amzn.to/3oBiq9J) (if you're in tight quarters, get the [Sigma 16mm lens](https://amzn.to/3r8BGwK)). This provides an excellent, close shot with all the [bokeh](https://en.wikipedia.org/wiki/Bokeh) you could ever ask for.
 
