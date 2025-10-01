@@ -50,7 +50,6 @@ If it's their first console and they are under 18 (or an adult who travels frequ
 
 ## Which Switch
 
-{{< carbon >}}
 
 It's important to note that there are three Nintendo Switch to choose from:
 

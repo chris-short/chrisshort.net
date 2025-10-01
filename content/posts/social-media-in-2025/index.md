@@ -36,7 +36,6 @@ ShowToc: true
 TocOpen: true
 ---
 
-{{< carbon >}}
 
 Kaslin Fields and I were talking about the social media landscape in 2025. The Kubernetes Contributor Comms team has been fielding requests to modify our community's social media policies to continue improving the project's vitality. During our discussion, I stated that "**Social media might be coming to the end of its usefulness.**"
 

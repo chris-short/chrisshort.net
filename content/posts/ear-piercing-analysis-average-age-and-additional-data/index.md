@@ -18,7 +18,6 @@ All decisions I make require some data.  I posed a question on Twitter and Faceb
 
 I collected all of this data into a Google Docs spreadsheet which I have [made available to everyone](https://docs.google.com/spreadsheets/d/1dT7LEM98_behiHkbEiTkQLgJHMblcOhdyvI9POypOFc/edit?usp=sharing).
 
-{{< carbon >}}
 
 The average age of the forty-three respondents is **8.74418604651163** years old.  Typically, the earlier the ears were pierced the more piercings the respondents had.  Those who had their ears pierced above (older) than the average only had their ears pierced.  100% of those who responded with an answer below (younger) than the average had more than their ears pierced (once), had more parts of their anatomy pierced, and/or had to have their ears re-pierced.
 

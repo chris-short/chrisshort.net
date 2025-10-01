@@ -31,7 +31,6 @@ tags:
 title: 'Container Conundrum: DevOpsDays Chicago 2022 Open Space Notes'
 ---
 
-{{< carbon >}}
 
 I found a topic that I'm going to suggest for an Open Space at every DevOpsDays I go to from this point forward: "**Container Conundrum: Pain points around containers**"
 

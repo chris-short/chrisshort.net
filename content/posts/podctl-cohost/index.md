@@ -21,7 +21,6 @@ For about a year or so, I've wanted to host or co-host a podcast. I have had som
 
 I [joined the OpenShift team](/joining-forces-with-openshift/) back in August. I've been getting up to speed with OpenShift and my new team while working in the [upstream](/upstream-vs-downstream/) Kubernetes community. Couple that with the [CNCF Ambassador](/chris-short-named-cloud-native-ambassador/) duties I'm helping out with; I'm heavily invested in Kubernetes.
 
-{{< carbon >}}
 
 This week, Brian Gracely reached out to me to cohost [**PodCTL**](https://www.podctl.com/), Red Hat's Kubernetes podcast. Knowing that Brian has the tooling and processes in place for podcast production, I didn't even hesitate to say, "Yes!" [We recorded an episode  today](https://podcasts.apple.com/gb/podcast/the-intersection-of-devops-and-kubernetes/id1270983443?i=1000456263929) while I'm at home here outside Detroit. [A fancy mic for my iPhone](https://amzn.to/2NYe0t0) is now part of my kit and we're off to the races.
 

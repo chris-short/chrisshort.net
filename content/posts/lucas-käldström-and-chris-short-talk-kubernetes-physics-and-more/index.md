@@ -41,7 +41,6 @@ title: Lucas Käldström and Chris Short Talk Kubernetes, Physics, and more
 
 {{< streaming e43e142f-1966-458e-a3f9-22367ffa4fdf >}}
 
-{{< carbon >}}
 
 Lucas Käldström has a brilliant thesis out titled, "Encoding human-like operational knowledge using declarative Kubernetes operator patterns." We sat down to talk about how, "Kubernetes operators form a novel programming model, allowing a shift from humans managing servers to servers managing servers, analogously to the Industrial Revolution."
 

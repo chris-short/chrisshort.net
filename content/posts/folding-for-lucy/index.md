@@ -19,7 +19,6 @@ tags:
 title: Folding for Lucy
 ---
 
-{{< carbon >}}
 
 If you’ve known me for a while or followed me on social media long enough, you know I have a niece. She died of an aggressive cancer at four and a half months old in April 2022. Finding out your only niece has cancer is terrible. Lucy’s passing was profoundly saddening. No parent expects their newborn to have cancer. It was nature at its absolute cruelest.
 

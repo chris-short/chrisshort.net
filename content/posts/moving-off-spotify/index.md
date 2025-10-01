@@ -20,7 +20,6 @@ tags:
 title: Moving off Spotify
 ---
 
-{{< carbon >}}
 
 This past week, Spotify has made it very clear that they are a podcast service first and a music service second. Regardless of how you feel about [Neil Young, his music, or him asking Spotify to remove his music if they're going to keep Joe Rogan's podcast going](https://www.nytimes.com/2022/01/26/arts/music/spotify-neil-young-joe-rogan.html), Spotify put a flag in the sand. This isn't my first rodeo [moving off Spotify](https://chrisshort.net/why-i-dumped-spotify-premium/) either. This added something extra: unification of years split between many music streaming services.
 

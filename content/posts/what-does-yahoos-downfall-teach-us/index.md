@@ -21,7 +21,6 @@ Building great features for users has been a hallmark of wildly successful compa
 
 Instead of building great products Marissa Meyer focused on mobile platforms which ended up not panning out too well. The Yahoo scatter beam was also focused on content deals. Huge sums of stock and cash were spent on Katie Couric and the NFL. Coupled with several failed video platform acquisitions (Hulu,  Dailymotion, etc.) you could tell that despite Yahoo's ability to acquire companies it was not going to be a major play in the content space (aside from the display content on its once great "portal").
 
-{{< carbon >}}
 
 Video is where the web is heading. Yahoo saw that early on but failed to execute on that vision. I am sure that lots of Yahoo folks worked on lots of Yahoo product features. What set Yahoo products apart from their competitors?
 

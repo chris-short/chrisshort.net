@@ -18,7 +18,6 @@ This isn't a complete history of the series of Microsoft Windows. These are my v
 
 I remember when I could do just about anything you wanted on God's green earth in DOS 6.22. It was great, if my hands weren't fast enough then you demanded too much. Take DOS and couple that with the GUI of Windows 3.11 and I was moving right along. Then I sat down in front of a first line, Windows 95 box. Now that was rather interesting. Everyone had gotten so used to using DOS and Windows 3.11's clunky GUI that hardly anyone knew what they were doing in the first mainstream desktop 32-bit operating system. Until they clicked their way through a few things, then realized that Windows 95 was built on DOS and the tasks they were doing before became easier than ever, oh, and the wonderful "Start" button. Everyone went along with that and it was probably one of the best things to happen to the "home" PC due to the fact that the ease of use of the OS made PCs go up in demand. The PC went from being the family computer to "Dad's Computer" and "Mom's Computer" and "Your sister's computer."
 
-{{< carbon >}}
 
 Windows 95 did open quite a few eyes at first. Then the now all too typical Microsoft effect hit. The "wow" OS turned into the crashing OS. The "powerful" OS had a backdoor. Advents in technologies forced five versions of Windows 95 (4.00.950, 4.00.950A, 4.00.950B, 4.00.950B (2.1), and 4.00.950C) and a myriad of security and bug fixes. But still it was the easiest thing out there to use and teach people and this made the PC get on everyone's desk.
 

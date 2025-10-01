@@ -26,7 +26,6 @@ This was the first mass after the [tragic events at the Pulse nightclub in Orlan
 
 The religious right in this country has often been anti-gay. To which I ask of those people what is more important; your religion or your ideals? For if you are truly conservative you do not care what people do in the privacy of their own home. If you are a conservative you are not in favor of government coming in and telling people how to use the bathroom. If the Catholics do not care about sexual orientation then who should? The answer to this question is those who do not understand. This lack of understanding leads to fear and then hate.
 
-{{< carbon >}}
 
 The liberal left in this country has been historically anti-gun. To which I ask of those people what is more important; your government or your ideals? For if you are truly liberal you should be trying to seek out understanding. As a liberal, I believe you should truly feel that hate in all forms is bad, not just the hate you approve of. If the fourth amendment protects your iPhone then the second amendment must protect more than 18th century muskets. If a gay person wants a concealed carry permit after the attack in Orlando, who would question their motive? The answer to this question is those who do not understand. This lack of understanding leads to fear and then hate.
 

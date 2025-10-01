@@ -43,7 +43,6 @@ tags:
 title: My Disability
 ---
 
-{{< carbon >}}
 
 Disclaimer: I am not a doctor. This is not health advice. Work with your doctors to determine what works best for you would be best.
 

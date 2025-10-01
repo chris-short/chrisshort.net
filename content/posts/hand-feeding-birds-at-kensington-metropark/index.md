@@ -24,4 +24,3 @@ Please see the [Flickr album for videos and photos](https://flic.kr/s/aHBqjABNAu
 
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/chris-short/albums/72177720307896736" title="Kensington Metropark 2020-10-10"><img src="https://live.staticflickr.com/65535/52858709230_ab3d81c433.jpg" width="640" height="480" alt="Kensington Metropark 2020-10-10"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
-{{< carbon >}}

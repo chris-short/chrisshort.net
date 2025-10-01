@@ -30,7 +30,6 @@ tags:
 title: Intro to eBPF
 ---
 
-{{< carbon >}}
 
 *This introduction to eBPF is adapted from the beginning of [DevOps'ish 278][23]*
 

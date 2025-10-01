@@ -13,7 +13,6 @@ tags:
 title: Shrug
 ---
 
-{{< carbon >}}
 
 ## Normal Shrug (sup son)
 

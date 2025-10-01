@@ -31,7 +31,6 @@ AnsibleFest Atlanta featured the launch of the [Red Hat Ansible Automation Platf
 
 Automation Hub is the central location for certified, supported collections. The partners involved for launch are working with Ansible support to help customers. [Ansible Collections](https://galaxy.ansible.com/docs/contributing/creating_collections.html) are the component that makes Automation Hub possible. Collections allow core Ansible components to be decoupled from faster-moving components, like modules and plugins.
 
-{{< carbon >}}
 
 Ansible content can now be delivered and updated independently as Ansible Collections (available since Ansible 2.8). This eliminates the dependency of new or updated modules not being available until the next Ansible release. The Automation Hub also has namespacing for customers to host their own trusted Ansible content for use within their orgs.
 

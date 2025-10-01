@@ -11,7 +11,6 @@ tags:
 title: OSI Model
 ---
 
-{{< carbon >}}
 
 The Open Systems Interconnection model (OSI model) defines a concept where every function of a computing system resides at one of its seven levels. When people say, "Layer 3 routing" or "L7 load balancing" they are referring to the OSI Model.
 

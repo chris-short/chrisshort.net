@@ -18,7 +18,6 @@ tags:
 title: 'DevNationFederal 2018: DevOps is Not War'
 ---
 
-{{< carbon >}}
 
 Red Hat invited me to speak at [DevNationFederal](https://devnationfederal.org/). The organizers requested I present my DevOps is Not War talk to technologists in the Washington DC area. This crowd is a group of folks that are at varying points in their DevOps journeys. Many folks from government agencies and systems integrators were present.
 

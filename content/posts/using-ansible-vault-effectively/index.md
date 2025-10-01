@@ -14,7 +14,6 @@ tags:
 title: Using Ansible Vault Effectively
 ---
 
-{{< carbon >}}
 
 [**Ansible**](https://www.ansible.com/) is a great orchestration tool. The low barrier to entry and simplicity of Ansible are why so many people that start using it love it. But there is one feature in Ansible that probably should be used more often. That feature is [**Ansible Vault**](https://docs.ansible.com/ansible/latest/vault_guide/index.html).
 
@@ -38,7 +37,6 @@ You can no longer use vim (or Emacs, nano, etc.) to edit Ansible Vault files... 
 
 Ansible Vault adds a layer of security so it's inherently harder to use (but not much harder). Don't make it harder by sporadically encrypting some variable files and not others. Waste the handful of kilobytes of disk and make all your variable files Ansible Vaults.
 
-{{< carbon >}}
 
 Previously, I've given a one-liner on how to [Grep Multiple Ansible Vault Files](/grep-multiple-ansible-vault-files/) that is based off this model as well.
 

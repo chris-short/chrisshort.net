@@ -26,6 +26,5 @@ I sat down with three up-and-comers here in Metro Detroit:
 
 * Andy, who is a student in Environmental Systems and Music Technology, peppered me with some well-thought-out questions about work ethic and technology.
 
-{{< carbon >}}
 
 The LinkedIn Mentor Monday program is in its infancy. If you ever have the opportunity to take part in a Mentor Monday event, I highly recommend it. And if you are in Detroit and want to tag along with me to the next event, let me know.

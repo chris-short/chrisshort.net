@@ -16,7 +16,6 @@ title: 'KubeCon + CloudNativeCon NA 2021 — Panel Discussion: Marketing as Cod
 
 {{< streaming d59dfada-236d-49f0-9079-d072a8d9c016 >}}
 
-{{< carbon >}}
 
 > For new folks in the CNCF space, becoming a contributor may sound daunting, and even overwhelming. But guess what? There are tons of ways to contribute apart from code. 5 members of the ContribEx Marketing subproject (Kunal, Bart, Chris, Kaslin, and Matt) are all participating and contributing through positive attitudes, documentation, networking, videos, drawings, and even raps. They want to share the welcoming spirit of the CNCF where no contribution is too small, and everyone will have something to share. Contributors' stories must be heard, and that's where the upstream marketing team comes in. (This proposal is for the Students' track)
 

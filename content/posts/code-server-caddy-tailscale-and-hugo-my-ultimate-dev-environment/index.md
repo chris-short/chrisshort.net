@@ -39,7 +39,6 @@ tags:
 title: code-server, Caddy, Tailscale, and Hugo = My ultimate dev environment
 ---
 
-{{< carbon >}}
 
 I think I've discovered my development environment equivalent to nirvana. [code-server](https://github.com/coder/code-server) fronted by [Caddy](https://caddyserver.com/) on a box with [Tailscale](https://tailscale.com/) installed. I maintain a lot of [Hugo](https://gohugo.io/) websites. Hugo has been my go-to content management system (CMS) since discovering it in 2017 (I got my first Hugo site at [GopherCon 2017](/video/gophercon-2017-lightning-talk/)).
 

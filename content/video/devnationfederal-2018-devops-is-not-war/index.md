@@ -14,7 +14,6 @@ title: "DevNationFederal: DevOps is Not War"
 
 {{< streaming 11781974-d057-4b1b-8f25-f5dea71430b8 >}}
 
-{{< carbon >}}
 
 > People think that DevOps, Cloud Native, Agile, GROWS, etc. are all rainbows and roses. You start small, work your way up or you decide as an organizational unit to change.
 >

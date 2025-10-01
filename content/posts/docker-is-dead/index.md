@@ -35,7 +35,6 @@ title: Docker, Inc is Dead
 >
 > Please read my [Disclaimer](/terms/) before breaking out the tar and feathers.
 
-{{< carbon >}}
 
 To say that **Docker** had a very rough 2017 is an understatement. Aside from Uber, I can't think of a more utilized, hyped, and well funded Silicon Valley startup (still in operation) fumbling as bad as Docker did in 2017. People will look back on 2017 as the year Docker, a great piece of software, was completely ruined by bad business practices leading to its end in 2018. This is an outside facing retrospective on how and where Docker went wrong and how Docker's efforts to fix it are far too little way too late.
 

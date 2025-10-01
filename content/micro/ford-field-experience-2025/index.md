@@ -22,7 +22,6 @@ ShowToc: true
 TocOpen: false
 ---
 
-{{< carbon >}}
 
 We did something beyond cool this weekend. Friends invited us to a flag football tournament at Ford Field to raise money for the [Crohn's and Colitis Foundation](https://www.crohnscolitisfoundation.org/). The dad volunteers for several non-profit organizations, and the family's twins are in Max's class. We were invited to join them at Ford Field as their guests for the VIP experience.
 

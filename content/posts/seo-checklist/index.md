@@ -25,7 +25,6 @@ title: SEO Checklist
 
 This SEO Checklist is one of many that can be found on the Internet. What makes this SEO checklist different than everyone elses is that it's accurate and simple. It's a listing of all the search engine optimization used across various web sites I own or manage. This list has been developed using suggestions from just about every major SEO checklist on the World Wide Web. All of the checklists on the web are different, this one will be to, however, this is a well thought out checklist using the best recommendations from all over the Internet including a few recommendations of my own.
 
-{{< carbon >}}
 
 ### Uptime, uptime, uptime
 

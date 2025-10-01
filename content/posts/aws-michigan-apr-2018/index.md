@@ -19,7 +19,6 @@ title: 'AWS Michigan: Heaven is Not a Cloud'
 
 {{< streaming f95acedd-c581-445d-9411-636542f9dcc3 >}}
 
-{{< carbon >}}
 
 I recently spoke at [AWS Michigan](https://www.meetup.com/AWS-Michigan/events/248874167/) about cloud migrations. The talk wasn't AWS specific but we sure did talk about it a ton. From defining cloud to addressing priorities to preventing cost overruns we covered a lot during the meetup. I was peppered with questions by a lively audience. After speaking on stage at DevOpsDays Atlanta 2018, there was this awkward moment for me when the first question was asked. I wasn't mentally prepared for questions during the talk but, adjusted quickly.
 

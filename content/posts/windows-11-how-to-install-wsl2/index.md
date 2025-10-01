@@ -30,7 +30,6 @@ tags:
 title: 'Windows 11: How to Install WSL2 and Linux Distros'
 ---
 
-{{< carbon >}}
 
 I'm not going to lie. Windows Subsystem for Linux (WSL) is a helpful technology. It's supposed to have made getting a Linux environment on Windows easier. However, having just tried getting it up and running on the lone Windows box I own, I can confirm it's a pain to install unless you're a Windows system administrator or know what you're doing. The hype for WSL2 appears to have overlooked the user experience.
 

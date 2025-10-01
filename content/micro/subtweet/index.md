@@ -11,7 +11,6 @@ tags:
 title: subtweet
 ---
 
-{{< carbon >}}
 
 A subtweet is such a common thing that it has entered the English lexicon. The term itself has a very specific meaning according to [Oxford Living Dictionaries](https://en.oxforddictionaries.com/definition/subtweet):
 

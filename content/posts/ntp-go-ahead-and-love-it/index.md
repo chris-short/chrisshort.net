@@ -17,7 +17,6 @@ tags:
 title: 'NTP: I Need You to Go Ahead and Love It'
 ---
 
-{{< carbon >}}
 
 It's 2016 (almost 2017) why is the time off on your system clocks? It became apparent to me that there are some folks out there that do not realize their clocks are off for a reason. [Julia Evans](https://twitter.com/b0rk) recently made a graphic about [distributed systems](https://twitter.com/b0rk/status/793288477060263936) that mentioned clock issues and it made me really sad.
 

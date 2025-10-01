@@ -14,7 +14,6 @@ tags:
 title: Joining Ansible Team at Red Hat
 ---
 
-{{< carbon >}}
 
 > tl;dr "It is with great pleasure that I announce I am joining the [Ansible](https://www.ansible.com/) team at [Red Hat](https://www.redhat.com/) as Principal Product Marketing Manager."
 

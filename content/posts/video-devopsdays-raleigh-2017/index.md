@@ -26,4 +26,3 @@ Watch Now: [The Dark Side of DevOps — DevOpsDays Raleigh 2017](/video/devops-d
 
 Watch Now: [DevOpsDays Raleigh 2017 Ignite Karoke (Part 2)](/video/devopsdays-raleigh-2017-ignite-karaoke-part-2/)
 
-{{< carbon >}}

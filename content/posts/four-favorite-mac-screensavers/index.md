@@ -37,7 +37,6 @@ Fliqlo is my new, go-to screensaver of choice for macOS. fliqlo is a simple yet 
 
 > Fliqlo for Mac/Windows is a clock screensaver that allows you to make your desktop/laptop device screen look like a flip clock. It displays the time with flip animation in large white numerals against a black background. Thanks to its visibility, you can read the time even from a distance.
 
-{{< carbon >}}
 
 ## Drift
 

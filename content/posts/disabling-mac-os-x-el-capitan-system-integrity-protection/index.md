@@ -15,7 +15,6 @@ tags:
 title: Disabling Mac OS X El Capitan System Integrity Protection
 ---
 
-{{< carbon >}}
 
 Apple has introduced a new security feature in Mac OS X El Capitan (10.11) called **System Integrity Protection** (sometimes referred to as [rootless](https://arstechnica.com/gadgets/2015/06/preview-os-x-el-capitans-first-beta-is-a-promising-heap-of-refinements/#page-4)).
 

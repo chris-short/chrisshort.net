@@ -21,7 +21,6 @@ tags:
 title: The most annoying 1Password error after Mac Migration
 ---
 
-{{< carbon >}}
 
 ## New MacBook Air 15-inch
 

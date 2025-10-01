@@ -17,7 +17,6 @@ tags:
 title: Got Badlock? Ansible Can Help
 ---
 
-{{< carbon >}}
 
 Badlock might not be bad for all. If you are using Ansible you can patch your systems with a single playbook (or ad hoc command).
 

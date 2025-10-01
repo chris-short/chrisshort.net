@@ -15,7 +15,6 @@ tags:
 title: Moving to Linux - Filesystems
 ---
 
-{{< carbon >}}
 
 After deciding how my [hard disk will be partitioned in Linux](/moving-to-linux-partitioning/), I need to select a filesystem for those partitions. A filesystem is a system for organizing directories and files, generally in terms of how it is implemented in the disk operating system. In layman's terms it is code that tells your operating system how data is stored, organized, and managed on a hard disk drive.
 

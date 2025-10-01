@@ -15,7 +15,6 @@ title: 'Webinar: KubeVirt - Beyond Containers: Coming full circle back to VMs!'
 
 {{< streaming f4f5c716-e421-4a95-afc1-4fd4b7d05da5 >}}
 
-{{< carbon >}}
 
 > In this webinar we will introduce KubeVirt and what VMs with K8s mean for you.
 >

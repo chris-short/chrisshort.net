@@ -21,7 +21,6 @@ title: 'ChefConf 2018: DevOps is Not War'
 
 {{< streaming 2a5b396e-5f26-42d9-93e0-5589815ff868 >}}
 
-{{< carbon >}}
 
 If you read [DevOps'ish](https://devopsish.com/077/), you already know I spoke at [ChefConf 2018](https://chefconf.chef.io/). I was able to meet 1,400 new friends while I was in Chicago (not really but kinda). I presented my talk, DevOps is Not War to a standing room only audience.
 

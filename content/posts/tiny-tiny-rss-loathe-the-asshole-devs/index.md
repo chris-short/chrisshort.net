@@ -9,7 +9,6 @@ tags:
 title: 'Tiny Tiny RSS: Loathe the Asshole Devs'
 ---
 
-{{< carbon >}}
 
 I've been messing around with Tiny Tiny RSS today. Upon discovering it I posted in their Google+ Community asking how other users implemented it and what they thought of a specific use case I had. I got some good responses and was quite appreciative of them.
 

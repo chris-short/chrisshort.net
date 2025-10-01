@@ -17,7 +17,6 @@ Surprisingly, 2016 brought a mix of both soft skills and technical skills. Let's
 
 You must have APIs at all levels of your application and infrastructure. If not an API then a tool that acts as an abstraction layer. At no point in time should your application or systems be exposed through anything other than this abstraction layer. At no point in time should your application talk to anything other than an API either (aside from a protected database).
 
-{{< carbon >}}
 
 Additionally, at no point should you as an engineer talk to anything other than an abstraction layer. Need to do some one-off change; do it through an API. Can't do said thing through the API? Why not? Fix it! Do said thing through the API even if you have to use curl by hand. Does your infrastructure not get managed through an API but is through some other tool (Puppet, Ansible, Salt, etc.)? Use that tool no matter what. Otherwise, you are just building technical debt.
 

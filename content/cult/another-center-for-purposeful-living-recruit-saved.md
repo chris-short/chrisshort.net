@@ -13,7 +13,6 @@ series: The cult I was forced to join as child
 title: Another Center for Purposeful Living Recruit Saved
 ---
 
-{{< carbon >}}
 
 Yesterday, I had an incredibly healthy exchange with a divorced mother who had toured the Center for Purposeful Living and decided it might be worth her time. She even enlisted to join the Center for Purposeful Living after her tour.
 

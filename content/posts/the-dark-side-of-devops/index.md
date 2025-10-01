@@ -22,7 +22,6 @@ A former employer of mine had a serious issue. They needed to change to stay com
 
 With the IT team already lagging behind there were now fewer people to do the work regardless of process. The fact that institutional knowledge and control rested with the two IT members that stayed made matters worse. It was obvious the company was not on a good path so they needed people fast. This is where I came in as an operations lead.
 
-{{< carbon >}}
 
 I joined the team and immediately realized they had no formal processes. I changed desks halfway through the second day, I had a loaner laptop, and never had a work phone number while I worked there. I spent my first week working on compliance training I did not need to do. I did not have access to what I needed to complete the goals my developer turned manager laid out for me. Then the architecture review happened.
 

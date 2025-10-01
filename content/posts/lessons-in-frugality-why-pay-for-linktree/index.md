@@ -25,7 +25,6 @@ tags:
 title: 'Lessons in Frugality: Why Pay for Linktree?'
 ---
 
-{{< carbon >}}
 
 I opened someone's Twitter profile in April and saw a Linktree URL. I click it and start to poke around after signing up for an account. The changing gradient backgrounds amuse me. I appreciate the mobile-friendliness and the built-in analytics. I needed something like this to help me add newsletter subscribers, guide folks to my various projects, and all the other things Linktree does. I have a lot of sites and social profiles. Plus, Linktree is better than throwing my entire website at someone and saying, "You figure me out." With a Zapier integration, this can lead to newsletter signups too?!?! "I kinda need this," I think to myself. I plop down my $60 for a year of service and spend the next few weeks adding, tweaking, and tinkering. Then let it sit.
 

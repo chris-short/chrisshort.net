@@ -13,7 +13,6 @@ title: DevOps is Not War - DevOpsDays Raleigh 2019
 
 {{< streaming 2ad2eb90-754c-4293-8b36-434c44d4f29d >}}
 
-{{< carbon >}}
 
 > DevOps needs to focus on more than Dev and Ops to be truly transformative for an organization. What about your security folks? What about your network team? We’ll introduce the work of Thucydides and the concept of Thucydides’s Trap, a political scientist’s take on how rising and established powers are destined for conflict. Transformations can often be contentious and sometimes rebellious. History can actually help us avoid failure in our transformations. The more the merrier along this journey!
 

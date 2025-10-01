@@ -16,7 +16,6 @@ tags:
 title: T-Mobile Sidekick II Review
 ---
 
-{{< carbon >}}
 
 This is a comprehensive review of the [T-Mobile Sidekick II](https://en.wikipedia.org/wiki/Danger_Hiptop#Hiptop2/T-Mobile_Sidekick_2_(Danger/Sharp)). I wanted to push this review out a lot quicker but I figured that a thorough testing and experience with the Sidekick II was necessary. After spending a year with the original color Sidekick I think I'll be able to write up a very good review.
 

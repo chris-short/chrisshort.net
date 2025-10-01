@@ -13,7 +13,6 @@ title: Building Kubernetes Operators with Ansible — Red Hat® Summit Lab
 
 {{< streaming 6097fdab-b8a8-4fb7-8d89-a03cc1c82b66 >}}
 
-{{< carbon >}}
 
 > The Ansible Operator SDK makes it easier to deploy and manage Kubernetes applications with native Ansible support. This workshop will take you into the operator-sdk and teach you how to build and manage Ansible Operators for Kubernetes.
 

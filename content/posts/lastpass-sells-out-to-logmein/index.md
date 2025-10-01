@@ -16,7 +16,6 @@ title: LastPass Sells Out to LogMeIn
 
 If you have not heard, the phenomenal cloud base SaaS password manager, **[LastPass](https://lastpass.com/)** has [agreed to be acquired](https://blog.lastpass.com/2015/10/lastpass-joins-logmein.html/) be the not so customer friendly [LogMeIn](https://secure.logmein.com/). The IT world immediately panned the anti-idea as anti-consumer and the security world agreed and raised all sorts of red flags as well.
 
-{{< carbon >}}
 
 People dislike LogMeIn for a variety of reasons but the main one is that they [pulled the rugs out from under a lot of folks](https://community.spiceworks.com/topic/742095-logmein-goodbye) who were using LogMeIn to help administer remote computers (I was one of these people). LogMeIn rapidly increased pricing on their services making their product go from consumer to "prosumer" to full blown enterprise pricing very quickly. Some people didn't have time to get something else installed on the systems they were administering with LogMeIn before their service was cut.
 

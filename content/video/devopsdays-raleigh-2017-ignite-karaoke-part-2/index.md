@@ -12,7 +12,6 @@ title: DevOpsDays Raleigh 2017 Ignite Karaoke (Part 2)
 
 {{< streaming 9f120668-d1a5-4d28-bbe3-4cc43ad59770 >}}
 
-{{< carbon >}}
 
 > Ignite talks are a special talk format: 5 minute talks consisting of 20 slides which auto advance every 15 seconds. It's a really neat talk format.
 >

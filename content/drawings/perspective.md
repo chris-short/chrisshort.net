@@ -10,7 +10,6 @@ tags:
 title: Perspective
 ---
 
-{{< carbon >}}
 
 I like to remind everyone this time of year that, unless they have people's lives in their hands, you have to keep things in perspective.
 

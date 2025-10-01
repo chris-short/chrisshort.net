@@ -16,7 +16,6 @@ tags:
 title: 'GitLab Annoyance: Private to Public Repos'
 ---
 
-{{< carbon >}}
 
 I was working on a new Ansible role last week and was having problems with [Test Kitchen](https://kitchen.ci/). The issue I was having was that Test Kitchen was unable to pull in dependencies from GitLab for the Ansible role I  was developing. Here is the error message I was seeing:
 

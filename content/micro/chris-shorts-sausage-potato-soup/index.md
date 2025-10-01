@@ -8,7 +8,6 @@ tags:
 title: Chris Short's Sausage Potato Soup
 ---
 
-{{< carbon >}}
 
 ## Ingredients
 

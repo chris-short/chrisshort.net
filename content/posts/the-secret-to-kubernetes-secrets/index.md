@@ -17,7 +17,6 @@ tags:
 title: The Secret to Kubernetes Secrets
 ---
 
-{{< carbon >}}
 
 I made an innocent comment on Twitter last week that led to WAY more feedback than I was expecting. The Kubernetes community showed me there are a lot of options when creating Kubernetes Secrets. I made the statement:
 

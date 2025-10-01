@@ -24,7 +24,6 @@ tags:
 title: Things no one tells you when you start a newsletter
 ---
 
-{{< carbon >}}
 
 There were a lot of reasons I started writing a newsletter back in 2016. Having worked at a few organizations whose business was sending millions of emails a day, one thing is for sure: ***Mail is hard and not for the faint of heart***. Using a service that handles mail delivery is step one, in my opinion. After that, I figured a newsletter is, "sending an email every week." Anyone can do that, right?
 

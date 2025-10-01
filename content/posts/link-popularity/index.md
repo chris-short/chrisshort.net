@@ -28,7 +28,6 @@ title: Link Popularity
 
 Link popularity is a key to improving search engine rankings of any web site. One of the hardest parts of search engine optimization (SEO) is improving the visibility of a web site by increasing link popularity. But, link popularity is the most effective way of SEO. Every search engine's algorithm factors link popularity into its placement of web sites in its search engine results pages (SERPs). This document will detail a very effective way to improve a web site's link popularity thus helping that web site's rankings in search engines.
 
-{{< carbon >}}
 
 ### Getting Links
 

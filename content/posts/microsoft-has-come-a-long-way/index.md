@@ -19,7 +19,6 @@ title: Microsoft Has Come a Long Way
 
 Microsoft has come a very long way in its fight back into the graces of all technologists. There will be some die hards that will never forgive Microsoft for what it attempted to do to open source software. Like there will be some die hards that won't embrace PowerShell, WSL, and future Microsoft improvements. But, there is no denying that Microsoft has changed as a company in a way that is beneficial to the open source community and beyond. I'd like to share my personal Microsoft journey thus far.
 
-{{< carbon >}}
 
 Since the mid-90s, I have worked in IT in one capacity or another. Before that, I used computers routinely. I remember my childhood days on a [Commodore 64](https://en.wikipedia.org/wiki/Commodore_64) typing `LOAD "*",8,1` to play the game du jour. A few years later, I recall upgrading a computer from a version of Windows 3 to Windows 3.11 because I was bored and the install disks were next to the machine. I remember in the mid-1990s when I first saw Windows '95 after years of DOS and Windows 3.x. It was at Forest High School in Ocala, FL. My first thought was how beautiful it was and how much easier life was going to be because of this monumental leap in the user interface.
 

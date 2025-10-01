@@ -32,7 +32,6 @@ This cult keeps changing its branding, naming, and other public-facing names due
 
 ## Introduction
 
-{{< carbon >}}
 
 In the late 1980s, my biological mother left my father to join a cult in Boomer, North Carolina. She married another cult member shortly after. When the cult moved to Winston-Salem, North Carolina, we moved with it. When they went to build a new house, we lived on the cult's campus for the better part of my 6th-grade year. They later built their neighborhood (Mystic Glen) in Walkertown, North Carolina, the last residence I occupied with my biological mother.
 

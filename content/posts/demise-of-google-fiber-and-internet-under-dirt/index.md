@@ -18,7 +18,6 @@ tags:
 title: The Demise of Google Fiber and Internet Under Dirt
 ---
 
-{{< carbon >}}
 
 If you have not heard the news, [Google Fiber is no longer expanding](https://www.usatoday.com/story/tech/news/2016/10/25/google-fiber-halts-rollout-ceo-leaves/92746288/) its installation in the 10 markets they service and the head of Google Access (the Google Fiber overlord company), Craig Barratt, is stepping down.
 

@@ -13,7 +13,6 @@ tags:
 title: Breaking Encryption Won't Make Us Safer
 ---
 
-{{< carbon >}}
 
 The British government wants to build [backdoors into standard encryption libraries](https://www.forbes.com/sites/emmawoollacott/2017/06/05/why-theresa-may-is-really-calling-for-a-ban-on-encryption/#67377700229b). This means the technology that protects your financial transactions could have a backdoor. These same backdoors were just exploited in the [**WannaCry**](https://en.wikipedia.org/wiki/WannaCry_ransomware_attack) outbreak that just took down the NHS. Who created that backdoor? [The NSA](https://www.npr.org/sections/thetwo-way/2017/05/15/528439968/wannacry-ransomware-microsoft-calls-out-nsa-for-stockpiling-vulnerabilities), whose incompetence allowed [this "tool" to fall into the hands of a Russian government-affiliated hacking group](https://www.telegraph.co.uk/news/2017/05/12/russian-linked-cyber-gang-shadow-brokers-blamed-nhs-computer/).
 

@@ -19,7 +19,6 @@ I had the opportunity to participate in [All Things Open](https://allthingsopen.
 
 This is also available at [devopsreadme.com](https://devopsreadme.com/)
 
-{{< carbon >}}
 
 ## Slides
 

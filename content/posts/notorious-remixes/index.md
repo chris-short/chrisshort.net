@@ -20,7 +20,6 @@ title: Notorious B.I.G. Remixes
 
 Note: If you know of other remixes that showcase the lyrics of Notorious B.I.G., please let me know.
 
-{{< carbon >}}
 
 The Notorious B.I.G., Biggie, Biggie Smalls, Big Poppa, The Black Frank White, The King of New York, however you refer to him, Christopher Wallace was one of the best rappers to ever walk planet earth. Since Biggie's death in 1997 his timeless lyrics have served as a foundation for many remixes and mashups. This is the definitive collection of the best studio quality Notorious B.I.G. remixes and mashups ever created.
 

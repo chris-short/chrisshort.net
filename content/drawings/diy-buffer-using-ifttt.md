@@ -23,7 +23,6 @@ You will need a place to save links like Pocket (Instapaper or any other compara
 
 Use a Tumblr site to control spacing out your posts throughout the day. Configure Tumblr with a queue that posts content throughout the day (I post fifteen times a day between 8 AM and 8 PM).
 
-{{< carbon >}}
 
 Connect Pocket to Tumblr with IFTTT. Your applet or recipe should add Pocket links to your Tumblr queue.
 

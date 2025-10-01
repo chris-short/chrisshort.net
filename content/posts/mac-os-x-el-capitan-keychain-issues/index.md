@@ -13,7 +13,6 @@ tags:
 title: 'Mac OS X El Capitan: Keychain Issues'
 ---
 
-{{< carbon >}}
 
 I started having some Apple Keychain issues after upgrading to Mac OS X El Capitan. At random, I would be asked to sign back into accounts that I am logged into through Internet Accounts in System Preferences.
 
@@ -23,7 +22,6 @@ I thought it a minor issue but it became unavoidable though once El Capitan told
 
 Something related to the 'login' Apple Keychain happened during the Mac OS X El Capitan upgrade process I'm assuming and after a reboot this morning everything went to hell in a hand basket it would seem.
 
-{{< carbon >}}
 
 I did some searching and found that deleting all the files from ~/Library/Keychains was a workaround (Apple Keychain First Aid was unable to help). I moved them out of the way (moved to Desktop), rebooted, and still had the issue.
 

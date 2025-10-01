@@ -24,7 +24,6 @@ I've come to the conclusion that upgrading to Windows Vista would be a horrible 
 
 1. Windows XP:  Windows XP is the perfect reason not to upgrade to Windows Vista.  There is nothing wrong with tried and true installs of Windows XP.  The laptop I'm using to write this article with is a Windows XP Media Center and the default Windows install from the manufacturer is what is running on this laptop right now.  Sure, I tweaked settings, improved security, and personalized it but it's running just fine.  When you throw in the fact that Microsoft will support Windows XP until 2014 (probably longer) there is no sense in upgrading to a beta operating system.  By 2014 will have purchased a PC  with Windows Vista pre-loaded.
 
-{{< carbon >}}
 
 1. Mac and Linux:  Of course, the competition is a great reason not to upgrade.  You can nab OS X from Apple on a Mac and get all that Windows Vista 3D GUI magic pretty cheap.  Oh, and OS X has been around for years (not days).  However, Linux is starting to look like an even better reason to not upgrade to Windows Vista.  Get an Ubuntu install running with Crossover Office and I'd be willing to bet money you'll never look back.
 
