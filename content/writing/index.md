@@ -14,6 +14,10 @@ title: Writing
 
 ## CIQ
 
+### [Open Source Under Attack](https://2025.allthingsopen.org/open-source-under-attack)
+
+> In March 2022, when the US Federal Reserve System ended its Zero Interest Rate Policy, or ZIRP era, interest rates began rising, marking the end of the "cheap money period." Almost all major tech companies conducted layoffs in the following months, citing various economic pressures, including higher borrowing costs. This shift significantly impacted open source contributors across multiple projects. Combined with the recent AI boom period, where AI has undergone a dramatic shift in the enterprise arena from a nascent technology to an indispensable tool, maintainers and organizations are being forced to rethink their processes and procedures for the AI era. The impacts on open source software communities are unfolding right before our eyes, demanding coordinated responses rather than isolated reactions.
+
 ### [Open Source Thrives on Contribution, Not Just Consumption](https://ciq.com/blog/open-source-thrives-on-contribution-not-just-consumption/)
 
 > But if you build on open source, you have a responsibility to the communities making that software possible. That means investing time. It means showing up consistently. It means treating maintainers and contributors as collaborators—not as an extension of your dev team, and definitely not as a marketing bullet point.
