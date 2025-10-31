@@ -46,7 +46,7 @@ title: My Disability
 
 Disclaimer: I am not a doctor. This is not health advice. Work with your doctors to determine what works best for you would be best.
 
-I'm [Chris Short](/about), and I am a **disabled veteran**. On October 12, 2003, during a military hurricane evacuation exercise at Avon Park Air Force Range, I managed to permanently damage my Long Thoracic Nerve, leading to the winging of my right scapula. Continued service and aging have led to multiple issues from top to bottom of my spine. All three levels of my spine have numerous problems.
+I'm [Chris Short](/about), and I am a **disabled veteran**. On October 12, 2003, during a military hurricane evacuation exercise at Avon Park Air Force Range, I managed to permanently damage my Long Thoracic Nerve (LTN), leading to the winging of my right scapula. Continued service and aging have led to multiple issues from top to bottom of my spine. All three levels of my spine have numerous problems.
 
 My life has changed dramatically since I got hurt. Pain is something that I am constantly trying to live with and occasionally thrive with. I have more issues and diagnoses to list here, but I think listing some of them here helps.
 
