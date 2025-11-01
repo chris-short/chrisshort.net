@@ -27,6 +27,12 @@ Senior developer advocate and technical marketing leader with 30 years of experi
 
 ### Head of Open Source, CIQ — Remote — Feb 2025 to Present
 
+* Stood up OSPO: Led a team of four open source maintainers and fellows dedicated to enabling the Rocky Linux community while fostering open source work internally at CIQ and upstream
+* Stood up license compliance reporting utilizing Snyk; remediation of over 300 flagged dependencies reaching 100% compliance; built AI workflows to analyze and verify license requirements of projects
+* Established metrics reporting and trend analysis in Bitergia for >200 git repositories for three community projects; guided resources and engineering into the Rocky Linux project
+* Established CIQ's open source license policy and educated engineering, compliance, and leadership teams on licensing best practices while mitigating risk in existing open source projects
+* Led corporate presence at multiple events, created content in partnership with Marketing, delivered sessions at KubeCon, All Things Open, and staffed many more events
+
 ### Sr. Open Source Developer Advocate, Amazon Web Services — Remote — Oct 2021 to Jan 2025
 
 * Led key components of Valkey's developer engagement strategy through targeted content creation and global event representation, resulting in Valkey becoming the defacto Redis fork worldwide
