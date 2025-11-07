@@ -19,13 +19,17 @@ title: Speaking
 
 If you're looking for OpenShift.tv live streams (Red Hat Live Streaming) I hosted and/or produced, [search my name on OpenShift's YouTube](https://www.youtube.com/@OpenShift/search?query=chris%20short").
 
-## Interviews
-
 If you're looking for podcasts or interviews I've took part in, please head over to the [**Interviews**](/interviews/) page.
 
-## Talks
+## Comms & Social Media - Why Does a Project Need It - Mario Fahlandt, Kubermatic & Chris Short, CIQ - Maintainer Summit EU 2025
 
-### Burnout++ Cloud Native Rejekts EU 2024
+Every project has a website, and many have social media channels — but managing communications effectively is easier said than done. This talk explores how open-source projects can establish clear communication strategies, social media policies, and crisis comms plans to build a strong community.
+
+Date: 2025-03-31
+
+[**Watch Now**](https://youtu.be/txh8Y1r1NPA)
+
+## Burnout++ Cloud Native Rejekts EU 2024
 
 A deep dive into what burnout is, how to assess or measure it, and stories on coping and managing the **burnout** from my own real life experiences.
 
@@ -33,7 +37,7 @@ Date: 2024-03-17
 
 [**Watch Now**](/video/cloud-native-rejeckts-eu-2024-burnout-plus-plus)
 
-### Burnout++ DevOpsDays Detroit 2023
+## Burnout++ DevOpsDays Detroit 2023
 
 My latest [CFP](/abstracts/) is about **burnout**. Burnout can happen at any point in everyone's career. But, what happens when burnout is taking place amongst other things? Contributing to open source becoming harder for you? Becoming unemployed? Your s/o having a miscarriage? Veteran dealing with time in service and injuries from it? Let's discuss realizing you're approaching or are burned out, the why behind that, and coping mechanisms.
 
@@ -41,7 +45,7 @@ Date: 2023-10-18
 
 [**Watch Now**](/video/devopsdays-detroit-2023-burnout-plus-plus/)
 
-### AWS Container Day featuring Kubernetes at KubeCon EU 2023 (Amsterdam Amazon Office)
+## AWS Container Day featuring Kubernetes at KubeCon EU 2023 (Amsterdam Amazon Office)
 
 My team at AWS was in charge of our KubeCon EU 2023 activities. Container Day was an awesome seven hour live stream (with a little bit of hybrid event chaos) all about Containers, Kubernetes, and the Cloud Native ecosystem. It was an honor to be given hosting duties alongside [Nathan Peck](https://nathanpeck.com/). It was fun to live stream again.
 
@@ -49,7 +53,7 @@ Date: 2023-04-18
 
 [**Watch Now**](https://www.youtube.com/live/LGD52z0LxAA)
 
-### Live stream: What ultra-successful people who practice DevRel know and do
+## Live stream: What ultra-successful people who practice DevRel know and do
 
 Date: 2022-08-16
 
@@ -57,7 +61,7 @@ Date: 2022-08-16
 
 Wesley Faulkner, Sr, Community Manager at AWS and Chris Short, Sr. Developer Advocate for a discussion about getting decision makers to buy-in in the #DevRel space.
 
-### Live stream: KubeCon Live Q&A with Matty from Pulumi
+## Live stream: KubeCon Live Q&A with Matty from Pulumi
 
 I pop into a live stream before KubeCon. We discussed some hints and hacks, managing expectations, and more.
 
@@ -65,7 +69,7 @@ Date: 2022-05-13
 
 [**Watch Now**](https://www.youtube.com/live/fZGNdpVICQU)
 
-### GitOpsCon EU 2022
+## GitOpsCon EU 2022
 
 Date: 2022-05-17
 
@@ -73,7 +77,7 @@ Date: 2022-05-17
 
 I had the pleasure of opening and closing GitOpsCon EU 2022. It was the first time we had two tracks and the event was very well attended. I managed Track 2 while the other chairs managed the larger room on their own. I wrote about GitOpsCon EU 2022 (and the rest of KubeCon EU 2022) in [DevOps'ish 268](https://devopsish.com/268/).
 
-### AWS Container Days @ KubeCon + CloudNativeCon Europe 2022 — Day 3
+## AWS Container Days @ KubeCon + CloudNativeCon Europe 2022 — Day 3
 
 Date: 2022-05-15
 
@@ -81,7 +85,7 @@ Date: 2022-05-15
 
 > Join us for AWS Containers Days @ KubeCon + CloudNativeCon Europe 2022! In the days leading up to Kubecon + CloudNativeCon we'll be spending the week talking about how you can deploy, manage, and scale containerized applications using Kubernetes on AWS. These sessions, led by our AWS Kubernetes team and guest speakers, will contain technical deep dives, product demos, and best practices.
 
-### Panel Discussion: Marketing as Code: How to Rock Out with Non-Code Contributions — KubeCon + CloudNativeCon NA 2021
+## Panel Discussion: Marketing as Code: How to Rock Out with Non-Code Contributions — KubeCon + CloudNativeCon NA 2021
 
 Date: 2021-10-23
 
@@ -89,7 +93,7 @@ Date: 2021-10-23
 
 > For new folks in the CNCF space, becoming a contributor may sound daunting, and even overwhelming. But guess what? There are tons of ways to contribute apart from code. 5 members of the Contibex Marketing working group (Kunal, Bart, Chris, Kaslin, and Matt) are all participating and contributing through positive attitudes, documentation, networking, videos, drawings, and even raps. They want to share the welcoming spirit of the CNCF where no contribution is too small, and everyone will have something to share. Contributors' stories must be heard, and that's where the upstream marketing team comes in. (This proposal is for the Students' track)
 
-### KubeCon + CloudNativeCon Daily Wrap Up: Tuesday — KubeCon + CloudNativeCon NA 2021
+## KubeCon + CloudNativeCon Daily Wrap Up: Tuesday — KubeCon + CloudNativeCon NA 2021
 
 Date: 2021-10-12
 
@@ -97,7 +101,7 @@ Date: 2021-10-12
 
 > The CNCF's definitive interactive media experience for anyone wanting to learn, grow, and collaborate with others in the Cloud Native community from anywhere in the world. CloudNative.tv is currently community run shows live streaming on Twitch with a variety of hosts show casing different aspects of the cloud native community.
 
-### How You Can Tell Your Kubernetes Contributor Story with These Tips - Matt Broberg & Chris Short, Red Hat; Kaslin Fields, Google; Peeyush Gupta, DigitalOcean — KubeCon + CloudNativeCon EU 2021
+## How You Can Tell Your Kubernetes Contributor Story with These Tips - Matt Broberg & Chris Short, Red Hat; Kaslin Fields, Google; Peeyush Gupta, DigitalOcean — KubeCon + CloudNativeCon EU 2021
 
 Date: 2021-05-07
 
@@ -105,7 +109,7 @@ Date: 2021-05-07
 
 > The Upstream Marketing Working Group began as a vision to connect contributors. It has grown into a set of practices, channels, and bots that unite us all across the Kubernetes community. In this talk, contributors will walk through their experience of learning to tell their own contributor story. In doing so, we will walk through how anyone can write a great story, including key takeaways around narrative, call to action (CTA), structure, and available channels. Along the way, we'll highlight tips to publish a blog, including collaboration with the Blog team, asking for reviewers from Upstream Marketing, and a brief look at relevant SEO practices. Attendees will leave with a formula by which they can share their story of contributing to Kubernetes and encourage others to share their unique and personal experience. Our goal is to inspire the next generation of open source contributors through a broad range of perspectives on what it means to contribute.
 
-### Security at Cloud Native Speed — CNCF Eastern Canadian Meetup: October 2020
+## Security at Cloud Native Speed — CNCF Eastern Canadian Meetup: October 2020
 
 Date: 2020-10-23
 
@@ -113,7 +117,7 @@ Date: 2020-10-23
 
 > Cloud native technologies are increasingly used by organizations to gain a competitive advantage. Containers jumpstart developer productivity, but they could increase security teams' workloads. This talk analyzed tendencies and provides tips improving security postures in environments. Security needs to be a step in every part of the software development lifecycle. But, the tools, libraries, platforms, and attack surface never seems to shrink. When teams adopt Kubernetes and cloud native tooling, applications become ephemeral and infrastructure becomes elastic. Baking security tooling into the pipeline is critical. Mandating rigid boundaries around decoupled components is key. Embracing speed and collaboration are crucial to security teams in today's cloud native landscape. The more the merrier along this journey!
 
-### Building Kubernetes Operators with Ansible — Red Hat® Summit Virtual Experience: Open House
+## Building Kubernetes Operators with Ansible — Red Hat® Summit Virtual Experience: Open House
 
 Date: 2020-07-15
 
@@ -121,14 +125,14 @@ Date: 2020-07-15
 
 > The Ansible Operator SDK makes it easier to deploy and manage Kubernetes applications with native Ansible support. This workshop will take you into the operator-sdk and teach you how to build and manage Ansible Operators for Kubernetes.
 
-### Lesson Learned From Cloud Migrations: Planning is Everything — JFrog SwampUP 2020
+## Lesson Learned From Cloud Migrations: Planning is Everything — JFrog SwampUP 2020
 
 Date: 2020-06-24
 
 YouTube: [Lesson Learned From Cloud Migrations: Planning is Everything - Chris Short](https://youtu.be/BQMu5m-oZe0)
 [**Watch Now**](/video/cloud-migrations-jfrog-swampup-2020/)
 
-### Short Talks: A Conversation with Kelsey Hightower - OpenShift Commons Briefing
+## Short Talks: A Conversation with Kelsey Hightower - OpenShift Commons Briefing
 
 Date: 2019-12-18
 
@@ -136,7 +140,7 @@ Date: 2019-12-18
 
 > Chris Short, Principal Technical Marketing Manager, OpenShift at Red Hat and CNCF Ambassador sits down with Staff Developer Advocate at Google, Kelsey Hightower to discuss Kubernetes. The conversation covers Kubernetes The Hard Way (which Kelsey created) and the rise of curated Kubernetes distributions like OpenShift and OKD.
 
-### DevOps is Not War — DevOpsDays Detroit 2019
+## DevOps is Not War — DevOpsDays Detroit 2019
 
 Date: 2019-10-23
 
@@ -146,7 +150,7 @@ Date: 2019-10-23
 
 Event: [DevOpsDays Detroit 2019](https://devopsdays.org/events/2019-detroit/welcome/)
 
-### DevOps is Not War — DevOpsDays Raleigh 2019
+## DevOps is Not War — DevOpsDays Raleigh 2019
 
 Date: 2019-10-01
 
@@ -156,7 +160,7 @@ Date: 2019-10-01
 
 Event: [DevOpsDays Raleigh 2019](https://devopsdays.org/events/2019-raleigh/welcome/)
 
-### The Dark Side of DevOps — JFrog swampUP 2019
+## The Dark Side of DevOps — JFrog swampUP 2019
 
 Date: 2019-06-19
 
@@ -170,7 +174,7 @@ Date: 2019-06-19
 
 Event: [JFrog swampUP 2019](https://swampup.jfrog.com/)
 
-### How to Teach Old Apps New Tricks with Ansible-based Operators (Parts 1 & 2)
+## How to Teach Old Apps New Tricks with Ansible-based Operators (Parts 1 & 2)
 
 Date: 2019-05-08
 
@@ -180,7 +184,7 @@ Slides: [How to Teach Old Apps New Tricks with Ansible-based Operators (Parts 1 
 
 Blog Post: [How to Teach Old Apps New Tricks with Ansible-based Operators (Parts 1 & 2)](/how-to-teach-old-apps-new-tricks-with-ansible-based-operators-parts-1-2/)
 
-### Ansible and Red Hat Management - better...stronger...faster
+## Ansible and Red Hat Management - better...stronger...faster
 
 Date: 2018-11-14
 
@@ -192,7 +196,7 @@ Slides: [Making Red Hat Management Better... Faster... Stronger](https://shortcd
 
 I also participated in the Ansible Q&A Panel at the end of this event.
 
-### All Day DevOps 2018: DevOps is Not War
+## All Day DevOps 2018: DevOps is Not War
 
 Date: 2018-10-17
 
@@ -202,7 +206,7 @@ Slides: [All Day DevOps - DevOps is Not a War](https://speakerdeck.com/chrisshor
 
 Video: [All Day DevOps 2018 - DevOps is Not a War](https://play.sonatype.com/watch/PbTS2zEEfXF7M8dbNrXEQN?)
 
-### Kubernetes Cron Jobs — DevOpsDays Columbus 2018
+## Kubernetes Cron Jobs — DevOpsDays Columbus 2018
 
 Date: 2018-09-19
 
@@ -212,7 +216,7 @@ Date: 2018-09-19
 
 Event: [DevOpsDays Columbus 2018](https://www.devopsdays.org/events/2018-columbus/program/chris-short/)
 
-### Grand Rapids RHUG - Using Ansible for DevOps
+## Grand Rapids RHUG - Using Ansible for DevOps
 
 Date: 2019-09-12
 
@@ -220,7 +224,7 @@ Event: [Grand Rapids RHUG Ansible, DevOps, and more!](https://www.meetup.com/Gra
 
 Slides: [Using Ansible for DevOps](https://speakerdeck.com/chrisshort/using-ansible-for-devops)
 
-### Go to the Rescue: Saving DevOps from TLS Turmoil — Baltimore Go June Meeting
+## Go to the Rescue: Saving DevOps from TLS Turmoil — Baltimore Go June Meeting
 
 Date: 2018-06-05
 
@@ -228,7 +232,7 @@ Event: [Baltimore Go June Meeting](https://www.meetup.com/BaltimoreGolang/events
 
 Blog Post: [Baltimore Go June Meeting - Go to the Rescue: Saving DevOps from TLS Turmoil](/baltimore-go-june-meeting---go-to-the-rescue-saving-devops-from-tls-turmoil/)
 
-### DevOps is Not War — DevNationFederal 2018
+## DevOps is Not War — DevNationFederal 2018
 
 Date: 2018-06-05
 
@@ -238,7 +242,7 @@ Date: 2018-06-05
 
 Event: [DevNationFederal](https://devnationfederal.org/)
 
-### What the Military Taught Me About DevOps — DevOpsDays Toronto 2018
+## What the Military Taught Me About DevOps — DevOpsDays Toronto 2018
 
 Date: 2018-05-30
 
@@ -248,7 +252,7 @@ Date: 2018-05-30
 
 Event: [DevOpsDays Toronto 2018](https://www.devopsdays.org/events/2018-toronto/program/chris-short/)
 
-### DevOps is Not War — ChefConf 2018
+## DevOps is Not War — ChefConf 2018
 
 Date: 2018-05-24
 
@@ -258,7 +262,7 @@ Date: 2018-05-24
 
 Event: [ChefConf](https://chefconf.chef.io/)
 
-### Kubernetes Cron Jobs: Highly-Available, Distributed Cron Jobs are Awesome — Detroit Kubernetes, Docker & all related things
+## Kubernetes Cron Jobs: Highly-Available, Distributed Cron Jobs are Awesome — Detroit Kubernetes, Docker & all related things
 
 Date: 2018-04-20
 
@@ -268,7 +272,7 @@ Blog Post: [Detroit Kubernetes: Kubernetes Cron Job](/detroit-kubernetes--kubern
 
 Slides: [Detroit Kubernetes: Kubernetes Cron Jobs](https://speakerdeck.com/chrisshort/detroit-kubernetes-kubernetes-cron-jobs)
 
-### Heaven is Not a Cloud — AWS Michigan
+## Heaven is Not a Cloud — AWS Michigan
 
 Date: 2018-04-19
 
@@ -278,7 +282,7 @@ Date: 2018-04-19
 
 Event: [AWS Michigan](https://www.meetup.com/AWS-Michigan/events/248874167/)
 
-### DevOps is Not War — DevOpsDays Atlanta 2018
+## DevOps is Not War — DevOpsDays Atlanta 2018
 
 Date: 2018-04-18
 
@@ -286,7 +290,7 @@ Event: [DevOpsDays Atlanta 2018](https://www.devopsdays.org/events/2018-atlanta/
 
 Blog Post: [DevOpsDays Atlanta 2018: DevOps is Not War](/devopsdays-atlanta-2018-devops-is-not-war/)
 
-### Golang to the Rescue: Saving DevOps from TLS Turmoil — DevOpsDays Charlotte 2018
+## Golang to the Rescue: Saving DevOps from TLS Turmoil — DevOpsDays Charlotte 2018
 
 Date: 2018-02-22
 
@@ -296,7 +300,7 @@ Date: 2018-02-22
 
 Event: [DevOpsDays Charlotte 2018](https://devopsdayscharlotte2018.sched.com/event/DIiJ/golang-to-the-rescue-saving-devops-from-tls-turmoil)
 
-### Open Source 101 Raleigh - Avoiding the DevOps pit of misery: Tips from the trenches
+## Open Source 101 Raleigh - Avoiding the DevOps pit of misery: Tips from the trenches
 
 Date: 2018-02-17
 
@@ -304,7 +308,7 @@ Event: [Open Source 101 Raleigh](https://opensource101.com/)
 
 Blog Post: [Open Source 101 Raleigh 2018](/open-source-101-raleigh-2018/
 
-### Go: Enabling DevOps To Go Faster — Orchestructure January 2018 Meetup
+## Go: Enabling DevOps To Go Faster — Orchestructure January 2018 Meetup
 
 Date: 2018-01-31
 
@@ -312,7 +316,7 @@ Date: 2018-01-31
 
 Event: [Orchestructure January 2018 Meetup](https://www.meetup.com/orchestructure/events/246812066/)
 
-### Golang to the Rescue: Saving DevOps from TLS Turmoil — DevOpsDays New York City 2018
+## Golang to the Rescue: Saving DevOps from TLS Turmoil — DevOpsDays New York City 2018
 
 Date: 2018-01-19
 
@@ -330,7 +334,7 @@ Date: 2018-01-19
 
 Event: [DevOpsDays New York City 2018](https://www.devopsdays.org/events/2018-new-york-city/program/chris-short/)
 
-### All Things Open 2017: DevOps README.md
+## All Things Open 2017: DevOps README.md
 
 Date: October 24, 2017
 
@@ -340,7 +344,7 @@ Date: October 24, 2017
 
 Event: All Thing Open - Lightning Talks - Hosted by opensource.com
 
-### DevOpsDays Raleigh 2017 Ignite Karoke (Part 2)
+## DevOpsDays Raleigh 2017 Ignite Karoke (Part 2)
 
 Date: 2017-09-08
 
@@ -352,7 +356,7 @@ Date: 2017-09-08
 
 Event: DevOpsDays Raleigh 2017
 
-### The Dark Side of DevOps — DevOpsDays Raleigh 2017
+## The Dark Side of DevOps — DevOpsDays Raleigh 2017
 
 Date: 2017-09-08
 
@@ -360,7 +364,7 @@ Date: 2017-09-08
 
 Event: DevOpsDays Raleigh 2017
 
-### DevOps README.md — DevOpsDays Detroit 2017
+## DevOps README.md — DevOpsDays Detroit 2017
 
 Date: 2017-09-27
 
@@ -370,7 +374,7 @@ This talk was a part of the output of a breakout session from DevOpsDays Raleigh
 
 Event: [DevOpsDays Detroit 2017](https://www.devopsdays.org/events/2017-detroit/program/continous-learning/)
 
-### Golang to the rescue: Saving DevOps from TLS turmoil — GopherCon 2017
+## Golang to the rescue: Saving DevOps from TLS turmoil — GopherCon 2017
 
 Date: 2017-07-12
 
@@ -378,7 +382,7 @@ Date: 2017-07-12
 
 Event: [GopherCon 2017](https://github.com/gophercon/2017-talks)
 
-### A Night of DevOps at Open Source South Carolina
+## A Night of DevOps at Open Source South Carolina
 
 Date: 2017-05-23
 
@@ -386,14 +390,14 @@ Event: [Open Source South Carolina](https://www.meetup.com/Open-Source-South-Car
 
 Blog Post: [A Night of DevOps at Open Source South Carolina](/a-night-of-devops-at-open-source-south-carolina/)
 
-### What The Military Taught Me About DevOps — Triangle DevOps
+## What The Military Taught Me About DevOps — Triangle DevOps
 
 Date: 2016-11-30
 
 Event: [Triangle DevOps](https://www.meetup.com/Triangle-DevOps/events/235751024/)
 Blog Post: [What The Military Taught Me About DevOps](/triangle-devops-what-the-military-taught-me-about-devops/)
 
-### What The Military Taught Me About DevOps — DevOpsDays Detroit 2016
+## What The Military Taught Me About DevOps — DevOpsDays Detroit 2016
 
 Date: 2016-10-12
 
@@ -404,7 +408,7 @@ Blog Post: [What The Military Taught Me About DevOps](/what-the-military-taught-
 
 If you're looking for podcasts or webinars I've took part in, please head over to the [**Webinars**](/webinars/) page.
 
-### Webinar: The top 7 most useful Kubernetes APIs for comprehensive cloud native observability
+## Webinar: The top 7 most useful Kubernetes APIs for comprehensive cloud native observability
 
 Date: 2020-07-09
 
@@ -414,7 +418,7 @@ Date: 2020-07-09
 >
 > In this webinar, Sensu Co-founder & CEO Caleb Hailey will walk through the various Kubernetes APIs that are necessary for complete visibility into your Kubernetes platform, with examples from open source observability tools like Prometheus and Sensu. You'll gain a deeper understanding of how Kubernetes works, with a behind-the-scenes look at cloud-native observability.
 
-### Webinar: Security at Cloud-native Speed On-Demand
+## Webinar: Security at Cloud-native Speed On-Demand
 
 Date: 2020-01-09
 
@@ -427,7 +431,7 @@ Date: 2020-01-09
 > * tapping the power of native controls in Kubernetes
 > * leveraging automation to retain velocity
 
-### Webinar: Contour – High performance ingress controller for Kubernetes
+## Webinar: Contour – High performance ingress controller for Kubernetes
 
 Date: 2019-10-10
 
@@ -439,7 +443,7 @@ Date: 2019-10-10
 >
 > In this webinar, Steve Sloka, Sr. Member of Technical Staff at VMware, will share how to use Contour and Envoy efficiently in your Kubernetes clusters.
 
-### Webinar: Building Kubernetes Operators in an Ansible-native way
+## Webinar: Building Kubernetes Operators in an Ansible-native way
 
 Date: 2019-10-09
 
@@ -447,7 +451,7 @@ Date: 2019-10-09
 
 > Operators simplify management of complex applications on Kubernetes. They are usually written in Go and require expertise with the internals of Kubernetes. But, there's an alternative to that with a lower barrier to entry. Ansible is a first-class citizen in the Operator SDK. Using Ansible frees up application engineers, maximizes time to automate and orchestrate your applications, and doing it across new & existing platforms with one simple language. Here we see how.
 
-### Webinar: KubeVirt - Beyond Containers: Coming full circle back to VMs!
+## Webinar: KubeVirt - Beyond Containers: Coming full circle back to VMs!
 
 Date: 2019-09-12
 
@@ -465,7 +469,7 @@ Date: 2019-09-12
 >
 > We will show a demo of an application that is comprised of VMs, Containers, an RDBMS and a LoadBalancer-type Service. We'll show how HA scenarios for legacy components are automatically handled by Kubernetes and KubeVirt, along with a couple cool surprises!
 
-### Webinar: Monitoring Kubernetes Workloads: The Sidecar Pattern
+## Webinar: Monitoring Kubernetes Workloads: The Sidecar Pattern
 
 Date: 2019-06-13
 
@@ -475,7 +479,7 @@ Date: 2019-06-13
 >
 > In this webinar, Sensu CEO and co-founder Caleb Hailey will review some of the existing and popular patterns for monitoring Kubernetes (like Prometheus), and what gaps remain outstanding, especially when it comes to monitoring the applications running on Kubernetes. He'll go over best practices for monitoring workloads on K8s, including the sidecar pattern for monitoring.
 
-### Webinar: The future of how Ansible content is handled
+## Webinar: The future of how Ansible content is handled
 
 Date: 2019-06-13
 
