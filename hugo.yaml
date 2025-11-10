@@ -101,7 +101,7 @@ params:
       threshold: 0.1
       ignoreLocation: true
       keys: ["title", "permalink", "summary", "description"]
-    imageUrl: "/img/Chris-Short-Sept-2023-Profile-Pic-Square-256x256.webp"
+    imageUrl: "/img/Chris-Short-Nov-2025-256px-square.jpeg"
     imageTitle: "Chris Short Headshot (Chris in his office with canvas panels picturing Detroit in background)"
     imageWidth: 256 # custom size
     imageHeight: 256 # custom size
