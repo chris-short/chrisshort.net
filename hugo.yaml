@@ -101,7 +101,7 @@ params:
       threshold: 0.1
       ignoreLocation: true
       keys: ["title", "permalink", "summary", "description"]
-    imageUrl: "/img/Chris-Short-Sept-2023-Profile-Pic-Square-256x256.webp"
+    imageUrl: "/img/Chris-Short-Nov-2025-256px-square.jpeg"
     imageTitle: "Chris Short Headshot (Chris in his office with canvas panels picturing Detroit in background)"
     imageWidth: 256 # custom size
     imageHeight: 256 # custom size
@@ -127,6 +127,9 @@ params:
       - "https://www.flickr.com/photos/chris-short/"
       - "https://www.instagram.com/thechrisshort/"
       - "https://www.threads.net/@thechrisshort"
+      - "https://x.com/chrisshort"
+      - "https://www.tiktok.com/@chrisshort.net"
+      - "https://www.reddit.com/r/devopsish/"
 
   socialIcons: # optional
     - name: "github"
@@ -135,18 +138,20 @@ params:
       url: "https://www.linkedin.com/in/thechrisshort"
     - name: "Bluesky"
       url: "https://bsky.app/profile/chrisshort.net"
-    - name: "reddit"
-      url: "https://www.reddit.com/r/devopsish/"
     - name: "instagram"
       url: "https://www.instagram.com/thechrisshort/"
     - name: "flickr"
       url: "https://www.flickr.com/photos/chris-short/"
     - name: "youtube"
       url: "https://www.youtube.com/c/ChrisShort"
+    - name: "tiktok"
+      url: "https://www.tiktok.com/@chrisshort.net"
     - name: "twitter"
       url: "https://x.com/ChrisShort"
     - name: "Mastodon"
       url: "https://hachyderm.io/@ChrisShort"
+    - name: "reddit"
+      url: "https://www.reddit.com/r/devopsish/"
     - name: "goodreads"
       url: "https://www.goodreads.com/user/show/38034985-chris-short"
     - name: "email"

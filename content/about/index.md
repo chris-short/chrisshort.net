@@ -27,7 +27,7 @@ Open Source | DevOps | Kubernetes Contributor | r/devopsish | Disabled Veteran |
 
 ## Headshot
 
-[Chris-Short-Sept-2023-Profile-Pic-Square.jpeg](/about/Chris-Short-Sept-2023-Profile-Pic-Square.jpeg)
+[Chris Short Nov 2025 Headshot](/about/chris-short-headshot-nov-2025-square.jpg)
 
 ## Brief Bio
 
