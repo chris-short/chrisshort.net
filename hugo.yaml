@@ -127,6 +127,9 @@ params:
       - "https://www.flickr.com/photos/chris-short/"
       - "https://www.instagram.com/thechrisshort/"
       - "https://www.threads.net/@thechrisshort"
+      - "https://x.com/chrisshort"
+      - "https://www.tiktok.com/@chrisshort.net"
+      - "https://www.reddit.com/r/devopsish/"
 
   socialIcons: # optional
     - name: "github"
@@ -143,6 +146,8 @@ params:
       url: "https://www.flickr.com/photos/chris-short/"
     - name: "youtube"
       url: "https://www.youtube.com/c/ChrisShort"
+    - name: "tiktok"
+      url: "https://www.tiktok.com/@chrisshort.net"
     - name: "twitter"
       url: "https://x.com/ChrisShort"
     - name: "Mastodon"
