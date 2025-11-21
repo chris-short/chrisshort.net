@@ -17,7 +17,7 @@ title: Speaking
 
 {{< speaker >}}
 
-If you're looking for OpenShift.tv live streams (Red Hat Live Streaming) I hosted and/or produced, [search my name on OpenShift's YouTube](https://www.youtube.com/@OpenShift/search?query=chris%20short").
+Looking for OpenShift.tv live streams (Red Hat Live Streaming) I hosted and/or produced? [Search my name on OpenShift's YouTube](https://www.youtube.com/@OpenShift/search?query=chris%20short").
 
 If you're looking for podcasts or interviews I've took part in, please head over to the [**Interviews**](/interviews/) page.
 
