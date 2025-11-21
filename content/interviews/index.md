@@ -18,7 +18,7 @@ title: Interviews
 
 Date: 2025-11-14
 
-Watch: [Is Kubernetes Ready for AI? Google’s New Agent Tech | TSG Ep. 967](video/techstrong-gang-ep967/)
+Watch: [Is Kubernetes Ready for AI? Google’s New Agent Tech | TSG Ep. 967](/video/techstrong-gang-ep967/)
 
 > Alan Shimel, Mike Vizard, and Chris Short discuss the state of Kubernetes following the KubeCon + CloudNativeCon North America 2025 conference.
 >
