@@ -21,6 +21,24 @@ Looking for OpenShift.tv live streams (Red Hat Live Streaming) I hosted and/or p
 
 If you're looking for podcasts or interviews I've took part in, please head over to the [**Interviews**](/interviews/) page.
 
+## Comms & Social Media - Why Does a Project Need It - Chris Short, CIQ & Kaslin Fields, Google — KubeCon + CloudNativeCon NA 2025
+
+Date: 2025-11-11
+
+An update to the Maintainer's Track session conducted at CNCF Maintainer Summit EU 2025.
+
+Most projects have a website. Most projects attempt to establish some form of Social Media presence. However, let's face the hard truth: communications for a project are challenging, and we can encounter various pitfalls.
+
+Let's explore the mechanisms and processes you can use in a project to ensure better communication.
+
+We begin by identifying mechanisms and target groups for Kubernetes Contributor Communications, what channels to use and will end in drafting social media policies and guidelines for the contributors when they are publishing comms in the name of a project.
+
+Also, have you ever considered critical communications for a project - how do you handle communications if something critical is happening?
+
+After the session, you have ideas for your project to move towards a more consistent and reliable communication.
+
+[**Watch Now**](https://youtu.be/XVoAl1dih5U)
+
 ## Comms & Social Media - Why Does a Project Need It - Mario Fahlandt, Kubermatic & Chris Short, CIQ - Maintainer Summit EU 2025
 
 Every project has a website, and many have social media channels — but managing communications effectively is easier said than done. This talk explores how open-source projects can establish clear communication strategies, social media policies, and crisis comms plans to build a strong community.
