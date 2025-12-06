@@ -26,3 +26,6 @@ PC: Framework 13 Laptop, AMD Ryzen 5 7640U, 64GB RAM, 2TB SSD
 ## Monitors
 
 LG 32" HDR 4K
+
+## Keyboards
+
