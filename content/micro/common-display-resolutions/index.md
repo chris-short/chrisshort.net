@@ -1,8 +1,8 @@
 ---
 ShowTOC: false
 author: Chris Short
-date: "2025-12-08
-description: ""
+date: "2025-12-08"
+description: "Display resolution reference: 540p, 720p HD, 1080p FHD, 2K, 1440p QHD, 4K UHD, 5K, 8K. Quick pixel dimension lookup for monitors, TVs, video formats."
 tags:
 - 540p
 - qHD
