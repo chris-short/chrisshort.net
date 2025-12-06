@@ -2,7 +2,6 @@
 title: "Short Family's Ultimate Holiday Movie Marathon: 29 Holiday Films"
 author:
   - Chris Short
-  - Claude
 date: "2025-12-10"
 description: "From classic comedies to animated adventures, this is our family's top 29 holiday movies. These films bring joy, laughter, and holiday cheer to every season."
 tags:
@@ -25,7 +24,7 @@ ShowTOC: true
 
 **Note:** The Short household is a Plex household. We use Plex to stream our media collection to various devices in our home and when traveling. If you're interested in connecting on Plex, [send a request](https://l.plex.tv/bghLr7Hq)!
 
-The holiday season isn't complete without a good movie marathon, and we've assembled the ultimate collection of 29 Christmas films that span generations, genres, and styles. From slapstick comedies to heartwarming classics, animated adventures to romantic comedies, there's something here for everyone in the family.
+The holiday season isn't complete without a good movie marathon, and we've assembled the ultimate collection of 29 Christmas films that span generations, genres, and styles.
 
 ## The Classics That Started It All
 
@@ -230,11 +229,5 @@ The lovable snowman Olaf searches for holiday traditions for Anna and Elsa in th
 **Rotten Tomatoes Score:** N/A
 
 The Madagascar crew accidentally crash-lands at the North Pole and must help Santa save Christmas.
-
----
-
-## Final Thoughts
-
-Whether you're looking for laugh-out-loud comedy, heartwarming sentiment, or animated adventure, this collection of 29 holiday films has something for everyone. From timeless classics like *Miracle on 34th Street* to modern favorites like *Elf*, these movies capture the spirit of the season in all its forms.
 
 *Happy holidays and merry watching!*
