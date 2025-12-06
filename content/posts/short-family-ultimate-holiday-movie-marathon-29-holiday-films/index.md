@@ -41,7 +41,7 @@ Macaulay Culkin's iconic performance as Kevin McCallister made this John Hughes-
 
 **Rotten Tomatoes Score:** 35%
 
-Macaulay Culkin returns as Kevin McCallister who mistakenly boards a plane to New York City while his family heads to Florida. The Wet Bandits are back (now calling themselves the Sticky Bandits), and Kevin must once again use his wit and creativity to stop them—this time in the Big Apple.
+Macaulay Culkin returns as Kevin McCallister, who mistakenly boards a plane to New York City while his family heads to Florida. The Wet Bandits are back (now calling themselves the Sticky Bandits), and Kevin must once again use his wit and creativity to stop them—this time in the Big Apple.
 
 ### 3. National Lampoon's Christmas Vacation (1989)
 
@@ -93,7 +93,7 @@ Benedict Cumberbatch voices the Grinch in this Illumination Entertainment animat
 
 **Rotten Tomatoes Score:** 77%
 
-Michael Caine plays Ebenezer Scrooge alongside the Muppets in this delightful adaptation of Dickens's classic tale. It's both faithful to the source material and hilariously entertaining.
+Michael Caine plays Ebenezer Scrooge alongside the Muppets in this adaptation of Dickens's classic tale. It's both faithful to the source material and hilariously entertaining.
 
 ### 10. Santa Claus is Coming to Town (1970)
 
@@ -181,7 +181,7 @@ Edmund Gwenn won an Oscar for his portrayal of Kris Kringle in this heartwarming
 
 **Rotten Tomatoes Score:** 54%
 
-An ensemble cast including Sarah Jessica Parker, Diane Keaton, and Rachel McAdams navigate family dynamics during a chaotic Christmas gathering.
+An ensemble cast including Sarah Jessica Parker, Diane Keaton, and Rachel McAdams navigates family dynamics during a chaotic Christmas gathering.
 
 ## More Holiday Favorites
 
@@ -191,7 +191,7 @@ An ensemble cast including Sarah Jessica Parker, Diane Keaton, and Rachel McAdam
 
 "In the 1940s, a young boy named Ralphie Parker attempts to convince his parents, teacher, and Santa Claus that a Red Ryder Range 200 Shot BB gun really is the perfect Christmas gift." - [IMDb](https://www.imdb.com/title/tt0085334/)
 
-This nostalgic classic has become a cable television marathon staple. "You'll shoot your eye out!"
+This nostalgic classic has become a staple of cable television marathons. "You'll shoot your eye out!"
 
 ### 24. Four Christmases (2008)
 
@@ -217,7 +217,7 @@ The follow-up to the original Frosty special features the snowman returning to s
 
 **Rotten Tomatoes Score:** 86%
 
-Po struggles to host a traditional Winter Feast while balancing his kung fu duties in this delightful DreamWorks special.
+Po struggles to host a traditional Winter Feast while balancing his kung fu duties in this DreamWorks special.
 
 ### 28. Olaf's Frozen Adventure (2017)
 
