@@ -2,6 +2,10 @@
 title: "Short Family's Ultimate Holiday Movie Marathon: 29 Holiday Films"
 author:
   - Chris Short
+cover:
+  caption: Photo by [Pavel Danilyuk](https://www.pexels.com/photo/a-white-and-yellow-disposable-cup-of-popcorn-7234413/)
+  image: popcorn-in-theater.webp
+  relative: true
 date: "2025-12-10"
 description: "From classic comedies to animated adventures, this is our family's top 29 holiday movies. These films bring joy, laughter, and holiday cheer to every season."
 tags:
@@ -229,5 +233,7 @@ The lovable snowman Olaf searches for holiday traditions for Anna and Elsa in th
 **Rotten Tomatoes Score:** N/A
 
 The Madagascar crew accidentally crash-lands at the North Pole and must help Santa save Christmas.
+
+---
 
 *Happy holidays and merry watching!*
