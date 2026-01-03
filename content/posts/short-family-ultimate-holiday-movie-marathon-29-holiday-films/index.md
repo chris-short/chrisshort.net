@@ -4,6 +4,7 @@ author:
   - Chris Short
 cover:
   caption: Photo by [Pavel Danilyuk](https://www.pexels.com/photo/a-white-and-yellow-disposable-cup-of-popcorn-7234413/)
+  alt: "A disposable cup of popcorn in a movie theater"
   image: popcorn-in-theater.webp
   relative: true
 date: "2025-12-10"

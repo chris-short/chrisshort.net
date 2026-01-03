@@ -6,7 +6,7 @@ aliases:
 author: Chris Short
 date: "2019-08-18"
 lastmod: "2025-01-23"
-description: Seasoned developer advocate and technical leader with over 30 years of experience spanning IT operations, DevOps, and technical marketing. Transforms complex technologies into understandable solutions that drive business value.
+description: "Technical marketer with 30+ years in IT ops, DevOps, Cloud Native. Transforms complex tech into clear solutions driving business value. Disabled Veteran."
 tags:
 - résumé
 - cv
@@ -21,29 +21,27 @@ TOCOpen: false
 
 ## Professional Summary
 
-Senior developer advocate and technical marketing leader with 30 years of experience in systems, DevOps, and cloud technologies, specializing in making complex technical concepts accessible and understandable. Proven track record of building developer communities and leading high-visibility projects like AWS Container Days, GitOpsCon, and Kubernetes events while maintaining active Kubernetes community leadership. Known for cross-organizational collaboration and creating educational content that bridges technical capabilities with business value. Deep expertise in infrastructure automation, containerization, and cloud-native technologies. Driven by the belief that technology should improve humanity.
+Technical marketer with 30 years of experience in sustainably automating open source solutions to problems, enabling the organization to deliver more value to customers. Knowledgeable in DevOps, open source technologies (Linux/Ansible), clouds (AWS/Google/Azure), and cloud native tooling (Kubernetes/CNCF ecosystem). Delighted by enabling people to understand complex technical solutions to problems facing modern environments. Championed high-impact projects like AWS re:Invent Kubernetes track lead, Red Hat Live Streaming, and landing Valkey as the de facto Redis fork. Known for collaborating across orgs to create content that bridges technical capabilities with business value. Driven by the belief that technology should improve humanity. Disabled Veteran.
 
 ## Professional Experience
 
 ### Head of Open Source, CIQ — Remote — Feb 2025 to Present
 
-* Stood up OSPO: Led a team of four open source maintainers and fellows dedicated to enabling the Rocky Linux community while fostering open source work internally at CIQ and upstream
-* Stood up license compliance reporting utilizing Snyk; remediation of over 300 flagged dependencies reaching 100% compliance; built AI workflows to analyze and verify license requirements of projects
-* Established metrics reporting and trend analysis in Bitergia for over 200 git repositories for three community projects; guided resources and engineering into the Rocky Linux project
+* Stood up OSPO: Led a team of four open source professionals dedicated to enabling the Rocky Linux community while fostering open source collaboration internally at CIQ and upstream
+* Built license compliance reporting with Snyk; remediated over 300 flagged dependencies, preventing legal problems; built AI workflow to reduce compliance analysis from hours to minutes
+* Established metrics reporting and trend analysis in Bitergia for >500 git repositories for three different community projects; guided resources and engineering into the projects, like Rocky Linux
 * Established CIQ's open source license policy and educated engineering, compliance, and leadership teams on licensing best practices while mitigating risk in existing open source projects
 * Led corporate presence at multiple events, created content in partnership with Marketing, delivered sessions at KubeCon, All Things Open, and staffed many more events
 
 ### Sr. Open Source Developer Advocate, Amazon Web Services — Remote — Oct 2021 to Jan 2025
 
-* Led key components of Valkey's developer engagement strategy through targeted content creation and global event representation, resulting in Valkey becoming the defacto Redis fork worldwide
-* Organized and led Amazon's expansive 50+ speaker, 30+ session re:Invent 2023 Kubernetes and Containers track, increased customer satisfaction (CSAT) scoring metrics YoY for track
-* Taught AWS devs how to do open source for Finch; worked with the dev team to create a build, pull, push, run tool; consulted on strategy, design, and release content; >2K GitHub stars in two weeks
+* Drove key components of [Valkey](https://valkey.io/)'s developer engagement strategy through targeted content creation and event representation, resulting in Valkey becoming the de facto Redis fork worldwide
+* Orchestrated AWS re:Invent 2023 Kubernetes track end-to-end: upskilled 50+ speakers across 30+ sessions, improved CSAT YoY scores, curated best Amazon EKS content for high audience value
+* Taught career AWS devs how to do open source for [Finch](https://github.com/runfinch); worked with the dev team to create a container tool; consulted on strategy, design, and release content; >2K GitHub stars in two weeks
 * Updated the AWS Open Source website; analyzed metrics, established benchmarks, improved performance, and SEO metrics. Updated to the latest design standards. #1 Google rankings.
-* Launched EKS.news, a newsletter covering the latest updates on Amazon Elastic Kubernetes Service (EKS): an additional mechanism to inform customers on new features and changes
-* Trained Kubernetes Product Marketing team on open source; how the cloud native ecosystem works; created and executed training materials for PMMs; exceeded 3P event CSAT goals
-* Authored Amazon EKS 1.22 & 1.23 release blogs; thousands of views by global customers
-* Co-lead Kubernetes Contributor Comms: sharing messaging on changes in project; duties include leading the team in creating event comms, crisis comms, and social media; awarded in 2023
-* Produced/Hosted Kubernetes Day 0 event AWS Container Day at KubeCon EU 2023 Amsterdam
+* Launched [EKS.news](https://eks.news), a newsletter covering the latest updates on Amazon Elastic Kubernetes Service (EKS): an additional mechanism to inform customers on new features and changes
+* Trained the Kubernetes Product Marketing team on open source, how the cloud native ecosystem works, created and executed training materials for PMMs, and exceeded 3P event CSAT goals
+* Co-lead [Kubernetes Contributor Comms](https://github.com/kubernetes/community/tree/master/communication/contributor-comms): led Kubernetes registry change communications resulting in zero downtime globally; onboarded over a dozen new contributors to the project through the team
 * Organized and ran GitOpsCon EU 2021, including marketing, speaker selection, and hosting the event with fellow organizers. 300+ attendees; top two for attendance at Day 0 KubeCon 2021 event
 * Produced multiple AWS Open Source Partner videos in-studio; simplified technical language for a broader audience, drove understanding between partners, product marketing, and video teams
 
@@ -59,11 +57,11 @@ Senior developer advocate and technical marketing leader with 30 years of experi
 
 * Gave 5 talks in 3 days for IBM FastStart 2020; taught 100s of sellers/partners about the advantages of OpenShift for AI/ML workloads, monitoring with Prometheus, and technical roadmaps
 * OpenShift.TV Executive Producer: responsible for finding content, talent, showrunning, marketing, growth, and facilitating live productions; elevated to global brand initiative: Red Hat Live Streaming
-* Training others in how to make use of the infrastructure in place for OpenShift.TV to grow the channel’s bench of hosts and producers across the globe
+* Training others in how to make use of the infrastructure in place for OpenShift.TV to grow the channel's bench of hosts and producers across the globe
 * Hosted and/or produced over 700 hours of content with over 2 years of live watch time.
 * Primary community interface as a CNCF Ambassador who is also focused on Operators and their usage for operations teams; led Ansible Operator workshops at AnsibleFest and Red Hat Summit
 * Acted as a liaison between an Infosec team and a product team after a critical vulnerability was discovered; facilitated responsible disclosure of the vulnerability
-* Built workshops, Katacoda, and other instructional materials to enabling the field to be informed about Red Hat’s cloud native offerings plus competitive intelligence to position products in the market
+* Built workshops, Katacoda, and other instructional materials to enabling the field to be informed about Red Hat's cloud native offerings plus competitive intelligence to position products in the market
 * Worked with Red Hat D+I, Events teams to make inclusive, constructive learning spaces at events
 * Evangelized Red Hat and many other open source offerings through official CNCF communications
 
