@@ -21,7 +21,7 @@ Date: 2025-11-24
 Watch: [Will Agentic AI Pay Off? Cybersecurity Shifts and EU Cloud Pressure | TSG Ep. 973](/video/techstrong-gang-ep973/)
 
 > Alan Shimel, Mike Vizard, Jack Poller, Ira Winkler, Jeff Reich and Chris Short discuss the odds that demand for agentic artificial intelligence will grow enough to justify today’s heavy investment in AI infrastructure.
-> 
+>
 > The gang then looks at how AI is about to transform cybersecurity before examining why the European Union is investigating Amazon Web Services and Microsoft.
 
 ## Is Kubernetes Ready for AI? Google’s New Agent Tech | TSG Ep. 967
