@@ -21,11 +21,13 @@ TOCOpen: false
 
 ## Professional Summary
 
-Technical marketer with 30 years of experience in sustainably automating open source solutions to problems, enabling the organization to deliver more value to customers. Knowledgeable in DevOps, open source technologies (Linux/Ansible), clouds (AWS/Google/Azure), and cloud native tooling (Kubernetes/CNCF ecosystem). Delighted by enabling people to understand complex technical solutions to problems facing modern environments. Championed high-impact projects like AWS re:Invent Kubernetes track lead, Red Hat Live Streaming, and landing Valkey as the de facto Redis fork. Known for collaborating across orgs to create content that bridges technical capabilities with business value. Driven by the belief that technology should improve humanity. Disabled Veteran.
+**Developer Advocate and technical marketer with 30 years of experience translating complex technical solutions into content that resonates with practitioners and drives adoption**. Created 700+ hours of video content and maintained newsletters reaching 6,000+ subscribers. Former CNCF Ambassador and Kubernetes Contributor Communications co-lead with deep expertise in DevOps, cloud native technologies (Kubernetes/CNCF ecosystem), open source tooling (Linux/Ansible), and multi-cloud environments (AWS/Google/Azure).
+
+**Proven track record shipping high-impact initiatives**: AWS re:Invent Kubernetes track lead (50+ speakers), Red Hat Live Streaming production and hosting, and championing Valkey as the de facto Redis fork. Known for bridging technical capabilities with business value through cross-organizational collaboration and community engagement. **Disabled Veteran.**
 
 ## Professional Experience
 
-### Head of Open Source, CIQ — Remote — Feb 2025 to Present
+### Head of Open Source, CIQ — Remote — Feb 2025 to Jan 2026
 
 * Stood up OSPO: Led a team of four open source professionals dedicated to enabling the Rocky Linux community while fostering open source collaboration internally at CIQ and upstream
 * Built license compliance reporting with Snyk; remediated over 300 flagged dependencies, preventing legal problems; built AI workflow to reduce compliance analysis from hours to minutes
