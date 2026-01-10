@@ -6,7 +6,7 @@ aliases:
 author: Chris Short
 date: "2019-08-18"
 lastmod: "2025-01-23"
-description: "Technical marketer with 30+ years in IT ops, DevOps, Cloud Native. Transforms complex tech into clear solutions driving business value. Disabled Veteran."
+description: "Developer Advocate & technical marketer with 30+ years in DevOps, Kubernetes, cloud native tech. Former CNCF Ambassador, 700+ hours video content, 6K+ newsletter subscribers. Available for hire."
 tags:
 - résumé
 - cv
