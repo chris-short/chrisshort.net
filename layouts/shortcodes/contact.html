@@ -73,5 +73,28 @@
         <textarea id="message" name="message" placeholder="Your message..." required></textarea>
     </div>
 
+    <div class="form-group">
+        <div class="h-captcha" data-captcha="true"></div>
+    </div>
+
     <button type="submit" class="submit-btn">Send Message</button>
 </form>
+
+<script src="https://web3forms.com/client/script.js" async defer></script>
+
+<script>
+  // Client-side validation to ensure captcha is completed
+  document.addEventListener('DOMContentLoaded', function() {
+    const form = document.querySelector('.contact-form');
+    if (form) {
+      form.addEventListener('submit', function(e) {
+        const hCaptcha = form.querySelector('textarea[name=h-captcha-response]');
+        if (!hCaptcha || !hCaptcha.value) {
+          e.preventDefault();
+          alert("Please complete the captcha verification");
+          return false;
+        }
+      });
+    }
+  });
+</script>
