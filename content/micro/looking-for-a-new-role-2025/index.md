@@ -9,6 +9,7 @@ summary: "I'm looking for a new role"
 tags: ["Job Hunting", "Hire Me", "Kubernetes", "Cloud Native", "marketing", "2025"]
 ShowToc: false
 TocOpen: false
+draft: true
 ---
 
 My time at Amazon Web Services (AWS) is coming to an end. It's been an incredible three years of work on open source projects like Finch, Valkey, Kubernetes services and the upstream project.
