@@ -31,7 +31,7 @@ TOCOpen: false
 
 * Stood up OSPO: Led a team of four open source professionals dedicated to enabling the Rocky Linux community while fostering open source collaboration internally at CIQ and upstream
 * Built license compliance reporting with Snyk; remediated over 300 flagged dependencies, preventing legal problems; built AI workflow to reduce compliance analysis from hours to minutes
-* Established metrics reporting and trend analysis in Bitergia for >500 git repositories for three different community projects; guided resources and engineering into the projects, like Rocky Linux
+* Established metrics reporting and trend analysis in Bitergia for over 500 git repositories for three different community projects; guided resources and engineering into the projects, like Rocky Linux
 * Established CIQ's open source license policy and educated engineering, compliance, and leadership teams on licensing best practices while mitigating risk in existing open source projects
 * Led corporate presence at multiple events, created content in partnership with Marketing, delivered sessions at KubeCon, All Things Open, and staffed many more events
 
@@ -39,7 +39,7 @@ TOCOpen: false
 
 * Drove key components of [Valkey](https://valkey.io/)'s developer engagement strategy through targeted content creation and event representation, resulting in Valkey becoming the de facto Redis fork worldwide
 * Orchestrated AWS re:Invent 2023 Kubernetes track end-to-end: upskilled 50+ speakers across 30+ sessions, improved CSAT YoY scores, curated best Amazon EKS content for high audience value
-* Taught career AWS devs how to do open source for [Finch](https://github.com/runfinch); worked with the dev team to create a container tool; consulted on strategy, design, and release content; >2K GitHub stars in two weeks
+* Taught career AWS devs how to do open source for Finch; worked with the dev team to create a container tool; consulted on strategy, design, and release content; over 2K GitHub stars in 2 weeks
 * Updated the AWS Open Source website; analyzed metrics, established benchmarks, improved performance, and SEO metrics. Updated to the latest design standards. #1 Google rankings.
 * Launched [EKS.news](https://eks.news), a newsletter covering the latest updates on Amazon Elastic Kubernetes Service (EKS): an additional mechanism to inform customers on new features and changes
 * Trained the Kubernetes Product Marketing team on open source, how the cloud native ecosystem works, created and executed training materials for PMMs, and exceeded 3P event CSAT goals
