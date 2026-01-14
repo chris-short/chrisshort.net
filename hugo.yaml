@@ -66,22 +66,18 @@ params:
         url: "/blog"
       - name: Microblog
         url: "/micro"
-      - name: Writing
-        url: "/writing"
+      - name: Newsletter
+        url: "https://devopsish.com"
       - name: "Abstracts"
         url: "/abstracts"
       - name: Interviews
         url: "/interviews"
       - name: Speaking
         url: "/speaking"
-      - name: "Books"
-        url: "/books"
       - name: Video
         url: "/video"
       - name: "Drawings"
         url: "/drawings"
-      - name: "Speed Test"
-        url: "/speedtest"
       - name: Résumé
         url: "/resume"
       - name: "Contact"
