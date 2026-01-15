@@ -9,7 +9,6 @@ enableInlineShortcodes: true
 keywords: [Chris Short, Blog, Microblog, Talks, Speaking, Interviews, Open Source, DevOps, Cloud Native]
 languageCode: en-us
 pygmentsUseClasses: true
-theme: ["github.com/adityatelange/hugo-PaperMod"]
 timeZone: "America/Detroit"
 title: Chris Short
 taxonomies:
