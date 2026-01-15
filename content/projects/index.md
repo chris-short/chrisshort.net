@@ -49,7 +49,7 @@ Since Suggested Reads are shared to various social media networks (which can and
 1. A central repository of all Suggested Reads
 2. An interactive (voting, commenting, etc.) way for folks to consume Suggested Reads
 
-The central repository of all the tech content I share is the [DevOps'ish Firehose](https://devopsish.com/firehose/). The [DevOps'ish subreddit](https://www.reddit.com/r/devopsish/) is also powered by Suggested Reads. They also powered the DevOps'ish newsletter back when I was regularly publishing it.
+The central repository of all the tech content I share is the [DevOps'ish Firehose](/firehose/). The [DevOps'ish subreddit](https://www.reddit.com/r/devopsish/) is also powered by Suggested Reads. They also powered the DevOps'ish newsletter back when I was regularly publishing it.
 
 ### DevOps'ish
 

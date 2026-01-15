@@ -1,0 +1,228 @@
+<!-- Embed this code directly into your chrisshort.net pages -->
+<style>
+    .devopsish-subscribe {
+        max-width: 600px;
+        margin: 40px auto;
+        background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+        border-radius: 16px;
+        padding: 48px 40px;
+        box-shadow: 0 20px 60px rgba(0, 0, 0, 0.15);
+        position: relative;
+        overflow: hidden;
+    }
+
+    .devopsish-subscribe::before {
+        content: '';
+        position: absolute;
+        top: -50%;
+        right: -50%;
+        width: 200%;
+        height: 200%;
+        background: radial-gradient(circle, rgba(255,255,255,0.1) 0%, transparent 70%);
+        pointer-events: none;
+    }
+
+    .devopsish-content {
+        position: relative;
+        z-index: 1;
+    }
+
+    .devopsish-header {
+        text-align: center;
+        margin-bottom: 32px;
+    }
+
+    .devopsish-icon {
+        max-width: 200px;
+        margin: 0 auto 20px;
+    }
+
+    .devopsish-icon img {
+        width: 100%;
+        height: auto;
+    }
+
+    .devopsish-subscribe h3 {
+        color: #ffffff;
+        font-size: 32px;
+        font-weight: 700;
+        margin-bottom: 12px;
+        letter-spacing: -0.5px;
+    }
+
+    .devopsish-subtitle {
+        color: rgba(255, 255, 255, 0.9);
+        font-size: 18px;
+        line-height: 1.5;
+        margin-bottom: 8px;
+    }
+
+    .devopsish-stats {
+        color: rgba(255, 255, 255, 0.8);
+        font-size: 14px;
+        margin-top: 12px;
+    }
+
+    .devopsish-form {
+        margin-top: 32px;
+    }
+
+    .devopsish-form-group {
+        margin-bottom: 16px;
+    }
+
+    .devopsish-form label {
+        display: block;
+        color: rgba(255, 255, 255, 0.95);
+        font-size: 14px;
+        font-weight: 600;
+        margin-bottom: 8px;
+        letter-spacing: 0.3px;
+    }
+
+    .devopsish-form input[type="email"] {
+        width: 100%;
+        padding: 14px 16px;
+        font-size: 16px;
+        border: 2px solid rgba(255, 255, 255, 0.3);
+        border-radius: 8px;
+        background: rgba(255, 255, 255, 0.95);
+        transition: all 0.3s ease;
+        color: #333;
+        box-sizing: border-box;
+    }
+
+    .devopsish-form input[type="email"]:focus {
+        outline: none;
+        border-color: #ffffff;
+        background: #ffffff;
+        box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+    }
+
+    .devopsish-form input[type="email"]::placeholder {
+        color: #999;
+    }
+
+    .devopsish-submit {
+        width: 100%;
+        padding: 16px 32px;
+        font-size: 16px;
+        font-weight: 700;
+        color: #667eea;
+        background: #ffffff;
+        border: none;
+        border-radius: 8px;
+        cursor: pointer;
+        transition: all 0.3s ease;
+        text-transform: uppercase;
+        letter-spacing: 1px;
+        margin-top: 8px;
+    }
+
+    .devopsish-submit:hover {
+        transform: translateY(-2px);
+        box-shadow: 0 8px 20px rgba(0, 0, 0, 0.2);
+        background: #f8f9ff;
+    }
+
+    .devopsish-submit:active {
+        transform: translateY(0);
+    }
+
+    .devopsish-features {
+        display: grid;
+        grid-template-columns: repeat(auto-fit, minmax(140px, 1fr));
+        gap: 16px;
+        margin-top: 24px;
+        padding-top: 24px;
+        border-top: 1px solid rgba(255, 255, 255, 0.2);
+    }
+
+    .devopsish-feature {
+        text-align: center;
+        color: rgba(255, 255, 255, 0.9);
+        font-size: 14px;
+    }
+
+    .devopsish-feature-icon {
+        font-size: 24px;
+        margin-bottom: 8px;
+        display: block;
+    }
+
+    .devopsish-privacy {
+        margin-top: 20px;
+        text-align: center;
+        font-size: 13px;
+        color: rgba(255, 255, 255, 0.8);
+        line-height: 1.5;
+    }
+
+    .devopsish-privacy a {
+        color: #ffffff;
+        text-decoration: underline;
+    }
+
+    @media (max-width: 600px) {
+        .devopsish-subscribe {
+            padding: 32px 24px;
+        }
+
+        .devopsish-subscribe h3 {
+            font-size: 26px;
+        }
+
+        .devopsish-subtitle {
+            font-size: 16px;
+        }
+    }
+</style>
+
+<div class="devopsish-subscribe">
+    <div class="devopsish-content">
+        <div class="devopsish-header">
+            <div class="devopsish-icon"><a href="https://devopsish.com/"><img src="https://shortcdn.com/devopsish/devopsish.webp" alt="DevOps'ish Logo"></a></div>
+            <h3>DevOps'ish</h3>
+            <p class="devopsish-subtitle">Cloud Native, DevOps, Open Source, industry news, culture, and the ‘ish between. A newsletter by Chris Short.</p>
+        </div>
+
+        <form 
+            action="https://buttondown.com/api/emails/embed-subscribe/devopsish" 
+            method="post" 
+            class="devopsish-form"
+            target="_blank"
+        >
+            <div class="devopsish-form-group">
+                <label for="bd-email">Email Address</label>
+                <input 
+                    type="email" 
+                    name="email" 
+                    id="bd-email"
+                    placeholder="you@example.com" 
+                    required
+                />
+            </div>
+
+            <input type="hidden" value="1" name="embed" />
+            
+            <button type="submit" class="devopsish-submit">
+                Subscribe Now
+            </button>
+        </form>
+
+        <div class="devopsish-features">
+            <div class="devopsish-feature">
+                <span class="devopsish-feature-icon">🚀</span>
+                <div>Real-world insights</div>
+            </div>
+            <div class="devopsish-feature">
+                <span class="devopsish-feature-icon">⚡</span>
+                <div>Weekly delivery</div>
+            </div>
+        </div>
+
+        <p class="devopsish-privacy">
+            No spam, ever. Unsubscribe anytime.<br>
+        </p>
+    </div>
+</div>
