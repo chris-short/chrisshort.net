@@ -142,8 +142,6 @@ Download: [MP3](https://shortcdn.com/chrisshort/learn-streaming-from-the-experts
 
 Date: 2020-09-25
 
-Source: [DevOps 049: DevOps, Open Source, and OpenShift with Chris Short](https://topenddevs.com/podcasts/adventures-in-devops/episodes/devops-049-devops-open-source-and-openshift-with-chris-short)
-
 Download: [MP3](https://shortcdn.com/chrisshort/ADO_049_DevOps_Open_Source_OpenShift_and_OpenShift_tv_with_Chris_Short.mp3)
 
 ## Chris Short: K8s Release Team - Cloud Native Computing Foundation - NVIDIA to buy Arm for $40B - Oracle and TikTok - OpenShift TV - Walmart Brings Back Gateway Computers

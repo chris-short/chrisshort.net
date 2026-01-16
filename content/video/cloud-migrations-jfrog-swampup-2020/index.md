@@ -18,6 +18,4 @@ title: 'Lesson Learned From Cloud Migrations: Planning is Everything — JFrog S
 
 Download as [MP4](https://shortcdn.com/chrisshort/Lesson-Learned-From-Cloud-Migrations-Planning-is-Everything-Chris-Short.mp4) (right click, Save As...)
 
-Source: [Lesson Learned From Cloud Migrations: Planning is Everything](https://jfrog.com/user-conference/lesson-learned-from-cloud-migrations-planning-is-everything/)
-
 {{< speaker >}}

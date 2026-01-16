@@ -29,7 +29,7 @@ I happen to be someone that finds themselves setting up new systems for myself o
 * [GPG Tools](https://gpgtools.org/)
 * [MySQL Workbench](https://dev.mysql.com/downloads/workbench/) - When you login to a MySQL server and say, "WTF?!?" you might want a GUI as a safety
 * [Witch](https://manytricks.com/witch/) - CMD + TAB will never be the same
-* [Spectacle](https://www.spectacleapp.com/) - Position your windows where you want them
+* [Rectangle](https://rectangleapp.com/) - Position your windows where you want them
 * [Skitch](https://evernote.com/skitch/) - Screeenshot tool that saves to Evernote
 * [Dropbox](https://www.dropbox.com/)
 * [CleanMyMac](https://macpaw.com/cleanmymac) - I use this to uninstall software and clear caches (among other things)

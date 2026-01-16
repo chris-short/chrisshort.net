@@ -19,7 +19,7 @@ This list has grown significantly since this talk. Find the latest version at [D
 
 Slides: [DevOps README.MD](https://speakerdeck.com/chrisshort/devops-readme-dot-md)
 
-Blog Post: [DevOps README.md](/devops-readme.md/)  
+Blog Post: [DevOps README.md](/devops-readme/)  
 
 Source: [DevOpsDays Detroit 2017](https://youtu.be/hJDp6CLvTAQ?t=16m47s)
 

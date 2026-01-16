@@ -82,7 +82,7 @@ The moral of the story is, don't pay for something when you already have the ser
 [8]: https://html5up.net/
 [9]: https://themefisher.com/free-bootstrap-templates
 [10]: https://bootstrapmade.com/bootstrap-portfolio-templates/
-[11]: https://jjasghar.me/
+[11]: https://jjasghar.github.io/
 [12]: https://www.favicon-generator.org/
 [13]: /tags/hugo/
 [14]: https://github.com/jjasghar/jjasghar.me
