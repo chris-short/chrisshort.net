@@ -45,6 +45,6 @@ I believe Google has struck a goldmine of potential in this social network. The 
 If you would like more information about orkut.com check out these other articles:
 
 * [Orkut.com Social Networking Engine in affiliation with Google](https://www.webmasterworld.com/forum3/21371.htm) (WebmasterWorld)
-* [Google Releases Orkut Social Networking Service](https://searchenginewatch.com/sew/news/2066827/google-releases-orkut-social-networking-service) (SearchEngineWatch.com)
+* [Google Releases Orkut Social Networking Service](https://web.archive.org/web/20150920230429/https://searchenginewatch.com/sew/news/2066827/google-releases-orkut-social-networking-service) (SearchEngineWatch.com)
 * [Google debuts Friendster-clone Orkut](https://www.theregister.co.uk/2004/01/23/google_debuts_friendsterclone_orkut/) (The Register)
 * [Why Google needs Orkut](https://jeremy.zawodny.com/blog/archives/001504.html) (Jeremy Zawodny's blog)

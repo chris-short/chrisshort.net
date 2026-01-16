@@ -57,8 +57,7 @@ You can also ask for help proofreading. When in doubt, ask for help. Perhaps a f
 
 The last (and sometimes most important) thing to consider when writing a technical article is that there are formatting processes to writing any work. Even a blog post needs tags, categories, and images. When it comes to stock images, there are two sites that have a wide selection of free to use, no credit required works:
 
-1. [Unsplash](https://unsplash.com/)
-2. [Pixabay](https://pixabay.com/)
+1. [Pexels](https://www.pexels.com/)
 
 Both of these sites have a trending section that allows you to find some high-quality images to use quickly. The formatting, style guide, and metadata are important and often simple things to include in an article. Don't stress too much about it but, make sure to consider it when writing.
 

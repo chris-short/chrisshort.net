@@ -127,7 +127,7 @@ By: Bilgin Ibryam and Roland Huß
 > * Configuration patterns provide insight into how application configurations can be handled in Kubernetes.
 > * Advanced patterns cover more advanced topics such as extending the platform with operators.
 
-A *free* copy of this book is available through [Red Hat](https://developers.redhat.com/books/kubernetes-patterns/old?sc_cid=7013a000002gj5QAAQ)
+A *free* copy of this book is available through [Red Hat](https://www.redhat.com/en/engage/kubernetes-containers-architecture-s-201910240918)
 
 ## [Kubernetes in Action](https://www.manning.com/books/kubernetes-in-action?utm_source=devopsish&utm_medium=affiliate&utm_campaign=affiliate&a_aid=devopsish)
 

@@ -77,7 +77,7 @@ title: DevOps README
 * Pros: Detail oriented, can give to technical staff
 * Cons: Not a quick read
 * Quip: You're DevOps'ing if you quote this book.
-* URL: [The DevOps Handbook: How to Create World-Class Agility, Reliability, and Security in Technology Organizations](https://amzn.to/2WDndOV)
+* URL: [The DevOps Handbook: How to Create World-Class Agility, Reliability, and Security in Technology Organizations](https://a.co/d/40k1ujL)
 
 ## The Twelve-Factor App
 
@@ -210,7 +210,7 @@ title: DevOps README
 * Recommended to me by John Willis
 * Pros: Makes you rethink your feelings
 * Cons: Slightly controversial
-* URL: [The End of Heaven: Disaster and Suffering in a Scientific Age](https://amzn.to/31npMmD)
+* URL: [The End of Heaven: Disaster and Suffering in a Scientific Age](https://a.co/d/7jtSskw)
 
 ## The Art of War
 

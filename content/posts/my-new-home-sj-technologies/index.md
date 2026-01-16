@@ -23,7 +23,7 @@ You might ask, "Why SJ Technologies, Chris?" I'm glad you asked! As I mentioned 
 
 I looked into SJ Technologies after getting back to Detroit and added it to my short list of places I would consider working should the opportunity arise.
 
-Fast forward to DevOpsDays Detroit, where John and I met again. After my [DevOps README.md](/devops-readme.md/) lightning talk, [Barbara Bouldin](https://www.devopsdays.org/events/2017-detroit/speakers/barbara-bouldin/) approached me, gave me a glowing review, and asked for a copy of the slide deck. I was flattered given the fantastic talk Barbara gave during DevOpsDays Detroit. To quote another text to Julie:
+Fast forward to DevOpsDays Detroit, where John and I met again. After my [DevOps README.md](/devops-readme/) lightning talk, [Barbara Bouldin](https://www.devopsdays.org/events/2017-detroit/speakers/barbara-bouldin/) approached me, gave me a glowing review, and asked for a copy of the slide deck. I was flattered given the fantastic talk Barbara gave during DevOpsDays Detroit. To quote another text to Julie:
 
 ![Barbara Boudin of SJ Technologies ran me down to ask for my slides.](barbara-bouldin-imessage-to-julie.webp)
 

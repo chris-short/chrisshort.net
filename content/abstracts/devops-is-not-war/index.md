@@ -89,7 +89,7 @@ Source: [Belfer Center for Science and International Affairs](https://www.belfer
 
 * The divide here is closing (if not already closed)
 * Only the outliers remain (aka not Silicon Valley)
-* DevOps is happening; [the US nuclear weapons program is adopting DevOps and Agile](https://www.fbo.gov/index?s=opportunity&mode=form&id=2482d620e399c5fd667a8e4d059cc9ec&tab=core&_cview=0)
+* DevOps is happening; the US nuclear weapons program is adopting DevOps and Agile
 * That won't work HERE is malarkey; sorry, not sorry
 * Your organization has no excuse
 
