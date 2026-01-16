@@ -82,7 +82,7 @@ title: Writing
 
 > Chris Short's ansible.com blog posts are available here: <https://www.ansible.com/blog/author/chris-short>
 
-### [Ansible Operators October 2019 Update](https://blog.openshift.com/ansible-operators-october-2019-update/)
+### [Ansible Operators October 2019 Update](https://web.archive.org/web/20191212160355/https://blog.openshift.com/ansible-operators-october-2019-update/)
 
 > During this month's Operator Framework SIG Meeting, I presented an update on the latest happenings with Ansible Operators ([slides here](https://speakerdeck.com/chrisshort/operator-framework-sig-ansible-operators-october-2019-update)). I touched on a few topics that I wanted to share with the greater universe.
 
