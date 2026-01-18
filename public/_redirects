@@ -27,10 +27,9 @@
 https://chrisshort.netlify.app/*            https://chrisshort.net/:splat 301!
 /page/*                                     /blog/page/:splat 301!
 /prow-and-tide-for-kubernetes-contributors  https://www.kubernetes.dev/blog/2022/12/12/prow-and-tide-for-kubernetes-contributors/ 301
-/firehose*                                  https://devopsish.com/firehose 302
 /categories/*                               /tags/:splat 301!
 /curriculum-vitae/Chris-Short-Resume.pdf*   /resume/Chris-Short-Resume.pdf 301!
-/newsletter                                 https://devopsish.com/ 302
+/newsletter                                 https://devopsish.com/ 301
 /archive*                                   /tags 302
 /drawings/diy-buffer-using-ifttt            /drawings 301
 /bsky                                       https://bsky.app/profile/chrisshort.net 301
@@ -40,3 +39,5 @@ https://chrisshort.netlify.app/*            https://chrisshort.net/:splat 301!
 /twitter                                    https://x.com/ChrisShort 301
 /linkedin                                   https://www.linkedin.com/in/thechrisshort 301
 /github                                     https://github.com/chris-short 301
+
+/subscribe https://buttondown.com/devopsish 301
