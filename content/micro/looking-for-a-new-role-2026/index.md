@@ -6,11 +6,13 @@ title: "Looking for a new role"
 date: "2026-01-20"
 description: "30-year tech veteran seeking remote Developer Advocate or Technical Marketing role. Translates complexity into adoption. Available now."
 summary: "Experienced technical storyteller with 30 years bridging deep cloud-native expertise and clear communication. Former CNCF Ambassador and Kubernetes Contributor Comms co-lead seeking remote Developer Advocate, Technical Marketing Manager, or Product Marketing Manager roles. Proven track record creating 700+ hours of content, leading major community initiatives (AWS re:Invent K8s track, Valkey adoption, GitOpsCon EU), and driving adoption through authentic technical storytelling. Available now."
-tags: ["Job Hunting", "Hire Me", "Kubernetes", "Cloud Native", "marketing", "2026"]
+tags: ["Job Hunting", "Hire Me", "Kubernetes", "Cloud Native", "DevOps", "marketing", "2026"]
 ShowToc: false
 TocOpen: false
 draft: false
 ---
+
+*Originally shared on [LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7416478485491191808/)*
 
 I'm looking for a new role! With 30 years in the industry, I'm excited to start a new chapter. I believe every ending creates space for something more rewarding.
 
