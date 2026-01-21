@@ -27,13 +27,13 @@ Continuous learning is a critical part of DevOps. Staying current is imperative.
 
 Chief Cloud Economist Corey Quinn goes through the torrent of news about Amazon’s cloud ecosystem and strains out the noise. Then he takes what’s left and gently and lovingly makes fun of it.
 
+## [TLDR DevOps](https://refer.tldr.tech/4c87b7aa/10)
+
+Improve your DevOps skills in 5 minutes. Get our free daily newsletter with curated tools 💻, trends 📈, and insights 💡, for DevOps Engineers 👨‍💻
+
 ## [DevTools Brew](https://morganperry.substack.com/)
 
 DevTools Brew is a 5-minute read to uncover the stories, strategies, and insights behind successful devtool companies. Every week, straight to your inbox.
-
-## [TLDR DevOps](https://tldr.tech/devops)
-
-Improve your DevOps skills in 5 minutes. Get our free daily newsletter with curated tools 💻, trends 📈, and insights 💡, for DevOps Engineers 👨‍💻
 
 ## [DevOps Bulletin](https://www.devopsbulletin.com/)
 

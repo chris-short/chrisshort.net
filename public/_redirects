@@ -12,15 +12,19 @@
 /drawings/*.webp https://shortcdn.com/chrisshort/:splat.webp 301
 /fonts/* https://shortcdn.com/chrisshort/fonts/:splat 301
 
+How-Complex-Systems-Fail.pdf https://shortcdn.com/chrisshort/How-Complex-Systems-Fail.pdf 301
+/devops-readme.md/How-Complex-Systems-Fail.pdf* https://shortcdn.com/chrisshort/How-Complex-Systems-Fail.pdf 301
+
 # Deprecated posts
 
-/announcing-detroit-go-meetup https://github.com/chris-short/chrisshort.net/blob/main/content/post/announcing-detroit-go-meetup/index.md 301
+/announcing-detroit-go-meetup https://github.com/detroitgolang 301
 /ansible-galaxy-is-open https://github.com/chris-short/chrisshort.net/blob/main/content/post/ansible-galaxy-is-open/index.md 301
 /ansible-role-for-papertrail https://github.com/chris-short/chrisshort.net/blob/main/content/post/ansible-role-for-papertrail/index.md 301
 /using-ansible-vault-effectively https://github.com/chris-short/chrisshort.net/blob/main/content/post/using-ansible-vault-effectively.md 301
 /verify-ashleymcnamara https://github.com/chris-short/chrisshort.net/blob/main/content/posts/verify-ashleymcnamara/index.md 301
-/weather-in-your-ios-and-macos-calendars https://github.com/chris-short/chrisshort.net/blob/main/content/post/weather-in-your-ios-and-macos-calendars/index.md 301
 /abstracts/gitops-implementation-devops https://chrisshort.net 301
+/weather-in-your-ios-and-macos-calendars https://support.apple.com/guide/weather-mac/see-weather-status-in-the-menu-bar-apdwb2768d6e/mac 301
+/shoulder-update* /disability 301
 
 # From netlify.toml
 
@@ -39,5 +43,15 @@ https://chrisshort.netlify.app/*            https://chrisshort.net/:splat 301!
 /twitter                                    https://x.com/ChrisShort 301
 /linkedin                                   https://www.linkedin.com/in/thechrisshort 301
 /github                                     https://github.com/chris-short 301
+/post*                                      /blog 301
+
+# Google Search Console Fixes
 
 /subscribe https://buttondown.com/devopsish 301
+/copyright https://creativecommons.org/licenses/by-sa/4.0/ 302
+/http2-primer /drawings/http2-primer 301
+/abstracts/go-to-the-rescue-saving-devops-from-tls-turmoil /abstracts/go-to-the-rescue/ 301
+/etc/ssl-tester/tls.crt /testing-certificate-chains-in-go 301
+/the-aws-bill-heard-around-the-world/* /the-aws-bill-heard-around-the-world 301
+/foundation-for-purposeful-living* /cult/:splat 301
+/center-for-purposeful-living* /cult/:splat 301
