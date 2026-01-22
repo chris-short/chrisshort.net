@@ -1,6 +1,7 @@
 ---
 aliases:
 - /microblog/looking-for-a-new-role-2025
+- /micro/looking-for-a-new-role-2025
 author: ["Chris Short"]
 title: "Looking for a new role"
 date: "2026-01-20"
