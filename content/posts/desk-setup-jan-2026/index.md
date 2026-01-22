@@ -11,9 +11,24 @@ title: Desk Setup, January 2026
 ShowToc: true
 TocOpen: true
 draft: false
+tags:
+- desk
+- camera
+- mic
+- Shure
+- Elgato
+- Fully Jarvis
+- lighting
+- Sigma
+- live streaming
+- mic arm
+- Sonos
+- teleprompter
+- work from home
+- Philips Hue
 ---
 
-There’s a metaphor out there that you should write about something if you are asked about it more than three times. I cannot count how many times folks ask about my setup, so I'll capture it here. I also haven't posted anything about my desk since we finished our basement, which includes my office.
+There’s a metaphor out there that you should write about something if you are asked about it more than three times. I cannot count how many times folks ask about my setup, so I'll capture it here. I also haven't posted anything about my desk since we finished our basement, which includes my office. Actually the [last time I wrote about this](/desk-setup-january-2021/) was five years ago, almost to the day.
 
 *Note: I may earn compensation for sales from links on this post through [affiliate programs](/terms#affiliate-link-policy).*
 
