@@ -97,7 +97,7 @@ params:
       ignoreLocation: true
       keys: ["title", "permalink", "summary", "description"]
     imageUrl: "/img/Chris-Short-Nov-2025-256px-square.jpeg"
-    imageTitle: "Chris Short Headshot (Chris in his office with canvas panels picturing Detroit in background)"
+    imageTitle: "Chris Short Headshot"
     imageWidth: 256 # custom size
     imageHeight: 256 # custom size
     ShowBreadCrumbs: true
@@ -109,7 +109,7 @@ params:
     ShowRssButtonInSectionTermList: true
     ShowTOC: true
     ShowShareButtons: false
-    subtitle: "Open Source | DevOps | Kubernetes Contributor | r/devopsish | LEGO | Corgis | Detroit | Disabled Veteran | He/Him | Views solely mine"
+    subtitle: "DevOps'ish | Kubernetes Contributor | Open Source | Corgis | LEGO | Detroit | Disabled Veteran | He/Him | Views solely mine"
     title: "Chris Short"
 
   schema:
