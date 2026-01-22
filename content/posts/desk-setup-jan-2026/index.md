@@ -6,7 +6,6 @@ cover:
   relative: true
 date: "2026-01-27"
 description: 
-tags:
 title: Desk Setup, January 2026
 ShowToc: true
 TocOpen: true
