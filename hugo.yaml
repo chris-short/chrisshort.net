@@ -186,6 +186,14 @@ outputs:
     - HTML
     - RSS
     - JSON # necessary for search
+  term:
+    - HTML
+  section:
+    - HTML
+  taxonomy:
+    - HTML
+  page:
+    - HTML
 
 pagination:
   pagerSize: 5

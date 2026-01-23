@@ -35,8 +35,7 @@ There’s a metaphor out there that you should write about something if you are 
 
 Webcams are cheap and lack features that you may want (like [bokeh](https://en.wikipedia.org/wiki/Bokeh)). But, unless you're recording/streaming tons of content, those features may be less important to you. If you want something that "just works," use your laptop's built-in camera. Modern phones can double as a camera for  desktop use, too (which you already paid for).
 
-If you want to improve picture quality on a budget, go with a 1080p or 4K webcam from [Logitech](https://www.amazon.com/stores/Logitech/page/494BEB46-B847-41B3-93AB-206A1E9CE8FD?lp_context_asin=B0DBTZZQXR&lp_context_query=logitech+streamcam&store_ref=bl_ast_dp_brandLogo_sto&ref_=cm_sw_r_ud_ast_store_GW2D9RQ07YQ195ZGFF8N
-Webcams) or [Elgato](https://a.co/d/eMbvNwn).
+If you want to improve picture quality on a budget, go with a 1080p or 4K webcam from [Logitech](https://www.amazon.com/stores/Logitech/page/494BEB46-B847-41B3-93AB-206A1E9CE8FD?lp_context_asin=B0DBTZZQXR&lp_context_query=logitech+streamcam&store_ref=bl_ast_dp_brandLogo_sto&ref_=cm_sw_r_ud_ast_store_G8AJGN5GXUJGA2SVFHW3Webcams) or [Elgato](https://a.co/d/eMbvNwn).
 
 If you want a very clean look with better-than-webcam quality, you'll need to be ready to spend some money. I use an old Sony A6000 mirrorless DSLR I got on eBay, connected to my computer via an [Elgato Cam Link 4K](https://a.co/d/5K7waKk). If money were no object and I were looking to purchase something new, I'd go with the [Sony Alpha ZV-E10](https://a.co/d/5S3NIGe). But it's $800 without a lens.
 
