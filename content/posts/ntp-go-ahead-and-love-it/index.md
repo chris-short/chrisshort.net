@@ -100,7 +100,7 @@ But what are those symbols on the far left of the results table? The dashes (-),
 
 ## NTP Pool
 
-It is trivial to setup NTP these days thanks to the [NTP Pool Project](https://www.pool.ntp.org/). What is an NTP Pool?
+It is trivial to setup NTP these days thanks to the [NTP Pool Project](https://www.ntppool.org/). What is an NTP Pool?
 
 >The pool.ntp.org project is a big virtual cluster of timeservers providing reliable easy to use NTP service for millions of clients.
 >
@@ -112,7 +112,7 @@ The more servers in the pools the better off systems using the pool will be. But
 
 ## How Many NTP Sources Do I Need?
 
-I have personally seen in far too many places where the number of NTP sources has been set too low. I have also argued with co-workers about the "right" number of NTP sources to use in your NTP configuration. My recommendation to folks new to NTP is to use the [NTP pool servers](https://www.pool.ntp.org/). However, according to [ntp.org](https://support.ntp.org/bin/view/Support/SelectingOffsiteNTPServers#Section_5.3.3.), you should have an **absolute minimum of four NTP sources** on your systems:
+I have personally seen in far too many places where the number of NTP sources has been set too low. I have also argued with co-workers about the "right" number of NTP sources to use in your NTP configuration. My recommendation to folks new to NTP is to use the [NTP pool servers](https://www.ntppool.org/). However, according to [ntp.org](https://support.ntp.org/bin/view/Support/SelectingOffsiteNTPServers#Section_5.3.3.), you should have an **absolute minimum of four NTP sources** on your systems:
 
 > With three servers, you have the minimum number of time sources needed to allow ntpd to detect if one time source is a "falseticker". However ntpd will then be in the position of choosing from the two remaining sources.This configuration provides no redundancy.
 >
