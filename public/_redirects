@@ -55,3 +55,4 @@ https://chrisshort.netlify.app/*            https://chrisshort.net/:splat 301!
 /the-aws-bill-heard-around-the-world/* /the-aws-bill-heard-around-the-world 301
 /foundation-for-purposeful-living* /cult/:splat 301
 /center-for-purposeful-living* /cult/:splat 301
+/tags/*/index.xml /index.xml
