@@ -27,7 +27,11 @@ This site is the home of contributor documentation, and serves as a starting poi
 
 ## [Last Week in Kubernetes Development](http://lwkd.info/)
 
-LWKD is a Kubernetes community maintained weekly newsletter summarizing code activity in the Kubernetes project: KEPS, PRs, deprecations, version updates, release schedules, and the weekly community meeting.
+LWKD is a Kubernetes community maintained weekly newsletter summarizing code activity in the Kubernetes project: KEPS, PRs, deprecations, version updates, and release schedules.
+
+## [Last Week in Cloud Native](https://www.lwcn.dev)
+
+Weekly digest of CNCF releases, news, and community updates.
 
 ## [Kubernetes Podcast from Google](https://kubernetespodcast.com/)
 
