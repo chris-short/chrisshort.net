@@ -131,8 +131,8 @@ params:
   socialIcons: # optional
     - name: "github"
       url: "https://github.com/chris-short"
-    - name: "codepen"
-      url: "https://codepen.io/thechrisshort"
+#    - name: "codepen"
+#      url: "https://codepen.io/thechrisshort"
     - name: "LinkedIn"
       url: "https://www.linkedin.com/in/thechrisshort"
     - name: "Bluesky"
