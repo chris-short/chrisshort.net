@@ -14,14 +14,14 @@ title: Shrug
 ---
 
 
-## Normal Shrug (sup son)
+## Normal Shrug
 
 ¯\\\_(ツ)\_/¯
 
-## Markdown Shrug (sup son)
+## Markdown Shrug
 
 `¯\\\_(ツ)\_/¯`
 
-## Emoji Shrug (sup son)
+## Emoji Shrug
 
 # 🤷‍♀️ 🤷‍♂️ 🤷
