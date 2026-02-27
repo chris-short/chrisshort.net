@@ -17,7 +17,7 @@ title: Speaking
 
 {{< speaker >}}
 
-Looking for OpenShift.tv live streams (Red Hat Live Streaming) I hosted and/or produced? [Search my name on OpenShift's YouTube](https://www.youtube.com/@OpenShift/search?query=chris%20short").
+Looking for OpenShift.tv live streams (Red Hat Live Streaming) I hosted and/or produced? [Search my name on OpenShift's YouTube](https://www.youtube.com/@OpenShift/search?query="chris%20short").
 
 If you're looking for podcasts or interviews I've took part in, please head over to the [**Interviews**](/interviews/) page.
 
@@ -93,7 +93,7 @@ Date: 2022-05-17
 
 [**Watch Now**](/video/gitopscon-eu-2022/)
 
-I had the pleasure of opening and closing GitOpsCon EU 2022. It was the first time we had two tracks and the event was very well attended. I managed Track 2 while the other chairs managed the larger room on their own. I wrote about GitOpsCon EU 2022 (and the rest of KubeCon EU 2022) in [DevOps'ish 268](https://devopsish.com/268/).
+I had the pleasure of opening and closing GitOpsCon EU 2022. It was the first time we had two tracks and the event was very well attended. I managed Track 2 while the other chairs managed the larger room on their own. I wrote about GitOpsCon EU 2022 (and the rest of KubeCon EU 2022) in [DevOps'ish 268](https://old.devopsish.com/268/).
 
 ## AWS Container Days @ KubeCon + CloudNativeCon Europe 2022 — Day 3
 
