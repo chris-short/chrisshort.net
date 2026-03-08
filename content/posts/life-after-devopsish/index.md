@@ -12,7 +12,6 @@ description: An update on how I'm doing after shuttering the DevOps'ish newslett
 tags:
 - time
 - DevOps'ish
-- Work-Life
 - Balance
 - information
 - news

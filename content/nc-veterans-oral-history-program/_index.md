@@ -3,13 +3,13 @@ author: Chris Short
 date: "2016-05-21"
 description: ""
 tags:
-- air force
-- us air force
+- Air Force
+- US Air Force
 - internet
 - military
 - linux
 - google
-- interviews
+- interview
 title: North Carolina Veterans Oral History Program
 ---
 

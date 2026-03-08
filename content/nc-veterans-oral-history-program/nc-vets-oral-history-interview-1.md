@@ -9,13 +9,13 @@ cover:
 date: "2016-08-17"
 description: ""
 tags:
-- air force
-- us air force
+- Air Force
+- US Air Force
 - internet
 - military
 - linux
 - google
-- interviews
+- interview
 - veteran
 - USAF
 title: North Carolina Veterans Oral History Interview Part 1

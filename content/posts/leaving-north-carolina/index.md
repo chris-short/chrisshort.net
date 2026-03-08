@@ -8,7 +8,7 @@ tags:
 - work
 - life
 - balance
-- north carolina
+- North Carolina
 - Michigan
 title: Leaving North Carolina
 ---

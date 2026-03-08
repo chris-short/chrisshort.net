@@ -7,9 +7,8 @@ date: "2021-09-27"
 description: How to switch from git submodules to Hugo Modules
 tags:
 - git
-- hugo
+- Hugo
 - modules
-- submodules
 - theme
 - submodule
 - Netlify

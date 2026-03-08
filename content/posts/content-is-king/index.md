@@ -11,7 +11,7 @@ tags:
 - SEO
 - content
 - marketing
-- search engines
+- search engine
 - keywords
 - developers
 - webmasters

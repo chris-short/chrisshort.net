@@ -11,8 +11,7 @@ description: Chris Short from Red Hat talks Operators and Kubernetes with Rob Ze
 tags:
 - Chris Short
 - Rob Zehicle
-- Operator
-- Operators
+- Kubernetes Operators
 - Kubernetes
 - OpenShift
 - CRD

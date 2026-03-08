@@ -17,7 +17,7 @@ tags:
 - Air Force
 - North Carolina
 - Central Command
-- interviews
+- interview
 - veteran
 - USAF
 title: North Carolina Veterans Oral History Interview Part 2

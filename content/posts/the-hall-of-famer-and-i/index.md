@@ -8,11 +8,8 @@ date: "2016-05-27"
 description: ""
 draft: true
 tags:
-- richard childress
-- richard childress racing
-- air force
-- nascar
-- rcr
+- Air Force
+- NASCAR
 - hall of fame
 - USAF
 title: The Hall of Famer and I

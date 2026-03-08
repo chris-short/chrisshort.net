@@ -9,7 +9,7 @@ description: ""
 tags:
 - DevOps
 - podcast
-- interviews
+- interview
 title: DevOps Perspectives from the Front Lines
 ---
 
