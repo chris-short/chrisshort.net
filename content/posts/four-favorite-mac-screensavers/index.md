@@ -14,7 +14,6 @@ tags:
 - screensaver
 - Aerial
 - Apple
-- screensavers
 - fliqlo
 - padbury
 - clock

@@ -6,7 +6,7 @@ description: ""
 tags:
 - Microsoft
 - internet
-- windows xp
+- Windows XP
 title: Microsoft and the Death of the Internet
 ---
 

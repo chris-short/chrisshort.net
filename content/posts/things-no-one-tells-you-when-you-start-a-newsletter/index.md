@@ -15,7 +15,7 @@ tags:
 - DevOps
 - writing
 - open source
-- email
+- e-mail
 - template
 - rewarding
 - VScode

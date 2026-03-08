@@ -12,7 +12,7 @@ tags:
 - internet
 - cloudflare
 - diversity
-- bgp
+- BGP
 title: Why I'm Not Ditching Cloudflare
 ---
 

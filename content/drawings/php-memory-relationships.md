@@ -8,7 +8,7 @@ cover:
 date: "2015-10-09"
 description: ""
 tags:
-- php
+- PHP
 - memory
 - drawing
 title: PHP Memory Directives Relationship

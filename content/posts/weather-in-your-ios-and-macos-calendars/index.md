@@ -9,7 +9,7 @@ description: ""
 draft: true
 tags:
 - weather
-- ios
+- iOS
 - macos
 - calendar
 title: Weather in your iOS and macOS Calendars

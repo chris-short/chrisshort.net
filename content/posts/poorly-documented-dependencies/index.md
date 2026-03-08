@@ -9,7 +9,7 @@ description: ""
 tags:
 - Ansible
 - New Relic
-- nodejs
+- Node.js
 - npm
 - yum
 - dependency

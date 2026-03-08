@@ -10,7 +10,7 @@ description: It is with great pleasure that I can anounce that I have been named
   Cloud Native Computing Foundation Ambassador.
 tags:
 - cloud native
-- cncf
+- CNCF
 - kubernetes
 - ambassador
 title: Chris Short named Cloud Native Ambassador

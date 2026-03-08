@@ -7,7 +7,7 @@ cover:
 date: "2016-06-08"
 description: ""
 tags:
-- mac os x
+- Mac OS X
 - macos
 - VirtualBox
 - tools

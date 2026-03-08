@@ -6,7 +6,7 @@ description: ""
 tags:
 - Microsoft
 - open source
-- windows xp
+- Windows XP
 title: Microsoft and Open Source
 ---
 

@@ -4,8 +4,8 @@ date: "2016-05-10"
 description: ""
 tags:
 - interview
-- mac os x
-- windows 10
+- Mac OS X
+- Windows 10
 - linux
 - e-mail
 - environment

@@ -9,7 +9,7 @@ description: This is not a complete history of the series of Microsoft Windows.
 tags:
 - windows
 - Microsoft
-- windows xp
+- Windows XP
 title: Evolution of Windows
 ---
 

@@ -9,7 +9,7 @@ lastmod: "2025-01-23"
 description: "Developer Advocate & technical marketer with 30+ years in DevOps, Kubernetes, cloud native tech. Former CNCF Ambassador, 700+ hours video content, 6K+ newsletter subscribers. Available for hire."
 tags:
 - résumé
-- cv
+- CV
 - work experience
 - work history
 title: Chris Short Résumé

@@ -12,7 +12,7 @@ date: "2005-01-05"
 description: ""
 tags:
 - Microsoft
-- windows xp
+- Windows XP
 title: Windows XP and Big Hard Drives
 ---
 

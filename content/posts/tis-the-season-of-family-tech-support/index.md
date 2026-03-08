@@ -12,7 +12,7 @@ tags:
 - hardware
 - tech support
 - home
-- wifi
+- WiFi
 - house
 - family
 - internet
