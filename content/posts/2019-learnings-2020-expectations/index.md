@@ -43,10 +43,9 @@ A former co-worker and now friend has a tagline, â€œEvery day is a school day.â€
 
 This will allow for the Kubernetes project, much like Linux to an extent, to fade into the background. It's no longer a matter of is an org or isn't an org using Linux. It's `yum`/`dnf` versus `apt`/`apt-get` or, "What package manager am I using here?" Much like how I stopped caring about which distro I'm using, Kubernetes is starting to get the tooling around it to allow folks using it to focus on what matters, business logic.
 
-
 ## DevOps
 
-[Last year](/2018-learnings-2019-expectations/), I said I there will be less DevOps and more everything that makes up DevOps without actually calling it DevOps. I think that remains the case in 2020. It is why my [definition of DevOps](https://devopsish.com/what-is-devops/) is much more technical and broad than others' definitions:
+[Last year](/2018-learnings-2019-expectations/), I said I there will be less DevOps and more everything that makes up DevOps without actually calling it DevOps. I think that remains the case in 2020. It is why my definition of DevOps is much more technical and broad than others' definitions:
 
 > DevOps is the professional practice of frequent, continued, and iterative improvements through measurable changes, the goal of which is to become a high-velocity organization, thus improving business outcomes.
 
@@ -60,7 +59,7 @@ The good news this year is that DevOps has faded into the background a little bi
 
 ## Developer Experience
 
-If you were under a rock for the news of [Docker's demise](https://devopsish.com/154/), let me remind you that in 2020, Docker has no interest in enterprises and is all in on developer tooling. I think developer experience is going to be huge in 2020. No one will likely be able to build a mom and pop style business out of it but, it's going to be something a lot of companies focus on for the foreseeable future. I certainly believe Docker will not survive with this model. But, the fact Docker even thinks they have a chance at redemption by focusing on developer tooling or experience is noteworthy.
+If you were under a rock for the news of [Docker's demise](https://old.devopsish.com/154/), let me remind you that in 2020, Docker has no interest in enterprises and is all in on developer tooling. I think developer experience is going to be huge in 2020. No one will likely be able to build a mom and pop style business out of it but, it's going to be something a lot of companies focus on for the foreseeable future. I certainly believe Docker will not survive with this model. But, the fact Docker even thinks they have a chance at redemption by focusing on developer tooling or experience is noteworthy.
 
 
 A lot of the work I've been doing the past six months is around creating great experiences and interactions with technology. A lot of this is education but, more of it is thoughtful workflows, empathy, and understanding. Developers have more choice than ever before. IDEs are truly awesome nowadays, containers have made environments more manageable, and APIs are everywhere. I don't interact with databases or filesystems as much as I interact with APIs these days. These abstractions are hopefully adding safeties and improving things. But, much like the satellite constellations, I wonder how much space there is for an API for everything world. This isn't a 2020 concern though.
@@ -117,7 +116,7 @@ Nothing hurt as bad as the VA telling me there was nothing else they could do fo
 
 ## DevOps'ish
 
-[One hundred sixty issues and still going strong](https://devopsish.com/160/). I did take my first vacation from the newsletter ever this year when we went to Yosemite. But, the newsletter is at a weird point. It needs promotion to grow, but I need sponsors to get the funding to promote it. Marketing is hard. It's even harder when you're the one touching the dollars and cents too. But, I did manage to build a shiny, new [DevOps'ish Sponsorship Prospectus](https://shortcdn.com/devopsish/DevOps'ish_Sponsorship_Prospectus.pdf). If you work at a company that wants to market to Kubernetes, cloud, developer, and DevOps folks every week, send it over to your marketing and events teams.
+[One hundred sixty issues and still going strong](https://old.devopsish.com/160/). I did take my first vacation from the newsletter ever this year when we went to Yosemite. But, the newsletter is at a weird point. It needs promotion to grow, but I need sponsors to get the funding to promote it. Marketing is hard. It's even harder when you're the one touching the dollars and cents too. But, I did manage to build a shiny, new [DevOps'ish Sponsorship Prospectus](https://shortcdn.com/devopsish/DevOps'ish_Sponsorship_Prospectus.pdf). If you work at a company that wants to market to Kubernetes, cloud, developer, and DevOps folks every week, send it over to your marketing and events teams.
 
 Another noteworthy moment about sponsorships of DevOps'ish: This year was the first year I had to decline a sponsorship due to a potential quid pro quo situation. It's hard to balance working at a vendor and writing a newsletter about the parts of the same industry. If a prospective Red Hat partner is working with me on something and mentions DevOps'ish sponsorship, I have to say no. I think for the first time, I will have to talk to counsel about [DevOps'ish](https://devopsish.com/) in 2020.
 

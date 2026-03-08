@@ -26,7 +26,7 @@ title: 'Reader question: What are your favorite cultural shifts from the last ye
   (and more)'
 ---
 
-*This article first appeared in [DevOps'ish 210](https://devopsish.com/210/) and was 100% inspired by [K Rain Leander](https://twitter.com/rainleander/status/1373299864902246400)*
+*This article first appeared in [DevOps'ish 210](https://old.devopsish.com/210/) and was 100% inspired by [K Rain Leander](https://twitter.com/rainleander/status/1373299864902246400)*
 
 
 The idea for the subject of this article came from [K Rain Leander](https://twitter.com/rainleander/status/1373299864902246400). Rain asks...

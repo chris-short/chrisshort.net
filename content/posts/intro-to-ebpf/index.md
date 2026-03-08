@@ -109,10 +109,9 @@ If you want to contribute to eBPF or the eBPF development toolchains, feel free 
 [20]: https://github.com/aquasecurity/tracee
 [21]: https://github.com/microsoft/ebpf-for-windows
 [22]: https://engineering.fb.com/2018/05/22/open-source/open-sourcing-katran-a-scalable-network-load-balancer/
-[23]: https://devopsish.com/278/
+[23]: https://old.devopsish.com/278/
 [24]: https://ebpf.io/projects
 [25]: https://syscall.sh/
 [26]: https://ebpf.io/what-is-ebpf/#ebpf-safety
 [27]: https://ebpf.io/contribute
 [28]: https://creativecommons.org/licenses/by/4.0/
-
