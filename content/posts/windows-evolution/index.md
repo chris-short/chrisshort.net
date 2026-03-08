@@ -7,7 +7,7 @@ cover:
 date: "2003-03-03"
 description: This is not a complete history of the series of Microsoft Windows.
 tags:
-- windows
+- Windows
 - Microsoft
 - Windows XP
 title: Evolution of Windows
