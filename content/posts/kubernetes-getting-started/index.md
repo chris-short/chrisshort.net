@@ -11,7 +11,7 @@ tags:
 - kubernetes
 - minishift
 - minikube
-- coreos
+- CoreOS
 - tectonic
 - cloud native
 title: 'Kubernetes: Getting Started'

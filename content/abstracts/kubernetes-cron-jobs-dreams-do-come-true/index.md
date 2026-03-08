@@ -5,7 +5,7 @@ author: Chris Short
 date: "2018-03-01"
 description: ""
 tags:
-- devops
+- DevOps
 - kubernetes
 - cfp
 title: 'Kubernetes Cron Jobs: Dreams Really Do Come True'

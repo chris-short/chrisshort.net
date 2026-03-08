@@ -4,9 +4,9 @@ author: Chris Short
 date: "2003-10-09"
 description: ""
 tags:
-- microsoft
+- Microsoft
 - internet
-- windows xp
+- Windows XP
 title: Microsoft and the Death of the Internet
 ---
 

@@ -7,10 +7,10 @@ cover:
 date: "2017-01-23"
 description: ""
 tags:
-- gitlab
+- GitLab
 - git
 - test kitchen
-- ansible
+- Ansible
 - DevOps
 - vcs
 title: 'GitLab Annoyance: Private to Public Repos'

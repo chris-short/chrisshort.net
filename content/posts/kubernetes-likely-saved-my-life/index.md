@@ -12,7 +12,7 @@ description: Kubernetes contributor Chris Short recounts how the open source pro
   saved his life while struggling with PTSD, anxiety, and depression.
 tags:
 - Kubernetes
-- Open Source
+- open source
 - mental health
 - EMDR
 - community

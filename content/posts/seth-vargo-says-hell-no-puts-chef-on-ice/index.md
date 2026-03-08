@@ -13,7 +13,7 @@ tags:
 - DevOps
 - Chef
 - Seth Vargo
-- Open Source
+- open source
 - impact
 title: Seth Vargo says hell no—puts Chef on ICE
 ---

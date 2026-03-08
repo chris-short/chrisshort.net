@@ -4,7 +4,7 @@ author: Chris Short
 date: "2003-04-23"
 description: NTP is designed to keep accurate local time keeping.
 tags:
-- ntp
+- NTP
 - time
 - clock
 title: 'NTP: You Can Use It'

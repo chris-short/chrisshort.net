@@ -4,7 +4,7 @@ date: "2018-06-11"
 description: ""
 tags:
 - drawing
-- devops
+- DevOps
 - talks
 title: What the Military Taught Me About DevOps Graphic Recording
 ---

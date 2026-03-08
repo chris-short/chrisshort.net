@@ -7,7 +7,7 @@ cover:
 date: "2016-04-12"
 description: ""
 tags:
-- ansible
+- Ansible
 - samba
 - badlock
 - yum

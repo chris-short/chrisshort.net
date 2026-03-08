@@ -12,13 +12,13 @@ tags:
 - military
 - mission
 - war
-- north carolina
-- air force
-- us air force
-- north carolina veterans
-- interviews
+- North Carolina
+- Air Force
+- US Air Force
+- North Carolina veterans
+- interview
 - veteran
-- usaf
+- USAF
 title: North Carolina Veterans Oral History Interview Part 3
 ---
 

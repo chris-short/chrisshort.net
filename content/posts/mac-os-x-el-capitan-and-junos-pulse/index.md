@@ -7,12 +7,12 @@ cover:
 date: "2015-10-06"
 description: ""
 tags:
-- junos pulse
-- apple keychain
-- mac os x
-- el capitan
-- apple
-- macos
+- Junos Pulse
+- Apple Keychain
+- Mac OS X
+- El Capitan
+- Apple
+- macOS
 title: Mac OS X El Capitan and Junos Pulse
 ---
 

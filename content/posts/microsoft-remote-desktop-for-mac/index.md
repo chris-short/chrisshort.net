@@ -4,8 +4,8 @@ author: Chris Short
 date: "2016-06-09"
 description: ""
 tags:
-- mac os x
-- microsoft
+- Mac OS X
+- Microsoft
 - macos
 title: Microsoft Remote Desktop for Mac
 ---

@@ -9,7 +9,7 @@ description: ""
 tags:
 - linux
 - open source
-- windows xp
+- Windows XP
 title: Moving to Linux - Linux Hopes Dashed
 ---
 

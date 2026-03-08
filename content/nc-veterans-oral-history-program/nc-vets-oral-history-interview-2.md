@@ -11,15 +11,14 @@ description: ""
 tags:
 - war
 - communications
-- iraq
-- afghanistan
-- veterans
-- air force
-- north carolina
-- central command
-- interviews
+- Iraq
+- Afghanistan
+- Air Force
+- North Carolina
+- Central Command
+- interview
 - veteran
-- usaf
+- USAF
 title: North Carolina Veterans Oral History Interview Part 2
 ---
 

@@ -7,10 +7,9 @@ cover:
 date: "2016-06-21"
 description: ""
 tags:
-- hate
 - fear
-- lgbt
-- lgbtq
+- LGBT
+- LGBTQ
 - culture
 - philosophy
 title: Understanding, Fear, and Hate

@@ -11,7 +11,7 @@ date: "2016-09-14"
 description: The Notorious B.I.G. was one of the best rappers ever. This is the definitive
   collection of the best Notorious B.I.G. remixes and mashups ever created.
 tags:
-- notorious big
+- Notorious B.I.G.
 - mashup
 - remix
 - hip hop

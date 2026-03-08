@@ -7,8 +7,8 @@ cover:
 date: "2015-10-09"
 description: ""
 tags:
-- lastpass
-- logmein
+- LastPass
+- LogMeIn
 - acquisition
 - security
 title: LastPass Sells Out to LogMeIn

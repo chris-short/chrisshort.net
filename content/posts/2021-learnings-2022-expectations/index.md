@@ -21,7 +21,7 @@ tags:
 - cluster
 - Artifact Hub
 - pandemic
-- working from home
+- work from home
 - CNCF
 - Intel
 - compute

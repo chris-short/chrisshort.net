@@ -6,7 +6,7 @@ date: "2018-11-19"
 description: ""
 draft: true
 tags:
-- devops
+- DevOps
 - culture
 - cfp
 title: Teaching People Life Lessons aka DevOps

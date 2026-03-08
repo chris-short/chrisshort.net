@@ -9,9 +9,9 @@ date: "2018-06-01"
 description: ""
 tags:
 - talks
-- devops
-- devopsdays
-- toronto
+- DevOps
+- DevOpsDays
+- Toronto
 - military
 - public speaking
 title: 'DevOpsDays Toronto 2018: What the Military Taught Me About DevOps'

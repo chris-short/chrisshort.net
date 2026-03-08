@@ -35,9 +35,7 @@ tags:
 - spasms
 - spine
 - spine damage
-- trigger point
 - trigger point injections
-- trigger points
 - winged scapula
 - winging scapula
 title: My Disability

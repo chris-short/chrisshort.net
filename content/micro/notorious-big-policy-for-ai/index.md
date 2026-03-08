@@ -4,7 +4,7 @@ author: Chris Short
 date: "2025-04-11"
 description: "Learn how Biggie's wisdom inspired a redundancy approach for AI: using multiple AI tools to validate outputs, prevent errors, and produce better outputs. The Notorious B.I.G. Policy for AI Use explained."
 tags:
-- GenAI
+- Generative AI
 - Generative AI
 - AI
 - AI artifacts

@@ -9,11 +9,11 @@ date: "2018-06-07"
 description: Red Hat invited me to speak at DevNationFederal. The organizers requested I present my DevOps is Not War talk to technologists in the Washington DC area.
 tags:
 - talks
-- devops
-- devnation federal
+- DevOps
+- DevNation Federal
 - war
 - cloud
-- red hat
+- Red Hat
 - public speaking
 title: 'DevNationFederal 2018: DevOps is Not War'
 ---

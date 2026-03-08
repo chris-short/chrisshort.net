@@ -5,7 +5,7 @@ author: Chris Short
 date: "2018-03-07"
 description: ""
 tags:
-- devops
+- DevOps
 - cfp
 - cloud
 title: 'Lessons Learned from Cloud Migrations: Planning is Everything'

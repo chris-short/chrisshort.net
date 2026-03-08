@@ -5,7 +5,7 @@ author: Chris Short
 date: "2018-02-28"
 description: ""
 tags:
-- devops
+- DevOps
 - job
 - career
 - culture

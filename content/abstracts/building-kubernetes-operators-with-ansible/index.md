@@ -6,9 +6,8 @@ date: "2019-08-07"
 description: ""
 tags:
 - Kubernetes
-- Operators
-- Ansible
 - Kubernetes Operators
+- Ansible
 title: Building Kubernetes Operators in an Ansible-native way
 ---
 

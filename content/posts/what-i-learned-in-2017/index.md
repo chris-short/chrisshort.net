@@ -9,7 +9,7 @@ tags:
 - philosophy
 - life
 - kubernetes
-- devops
+- DevOps
 - job
 - Michigan
 title: What I Learned in 2017

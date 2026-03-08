@@ -13,11 +13,11 @@ tags:
 - philosophy
 - life
 - kubernetes
-- devops
-- site reliability engineering
-- sre
+- DevOps
+- Site Reliability Engineering
+- SRE
 - Impostor Syndrome
-- kubekhan
+- KubeKhan
 - people
 - folks
 title: 2018 Learnings, 2019 Expectations

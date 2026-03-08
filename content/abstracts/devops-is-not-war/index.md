@@ -8,10 +8,10 @@ author: Chris Short
 date: "2018-03-02"
 description: ""
 tags:
-- devops
+- DevOps
 - culture
-- thucydides
-- thucydides trap
+- Thucydides
+- Thucydides Trap
 - cfp
 title: DevOps is not War
 ---

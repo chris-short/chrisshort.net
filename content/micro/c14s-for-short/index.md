@@ -4,7 +4,7 @@ author: Chris Short
 date: "2019-01-08"
 description: Christophernetes
 tags:
-- twitter
+- Twitter
 - kubernetes
 title: c14s for Short
 ---

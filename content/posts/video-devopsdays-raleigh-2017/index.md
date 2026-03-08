@@ -7,8 +7,8 @@ cover:
 date: "2017-10-11"
 description: Video of Chris Short during two DevOpsDays Raleigh 2017 Events
 tags:
-- devops
-- devopsdays
+- DevOps
+- DevOpsDays
 - talks
 title: 'Video: DevOpsDays Raleigh 2017'
 ---

@@ -7,20 +7,20 @@ date: "2018-02-14"
 description: Kubernetes Cron Jobs are a new thing. Since Kuberenetes Cron Jobs build
   on top of the existing Job functionality, I know that the job will be run to completion.
 tags:
-- kubernetes
-- kubernetes cluster
-- k8s
+- Kubernetes
+- Kubernetes cluster
+- K8s
 - cloud native
 - cron
 - cron job
 - cronjob
 - cronjobs
 - cron jobs
-- raspberry pi
-- docker
+- Raspberry Pi
+- Docker
 - docker build
-- docker registry
-- google container registry
+- Docker Registry
+- Google Container Registry
 title: 'Kubernetes: Cron Jobs'
 ---
 

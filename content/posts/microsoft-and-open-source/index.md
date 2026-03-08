@@ -4,9 +4,9 @@ author: Chris Short
 date: "2003-03-06"
 description: ""
 tags:
-- microsoft
+- Microsoft
 - open source
-- windows xp
+- Windows XP
 title: Microsoft and Open Source
 ---
 

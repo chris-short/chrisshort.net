@@ -9,8 +9,8 @@ cover:
 date: "2015-10-06"
 description: ""
 tags:
-- microsoft
-- windows 10
+- Microsoft
+- Windows 10
 - marketing
 title: What's Wrong with Microsoft's Windows 10 Marketing
 ---

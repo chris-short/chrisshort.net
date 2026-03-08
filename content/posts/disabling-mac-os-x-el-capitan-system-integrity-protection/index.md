@@ -4,13 +4,13 @@ author: Chris Short
 date: "2015-10-13"
 description: ""
 tags:
-- apple
-- mac os x
-- el capitan
+- Apple
+- Mac OS X
+- El Capitan
 - security
-- system integrity protection
-- sip
-- macos
+- System Integrity Protection
+- SIP
+- macOS
 - users
 title: Disabling Mac OS X El Capitan System Integrity Protection
 ---

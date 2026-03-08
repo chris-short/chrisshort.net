@@ -11,8 +11,8 @@ date: "2007-01-18"
 description: Internet Explorer (IE) is one of the most unsecured browsers on the planet.
   In 2006, IE was unsecure for 284 according to Brian Krebs.
 tags:
-- firefox
-- microsoft
+- Firefox
+- Microsoft
 - security
 - open source
 title: IE Unsecure for Over 9 Months in 2006, Firefox, Nine Days

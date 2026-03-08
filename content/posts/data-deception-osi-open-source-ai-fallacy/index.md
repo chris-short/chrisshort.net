@@ -11,7 +11,7 @@ date: "2024-07-23"
 description: The OSI's draft Open Source AI Definition could harm open source by allowing
   non-reproducible data, enabling openwashing, and threatening transparency.
 tags:
-- Open Source
+- open source
 - Data
 - Artificial Intelligence
 - OSI

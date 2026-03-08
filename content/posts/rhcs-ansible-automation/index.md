@@ -9,8 +9,8 @@ date: "2019-01-07"
 description: The longer someone uses a tool the less they tend to pick up new features.
   Getting certified shows that while learning Kubernetes I was still keeping up.
 tags:
-- red hat
-- ansible
+- Red Hat
+- Ansible
 - product
 - marketing
 - automation

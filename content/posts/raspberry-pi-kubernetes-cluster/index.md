@@ -10,12 +10,12 @@ date: "2018-01-17"
 description: ""
 tags:
 - open source
-- ansible
+- Ansible
 - containers
 - kubernetes
-- raspberry pi
+- Raspberry Pi
 - ARM
-- k8s
+- K8s
 - cluster
 title: Raspberry Pi Kubernetes Cluster
 ---

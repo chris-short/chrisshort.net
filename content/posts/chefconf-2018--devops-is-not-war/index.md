@@ -11,8 +11,8 @@ description: I was able to meet 1,400 new friends while I was at ChefConf 2018 (
   audience.
 tags:
 - talks
-- devops
-- chefconf
+- DevOps
+- ChefConf
 - war
 - cloud
 - public speaking

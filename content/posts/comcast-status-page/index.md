@@ -18,13 +18,12 @@ tags:
 - network
 - forced
 - outage
-- outages
 - problem
 - modem
 - blame
 - area
 - connectivity
-- wifi
+- WiFi
 - replace
 title: Having a status page forced Comcast to fix my internet
 ---

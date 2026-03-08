@@ -14,7 +14,6 @@ tags:
 - eBPF
 - Linux
 - kernel
-- eBPF programs
 - network
 - observability
 - security

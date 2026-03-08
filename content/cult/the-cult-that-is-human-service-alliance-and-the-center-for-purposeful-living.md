@@ -9,10 +9,9 @@ description: ""
 series: The cult I was forced to join as child
 tags:
 - center for purposeful living
-- human service alliance
+- Human Service Alliance
 - HSA
 - foundation for purposeful living
-- derwyn lackey
 title: The Cult that is Human Service Alliance and the Center for Purposeful Living
 ---
 

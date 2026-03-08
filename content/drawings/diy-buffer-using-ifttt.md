@@ -7,7 +7,7 @@ description: ""
 draft: true
 tags:
 - social media
-- ifttt
+- IFTTT
 - buffer
 - drawing
 title: DIY Buffer using IFTTT

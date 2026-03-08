@@ -5,7 +5,7 @@ date: "2010-07-27"
 description: ""
 tags:
 - video games
-- wii sports
+- Wii Sports
 - Nintendo
 title: 'Review: Wii Sports Resort'
 ---

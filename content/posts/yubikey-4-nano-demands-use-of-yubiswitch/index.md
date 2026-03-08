@@ -8,7 +8,7 @@ date: "2016-02-27"
 description: ""
 tags:
 - yubikey
-- mac os x
+- Mac OS X
 - macos
 title: Yubikey 4 Nano Demands Use of yubiswitch
 ---

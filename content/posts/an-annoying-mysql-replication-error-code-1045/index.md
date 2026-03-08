@@ -8,7 +8,7 @@ cover:
 date: "2015-10-05"
 description: ""
 tags:
-- mysql
+- MySQL
 - replication
 title: 'An Annoying MySQL Replication Error Code: 1045'
 ---

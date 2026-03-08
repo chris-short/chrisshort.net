@@ -9,7 +9,7 @@ date: "2018-07-23"
 description: There are many military phrases that I have used for a long time that
   could be in greater use in the DevOps space.
 tags:
-- devops
+- DevOps
 - military
 title: Military Phrases For Use in DevOps
 ---

@@ -12,14 +12,14 @@ tags:
 - hardware
 - tech support
 - home
-- wifi
+- WiFi
 - house
 - family
 - internet
 - support
 - modem
 - Google WiFi
-- comcast
+- Comcast
 - wireless
 title: '''Tis the Season of Family Tech Support'
 ---

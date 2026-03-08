@@ -12,7 +12,7 @@ tags:
 - AnsibleFest
 - automation
 - Kubernetes
-- operators
+- Kubernetes Operators
 - Red Hat
 title: AnsibleFest Atlanta 2019 Trip Report
 ---

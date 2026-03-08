@@ -9,10 +9,10 @@ cover:
 date: "2007-02-01"
 description: Four reasons why upgrading to Windows Vista is a REALLY bad idea.
 tags:
-- microsoft
-- windows
-- vista
-- windows xp
+- Microsoft
+- Windows
+- Windows Vista
+- Windows XP
 title: 'Windows Vista: Upgrading Seems Like a Really Bad Idea'
 ---
 I've come to the conclusion that upgrading to Windows Vista would be a horrible decision; allow me to explain why.

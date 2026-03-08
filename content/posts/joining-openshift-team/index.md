@@ -11,7 +11,7 @@ tags:
 - Red Hat
 - Kubernetes
 - Ansible
-- Operators
+- Kubernetes Operators
 - Cloud Native
 title: Joining forces with OpenShift
 ---
