@@ -9,7 +9,7 @@ description: I recently spoke at AWS Michigan about cloud migrations. The talk w
   AWS specific. We did talk about it. From defining cloud to prioritization to cost
   overruns...
 tags:
-- devops
+- DevOps
 - AWS
 - Michigan
 - talks

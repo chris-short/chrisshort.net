@@ -8,7 +8,7 @@ description: ""
 tags:
 - Go
 - golang
-- devops
+- DevOps
 - talks
 - videos
 - public speaking

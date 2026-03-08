@@ -6,7 +6,7 @@ date: "2018-03-02"
 description: ""
 draft: true
 tags:
-- devops
+- DevOps
 - culture
 - Thucydides
 - Thucydides Trap

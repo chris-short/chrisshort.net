@@ -11,7 +11,7 @@ lastmod: "2025-01-12"
 description: orkut.com is a social networking service developed in association with Google.
 tags:
 - social media
-- google
+- Google
 title: orkut.com - Google's First Social Network
 ---
 

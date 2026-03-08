@@ -10,7 +10,7 @@ description: Jason Hibbets and Chris Short spoke about the DevOps Pit of Misery 
 tags:
 - open source
 - diversity
-- devops
+- DevOps
 - talks
 - culture
 title: Open Source 101 Raleigh 2018

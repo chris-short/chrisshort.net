@@ -6,8 +6,8 @@ author: Chris Short
 date: "2025-06-08"
 description: What books 📚 to read to learn more about Kubernetes
 tags:
-- kubernetes
-- readme
+- Kubernetes
+- README
 title: Kubernetes README
 ---
 

@@ -8,7 +8,7 @@ tags:
 - internet
 - military
 - linux
-- google
+- Google
 - interview
 title: North Carolina Veterans Oral History Program
 ---

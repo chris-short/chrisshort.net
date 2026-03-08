@@ -9,8 +9,8 @@ date: "2018-06-01"
 description: ""
 tags:
 - talks
-- devops
-- devopsdays
+- DevOps
+- DevOpsDays
 - Toronto
 - military
 - public speaking

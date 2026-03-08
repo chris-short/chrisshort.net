@@ -11,7 +11,7 @@ description: There is movement around how consumers will be gaining access to th
   Internet. Your future Internet connection will not be a physical connection at all.
 tags:
 - internet
-- google
+- Google
 - fiber
 - wireless
 - Verizon

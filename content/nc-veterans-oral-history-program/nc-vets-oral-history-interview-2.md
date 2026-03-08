@@ -13,7 +13,6 @@ tags:
 - communications
 - Iraq
 - Afghanistan
-- veterans
 - Air Force
 - North Carolina
 - Central Command

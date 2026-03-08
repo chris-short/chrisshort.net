@@ -9,7 +9,7 @@ description: 'I created a new Go talk for this group. I hope to reuse it to enli
   people on the awesomeness of Go. This talk is title Go: Enabling DevOps To Go Faster.'
 tags:
 - open source
-- devops
+- DevOps
 - go
 - golang
 - talks

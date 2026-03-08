@@ -7,7 +7,7 @@ date: "2019-03-10"
 description: ""
 draft: true
 tags:
-- devops
+- DevOps
 - culture
 - cfp
 title: 'DevOps is Not War: No One Dies When Prod Goes Down'

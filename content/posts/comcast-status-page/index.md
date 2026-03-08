@@ -18,7 +18,6 @@ tags:
 - network
 - forced
 - outage
-- outages
 - problem
 - modem
 - blame
