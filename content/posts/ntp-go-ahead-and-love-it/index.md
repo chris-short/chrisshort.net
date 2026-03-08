@@ -9,7 +9,7 @@ cover:
 date: "2016-11-02"
 description: ""
 tags:
-- ntp
+- NTP
 - stratum
 - time
 - clock

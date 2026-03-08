@@ -35,7 +35,7 @@ tags:
 - container
 - nodes
 - DNS
-- operator
+- Operator
 title: Lucas Käldström and Chris Short Talk Kubernetes, Physics, and more
 ---
 

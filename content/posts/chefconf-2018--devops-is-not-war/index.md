@@ -12,7 +12,7 @@ description: I was able to meet 1,400 new friends while I was at ChefConf 2018 (
 tags:
 - talks
 - devops
-- chefconf
+- ChefConf
 - war
 - cloud
 - public speaking

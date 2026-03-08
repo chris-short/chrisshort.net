@@ -10,8 +10,8 @@ description: ""
 tags:
 - devops
 - culture
-- thucydides
-- thucydides trap
+- Thucydides
+- Thucydides Trap
 - cfp
 title: DevOps is not War
 ---

@@ -11,7 +11,6 @@ draft: true
 tags:
 - internet
 - cloudflare
-- hate
 - diversity
 - bgp
 title: Why I'm Not Ditching Cloudflare

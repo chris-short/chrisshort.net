@@ -9,7 +9,7 @@ cover:
 date: "2007-02-01"
 description: Four reasons why upgrading to Windows Vista is a REALLY bad idea.
 tags:
-- microsoft
+- Microsoft
 - windows
 - vista
 - windows xp

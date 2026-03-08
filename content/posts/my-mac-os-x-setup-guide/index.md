@@ -9,7 +9,7 @@ description: ""
 tags:
 - mac os x
 - macos
-- virtualbox
+- VirtualBox
 - tools
 title: My Mac OS X Setup Guide
 ---

@@ -7,8 +7,8 @@ cover:
 date: "2016-05-23"
 description: ""
 tags:
-- ansible
-- new relic
+- Ansible
+- New Relic
 - nodejs
 - npm
 - yum

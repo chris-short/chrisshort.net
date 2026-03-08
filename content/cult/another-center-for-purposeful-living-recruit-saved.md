@@ -6,7 +6,7 @@ date: "2005-12-19"
 description: ""
 tags:
 - center for purposeful living
-- human service alliance
+- Human Service Alliance
 - HSA
 - foundation for purposeful living
 series: The cult I was forced to join as child

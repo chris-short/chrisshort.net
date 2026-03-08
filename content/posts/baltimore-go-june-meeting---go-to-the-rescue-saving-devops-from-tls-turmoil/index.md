@@ -12,11 +12,11 @@ description: The Baltimore Go Meetup is top notch. Hosted at the Under Armour he
   they really left nothing to be desired from my perspective.
 tags:
 - talks
-- devops
+- DevOps
 - go
 - golang
-- baltimore
-- tls
+- Baltimore
+- TLS
 - public speaking
 title: 'Baltimore Go June Meeting - Go to the Rescue: Saving DevOps from TLS Turmoil'
 ---

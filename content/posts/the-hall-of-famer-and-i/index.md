@@ -14,7 +14,7 @@ tags:
 - nascar
 - rcr
 - hall of fame
-- usaf
+- USAF
 title: The Hall of Famer and I
 ---
 

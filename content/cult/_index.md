@@ -21,7 +21,6 @@ tags:
 - Human Service Alliance
 - Sugar Valley Airport
 - University for Human Goodness
-- Derwyn Lackey
 - Lee W Kosub
 title: The cult I was forced to join as child
 ---

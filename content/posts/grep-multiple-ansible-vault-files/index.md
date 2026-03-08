@@ -8,7 +8,7 @@ cover:
   alt: Blue Ansible logo
   relative: true
 tags:
-- ansible
+- Ansible
 - ansible-vault
 - grep
 title: Grep Multiple Ansible Vault Files

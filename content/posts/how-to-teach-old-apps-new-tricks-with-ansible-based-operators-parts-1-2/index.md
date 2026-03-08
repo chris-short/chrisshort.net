@@ -9,7 +9,7 @@ tags:
 - Kubernetes
 - Operator
 - Ansible
-- operators
+- Kubernetes Operator
 - talk
 - app
 title: How to Teach Old Apps New Tricks with Ansible-based Operators (Parts 1 & 2)

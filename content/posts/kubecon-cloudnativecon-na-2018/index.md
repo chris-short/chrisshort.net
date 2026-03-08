@@ -8,21 +8,21 @@ cover:
 date: "2018-12-21"
 description: A recap of what I did at KubeCon + CloudNativeCon North America 2018
 tags:
-- kubernetes
+- Kubernetes
 - cloud native
-- kubekhan
-- kubecon
+- KubeKhan
+- KubeCon
 - mentorship
 - contributor
 - experience
 - community
-- cloudnativecon
+- CloudNativeCon
 - summit
 - BoF
 - birds of a feather
 - CNCF
 - people
-- seattle
+- Seattle
 - volunteering
 title: My KubeCon + CloudNativeCon NA 2018 Recap
 ---

@@ -14,8 +14,8 @@ tags:
 - life
 - kubernetes
 - devops
-- site reliability engineering
-- sre
+- Site Reliability Engineering
+- SRE
 - Impostor Syndrome
 - kubekhan
 - people

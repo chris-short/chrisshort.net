@@ -8,8 +8,8 @@ draft: true
 tags:
 - devops
 - culture
-- thucydides
-- thucydides trap
+- Thucydides
+- Thucydides Trap
 - cfp
 title: Letting Perfection Defeat Good
 ---

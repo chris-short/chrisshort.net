@@ -5,7 +5,7 @@ date: "2016-10-11"
 description: ""
 draft: true
 tags:
-- ansible
+- Ansible
 title: Ansible Galaxy is Open
 ---
 

@@ -11,7 +11,7 @@ description: Microsoft announced that it would share Microsoft Office 2003 sourc
 tags:
 - Microsoft
 - open source
-- nsa
+- NSA
 title: Microsoft Opens Up Kinda
 ---
 

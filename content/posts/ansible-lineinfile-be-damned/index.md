@@ -11,7 +11,7 @@ cover:
   image: Ansible-Mark-Large-RGB-Black.png
   relative: true
 tags:
-- ansible
+- Ansible
 - lineinfile
 - module
 - security

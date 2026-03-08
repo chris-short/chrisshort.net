@@ -8,7 +8,7 @@ cover:
     alt: Red Ansible logo
     relative: true
 tags:
-- ansible
+- Ansible
 - ansible-vault
 - security
 title: Using Ansible Vault Effectively

@@ -8,12 +8,12 @@ description: ""
 tags:
 - sed
 - gnu
-- bsd
-- mac os x
-- apple
-- system integrity protection
+- BSD
+- Mac OS X
+- Apple
+- System Integrity Protection
 - sip
-- macos
+- macOS
 - tools
 title: GNU sed on Mac OS X
 ---

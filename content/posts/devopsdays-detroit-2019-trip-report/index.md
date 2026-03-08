@@ -19,7 +19,7 @@ tags:
 - metrics
 - data
 - vendor pitch
-- red hat
+- Red Hat
 - engineering
 title: DevOpsDays Detroit 2019 Trip Report
 ---

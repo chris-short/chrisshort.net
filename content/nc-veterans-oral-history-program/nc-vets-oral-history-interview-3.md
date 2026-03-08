@@ -18,7 +18,7 @@ tags:
 - north carolina veterans
 - interviews
 - veteran
-- usaf
+- USAF
 title: North Carolina Veterans Oral History Interview Part 3
 ---
 

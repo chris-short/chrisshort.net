@@ -7,8 +7,8 @@ cover:
 date: "2013-05-03"
 description: ""
 tags:
-- virtualbox
-- centos
+- VirtualBox
+- CentOS
 title: Install VirtualBox Guest Additions via Command Line
 ---
 

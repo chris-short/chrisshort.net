@@ -19,7 +19,7 @@ tags:
 - support
 - modem
 - Google WiFi
-- comcast
+- Comcast
 - wireless
 title: '''Tis the Season of Family Tech Support'
 ---

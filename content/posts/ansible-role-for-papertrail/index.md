@@ -5,7 +5,7 @@ date: "2016-12-09"
 description: Setup Papertrail with a role for Ansible Galaxy
 draft: true
 tags:
-- ansible
+- Ansible
 - DevOps
 - cloud native
 title: Ansible Role for Papertrail

@@ -11,7 +11,7 @@ cover:
 date: "2005-01-05"
 description: ""
 tags:
-- microsoft
+- Microsoft
 - windows xp
 title: Windows XP and Big Hard Drives
 ---

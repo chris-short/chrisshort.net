@@ -6,8 +6,8 @@ author: Chris Short
 date: "2013-09-19"
 description: ""
 tags:
-- tim tebow
-- florida gators
+- Tim Tebow
+- Florida Gators
 title: Tim Tebow seen working out on a USC baseball field
 ---
 

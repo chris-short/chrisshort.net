@@ -4,12 +4,12 @@ author: Chris Short
 date: "2015-10-05"
 description: ""
 tags:
-- apple keychain
-- apple
-- mac os x
-- el capitan
-- junos pulse
-- macos
+- Apple Keychain
+- Apple
+- Mac OS X
+- El Capitan
+- Junos Pulse
+- macOS
 title: 'Mac OS X El Capitan: Keychain Issues'
 ---
 

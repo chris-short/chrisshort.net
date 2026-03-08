@@ -5,7 +5,7 @@ date: "2016-06-09"
 description: ""
 tags:
 - mac os x
-- microsoft
+- Microsoft
 - macos
 title: Microsoft Remote Desktop for Mac
 ---
