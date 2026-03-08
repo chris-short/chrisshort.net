@@ -22,4 +22,4 @@ Dan stuck up for Ambassadors too, even in the face of enormous pressure. We are 
 
 Dan was one of the folks out there trying to take the skills and talents they had to try to make the world a better place. Agree or disagree on anything, sure. But, I respect the hell out of someone like Dan. His impact has been made. Dan Kohn's legacy is a sea change in the technology landscape like the world hadn't seen since the introduction of the Linux kernel. Dan will truly be missed.
 
-This was used in the intro to [DevOps'ish 191](https://devopsish.com/191/) and a portion of this article [was used here as well](https://github.com/cncf/memorials/blob/master/dan-kohn.md).
+This was used in the intro to [DevOps'ish 191](https://old.devopsish.com/191/) and a portion of this article [was used here as well](https://github.com/cncf/memorials/blob/master/dan-kohn.md).

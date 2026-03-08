@@ -21,16 +21,6 @@ title: DevOps README
 
 "**You are either building a learning organization or you will be losing to someone who is.**" --Andrew Clay Shafer
 
-## What is DevOps
-
-* Provides a high-level defintion of DevOps
-* Attempts to balance the needs of operations, development, and organizations
-* A foundation from which to build a better definition
-* Pros: Valiant effort with feedback from a few well know DevOps professionals
-* Cons: It only defines the principle of DevOps, it does not show how it is done
-* Quip: It's better than nothing
-* URL: [What is DevOps](https://devopsish.com/what-is-devops/)
-
 ## DevOps For Dummies
 
 * Foundational knowledge you will need for every DevOps journey

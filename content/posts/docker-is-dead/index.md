@@ -74,9 +74,9 @@ I floated out a theory on Twitter about the awkward moments for Docker in 2017. 
 
 ### Continuing Coverage
 
-* [DevOps'ish 117](https://devopsish.com/117/): **Docker Layoffs**, Purl, Linus Knocks Arm, Killing k8s, Ansible, OperatorHub, Gremlin, PostgreSQL Operator, and More
-* [DevOps'ish 147](https://devopsish.com/147/): Strategy is hard, the misaligned middle, calling bullshit on Matt Asay, the death of Chef, **Docker's impending doom**, AnsibleFest, and more
-* [DevOps'ish 154](https://devopsish.com/154/): Docker on life support, The Unicorn Project, KubeCon, Helm 3, Adidas DevOps Framework, and more
-* [Continuing coverage](https://devopsish.com/tags/docker/)
+* [DevOps'ish 117](https://old.devopsish.com/117/): **Docker Layoffs**, Purl, Linus Knocks Arm, Killing k8s, Ansible, OperatorHub, Gremlin, PostgreSQL Operator, and More
+* [DevOps'ish 147](https://old.devopsish.com/147/): Strategy is hard, the misaligned middle, calling bullshit on Matt Asay, the death of Chef, **Docker's impending doom**, AnsibleFest, and more
+* [DevOps'ish 154](https://old.devopsish.com/154/): Docker on life support, The Unicorn Project, KubeCon, Helm 3, Adidas DevOps Framework, and more
+* [Continuing coverage](https://old.devopsish.com/tags/docker/)
 
 > Japanese Translation: [Docker社は死んだ](https://itosho525.hatenablog.com/entry/2018/01/01/074358)

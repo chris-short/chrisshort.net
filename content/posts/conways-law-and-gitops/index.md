@@ -18,7 +18,7 @@ title: Conway's Law and GitOps
 ---
 
 
-*Pulled directly from the introduction of [DevOps'ish 272](https://devopsish.com/272)*
+*Pulled directly from the introduction of [DevOps'ish 272](https://old.devopsish.com/272)*
 
 [Conway's Law](https://melconway.com/Home/Conways_Law.html) and [GitOps](https://opengitops.dev/) are two things that go hand in hand. I'd like that not to be the case, but in building and working with an upcoming demo of multi-cluster GitOps, I'm worried GitOps might not reach an escape velocity over Conway's Law.
 

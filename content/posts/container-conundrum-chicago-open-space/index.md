@@ -43,7 +43,7 @@ One pair of folks in the Open Space were building their artisanal Kubernetes clu
 
 Meanwhile, that same team said most of their problems were staying cloud agnostic and using IBM's cloud offerings. How did they wind up in this conundrum? When they needed more compute for a project, procurement would ask all the clouds for their best rates. That's what the team had to work with. They did not influence that decision-making. I mention this here because most of the Open Space was dominated by this team's problems, comments, and questions to the group.
 
-**An in depth review** of these notes is available in my newsletter, [DevOps'ish 288](https://devopsish.com/288/).
+**An in depth review** of these notes is available in my newsletter, [DevOps'ish 288](https://old.devopsish.com/288/).
 
 * Security
   * the container itself

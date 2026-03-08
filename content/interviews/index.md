@@ -173,7 +173,7 @@ Source: [Popular Mechanics: The 20 Best Podcasts About All Things Tech](https://
 
 ## Carving out a Cloud Native Culture in Established Organizations
 
-> Cornelia Davis, Chief Technology Officer at Weaveworks: "What I thought we'd talk about today is how organizations can get better at doing software. We want to get better at building it, releasing it and having more resilient systems and all of those things. One of the big categories is DevOps and it is one of the things that we're applying to make some progress on. Chris, you do a great deal in the DevOps arena. Can you give us a [definition of DevOps](https://devopsish.com/what-is-devops/)?"
+> Cornelia Davis, Chief Technology Officer at Weaveworks: "What I thought we'd talk about today is how organizations can get better at doing software. We want to get better at building it, releasing it and having more resilient systems and all of those things. One of the big categories is DevOps and it is one of the things that we're applying to make some progress on. Chris, you do a great deal in the DevOps arena. Can you give us a definition of DevOps?"
 
 Date: 2020-05-20
 

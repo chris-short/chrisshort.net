@@ -113,7 +113,7 @@ Burnout can happen at any point in everyone's career. But, what happens when bur
 * https://globalnews.ca/news/3639388/burnout-syndrome-symptoms-stress/
 * https://www.theguardian.com/women-in-leadership/2016/jan/21/spot-the-signs-of-burnout-before-it-hits-you
 * http://news.bbc.co.uk/sport2/hi/academy/4244782.stm
-* https://devopsish.com/292/
+* https://old.devopsish.com/292/
 * https://chrisshort.net/life-after-devopsish/
 * https://hbr.org/2023/04/a-two-minute-burnout-checkup
 * https://hbr.org/2023/05/when-your-employee-tells-you-theyre-burned-out
