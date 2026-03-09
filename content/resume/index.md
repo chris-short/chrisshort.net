@@ -70,7 +70,7 @@ TOCOpen: false
 ### Principal Product Marketing Manager, Red Hat — Remote — Jun 2018 to Aug 2019
 
 * Selected by leadership and peers as Red Hat Product Marketing Awards — Best New Red Hatter 2019
-* Evangelized [Kubernetes Operators with Ansible](https://ansible.com/operators) in Business Unit by engaging leadership to prove importance; scheduled developers on podcast, worked w/ team to build landing page, and presented talks at Red Hat Summit 2019
+* Evangelized Kubernetes Operators with Ansible by engaging leadership to prove importance; scheduled developers on podcast, worked w/ team to build landing page, and presented talks at Red Hat Summit 2019
 * Ansible blog curator, editor, and sometimes writer, room facilitator, survey staff management, and official after party event security for AnsibleFest 2018 in Austin, TX
 * Speaker and content creator for multiple public and private Red Hat events over the globe; enabled field to sell and market Ansible to customers intelligently
 * Instrumental in bringing community projects into the Red Hat Ansible Automation suite of tools; helped establish standards for testing and acceptance as well as scoring of Ansible content
