@@ -30,6 +30,8 @@ module:
   - path: github.com/adityatelange/hugo-PaperMod
 
 params:
+  author:
+    name: Chris Short
   env: production
   assets:
     disableHLJS: true
