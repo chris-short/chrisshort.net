@@ -6,7 +6,7 @@ aliases:
 author: Chris Short
 date: "2019-08-18"
 lastmod: "2025-03-18"
-description: "Developer Advocate & technical marketer with 30+ years in DevOps, Kubernetes, cloud native tech. Former CNCF Ambassador, 700+ hours video content, 6K+ newsletter subscribers. Available for hire."
+description: "Developer Advocate & technical marketer with 30+ years in DevOps, Kubernetes, cloud native tech. Former CNCF Ambassador, 700+ hours video content, 5K+ newsletter subscribers. Available for hire."
 tags:
 - résumé
 - CV
@@ -50,7 +50,7 @@ Open source leader, developer advocate, and technical marketer with 30 years of 
 * [GitOpsCon NA 2021 Program Committee member](https://www.credly.com/badges/734ed249-c1ed-460a-9cae-bd36c1b6a5e7/public_url), multiple times speaking at CloudNativeCon + KubeCon, and countless talks at DevOps, Kubernetes, and Cloud Native events
 * Stood up Kubernetes Upstream Marketing team, an approver of tweets from K8sContributors, acquired hardware for streaming community meetings to lessen the load on others
 * [KubeWeekly](https://www.cncf.io/kubeweekly/) curator, Kubernetes YouTube channel admin, Contributor Summit workshop facilitator, Community Meeting and webinar moderator, and SIG-Contributor Experience member
-* Advocates for Kubernetes and the cloud native ecosystem through the acclaimed and independent newsletter, [DevOps'ish](https://devopsish.com/). Grew subscriber base to 6,300+ subscribers from Dec 2016 to Nov 2022
+* Advocates for Kubernetes and the cloud native ecosystem through the acclaimed and independent newsletter, [DevOps'ish](https://devopsish.com/). Grew subscriber base to 5000+ subscribers from Dec 2016 to Nov 2022
 * With the help of other Kubernetes community members, created the first-ever [#KubeKhan](https://chrisshort.net/2018-learnings-2019-expectations/#kubekhan) at KubeCon Seattle 2018; brought together community members in a come as you are environment
 
 ### Principal Technical Marketing Manager, Red Hat — Remote — Aug 2019 to Oct 2021
