@@ -5,7 +5,7 @@ aliases:
 - /curriculum-vitae
 author: Chris Short
 date: "2019-08-18"
-lastmod: "2025-01-23"
+lastmod: "2025-03-18"
 description: "Developer Advocate & technical marketer with 30+ years in DevOps, Kubernetes, cloud native tech. Former CNCF Ambassador, 700+ hours video content, 6K+ newsletter subscribers. Available for hire."
 tags:
 - résumé
@@ -21,29 +21,27 @@ TOCOpen: false
 
 ## Professional Summary
 
-**Developer Advocate and technical marketer with 30 years of experience translating complex technical solutions into content that resonates with practitioners and drives adoption**. Created 700+ hours of video content and maintained newsletters reaching 6,000+ subscribers. Former CNCF Ambassador and Kubernetes Contributor Communications co-lead with deep expertise in DevOps, cloud native technologies (Kubernetes/CNCF ecosystem), open source tooling (Linux/Ansible), and multi-cloud environments (AWS/Google/Azure).
-
-**Proven track record shipping high-impact initiatives**: AWS re:Invent Kubernetes track lead (50+ speakers), Red Hat Live Streaming production and hosting, and championing Valkey as the de facto Redis fork. Known for bridging technical capabilities with business value through cross-organizational collaboration and community engagement. **Disabled Veteran.**
+Open source leader, developer advocate, and technical marketer with 30 years of experience in systems, open source, DevOps, and cloud technologies, specializing in making complex technical concepts accessible and understandable. Proven track record of building developer communities and leading high-visibility projects like AWS Container Days, GitOpsCon, and Kubernetes events while maintaining active Kubernetes community leadership. Known for cross-organizational collaboration and creating content that bridges technical capabilities with business value. Deep expertise in infrastructure automation, containerization, and cloud-native technologies.
 
 ## Professional Experience
 
 ### Head of Open Source, CIQ — Remote — Feb 2025 to Jan 2026
 
 * Stood up OSPO: Led a team of four open source professionals dedicated to enabling the Rocky Linux community while fostering open source collaboration internally at CIQ and upstream
-* Built license compliance reporting with Snyk; remediated over 300 flagged dependencies, preventing legal problems; built AI workflow to reduce compliance analysis from hours to minutes
-* Established metrics reporting and trend analysis in Bitergia for over 500 git repositories for three different community projects; guided resources and engineering into the projects, like Rocky Linux
-* Established CIQ's open source license policy and educated engineering, compliance, and leadership teams on licensing best practices while mitigating risk in existing open source projects
-* Led corporate presence at multiple events, created content in partnership with Marketing, delivered sessions at KubeCon, All Things Open, and staffed many more events
+* Built license compliance AI skill to automate remediation of 300+ dependencies flagged by Snyk, ensuring 100% compliance with applicable licenses; reduced analysis time from hours to minutes
+* Established metrics reporting and trend analysis for 500+ git repositories for three different open source projects; guided engineering resources dedicated to projects in line with business objectives
+* Established CIQ's open source licensing and release policies; educated engineering, compliance, and leadership teams on licensing best practices and mitigating risk in new and existing projects
+* Led corporate presence at multiple events, crafted blogs in partnership with Marketing to establish CIQ as a leader in open source software development; spoke at KubeCon and All Things Open
+* Co-lead [Kubernetes Contributor Comms](https://github.com/kubernetes/community/tree/master/communication/contributor-comms): led Kubernetes registry change communications resulting in zero downtime globally; onboarded over a dozen new contributors to the project through the team
 
 ### Sr. Open Source Developer Advocate, Amazon Web Services — Remote — Oct 2021 to Jan 2025
 
-* Drove key components of [Valkey](https://valkey.io/)'s developer engagement strategy through targeted content creation and event representation, resulting in Valkey becoming the de facto Redis fork worldwide
+* Drove key components of Valkey's developer engagement strategy through targeted content creation and event representation, resulting in Valkey becoming the de facto Redis fork worldwide
 * Orchestrated AWS re:Invent 2023 Kubernetes track end-to-end: upskilled 50+ speakers across 30+ sessions, improved CSAT YoY scores, curated best Amazon EKS content for high audience value
 * Taught career AWS devs how to do open source for Finch; worked with the dev team to create a container tool; consulted on strategy, design, and release content; over 2K GitHub stars in 2 weeks
 * Updated the AWS Open Source website; analyzed metrics, established benchmarks, improved performance, and SEO metrics. Updated to the latest design standards. #1 Google rankings.
-* Launched [EKS.news](https://eks.news), a newsletter covering the latest updates on Amazon Elastic Kubernetes Service (EKS): an additional mechanism to inform customers on new features and changes
+* Launched EKS.news, a newsletter covering the latest updates on Amazon Elastic Kubernetes Service (EKS): an additional mechanism to inform customers on new features and changes
 * Trained the Kubernetes Product Marketing team on open source, how the cloud native ecosystem works, created and executed training materials for PMMs, and exceeded 3P event CSAT goals
-* Co-lead [Kubernetes Contributor Comms](https://github.com/kubernetes/community/tree/master/communication/contributor-comms): led Kubernetes registry change communications resulting in zero downtime globally; onboarded over a dozen new contributors to the project through the team
 * Organized and ran GitOpsCon EU 2021, including marketing, speaker selection, and hosting the event with fellow organizers. 300+ attendees; top two for attendance at Day 0 KubeCon 2021 event
 * Produced multiple AWS Open Source Partner videos in-studio; simplified technical language for a broader audience, drove understanding between partners, product marketing, and video teams
 
