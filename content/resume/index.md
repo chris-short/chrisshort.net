@@ -159,7 +159,7 @@ Open source leader, developer advocate, and technical marketer with 30 years of 
 * Enterasys Certified Specialist — Switching NMS (License a1780000000eXhqAAE)
 * [Pragmatic Marketing Certified — Level II (PMC-II)](https://shortcdn.com/chrisshort/pdf/Pragmatic_Marketing_Certification_00139296.pdf)
 * Red Hat Certified Specialist in Ansible Automation (Ansible 2.3 — Certification ID: [120-179-858](https://www.redhat.com/rhtapps/services/verify/?certId=120-179-858))
-* Additional credentials via [Credly](https://www.credly.com/users/chrisshort/badges)
+* Additional credentials via [Credly](https://www.credly.com/users/chrisshort)
 
 ## Formal Training Courses
 
