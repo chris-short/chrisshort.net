@@ -23,7 +23,7 @@ If you need to get in touch with me, please reach out via the [**Contact**](/con
 
 ## Tagline
 
-Open Source | DevOps | Kubernetes Contributor | r/devopsish | Disabled Veteran | LEGO | Corgis | Detroit | He/Him | Views solely mine
+DevOps'ish | Kubernetes Contributor Comms | Open Source | Corgis | LEGO | Detroit | Disabled Veteran | Views solely mine
 
 ## Headshot
 
