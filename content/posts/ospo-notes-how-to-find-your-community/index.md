@@ -27,7 +27,7 @@ Your git history is your first community dataset. The repo is your project's fou
 
 1. Clone the repo  
 2. Open it  
-3. Run git shortlog \-sne against it
+3. Run `git shortlog -sne` against it
 
 The output will show a ranked list of everyone who has ever contributed a commit, along with their email addresses. This info gives you a decent starting point.
 
@@ -121,6 +121,6 @@ The only way to find these pockets of community is to start asking. Put out a ca
 
 If you're starting from zero, here's the sequence I'd recommend:
 
-Start from the repo. Run git shortlog, pull data from GitHub or Gitlab Insights or LFX Insights, and get a baseline of who your code contributors are. Then expand outward — set up GrimoireLab to pull data from your communication channels and issue trackers, and use [CHAOSS metrics](https://chaoss.community/kbtopic/all-metrics/) to define what "healthy" means for your project. Finally, look for conversations happening outside your owned channels, and don't be afraid to ask people where they hang out.
+Start from the repo. Run `git shortlog -sne`, pull data from GitHub or Gitlab Insights or LFX Insights, and get a baseline of who your code contributors are. Then expand outward — set up GrimoireLab to pull data from your communication channels and issue trackers, and use [CHAOSS metrics](https://chaoss.community/kbtopic/all-metrics/) to define what "healthy" means for your project. Finally, look for conversations happening outside your owned channels, and don't be afraid to ask people where they hang out.
 
 The community is already out there. Your job is to find them, acknowledge them, and — most importantly — make it easy for them to find each other.
