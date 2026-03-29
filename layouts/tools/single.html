@@ -1,0 +1,19 @@
+{{- define "main" }}
+<style>
+.tool-page { width: 100%; }
+.tool-page .post-header { margin-bottom: 1.5rem; }
+.tool-page .post-title { margin-bottom: 0.25rem; }
+</style>
+<div class="tool-page">
+  <header class="post-header">
+    {{- partial "breadcrumbs.html" . }}
+    <h1 class="post-title">{{ .Title }}</h1>
+    {{- with .Description }}
+    <div class="post-description">{{ . }}</div>
+    {{- end }}
+  </header>
+  <div class="tool-body">
+    {{ .Content }}
+  </div>
+</div>
+{{- end }}
