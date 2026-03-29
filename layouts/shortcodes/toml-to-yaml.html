@@ -165,7 +165,10 @@
     try {
       var parsed = TOML.parse(src);
       // Flatten TOML-typed objects (dates, etc.) to plain JS via JSON round-trip
-      var plain = JSON.parse(JSON.stringify(parsed));
+      // BigInt replacer handles j-toml's 64-bit integer representation
+      var plain = JSON.parse(JSON.stringify(parsed, function (_, v) {
+        return typeof v === 'bigint' ? Number(v) : v;
+      }));
       outputEl.value = jsyaml.dump(plain, { lineWidth: -1 });
     } catch (e) {
       showError(e.message || String(e));
