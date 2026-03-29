@@ -1,0 +1,239 @@
+<style>
+.cvt-wrapper { width: 100%; font-family: inherit; }
+
+.cvt-layout {
+  display: grid;
+  grid-template-columns: 1fr auto 1fr;
+  gap: 1rem;
+  align-items: start;
+}
+
+@media (max-width: 640px) {
+  .cvt-layout { grid-template-columns: 1fr; }
+  .cvt-middle { display: flex; justify-content: center; }
+}
+
+.cvt-panel { display: flex; flex-direction: column; gap: 0.5rem; }
+
+.cvt-panel-header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+  min-height: 2rem;
+}
+
+.cvt-label {
+  font-weight: 700;
+  font-size: 0.78rem;
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+  color: var(--secondary);
+}
+
+.cvt-panel-btns { display: flex; gap: 0.4rem; flex-wrap: wrap; }
+
+.cvt-btn {
+  padding: 0.35rem 0.7rem;
+  font-size: 0.8rem;
+  background: var(--entry);
+  color: var(--primary);
+  border: 1px solid var(--border);
+  border-radius: 4px;
+  cursor: pointer;
+  line-height: 1.4;
+  transition: background 0.15s;
+  font-family: inherit;
+}
+.cvt-btn:hover { background: var(--border); }
+
+.cvt-btn-convert {
+  padding: 0.6rem 1.2rem;
+  font-size: 0.95rem;
+  font-weight: 700;
+  background: var(--primary);
+  color: var(--theme);
+  border: 1px solid var(--primary);
+  border-radius: 4px;
+  cursor: pointer;
+  white-space: nowrap;
+  transition: opacity 0.15s;
+  font-family: inherit;
+}
+.cvt-btn-convert:hover { opacity: 0.82; }
+
+.cvt-textarea {
+  width: 100%;
+  min-height: 340px;
+  padding: 0.75rem;
+  font-family: monospace;
+  font-size: 0.82rem;
+  line-height: 1.5;
+  background: var(--entry);
+  color: var(--primary);
+  border: 1px solid var(--border);
+  border-radius: 4px;
+  resize: vertical;
+  box-sizing: border-box;
+  transition: outline 0.1s;
+}
+.cvt-textarea:focus { outline: 2px solid var(--primary); outline-offset: 1px; }
+.cvt-textarea.drag-over {
+  outline: 2px dashed var(--primary);
+  outline-offset: 2px;
+  border-color: var(--primary);
+}
+
+.cvt-error {
+  display: none;
+  padding: 0.5rem 0.75rem;
+  font-family: monospace;
+  font-size: 0.8rem;
+  color: #c53030;
+  background: rgba(197,48,48,0.08);
+  border: 1px solid rgba(197,48,48,0.3);
+  border-radius: 4px;
+}
+.cvt-error.visible { display: block; }
+
+.cvt-file-input { display: none; }
+</style>
+
+<div class="cvt-wrapper">
+  <div class="cvt-layout">
+
+    <!-- Input panel -->
+    <div class="cvt-panel">
+      <div class="cvt-panel-header">
+        <span class="cvt-label">TOML Input</span>
+        <div class="cvt-panel-btns">
+          <button class="cvt-btn" id="cvt-paste-btn">Paste from Clipboard</button>
+          <label class="cvt-btn" for="cvt-file-input" style="cursor:pointer;display:inline-block">Upload File</label>
+          <input type="file" id="cvt-file-input" class="cvt-file-input" accept=".toml,text/plain">
+        </div>
+      </div>
+      <textarea id="cvt-input" class="cvt-textarea"
+        placeholder="Paste TOML here, click Upload File, or drag and drop a .toml file onto this area..."></textarea>
+      <div id="cvt-error" class="cvt-error"></div>
+    </div>
+
+    <!-- Convert button -->
+    <div class="cvt-middle">
+      <button class="cvt-btn-convert" id="cvt-convert-btn">Convert →</button>
+    </div>
+
+    <!-- Output panel -->
+    <div class="cvt-panel">
+      <div class="cvt-panel-header">
+        <span class="cvt-label">YAML Output</span>
+        <div class="cvt-panel-btns">
+          <button class="cvt-btn" id="cvt-copy-btn">Copy to Clipboard</button>
+        </div>
+      </div>
+      <textarea id="cvt-output" class="cvt-textarea" readonly
+        placeholder="YAML output will appear here..."></textarea>
+    </div>
+
+  </div>
+</div>
+
+<script src="https://shortcdn.com/chrisshort/j-toml.min.js"></script>
+<script src="https://shortcdn.com/chrisshort/js-yaml.min.js"></script>
+<script>
+(function () {
+  var inputEl  = document.getElementById('cvt-input');
+  var outputEl = document.getElementById('cvt-output');
+  var errorEl  = document.getElementById('cvt-error');
+  var fileEl   = document.getElementById('cvt-file-input');
+
+  function showError(msg) {
+    errorEl.textContent = msg;
+    errorEl.classList.add('visible');
+    outputEl.value = '';
+  }
+
+  function clearError() {
+    errorEl.textContent = '';
+    errorEl.classList.remove('visible');
+  }
+
+  function convert() {
+    clearError();
+    var src = inputEl.value.trim();
+    if (!src) { showError('Input is empty.'); return; }
+    try {
+      var parsed = TOML.parse(src);
+      // Flatten TOML-typed objects (dates, etc.) to plain JS via JSON round-trip
+      var plain = JSON.parse(JSON.stringify(parsed));
+      outputEl.value = jsyaml.dump(plain, { lineWidth: -1 });
+    } catch (e) {
+      showError(e.message || String(e));
+    }
+  }
+
+  document.getElementById('cvt-convert-btn').addEventListener('click', convert);
+
+  // Paste from clipboard
+  document.getElementById('cvt-paste-btn').addEventListener('click', function () {
+    if (!navigator.clipboard) { showError('Clipboard API not available in this browser.'); return; }
+    navigator.clipboard.readText().then(function (text) {
+      inputEl.value = text;
+      clearError();
+    }).catch(function () {
+      showError('Could not read clipboard — check browser permissions.');
+    });
+  });
+
+  // Copy output to clipboard
+  document.getElementById('cvt-copy-btn').addEventListener('click', function () {
+    var btn = this;
+    if (!outputEl.value) return;
+    var label = btn.textContent;
+    function done() {
+      btn.textContent = 'Copied!';
+      setTimeout(function () { btn.textContent = label; }, 2000);
+    }
+    if (navigator.clipboard) {
+      navigator.clipboard.writeText(outputEl.value).then(done).catch(function () {
+        outputEl.select(); document.execCommand('copy'); done();
+      });
+    } else {
+      outputEl.select(); document.execCommand('copy'); done();
+    }
+  });
+
+  // File upload via input
+  fileEl.addEventListener('change', function () {
+    var file = this.files[0];
+    if (!file) return;
+    readFile(file);
+    this.value = '';
+  });
+
+  // Drag and drop onto input textarea
+  inputEl.addEventListener('dragover', function (e) {
+    e.preventDefault();
+    this.classList.add('drag-over');
+  });
+  inputEl.addEventListener('dragleave', function () {
+    this.classList.remove('drag-over');
+  });
+  inputEl.addEventListener('drop', function (e) {
+    e.preventDefault();
+    this.classList.remove('drag-over');
+    var file = e.dataTransfer.files[0];
+    if (file) readFile(file);
+  });
+
+  function readFile(file) {
+    var reader = new FileReader();
+    reader.onload = function (e) {
+      inputEl.value = e.target.result;
+      clearError();
+    };
+    reader.onerror = function () { showError('Failed to read file.'); };
+    reader.readAsText(file);
+  }
+})();
+</script>

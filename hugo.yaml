@@ -56,7 +56,7 @@ params:
     - microblog
     - projects
     - speaking
-    - speedtest
+    - tools
     - video
     - writing
   profileMode:
@@ -87,6 +87,8 @@ params:
         url: "/contact"
       - name: "Tags"
         url: "/tags"
+      - name: Tools
+        url: "/tools"
       - name: Search
         url: "/search"
     comments: false

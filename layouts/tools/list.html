@@ -1,0 +1,59 @@
+{{- define "main" }}
+<style>
+.tools-index { width: 100%; }
+.tools-index .page-header { margin-bottom: 2rem; }
+.tools-index .page-title { font-size: 2rem; margin: 0 0 0.5rem; }
+.tools-index .page-description { color: var(--secondary); margin: 0 0 1rem; }
+.tools-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+  gap: 1rem;
+}
+.tool-card {
+  display: block;
+  padding: 1.25rem 1.5rem;
+  background: var(--entry);
+  border: 1px solid var(--border);
+  border-radius: 8px;
+  text-decoration: none;
+  color: var(--primary);
+  transition: border-color 0.15s, transform 0.15s;
+}
+.tool-card:hover {
+  border-color: var(--primary);
+  transform: translateY(-2px);
+}
+.tool-card-title {
+  font-size: 1.1rem;
+  margin: 0 0 0.5rem;
+}
+.tool-card-desc {
+  font-size: 0.85rem;
+  color: var(--secondary);
+  margin: 0;
+  line-height: 1.5;
+}
+</style>
+<div class="tools-index">
+  <header class="page-header">
+    {{- partial "breadcrumbs.html" . }}
+    <h1 class="page-title">{{ .Title }}</h1>
+    {{- with .Description }}
+    <p class="page-description">{{ . }}</p>
+    {{- end }}
+    {{- with .Content }}
+    <div>{{ . }}</div>
+    {{- end }}
+  </header>
+  <div class="tools-grid">
+    {{- range .Pages.ByTitle }}
+    <a href="{{ .Permalink }}" class="tool-card">
+      <h2 class="tool-card-title">{{ .Title }}</h2>
+      {{- with .Description }}
+      <p class="tool-card-desc">{{ . }}</p>
+      {{- end }}
+    </a>
+    {{- end }}
+  </div>
+</div>
+{{- end }}
