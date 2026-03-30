@@ -60,6 +60,10 @@ title: Writing
 
 > My first work in the cloud native world was working with the SIG Docs team. I helped review some documentation and learned some of their processes. I wasn't there long before I found out about another great SIG: Contributor Experience. Contributor Experience is all about improving the workflow, removing bottlenecks, and generally making Kubernetes a great project to contribute your time and effort. I knew ContribEx (as it's called) is where I could make an impact.
 
+### [Kubernetes Contributor Communications](https://github.com/kubernetes/community/tree/main/communication/contributor-comms)
+
+Building out a team like the Kubernetes Contributor Communications team requires extensive documentation to keep tribal knowledge to a minimum. At any point, our open source journeys can be interrupted by life events. The groups we participate in should be able to continue on without us in the event of an exit from the community. Building lasting teams takes care, patience, and the ability to see things through a newcomer's lens.
+
 ## AWS
 
 ### [Amazon EKS and Kubernetes sessions at AWS re:Invent 2023](https://aws.amazon.com/blogs/containers/amazon-eks-and-kubernetes-sessions-at-aws-reinvent-2023/)
