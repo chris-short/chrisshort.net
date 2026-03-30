@@ -5,15 +5,15 @@
   display: grid;
   grid-template-columns: 1fr auto 1fr;
   gap: 1rem;
-  align-items: start;
+  align-items: stretch;
 }
 
-@media (max-width: 640px) {
+@media (max-width: 480px) {
   .cvt-layout { grid-template-columns: 1fr; }
-  .cvt-middle { display: flex; justify-content: center; }
+  .cvt-middle { flex-direction: row !important; padding-top: 0 !important; }
 }
 
-.cvt-panel { display: flex; flex-direction: column; gap: 0.5rem; }
+.cvt-panel { display: flex; flex-direction: column; gap: 0.5rem; min-width: 0; }
 
 .cvt-panel-header {
   display: flex;
@@ -48,6 +48,15 @@
 }
 .cvt-btn:hover { background: var(--border); }
 
+.cvt-middle {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 0.6rem;
+  padding-top: 2.5rem;
+}
+
 .cvt-btn-convert {
   padding: 0.6rem 1.2rem;
   font-size: 0.95rem;
@@ -62,6 +71,20 @@
   font-family: inherit;
 }
 .cvt-btn-convert:hover { opacity: 0.82; }
+
+.cvt-btn-swap {
+  padding: 0.35rem 0.8rem;
+  font-size: 0.82rem;
+  background: var(--entry);
+  color: var(--primary);
+  border: 1px solid var(--border);
+  border-radius: 4px;
+  cursor: pointer;
+  white-space: nowrap;
+  transition: background 0.15s;
+  font-family: inherit;
+}
+.cvt-btn-swap:hover { background: var(--border); }
 
 .cvt-textarea {
   width: 100%;
@@ -106,7 +129,7 @@
     <!-- Input panel -->
     <div class="cvt-panel">
       <div class="cvt-panel-header">
-        <span class="cvt-label">TOML Input</span>
+        <span class="cvt-label" id="cvt-input-label">TOML Input</span>
         <div class="cvt-panel-btns">
           <button class="cvt-btn" id="cvt-paste-btn">Paste from Clipboard</button>
           <label class="cvt-btn" for="cvt-file-input" style="cursor:pointer;display:inline-block">Upload File</label>
@@ -118,15 +141,16 @@
       <div id="cvt-error" class="cvt-error"></div>
     </div>
 
-    <!-- Convert button -->
+    <!-- Middle controls -->
     <div class="cvt-middle">
-      <button class="cvt-btn-convert" id="cvt-convert-btn">Convert →</button>
+      <button class="cvt-btn-convert" id="cvt-convert-btn">Convert &rarr;</button>
+      <button class="cvt-btn-swap" id="cvt-swap-btn">&#8644; Swap</button>
     </div>
 
     <!-- Output panel -->
     <div class="cvt-panel">
       <div class="cvt-panel-header">
-        <span class="cvt-label">YAML Output</span>
+        <span class="cvt-label" id="cvt-output-label">YAML Output</span>
         <div class="cvt-panel-btns">
           <button class="cvt-btn" id="cvt-copy-btn">Copy to Clipboard</button>
         </div>
@@ -142,10 +166,46 @@
 <script src="https://shortcdn.com/chrisshort/js-yaml.min.js"></script>
 <script>
 (function () {
-  var inputEl  = document.getElementById('cvt-input');
-  var outputEl = document.getElementById('cvt-output');
-  var errorEl  = document.getElementById('cvt-error');
-  var fileEl   = document.getElementById('cvt-file-input');
+  var inputEl     = document.getElementById('cvt-input');
+  var outputEl    = document.getElementById('cvt-output');
+  var errorEl     = document.getElementById('cvt-error');
+  var fileEl      = document.getElementById('cvt-file-input');
+  var convertBtn  = document.getElementById('cvt-convert-btn');
+  var swapBtn     = document.getElementById('cvt-swap-btn');
+  var inputLabel  = document.getElementById('cvt-input-label');
+  var outputLabel = document.getElementById('cvt-output-label');
+
+  // direction: 'toml2yaml' | 'yaml2toml'
+  var direction = 'toml2yaml';
+
+  var cfg = {
+    toml2yaml: {
+      inputLabel:       'TOML Input',
+      outputLabel:      'YAML Output',
+      inputPlaceholder: 'Paste TOML here, click Upload File, or drag and drop a .toml file onto this area...',
+      outputPlaceholder:'YAML output will appear here...',
+      btnText:          'Convert \u2192',
+      fileAccept:       '.toml,text/plain',
+    },
+    yaml2toml: {
+      inputLabel:       'YAML Input',
+      outputLabel:      'TOML Output',
+      inputPlaceholder: 'Paste YAML here, click Upload File, or drag and drop a .yaml/.yml file onto this area...',
+      outputPlaceholder:'TOML output will appear here...',
+      btnText:          '\u2190 Convert',
+      fileAccept:       '.yaml,.yml,text/plain',
+    },
+  };
+
+  function applyDirection() {
+    var c = cfg[direction];
+    inputLabel.textContent   = c.inputLabel;
+    outputLabel.textContent  = c.outputLabel;
+    inputEl.placeholder      = c.inputPlaceholder;
+    outputEl.placeholder     = c.outputPlaceholder;
+    convertBtn.textContent   = c.btnText;
+    fileEl.accept            = c.fileAccept;
+  }
 
   function showError(msg) {
     errorEl.textContent = msg;
@@ -158,24 +218,110 @@
     errorEl.classList.remove('visible');
   }
 
+  function convertToml2Yaml(src) {
+    var parsed = TOML.parse(src);
+    // Flatten TOML-typed objects (dates, BigInts, etc.) via JSON round-trip
+    var plain = JSON.parse(JSON.stringify(parsed, function (_, v) {
+      return typeof v === 'bigint' ? Number(v) : v;
+    }));
+    return jsyaml.dump(plain, { lineWidth: -1 });
+  }
+
+  function convertYaml2Toml(src) {
+    var parsed = jsyaml.load(src);
+    if (parsed === null || parsed === undefined || typeof parsed !== 'object' || Array.isArray(parsed)) {
+      throw new Error('YAML root must be a mapping (object), not a scalar or sequence.');
+    }
+    return serializeToml(parsed, '').trimRight() + '\n';
+  }
+
+  // ── TOML serializer ──────────────────────────────────────────────────────
+  function serializeToml(obj, keyPath) {
+    var scalars = '';
+    var deferred = '';
+    Object.keys(obj).forEach(function (key) {
+      var val = obj[key];
+      var escapedKey = tomlKey(key);
+      var fullPath = keyPath ? keyPath + '.' + escapedKey : escapedKey;
+      if (val === null || val === undefined) {
+        scalars += escapedKey + ' = ""\n';
+      } else if (typeof val === 'boolean' || typeof val === 'number') {
+        scalars += escapedKey + ' = ' + val + '\n';
+      } else if (typeof val === 'string') {
+        scalars += escapedKey + ' = ' + tomlString(val) + '\n';
+      } else if (val instanceof Date) {
+        scalars += escapedKey + ' = ' + val.toISOString() + '\n';
+      } else if (Array.isArray(val)) {
+        if (val.length === 0) {
+          scalars += escapedKey + ' = []\n';
+        } else if (isScalarArray(val)) {
+          scalars += escapedKey + ' = [' + val.map(tomlScalar).join(', ') + ']\n';
+        } else {
+          val.forEach(function (item) {
+            deferred += '\n[[' + fullPath + ']]\n';
+            deferred += serializeToml(item, fullPath);
+          });
+        }
+      } else if (typeof val === 'object') {
+        deferred += '\n[' + fullPath + ']\n';
+        deferred += serializeToml(val, fullPath);
+      }
+    });
+    return scalars + deferred;
+  }
+
+  function isScalarArray(arr) {
+    return arr.every(function (v) {
+      return v === null || v === undefined || typeof v !== 'object' || v instanceof Date;
+    });
+  }
+
+  function tomlKey(key) {
+    return /^[A-Za-z0-9_-]+$/.test(key) ? key : '"' + key.replace(/\\/g, '\\\\').replace(/"/g, '\\"') + '"';
+  }
+
+  function tomlScalar(val) {
+    if (val === null || val === undefined) return '""';
+    if (typeof val === 'boolean') return String(val);
+    if (typeof val === 'number') return String(val);
+    if (typeof val === 'string') return tomlString(val);
+    if (val instanceof Date) return val.toISOString();
+    return '"' + String(val) + '"';
+  }
+
+  function tomlString(s) {
+    // Multiline basic string for values containing newlines
+    if (s.indexOf('\n') !== -1 || s.indexOf('\r') !== -1) {
+      return '"""\n' + s.replace(/\\/g, '\\\\').replace(/"""/g, '\\"\\"\\"') + '\n"""';
+    }
+    return '"' + s.replace(/\\/g, '\\\\').replace(/"/g, '\\"').replace(/\t/g, '\\t') + '"';
+  }
+  // ─────────────────────────────────────────────────────────────────────────
+
   function convert() {
     clearError();
     var src = inputEl.value.trim();
     if (!src) { showError('Input is empty.'); return; }
     try {
-      var parsed = TOML.parse(src);
-      // Flatten TOML-typed objects (dates, etc.) to plain JS via JSON round-trip
-      // BigInt replacer handles j-toml's 64-bit integer representation
-      var plain = JSON.parse(JSON.stringify(parsed, function (_, v) {
-        return typeof v === 'bigint' ? Number(v) : v;
-      }));
-      outputEl.value = jsyaml.dump(plain, { lineWidth: -1 });
+      outputEl.value = direction === 'toml2yaml'
+        ? convertToml2Yaml(src)
+        : convertYaml2Toml(src);
     } catch (e) {
       showError(e.message || String(e));
     }
   }
 
-  document.getElementById('cvt-convert-btn').addEventListener('click', convert);
+  convertBtn.addEventListener('click', convert);
+
+  swapBtn.addEventListener('click', function () {
+    var prevInput  = inputEl.value;
+    var prevOutput = outputEl.value;
+    inputEl.value  = prevOutput;
+    outputEl.value = prevInput;
+    direction = direction === 'toml2yaml' ? 'yaml2toml' : 'toml2yaml';
+    applyDirection();
+    clearError();
+  });
 
   // Paste from clipboard
   document.getElementById('cvt-paste-btn').addEventListener('click', function () {
@@ -238,5 +384,8 @@
     reader.onerror = function () { showError('Failed to read file.'); };
     reader.readAsText(file);
   }
+
+  // Initialise UI labels
+  applyDirection();
 })();
 </script>
