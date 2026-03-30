@@ -1,6 +1,6 @@
 ---
-title: TOML to YAML Converter
-description: Convert TOML configuration files to YAML format directly in your browser. No data is sent to any server.
+title: TOML ↔ YAML Converter
+description: Convert between TOML and YAML configuration formats directly in your browser. No data is sent to any server.
 ShowTOC: false
 hideMeta: true
 date: "2026-03-27"
