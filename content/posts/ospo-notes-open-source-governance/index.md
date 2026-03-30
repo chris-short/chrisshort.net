@@ -2,7 +2,7 @@
 author: ["Chris Short"]
 cover:
   alt: A black man in a gray suit sits in an office conference room, hand on chin in a thoughtful pose, looking sideways with a skeptical expression. Two women work at a desk in the background near a glass wall covered in colorful sticky notes.
-  caption: [Photo by Yan Krukau](https://www.pexels.com/photo/man-wearing-a-suit-7793980/)
+  caption: Photo by [Yan Krukau](https://www.pexels.com/photo/man-wearing-a-suit-7793980/)
   image: pexels-yankrukov-7793980.webp
   relative: false
 title: "OSPO Notes: Open Source Governance — Who Decides, and How"
