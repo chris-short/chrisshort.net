@@ -232,8 +232,71 @@
     if (parsed === null || parsed === undefined || typeof parsed !== 'object' || Array.isArray(parsed)) {
       throw new Error('YAML root must be a mapping (object), not a scalar or sequence.');
     }
-    return TOML.stringify(parsed);
+    return serializeToml(parsed, '').trimRight() + '\n';
   }
+
+  // ── TOML serializer ──────────────────────────────────────────────────────
+  function serializeToml(obj, keyPath) {
+    var scalars = '';
+    var deferred = '';
+    Object.keys(obj).forEach(function (key) {
+      var val = obj[key];
+      var escapedKey = tomlKey(key);
+      var fullPath = keyPath ? keyPath + '.' + escapedKey : escapedKey;
+      if (val === null || val === undefined) {
+        scalars += escapedKey + ' = ""\n';
+      } else if (typeof val === 'boolean' || typeof val === 'number') {
+        scalars += escapedKey + ' = ' + val + '\n';
+      } else if (typeof val === 'string') {
+        scalars += escapedKey + ' = ' + tomlString(val) + '\n';
+      } else if (val instanceof Date) {
+        scalars += escapedKey + ' = ' + val.toISOString() + '\n';
+      } else if (Array.isArray(val)) {
+        if (val.length === 0) {
+          scalars += escapedKey + ' = []\n';
+        } else if (isScalarArray(val)) {
+          scalars += escapedKey + ' = [' + val.map(tomlScalar).join(', ') + ']\n';
+        } else {
+          val.forEach(function (item) {
+            deferred += '\n[[' + fullPath + ']]\n';
+            deferred += serializeToml(item, fullPath);
+          });
+        }
+      } else if (typeof val === 'object') {
+        deferred += '\n[' + fullPath + ']\n';
+        deferred += serializeToml(val, fullPath);
+      }
+    });
+    return scalars + deferred;
+  }
+
+  function isScalarArray(arr) {
+    return arr.every(function (v) {
+      return v === null || v === undefined || typeof v !== 'object' || v instanceof Date;
+    });
+  }
+
+  function tomlKey(key) {
+    return /^[A-Za-z0-9_-]+$/.test(key) ? key : '"' + key.replace(/\\/g, '\\\\').replace(/"/g, '\\"') + '"';
+  }
+
+  function tomlScalar(val) {
+    if (val === null || val === undefined) return '""';
+    if (typeof val === 'boolean') return String(val);
+    if (typeof val === 'number') return String(val);
+    if (typeof val === 'string') return tomlString(val);
+    if (val instanceof Date) return val.toISOString();
+    return '"' + String(val) + '"';
+  }
+
+  function tomlString(s) {
+    // Multiline basic string for values containing newlines
+    if (s.indexOf('\n') !== -1 || s.indexOf('\r') !== -1) {
+      return '"""\n' + s.replace(/\\/g, '\\\\').replace(/"""/g, '\\"\\"\\"') + '\n"""';
+    }
+    return '"' + s.replace(/\\/g, '\\\\').replace(/"/g, '\\"').replace(/\t/g, '\\t') + '"';
+  }
+  // ─────────────────────────────────────────────────────────────────────────
 
   function convert() {
     clearError();
