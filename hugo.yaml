@@ -68,9 +68,11 @@ params:
       - name: Microblog
         url: "/micro"
       - name: Newsletter
-        url: "https://buttondown.com/devopsish"
+        url: "https://devopsish.com/"
       - name: Consulting
         url: "https://shortconsulting.io/"
+      - name: "Contact"
+        url: "/contact"
       - name: "Abstracts"
         url: "/abstracts"
       - name: Interviews
@@ -83,12 +85,10 @@ params:
         url: "/drawings"
       - name: Résumé
         url: "/resume"
-      - name: "Contact"
-        url: "/contact"
-      - name: "Tags"
-        url: "/tags"
       - name: Tools
         url: "/tools"
+      - name: "Tags"
+        url: "/tags"
       - name: Search
         url: "/search"
     comments: false
