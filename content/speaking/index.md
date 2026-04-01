@@ -17,9 +17,18 @@ title: Speaking
 
 {{< speaker >}}
 
-Looking for OpenShift.tv live streams (Red Hat Live Streaming) I hosted and/or produced? [Search my name on OpenShift's YouTube](https://www.youtube.com/@OpenShift/search?query="chris%20short").
+Looking for Red Hat Live Streaming episodes I hosted and/or produced?  
+Search my name on one of Red Hat's YouTube channels, [Red Hat](https://www.youtube.com/@redhat/search?query=Chris%20Short), [Red Hat Developer](https://www.youtube.com/@RedHatDevelopers/search?query=Chris%20Short), or [OpenShift](https://www.youtube.com/@OpenShift/search?query="chris%20short")
 
 If you're looking for podcasts or interviews I've took part in, please head over to the [**Interviews**](/interviews/) page.
+
+## Open Source Survival Guide: Rules to Keep You Sane in the Open Source World — All Things Open 2025
+
+Date: 2025-10-14
+
+From navigating different incentive structures to fostering healthy collaboration, this practical session delivers hard-earned wisdom from 25+ years of open source experience. Whether you’re a newcomer curious about contributing or a seasoned maintainer, Chris Short’s “Open Source Survival Guide” offers concrete rules that help technical professionals, community leaders, and companies work effectively in open source environments. Learn to build trust, share knowledge, manage contributions, and avoid common pitfalls that can damage projects and careers.
+
+[**Watch Now**](https://youtu.be/RkIFVpsZKM4)
 
 ## Comms & Social Media - Why Does a Project Need It - Chris Short, CIQ & Kaslin Fields, Google — KubeCon + CloudNativeCon NA 2025
 
