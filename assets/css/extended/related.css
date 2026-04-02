@@ -1,0 +1,23 @@
+.related-posts {
+  margin-top: 0;
+  margin-bottom: 2rem;
+}
+
+.related-posts h4 {
+  margin-top: 0;
+  margin-bottom: 0.5rem;
+}
+
+.related-posts ul {
+  margin: 0 0 0 1.25rem;
+  padding: 0;
+  list-style: disc;
+}
+
+.related-posts ul li {
+  margin-bottom: 0.25rem;
+}
+
+.related-posts ul li a {
+  text-decoration: underline;
+}
