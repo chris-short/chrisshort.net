@@ -79,8 +79,6 @@ params:
         url: "/interviews"
       - name: Speaking
         url: "/speaking"
-      - name: Video
-        url: "/video"
       - name: "Drawings"
         url: "/drawings"
       - name: Résumé
