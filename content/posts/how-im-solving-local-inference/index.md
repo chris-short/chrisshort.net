@@ -2,14 +2,14 @@
 author: ["Chris Short"]
 cover:
   alt: Beige Scrabble tiles spelling LOCAL centered on a solid dark grey'ish blue background.
-  caption: Photo by [Tima Miroshnichenko](https://www.pexels.com/photo/close-up-shot-of-text-on-a-blue-surface-5912633/) from Pexels
+  caption: Photo by [Tima Miroshnichenko](https://www.pexels.com/photo/close-up-shot-of-text-on-a-blue-surface-5912633/)
   image: pexels-tima-miroshnichenko-5912633.webp
   relative: false
 title: "How I'm Solving Local Inference"
 date: "2026-06-19"
 description: "How I bridged my MacBook Air and Framework 13 using LM Studio's LM Link to run powerful local models, avoid token costs, and gain portability."
 summary: "Addresses the shift toward per-token billing in AI tools and the rapidly improving quality of local models, prompting a move to local inference. Facing hardware limitations on a M2 MacBook Air, the author utilizes LM Studio's LM Link feature to connect their powerful Framework 13 laptop over the local network. This setup allows the MacBook Air to leverage the Framework's 64GB RAM for running models like qwen3-coder-next via the lms CLI, effectively combining portability with computational power while avoiding variable cloud costs."
-tags: []
+tags: ["local inference", "LM Studio", "large language models", "AI", "models", "token", "code", "LM Link", "lms", "Macbook Air", "Framework 13", "Bluefin"]
 ShowToc: true
 TocOpen: true
 draft: false
@@ -17,7 +17,7 @@ draft: false
 
 Several AI tools have recently moved to per-token billing. I'm a lowly Claude Pro user, and I can reasonably stomach a fixed fee over wildly variable fees to use a frontier lab's large language model. I know I'm using more than $20/month in tokens, so the math doesn't math on that one, and that's okay until Anthropic starts reining in users like me. But my daily driver is an M2 MacBook Air; it's light and portable and gets the job done, but it is getting a little long in the tooth. With the chip shortages we're seeing, my next laptop will be the most expensive one I've ever bought.
 
-In June of 2026, models from Moonshot AI, DeepSeek, Alibaba, and others are starting to catch up to the quality of frontier models. Between the token economics of OpenAI and Anthropic and the improving quality of models that can run locally, I want to run local models, but I face a real hardware constraint with 24 GB RAM on my MacBook Air. I do have a Framework 13 AMD Ryzen™ 5 7640U laptop running Bluefin, packing 64 GB RAM, which can really hum with a lot of models, but it's a little bit bulkier, hotter, and definitely louder than the fanless MacBook Air. To address my local inference desires, I finally wired the two systems together this week for a harmonious, dead-simple setup.
+In June of 2026, large language models from Moonshot AI, DeepSeek, Alibaba, and others are starting to catch up to the quality of frontier models. Between the token economics of OpenAI and Anthropic and the improving quality of models that can run locally, I want to run local models, but I face a real hardware constraint with 24 GB RAM on my MacBook Air. I do have a Framework 13 AMD Ryzen™ 5 7640U laptop running Bluefin, packing 64 GB RAM, which can really hum with a lot of models, but it's a little bit bulkier, hotter, and definitely louder than the fanless MacBook Air. To address my local inference desires, I finally wired the two systems together this week for a harmonious, dead-simple setup.
 
 ## **Enter LM Studio's LM Link**
 
