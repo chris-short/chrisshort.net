@@ -143,6 +143,8 @@ params:
       url: "https://bsky.app/profile/chrisshort.net"
     - name: "x"
       url: "https://x.com/ChrisShort"
+    - name: "threads"
+      url: "https://www.threads.com/@thechrisshort"
     - name: "Mastodon"
       url: "https://hachyderm.io/@ChrisShort"
     - name: "instagram"
