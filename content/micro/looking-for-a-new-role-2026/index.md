@@ -10,7 +10,7 @@ summary: "Experienced technical storyteller with 30 years bridging deep cloud-na
 tags: ["Job Hunting", "Hire Me", "Kubernetes", "Cloud Native", "DevOps", "marketing", "2026"]
 ShowToc: false
 TocOpen: false
-draft: false
+draft: true
 ---
 
 *Originally shared on [LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7416478485491191808/)*
