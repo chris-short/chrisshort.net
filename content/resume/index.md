@@ -25,6 +25,8 @@ Open source leader, developer advocate, and technical marketer with 30 years of 
 
 ## Professional Experience
 
+### Principal Trainer, KodeKloud — Remote — July 2026 to Present
+
 ### Head of Open Source, CIQ — Remote — Feb 2025 to Jan 2026
 
 * Stood up OSPO: Led a team of four open source professionals dedicated to enabling the Rocky Linux community while fostering open source collaboration internally at CIQ and upstream
