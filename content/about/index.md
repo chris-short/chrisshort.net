@@ -23,11 +23,11 @@ If you need to get in touch with me, please reach out via the [**Contact**](/con
 
 ## Tagline
 
-DevOps'ish | Kubernetes Contributor Comms | Open Source | Corgis | LEGO | Detroit | Disabled Veteran | Views solely mine
+Principal Trainer, KodeKloud | DevOps'ish | Kubernetes Contributor Comms | Open Source | Corgis | Detroit | Disabled Veteran | Views solely mine
 
 ## Headshot
 
-[Chris Short Nov 2025 Headshot](/about/chris-short-headshot-nov-2025-square.jpg)
+[Chris Short Sept 2023 Headshot](/about/Chris-Short-Sept-2023-Profile-Pic-Square.jpeg)
 
 ## Brief Bio
 
